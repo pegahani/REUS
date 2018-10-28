@@ -1,0 +1,687 @@
+dialogue type : fg|s^t^tc
+F :  O K . So , here we are .
+
+dialogue type : s^m
+F :  Once again ,
+
+dialogue type : s^aa
+F :  right ,
+
+dialogue type : s
+F :  together .
+
+dialogue type : fh|s
+F :  Um , so we haven't had a meeting for a while ,
+
+dialogue type : s^e
+F :  and and probably won't have one next week ,
+
+dialogue type : s^df
+F :  I think a number of people are gone .
+
+dialogue type : fh|qh^co^t
+F :  Um , so Robert , why don't you bring us up to date on where we are with EDU ?
+
+dialogue type : s^ba
+F :  Good .
+
+dialogue type : s^aa
+F :  I think so .
+
+dialogue type : s^ar.%--
+F :  Well
+
+dialogue type : s^ar^rt
+F :  No .
+
+dialogue type : s^df
+F :  So y you didn't yet tell us what the output is .
+
+dialogue type : qw
+F :  So what decisions does this make ?
+
+dialogue type : s
+F :  So that was pretty quick .
+
+dialogue type : s
+F :  She 's ac uh uh Eva 's got a little write - up on it
+
+dialogue type : s
+F :  that uh , probably gives the the details to anybody who needs them .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : fh
+F :  so
+
+dialogue type : qy^bu^d
+F :  the You you didn't look at all yet to see if there 's anybody has a implementation .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s.%--
+F :  So one so one of the questions , you know , about these P R Ms is
+
+dialogue type : h|s^cc
+F :  uh , we aren't gonna build our own interpreter ,
+
+dialogue type : s^cs
+F :  so if if we can't find one , then we uh , go off and do something else and wait until s one appears .
+
+dialogue type : fh|s
+F :  Uh , so one of the things that Eva 's gonna do over the next few weeks is see if we can track that down .
+
+dialogue type : fh
+F :  Uh ,
+
+dialogue type : s
+F :  the people at Stanford write papers as if they had one ,
+
+dialogue type : fh|s^am
+F :  but , um , we 'll see .
+
+dialogue type : s
+F :  So w Anyway . So that 's a a major open issue .
+
+dialogue type : s
+F :  If there is an interpreter , it looks like you know , what Eva 's got should run
+
+dialogue type : s
+F :  and we should be able to actually um , try to solve , you know , the problems ,
+
+dialogue type : s^e
+F :  to actually take the data , and do it .
+
+dialogue type : fh|s^am
+F :  Uh , and we 'll see .
+
+dialogue type : s
+F :  Uh , I actually think it is cleaner ,
+
+dialogue type : s
+F :  and the ability to instantiate , you know , instance of people and sites and stuff , um , will help in the expression .
+
+dialogue type : s^no
+F :  Whether the inference gets any faster or not I don't know .
+
+dialogue type : s
+F :  Uh , it wouldn't surprise me if it if it doesn't .
+
+dialogue type : s
+F :  You know , it 's the same kind of information .
+
+dialogue type : s
+F :  I think there are things that you can express this way which you can't express in a normal belief - net ,
+
+dialogue type : fh|s^e
+F :  uh , without going to some incredible hacking
+
+dialogue type : s^e
+F :  of sort of rebuilding it on the fly .
+
+dialogue type : s
+F :  I mean , the notion of instantiating your el elements from the ontology and stuff fits this very nicely and doesn't fit very well into the extended belief - net .
+
+dialogue type : s^df
+F :  So that was one of the main reasons for doing it .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : s^tc
+F :  I don't know .
+
+dialogue type : fh|s.%--
+F :  So , uh , people who have thought about the problem , like Robert
+
+dialogue type : s^cs
+F :  i it looked to me like if Eva were able to come up with a you know , value for each of a number of uh , sites plus its EVA thing ,
+
+dialogue type : s^e
+F :  that a travel planner should be able to take it from there .
+
+dialogue type : fh|s
+F :  And you know , with some other information about how much time the person has and whatever ,
+
+dialogue type : s
+F :  and then plan a route .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : fg|%--
+F : 
+
+dialogue type : s
+F :  That I think was actually in the previous the Ubenth stuff .
+
+dialogue type : s^no
+F :  I don't remember whether they carried that over to this or not ,
+
+dialogue type : fh|s
+F :  uh , structural uncertainty .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fg
+F :  Alright .
+
+dialogue type : fh
+F :  Uh ,
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^cc
+F :  So , uh , the the plan is is when Daphne gets back , we 'll get in touch
+
+dialogue type : s
+F :  and supposedly , um , we 'll actually get s deep seriously connected to to their work
+
+dialogue type : fh
+F :  and
+
+dialogue type : s^cs
+F :  somebody 'll Uh , you know If it 's a group meeting once a week probably someone 'll go down and , whatever .
+
+dialogue type : s^cc
+F :  So , we 'll actually figure all this out .
+
+dialogue type : fg
+F :  Yeah . So , um ,
+
+dialogue type : s^cs
+F :  you could , from this , go on and say suppose there 's a group of people traveling together
+
+dialogue type : fh|s.%-
+F : 
+
+dialogue type : %-
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^cs^j.%--
+F : 
+
+dialogue type : s.%--:s
+F : 
+
+dialogue type : s^aa
+F :  w Exactly .
+
+dialogue type : s^aa
+F :  Yeah . Right .
+
+dialogue type : fg
+F :  Anyway .
+
+dialogue type : s
+F :  So . So there i there are some some u uh , you know , uh , elaborations of this
+
+dialogue type : s^cs^e
+F :  that you could try to put in to this structure ,
+
+dialogue type : s
+F :  but I don't think it 's worth it now .
+
+dialogue type : s^df
+F :  Because we 're gonna see what what else uh what else we 're gonna do .
+
+dialogue type : s^tc
+F :  Anyway .
+
+dialogue type : fh
+F :  But uh ,
+
+dialogue type : s^ba
+F :  it 's good , yeah
+
+dialogue type : s
+F :  and and there were a couple other ideas of of uh , things for Eva to look at
+
+dialogue type : s^e
+F :  in in the interim .
+
+dialogue type : s^cs
+F :  On the other hand , uh , FrameNet could well be useful .
+
+dialogue type : qy^rt
+F :  So do you know the FrameNet story ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^cs
+F :  Oh . Th - that 's another thing you might wanna look into while you 're here .
+
+dialogue type : s^df
+F :  Because , um , you know , the standard story is that keyworks keywords evoke frames , and the frames may well give you additional keywords
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  So there 's a lot of stuff ,
+
+dialogue type : s
+F :  and people are looking at that .
+
+dialogue type : s
+F :  Most of the work here is just trying to get the frames right .
+
+dialogue type : s^e
+F :  There 's linguists and stuff
+
+dialogue type : s^e
+F :  and there 's a lot of it
+
+dialogue type : s
+F :  and they 're they 're busily working away .
+
+dialogue type : s
+F :  But there are some application efforts trying to exploit it .
+
+dialogue type : s^cs
+F :  And this looks t it seems to be that this is a place where you might be able to do that .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  W yeah , I know , I mean it it he w he did w what what he did was much more s sensible for him .
+
+dialogue type : s.%-
+F :  I think uh ,
+
+dialogue type : fg
+F : 
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s^aa
+F :  The idea was there . Yeah , OK .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  So you you guys never sent anybody else from I U .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : fh|s
+F :  Uh , this was supposedly an exchange program ,
+
+dialogue type : s
+F :  and I we you know , it 's fine . We don't care ,
+
+dialogue type : s
+F :  but it just I 'm a little surprised that uh , Andreas didn't come up with anyone else he wanted to send .
+
+dialogue type : b
+F :  Alright .
+
+dialogue type : s
+F :  I mean I had forgotten a I To be honest with you , I 'd totally forgotten we had a program .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s
+F :  No , no . There was a whole co There was a little contract signed .
+
+dialogue type : %--
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Yeah , I know .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^fe
+F :  Oh , right !
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Anyway .
+
+dialogue type : s^cs
+F :  Right . So I thi tha that 's that 's one of the things that might be worth looking into while you 're here .
+
+dialogue type : fh|s
+F :  Uh , unfortunately , Srini , who is heavily involved in DAML and all this sort of stuff is himself out of town .
+
+dialogue type : s^bk
+F :  Right ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  Yeah , for for some reason he 's not doing that .
+
+dialogue type : s^no.%--
+F : 
+
+dialogue type : qh
+F :  oh , I , who knows ?
+
+dialogue type : s
+F :  Anyway , s yeah , you 'll see you 'll certainly see a lot of the people there .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^2
+F :  St - statistical stuff .
+
+dialogue type : s^ba
+F :  That would be a very good idea .
+
+dialogue type : fg|qy^rt^t
+F :  Alright , was there anything else for this ?
+
+dialogue type : s
+F :  One of these times soon we 're gonna hear about construal .
+
+dialogue type : s^bk
+F :  Oh , OK . Right .
+
+dialogue type : s^ba^fe
+F :  Good thinking !
+
+dialogue type : s^df^ng
+F :  Well , no , but he 's he 's he 's he 's as you said , he 's , like the state legislature , he 's trying to offer us bribes .
+
+dialogue type : h|s.%--
+F :  Uh , this this this t the s
+
+dialogue type : s
+F :  we 're , uh , involved in a literally three hundred million dollar uh , program .
+
+dialogue type : fh|s^e
+F :  Uh , with the State of California .
+
+dialogue type : s^df
+F :  And , the State of California is now a month and a half behind its legis its legally required date to approve a budget .
+
+dialogue type : s
+F :  So the budget has not been approved .
+
+dialogue type : s
+F :  And two days ago There 's two l you know , so , two branches of legislature . One branch approved it ,
+
+dialogue type : fh
+F :  and , um ,
+
+dialogue type : s
+F :  yesterdayday there was this uh uh I thought that the other branch would just approve it ,
+
+dialogue type : s
+F :  but now there 's actually a little back sliding to people who who approved it got flak from there ,
+
+dialogue type : s
+F :  eh anyway .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^cc
+F :  Oh ! I have to tell you a wonderful story about this ,
+
+dialogue type : qy^d^g^rt
+F :  OK ?
+
+dialogue type : s^cc
+F :  And then we 'll go .
+
+dialogue type : s
+F :  So , I it turns out I wound up having lunch today with a guy named Tom Kalil .
+
+dialogue type : s^e
+F : 
+
+dialogue type : s^bsc
+F :  KALIL .
+
+dialogue type : fh|s
+F :  And , uh , he now works at Berkeley .
+
+dialogue type : s
+F :  In fact he 's hired to run a lot of CITRIS ,
+
+dialogue type : s^e
+F :  even though we don't have the money they So they 've been hiring people right and left ,
+
+dialogue type : fh|s
+F :  so , uh , they think the money 's coming .
+
+dialogue type : s
+F :  So and he was , I think , the chief staffer to Clinton on technology matters .
+
+dialogue type : s^e
+F :  He was in the White House ,
+
+dialogue type : s^no
+F :  I don't remember what he was saying .
+
+dialogue type : s
+F :  A anyway , like that .
+
+dialogue type : s
+F :  And , is now doing all the politics for CITRIS ,
+
+dialogue type : s
+F :  but also , has a uh , a lot of interest in uh , actually doing things for society ,
+
+dialogue type : s^e
+F :  so digital divide and stuff like that .
+
+dialogue type : s
+F :  So that 's s interesting to me but maybe not to you .
+
+dialogue type : s:s
+F :  But the really interesting thing was , he st he s he s said something about , you know I 'm interested in things that have high social multiplier ,
+
+dialogue type : s^e:s
+F :  something that is of great social value .
+
+dialogue type : s.%--:s
+F :  He said , " for example " ,
+
+dialogue type : s
+F :  this was his only example ,
+
+dialogue type : s:s
+F :  " if you had a adult literacy program that was as good as an individual tutor ,
+
+dialogue type : s^e:s
+F :  and as compelling as a video game ,
+
+dialogue type : s^e:s
+F :  then that would have a huge social impact " .
+
+dialogue type : s:s
+F :  I said , " Oh great ! That 's a good problem to work on . "
+
+dialogue type : fh|s^ba:s
+F :  Anyway . So it was nice that uh , he 's got this view , of A , that 's what you should try to do , and B , uh , language would be a good way to do it .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  So anyway , that 's the end of the story .
+
+dialogue type : %--
+F : 
+
+dialogue type : s^na
+F :  Yeah . I didn't push him on the ch on the child thing ,
+
+dialogue type : fh
+F :  but , uh ,
+
+dialogue type : s.%--
+F :  you know , a again , if if you if you
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : s
+F :  and this was this was literacy ,
+
+dialogue type : s^e
+F :  which actually is somewhat different problem .
+
+dialogue type : s^am
+F :  Maybe easier .
+
+dialogue type : s^no
+F :  I don't know .
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  Another project we started on , and and didn't get funded for was , uh , to try to build an automatic tutoring program , for kids whose first language wasn't English .
+
+dialogue type : s^e
+F :  Which is like half the school population in California .
+
+dialogue type : s^e
+F :  Something like that ,
+
+dialogue type : qy^d^g^rt
+F :  isn't it ?
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s
+F :  enormous problem in California ,
+
+dialogue type : fh|s^cs
+F :  and the idea was if we 're so smart about language understanding and speech understanding , couldn't we build uh , programs that would be tutors for the kids .
+
+dialogue type : s
+F :  We think we could .
+
+dialogue type : s
+F :  Anyway . So so But this is a slightly different problem ,
+
+dialogue type : fh
+F :  and
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : s
+F :  I know none of us have the spare time to look at it right now ,
+
+dialogue type : s^e
+F :  but it i it 's it 's interesting
+
+dialogue type : s:qy
+F :  and I may um , talk to him some more about is em somebody already doing this , and stuff like that .
+
+dialogue type : s^tc
+F :  So anyway , that was that was today 's little story .
+
+dialogue type : s^ar
+F :  No , no .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^ba
+F :  You 're good .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : fg|s^ba
+F :  Anyway . Yeah , so OK , so that 'd be great ,
+
+dialogue type : s
+F :  but I 'd I think it 's it 's time again ,
+
+dialogue type : qy^d^g^rt
+F :  right ?
+
+dialogue type : s^bk
+F :  Yeah . OK .
+
+dialogue type : s^bk
+F :  Good .
+
+dialogue type : s^bk
+F :  Yep .
+
+dialogue type : qy^d^rt
+F :  Done ?
+

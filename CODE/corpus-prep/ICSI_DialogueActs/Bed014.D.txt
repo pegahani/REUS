@@ -1,0 +1,246 @@
+dialogue type : z
+D :  Testing .
+
+dialogue type : z
+D :  Sibilance .
+
+dialogue type : z
+D :  Sibilance . Three , three .
+
+dialogue type : z
+D :  I am three .
+
+dialogue type : z
+D :  See , that matches the seat up there .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : z
+D :  Cuz it 's That starts counting from zero
+
+dialogue type : z
+D :  and these start counting from one .
+
+dialogue type : z
+D :  Ergo , the classic off - by - one error .
+
+dialogue type : z
+D :  Is it ?
+
+dialogue type : z
+D :  Your mike number is what we 're t
+
+dialogue type : z
+D :  Ho !
+
+dialogue type : z
+D :  I 've bested you again , Nancy .
+
+dialogue type : z
+D :  The paper is correct .
+
+dialogue type : z
+D :  I didn't det I was saying the microphone , not the paper .
+
+dialogue type : fg|qy^rt
+D :  So is Keith showing up ?
+
+dialogue type : s
+D :  He 's talking with George right now .
+
+dialogue type : qy
+D :  Uh , is he gonna get a rip uh rip himself away from from that ?
+
+dialogue type : s^bk|qy^bu^d^rt
+D :  Oh , then it 's just gonna be the five of us ?
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : qy^bu^d^rt
+D :  But that 's some sort of conversion program ?
+
+dialogue type : s^cs
+D :  I think you should demand things from him .
+
+dialogue type : s^aa^j
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  the XML trees for the for the gene for the synthesizer are written .
+
+dialogue type : s^rt
+D :  So I just need to do the , uh write a new set of tree combining rules .
+
+dialogue type : s
+D :  But I think those 'll be pretty similar to the old ones .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  I know what he 's talking about .
+
+dialogue type : s
+D :  The guy .
+
+dialogue type : qw.%--
+D :  What language is that written
+
+dialogue type : qy^rt
+D :  i Is that that Scheme thing that you showed me ?
+
+dialogue type : s^bu^rt
+D :  She knows how to program in Scheme ?
+
+dialogue type : s^e^rt
+D :  I hope ?
+
+dialogue type : s^ng^rt
+D :  Well , I guess if you 're not used to functional programming , Scheme can be completely incomprehensible .
+
+dialogue type : s^df.%--
+D : 
+
+dialogue type : s^df
+D :  Like there 's lots of unnamed functions
+
+dialogue type : fh
+D : 
+
+dialogue type : s^f
+D :  You know ?
+
+dialogue type : qy^rt
+D :  Are we gonna Can we change the voice of the of the thing ,
+
+dialogue type : s
+D :  because right now the voice sounds like a murderer .
+
+dialogue type : s
+D : 
+
+dialogue type : s^e
+D :  Smarticus sounds like a murderer .
+
+dialogue type : s^j:s
+D :  " I have your reservations . "
+
+dialogue type : qy^rt
+D :  Does OGI stand for ? Original German Institute ?
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^bk
+D :  Ah .
+
+dialogue type : b
+D :  Hmm !
+
+dialogue type : qw^rt
+D :  How was this by accident ?
+
+dialogue type : s^bk^j
+D :  Yeah .
+
+dialogue type : s
+D :  I I wa I was looking at it .
+
+dialogue type : s
+D :  It doesn't follow logically .
+
+dialogue type : s^e
+D :  It doesn't The first paragraph doesn't seem to have any link to the second paragraph .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^ba^j
+D :  Each paragraph is good , though .
+
+dialogue type : %-
+D :  I li
+
+dialogue type : fg|qh.%--
+D : 
+
+dialogue type : s
+D :  I mean , cuz it would the the thread would know what nodes like , needed to be activated ,
+
+dialogue type : s
+D :  so it could just keep track of how long it 's been since something 's been mentioned , and automatically load it in .
+
+dialogue type : s^bk|s
+D :  We - yeah th th that 's what I wa I wasn't I was I wasn't thinking in terms of Enter schemas .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^cs:s
+D :  You could just hav uh , just basically , ob it It observes an er , it sets the a node for " entered " or " true " or something ,
+
+dialogue type : s^e
+D :  " discourse enter " .
+
+dialogue type : qw^rt
+D :  What uh , what 's the argument for putting it in the construction ?
+
+dialogue type : qo.%-
+D :  Is it just that the s synonym selection is better , or ?
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^bk
+D :  Oh , I see .
+
+dialogue type : fg|s^df
+D :  Yeah , but it he the decisions I made wer had to do with my thesis .
+
+dialogue type : qy^bu
+D :  So consequently don't I get to decide then that it 's Robert 's job ?
+
+dialogue type : %-
+D : 
+
+dialogue type : s.%-
+D :  And the s
+
+dialogue type : qy^rt
+D :  Is the Speech - Gen meeting still at on Tuesdays ?
+
+dialogue type : s^bu
+D :  Although I thought you wanted to go camping on Monday er , take off Mondays a lot so you could go camping .
+
+dialogue type : s
+D :  Ha - ha - ha .
+
+dialogue type : s^ar
+D :  No way !
+
+dialogue type : b
+D :  Hmm , hmm .
+
+dialogue type : s
+D :  Well it definitely makes the problem easier .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qw
+D :  What about What about DDR ?
+
+dialogue type : s^bk
+D :  Mmm .
+

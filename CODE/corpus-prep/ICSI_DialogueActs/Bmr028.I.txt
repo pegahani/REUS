@@ -1,0 +1,867 @@
+dialogue type : b
+I :  Oh .
+
+dialogue type : s^bk|s^bk
+I :  Yeah . That 's great .
+
+dialogue type : qy^rt
+I :  Is that because the transcripts get longer ?
+
+dialogue type : s^e
+I :  The f transcript file gets longer ?
+
+dialogue type : s.%--
+I :  But th but that 's that 's n
+
+dialogue type : s^bu
+I :  You didn't have to change the software for that yet .
+
+dialogue type : qy^bu^d^rt
+I :  Right ?
+
+dialogue type : qy^bu^d^rt
+I :  It 's just formatting the right kind of , uh , XML ?
+
+dialogue type : s^bk
+I :  Mm - hmm . OK .
+
+dialogue type : s^ba|s^bk
+I :  Oh , good . That 's very good . OK .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Cool .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : s^bu
+I :  So this the this uh , the sluggishness of the loading is all due to the parsing of the XML format .
+
+dialogue type : qy^d^g^rt
+I :  Right ?
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : b
+I :  Mmm .
+
+dialogue type : %-
+I :  But d y
+
+dialogue type : s^ar|s
+I :  No . Whenever you load a new meeting or a new transcript .
+
+dialogue type : s^bk
+I :  Right .
+
+dialogue type : s
+I :  You just have to have the thing running before you open your laptop .
+
+dialogue type : s^cs
+I :  Just make shorter files .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : s
+I :  You missed that part .
+
+dialogue type : fg|s^bu
+I :  So If if raw speed is the problem This thing is written in Tcl .
+
+dialogue type : qy^d^g^rt
+I :  Right ?
+
+dialogue type : s
+I :  Y I mean , John Osterhaut , uh Y you know , he started his own company based on Tcl stuff ,
+
+dialogue type : s
+I :  and maybe they have the native code compiler or something .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : s^fe
+I :  Oh , darn .
+
+dialogue type : s
+I :  I haven't done that yet .
+
+dialogue type : s^bk
+I :  Er OK .
+
+dialogue type : s^cs^j.%--
+I : 
+
+dialogue type : s^e^j
+I :  Like in the morning , when I leave for work .
+
+dialogue type : s
+I :  Cold calling at lunch time ? Uh , dinner time , I mean .
+
+dialogue type : qy^rt
+I :  Chuck , you wanna talk about recognition ?
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  I mean , we have segmentations for the old meetings that are from his segmenter ,
+
+dialogue type : fh
+I : 
+
+dialogue type : qy^bu^d^rt
+I :  You you had three different versions , with different , like , pause thresholds between the segments ?
+
+dialogue type : s^bk|qy^bu^d^rt
+I :  Right . And you recommended using the one with two s maximum of two seconds ?
+
+dialogue type : s.%--
+I :  But two s
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : s^bu
+I :  I mean , the only advantage to using the longer threshold would be that you run less risk of missing some some speech .
+
+dialogue type : qy^d^g^rt
+I :  Right ?
+
+dialogue type : s
+I :  But two seconds is pretty long .
+
+dialogue type : fh
+I : 
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : b
+I :  Mmm .
+
+dialogue type : s.%--
+I :  I think two seconds mmm
+
+dialogue type : s^cs
+I :  I would maybe go with one second .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s^cs
+I :  See what the length distribution is .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : qy^bh
+I :  Really ?
+
+dialogue type : s
+I :  Uh bu I 'm I 'm I 'm just scared that with two seconds you get you get , um you you get false recognitions .
+
+dialogue type : s
+I :  You 're gonna Yeah , you 're gonna hurt yourself occasionally by having missing the language model context .
+
+dialogue type : s
+I :  But you might hurt yourself more by having misrecognitions due to background speech , or , uh , y noise , or whatever .
+
+dialogue type : s^bk
+I :  Oh , I see . Then Oh , I see . OK .
+
+dialogue type : s^bk|%-
+I : 
+
+dialogue type : s^bk
+I :  Mm - hmm . OK . Sure .
+
+dialogue type : s
+I :  We can try them all and see which works better .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  OK .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : fg|s^t^tc
+I :  OK . So so we need to split the waveforms , then .
+
+dialogue type : qrr
+I :  Or do you already have them split up ?
+
+dialogue type : s^bu
+I :  No , you don't .
+
+dialogue type : qy^d^g^rt
+I :  Right ?
+
+dialogue type : s
+I :  So so , I guess Don would need your help to to create a new set of split , uh , meetings .
+
+dialogue type : %-
+I : 
+
+dialogue type : b
+I :  Right .
+
+dialogue type : %-
+I :  But th
+
+dialogue type : s^bk|s
+I :  Oh , yeah . There 's that pressure .
+
+dialogue type : s^fa^t3
+I :  Oops . I 'm sorry .
+
+dialogue type : s^bk
+I :  OK .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : s^j
+I :  Pop goes the data .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : %-
+I :  u un
+
+dialogue type : qy^j^rt^t^tc
+I :  Can I have butter on my meeting ?
+
+dialogue type : qy^rt
+I :  I is that independent
+
+dialogue type : qrr
+I :  or related to also being able to write out the , uh , feature file i in the SRI format
+
+dialogue type : %-
+I :  f r
+
+dialogue type : s^bk|s^cs.%-
+I :  Oh , OK . So then you could use , um You could use , um uh , like Feacalc and s just specify as an output format
+
+dialogue type : %--
+I : 
+
+dialogue type : s^bk
+I :  Oh , OK .
+
+dialogue type : s^df
+I :  Th - t I 'm just ignorant about the sof software architecture of this thing .
+
+dialogue type : b
+I :  Uh - huh .
+
+dialogue type : s^ba
+I :  Oh , cool .
+
+dialogue type : s^ba
+I :  Great .
+
+dialogue type : fg|s^t^tc
+I :  So , b speaking of Linux . So Th - there 's some i impetus at , um , SRI to actually u u p th uh , build support Linux as a platform .
+
+dialogue type : fh
+I :  So .
+
+dialogue type : s.%-
+I :  What that means is , once we have , uh , everything running on Linux we can
+
+dialogue type : %--
+I :  also use a Li - eh
+
+dialogue type : s^aa.%-
+I :  Yeah . Exac
+
+dialogue type : s
+I :  I mean , if you can't use all the processors on whatever machine , we 'll help you with that .
+
+dialogue type : s^aa
+I :  Right . Exactly .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : s.%-
+I : 
+
+dialogue type : b
+I :  Uh . Yeah .
+
+dialogue type : s
+I :  Or if uh , you know , in the future , if Linux machines become like way cheaper , than , uh , you know , Solaris machines , then you know , that wouldn't be a reason not to use Linux anymore .
+
+dialogue type : fh
+I :  So .
+
+dialogue type : qy^2^bu^d
+I :  For the meeting ?
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Mmm .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Mmm .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Mmm .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : s.%-
+I : 
+
+dialogue type : b
+I :  Right .
+
+dialogue type : fg|s
+I :  Yeah . That that becomes another problem , actually .
+
+dialogue type : %-
+I :  n s
+
+dialogue type : s^aap
+I :  So , d s so fo not well , for everything .
+
+dialogue type : s^e.%-
+I :  For s for f even feature normalization , for , uh , vocal tract length estimation ,
+
+dialogue type : s
+I :  all of all of these assume you know who 's speaking .
+
+dialogue type : fh
+I :  So ,
+
+dialogue type : s
+I :  you would have to do a speaker segmentation first on the far - field micropho signal .
+
+dialogue type : s
+I :  You mean you wanna cheat .
+
+dialogue type : %-
+I :  No . If i i
+
+dialogue type : s^bk|s^cc
+I :  OK . We g we 're gonna bleep that out .
+
+dialogue type : s^bu
+I :  You mean you do you don't do all those normalizations .
+
+dialogue type : s^ng
+I :  Um , actually We don't have any models .
+
+dialogue type : %-
+I : 
+
+dialogue type : fh
+I : 
+
+dialogue type : s
+I :  A actually , it 's that it 's it 's We would have to retrain models that are not that have none of that stuff , uh , in it .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  We can just run it , assuming that it 's all one speaker , basically .
+
+dialogue type : s
+I :  And see what happens .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : %-
+I : 
+
+dialogue type : %-
+I :  Actually , no . Th - th
+
+dialogue type : s^fa
+I :  Sorry .
+
+dialogue type : s^aa
+I :  Yeah .
+
+dialogue type : %-
+I : 
+
+dialogue type : s
+I :  No , actually , what Here 's here 's what we would usually do u under these circumstances .
+
+dialogue type : s
+I :  We would actually we would run some sort of segmentation .
+
+dialogue type : s
+I :  Thilo 's is as good as any , probably .
+
+dialogue type : fh|s.%--
+I : 
+
+dialogue type : s
+I :  and and put the similar ones into bins that would be sort of pseudo - speakers .
+
+dialogue type : s
+I :  And then we would do our standard processing on these pseudo - speakers .
+
+dialogue type : s
+I : 
+
+dialogue type : s
+I :  those types of tasks , where you don't have the speaker segmentation given to you .
+
+dialogue type : h|s
+I :  Um , you can either do it by target number or by some measure of dissimilarity that you use as a threshold .
+
+dialogue type : s^aa
+I :  Right .
+
+dialogue type : s.%-
+I :  Well , you can do You can you can you can do certain normalizations like , you know , gain control ,
+
+dialogue type : s
+I :  uh , before you do the clustering to rule out those those types of things .
+
+dialogue type : b
+I :  Mmm .
+
+dialogue type : s^bk|s^cs
+I :  OK . That would be fun fun to try .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : s^bk
+I :  OK .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : s^bk|%-
+I : 
+
+dialogue type : s^cs
+I :  Well , first you have to filter the whole training set and retrain .
+
+dialogue type : s^bk
+I :  Oh .
+
+dialogue type : s
+I :  That would solve all of our problems .
+
+dialogue type : qy^d^g^rt
+I :  Wouldn't it ?
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : fg|s
+I :  Right . Then you can do like an you can estimate the the noise estimates .
+
+dialogue type : s^aa
+I :  Right ? Yeah .
+
+dialogue type : b
+I :  Mmm
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : s
+I :  You get out Switchboard .
+
+dialogue type : s^e
+I :  That 's just the lang the language model .
+
+dialogue type : %-
+I :  Ha
+
+dialogue type : fg|s^t^tc
+I :  Yeah . So we have this new speaker adaptation .
+
+dialogue type : fh
+I :  Um
+
+dialogue type : s
+I :  A b Oh , it 's a s sort of feature normalization
+
+dialogue type : %--
+I :  t
+
+dialogue type : s^e
+I :  uh , like f speaker adaptation ,
+
+dialogue type : s^e
+I :  which , uh , which I wr which I wrote about in the last status report ,
+
+dialogue type : s
+I :  which seems to be helping about a percent and a half on Hub - five .
+
+dialogue type : fh|s
+I :  So , um . We haven't tried that yet on the meetings ,
+
+dialogue type : s
+I :  uh , but hopefully it 'll help there , too .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : s
+I :  Well , we we have a frozen we do all our experiments with a frozen version of the transcripts as of , I don't know
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s^ar|%--
+I : 
+
+dialogue type : s^no
+I :  I don't know .
+
+dialogue type : qw
+I :  When when did we grab the transcripts ?
+
+dialogue type : %-
+I : 
+
+dialogue type : s
+I :  We 're talking about which which version we 're using for evaluating the recognition .
+
+dialogue type : s^e
+I :  Which version of the transcripts .
+
+dialogue type : s^ar
+I :  No , no .
+
+dialogue type : s^aa
+I :  Yeah . O obviously . Yeah .
+
+dialogue type : s.%-
+I : 
+
+dialogue type : %-
+I : 
+
+dialogue type : fg|%-
+I : 
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s^cs.%-
+I : 
+
+dialogue type : qw^br^rt
+I :  Sorry ?
+
+dialogue type : %-
+I : 
+
+dialogue type : %-
+I : 
+
+dialogue type : s^aa
+I :  Right .
+
+dialogue type : s.%-
+I : 
+
+dialogue type : b
+I :  Right .
+
+dialogue type : s
+I :  So , whenever the Right now , the s the scoring is based on segments .
+
+dialogue type : s
+I :  Um , which is not great
+
+dialogue type : s^df.%--
+I : 
+
+dialogue type : s
+I :  So so , the the other way to do the scoring is using a a NIST format called STM . S
+
+dialogue type : s
+I :  uh , Segment Time Marked ,
+
+dialogue type : %-
+I : 
+
+dialogue type : s
+I :  So , um , I have to convert the , uh , transcripts into this format , and then the scoring program actually looks at the times .
+
+dialogue type : s
+I :  And , uh , you know , it You can have a different segmentation in your recognizer output than in your references ,
+
+dialogue type : s
+I :  and it will still do the right thing .
+
+dialogue type : s.%-
+I : 
+
+dialogue type : qw^br^rt
+I :  Hmm ?
+
+dialogue type : s^bk
+I :  Oh .
+
+dialogue type : s^bd
+I :  Well . But then there 's other changes .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  We we strip away a lot of the mark - up , uh , in the transcripts ,
+
+dialogue type : s
+I :  which , you know , isn't relevant to the scoring of the speech recognition output .
+
+dialogue type : fh
+I :  So
+
+dialogue type : s^ar|s.%--
+I :  No . I mean if suppo
+
+dialogue type : s^bu
+I :  I I assume you also changed some boundaries .
+
+dialogue type : qy^d^g^rt
+I :  Right ?
+
+dialogue type : s
+I :  So , if we want to use new transcripts with a different segmentation , then we can't use them in the current way we do scoring .
+
+dialogue type : s.%-
+I :  We have to m m switch to this o
+
+dialogue type : s^ar|s.%--
+I :  No . We have to r
+
+dialogue type : s.%-
+I : 
+
+dialogue type : s^aa
+I :  Right . Right .
+
+dialogue type : s^aa
+I :  That 's true .
+
+dialogue type : s^ar|s.%--
+I : 
+
+dialogue type : s
+I :  Like , suppose you fixed some typ No , Jane fixed some typos and you wanna see what effect does that have on the word error ,
+
+dialogue type : s.%--
+I :  then we can f we c
+
+dialogue type : s^ar|s^df.%--
+I :  No , but that 's what the pr
+
+dialogue type : s
+I :  Well , that 's what I 'm saying .
+
+dialogue type : s
+I :  You can line them up based on the times .
+
+dialogue type : s
+I :  So the scoring program with if you give it an STM reference file , it will actually compare the words based on their time marks .
+
+dialogue type : s.%--
+I :  So therefore , you can ,
+
+dialogue type : fh
+I : 
+
+dialogue type : s
+I :  It 's per utterance ,
+
+dialogue type : s^df
+I :  but it it allows As long as you hypothesize the word in the right segment in the reference , it gives you credit for that .
+
+dialogue type : s
+I :  So it does a it does a word alignment , like you have to do for scoring ,
+
+dialogue type : s
+I :  but it constrains the words to lie within the t the time bins of the reference .
+
+dialogue type : s^e
+I :  And fo for you to get a credit for it .
+
+dialogue type : fh
+I :  So .
+
+dialogue type : s
+I :  So so , it 's it should be just a straightforward re - formatting issue of the references .
+
+dialogue type : fh
+I :  So .
+
+dialogue type : s^df
+I :  It 's a it 's a technical term .
+
+dialogue type : fg|s^cs
+I :  If i Well , you i i in a To a broader audience you could call it a diagnostic experiment , rather than a cheating experiment .
+
+dialogue type : s
+I :  But they don't run experiments .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : s
+I :  It 's like a disclaimer .
+
+dialogue type : s
+I :  Now we have to l delete that expletive .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : b
+I :  Mmm .
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : qy^rt
+I :  But weren't you cheating in those experiments ?
+
+dialogue type : %-
+I : 
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : qw
+I :  What does it put out ?
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : b
+I :  Mmm .
+
+dialogue type : fg|s.%-
+I :  Yeah . You could still eh
+
+dialogue type : s
+I :  Well , it 's even If y if you could still transcribe the words based on the far - field microphone or something , you could , uh , still use it for , say , language modeling ,
+
+dialogue type : s^f
+I :  you know .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : %-
+I : 
+
+dialogue type : b
+I :  Right .
+
+dialogue type : s.%-
+I : 
+
+dialogue type : s
+I :  there 's there 's no shortage of meetings ,
+
+dialogue type : fh
+I :  so
+
+dialogue type : s.%--
+I :  we can afford we can a
+
+dialogue type : b
+I :  Hmm .
+
+dialogue type : h
+I :  Hmm .
+
+dialogue type : fg|s
+I :  Hmm . Hey , I bet there 's tea .
+
+dialogue type : s^aa
+I :  Yeah .
+
+dialogue type : s
+I :  Hey , I 've never done one of those .
+
+dialogue type : s^bk
+I :  Right .
+
+dialogue type : z
+I :  Sev
+

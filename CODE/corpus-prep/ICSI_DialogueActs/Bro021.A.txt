@@ -1,0 +1,123 @@
+dialogue type : s^fa^t3
+A :  Sorry .
+
+dialogue type : h|s^rt
+A :  Um , still working on my my quals preparation stuff .
+
+dialogue type : fh|s
+A :  Um , so I 'm I 'm thinking about , um , starting some , uh , cheating experiments to , uh , determine the , um the relative effectiveness of , um , some intermediate categories that I want to classify .
+
+dialogue type : s^e
+A :  So , for example , um , if I know where voicing occurs and everything , um , I would do a phone um , phone recognition experiment ,
+
+dialogue type : fh|s^e
+A :  um , somehow putting in the the , uh the perfect knowledge that I have about voicing .
+
+dialogue type : fh|s
+A :  So , um , in particular I was thinking , um , in in the hybrid framework , just taking those LNA files , and , um , setting to zero those probabilities that , um that these phones are not voicing .
+
+dialogue type : s^e
+A :  So say , like , I know this particular segment is voicing ,
+
+dialogue type : fh|s^e
+A :  um , I would say , uh , go into the corresponding LNA file and zonk out the the posteriors for , um , those phonemes that , um , are not voiced ,
+
+dialogue type : s
+A :  and then see what kinds of improvements I get .
+
+dialogue type : s^df
+A :  And so this would be a useful thing , um , to know in terms of , like , which which , um which of these categories are are good for , um , speech recognition .
+
+dialogue type : fh|%--
+A : 
+
+dialogue type : s^cc
+A :  I hope to get those , uh those experiments done by by the time quals come come around in July .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bk|s
+A :  OK , so just set to set to some really low number , the the non - voiced , um , phones .
+
+dialogue type : qy^d^f^g^rt
+A :  Right ?
+
+dialogue type : s
+A :  And then renormalize .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : %--
+A :  m
+
+dialogue type : fh|s
+A : 
+
+dialogue type : s^e
+A :  TIMIT uh , phone recognition with TIMIT .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : fh|s
+A :  Um , the outputs of the net go into the standard , h um , ICSI hybrid , um , recognizer .
+
+dialogue type : s
+A :  So maybe , um , Chronos
+
+dialogue type : %-
+A : 
+
+dialogue type : s^m^na
+A :  Phone recognition .
+
+dialogue type : s^aa
+A :  Right , right .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : fh|s^cs
+A :  And , uh , another thing would be to extend this to , uh , digits or something where I can look at whole words .
+
+dialogue type : s^df
+A :  And I would be able to see , uh , not just , like , phoneme events , but , um , inter - phoneme events .
+
+dialogue type : s^e
+A :  So , like , this is from a stop to to a vo a vocalic
+
+dialogue type : s^e
+A :  segment .
+
+dialogue type : qy^d^f^g^rt
+A :  You know ,
+
+dialogue type : s^e
+A :  so something that is transitional in nature .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s
+A :  So that 's that 's it .
+
+dialogue type : b
+A :  Yeah .
+

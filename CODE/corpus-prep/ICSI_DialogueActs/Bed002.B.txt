@@ -1,0 +1,1512 @@
+dialogue type : qw
+B :  So , which is my bar ?
+
+dialogue type : %--
+B :  Mah !
+
+dialogue type : s
+B :  Number one .
+
+dialogue type : s^2
+B :  For our stuff .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^na
+B :  I sent an email .
+
+dialogue type : s^cs
+B :  Well , we can make up aliases for each of us .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  I 'm sure it 's pretty usual for meetings that people come late ,
+
+dialogue type : s
+B :  so you will have to leave what you set .
+
+dialogue type : qy^d^rt
+B :  Input ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s
+B :  There we go .
+
+dialogue type : b
+B :  Yep .
+
+dialogue type : s^na
+B :  I got it .
+
+dialogue type : %-
+B :  Wel - we I
+
+dialogue type : s
+B :  It 's really simple though .
+
+dialogue type : s
+B :  So this is the idea .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s
+B :  We could pursue , um , if we thought it 's it 's worth it but , uh , I think we we will agree on that , um , to come up with a with a sort of very , very first crude prototype ,
+
+dialogue type : s
+B :  and do some implementation work , and do some some research , and some modeling .
+
+dialogue type : s.%--
+B :  So the idea is if you want to go somewhere ,
+
+dialogue type : fh
+B :  um , and
+
+dialogue type : s^co.%--
+B : 
+
+dialogue type : s^t1
+B :  Oh , I can actually walk with this .
+
+dialogue type : s^ba^t1
+B :  This is nice .
+
+dialogue type : s^co
+B :  down here .
+
+dialogue type : s
+B :  That 's the Powder - Tower .
+
+dialogue type : s
+B :  Now , um , we found in our , uh , data and from experiments , that there 's three things you can do .
+
+dialogue type : fh|s
+B :  Um , you can walk this way , and come really , really close to it .
+
+dialogue type : s^e
+B :  And touch it .
+
+dialogue type : s
+B :  But you cannot enter or do anything else .
+
+dialogue type : s
+B :  Unless you 're interested in rock climbing , it won't do you no good standing there .
+
+dialogue type : s
+B :  It 's just a dark alley .
+
+dialogue type : s
+B :  But you can touch it .
+
+dialogue type : s
+B :  If you want to actually go up or into the tower , you have to go this way ,
+
+dialogue type : s
+B :  and then through some buildings and up some stairs and so forth .
+
+dialogue type : s
+B :  If you actually want to see the tower , and that 's what actually most people want to do , is just have a good look of it , take a picture for the family , you have to go this way , and go up here .
+
+dialogue type : s
+B :  And there you have a vre really view It exploded , the during the Thirty
+
+dialogue type : s
+B :  years - war . Really uh , interesting sight .
+
+dialogue type : fh|s^rt
+B :  And um , these uh these lines are , um , paths ,
+
+dialogue type : s.%--
+B :  or so That 's ab er , i
+
+dialogue type : s
+B :  the street network of our geographic information system .
+
+dialogue type : s
+B :  And you can tell that we deliberately cut out this part .
+
+dialogue type : s^df
+B :  Because otherwise we couldn't get our GIS system to take to lead people this way .
+
+dialogue type : s
+B :  It would always use the closest point to the object ,
+
+dialogue type : s
+B :  and then the tourists would be faced , you know , in front of a wall ,
+
+dialogue type : s
+B :  but it would do them absolutely no good .
+
+dialogue type : s
+B :  So , what we found interesting is , first of all , intentions differ .
+
+dialogue type : s
+B :  Maybe you want to enter a building .
+
+dialogue type : s
+B :  Maybe you want to see it ,
+
+dialogue type : s
+B :  take a picture of it .
+
+dialogue type : s
+B :  Or maybe you actually want to come as close as possible to the building .
+
+dialogue type : s
+B :  For whatever reason that may be .
+
+dialogue type : s^rt
+B :  Um , r red limestone .
+
+dialogue type : s^aa|s^m^na
+B :  Yeah , maybe you would want to touch it .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s^rt
+B :  Okay , I This , um These intentions , we w w we could , if we want to , call it the the Vista mode ,
+
+dialogue type : s^rt
+B :  where we just want to eh s get the overview or look at it ,
+
+dialogue type : s
+B :  the Enter mode ,
+
+dialogue type : s
+B :  and the , well , Tango mode .
+
+dialogue type : s
+B :  I always come up with with silly names .
+
+dialogue type : s
+B :  So this " Tango " means , literally translated , " to touch " .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  If you don't have the intention of entering your building , but you know that something is really close to it , and you just want to approach it , or get to that building .
+
+dialogue type : s
+B :  Consider , for example , the Post Office in Chicago , a building so large that it has its own zip code .
+
+dialogue type : s
+B :  So the entrance could be miles away from the closest point .
+
+dialogue type : s
+B :  So sometimes it m m m makes sense maybe to d to distinguish there .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bd^df
+B :  Uh , I didn't look through all the data .
+
+dialogue type : s
+B :  um , and there there 's uh , a lot more different ways in people uh , the ways people phrase how to g get if they want to get to a certain place .
+
+dialogue type : s
+B : 
+
+dialogue type : fh|s
+B :  Um . Maybe I should go back a couple of steps
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  You need to sign some stuff and read some digits .
+
+dialogue type : s
+B :  O or later .
+
+dialogue type : s
+B :  They are uncomfortable .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yep .
+
+dialogue type : fg|s^t^tc
+B :  OK , but that was our idea .
+
+dialogue type : %-
+B : 
+
+dialogue type : %-
+B : 
+
+dialogue type : fg|s
+B :  OK . That was the idea .
+
+dialogue type : s^rt
+B :  Um , people , when they w when they want to go to a building , sometimes they just want to look at it .
+
+dialogue type : s^rt
+B :  Sometimes they want to enter it .
+
+dialogue type : s
+B :  And sometimes they want to get really close to it .
+
+dialogue type : s
+B :  That 's something we found .
+
+dialogue type : s
+B :  It 's just a truism .
+
+dialogue type : s
+B :  And the places where you will lead them for these intentions are sometimes ex in incredibly different .
+
+dialogue type : s
+B :  I I gave an example where the point where you end up if you want to look at it is completely different from where if you want to enter it .
+
+dialogue type : s^rt
+B :  So , this is sort of how people may , uh may phrase those requests to a a a mock - up system at least that 's the way they did it .
+
+dialogue type : s:qw
+B :  And we get tons of of these " how do I get to " , " I want to go to " ,
+
+dialogue type : s:s
+B :  but also , " give me directions to " , and " I would like to see " .
+
+dialogue type : fh|s.%--
+B : 
+
+dialogue type : s
+B :  That was the wrong one .
+
+dialogue type : s
+B :  um , we can look at some factors that may make a difference .
+
+dialogue type : s.%--
+B :  First of all ,
+
+dialogue type : s^ba
+B :  very important ,
+
+dialogue type : s
+B :  and um , that I 've completely forgot that when we talked .
+
+dialogue type : s:qw
+B :  This is of course a crucial factor , " what type of object is it ? "
+
+dialogue type : s
+B :  So , some buildings you just don't want to take pictures of .
+
+dialogue type : s^e
+B :  Or very rarely .
+
+dialogue type : s
+B :  But you usually want to enter them .
+
+dialogue type : s
+B :  Some objects are more picturesque ,
+
+dialogue type : s^e
+B :  and you more f more highly photographed .
+
+dialogue type : s
+B :  Then of course the the actual phrases may give us some idea of what the person wants .
+
+dialogue type : fh|s
+B :  Um . Sometimes I found in the Uh , looking at the data , in a superficial way , I found some s sort of modifiers that that m may also give us a hint ,
+
+dialogue type : fh|s:s
+B :  um , " I 'm trying to get to "
+
+dialogue type : qy^d^f^g
+B :  Nuh ?
+
+dialogue type : s:s
+B :  " I need to get to " .
+
+dialogue type : s
+B :  Sort of hints to the fact that you 're not really sightseeing and and just f there for pleasure and so forth and so on .
+
+dialogue type : s
+B :  And this leads us straight to the context which also should be considered .
+
+dialogue type : s
+B :  That whatever it is you 're doing at the moment may also inter influence the interpretation of of a phrase .
+
+dialogue type : s.%--
+B :  So , this is , uh , really
+
+dialogue type : fh
+B : 
+
+dialogue type : s^rt
+B :  My suggestion is really simple .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Now , Let me , uh , say one more thing .
+
+dialogue type : s
+B :  What we do know , is that the parser we use in the SmartKom system will never differentiate between any of these .
+
+dialogue type : s
+B :  So , basically all of these things will result in the same XML M - three - L structure .
+
+dialogue type : s^rt
+B :  Sort of action " go " ,
+
+dialogue type : s^e
+B :  and then an object .
+
+dialogue type : qy^d^f^g
+B :  Yeah ?
+
+dialogue type : s^e
+B :  and a source .
+
+dialogue type : s
+B :  So it 's it 's it 's way too crude to d capture those differences in intentions .
+
+dialogue type : s^rt:s^fe
+B :  So , I thought , " Mmm !
+
+dialogue type : s
+B :  Maybe for a deep understanding task , that 's a nice sort of playground or first little thing . "
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  " OK , we need , we gonna get those M - three - L structures .
+
+dialogue type : s
+B :  The crude , undifferentiated parse .
+
+dialogue type : s^e
+B :  Interpreted input .
+
+dialogue type : s
+B :  We may need additional part of speech , or maybe just some information on the verb , and modifiers , auxiliaries .
+
+dialogue type : s^rt
+B :  We 'll see .
+
+dialogue type : s^cc^rt
+B :  And I will try to to sort of come up with a list of factors that we need to get out of there ,
+
+dialogue type : s
+B :  and maybe we want to get a g switch for the context .
+
+dialogue type : s
+B :  So this is not something which we can actually monitor , now ,
+
+dialogue type : s
+B :  but just is something we can set .
+
+dialogue type : s
+B :  And then you can all imagine sort of a a constrained satisfaction program , depending on on what , um , comes out .
+
+dialogue type : s.%--
+B :  We want to have an a structure resulting
+
+dialogue type : s
+B :  if we feed it through a belief - net or or something along those lines . We 'd get an inferred intention , we we produce a structure that differentiates between the Vista , the Enter , and the , um , Tango mode .
+
+dialogue type : s
+B :  Which I think we maybe want to ignore .
+
+dialogue type : s^rt
+B :  But . That 's my idea .
+
+dialogue type : s
+B :  It 's up for discussion .
+
+dialogue type : s
+B :  We can change all of it ,
+
+dialogue type : s
+B :  any bit of it .
+
+dialogue type : s
+B :  Throw it all away .
+
+dialogue type : s^aa|s
+B :  Yeah . As i a sort of , as I get ideas ,
+
+dialogue type : %--
+B :  uh w uh .
+
+dialogue type : s^df
+B :  So , discourse I I I thought about that .
+
+dialogue type : s
+B :  Of course that needs to sort of go in there .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^2
+B :  People won't want to enter it .
+
+dialogue type : %--
+B :  s b
+
+dialogue type : s
+B :  But maybe that 's a false state of the system , that it 's too close to call .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^tc
+B :  I have one more point to to Bhaskara 's question .
+
+dialogue type : s
+B :  Um , I think also the the the deep understanding part of it is is going to be in there to the extent that we um , want it in terms of our modeling .
+
+dialogue type : s
+B :  We can start , you know , basic from human beings ,
+
+dialogue type : s
+B :  model that ,
+
+dialogue type : s
+B :  its motions ,
+
+dialogue type : s^e
+B :  going , walking , seeing ,
+
+dialogue type : s
+B :  we can mem model all of that
+
+dialogue type : s
+B :  and then compose whatever inferences o we make out of these really conceptual primitives .
+
+dialogue type : s
+B :  That will be extremely deep in the in in in my understanding .
+
+dialogue type : qy^bu^d^rt
+B :  The parser output ?
+
+dialogue type : s
+B :  " Analyzed speech " I think it 's what they call it ,
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  o th No , actually , intention lattices is what we 're gonna get .
+
+dialogue type : s
+B :  In - in a intention lattice k Hypothesis .
+
+dialogue type : s
+B :  They call it intention hypotheses .
+
+dialogue type : s
+B :  Well , they keep it .
+
+dialogue type : s^e
+B :  We have to request it .
+
+dialogue type : qy^d^f^g
+B :  Nuh ?
+
+dialogue type : s
+B :  But it 's not in there .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : %-
+B :  Yeah , or i
+
+dialogue type : fg|s
+B :  Well Uh , th the there is a p a point there if I understand you . Correct ?
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s^df
+B : 
+
+dialogue type : s
+B :  This you find very often .
+
+dialogue type : s:qw
+B :  " Where is the city hall ? "
+
+dialogue type : s
+B :  And this do they don't wanna sh see it on a map ,
+
+dialogue type : s^rt
+B :  or they don't wanna know it 's five hundred yards away from you , or that it 's to the your north .
+
+dialogue type : s
+B :  They wanna go there .
+
+dialogue type : s:qw
+B :  That 's what they say , is , " Where is it ? " .
+
+dialogue type : s:qw
+B :  Where is that damn thing ?
+
+dialogue type : s
+B :  Well , that 's a a question mark .
+
+dialogue type : %--
+B :  sh
+
+dialogue type : s.%--
+B :  A lot of parsers , um ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B :  That 's way beyond their scope , is of interpreting that .
+
+dialogue type : s^f
+B :  You know ?
+
+dialogue type : fh
+B :  But um ,
+
+dialogue type : s
+B :  still outcome w the outcome will be some form of structure ,
+
+dialogue type : s
+B :  with the town hall and maybe saying it 's a WH focus on the town hall .
+
+dialogue type : s.%--
+B :  But to interpret it ,
+
+dialogue type : s^f^rt
+B :  you know ?
+
+dialogue type : s
+B :  somebody else has to do that job later .
+
+dialogue type : s
+B :  Um , it will probably tell you how far away it is ,
+
+dialogue type : s
+B :  at least that 's That 's even what Deep Map does .
+
+dialogue type : s^rt
+B :  It tells you how far away it is ,
+
+dialogue type : s
+B :  and and shows it to you on a map .
+
+dialogue type : s^df
+B :  Because i we can not differentiate , at the moment , between , you know , the intention of wanting to go there or the intention of just know wanting to know where where it is .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  It 's a granularity factor ,
+
+dialogue type : s^df:qw
+B :  because where people ask you , " Where is New York ? " , you will tell them it 's on the East Coast .
+
+dialogue type : s^df^e
+B :  Y y eh you won't tell them how to get there , ft you know , take that bus to the airport and blah - blah - blah .
+
+dialogue type : s
+B :  But if it 's the post office , you will tell them how to get there .
+
+dialogue type : s
+B :  So th They have done some interesting experiments on that in Hamburg as well .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fg|s
+B :  So I w this is " onto " is is knowledge about buildings ,
+
+dialogue type : s
+B :  their opening times ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^f
+B :  You know .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Nuh .
+
+dialogue type : s
+B :  History .
+
+dialogue type : s^e
+B :  Discourse history .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yep .
+
+dialogue type : s^2^cs
+B :  We need a different , uh , engine .
+
+dialogue type : s^bsc
+B :  Machine , I mean .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s.%-
+B :  But , only w
+
+dialogue type : %-
+B :  Muh .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : %-
+B : 
+
+dialogue type : %-
+B : 
+
+dialogue type : s^nd
+B :  Not from that data .
+
+dialogue type : s
+B :  But , um , since we are designing a a a an , compared to this , even bigger data collection effort , um , we will definitely take care to put it in there ,
+
+dialogue type : s
+B :  in some shape , way , form over the other ,
+
+dialogue type : s
+B :  to see whether we can , then , get sort of empirically validated data .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qh^df
+B :  an and that 's that but that isn't that what we need for a belief - net anyhow ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^rt
+B :  s sometimes when people want to just see it , they phrase it more like this ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qy^d^f^g
+B :  you know ?
+
+dialogue type : s
+B :  But then other factors may come into play that change the outcome of their belief - net .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^df
+B :  Because y you can never be sure .
+
+dialogue type : s:s
+B :  And I 'm sure even i the most , sort of , deliberate data collection experiment will never give you data that say , " Well , if it 's phrased like that , the intention is this . "
+
+dialogue type : s.%-
+B : 
+
+dialogue type : %-
+B :  We
+
+dialogue type : s^aa
+B :  Yeah !
+
+dialogue type : s
+B :  That 's what we 're doing .
+
+dialogue type : s
+B :  But but we will still get the phrasing all over the place .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^ar
+B :  No , no .
+
+dialogue type : s^ar^r
+B :  No .
+
+dialogue type : h
+B :  Uh ,
+
+dialogue type : s^ar|%--
+B : 
+
+dialogue type : s^aap
+B :  i it was mobile
+
+dialogue type : s
+B :  but not not with a w a real wizard system .
+
+dialogue type : s
+B :  So there were never answers .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^df
+B :  But It was never th th the goal of that data collection to to serve for sat for such a purpose .
+
+dialogue type : s
+B :  So that 's why for example the tasks were not differentiated by intentionality ,
+
+dialogue type : s
+B :  there was n there was no label ,
+
+dialogue type : s^e
+B :  you know , intention A , intention B , intention C .
+
+dialogue type : s^e
+B :  Or task A , B , C .
+
+dialogue type : fh
+B :  Um
+
+dialogue type : s
+B :  I 'm sure we can produce some if we need it ,
+
+dialogue type : s
+B :  um , that that will help us along those lines .
+
+dialogue type : s
+B :  But , you know , you gotta leave something for other people to model .
+
+dialogue type : s
+B :  So , to Finding out what , you know , situational con what the contextual factors of the situation really are , you know is an interesting s interesting thing .
+
+dialogue type : s
+B :  u u Sort of I 'm , at the moment , curious and I 'm I 'm s w want to approach it from the end where we can s sort of start with this toy system that we can play around with ,
+
+dialogue type : s
+B :  so that we get a clearer notion of what input we need for that ,
+
+dialogue type : s
+B :  what suffices and what doesn't .
+
+dialogue type : s
+B :  And then we can start worrying about where to get this input ,
+
+dialogue type : qh
+B : 
+
+dialogue type : s^rt
+B :  Ultimately once we are all experts in changing that parser , for example , maybe , there 's just a couple three things we need to do
+
+dialogue type : s
+B :  and then we get more whatever , part of speech and more construction - type - like stuff out of it .
+
+dialogue type : s
+B :  It 's a m pragmatic approach , uh , at the moment .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  Imagine you 're the the subject .
+
+dialogue type : s^rt
+B :  You 're gonna be in here ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  And and you see , uh , either th the three - D model , or uh , a QuickTime animation of standing u in a square in Heidelberg .
+
+dialogue type : s
+B :  So you actually see that .
+
+dialogue type : fh
+B :  Um . The uh ,
+
+dialogue type : s
+B :  um , first thing is you have to read a text about Heidelberg .
+
+dialogue type : s
+B :  So , just off a textbook , uh , tourist guide , to familiarize , uh , yourself with that sort of odd - sounding German street names , like Fischergasse and so forth .
+
+dialogue type : s
+B :  So that 's part one .
+
+dialogue type : s
+B :  Part two is , you 're told that this huge new , wonderful computer system exists , that can y tell you everything you want to know ,
+
+dialogue type : s
+B :  and it understands you completely .
+
+dialogue type : s
+B :  And so you 're gonna pick up that phone ,
+
+dialogue type : s
+B :  dial a number ,
+
+dialogue type : s
+B :  and you get a certain amount of tasks that you have to solve .
+
+dialogue type : s
+B :  First you have to know find out how to get to that place ,
+
+dialogue type : s
+B :  maybe with the intention of buying stamps in there .
+
+dialogue type : s
+B :  Maybe So , the next task is to get to a certain place and take a picture for your grandchild .
+
+dialogue type : s
+B :  The third one is to get information on the history of an object .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  And then the g system breaks down .
+
+dialogue type : s^rt
+B :  It crashes ,
+
+dialogue type : %-
+B : 
+
+dialogue type : s^ng
+B :  After the third task .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Or after the fourth .
+
+dialogue type : s^co
+B :  Some find @ @ Forget that for now .
+
+dialogue type : s^rt
+B :  And then , a human operator comes on , and and exp apologizes that the system has crashed ,
+
+dialogue type : s|qy^d^f^g
+B :  but , you know , urges you to continue , you know ?
+
+dialogue type : s
+B :  now with a human operator .
+
+dialogue type : s
+B :  And so , you have basically the same tasks again ,
+
+dialogue type : s
+B :  just with different objects ,
+
+dialogue type : s^rt
+B :  and you go through it again ,
+
+dialogue type : s
+B :  and that was it .
+
+dialogue type : fg|s
+B : 
+
+dialogue type : s
+B :  w And uh , the computer you are you are being told the computer system knows exactly where you are , via GPS .
+
+dialogue type : s
+B :  When the human operator comes on , um , that person does not know .
+
+dialogue type : s^rt
+B :  So the GPS is crashed as well .
+
+dialogue type : s:qw
+B :  So the person first has to ask you " Where are you ? " .
+
+dialogue type : s
+B :  And so you have to do some s tell the person sort of where you are , depending on what you see there .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qy^rt
+B :  Did we discuss that bit ?
+
+dialogue type : s
+B :  Uh , I just sort of squeezed that in now .
+
+dialogue type : s
+B :  But it 's something , uh , that would provide some very interesting data for some people I know .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  a Additionally , y you have a a a sort of a map type display .
+
+dialogue type : s^arp
+B :  Uh , two - D .
+
+dialogue type : %-
+B :  n
+
+dialogue type : s^na^r
+B :  Two - D .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : %-
+B :  b y
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : s
+B :  I but y I don't think you really move ,
+
+dialogue type : s^e
+B :  sort of .
+
+dialogue type : qy^d^f^g
+B :  Yeah ?
+
+dialogue type : s^df
+B :  I mean that would be an an an enormous technical effort ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  We can show it walks to , you know .
+
+dialogue type : s
+B :  We can have movies of walking ,
+
+dialogue type : s
+B :  you walking through through Heidelberg , and u ultimately arriving there .
+
+dialogue type : s
+B :  Maybe we wanna do that .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  You want to go to that place .
+
+dialogue type : s
+B :  You know , and it 's sort of there .
+
+dialogue type : s^rt
+B : 
+
+dialogue type : s
+B :  So we get those names , pronunciation stuff , and so forth ,
+
+dialogue type : s
+B :  and we can change that .
+
+dialogue type : s
+B :  Well , we 'll see what people do .
+
+dialogue type : s^aa|s
+B :  Yeah , and and we will record both sides .
+
+dialogue type : s
+B : 
+
+dialogue type : s^rt
+B :  I mean , in both cases it 's gonna be a human , in the computer , and in the operator case .
+
+dialogue type : s
+B :  And we will re there will be some dialogue , you know ?
+
+dialogue type : s
+B :  So , you first have to do this , and that ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  see wh what they say .
+
+dialogue type : s
+B :  We can ins instruct the , uh , wizard in how expressive and talkative he should be .
+
+dialogue type : fh
+B :  But um ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qy^bu^rt
+B :  Is what you 're suggesting that it might be too poor , the data , if we sort of limit it to this ping pong one t uh , task results in a question and then there 's an answer and that 's the end of the task ?
+
+dialogue type : s^bu^e
+B :  You wanna m have it more more steps , sort of ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^ba
+B :  n No one is , at the moment .
+
+dialogue type : s^2
+B :  To come as close as possible to it .
+
+dialogue type : %-
+B :  S
+
+dialogue type : qy^bu^d^rt
+B :  To " Waltz " it ?
+
+dialogue type : %-
+B :  An - Nuh .
+
+dialogue type : s
+B :  And it and it may serve as a platform for a person , maybe me , or whoever , who is interested in doing some linguistic analysis .
+
+dialogue type : s
+B :  I mean , w we have the For - FrameNet group here ,
+
+dialogue type : s
+B :  and we can see what they have found out about those concepts already ,
+
+dialogue type : s^e
+B :  that are contained in the data ,
+
+dialogue type : fh|s
+B :  um , you know , to come up with a nice little set of features
+
+dialogue type : fh|s
+B :  and um , maybe even means of s uh , extracting them .
+
+dialogue type : s
+B :  And and that altogether could also be uh , become a nice paper that 's going to be published somewhere , if we sit down and write it .
+
+dialogue type : fh
+B : 
+
+dialogue type : qy^bu^d^rt
+B :  When you said JavaBayes belief - net you were talking about ones that run on coffee ?
+
+dialogue type : qrr
+B :  or that are in the program language Java ?
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : %-
+B :  But i
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  For example , this th th the dialogue history is is um , producing XML documents .
+
+dialogue type : s
+B :  M - three - L of course is XML .
+
+dialogue type : s.x
+B :  And the ontology that um , uh the student is is constructing for me back in in EML is in OIL and that 's also in XML .
+
+dialogue type : s.x
+B :  And so that 's where a lot of knowledge about bakeries , about hotels , about castles and stuff is gonna come from .
+
+dialogue type : s
+B :  Um , so , if it has that IO capability and if it 's a Java package , it will definitely be able We can couple .
+
+dialogue type : qh^df
+B :  Who isn't ,
+
+dialogue type : qy^d^f^g
+B :  nuh ?
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : fg|s^rt
+B :  Yeah . Yeah , I like , for example , the what you said about the getting input from from just files about where you h where you have the data , have specified the features and so forth .
+
+dialogue type : s
+B :  That 's , of course , easy also to do with , you know , XML .
+
+dialogue type : %-
+B :  So r
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^na
+B :  The the lib M - three - L library does that .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^ar
+B :  No ,
+
+dialogue type : %--
+B :  u u y um
+
+dialogue type : %--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  which is in file format ,
+
+dialogue type : s
+B :  if we , um , get really w wild on this , we may actually want to use some some corpora that other people made
+
+dialogue type : s.%--
+B :  and , for example , if if they are in in MATE , then we get X M L documents with discourse annotations , t
+
+dialogue type : s
+B :  you know , t from the discourse act down to the phonetic level .
+
+dialogue type : s
+B :  Um , Michael has a project where you know , recognizing discourse acts
+
+dialogue type : s
+B :  and he does it all in MATE ,
+
+dialogue type : s
+B :  and so they 're actually annotating data and data and data .
+
+dialogue type : s^cs
+B :  So if we w if we think it 's worth it one of these days , not not with this first prototype but maybe with a second , and we have the possibility of of taking input that 's generated elsewhere and learn from that , that 'd be nice .
+
+dialogue type : s^ar|s.%-
+B : 
+
+dialogue type : %--
+B :  Nuh .
+
+dialogue type : s^df.%-
+B :  Just a back door that I I think we should devote m
+
+dialogue type : qy^bu^d^rt
+B :  Two days ?
+
+dialogue type : s^r^rt
+B :  Two , three days ?
+
+dialogue type : s^ar.%
+B :  No .
+
+dialogue type : fg|%--
+B :  Uh I I I um , OK , I t
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s^df
+B :  I was actually more joking . With the two or three days .
+
+dialogue type : s.%-
+B :  So this was was a usual jo
+
+dialogue type : s
+B :  Um , it will take as long as y y yo you guys need for that .
+
+dialogue type : s^cs.x
+B :  But um , maybe it might be interesting if if the two of you can agree on who 's gonna be the speaker next Monday , to tell us something about the net you picked ,
+
+dialogue type : s^e
+B :  and what it does , and how it does that .
+
+dialogue type : s^aa|s^cs
+B :  Yeah , or you can split it up .
+
+dialogue type : %-
+B :  So , y
+
+dialogue type : s.x
+B :  So that will be sort of the assignment for next week , is to to for slides and whatever net you picked
+
+dialogue type : s
+B :  and what it can do and and how far you 've gotten .
+
+dialogue type : x
+B :  Pppt !
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : s
+B :  So this is Whi - while you were doing this , I received two lovely emails .
+
+dialogue type : s
+B :  The the full NT and the full Linux version are there .
+
+dialogue type : s^rt
+B :  I 've downloaded them both ,
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  Uh , the NT one worked fine .
+
+dialogue type : s
+B :  and I started unta pack the Linux one ,
+
+dialogue type : s
+B :  it told me that I can't really unpack it
+
+dialogue type : s^df
+B :  because it contains a future date .
+
+dialogue type : s
+B :  So this is the time difference between Germany .
+
+dialogue type : s^rt
+B :  I had to wait until one o ' clock this afternoon before I was able to unpack it .
+
+dialogue type : s^rt
+B :  Now , um Then it will be my job to get this whole thing running both on Swede and on this machine .
+
+dialogue type : s
+B :  And so that we have it .
+
+dialogue type : s.%--
+B :  And then um Hopefully that hoping that my urgent message will now come through to Ralph and Tilman that it will send some more documentation along ,
+
+dialogue type : s.%--
+B :  we I control p
+
+dialogue type : s
+B :  Maybe that 's what I will do next Monday
+
+dialogue type : s^e
+B :  is show the state and show the system and show that .
+
+dialogue type : fg|s
+B :  Yeah , but uh but the uh This point is really I think very , very valid that ultimately we hope that that both will merge into a harmonious and , um , wonderful , um , state
+
+dialogue type : s:s
+B :  where we can not only do the bare necessities , IE , changing the table so it does exactly in English what it does in German , but also that we can sort of have the system where we can say , " OK , this is what it usually does ,
+
+dialogue type : s
+B :  and now we add this little thing to it " ,
+
+dialogue type : s^f
+B :  you know ?
+
+dialogue type : s.%--
+B :  whatever ,
+
+dialogue type : s
+B :  Johno 's and Bhaskara 's great belief - net ,
+
+dialogue type : s
+B :  and we plug it in ,
+
+dialogue type : s.%--
+B :  and then for these certain tasks ,
+
+dialogue type : s
+B :  and we know that navigational tasks are gonna be a core domain of the new system ,
+
+dialogue type : s
+B :  it all all of a sudden it does much better .
+
+dialogue type : qy^d^f^g
+B :  Nuh ?
+
+dialogue type : s^df
+B :  Because it can produce better answers ,
+
+dialogue type : s^rt
+B :  tell the person , as I s showed you on this map ,
+
+dialogue type : s
+B :  n you know , produce either you know , a red line that goes to the Vista point
+
+dialogue type : s
+B :  or a red line that goes to the Tango point
+
+dialogue type : s
+B :  or red line that goes to the door ,
+
+dialogue type : s^rt
+B :  which would be great .
+
+dialogue type : s
+B :  So not only can you show that you know something sensible but ultimately , if you produce a system like this , it takes the person where it wants to go .
+
+dialogue type : s
+B :  Rather than taking him always to the geometric center of a building ,
+
+dialogue type : s
+B :  which is what they do now .
+
+dialogue type : s
+B :  And we even had to take out a bit .
+
+dialogue type : s
+B :  Nancy , you missed that part .
+
+dialogue type : s
+B :  We had to take out a bit of the road work .
+
+dialogue type : s
+B :  So that it doesn't take you to the wall every time .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  So this was actually an actual problem that we encountered ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^df
+B :  because car navigation systems don't really care .
+
+dialogue type : s
+B :  You know , they get you to the beginning of the street ,
+
+dialogue type : s
+B :  some now do the house number .
+
+dialogue type : s
+B :  But even that is problematic .
+
+dialogue type : s^rt.%--
+B :  If you go d If you wanna drive to the SAP in Waldorf ,
+
+dialogue type : s
+B :  I 'm sure the same is true of Microsoft ,
+
+dialogue type : s
+B :  it takes you to the the address ,
+
+dialogue type : s^rt.%--
+B :  whatever , street number blah - blah - blah ,
+
+dialogue type : s
+B :  you are miles away from the entrance .
+
+dialogue type : s^df
+B :  Because the s postal address is maybe a mailbox somewhere .
+
+dialogue type : qy^d^f^g
+B :  Nuh ?
+
+dialogue type : s
+B :  but the entrance where you actually wanna go is somewhere completely different .
+
+dialogue type : s
+B :  So unless you 're a mail person you really don't wanna go there .
+
+dialogue type : s^na
+B :  Probably neither e not even that .
+
+dialogue type : qy^rt
+B :  Do you wanna see a picture ?
+
+dialogue type : s
+B :  Have to reboot for that though .
+
+dialogue type : s^na
+B :  There there 's more than I showed ,
+
+dialogue type : s^df
+B :  but um , um , I think this is sort of um , in part my job to look at that
+
+dialogue type : s
+B :  and and to see whether there are features in there that can be extracted ,
+
+dialogue type : s
+B :  and to come up with some features that are not you know , empirically based on on a real experiment or on on on reality
+
+dialogue type : s:s^fe
+B :  but sort of on your intuition of you know , " Aha !
+
+dialogue type : s
+B :  This is maybe a sign for that ,
+
+dialogue type : s
+B :  and this is maybe a sign for this . "
+
+dialogue type : s^2
+B :  Talk features .
+
+dialogue type : s^bk
+B :  Yep .
+
+dialogue type : s
+B :  Well they had they used the ammunition They stored the ammunition in that tower .
+
+dialogue type : s
+B :  And that 's why , when it was hit by uh , a cannon ball , it exploded .
+
+dialogue type : s^bk
+B :  Ahh .
+
+dialogue type : b.%
+B :  Mmm .
+

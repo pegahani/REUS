@@ -1,0 +1,495 @@
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  Cuz there is another Andreas around ,
+
+dialogue type : s
+C :  so , to avoid some confusion .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : fg|s^ft
+C :  OK . So uh , uh , well , thanks for having me here , first of all .
+
+dialogue type : fh|s
+C :  Um , so maybe just a a little background on on my visit .
+
+dialogue type : s
+C :  So , uh , I 'm not really involved in any project , that 's uh that 's relevant to you uh , a at the moment ,
+
+dialogue type : s
+C :  uh , the the reason is really for me uh , to have an opportunity to talk to some other researchers in the field .
+
+dialogue type : s
+C :  And and so I 'll just n sort of give you a real quick introduction to what I 'm working on ,
+
+dialogue type : fh|s
+C :  and um , I just hope that you have some comments
+
+dialogue type : s
+C :  or , maybe you 're interested in it to find out more ,
+
+dialogue type : s
+C :  and and so I 'll be uh , happy to talk to you
+
+dialogue type : s
+C :  and and uh , I 'd also like to find out some more
+
+dialogue type : s
+C :  and and maybe I 'll just walk around the office
+
+dialogue type : fh
+C :  and
+
+dialogue type : s
+C :  and then and ask some some questions , uh , in a couple days .
+
+dialogue type : s
+C :  So I 'll be here for uh , tomorrow and then uh , the remainder of uh , next week .
+
+dialogue type : s
+C :  OK , so , um , what I started looking at , uh , to begin with is just uh , content management systems uh , i i in general .
+
+dialogue type : fh
+C :  So
+
+dialogue type : s
+C :  um , uh what 's uh Sort of the state of the art there is to um uh you have a bunch of of uh documents or learning units or learning objects ,
+
+dialogue type : s
+C :  um , and you store meta - data uh , associate to them .
+
+dialogue type : s
+C :  So there 's some international standards
+
+dialogue type : s^e
+C :  like the I - triple - E , uh There 's an I - triple - E , LON standard ,
+
+dialogue type : s
+C :  and um , these fields are pretty straightforward , you have uh author information , you have uh , size information , format information and so on .
+
+dialogue type : s
+C :  Uh , but they 're two uh fields that are um , more interesting .
+
+dialogue type : s^e
+C :  One is uh you store keywords associated with the uh with the document ,
+
+dialogue type : s^e.%--
+C :  and one is uh , you have sort of a , um ,
+
+dialogue type : s
+C :  well , what is the document about ? So it 's some sort of taxonomic uh , ordering of of the of the units .
+
+dialogue type : s
+C :  Now , if you sort of put on your semantic glasses , uh you say , well that 's not all that easy ,
+
+dialogue type : s^df
+C :  because there 's an implicit um , uh , assumption behind that
+
+dialogue type : s^e
+C :  is that uh , all the users of this system share the same interpretation of the keyword and the same interpretation of uh , whichever taxonomy is used ,
+
+dialogue type : fh
+C :  and uh ,
+
+dialogue type : s
+C :  I think that 's a that 's a very that 's a key point of these systems
+
+dialogue type : s
+C :  and they sort of always brush over this real quickly without really elaborating much of that
+
+dialogue type : s
+C :  and uh As a matter of fact , the only thing that m apparently really works out so far are library ordering codes ,
+
+dialogue type : s^e
+C :  which are very , very coarse grain ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  But that 's really all that we have at the moment .
+
+dialogue type : s
+C :  So I think there 's a huge , um , uh need for improvement there .
+
+dialogue type : s
+C :  Now , what this uh a standard like this would give us is we could um , sort of uh with a search engine just query uh , different repositories all over the world .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh|s.%--
+C :  Um , so what I 'm what I try to do is um , to have um ,
+
+dialogue type : s
+C :  uh So . So the scenario is the following , you you 're working on some sort of project and you encounter a certain problem .
+
+dialogue type : s^df
+C :  Now , what what we have at our university quite a bit is that uh , students um , try to u program a certain assignment , for example ,
+
+dialogue type : s^df^e
+C :  they always run into the same problems ,
+
+dialogue type : s^df^e
+C :  uh , and they always come running to us ,
+
+dialogue type : s^df^e
+C :  and they 'll say why 's it not it 's not working ,
+
+dialogue type : s^df^e
+C :  and we always give out the same answer ,
+
+dialogue type : s:s
+C :  so we thought , well , it 'd be nice to have a system that could sort of take care of this ,
+
+dialogue type : s
+C :  and so , what I want to build is basically a a smart F A Q system .
+
+dialogue type : s^co
+C :  Now , what you uh need to do here is you need to provide some context information
+
+dialogue type : s^e:s
+C :  which is more elaborate than " I 'm looking for this and this and this keyword . "
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s
+C :  And I think that I don't need to tell you this .
+
+dialogue type : s
+C :  I 'm I 'm sure you have the same when when somebody utters a sentence in a certain , uh , context
+
+dialogue type : s
+C :  it , and and the same sentence in another context makes a huge difference .
+
+dialogue type : fh|s^cs
+C :  So , I want to be able to model information like , um , so in the in the context of in the context of developing distributed systems , of a at a computer science school ,
+
+dialogue type : fh|s:qw
+C :  um , what kind of software is the person using ,
+
+dialogue type : s:qw
+C :  which homework assignment is he or she working on at the moment ,
+
+dialogue type : s:qw
+C :  um , maybe what 's the background of that student 's
+
+dialogue type : fh|s:qw
+C :  um , which um , which error message was encountered .
+
+dialogue type : s
+C :  So this sort of information I think should be transmitted , uh , when a certain document is retrieved .
+
+dialogue type : fh
+C :  Now ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : s.%--
+C :  basically giving this um Uh
+
+dialogue type : s^cs
+C :  so we somehow need to have a formalized um , way of writing this down basically ,
+
+dialogue type : s
+C :  and that 's where the shared interpretation of of certain terms and keywords comes in again .
+
+dialogue type : fh|s
+C :  And , using this and some some uh , knowledge about the domain I think you can do some some simple inferences .
+
+dialogue type : s
+C :  Like you know that when somebody 's working about uh , working on on servlets for example ,
+
+dialogue type : s^e
+C :  he 's using Java , cuz servlets are used are written in Java .
+
+dialogue type : s
+C :  So some some inferences like that ,
+
+dialogue type : fh|s
+C :  now , um , u using this you can infer more information ,
+
+dialogue type : s^cs
+C :  and you could then match this to the meta - data of um off the documents you 're you 're searching against .
+
+dialogue type : s^cs
+C :  So , uh what I wanna do is basically have some sort of um given these inputs ,
+
+dialogue type : s^rt
+C :  and then I can compute how many documents match ,
+
+dialogue type : s
+C :  and use this as a metric in the search .
+
+dialogue type : s^cs
+C :  Now , what I plan to do is I want to uh sort of do a uh uh try to improve the quality of the search results ,
+
+dialogue type : s
+C :  and I want to do this by having a depth uh , um , um steepest descent approach .
+
+dialogue type : s:qw
+C :  So if I knew which operating system the person was working on , would this improve my search result ?
+
+dialogue type : s
+C :  And and having uh , uh a symbolic formalized model of this I could simply compute that ,
+
+dialogue type : s
+C :  and find out which um which questions are worth um , asking .
+
+dialogue type : s
+C :  And that 's what I then propagate back to the user ,
+
+dialogue type : s
+C :  and and sort of try to optimize the search in this way .
+
+dialogue type : s
+C :  Now , the big problem that I 'm facing right now is um , it 's fairly easy to hack up a system uh quickly , that that works in the small domain ,
+
+dialogue type : s
+C :  but the problem is obviously the scalability .
+
+dialogue type : fh|s
+C :  And uh uh , so Robert was mentioning uh , earlier today is that uh , Microsoft for example with their printer set up program has a Bayesian network ,
+
+dialogue type : s^e
+C :  which does exactly this ,
+
+dialogue type : s
+C :  but there you face a problem that these are very hard to extend .
+
+dialogue type : s
+C :  And so , uh what I 'm What I try to do is basically try to model this uh , in a way that you could really combine uh , knowledge from very different sources ,
+
+dialogue type : fh|s
+C :  and and um , sort of looking into some of the ideas that the semantic web community uh , came up with .
+
+dialogue type : s
+C :  Trying to to have uh , an approach how to integrate s uh certain uh representation of certain concepts and also some computational rules ,
+
+dialogue type : s^e
+C :  um , what you can do with those .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s
+C :  What I 'm also looking into is a probabilistic approach into this
+
+dialogue type : s^df
+C :  because document retrievals is a very fuzzy procedure ,
+
+dialogue type : s^ba
+C :  so it 's probably not that easy to simply have a symbolic uh , computational model .
+
+dialogue type : s^e
+C :  That that probably isn't expressive enough .
+
+dialogue type : s
+C :  So . So that 's another thing ,
+
+dialogue type : s^rt
+C :  um , which I think you 're also uh , uh looking into right now .
+
+dialogue type : s.%--
+C :  And then um , uh sort of as an add - on to this whole idea , um , uh that would be
+
+dialogue type : s^df
+C :  now , depending on what the search engine or the content repository depending on which um , uh , which uh , rules and which ontologies it it uses , or basically its view of the world , uh you can get very different results .
+
+dialogue type : s
+C :  So it might ma make a lot of sense to actually query a lot of different search engines .
+
+dialogue type : s
+C :  And there you could have an idea where you actually have sort of a a peer to peer approach ,
+
+dialogue type : s^e
+C :  where we 're all sort of carrying around our individual bookshelves ,
+
+dialogue type : s
+C :  and um , if you have a question about a homework , it 's probably makes sense to ask somebody who 's in your class with you , sort of the guru in the certain area ,
+
+dialogue type : s^e
+C :  rather than going to some Yahoo - like uh , search engine .
+
+dialogue type : s
+C :  So these are some of the just in a nutshell , some of the ideas .
+
+dialogue type : s
+C :  And I think a lot of the even though it 's a it 's a very different domain , but I think a lot of the , um , issues are are fairly similar .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^rt^tc
+C :  OK .
+
+dialogue type : s
+C :  Uh I know , yeah I know abou about it .
+
+dialogue type : b
+C :  Mm - hmm . Mm - hmm .
+
+dialogue type : fg|s
+C : 
+
+dialogue type : s
+C :  Uh , I want to build a smart librarian , basically
+
+dialogue type : s^e
+C :  that can point you to the right reference .
+
+dialogue type : s
+C :  I don't wanna compute the answer ,
+
+dialogue type : s^ba
+C :  so it 's a little bit easier for me .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^na
+C :  I I assume that that the there will be learning systems that that tag their their content .
+
+dialogue type : fh
+C :  And um , um ,
+
+dialogue type : s^cs
+C :  m @ @ and basically what I what I envision is that you rather than just supplying a bunch of keywords you could basically for for an FAQ for example you could state sort of like a logic condition , when this document applies .
+
+dialogue type : s
+C :  So " this document explains how to set up your uh , mail account on Linux " or something like this .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  But the I think that the key point with these uh , learning systems is that uh , a learning system is only as good as uh the amount of content it it carries .
+
+dialogue type : s
+C :  You can have the best learning system with the best search interface ,
+
+dialogue type : s
+C :  if there 's no content inside of it , it 's not very useful .
+
+dialogue type : s
+C :  So I think ultimately because um , uh developing these these rules and these inference uh inferences I think is very costly ,
+
+dialogue type : fh|s^cs
+C :  so um , uh I think you must be able to reuse some some existing um , domain domain information , or or or ontologies that that uh other people wrote
+
+dialogue type : s^e
+C :  and then try to integrate them ,
+
+dialogue type : s^e
+C :  and then also search the entire web basically , rather than just the small uh , content management system .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  No .
+
+dialogue type : s^aa^r
+C :  No .
+
+dialogue type : h|s^aa
+C :  Um , yeah .
+
+dialogue type : h|s^aap
+C :  Uh , not not too much ,
+
+dialogue type : %--
+C :  but uh ,
+
+dialogue type : s^e
+C :  I have a rough overview .
+
+dialogue type : b
+C :  Mmm . Mmm .
+
+dialogue type : s^aa
+C :  Yeah . Yeah .
+
+dialogue type : s
+C :  Yeah . I 'm sure I could learn a lot about um , yeah , just how to how to come up with these structures ,
+
+dialogue type : s
+C :  cuz it 's it 's very easy to whip up something quickly ,
+
+dialogue type : s
+C :  but it maybe then makes sense to to me , but not to anybody else ,
+
+dialogue type : s
+C :  and and if we want to share and integrate things , they must well , they must be well designed really .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : qy^bu^d^rt
+C :  Except except Prashant ?
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^df
+C :  Uh I I think it 's it 's really the lack of students uh , at IU at the moment .
+
+dialogue type : s^df^r
+C :  Yeah , yeah . I think it 's ju it 's more the lack of of students , really ,
+
+dialogue type : s^df^e
+C :  and w we have all these sponsors that are always sort of eager to get some teams .
+
+dialogue type : fh
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C : 
+
+dialogue type : s^e
+C :  well , except for the sponsors maybe ,
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^cc
+C :  Well I 'll go to the uh , Semantic Web Workshop , uh , in two weeks .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm . Mm - hmm .
+
+dialogue type : qw^rt
+C :  So , uh , who is that again ?
+
+dialogue type : s^bk
+C :  OK , great .
+
+dialogue type : b
+C :  Mm - hmm .
+

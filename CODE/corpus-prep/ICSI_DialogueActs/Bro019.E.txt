@@ -1,0 +1,144 @@
+dialogue type : s^cs
+E :  You know , if you 're in a desperate situation and you need a place to stay , you could stay with me for a while .
+
+dialogue type : s^df
+E :  I 've got a spare bedroom right now .
+
+dialogue type : h
+E :  Um ,
+
+dialogue type : %--
+E :  it 's
+
+dialogue type : s^ng
+E :  Well , um , it I don't think it directly relates .
+
+dialogue type : fh|s
+E :  Um , well , so , I was helping a speech researcher named Pierre Divenyi
+
+dialogue type : s
+E :  and he 's int He wanted to um , look at um , how people respond to formant changes , I think .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s
+E :  So he he created a lot of synthetic audio files of vowel - to - vowel transitions ,
+
+dialogue type : s
+E :  and then he wanted a psycho - acoustic um , spectrum .
+
+dialogue type : s
+E :  And he wanted to look at um , how the energy is moving over time in that spectrum
+
+dialogue type : s
+E :  and compare that to the to the listener tests .
+
+dialogue type : fh
+E :  And , um .
+
+dialogue type : s
+E :  So , I gave him a PLP spectrum .
+
+dialogue type : s
+E :  And to um he he t wanted to track the peaks so he could look at how they 're moving .
+
+dialogue type : s
+E :  So I took the um , PLP LPC coefficients and um , I found the roots .
+
+dialogue type : s^e
+E :  This was something that Stephane suggested .
+
+dialogue type : s
+E :  I found the roots of the um , LPC polynomial to , um , track the peaks in the , um , PLP LPC spectra .
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : fg
+E :  So , um ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  Since it 's a real signal , the LPC polynomial 's gonna have real coefficients .
+
+dialogue type : s
+E :  So I think that means that every root that is not a real root is gonna be a c complex pair ,
+
+dialogue type : s^e
+E :  um , of a complex value and its conjugate .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  And if you look at that on the unit circle , um , one of these one of the members of the pair will be a positive frequency , one will be a negative frequency , I think .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh
+E :  So , um ,
+
+dialogue type : s
+E :  f for the I 'm using an eighth - order polynomial
+
+dialogue type : s
+E :  and I 'll get three or four of these pairs
+
+dialogue type : s^e
+E :  which give me s which gives me three or four peak positions .
+
+dialogue type : s^aa
+E :  It 's Right .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mmm ,
+
+dialogue type : s^na
+E :  But there 's some of that ,
+
+dialogue type : s^aa
+E :  yes .
+
+dialogue type : s
+E :  It was created from a synthesizer ,
+
+dialogue type : fh
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  In in fact w we we could get , um , formant frequencies out of the synthesizer , as well .
+
+dialogue type : fh
+E :  And , um ,
+
+dialogue type : s
+E :  w one thing that the , um , LPC approach will hopefully give me in addition , um , is that I I might be able to find the b the bandwidths of these humps as well .
+
+dialogue type : s
+E :  Um , Stephane suggested looking at each complex pair as a like a se second - order IIR filter .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : s
+E :  but I don't think there 's a g a really good reason not to um , get the formant frequencies from the synthesizer instead .
+
+dialogue type : s^e
+E :  Except that you don't have the psycho - acoustic modeling in that .
+
+dialogue type : b
+E :  Mm - hmm .
+

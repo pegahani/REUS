@@ -1,0 +1,783 @@
+dialogue type : z
+F :  Uh .
+
+dialogue type : z
+F :  Testing , one , two , three .
+
+dialogue type : s
+F :  From last time I wanted to Uh The An iss uh one topic from last time .
+
+dialogue type : s^cc
+F :  OK , it 's it 's very eh it 's very brief , I mean just let me just hand these out .
+
+dialogue type : sj^fe
+F :  Oops .
+
+dialogue type : s
+F :  It 's slightly different .
+
+dialogue type : s
+F :  I basically the same .
+
+dialogue type : s^aa
+F :  But , same idea .
+
+dialogue type : s
+F :  So , if you 've looked at this you 've seen it before ,
+
+dialogue type : s
+F :  so Basically , um as you know , uh part of the encoding includes a mark that indicates an overlap .
+
+dialogue type : s
+F :  It 's not indicated with , um uh , tight precision , it 's just indicated that OK , so , It 's indicated to to so the people know what parts of sp which which stretches of speech were in the clear , versus being overlapped by others .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I wrote a script which divides things into individual minutes , of which we ended up with forty five , and a little bit .
+
+dialogue type : s
+F :  And , uh you know , minute zero , of course , is the first minute up to sixty seconds .
+
+dialogue type : s
+F :  And , um What you can see is the number of overlaps and then to the right , whether they involve two speakers , three speakers , or more than three speakers .
+
+dialogue type : fh|s
+F :  And , um and , what I was looking for sp sp specifically was the question of whether they 're distributed evenly throughout or whether they 're bursts of them .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  uh , you know y this is just eh eh , this would this is not statistically verified , but it did look to me as though there are bursts throughout , rather than being localized
+
+dialogue type : s
+F :  The part down there , where there 's the maximum number of of , um overlaps is an area where we were discussing whether or not it would be useful to indi to s to code stress , uh , sentence stress as possible indication of , uh information retrieval .
+
+dialogue type : s
+F :  So it 's like , you know , rather , lively discussion there .
+
+dialogue type : s^bk
+F :  Oh ,
+
+dialogue type : s
+F :  th That 's the per cent .
+
+dialogue type : s
+F :  So , six is , uh two point eight percent of the total number of overlaps in the session .
+
+dialogue type : s
+F :  At the very end , this is when people were , you know , packing up to go basically ,
+
+dialogue type : s^e
+F :  there 's this final stuff ,
+
+dialogue type : s^no
+F :  I think we I don't remember where the digits fell .
+
+dialogue type : s
+F :  I 'd have to look at that .
+
+dialogue type : s
+F :  But the final three there are no overlaps at all .
+
+dialogue type : s
+F :  And couple times there are not .
+
+dialogue type : s
+F :  So , i it seems like it goes through bursts but , um that 's kind of it .
+
+dialogue type : s
+F :  Now , Another question is is there are there individual differences in whether you 're likely to be overlapped with or to overlap with others .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I , you know , my I had this script figure out , um who was the first speaker , who was the second speaker involved in a two - person overlap , I didn't look at the ones involving three or more .
+
+dialogue type : s
+F :  And , um this is how it breaks down in the individual cells of who tended to be overlapping most often with who who else ,
+
+dialogue type : s
+F :  and if you look at the marginal totals , which is the ones on the right side and across the bottom , you get the totals for an individual .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^fa
+F :  I 'm sorry , but you 're o alphabetical , that 's why I 'm choosing you
+
+dialogue type : s
+F :  And then if you look across the right , then that 's where he was the person who was the sp first speaker in the pair and got overlap overlapped with by somebody .
+
+dialogue type : s
+F :  And , then if you look down in the summary table , then you see that , um th they 're differences in whether a person got overlapped with or overlapped by .
+
+dialogue type : s
+F :  Raw counts .
+
+dialogue type : s^aa
+F :  Yes , very true very true
+
+dialogue type : s^na
+F :  it would be good to normalize with respect to that .
+
+dialogue type : s
+F :  Now on the table I did take one step toward , uh away from the raw frequencies by putting , uh percentages .
+
+dialogue type : s.%--
+F :  So that the percentage of time of the of the times that a person spoke , what percentage eh , w
+
+dialogue type : qw
+F :  so . Of the times a person spoke and furthermore was involved in a two two - person overlap , what percentage of the time were they the overlapper and what percent of the time were they th the overlappee ?
+
+dialogue type : s
+F :  And there , it looks like you see some differences ,
+
+dialogue type : s
+F :  um , that some people tend to be overlapped with more often than they 're overlapped ,
+
+dialogue type : s
+F :  but , of course , uh i e this is just one meeting , uh there 's no statistical testing involved , and that would be required for a for a finding of any kind of scientific reliability .
+
+dialogue type : fg
+F :  No , no , no .
+
+dialogue type : s^aa
+F :  Yeah , that 's right .
+
+dialogue type : s^aa
+F :  That 's right .
+
+dialogue type : s
+F :  And I 'm you know , I 'm I don't see a point of singling people out ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  Well , you know , it 's like I 'm not I 'm not saying on the tape who did better or worse
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : %--
+F :  I you know ,
+
+dialogue type : s|s^cs
+F :  and and th here 's a case where of course , human subjects people would say be sure that you anonymize the results , and and , so , might as well do this .
+
+dialogue type : s^bk
+F :  Well , fair enough .
+
+dialogue type : s^bk^r
+F :  Fair enough .
+
+dialogue type : s^df
+F :  And actually , you know , the point is not about an individual , it 's the point about tendencies toward you know , different styles , different speaker styles .
+
+dialogue type : s
+F :  And it would be , you know of course , there 's also the question of what type of overlap was this , and w what were they ,
+
+dialogue type : s
+F :  and i and I and I know that I can distinguish at least three types and , probably more ,
+
+dialogue type : s
+F :  I mean , the general cultural idea which w uh , the conversation analysts originally started with in the seventies was that we have this strict model where politeness involves that you let the person finish th before you start talking ,
+
+dialogue type : s
+F :  and and you know , I mean , w we know that an and they 've loosened up on that too s in the intervening time , that that that 's that 's viewed as being a culturally - relative thing ,
+
+dialogue type : s^e
+F :  I mean , that you have the high - involvement style from the East Coast where people will overlap often as an indication of interest in what the other person is saying .
+
+dialogue type : s.%--
+F :  And
+
+dialogue type : sj^fe
+F :  Yeah , exactly !
+
+dialogue type : s
+F :  Well , there you go .
+
+dialogue type : s^j
+F :  Fine , that 's alright , that 's OK .
+
+dialogue type : s
+F :  And and , you know , in contrast , so Deborah d and also Deborah Tannen 's thesis
+
+dialogue type : s
+F :  she talked about differences of these types , that they 're just different styles ,
+
+dialogue type : s
+F :  and it 's um you you can't impose a model of there of the ideal being no overlaps ,
+
+dialogue type : s
+F :  and you know , conversational analysts also agree with that ,
+
+dialogue type : s^e
+F :  so it 's now , universally a ag agreed with .
+
+dialogue type : s.%--
+F :  And and , als
+
+dialogue type : s^bd
+F :  I mean , I can't say universally ,
+
+dialogue type : s
+F :  but anyway , the people who used to say it was strict , um now , uh don't .
+
+dialogue type : s
+F :  I mean they they also you know , uh uh , ack acknowledge the influence of sub of subcultural norms and cross - cultural norms and things .
+
+dialogue type : s
+F :  So , um Then it beco though so just just superficially to give um a couple ideas of the types of overlaps involved , I have at the bottom several that I noticed .
+
+dialogue type : s
+F :  So , uh , there are backchannels , like what Adam just did now
+
+dialogue type : fh|s
+F :  and , um um , anticipating the end of a question and simply answering it earlier ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^df^rt
+F :  because we 're people who 've talked to each other ,
+
+dialogue type : s^df^e
+F :  um we know basically what the topic is , what the possibilities are and w and we 've spoken with each other
+
+dialogue type : s
+F :  so we know basically what the other person 's style is likely to be
+
+dialogue type : s
+F :  and so and t there are a number of places where someone just answered early .
+
+dialogue type : s
+F :  No problem .
+
+dialogue type : s
+F :  And places also which I thought were interesting , where two or more people gave exactly th the same answer in unison different words of course
+
+dialogue type : s
+F :  but you know , the basically , you know everyone 's saying " yes " or you know , or ev even more sp specific than that .
+
+dialogue type : s
+F :  So , uh , the point is that , um overlap 's not necessarily a bad thing and that it would be im i useful to subdivide these further and see if there are individual differences in styles with respect to the types involved .
+
+dialogue type : s
+F :  And that 's all I wanted to say on that , unless people have questions .
+
+dialogue type : s^bk|sj^ba
+F :  Oh , OK interesting .
+
+dialogue type : s
+F :  Well , at the bottom , you have the bottom three .
+
+dialogue type : s
+F :  So four four minutes all together with none none .
+
+dialogue type : s^aa
+F :  Yes , uh - huh .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  But just no overlaps .
+
+dialogue type : s^aa|s
+F :  Yes , exactly and that 's that 's where Jose 's pro project comes in .
+
+dialogue type : s
+F :  I suspect that it will also differ , depending on the type of overlap involved .
+
+dialogue type : s
+F :  So backchannels will be very brief
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yes .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^ar
+F :  Actually , um um actually not .
+
+dialogue type : s^cs
+F :  Uh , so le let 's think about the case where A starts speaking and then B overlaps with A , and then the minute boundary happens .
+
+dialogue type : s
+F :  And let 's say that after that minute boundary , um B is still speaking , and A overlaps with B ,
+
+dialogue type : s
+F :  that would be a new overlap .
+
+dialogue type : s
+F :  But otherwise um , let 's say B comes to the conclusion of of that turn without anyone overlapping with him or her ,
+
+dialogue type : s
+F :  in which case there would be no overlap counted in that second minute .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s.%--
+F :  In that case , um my c the coding that I was using since we haven't , uh incorporated Adam 's , uh coding of overlap yets , the coding of
+
+dialogue type : s^t1
+F :  Yeah , " yets " is not a word .
+
+dialogue type : s
+F :  Uh since we haven't incorporated Adam 's method of handling overl overlaps yet um then that would have fallen through the cra cracks .
+
+dialogue type : s
+F :  It would be an underestimate of the number of overlaps because , um I wou I wouldn't be able to pick it up from the way it was encoded so far .
+
+dialogue type : s
+F :  We just haven't done th the precise second to sec you know , second to second coding of when they occur .
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm ?
+
+dialogue type : s^ar
+F :  No , it wouldn't .
+
+dialogue type : s^nd
+F :  It would be considered as an overlap in the first one .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  They 're not double counted .
+
+dialogue type : s
+F :  I should also say I did a simplifying , uh count in that if A was speaking B overlapped with A and then A came back again and overlapped with B again ,
+
+dialogue type : s
+F :  I I didn't count that as a three - person overlap , I counted that as a two - person overlap , and it was A being overlapped with by D .
+
+dialogue type : s
+F :  Because the idea was the first speaker had the floor and the second person started speaking and then the f the first person reasserted the floor kind of thing .
+
+dialogue type : s
+F :  These are simplifying assumptions ,
+
+dialogue type : s
+F :  didn't happen very often ,
+
+dialogue type : s
+F :  there may be like three overlaps affected that way in the whole thing .
+
+dialogue type : s^aa
+F :  Yeah , yeah .
+
+dialogue type : sj^ba
+F :  That 's interesting .
+
+dialogue type : sj^ba^r
+F :  That 's interesting .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^aa
+F :  Yeah , it is .
+
+dialogue type : s^aa
+F : 
+
+dialogue type : fg
+F :  OK , now .
+
+dialogue type : s^aa
+F :  Wh - yeah , I I agree I agree with Adam .
+
+dialogue type : s
+F :  And the reason is because I think there 's a limit there 's an upper bound on how many you can have , simply from the standpoint of audibility .
+
+dialogue type : s
+F :  When we speak we we do make a judgment of " can " you know , as adults .
+
+dialogue type : s
+F :  I mean , children don't adjust so well ,
+
+dialogue type : s
+F :  I mean , if a truck goes rolling past , adults will well , depending , but mostly , adults will will will hold off to what to finish the end of the sentence till the till the noise is past .
+
+dialogue type : s
+F :  And I think we generally do monitor things like that , about whether we whether our utterance will be in the clear or not .
+
+dialogue type : s
+F :  And partly it 's related to rhythmic structure in conversation ,
+
+dialogue type : s
+F :  so , you know , you you t Yeah , this is d also um , people tend to time their their their , um when they come into the conversation based on the overall rhythmic , uh uh , ambient thing .
+
+dialogue type : s
+F :  So you don't want to be c cross - cutting .
+
+dialogue type : s
+F :  And and , just to finish this , that um That I think that there may be an upper bound on how many overlaps you can have , simply from the standpoint of audibility and how loud the other people are who are already in the fray .
+
+dialogue type : s^e
+F :  But I you know , of certain types .
+
+dialogue type : s
+F :  Now if it 's just backchannels , people may be doing that with less intention of being heard , just sort of spontaneously doing backchannels ,
+
+dialogue type : s
+F :  in which case that those might there may be no upper bound on those .
+
+dialogue type : s
+F :  He could , he could .
+
+dialogue type : s
+F :  E for example .
+
+dialogue type : s
+F :  She 's doing that .
+
+dialogue type : s^ng
+F :  Well , I mean you could do that .
+
+dialogue type : s^nd
+F :  I ju I I think that in this meeting I really had the feeling that wasn't happening , that the hostile hostile type .
+
+dialogue type : s^nd
+F :  These were these were benevolent types , as people finishing each other 's sentences , and stuff .
+
+dialogue type : s^aa
+F :  Yeah , I agree .
+
+dialogue type : s^aa
+F :  I agree .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^t3
+F :  That 's a control .
+
+dialogue type : s
+F :  Well , it seems like there are two possibilities there ,
+
+dialogue type : s^ng
+F :  I mean i it seems like if you have just two people it 's not really , y like a meeting , w is not as similar as the rest of the of the sample .
+
+dialogue type : s^arp
+F :  It depends on what you 're after , of course ,
+
+dialogue type : s
+F :  but It seems like that would be more a case of the control condition , compared to , uh an experimental condition , with more than two .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^nd
+F :  Yeah , I 'm just thinking that 'd be more like a c control condition .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  You 've been working on that .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : %
+F :  Blindf
+
+dialogue type : s.%--
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^ng
+F :  Linguistic anthropologists would would suggest it would be useful to also take a picture of the meeting .
+
+dialogue type : s
+F :  The because you get then the spatial relationship of the speakers .
+
+dialogue type : s.%-
+F :  And that could be
+
+dialogue type : s^cs
+F :  But you know , they the s the linguistic anthropologists would say it would be good to have a digital picture anyway ,
+
+dialogue type : s^df
+F :  because you get a sense also of posture .
+
+dialogue type : s^cs
+F :  Posture , and we could like , you know , block out the person 's face or whatever
+
+dialogue type : s
+F :  but but , you know , these are important cues ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  It 'd be better than nothing , is is i Just from a single picture I think you can tell some aspects .
+
+dialogue type : s
+F :  I mean I I could tell you I mean , if I if I 'm in certain meetings I notice that there are certain people who really do eh The body language is very uh is very interesting in terms of the dominance aspect .
+
+dialogue type : s
+F :  Yeah . Well , I mean you black out the that part .
+
+dialogue type : s
+F :  But it 's just , you know , the the body
+
+dialogue type : qy^d^g
+F :  you know ?
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^br
+F :  Say that again ?
+
+dialogue type : s
+F :  Frame over fres threshold .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : b
+F :  OK
+
+dialogue type : s^bc
+F :  " Mixed . "
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^j
+F :  " Ding " .
+
+dialogue type : sj^ba
+F :  That 's cute !
+
+dialogue type : b
+F :  Ah .
+
+dialogue type : fg|s^rt
+F :  Actually well also I I can say I made barr barriers for so that the stuff I was doing with Collin wha which just used , um this kind of foam board .
+
+dialogue type : s^e
+F :  R really inexpensive .
+
+dialogue type : s^cs
+F :  You can you can masking tape it together ,
+
+dialogue type : s
+F :  these are you know , pretty l large partitions .
+
+dialogue type : s^na
+F : 
+
+dialogue type : %
+F : 
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^cs
+F :  I think we 're going to have to work on the , uh on the human subjects form .
+
+dialogue type : qy^j
+F :  " Do you mind being blindfolded while you 're interviewed ? "
+
+dialogue type : qw^bu
+F :  What was that called ?
+
+dialogue type : s^br
+F :  The , uh say again ?
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : sj^ba
+F :  I like that idea .
+
+dialogue type : s
+F :  It 's very clear .
+
+dialogue type : s
+F :  Then you don't think it 's a long pause .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yeah , I agree .
+
+dialogue type : s
+F :  One one question .
+
+dialogue type : qy^rt
+F :  Do you do it on all channels ?
+
+dialogue type : sj^ba
+F :  Interesting .
+
+dialogue type : sj^ba
+F :  I like that .
+
+dialogue type : sj^ba
+F :  Yeah , I like that .
+
+dialogue type : sj^ba
+F :  Very clear .
+
+dialogue type : sj^ba^r
+F :  Very clear .
+
+dialogue type : s.%-
+F :  Well , the other thing that you know , I mean the the alternative might be to s
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : sj^ba
+F :  That 's great .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^ba^tc
+F :  I have one concept a t I I want to say , which is that I think it 's nice that you 're preserving the time relations ,
+
+dialogue type : s^e
+F :  s so you 're you 're not just cutting you 're not doing scissor snips .
+
+dialogue type : s
+F :  You 're you 're keeping the , uh the time duration of a de - deleted deleted part .
+
+dialogue type : s^bk|s^t^tc
+F :  OK , good , digits .
+
+dialogue type : sj^ba
+F :  It 's great .
+
+dialogue type : sj^ba
+F :  Good .
+
+dialogue type : s^ft
+F :  Thank you .
+
+dialogue type : s^ft^r
+F :  Thank you .
+
+dialogue type : s^ft
+F :  Thank you .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^ft
+F :  Aw , thanks .
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s
+F :  I have the script now ,
+
+dialogue type : s
+F :  so , I mean , it can work off the , uh other thing ,
+
+dialogue type : %-
+F : 
+
+dialogue type : h|s^aa
+F :  Uh , well , yeah .
+
+dialogue type : s
+F :  Because , uh well , I mean once his his algorithm is up and running then we can do it that way .
+
+dialogue type : s.%--
+F :  But I I just worked off of my
+
+dialogue type : s^ft
+F :  Thanks .
+
+dialogue type : s^ft
+F :  Appreciate that .
+
+dialogue type : s
+F :  I think what I what this has , uh , caused me so this discussion caused me to wanna subdivide these further .
+
+dialogue type : s^cc
+F :  I 'm gonna take a look at the , uh backchannels ,
+
+dialogue type : s
+F :  how much we have anal I hope to have that for next time .
+
+dialogue type : s^co
+F :  Let 's do it .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : z
+F :  Do you want us to put a mark on the bottom of these when they 've actually been read , or
+
+dialogue type : z
+F :  do you just i
+
+dialogue type : z
+F :  i
+
+dialogue type : z
+F : 
+
+dialogue type : z
+F :  is known , so we don't do it .
+
+dialogue type : z
+F :  OK .
+

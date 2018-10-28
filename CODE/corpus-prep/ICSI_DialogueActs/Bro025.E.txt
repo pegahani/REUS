@@ -1,0 +1,468 @@
+dialogue type : fg
+E :  Yeah . So .
+
+dialogue type : s^aa^j
+E :  Yeah . Almost .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  So it 's well , it 's spectral subtraction or Wiener filtering ,
+
+dialogue type : fh
+E :  um ,
+
+dialogue type : s^e^rt
+E :  depending on if we put if we square the transfer function or not .
+
+dialogue type : s^rt
+E :  And then with over - estimation of the noise , depending on the , uh the SNR , with smoothing along time ,
+
+dialogue type : fh
+E :  um ,
+
+dialogue type : s^e
+E :  smoothing along frequency .
+
+dialogue type : s^rt
+E :  It 's very simple , smoothing things .
+
+dialogue type : fh|s^rt
+E :  And , um , the best result is when we apply this procedure on FFT bins , uh , with a Wiener filter .
+
+dialogue type : s^e
+E :  And there is no noise addition after after that .
+
+dialogue type : s^ba
+E :  So it 's good
+
+dialogue type : s^df
+E :  because it 's difficult when we have to add noise to to to find the right level .
+
+dialogue type : s^aa|s
+E :  Yeah . So the sh it 's the sheet that gives fifty - f three point sixty - six .
+
+dialogue type : fh|s
+E :  Um , the second sheet is abo uh , about the same .
+
+dialogue type : s^rt
+E :  It 's the same , um , idea but it 's working on mel bands , and it 's a spectral subtraction instead of Wiener filter ,
+
+dialogue type : s
+E :  and there is also a noise addition after , uh , cleaning up the mel bins .
+
+dialogue type : fh.%
+E :  Mmm .
+
+dialogue type : s
+E :  Well , the results are similar .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^2.%--
+E : 
+
+dialogue type : s^2^bc
+E :  on the multi - condition in TI - digits . Yeah .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^ng
+E :  So now we are , yeah , setting up the software .
+
+dialogue type : h|s
+E :  Um , it should be ready , uh , very soon .
+
+dialogue type : %--
+E :  Um , and we
+
+dialogue type : %--
+E :  p - p - p
+
+dialogue type : s^fe.%
+E :  Oh boy .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^df
+E :  I need to allow it to do everything and even more more than this .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^cc
+E :  Yeah , we can do it later .
+
+dialogue type : s
+E :  But , still so , there will be a piece of software with , uh , will give this system , the fifty - three point sixty - six , by default
+
+dialogue type : %--
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  It 's just one percent off of the best proposal .
+
+dialogue type : s
+E :  It 's between i we are second actually if we take this system .
+
+dialogue type : qy^d^g^rt
+E :  Right ?
+
+dialogue type : s^aa
+E :  Mm - hmm . Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah . Yeah . Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^e
+E :  And all the speech pauses ,
+
+dialogue type : s
+E :  which is Sometimes on the SpeechDat - Car you have pauses that are more than one or two seconds .
+
+dialogue type : s^e
+E :  More than one second for sure .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  We cou we can do better , I think ,
+
+dialogue type : s^df
+E :  because , um , with this way of dropping the frames they improve over the baseline by fourteen percent
+
+dialogue type : s
+E :  and Sunil already showed that with our current VAD we can improve by more than twenty percent .
+
+dialogue type : s
+E :  Just using either their VAD or our current VAD .
+
+dialogue type : s
+E :  So , our current VAD is is more than twenty percent ,
+
+dialogue type : s^e
+E :  while their is fourteen .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : fh|s
+E :  And another thing that we did also is that we have all this training data for let 's say , for SpeechDat - Car .
+
+dialogue type : s
+E :  We have channel zero which is clean ,
+
+dialogue type : s
+E :  channel one which is far - field microphone .
+
+dialogue type : fh
+E :  And
+
+dialogue type : s
+E :  if we just take only the , um , VAD probabilities computed on the clean signal and apply them on the far - field , uh , test utterances , then results are much better .
+
+dialogue type : s^e
+E :  In some cases it divides the error rate by two .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^ba
+E :  If if we can have a good VAD , well , it would be great .
+
+dialogue type : h|s
+E :  Uh , right now it 's , um , a neural net with nine frames .
+
+dialogue type : s
+E :  So it 's forty milliseconds plus , um , the rank ordering ,
+
+dialogue type : s.%-
+E :  which , uh , should be
+
+dialogue type : s^aa^m
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  So , right now it 's one hundred and forty milliseconds .
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  Yeah . It 's not a median filtering .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh|s.%-
+E :  Um , so we have eleven , um , frames .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa^m
+E : 
+
+dialogue type : s
+E :  and we take th the third .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah . Uh - huh .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^na
+E :  Just the frame - dropping problem .
+
+dialogue type : s^ba
+E :  Yeah . But it 's it 's difficult .
+
+dialogue type : s
+E :  Sometime we we change two two things together
+
+dialogue type : s
+E :  and But it 's around maybe it 's less than one percent .
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^co
+E :  And then we have to be careful with that also with the neural net
+
+dialogue type : s^df
+E :  because in the proposal the neural net was also , uh , working on after frame - dropping .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bsc
+E :  to do the same kind of correction .
+
+dialogue type : h|s^cs
+E :  Mmm . Well , we can do the frame - dropping on the server side
+
+dialogue type : s^cs
+E :  or we can just be careful at the terminal side to send a couple of more frames before and after ,
+
+dialogue type : fh
+E :  and So .
+
+dialogue type : s^ba
+E :  I think it 's OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  So , we , uh actually I did the first experiment .
+
+dialogue type : s^e
+E :  This is with just fifteen frames .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s
+E :  We take the first fifteen frame of each utterance to it ,
+
+dialogue type : s^e
+E :  and average their power spectra .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s
+E :  I tried just plugging the , um , uh , Guenter noise estimation on this system ,
+
+dialogue type : s^ba^e^rt
+E :  and it uh , it got worse .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : s^bd
+E :  but of course I didn't play with it .
+
+dialogue type : fh
+E :  But Mm - hmm .
+
+dialogue type : fh|s
+E :  Uh , I didn't do much more for noise estimation . I just tried this ,
+
+dialogue type : fh
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah , I guess .
+
+dialogue type : h|s^ar
+E :  Mmm . No , we don't .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^cs^rt
+E :  So , should we keep the same ? I think we might try to keep the same idea
+
+dialogue type : s^e
+E :  of having a neural network ,
+
+dialogue type : s^e
+E :  but training it on more data
+
+dialogue type : s^e
+E :  and adding better features , I think ,
+
+dialogue type : s^df
+E :  but because the current network is just PLP features .
+
+dialogue type : s
+E : 
+
+dialogue type : s^e
+E :  PLP features computed on noisy speech .
+
+dialogue type : s
+E :  But there is no nothing particularly robust in these features .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : %-
+E :  Oh , yeah . Hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^2
+E :  And it seems important for , like , the on - line normalization .
+
+dialogue type : fh|s^df
+E :  Um . We don't want to update the mean and variance during silen long silence portions .
+
+dialogue type : fh|s
+E :  Um . So it it has to be done before
+
+dialogue type : s^e
+E :  this mean and variance normalization .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^ba^j^rt^tc
+E :  The Half Dome was great .
+

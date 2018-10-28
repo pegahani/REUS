@@ -1,0 +1,180 @@
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : %
+A :  Hm
+
+dialogue type : s.%-
+A :  I think you
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^cs.%--
+A : 
+
+dialogue type : qy^cs^d^rt
+A :  In this thing of seamless handoff or handovers should think more maybe in different layers ?
+
+dialogue type : s^df
+A :  So one layer is having the seamless handover .
+
+dialogue type : s
+A :  It 's clear if a technology doesn't provide that quality of service , you can't do magic and have it .
+
+dialogue type : s
+A :  There are certain constraints on that .
+
+dialogue type : s^aa
+A :  It 's true .
+
+dialogue type : s
+A :  That 's still in mind .
+
+dialogue type : s
+A :  But for with the cases there There , it is possible .
+
+dialogue type : qy^d^rt
+A :  So that should be made possible then ?
+
+dialogue type : fg
+A :  So
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s
+A :  There are still enough problems i in doing it .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A :  But it might be the wrong thing to promise , uh , ten megabits to everywhere .
+
+dialogue type : s
+A :  There you are .
+
+dialogue type : s
+A :  But saying " OK if it 's a if the technology is OK , you can do it . "
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : z
+A :  Hi .
+
+dialogue type : z
+A :  ist fertig .
+
+dialogue type : qw^rt
+A :  How 's it start ?
+
+dialogue type : qw^rt
+A :  Who is using mobile phones ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^df
+A :  But usually WAP shouldn't is so general that it can be used with UMTS .
+
+dialogue type : s
+A :  So if you still want to use WAP with UMTS you might be able to do it .
+
+dialogue type : %-
+A :  But
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  But usually that 's not the reason to have UMTS .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A :  My impression on this proposal is that every single block has some research done already .
+
+dialogue type : s
+A :  So , multicast . This means that there are many things done .
+
+dialogue type : qw^t1
+A :  Oh , what was it ?
+
+dialogue type : s
+A :  Maybe I was routing mobility management
+
+dialogue type : s
+A :  But no one actually put them together .
+
+dialogue type : s
+A :  But So that 's the big problem .
+
+dialogue type : s
+A :  But the problem with this problem , might be that it 's too big
+
+dialogue type : s^e.%-
+A :  to put all these big pieces to
+
+dialogue type : s
+A :  So that you really have a complete a complete scenario .
+
+dialogue type : s
+A :  You have , in one scenario , multicast , quality of service , routing and mobile um networking .
+
+dialogue type : s
+A :  Not just the islands alone .
+
+dialogue type : fg|%-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  But for theoretical or for historical reasons a really good question , " if we would have the money what would we do with that ? "
+
+dialogue type : s
+A :  So if we don't know what we would like to do with the money , we probably wouldn't get any money to do what we don't know .
+
+dialogue type : s
+A :  So that 's why , I think , yeah , it 's a good question .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s^na
+A :  That 's just the same question just other way around .
+
+dialogue type : s^ba^t1
+A :  Modernistic stuff !
+
+dialogue type : s^ba^t1
+A :  Completely useless !
+

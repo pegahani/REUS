@@ -1,0 +1,105 @@
+dialogue type : s
+E :  Yeah . Yeah . We did .
+
+dialogue type : s.%--
+E :  I think it 's
+
+dialogue type : qy
+E :  Is it the same set as the alignments ?
+
+dialogue type : s
+E :  I think it 's five Meeting Recorder meetings .
+
+dialogue type : s^fe^t1
+E :  Oops .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ar
+E :  Nope .
+
+dialogue type : s
+E :  I was wondering if they were in .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Something w went wrong .
+
+dialogue type : s^2
+E :  Nothing happened .
+
+dialogue type : b
+E :  No ? Yeah .
+
+dialogue type : qy^br^d^rt
+E :  Synthesizers ?
+
+dialogue type : s^aa|s^df
+E :  Yeah , yeah . I was doing something for the SmartKom data collectioners .
+
+dialogue type : s
+E :  Robert has taken his laptop t back to Germany so we needed a new synthesis machine .
+
+dialogue type : s
+E :  And we have now a SUN workstation in the library , which does the synthesis
+
+dialogue type : s.%-
+E :  and the Festival speech s s system is running on
+
+dialogue type : s^rt
+E :  His laptop where , uh which we used for the SmartKom data collection , for the synthesis .
+
+dialogue type : s
+E :  And so he took it to Germany
+
+dialogue type : s
+E :  and so we couldn't do any data collection .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^ar|s
+E :  No . He 's just gone to a SmartKom workshop .
+
+dialogue type : s
+E :  And so , we have now the SUN in the library which can do that .
+
+dialogue type : s
+E :  And I looked into the ts F - zero thing and talked to to Liz ,
+
+dialogue type : s
+E :  and it seems that it 's quite s what she wants ,
+
+dialogue type : s
+E : 
+
+dialogue type : s
+E :  uh , what we wanna do .
+
+dialogue type : qy^bu^d
+E :  For w for Festival ?
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  Yeah . Basically from the command line ,
+
+dialogue type : s
+E :  and the defining the phones , whatever you want to have synthesized ,
+
+dialogue type : s
+E :  and give the F - zero targets ,
+
+dialogue type : s
+E :  and then ts get gives out a a waveform ,
+
+dialogue type : s
+E :  and I I want to manipulate the the waveform , then .
+

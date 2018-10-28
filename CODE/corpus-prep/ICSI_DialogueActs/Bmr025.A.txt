@@ -1,0 +1,357 @@
+dialogue type : s^na
+A :  I can do that quickly .
+
+dialogue type : s^rt
+A :  Um I hired several more transcribers ,
+
+dialogue type : s
+A :  They 're making great progress .
+
+dialogue type : s^bc^nd
+A :  Seve - several , several .
+
+dialogue type : fh
+A :  And uh
+
+dialogue type : fh
+A :  and uh ,
+
+dialogue type : s
+A :  uh I 've been uh finishing up the uh double checking .
+
+dialogue type : s
+A :  I hoped to have had that done by today
+
+dialogue type : s
+A :  but it 's gonna take one more week .
+
+dialogue type : s^aa
+A :  Certainly .
+
+dialogue type : s
+A :  Yeah I mean , it 's in the same place it 's been .
+
+dialogue type : s^aa
+A :  Uh - huh . No change .
+
+dialogue type : h|s^aa^rt
+A :  Uh Yes . Uh - huh .
+
+dialogue type : s^bk^rt
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^bu.%-
+A : 
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Excellent .
+
+dialogue type : b
+A :  Good .
+
+dialogue type : b
+A :  Excellent .
+
+dialogue type : s^ar
+A :  Hm - mmm .
+
+dialogue type : qy
+A :  I Can I ask a question ?
+
+dialogue type : fh|s:s
+A :  So um as it stands within the the Channeltrans interface , it 's possible to do a find and a play .
+
+dialogue type : s
+A :  You can find a searched string and play .
+
+dialogue type : qo^bu.%-
+A :  So e Are you So you 're adding like um , I don't know , uh are they fuzzy matches or are they uh ?
+
+dialogue type : s^bk^rt
+A :  OK .
+
+dialogue type : s^bu
+A : 
+
+dialogue type : s^bk^rt
+A :  OK .
+
+dialogue type : s^aa
+A :  Hm - mmm .
+
+dialogue type : b
+A :  Good .
+
+dialogue type : s
+A :  At some point we 're gonna have to say what that private joke is ,
+
+dialogue type : s
+A :  that keeps coming up .
+
+dialogue type : b
+A :  Wow .
+
+dialogue type : b
+A :  It 's amazing .
+
+dialogue type : qy
+A :  Can I ask one more thing about THISL ?
+
+dialogue type : qy^bu^d^rt.%-
+A :  So with the IR stuff then you end up with a somewhat prioritized um ?
+
+dialogue type : s^bk
+A :  Excellent .
+
+dialogue type : s^bk^r
+A :  Excellent .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Ah .
+
+dialogue type : %-
+A :  Well bu
+
+dialogue type : qy^bu^rt
+A :  Isn't it always on the digits ?
+
+dialogue type : qy^bu^r^rt
+A :  Isn't it always on the digits forms ?
+
+dialogue type : s^cs
+A :  It would be nice if if these had little light indicators ,
+
+dialogue type : s^e.%-
+A : 
+
+dialogue type : s^aa^j^r
+A :  Yeah , a buzzer .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^t^tc
+A :  I do have uh uh It 's a different topic . Can I add one top topic ?
+
+dialogue type : qy^rt
+A :  We have time ?
+
+dialogue type : s.%--
+A :  I wanted to ask ,
+
+dialogue type : s^bu^rt
+A :  I know that uh that Thilo you were , um , bringing the Channeltrans interface onto the Windows machine ?
+
+dialogue type : s.%-
+A :  And I wanted to know is th
+
+dialogue type : s^bk^m
+A :  It 's all done ? That 's g wonderful . Great .
+
+dialogue type : qy.%--
+A : 
+
+dialogue type : s
+A :  maybe I should know this but I don't .
+
+dialogue type : qy^bu.%-
+A : 
+
+dialogue type : s^bk
+A :  Wonderful .
+
+dialogue type : s^bk^r
+A :  Wonderful .
+
+dialogue type : s^nd
+A :  We used them once .
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : s^aa^m
+A :  Couple times .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^ba
+A :  And I have uh so my my feeling on it is that I think in principle it 's a really nice idea ,
+
+dialogue type : s^ba
+A :  and you have the time tags which makes it better tha than just taking ra raw notes .
+
+dialogue type : s
+A :  On the other hand , I the down side for me was that I think the pen is really noisy .
+
+dialogue type : s:s
+A :  So you have ka kaplunk , kaplunk , kaplunk .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  but I I sort of thought that was a disadvantage .
+
+dialogue type : s
+A :  I do take notes ,
+
+dialogue type : s^cs
+A :  I mean , I could be taking notes on these things
+
+dialogue type : s
+A :  and I guess the plus with the CrossPads would be the time markings
+
+dialogue type : fh
+A : 
+
+dialogue type : s^no
+A :  I don't know .
+
+dialogue type : %-
+A :  Could Mm - hmm .
+
+dialogue type : s
+A :  Well I did it one time
+
+dialogue type : fh
+A : 
+
+dialogue type : s^cs
+A :  u but I guess the the other thing I 'm thinking is if we wanted that kind of thing I wonder if we 'd lose that much by having someone be a scribe
+
+dialogue type : s^cs^e
+A :  by listening to the tape , to the recording afterwards
+
+dialogue type : s^e
+A :  and taking notes in some other interface .
+
+dialogue type : s^nd
+A :  Oh it 's la it 's useful ,
+
+dialogue type : s^ng
+A :  have a summary and high points .
+
+dialogue type : b
+A :  Well .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg|s.%-
+A :  Well when when I d
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  w Mm - hmm .
+
+dialogue type : s^cs^nd
+A :  There is an alternative .
+
+dialogue type : s^r
+A :  There is an alternative ,
+
+dialogue type : s^na
+A :  I mean , it 's still , there 's uh you know , your point stands about there be needing to be an infrastructure ,
+
+dialogue type : s
+A :  but it doesn't have to be synchronized with the little clock 's timer on it .
+
+dialogue type : s
+A :  You c I mean , I when I when I did it I synchronized it by voice ,
+
+dialogue type : s^e
+A :  by whispering " one , two , three , four " onto the microphone
+
+dialogue type : fh|s^f
+A :  and uh , you know .
+
+dialogue type : s^na
+A :  Yeah , it 's transcribed .
+
+dialogue type : s
+A :  It 's in the transcript .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^r
+A :  Well it 's in the transcript .
+
+dialogue type : s^ba
+A :  I like this PDA idea .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : s^nd
+A :  Well , and not just for you .
+
+dialogue type : s^ng
+A :  But it 's also , it has this problem of having to go from an analog to a d a digital record too ,
+
+dialogue type : qy^g^rt
+A :  doesn't it ?
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  But I mean , say , if i if if you 're writing if you 're writing notes in it does it it can't do handwriting recognition ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : s^ba
+A :  Oh , nicely put .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^aa
+A :  Yeah .
+

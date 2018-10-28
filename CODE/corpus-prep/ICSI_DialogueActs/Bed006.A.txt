@@ -1,0 +1,255 @@
+dialogue type : %-
+A :  Well .
+
+dialogue type : s^na
+A :  u That 's pretty good , I think .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^ft
+A :  Thanks .
+
+dialogue type : s^cs
+A :  You could do it about you .
+
+dialogue type : s^bu
+A :  Well , so the idea is to try to get the actual phrasing that they might use and try to interfere as little as possible with their choice of words .
+
+dialogue type : fh
+A :  uh uh
+
+dialogue type : s^ng
+A :  Well , u u the one experiment th that that that I 've read somewhere , it was they u used pictures .
+
+dialogue type : s
+A :  So to to uh actually um uh specify the the tasks .
+
+dialogue type : s.%-
+A :  Uh , but you know i i
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^bd
+A :  I mean , I I 'm I 'm not saying it 's necessary
+
+dialogue type : s^cs
+A :  but but uh i uh uh i you might be able to combine you know text uh and and some sort of picture
+
+dialogue type : s^cs
+A :  and also uh I think it it will be a good idea to show them the text and kind of chew the task
+
+dialogue type : s
+A :  and then take the test away the the the the the text away
+
+dialogue type : s
+A :  so that they are not uh guided by by by what you wrote ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  Well well you have to be careful with that uh uh thing
+
+dialogue type : s
+A :  because uh I mean many actions presuppose some um almost infinitely many other actions .
+
+dialogue type : s
+A :  So if you go to a bakery you have a general intention of uh not being hungry .
+
+dialogue type : s
+A :  You have a specific intentions to cross the traffic light to get there .
+
+dialogue type : s
+A :  You have a further specific intentions to left to lift your right foot
+
+dialogue type : s.%--
+A :  and so uh uh I mean y you really have to focus on on on
+
+dialogue type : s^cs
+A :  and decide the level of of abstraction that that you aim at it kind of zero in on that ,
+
+dialogue type : s
+A :  and more or less ignore the rest , unless there is some implications that that you want to constant draw from from sub - tasks um that are relevant
+
+dialogue type : s^ba
+A :  uh I mean but very difficult .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : %-
+A :  Well .
+
+dialogue type : s^rt
+A :  I have a question about the slot of the SPG action .
+
+dialogue type : s
+A :  So the Enter - View - Approach the the the EVA um , those are fixed slots in this particular action .
+
+dialogue type : s^bu
+A :  Every action of this kind will have a choice .
+
+dialogue type : qr^bu.%--
+A :  Or or or or will it just
+
+dialogue type : fh
+A : 
+
+dialogue type : qy^rt.%-
+A : 
+
+dialogue type : s^bk
+A :  Right , right .
+
+dialogue type : s
+A :  So so I I mean for for each particular action that you may want to characterize you would have some number of slots that define uh uh uh you know in some way what this action is all about .
+
+dialogue type : s
+A :  It can be either A , B or C .
+
+dialogue type : qr^rt
+A :  Um . So is it a fixed number or or do you leave it open it could be between one and fifteen
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  it 's it 's it 's flexible .
+
+dialogue type : s
+A :  uh ye uh uh b I uh I u I understand
+
+dialogue type : fh
+A :  uh
+
+dialogue type : %-
+A : 
+
+dialogue type : s^ar
+A :  No , no .
+
+dialogue type : s
+A :  There a a actually by I think my question is simpler than that ,
+
+dialogue type : fh|qy.%-
+A : 
+
+dialogue type : s
+A :  OK , so you have an SPG action
+
+dialogue type : s
+A :  and and it has three different um uh aspects
+
+dialogue type : fh
+A :  um
+
+dialogue type : s
+A :  because you can either enter a building or view it or or approach it and touch it or something .
+
+dialogue type : fh|s
+A :  Um now you define uh another action ,
+
+dialogue type : s
+A :  it 's it 's called um uh s S P G - one
+
+dialogue type : s
+A :  action
+
+dialogue type : s
+A :  a different action . Um and this uh action - two would have various variable possibilities of interpreting what you would like to do . And i in in a way similar to either Enter - View - Approach you may want to send a letter , read a letter , or dictate a letter , let 's say .
+
+dialogue type : %-
+A :  So , h
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^bk|s^bu
+A :  Oh , s so it 's sort of automatic derived fr from the structure that that is built elsewhere .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^aa.%
+A :  Right .
+
+dialogue type : fg
+A :  Oh , uh
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Right , right .
+
+dialogue type : s
+A :  Promote them ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : h|s.%--
+A :  uh Friday
+
+dialogue type : fh|s^ba
+A :  uh Yeah , that 's fine .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy^bu^d^rt^t
+A :  So it 's at Friday at three ?
+
+dialogue type : %
+A :  there that 's
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^cs^t^tc
+A :  An - and I would like to second Keith 's request .
+
+dialogue type : s^cs^e
+A :  An example wo would be nice
+
+dialogue type : s^e
+A :  t to have kind of a detailed example .
+
+dialogue type : b
+A :  OK .
+

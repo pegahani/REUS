@@ -1,0 +1,732 @@
+dialogue type : z
+A :  OK .
+
+dialogue type : z
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  Hi .
+
+dialogue type : s
+A :  Uh - huh . Nice to meet you .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : %--
+A :  S
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yes , very much so .
+
+dialogue type : b
+A :  Yes .
+
+dialogue type : b
+A :  Yes .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : h|s
+A :  Um we 're here through Sunday ,
+
+dialogue type : fh
+A :  so
+
+dialogue type : s
+A :  All through Friday would be fine .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Yes . Sure .
+
+dialogue type : s^bk^rt
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : qy^bu^d^rt
+A :  So at eleven ?
+
+dialogue type : qy^bu^d^r^rt
+A :  Thursday around eleven ?
+
+dialogue type : s^bk.%
+A :  OK .
+
+dialogue type : s^bd
+A :  Yeah obviously .
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Oh , OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Oh , OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b.x
+A :  Oh
+
+dialogue type : qw^rt
+A :  Well the obvious one would be if if you envision this as a module within SmartKom , where exactly would that Sit ?
+
+dialogue type : s.%-
+A :  That 's the d
+
+dialogue type : s^bk.x
+A :  OK , yeah .
+
+dialogue type : sj^ba
+A :  Makes perfect sense .
+
+dialogue type : s^bk
+A :  Yes .
+
+dialogue type : s^2
+A :  Well it 's supposed to do .
+
+dialogue type : s^bk
+A :  Yeah
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  Well f from my understanding of what the people at Phillips were originally trying to do doesn't seem to quite fit into SmartKom currently
+
+dialogue type : s
+A :  so what they 're really doing right now is only selecting among the alternatives , the hypotheses that they 're given enriched by the domain knowledge and the um discourse modeler and so on .
+
+dialogue type : s^cs
+A :  So if if this is additional information that could be merged in by them .
+
+dialogue type : s
+A :  And then it would be available to action planning and and others .
+
+dialogue type : s
+A :  Well there 're there 're two levels of of giving an answer and I guess on both levels I don't have any um further questions .
+
+dialogue type : s
+A :  uh the the two levels will be as far as I 'm concerned as uh standing here for the generation module
+
+dialogue type : s
+A :  and the other is is my understanding of what SmartKom uh is supposed to be
+
+dialogue type : sj^ba
+A :  and I I think that fits in perfectly
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yes .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : b.%
+A :  Yes .
+
+dialogue type : b.%
+A :  Yep .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : fg|s
+A :  So my suggestion then is that you um look into the currently ongoing discussion about how the action plans are supposed to look like .
+
+dialogue type : s
+A :  And they 're currently um Agreeing or or in the process of agreeing on an X M L - ification of um something like a state - transition network of how dialogues would proceed .
+
+dialogue type : s
+A :  and The these um transition networks uh will be what the action planner interprets in a sense .
+
+dialogue type : s^aap
+A :  Well uh Marcus Lerkult is actually implementing that stuff
+
+dialogue type : s
+A :  and Marcus and Michael together are um leading the discussion there ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s^aa
+A :  Definitely .
+
+dialogue type : s^aa^rt
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^aa
+A :  No .
+
+dialogue type : s^df
+A :  No , in SmartKom terminology that 's um called a function that 's modeled by a function modeler .
+
+dialogue type : s
+A :  And it 's th that 's completely um encapsulated from th the dialogue system .
+
+dialogue type : s
+A :  That 's simply a functionality that you give data as in a query
+
+dialogue type : s
+A :  and then you get back from that mmm , a functioning model um which might be a planner or a VCR or whatever .
+
+dialogue type : s
+A :  um some result and that 's then then used .
+
+dialogue type : s^aa
+A :  Yeah , yeah .
+
+dialogue type : s^aa|s
+A :  Yeah , in that in that sense
+
+dialogue type : s^aa
+A :  yes ,
+
+dialogue type : s^m
+A :  dialogue act ,
+
+dialogue type : b.%
+A :  yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Clearly .
+
+dialogue type : b
+A :  Yes .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s^aa.%
+A :  Yep .
+
+dialogue type : s
+A :  Probably not enough ,
+
+dialogue type : s.%--
+A :  I mean an another uh more basic point there is that the current um tasks and therefore th the concepts in this ac
+
+dialogue type : s
+A :  what 's called the action plan and what 's really the dialogue manager .
+
+dialogue type : h|s
+A :  um is based on slots that have to be filled
+
+dialogue type : s
+A :  and the um kind of values in these slots would be fixed things like the a time or a movie title or something like this
+
+dialogue type : s
+A :  whereas in the a um tourist domain it might be an entire route .
+
+dialogue type : s
+A :  Set - based , or even very complex structured information in these slots
+
+dialogue type : s^no
+A :  and I 'm not sure if if complex slots of that type are really um being taken into consideration .
+
+dialogue type : s.%--
+A :  So that 's that 's really something we
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  I mean nothing 's being completely settled there
+
+dialogue type : s
+A :  so this is really an ongoing discussion
+
+dialogue type : s.%-
+A :  and that 's
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : b.%
+A :  Yep .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b.%
+A :  Yes .
+
+dialogue type : fg.%
+A :  hmm
+
+dialogue type : s.%--
+A :  That would
+
+dialogue type : s
+A :  b but that I think that that uh point has been realized
+
+dialogue type : s
+A :  and it 's it 's not really um been defined yet
+
+dialogue type : s
+A :  but there 's gonna be some kind of feedback and input from uh the action planner into all the analysis modules , telling them what to expect and what the current state of the discourse is .
+
+dialogue type : s
+A :  Beyond what 's currently being implemented which is just word lists .
+
+dialogue type : s^2^t1
+A :  Of of special interest .
+
+dialogue type : b
+A :  Yes , Yes , Mm - hmm yeah .
+
+dialogue type : s
+A :  The specifics aren't really there yet .
+
+dialogue type : b.%
+A :  Yes .
+
+dialogue type : s
+A :  So , there 's work to do there .
+
+dialogue type : b
+A :  hmm
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  And even on on a more basic level the the action planner actually needs to be able to have um an expressive power that can deal with these structures .
+
+dialogue type : s
+A :  And not just um say um um the dialogue um will consist of ten possible states and th these states really are fixed in in a certain sense .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  That 'd be nice .
+
+dialogue type : s
+A :  It oughta be called a a dialogue manager .
+
+dialogue type : s
+A :  cuz that 's what everybody else calls it .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^arp
+A :  Depends on who you talk to how .
+
+dialogue type : s^cc
+A :  We 'll see .
+
+dialogue type : s^cc
+A :  I 'll go check ,
+
+dialogue type : s^df
+A :  cause I completely agree .
+
+dialogue type : fh
+A :  Yeah ,
+
+dialogue type : s
+A :  and I think this is just for historical reasons within uh , the preparation phase of the project
+
+dialogue type : s
+A :  and not because somebody actually believes it ought to be action planner .
+
+dialogue type : s
+A :  So if there is resistance against changing it , that 's just because " Oh , We don't want to change things . "
+
+dialogue type : s.%--
+A :  That that not deep reason
+
+dialogue type : b
+A :  Hmm
+
+dialogue type : fg|s.%--
+A :  Yeah , Marcus .
+
+dialogue type : qw.%-
+A :  Wh - where 's ?
+
+dialogue type : s^aa|s
+A :  Yeah , he 's he started um I think January .
+
+dialogue type : s
+A :  And he 's gonna be responsible for the implementation of this action planner .
+
+dialogue type : s^bsc
+A :  Dialogue manager .
+
+dialogue type : s^ar
+A :  No ,
+
+dialogue type : s^ar^r|s
+A :  no he 's completely gonna rewrite everything . In Java .
+
+dialogue type : sj^ba
+A :  OK so that 's interesting .
+
+dialogue type : b.x
+A :  hmm
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s^ar^m|s
+A :  No , that 's gonna be phased out .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aap^rt
+A :  Yeah
+
+dialogue type : s
+A :  but that doesn't necessarily contradict um an architecture where there really is a pers a def well - defined interface .
+
+dialogue type : %-
+A :  and and
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : s^bk^rt
+A :  Yes
+
+dialogue type : s^bk
+A :  Sure ,
+
+dialogue type : fg|s
+A :  ye yeah I I think that 's that 's the um concept that people have ,
+
+dialogue type : s^bk
+A :  yep .
+
+dialogue type : s
+A :  And and the the underlying idea of course is that there is something like kernel modules with kernel functionality that you can plug uh certain applications like tourist information or um the home scenario with uh controlling a VCR and so on .
+
+dialogue type : s
+A :  And then extend it to an arbitrary number of applications eventually .
+
+dialogue type : qy.%--
+A :  So wouldn't
+
+dialogue type : s
+A :  That 's an additional reason to have this well - defined interface
+
+dialogue type : s
+A :  and keep these things like uh tourist information external .
+
+dialogue type : s
+A :  And then call it external services .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  yep .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s
+A :  Tubingen was at least involved in putting the chunks together
+
+dialogue type : s
+A :  I can't quite recall whether they actually produced the chunks in the first place .
+
+dialogue type : %-
+A :  Or wh
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Yeah
+
+dialogue type : fg|s
+A :  Well you s and and especially you did some some
+
+dialogue type : fh
+A :  um , l um
+
+dialogue type : s
+A :  was a learning - based approach which learned from a big corpus of of trees .
+
+dialogue type : s
+A :  And yes the it the chunk parser was a finite - state machine that um Mark Light originally w worked on in while he was in Tuebingen
+
+dialogue type : s
+A :  and then somebody else in Tuebingen picked that up . So it was done in Tuebingen ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : b
+A :  Definitely .
+
+dialogue type : s^aa|s
+A :  Yeah I guess it 's similar .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : s
+A :  n Well I think I think there 's some misunderstanding here
+
+dialogue type : s
+A :  it 's Morphix is not used on - line .
+
+dialogue type : s
+A :  s so the lexicon might be derived by Morphix
+
+dialogue type : s
+A :  but What what 's happening on - line is just um um a a retrieval from the lexicon which would give all the stemming information
+
+dialogue type : s
+A :  so it would be a full foreign lexicon .
+
+dialogue type : s^aa.%
+A :  Yep .
+
+dialogue type : b
+A :  Sure ,
+
+dialogue type : b
+A :  right .
+
+dialogue type : %--
+A : 
+
+dialogue type : s^aa|s^na^rt
+A :  Yeah , there there 's the um practice talk .
+
+dialogue type : s^aa|s^na
+A :  Yeah , that that 's what we were planning to do .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b.%
+A :  Yep , yep .
+
+dialogue type : qw
+A :  And how do you envision um the the um this deep semantic to be worked with .
+
+dialogue type : qy.%--
+A :  Would it be highly ambiguous if
+
+dialogue type : qy^bu^d
+A :  and then there would be another module that takes that um highly underspecified deep semantic construction
+
+dialogue type : qy^bu^d^rt
+A :  and map it onto the current context to find out what the person really was talking about in that context .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Oh , OK .
+
+dialogue type : %-
+A :  th
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah , OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah
+
+dialogue type : b
+A :  OK ,
+
+dialogue type : b
+A :  Yeah ,
+
+dialogue type : b.%
+A :  yep yep yep yep
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah ,
+
+dialogue type : b
+A :  oh yeah ,
+
+dialogue type : b
+A :  I see ,
+
+dialogue type : b
+A :  yeah yeah , really .
+
+dialogue type : b
+A :  Alright .
+

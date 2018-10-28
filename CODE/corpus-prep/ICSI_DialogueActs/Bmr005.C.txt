@@ -1,0 +1,774 @@
+dialogue type : z
+C :  Oh , OK .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s^cs
+C :  But he can use text , basically .
+
+dialogue type : s
+C :  I mean , he 's talking about just using text
+
+dialogue type : qy^d^g^rt
+C :  pretty much ,
+
+dialogue type : qrr.%--
+C :  or ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fg|s^j.%-
+C : 
+
+dialogue type : %
+C :  I believe it .
+
+dialogue type : fg|s:s
+C :  Yeah . Actually to make it worse , uh , Morgan uses " you " and " you "
+
+dialogue type : s^e
+C :  with gaze and no identification ,
+
+dialogue type : %--
+C : 
+
+dialogue type : s.x
+C :  I just wrote this down .
+
+dialogue type : s^aa|s^df.x:s
+C :  Yeah , actually . Cuz Morgan will say well , " you had some ideas "
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Right ,
+
+dialogue type : sj^ba^rt
+C :  so it 's great .
+
+dialogue type : sj^ba
+C :  So this is really great
+
+dialogue type : s^df
+C :  because the thing is , because he 's looking at the per even for addressees in the conversation ,
+
+dialogue type : s^cs
+C :  I bet you could pick that up in the acoustics .
+
+dialogue type : s^df^rt
+C :  Just because your gaze is also correlated with the directionality of your voice .
+
+dialogue type : s^aa|s.%-
+C : 
+
+dialogue type : s
+C :  Yeah , if you have the P Z Ms you should be able to pick up what a person is looking at from their voice .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^co
+C :  Put Morgan always like this
+
+dialogue type : %-
+C : 
+
+dialogue type : s^ng
+C :  But you don't have this this problem .
+
+dialogue type : s^j
+C :  Morgan is the one who does this most .
+
+dialogue type : s
+C :  Even though you could pick up later on , just from the acoustics who you were t who you were looking at .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa.%
+C :  Yeah , yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : sj^ba
+C :  it 's interesting .
+
+dialogue type : fg|s.%-
+C : 
+
+dialogue type : s^cs
+C :  Yeah . I mean we should do whatever 's natural in a meeting if if we weren't being recorded .
+
+dialogue type : s.%-
+C :  " If Person X "
+
+dialogue type : s^co:s
+C :  No , you have to say , you still don't know who " he " is , with that prosody .
+
+dialogue type : sj^ba
+C :  It 's ambiguous , so it 's OK .
+
+dialogue type : s
+C :  And the downsampling must have been Dan .
+
+dialogue type : s.%
+C :  It 's an inference .
+
+dialogue type : s^bc
+C :  Overlapping speech .
+
+dialogue type : s^bs
+C :  So there 's a lot of overlap .
+
+dialogue type : fg
+C :  So .
+
+dialogue type : s
+C :  But that can include taps .
+
+dialogue type : fg
+C : 
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : b.%
+C :  Alright .
+
+dialogue type : qw
+C :  But why can't you use the combination of the close - talking mikes , time aligned ?
+
+dialogue type : s
+C :  I I mean if you 're interested in speakers overlapping other speakers and not the other kinds of nonspeech , that 's not a problem ,
+
+dialogue type : s^aa.%
+C :  right ?
+
+dialogue type : s^arp
+C :  But it 's known .
+
+dialogue type : fh|s
+C :  I mean , the normalization you do is over the whole conversation
+
+dialogue type : qy^g^rt
+C :  isn't it ,
+
+dialogue type : s
+C :  over the whole meeting .
+
+dialogue type : s
+C :  So if you wanted to study people overlapping people , that 's not a problem .
+
+dialogue type : fg|s^nd.%--
+C :  Well , not only a word level , but actually
+
+dialogue type : fh|s
+C :  I mean , you didn't need to show the exact point of interruption ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : qw.%-
+C : 
+
+dialogue type : s
+C :  I mean , you shouldn't need to do this p completely by hand ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s^fa
+C :  I 'm sorry .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bu
+C :  In the far - field mike .
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : s^df
+C :  What I mean is get it from the close - talking mikes .
+
+dialogue type : s^cs^rt
+C :  A or ge get a first pass from those ,
+
+dialogue type : s^e.%--
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk|%-
+C : 
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  or how bad it is ,
+
+dialogue type : fg|sj^ba
+C :  be um , because that would be interesting
+
+dialogue type : s
+C :  especially because the bottleneck is the transcription .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : s
+C :  I mean , we 've got a lot more data than we have transcriptions for .
+
+dialogue type : s^e
+C :  We have the audio data ,
+
+dialogue type : s^e
+C :  we have the close - talking mike ,
+
+dialogue type : sj.%--
+C :  so I mean it seems like one kind of project
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh|s.%--
+C :  um , that you can get the training data for pretty quickly is , you know ,
+
+dialogue type : s
+C :  if you infer form the close - talking mikes where the on - off points are of speech ,
+
+dialogue type : fh|qw
+C :  you know , how can we detect that from a far - field ?
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : s^fa.%-
+C : 
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s^aa
+C :  Right ,
+
+dialogue type : s^aa^m
+C :  by hand . Yeah .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^fe
+C :  I 'm sorry .
+
+dialogue type : %-
+C : 
+
+dialogue type : %-
+C :  It
+
+dialogue type : sj^ba
+C :  Well , it 's definitely good to have somebody look at it .
+
+dialogue type : s^df.%-
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : sj^ba^t3
+C :  It looks good .
+
+dialogue type : s^cc^t3
+C :  I 'll be in touch .
+
+dialogue type : s^ft^t3
+C :  Thanks .
+
+dialogue type : s^aa
+C :  Oh yeah , definitely .
+
+dialogue type : %-
+C : 
+
+dialogue type : qy^rt
+C :  Can I just ask about the data ,
+
+dialogue type : qw^rt
+C :  like very straightforward question is where we are on the amount of data and the amount of transcribed data ,
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : s
+C :  I wanted to get a feel for that
+
+dialogue type : s^rt
+C :  to sort of be able to know what what can be done first
+
+dialogue type : qw
+C :  and like how many meetings are we recording
+
+dialogue type : %-
+C : 
+
+dialogue type : qw^rt
+C :  How many meetings is that ?
+
+dialogue type : qw^r.%-
+C : 
+
+dialogue type : qo^bu^d^rt
+C :  t ten It 's like ten meetings or something ?
+
+dialogue type : s^bk
+C :  Uh - huh .
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  Uh - huh . And we 're recording only this meeting , like continuously
+
+dialogue type : qr^bu^d.%-
+C :  we 're only recording this one now ? or ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qy^rt
+C :  Do they meet every week ,
+
+dialogue type : qrr.%-
+C : 
+
+dialogue type : sj^ba
+C :  Great .
+
+dialogue type : s^bs
+C :  So there 's probably there 's three to four a week ,
+
+dialogue type : s^bk^m
+C :  that we 're aiming for .
+
+dialogue type : s^bu
+C :  And they 're each about an hour or something .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s.%-
+C :  Actually I have o
+
+dialogue type : s^ar
+C :  Not really .
+
+dialogue type : s
+C :  It 's three to four per week .
+
+dialogue type : fh|s.%-
+C : 
+
+dialogue type : s
+C :  So that 's not a lot of hours .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qy^rt.%--
+C : 
+
+dialogue type : s
+C :  I know this sounds tough but we 've got the room set up .
+
+dialogue type : fh|s.%--
+C :  Um I was starting to think of some projects where you would use
+
+dialogue type : fh|s
+C :  well , similar to what we talked about with uh energy detection on the close - talking mikes .
+
+dialogue type : s
+C :  There are a number of interesting questions that you can ask about how interactions happen in a meeting , that don't require any transcription .
+
+dialogue type : qw
+C :  So what are the patterns , the energy patterns over the meeting ?
+
+dialogue type : s
+C :  And I 'm really interested in this but we don't have a whole lot of data .
+
+dialogue type : s^cs
+C :  So I was thinking , you know , we 've got the room set up
+
+dialogue type : fh|s^cs
+C :  and you can always think of , also for political reasons , if ICSI collected you know , two hundred hours , that looks different than forty hours , even if we don't transcribe it ourselves ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s.%--
+C :  I mean , is there Are there any other meetings here that we can record , especially meetings that have some kind of conflict in them or some kind of deci
+
+dialogue type : s^bsc.%--
+C :  I mean , that are less
+
+dialogue type : fh|s.%--
+C : 
+
+dialogue type : fh|qy^rt
+C :  uh , that have some more emotional aspects to them ,
+
+dialogue type : qrr.%-
+C : 
+
+dialogue type : s
+C :  There 's laughter ,
+
+dialogue type : s
+C :  um I 'm talking more about strong differences of opinion meetings ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : qy^bu^d^rt
+C :  To be allowed to record them ?
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  Well , if there is , anyway .
+
+dialogue type : qy^2^d^rt
+C :  With lapel mikes or something ?
+
+dialogue type : b
+C :  Right .
+
+dialogue type : sj^ba^rt
+C :  Right . No , I think that 'd be great ,
+
+dialogue type : s^e
+C :  if we can get more data .
+
+dialogue type : fg|s.%--
+C :  Well Or The thing is , they 're not as averse to wearing one of these head - mount
+
+dialogue type : s
+C :  I mean , they 're on the radio ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : fh|sj^ba
+C :  So . Um , I think that 'd be fantastic
+
+dialogue type : s.%--
+C :  cuz those kinds of panels and Those have interesting
+
+dialogue type : s
+C :  Th - that 's an a side of style a style that we 're not collecting here ,
+
+dialogue type : fh
+C :  so
+
+dialogue type : sj^ba
+C :  it 'd be great .
+
+dialogue type : fg
+C :  Right .
+
+dialogue type : s
+C :  Yeah I was mostly trying to think , " OK , if you start a project , within say a month , you know , how much data do you have to work with .
+
+dialogue type : s
+C :  And you you wanna s you wanna sort of fr freeze your your data for awhile
+
+dialogue type : fh|s.%--
+C : 
+
+dialogue type : s
+C :  and we don't have the transcripts back yet from IBM
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : qy.%--
+C :  Do Oh , do we now ?
+
+dialogue type : fh|s^df^t
+C :  So um , not complaining , I was just trying to think , you know , what kinds of projects can you do now versus uh six months from now
+
+dialogue type : s.%-
+C :  and they 're pretty different , because
+
+dialogue type : fg
+C : 
+
+dialogue type : fg
+C :  Right .
+
+dialogue type : b
+C :  Right , right .
+
+dialogue type : s^no.%--
+C : 
+
+dialogue type : s
+C :  you know , I don't wanna charge the time that I have on the project too early , before there 's enough data to make good use of the time .
+
+dialogue type : s.%--
+C :  And that 's and especially with the student
+
+dialogue type : s
+C : 
+
+dialogue type : fh
+C :  Uh
+
+dialogue type : s
+C :  anyway , I shouldn't say too much ,
+
+dialogue type : fh|qy
+C :  but um if someone came that was great and wanted to do some real work and they have to end by the end of this school year in the spring , how much data will I have to work with , with that person .
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  And we just don't know about the transcription part of that ,
+
+dialogue type : fh
+C :  so .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C : 
+
+dialogue type : h|s^aa
+C :  Well yeah ,
+
+dialogue type : s
+C :  or just if you 're if you ha If there are meetings here that happen that we can record even if we don't um have them do the digits , or maybe have them do a shorter digit thing like if it was , you know , uh , one string of digits , or something , they 'd probably be willing to do .
+
+dialogue type : sj^ba
+C :  Then , having the data is very valuable ,
+
+dialogue type : sj^df
+C :  cuz I think it 's um politically better for us to say we have this many hours of audio data , especially with the ITR , if we put in a proposal on it .
+
+dialogue type : s
+C :  It 'll just look like ICSI 's collected a lot more audio data .
+
+dialogue type : fh|s
+C :  Um , whether it 's transcribed or not um , is another issue ,
+
+dialogue type : s
+C :  but there 's there are research questions you can answer without the transcriptions , or at least that you can start to answer .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^ng
+C :  Need the close - talking mikes .
+
+dialogue type : s^aa
+C :  I mean , absolutely ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fh|s
+C :  Um or at least , like , me personally ? I would I couldn't use that data .
+
+dialogue type : fg
+C :  Um .
+
+dialogue type : sj^bd
+C :  So it 's a great idea ,
+
+dialogue type : s
+C :  and if it were true than I would just do that ,
+
+dialogue type : sj^ba
+C : 
+
+dialogue type : s
+C :  like the room is not the bottleneck ,
+
+dialogue type : s
+C :  and we have enough time in the room ,
+
+dialogue type : s
+C :  it 's getting the people to come in and put on the and get the setup going .
+
+dialogue type : %-
+C : 
+
+dialogue type : qy^bh
+C :  Really ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Right .
+
+dialogue type : qw
+C : 
+
+dialogue type : s^cs
+C :  I mean , I don't know , if there 's any way without too much more overhead , even if we don't ship it right away to IBM even if we just collect it here for awhile , to record you know , two or three more meeting a week ,
+
+dialogue type : s^df^rt
+C :  just to have the data , even if they 're um not doing the digits , but they do wear the headphones ?
+
+dialogue type : s^ar.%--
+C :  No , I meant ,
+
+dialogue type : fh|s
+C :  um , sorry , the meetings where people eat their lunch downstairs ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa^m
+C :  Just the ch the chatting .
+
+dialogue type : s
+C :  I actually I actually think that 's useful data , um the chatting ,
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Alright .
+
+dialogue type : s
+C :  Alright , so I 'll just throw it out there ,
+
+dialogue type : sj
+C :  if anyone knows of one more m or two more wee meetings per week that happen at ICSI , um that we could record , I think it would be worth it .
+
+dialogue type : qw
+C :  What if we give people you know , we cater a lunch in exchange for them having their meeting here or something ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Alright , alright , alright .
+
+dialogue type : s^na
+C :  No , definitely .
+
+dialogue type : s.%-
+C :  Yeah , I was thinking , there 's all these other peo
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %--
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : %-
+C :  Alright , well .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  Well , and they 're already they 're these things are already recorded ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : qw
+C :  Why why not ?
+
+dialogue type : fg|s
+C :  Well , we can find out .
+
+dialogue type : s
+C :  I know for instance Mark Liberman was interested uh in in LDC
+
+dialogue type : s
+C :  getting data ,
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  Great . OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^ba
+C :  That 's a good way to end a meeting .
+

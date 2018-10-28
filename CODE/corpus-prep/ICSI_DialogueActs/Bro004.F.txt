@@ -1,0 +1,108 @@
+dialogue type : z
+F :  Wh - what causes the crash ?
+
+dialogue type : z
+F :  Oh , maybe it 's the turning turning off and turning on of the mike ,
+
+dialogue type : z
+F :  right ?
+
+dialogue type : z
+F :  Yeah , OK , mine 's working .
+
+dialogue type : z
+F :  Watch this .
+
+dialogue type : z
+F :  Yep , that 's me .
+
+dialogue type : s^co
+F :  Oh wait wait wait wait wait . Wait .
+
+dialogue type : s^co
+F :  Hold on .
+
+dialogue type : s^co
+F :  Hold on .
+
+dialogue type : s^cs
+F :  Let me give you a black screen .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^j
+F :  Musical chairs everybody !
+
+dialogue type : fg|s^arp
+F :  Yeah , a fraction of it .
+
+dialogue type : h
+F :  Yeah , um .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : %-
+F :  Downs
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^bk
+F :  Alright .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  It sometimes , actually , depends on what features you 're using .
+
+dialogue type : b
+F :  Um , but He Mm - hmm .
+
+dialogue type : s
+F :  He was using uh sixty - four phonemes from SAMPA .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^cs^t3
+F :  I 'll get it for you .
+
+dialogue type : s^t3
+F :  Bigger is worse .
+
+dialogue type : s^t3
+F :  This is error rate , I think .
+
+dialogue type : s^ar^t3.%
+F :  No . No .
+
+dialogue type : s^aa^t3
+F :  Yeah , yeah , yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^2
+F :  Well matched condition .
+
+dialogue type : s
+F :  Twenty - seven .
+
+dialogue type : s^aa
+F :  mm - hmm
+
+dialogue type : s^2
+F :  But including the features .
+
+dialogue type : s
+F :  It just died .
+
+dialogue type : z
+F :  Oh .
+

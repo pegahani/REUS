@@ -1,0 +1,339 @@
+dialogue type : s.%
+E :  The data .
+
+dialogue type : s^2
+E :  The data which we are collecting here .
+
+dialogue type : s^rt
+E :  Data ?
+
+dialogue type : s
+E :  The SmartKom data ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^2^cs.%--
+E :  And also the SmartKom thing should b
+
+dialogue type : s
+E :  And we have done that on the automatic segmentations .
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^m
+E :  Into two pieces .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : s^na
+E :  I recognize that , too .
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Some latency or something .
+
+dialogue type : b
+E :  Yeah ?
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  They are not transcribed yet .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %
+E :  Ch
+
+dialogue type : fg
+E :  So
+
+dialogue type : qw.%--
+E :  And how do we find the transcripts for those so that ?
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : qy^d
+E :  The references for for those segments ?
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^bs
+E :  So , basically you give some time constraints for for the references and for for the hypothesis ,
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Yeah , OK .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s
+E :  I 'm just in progress of of doing that .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : %--
+E :  s
+
+dialogue type : s
+E :  I think , eight meetings or something which which I 'm using ,
+
+dialogue type : s
+E :  and , it 's before it was twenty minutes of one meeting .
+
+dialogue type : s
+E :  So should be a little bit better .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : s
+E :  We 'll see that .
+
+dialogue type : s
+E :  There were the false alarms .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^cc
+E :  I 'll can make an can , like , make a c comparison of of the old system to the to the new one ,
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : s^nd
+E :  Actually , it 's changed to a synthesis for for the first part now .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^t3
+E :  It 's a human operator .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yes .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  No .
+
+dialogue type : s^nd
+E :  projector We were not saying we are not doing it .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qy^d^rt
+E :  The English system ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %--
+E :  B
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s^ng
+E :  But but I 'm not sure about the legal aspect of of that .
+
+dialogue type : qy
+E :  Is is there some contract with SmartKom or something about the data ?
+
+dialogue type : qw.%--
+E : 
+
+dialogue type : qy
+E :  or , is is that our data which we are collecting here ,
+
+dialogue type : qrr.%--
+E :  or ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  So .
+
+dialogue type : fg
+E :  OK .
+
+dialogue type : fg|s
+E :  So . Yeah , th th that was the question .
+
+dialogue type : %--
+E :  If if ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Basically .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg
+E :  So .
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Transcription is done in Munich .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa^r
+E :  Yeah .
+
+dialogue type : s^cs^t3
+E :  You can do that if you want .
+
+dialogue type : s
+E :  Non - back - up .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Just before .
+
+dialogue type : s^fe
+E :  Oops .
+

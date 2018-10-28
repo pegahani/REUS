@@ -1,0 +1,33 @@
+dialogue type : z
+A :  Go ahead and read .
+
+dialogue type : z
+A :  OK .
+
+dialogue type : b.x
+A :  OK .
+
+dialogue type : s^ar
+A :  Not that much
+
+dialogue type : %--
+A :  you didn't .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Huh .
+
+dialogue type : qy
+A :  So is like " biking there " part of like " driving there " ,
+
+dialogue type : qrr.%--
+A :  or ?
+

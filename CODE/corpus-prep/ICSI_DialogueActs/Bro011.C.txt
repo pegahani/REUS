@@ -1,0 +1,354 @@
+dialogue type : z
+C :  Uh - oh .
+
+dialogue type : z
+C :  Radio four .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^aa
+C :  Oh yeah .
+
+dialogue type : fg
+C :  Alright .
+
+dialogue type : fh|s^rt
+C :  Well . Uh first we discussed about some of the points that I was addressing in the mail I sent last week .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s^rt
+C :  About the um , well the downsampling problem .
+
+dialogue type : s
+C :  Uh and about the f the length of the filters
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  So the fact that there there is no uh low - pass filtering before the downsampling .
+
+dialogue type : fh
+C :  Well .
+
+dialogue type : s
+C :  There is because there is LDA filtering but that 's perhaps not uh the best
+
+dialogue type : %--
+C :  w m
+
+dialogue type : fh
+C :  Well .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : h|s^co^na^rt
+C :  Uh " try it " .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s
+C :  I guess .
+
+dialogue type : fh
+C :  Uh .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^nd
+C :  We don't have yet
+
+dialogue type : fh
+C :  um So , yeah .
+
+dialogue type : s^cs^rt
+C :  We should have a look first at , perhaps , the modulation spectrum .
+
+dialogue type : fh|s.%--
+C :  Um . So there is this ,
+
+dialogue type : s^rt
+C :  there is the um length of the filters .
+
+dialogue type : fh|s
+C :  Um . So the i this idea of trying to find filters with shorter delays .
+
+dialogue type : fh|s^rt
+C :  Um . We started to work with this .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^t.%--
+C :  And the third point um was the um ,
+
+dialogue type : fh|s.%--
+C :  yeah , the on - line normalization where ,
+
+dialogue type : s^rt
+C :  well , the recursion f recursion for the mean estimation is a filter with some kind of delay
+
+dialogue type : s^rt
+C :  and that 's not taken into account right now .
+
+dialogue type : fh
+C :  Um . Yeah .
+
+dialogue type : s
+C :  And there again , yeah .
+
+dialogue type : s.%--
+C :  For this , the conclusion of Hynek was , well , " we can try it but "
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : h|s
+C :  So try to um um take into account the delay of the recursion for the mean estimation .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s
+C :  And this we 've not uh worked on this yet .
+
+dialogue type : fh
+C :  Um , yeah .
+
+dialogue type : s.%--
+C :  And so while discussing about these these LDA filters , some i issues appeared , like
+
+dialogue type : s.%--
+C :  well , the fact that if we look at the frequency response of these filters it 's
+
+dialogue type : s
+C :  uh , well , we don't know really what 's the important part in the frequency response
+
+dialogue type : s^rt
+C :  and there is the fact that in the very low frequency , these filters don't don't really remove a lot . compared to the to the uh standard RASTA filter .
+
+dialogue type : fh|s.%--
+C :  Uh and that 's probably a reason why , yeah , on - line normalization helps because it it ,
+
+dialogue type : s
+C :  yeah , it removed this mean .
+
+dialogue type : fh|s^cs
+C :  Um . Yeah , but perhaps everything could should be could be in the filter ,
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : fh|s^tc
+C :  So basically that was that 's all we discussed about .
+
+dialogue type : s^t
+C :  We discussed about good things to do
+
+dialogue type : s^rt
+C :  also uh well , generally good stuff to do for the research .
+
+dialogue type : s
+C :  And this was this LDA uh tuning perhaps and Hynek proposed again to his uh TRAPS ,
+
+dialogue type : fh
+C :  so .
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : b
+C :  um .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Well , but .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C : 
+
+dialogue type : fg
+C :  Yeah
+
+dialogue type : s^no.%--
+C :  I don't know what happened really , but
+
+dialogue type : s^cs
+C :  I guess it 's it 's also so uh the time constraints .
+
+dialogue type : s
+C :  Because , well , we discussed about that about this problem
+
+dialogue type : fh|s.x
+C :  and they told us " well , we will do all that 's possible to have enough space for a network "
+
+dialogue type : s.%-
+C :  but then , yeah , perhaps they were too short with the time and
+
+dialogue type : s^aa
+C :  uh yeah .
+
+dialogue type : s
+C :  But there was also problem perhaps a problem of communication .
+
+dialogue type : fh
+C :  So , yeah .
+
+dialogue type : s^cc.%-
+C : 
+
+dialogue type : s^aa|s^cs.x
+C :  Yeah , slikes and send mails .
+
+dialogue type : fh
+C :  u s
+
+dialogue type : b
+C :  o o Yeah .
+
+dialogue type : fh
+C :  Uh .
+
+dialogue type : s^tc
+C :  OK .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Basically .
+
+dialogue type : b
+C :  Um .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah , yeah .
+
+dialogue type : s^cc
+C :  So yeah we 're will start to do this also .
+
+dialogue type : fh|s^rt
+C :  Uh so Carmen is just looking at the Ericsson Ericsson code .
+
+dialogue type : %-
+C :  And
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b.%
+C :  Oh yeah ?
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^rt.%-
+C : 
+
+dialogue type : qy^rt
+C :  Is it the guy that was using the pattern of pressure on the tongue
+
+dialogue type : qrr.%--
+C :  or ?
+
+dialogue type : qw.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : s^cs
+C :  I guess we can try to have some kind of new baseline for next week perhaps .
+
+dialogue type : s^e^rt
+C :  with all these minor things modified .
+
+dialogue type : s
+C :  And then do other things ,
+
+dialogue type : s^cs
+C :  play with the spectral subtraction ,
+
+dialogue type : s^cs
+C :  and retry the MSG and things like that .
+
+dialogue type : qy^bu^d^rt
+C :  Big list ?
+
+dialogue type : qw^rt.x
+C :  What is Octave so ?
+
+dialogue type : qy^d^rt
+C :  It 's a free software ?
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : z
+C :  And it does the same syntax and everything
+
+dialogue type : z
+C :  eh
+
+dialogue type : z
+C :  like Matlab , or ?
+

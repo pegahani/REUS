@@ -1,0 +1,1785 @@
+dialogue type : z
+E :  Let 's see .
+
+dialogue type : z
+E :  Test ?
+
+dialogue type : z
+E :  Test ?
+
+dialogue type : z
+E :  Yeah .
+
+dialogue type : z
+E :  OK .
+
+dialogue type : s
+E :  I was saying Hynek 'll be here next week ,
+
+dialogue type : s^e
+E :  uh , Wednesday through Friday
+
+dialogue type : s^e
+E :  uh , through Saturday ,
+
+dialogue type : fh
+E :  and , um ,
+
+dialogue type : s
+E :  I won't be here Thursday and Friday .
+
+dialogue type : s^cs
+E :  But my suggestion is that , uh , at least for this meeting , people should go ahead ,
+
+dialogue type : s^df
+E :  uh , cuz Hynek will be here ,
+
+dialogue type : %--
+E :  and ,
+
+dialogue type : s^df^j
+E :  you know , we don't have any Czech accent yet ,
+
+dialogue type : s^df
+E :  uh , as far as I know ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  There we go .
+
+dialogue type : fg
+E :  Um .
+
+dialogue type : qw^rt^t^tc
+E :  So other than reading digits , what 's our agenda ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : fg
+E :  Um .
+
+dialogue type : qy^rt
+E :  Do you think that would be the case for next week also ?
+
+dialogue type : qrr.%--
+E :  Or is is , uh ?
+
+dialogue type : qw.%--
+E :  What 's your projection on ?
+
+dialogue type : s^cs
+E : 
+
+dialogue type : s^df
+E : 
+
+dialogue type : s^cs
+E :  is , um , adjusting the , uh , sca the scaling and , uh , insertion penalty sorta stuff .
+
+dialogue type : s^bk^rt
+E :  Right .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bu
+E :  But you were looking at mel cepstrum .
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s
+E :  So , I mean , i it it 's not the direction that you were working with that we were saying what 's the uh , what 's the best you can do with with mel cepstrum .
+
+dialogue type : s
+E :  But , they raised a very valid point ,
+
+dialogue type : s^e.%--
+E : 
+
+dialogue type : s
+E :  So , to first order I mean , you have other things you were gonna do ,
+
+dialogue type : s
+E :  but to first order , I would say that the conclusion is that if you , um , do , uh , some monkeying around with , uh , the exact HTK training and @ @ with , uh , you know , how many states and so forth , that it it doesn't particularly improve the performance .
+
+dialogue type : s^bs
+E :  In other words , that even though it sounds pretty dumb , just applying the same number of states to everything , more or less , no matter what language , isn't so bad .
+
+dialogue type : qy^d^f^g^rt
+E :  Right ?
+
+dialogue type : s^bu
+E :  And I guess you hadn't gotten to all the experiments you wanted to do with number of Gaussians ,
+
+dialogue type : fh
+E :  but , um ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  If we had to if we had to draw a conclusion on the information we have so far , we 'd say something like that .
+
+dialogue type : qy^d^f^g^rt
+E :  Right ?
+
+dialogue type : fh|s
+E :  Uh , so the next question to ask , which is I think the one that that that Andreas was dre addressing himself to in the lunch meeting , is , um , we 're not supposed to adjust the back - end ,
+
+dialogue type : s
+E :  but anybody using the system would .
+
+dialogue type : fh
+E :  So ,
+
+dialogue type : qw
+E :  if you were just adjusting the back - end , how much better would you do , uh , in noise ?
+
+dialogue type : s^df
+E :  Uh , because the language scaling and insertion penalties and so forth are probably set to be about right for mel cepstrum .
+
+dialogue type : fh|s
+E :  But , um , they 're probably not at all set right for these things ,
+
+dialogue type : s^e
+E :  particularly these things that look over , uh , larger time windows , in one way or another with with LDA and KLT and neural nets and all these things .
+
+dialogue type : s
+E :  In the fa past we 've always found that we had to increase the insertion penalty to to correspond to such things .
+
+dialogue type : fh
+E :  So ,
+
+dialogue type : s^cs
+E :  I think that 's , uh , @ @ that 's kind of a first - order thing that that we should try .
+
+dialogue type : s^na
+E :  So by " our front - end " I mean take , you know , the Aurora - two s take some version that Stephane has that is , you know , our current best version of something .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s
+E :  I mean , y don't wanna do this over a hundred different things that they 've tried
+
+dialogue type : s
+E :  but , you know , for some version that you say is a good one .
+
+dialogue type : qy^d^f^g
+E :  You know ?
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : qw
+E :  How how much , uh , does it improve if you actually adjust that ?
+
+dialogue type : s
+E :  But it is interesting .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : qw
+E :  How about for the for the mismatched or or or or the or the medium mismatched conditions ?
+
+dialogue type : qy.%--
+E :  Have you ?
+
+dialogue type : qy.%--
+E :  When you adjusted those numbers for mel cepstrum , did it ?
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : fg
+E : 
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : fh
+E : 
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s^cs
+E :  Also , eh , eh , sometimes if you run behind on some of these things , maybe we can get someone else to do it
+
+dialogue type : s^cs
+E :  and you can supervise or something .
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  but I think it would be it 'd be good to know that .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Uh .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E : 
+
+dialogue type : s^e
+E :  at least part of it that that we were seeing .
+
+dialogue type : s^e
+E :  Remember we were seeing the SRI system was so much better than the tandem system .
+
+dialogue type : s^e
+E :  Part of it might just be that the SRI system , they they they always adjust these things to be sort of optimized ,
+
+dialogue type : %--
+E : 
+
+dialogue type : s^aa
+E :  Yes .
+
+dialogue type : s^na
+E :  I think you can .
+
+dialogue type : h
+E : 
+
+dialogue type : fh
+E :  uh ,
+
+dialogue type : s
+E :  part of what 's going on , um , is the , uh , the range of values .
+
+dialogue type : s
+E :  So , if you have something that has a much smaller range or a much larger range , and taking the appropriate root .
+
+dialogue type : qy^d^f^g
+E :  You know ?
+
+dialogue type : s^cs
+E :  If something is kind of like the equivalent of a bunch of probabilities multiplied together , you can take a root of some sort .
+
+dialogue type : s^cs
+E :  If it 's like seven probabilities together , you can take the seventh root of it or something ,
+
+dialogue type : s^cs
+E :  or if it 's in the log domain , divide it by seven .
+
+dialogue type : %--
+E : 
+
+dialogue type : %--
+E :  but ,
+
+dialogue type : fh
+E :  um ,
+
+dialogue type : s
+E :  that has a similar effect
+
+dialogue type : s^df
+E :  because it changes the scale of the numbers of the differences between different candidates from the acoustic model
+
+dialogue type : s^e
+E :  as opposed to what 's coming from the language model .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^df
+E :  I mean , it 's more directly like the the language scaling or the , uh the model scaling or acoustic scaling ,
+
+dialogue type : s
+E :  but you know that those things have kind of a similar effect to the insertion penalty
+
+dialogue type : s
+E :  anyway . They 're a slightly different way of of handling it .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^na
+E :  I think so .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s.%--
+E :  So that 's why I think
+
+dialogue type : s
+E :  that 's another reason other than curiosity as to why i it would in fact be kinda neat to find out if we 're way off .
+
+dialogue type : qy.%--
+E :  I mean , the other thing is , are aren't we seeing ? Y y
+
+dialogue type : s
+E :  I 'm sure you 've already looked at this
+
+dialogue type : s^bu
+E :  bu in these noisy cases , are ? We are seeing lots of insertions .
+
+dialogue type : qy^d^g^rt
+E :  Right ?
+
+dialogue type : qy^bu^d^rt
+E :  The insertion number is quite high ?
+
+dialogue type : s
+E :  I know the VAD takes pre care of part of that ,
+
+dialogue type : %--
+E : 
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : qw^rt
+E :  Wha - what 's a typical number ?
+
+dialogue type : qy.%--
+E :  Do we ?
+
+dialogue type : s^bk^m
+E :  Oh , you oh , you don't know .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  I 'm sure it 's more balanced ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I mean , in in the the the old systems we used to do , I I uh , I remember numbers kind of like insertions being half the number of deletions , as being and both numbers being tend to be on the small side comparing to to , uh , substitutions .
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s
+E :  And it may be less of a critical thing .
+
+dialogue type : s^e^r
+E :  I mean , the fact that some get by may be less of a critical thing if you , uh , get things in the right range .
+
+dialogue type : s
+E :  So , I mean , the insertions is is a symptom .
+
+dialogue type : s^e
+E :  It 's a symptom that there 's something , uh , wrong with the range .
+
+dialogue type : s
+E :  But there 's uh , your your your substitutions tend to go up as well .
+
+dialogue type : s.%--
+E :  So , uh , I I I think that ,
+
+dialogue type : s
+E :  uh , the most obvious thing is just the insertions , @ @ .
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E :  um .
+
+dialogue type : s
+E :  If you 're operating in the wrong range I mean , that 's why just in general , if you change what these these penalties and scaling factors are , you reach some point that 's a that 's a minimum .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s
+E :  We do have to do well over a range of different conditions ,
+
+dialogue type : s^e
+E :  some of which are noisier than others .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : fh|s^cs.%--
+E : 
+
+dialogue type : fh|s.%--
+E :  Um , I mean we ca
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  Even though it 's it 's it 's true that in a real situation you can in fact adjust the these these scaling factors in the back - end , and it 's ar artificial here that we 're not adjusting those , you certainly don't wanna be adjusting those all the time .
+
+dialogue type : s
+E : 
+
+dialogue type : s
+E :  I remember after we got our stuff more or less together in the previous systems we built , that we tended to set those scaling factors at kind of a standard level ,
+
+dialogue type : s
+E :  and we would rarely adjust them again ,
+
+dialogue type : s^e.%--
+E : 
+
+dialogue type : s^e^r
+E :  for an evaluation you can get an extra point or something if you tweaked it a little bit .
+
+dialogue type : fh
+E :  But ,
+
+dialogue type : s
+E :  once we knew what rou roughly the right operating range was , it was pretty stable ,
+
+dialogue type : s
+E :  and Uh , we might just not even be in the right operating range .
+
+dialogue type : s^ar|s^nd
+E :  No . You don't wanna change it for different conditions .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^ar^r
+E :  No .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aap.%--
+E : 
+
+dialogue type : s.%--
+E :  I mean , i if he
+
+dialogue type : s
+E :  it to me , actually , even if you wanna be play on the gamesmanship side , it can be kinda tricky .
+
+dialogue type : s^cs
+E :  So , I mean , what you would do is set the set the scaling factors , uh , so that you got the best number for this point four five times the you know , and so on .
+
+dialogue type : s
+E : 
+
+dialogue type : s^e
+E :  those weightings .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E : 
+
+dialogue type : s^cs
+E :  I just sorta think we need to explore the space .
+
+dialogue type : s
+E :  Just take a look at it a little bit .
+
+dialogue type : s^df
+E :  And we we we may just find that that we 're way off .
+
+dialogue type : s
+E :  Maybe we 're not .
+
+dialogue type : fh
+E :  You know ?
+
+dialogue type : s^df
+E :  As for these other things , it may turn out that , uh , it 's kind of reasonable .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I mean , Andreas gave a very reasonable response ,
+
+dialogue type : s
+E : 
+
+dialogue type : s^e.%--
+E :  of , you know ,
+
+dialogue type : s
+E :  people people within this tight - knit community who are doing this evaluation are accepting , uh , more or less , that these are the rules .
+
+dialogue type : s
+E :  But , people outside of it who look in at the broader picture are certainly gonna say " Well , wait a minute . You 're doing all this standing on your head , uh , on the front - end ,
+
+dialogue type : s
+E :  when all you could do is just adjust this in the back - end with one s one knob . "
+
+dialogue type : %--
+E :  And
+
+dialogue type : s^co
+E :  so we have to at least , I think , determine that that 's not true ,
+
+dialogue type : s^e
+E :  which would be OK ,
+
+dialogue type : s^co
+E :  or determine that it is true ,
+
+dialogue type : s^co
+E :  in which case we want to adjust that
+
+dialogue type : s^co
+E :  and then continue with with what we 're doing .
+
+dialogue type : s
+E :  And as you say as you point out finding ways to then compensate for that in the front - end also then becomes a priority for this particular test ,
+
+dialogue type : s
+E :  and saying you don't have to do that .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : fg
+E :  OK .
+
+dialogue type : fh
+E : 
+
+dialogue type : qw^rt^tc
+E :  What 's new with you ?
+
+dialogue type : qw^j
+E :  Uh , what 's old with you that 's developed ?
+
+dialogue type : %
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qw^j
+E :  What 's old with you that has developed over the last week or two ?
+
+dialogue type : qw^br^rt
+E :  What was that ?
+
+dialogue type : qw
+E :  I mean , what what 's what 's going on now ?
+
+dialogue type : qw
+E :  What are you doing ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bu
+E :  Yeah . That 's what you were describing , I guess , a week or two ago .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+E :  So you 're training neural networks now ?
+
+dialogue type : qw^rt
+E :  So , what wha wh wha what what 's going on ?
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : fg
+E : 
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s^bs
+E :  I if I can summarize , basically what 's going on is that you 're going over a lot of material that you have generated in furious fashion ,
+
+dialogue type : s^bs
+E :  f generating many results and doing many experiments
+
+dialogue type : s^bs
+E :  and trying to pull it together into some coherent form to be able to see wha see what happens .
+
+dialogue type : qy^d^g^rt
+E :  Yes ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg
+E :  OK .
+
+dialogue type : s^cs
+E :  So , my suggestion , though , is that you you not necessarily finish that .
+
+dialogue type : s^cs
+E :  But that you put it all together so that it 's you 've got you 've got a clearer structure to it .
+
+dialogue type : s^e
+E :  You know what things are ,
+
+dialogue type : s^e
+E :  you have things documented ,
+
+dialogue type : s^e
+E :  you 've looked things up that you needed to look up .
+
+dialogue type : s^df
+E :  So that , you know so that such a thing can be written .
+
+dialogue type : fh
+E : 
+
+dialogue type : qw^rt
+E :  When when when do you leave again ?
+
+dialogue type : s^bk^m
+E :  First of July ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^cs
+E :  And that you figure on actually finishing it in in June .
+
+dialogue type : s^df
+E :  Because , you know , you 're gonna have another bunch of results to fit in there anyway .
+
+dialogue type : s^df
+E :  And right now it 's kind of important that we actually go forward with experiments .
+
+dialogue type : s^cs
+E :  So so , I I think it 's good to pause , and to gather everything together and make sure it 's in good shape ,
+
+dialogue type : s^df
+E :  so that other people can get access to it
+
+dialogue type : s^df
+E :  and so that it can go into a report in June .
+
+dialogue type : s
+E :  But I think to to really work on on fine - tuning the report n at this point is is probably bad timing , I I think .
+
+dialogue type : s^cs
+E :  But you ma you may really wanna add other things later anyway
+
+dialogue type : s^df.%--
+E : 
+
+dialogue type : qy^d^rt
+E :  There 's more to go ?
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : qy^d^rt
+E :  that 's permitted ?
+
+dialogue type : fg|s.%--
+E : 
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : s
+E :  I guess that 's a matter of interpretation .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^ar
+E :  no ,
+
+dialogue type : s^bsc^rt
+E :  Italian and the Finnish and the English ? were development data
+
+dialogue type : s^e
+E :  on which you could adjust things .
+
+dialogue type : s
+E :  And the and the German and Danish were the evaluation data .
+
+dialogue type : s
+E :  And then when they finally actually evaluated things they used everything .
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E :  Uh ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I mean , even though the improvement wasn't so good , the pre the raw performance was really pretty good .
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E :  And , uh ,
+
+dialogue type : s
+E :  it it doesn't appear that there 's strong evidence that even though things were somewhat tuned on those three or four languages , that that going to a different language really hurt you .
+
+dialogue type : s
+E :  And the noises were not exactly the same .
+
+dialogue type : qy^d^f^g
+E :  Right ?
+
+dialogue type : s^df.%--
+E :  Because it was taken from a different ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  I mean they were different drives .
+
+dialogue type : s
+E :  I mean , it was it was actual different cars and so on .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : fh|s
+E :  Um , it 's somewhat tuned .
+
+dialogue type : s^e.%--
+E : 
+
+dialogue type : s
+E :  You 'd really like to have something that needed no particular noise at all ,
+
+dialogue type : s^e
+E :  maybe just some white noise or something like that a at most .
+
+dialogue type : s
+E :  But that 's not really what this contest is .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : fh|s
+E :  Um , I guess it 's OK .
+
+dialogue type : s
+E :  That 's something I 'd like to understand before we actually use something from it ,
+
+dialogue type : s^df.%-
+E : 
+
+dialogue type : s^na
+E :  Well , it 's true ,
+
+dialogue type : s^arp
+E :  except that , uh , that 's what we used in Aurora one ,
+
+dialogue type : s
+E :  and then they designed the things for Aurora - two knowing that we were doing that .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s^aa
+E :  No .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  it probably would be the case that if , say , we trained on Italian , uh , data and then , uh , we tested on Danish data and it did terribly , uh , that that it would look bad .
+
+dialogue type : s
+E :  And I think someone would notice
+
+dialogue type : s
+E :  and would say " Well , look . This is not generalizing . "
+
+dialogue type : s
+E :  I would hope tha I would hope they would .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : fh
+E :  But , uh ,
+
+dialogue type : s
+E :  it 's true .
+
+dialogue type : s
+E : 
+
+dialogue type : s^e
+E :  you know , th that they have tuned in some way for other things .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^cs.%--
+E : 
+
+dialogue type : s
+E : 
+
+dialogue type : s^e
+E :  Especially if you talk with him when I 'm not here ,
+
+dialogue type : s^co
+E :  that 's a topic you should discuss with Hynek
+
+dialogue type : s^df
+E :  to , you know , double check it 's OK .
+
+dialogue type : s^j
+E :  Social security number
+
+dialogue type : qw
+E :  What kind of information do you mean ?
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : fg
+E :  Uh .
+
+dialogue type : fg
+E :  Right .
+
+dialogue type : s
+E :  I mean , again , i if you had the whole system you were optimizing , that would be easy to see .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^am
+E :  Maybe .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^bk|s^ba
+E :  Yeah , it 's an interesting thought .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I mean , you can't really do vocal tract normalization .
+
+dialogue type : s
+E :  But something that had some of that effect
+
+dialogue type : s^e
+E :  being applied to the data in some way .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : fg|s^nd
+E :  Yeah . But just listen to yourself .
+
+dialogue type : s^nd
+E :  I mean , that uh really doesn't sound like a real - time thing with less than two hundred milliseconds , uh , latency that and where you 're not adjusting the statistical engine at all .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fg
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^ar.%--
+E :  No .
+
+dialogue type : s^arp
+E :  Well not just expensive .
+
+dialogue type : s^nd
+E :  I I I don't see how you could possibly do it .
+
+dialogue type : s^df.%--
+E : 
+
+dialogue type : qy^d^f^g^rt
+E :  Right ?
+
+dialogue type : s^df
+E :  Each frame comes in and it 's gotta go out the other end .
+
+dialogue type : fh
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^cs.%--
+E :  I mean , you can do ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  Fairly quickly you can do male female f male female stuff .
+
+dialogue type : s.%--
+E :  But as far as ,
+
+dialogue type : s
+E :  I mean Like I thought BBN did a thing with , uh , uh , vocal tract normalization a ways back .
+
+dialogue type : s
+E :  Maybe other people did too .
+
+dialogue type : s^e.%--
+E : 
+
+dialogue type : fg
+E :  So .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E : 
+
+dialogue type : s^e
+E :  So , if you had a first formant that was one hundred hertz before , if the fifty if the vocal tract is fifty percent shorter , then it would be out at seven fifty hertz ,
+
+dialogue type : s^e
+E :  and so on .
+
+dialogue type : s^bs
+E :  So , that 's a move of two hundred fifty hertz .
+
+dialogue type : s^e
+E :  Whereas the third formant which might have started off at twenty - five hundred hertz , you know , might be out to thirty - seven fifty ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh
+E :  So ,
+
+dialogue type : s
+E :  although , you frequently get less distinct higher formants , it 's still third formant 's kind of a reasonable compromise ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  So , I think , eh , if I recall correctly , they did something like that .
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  But Um , that doesn't work for just having one frame or something .
+
+dialogue type : s^df
+E :  You know ? That 's more like looking at third formant over over a turn or something like that ,
+
+dialogue type : %--
+E : 
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s
+E :  But on the other hand , male female is a is a is a much simpler categorization than figuring out a a factor to , uh , squish or expand the the spectrum .
+
+dialogue type : fh
+E :  So , um .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E : 
+
+dialogue type : s
+E :  uh , male female is good to know also .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s
+E :  But , you 'd have to figure out a way to to to , uh , incorporate it on the fly .
+
+dialogue type : fh|s^cs
+E :  Uh , I mean , I guess , as you say , one thing you could do is simply , uh , have the the male and female output vectors you know , tr nets trained only on males and n trained only on females
+
+dialogue type : %--
+E : 
+
+dialogue type : fh
+E :  or , uh ,
+
+dialogue type : fh
+E :  you know .
+
+dialogue type : %--
+E : 
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s^no
+E :  I don't know if that would really help ,
+
+dialogue type : s^df
+E :  because you already have males and females
+
+dialogue type : s^df
+E :  and it 's mm - hmm putting into one net .
+
+dialogue type : fh
+E :  So
+
+dialogue type : qy.%-
+E :  is it ?
+
+dialogue type : qy
+E :  Do you know ?
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : fg
+E :  OK .
+
+dialogue type : s
+E :  Y you 're you were saying before ?
+
+dialogue type : s^nd
+E :  Shouldn't be .
+
+dialogue type : s^df^nd
+E :  They should be less so .
+
+dialogue type : qy^d^f^g^rt
+E :  R right ?
+
+dialogue type : %--
+E :  Wh - ?
+
+dialogue type : s^co
+E :  But let me ask you this .
+
+dialogue type : qw.%--
+E :  What what 's the , um ?
+
+dialogue type : qy^rt
+E :  Do you kno recall if the insertions were were higher with MSG ?
+
+dialogue type : s^bk|s^co
+E :  Yeah . But you should always look at insertions , deletions , and substitutions .
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E : 
+
+dialogue type : s.%--
+E :  MSG is very , very dif
+
+dialogue type : s
+E :  Eh , PLP is very much like mel cepstrum .
+
+dialogue type : s
+E :  MSG is very different from both of them .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I mean I 'm really glad Andreas brought this point up .
+
+dialogue type : s^df
+E :  I sort of had forgotten to discuss it .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s^co
+E :  You always have to look at how this uh , these adjustments , uh , affect things .
+
+dialogue type : s
+E :  And even though we 're not allowed to do that , again we maybe could reflect that back to our use of the features .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  The problem might be that the range of the MSG features is quite different than the range of the PLP or mel cepstrum .
+
+dialogue type : s^cs
+E :  And you might wanna change that .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  That means they 're between zero and one .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E :  You know , they could be ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  Do - doesn't tell you what the variance of the things is .
+
+dialogue type : qy^d^f^g
+E :  Right ?
+
+dialogue type : s^df.%--
+E :  Cuz if you 're taking the log of these things , it could be ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s^df
+E :  Knowing what the sum of the probabilities are , doesn't tell you what the sum of the logs are .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^cs
+E :  Or what you know , what you 're uh the thing you 're actually looking at .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^rt
+E :  the values that are are actually being fed into HTK .
+
+dialogue type : qw
+E :  What do they look like ?
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^df
+E :  So they 're kinda like log probabilities is what I was saying .
+
+dialogue type : h|s^aap
+E :  Uh , almost .
+
+dialogue type : s
+E :  But then you actually do a KLT on them .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s^bu
+E :  They aren't normalized after that ,
+
+dialogue type : qy^g^rt
+E :  are they ?
+
+dialogue type : s^bk^m
+E :  No .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : fh
+E :  So , um .
+
+dialogue type : fg
+E :  Right .
+
+dialogue type : s
+E :  So the question is Yeah . Whatever they are at that point , um , are they something for which taking a square root or cube root or fourth root or something like that is is gonna be a good or a bad thing ?
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s.%--
+E :  Uh , and that 's something that
+
+dialogue type : s^bsc.%--
+E : 
+
+dialogue type : s
+E : 
+
+dialogue type : s
+E :  Uh , you know , subtract things from it ,
+
+dialogue type : s
+E :  scale it from it ,
+
+dialogue type : s
+E :  but nothing will have that same effect .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : fg
+E : 
+
+dialogue type : fg
+E : 
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg|s
+E :  No . Again you don't really look at that .
+
+dialogue type : s.%--
+E :  It 's something that ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  It 's , eh , whatever the KLT is doing .
+
+dialogue type : s^e
+E :  But it 's probably pretty close to what a a a discrete cosine transformation is doing .
+
+dialogue type : s
+E :  But still it 's it 's not gonna probably radically change the scale of things .
+
+dialogue type : s
+E :  I would think .
+
+dialogue type : fh
+E : 
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s
+E :  It may be entirely off
+
+dialogue type : s
+E :  and and it may be at the very least it may be quite different for MSG than it is for mel cepstrum or PLP .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^cs
+E :  So the first thing I 'd look at without adjusting anything would just be to go back to the experiment and look at the , uh , substitutions , insertions , and deletions .
+
+dialogue type : s.%--
+E :  And if the if
+
+dialogue type : fh
+E : 
+
+dialogue type : s^e
+E :  i if there 's a fairly large effect of the difference , say , uh , uh , the r ratio between insertions and deletions for the two cases then that would be , uh , an indicator that it might might be in that direction .
+
+dialogue type : qo^d
+E :  Anything else ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg
+E :  Well .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bd
+E :  But , you know , some problems are harder than others ,
+
+dialogue type : fh
+E : 
+
+dialogue type : fh|s
+E :  And , uh , sometimes , you know , there 's enough evidence for something to work
+
+dialogue type : s
+E :  and then it 's harder ,
+
+dialogue type : s
+E :  it breaks .
+
+dialogue type : qy^d^f^g
+E :  You know ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  But it but , um , i it it could be that when you say it works maybe we could be doing much better ,
+
+dialogue type : s^e
+E :  even in TI - digits .
+
+dialogue type : qy^d^g^rt
+E :  Right ?
+
+dialogue type : fh
+E :  So .
+
+dialogue type : b
+E :  Hmm ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : fg
+E :  O
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  Well , this 'll be , I think , something for discussion with Hynek next week .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : fg
+E :  So .
+
+dialogue type : qw
+E :  How are , uh , uh how are things going with what you 're doing ?
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : h|s
+E :  Uh , he 'll be around for three days .
+
+dialogue type : s
+E :  Uh , we 'll have a lot of time .
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : fh
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  he 'll be talking with everybody in this room
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s^na
+E :  Not Thursday and Friday .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^df
+E :  Cuz I will be at faculty retreat .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s^cc
+E :  I 'll try to connect with him and people as as I can on on Wednesday .
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : qw
+E :  Oh , how 'd taxes go ?
+
+dialogue type : qy^d^rt
+E :  Taxes go OK ?
+
+dialogue type : x
+E :  Yeah . Oh , good . Yeah .
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s
+E :  That 's just that 's that 's one of the big advantages of not making much money is the taxes are easier .
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : s^bu
+E :  I think you are .
+
+dialogue type : qy^g^rt
+E :  Aren't you ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Huh .
+
+dialogue type : qy^d^rt
+E :  Canada w Canada wants a cut ?
+
+dialogue type : qy^bu^rt
+E :  Have to do So you you have to do two returns ?
+
+dialogue type : s^bk
+E :  Oh , oh .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s.%--
+E :  For tw
+
+dialogue type : s^bk
+E :  That 's right ,
+
+dialogue type : %--
+E :  ju
+
+dialogue type : s^t1
+E :  Two thousand .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^na
+E :  Probably not this next year , I guess .
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : fg
+E :  Alright .
+
+dialogue type : fg
+E :  Uh .
+
+dialogue type : qy^d^rt
+E :  Barry ,
+
+dialogue type : qy^cs
+E :  do you wanna say something about your stuff here ?
+
+dialogue type : fg
+E :  Oh , well .
+
+dialogue type : %--
+E :  No
+
+dialogue type : qo^co
+E :  Um , why don't you say something about what it is ?
+
+dialogue type : s^j
+E :  Well , we 're all gathered here together .
+
+dialogue type : s^j.%--
+E : 
+
+dialogue type : qw^rt
+E :  Whose paper is it ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Huh .
+
+dialogue type : s^bu
+E :  From , uh , University of Hamburg and Bielefeld .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  So , stuff that 's not based on data .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Oh , OK .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah ,
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s
+E :  I mean , when we did the SPAM work I mean , there we had we had this notion of an , uh , auditory @ @ auditory event .
+
+dialogue type : fh
+E :  And , uh ,
+
+dialogue type : fh
+E :  um ,
+
+dialogue type : s
+E :  called them " avents " ,
+
+dialogue type : fh|s^e
+E :  uh , uh , uh , with an A at the front .
+
+dialogue type : fh
+E :  Uh .
+
+dialogue type : s
+E :  And the the the idea was something that occurred that is important to a bunch of neurons somewhere .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : fh|s
+E :  Um . A sudden change or a relatively rapid change in some spectral characteristic will will do sort of this .
+
+dialogue type : s^df
+E :  I mean , there 's certainly a bunch of a bunch of places where you know that neurons are gonna fire because something novel has happened .
+
+dialogue type : s
+E :  That was that was the main thing that we were focusing on there .
+
+dialogue type : s
+E :  But there 's certainly other things beyond what we talked about there that aren't just sort of rapid changes ,
+
+dialogue type : fh
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg
+E :  By the way ,
+
+dialogue type : fh
+E :  um ,
+
+dialogue type : s
+E : 
+
+dialogue type : s
+E :  I forget if I already told you this ,
+
+dialogue type : s
+E :  but , a couple people who are gonna be here for six months .
+
+dialogue type : fh
+E : 
+
+dialogue type : fh|s
+E :  uh , there 's a Professor Kollmeier , uh , from Germany
+
+dialogue type : s^e
+E :  who 's , uh , uh , quite big in the , uh , hearing - aid signal - processing area
+
+dialogue type : s
+E :  and , um , Michael Kleinschmidt , who 's worked with him ,
+
+dialogue type : s^e
+E :  who also looks at auditory properties inspired by various , uh , brain function things .
+
+dialogue type : fh
+E :  So ,
+
+dialogue type : fh
+E :  um ,
+
+dialogue type : s^cs
+E :  um , I think they 'll be interesting to talk to , in this sort of issue
+
+dialogue type : s^df
+E :  as these detectors are are , uh , developing .
+
+dialogue type : s
+E :  So , he looks at interesting interesting things in in the different ways of looking at spectra in order to to get various speech properties out .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : fg
+E :  OK .
+
+dialogue type : fh
+E :  Well ,
+
+dialogue type : s^tc
+E :  short meeting ,
+
+dialogue type : s^bd
+E :  but that 's OK .
+
+dialogue type : fh
+E :  And , uh ,
+
+dialogue type : s^co
+E :  we might as well do our digits .
+
+dialogue type : s^cs
+E :  And like I say , I I encourage you to go ahead and meet , uh , next week with , uh , uh , Hynek .
+
+dialogue type : s^bk
+E :  Alright ,
+
+dialogue type : s^cc
+E :  I 'll I 'll start .
+
+dialogue type : s
+E :  It 's , uh , one thirty - five .
+
+dialogue type : z
+E :  seventeen
+
+dialogue type : z
+E :  OK
+

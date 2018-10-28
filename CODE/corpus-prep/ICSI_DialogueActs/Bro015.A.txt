@@ -1,0 +1,129 @@
+dialogue type : z
+A :  OK
+
+dialogue type : s^bu
+A :  So they would just provide that as part of the data .
+
+dialogue type : qw
+A :  How about the um the thing that you guys were working on before
+
+dialogue type : s
+A :  the uh Uh voiced - unvoiced
+
+dialogue type : fh
+A : 
+
+dialogue type : s^bk
+A :  Ah . You stopped working on it
+
+dialogue type : s^bk
+A :  I see
+
+dialogue type : s^ar
+A :  No . I didn't .
+
+dialogue type : qy^bu.%-
+A : 
+
+dialogue type : s^ar
+A :  Uh , no .
+
+dialogue type : s^nd
+A :  This week I haven't .
+
+dialogue type : s^df^ng
+A :  I 've been my whole time 's been taken up with uh Meeting Recorder stuff .
+
+dialogue type : s^df^ng
+A :  Uh , disk crash and uh covering things .
+
+dialogue type : s
+A :  Oh . You know , there is one other thing .
+
+dialogue type : fh|s
+A :  Um Stephane showed me a paper yesterday um where th uh for the Italian system they had done a series of experiments playing around with the um the number of iterations , that I talked about last week ?
+
+dialogue type : fh|s
+A :  And , um , so , there was a whole series of those that they had done .
+
+dialogue type : s
+A :  They didn't , I don't think , reported timing for those ,
+
+dialogue type : fh|s
+A :  but um it turns out that the one that they 're actually using was not the best , uh in in their series of experiments , which I uh Maybe it 's because they uh wanted to use the same number of iterations across all different languages and this was only done on Italian or something .
+
+dialogue type : s^no
+A :  Uh , I don't know who did it
+
+dialogue type : qy
+A :  do you know , Stephane ?
+
+dialogue type : qw
+A :  Who did that ?
+
+dialogue type : fh|s
+A :  So um you know there wasn't a huge difference in terms of the performance across all the different experiments that they did .
+
+dialogue type : fh|s
+A :  Um . But it varied a little bit .
+
+dialogue type : s^cs
+A :  And uh So I guess the main thing that I take out of that is that I think that for our purposes here we could definitely you know decrease the number of iterations that we do
+
+dialogue type : fh
+A :  and um ,
+
+dialogue type : s
+A :  at least while we 're , you know , working on uh all different of kinds of variations , and that would let us , you know , pump through a lot more experiments .
+
+dialogue type : fh|s
+A :  So um I still have to to send everybody a pointer about uh how to run the um HTK system on the Linux boxes and about changing these number of iterations so that so that you can do that .
+
+dialogue type : fh|s.%--
+A :  Um . So the the other thing that that I was thinking about maybe trying out next is
+
+dialogue type : fh
+A : 
+
+dialogue type : s^fe
+A :  Oh !
+
+dialogue type : s
+A :  The other th the other experiment that they had in that paper was uh uh playing with the number of Gaussians per state .
+
+dialogue type : s.%-
+A :  And so .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fg
+A :  Oh , OK .
+
+dialogue type : s
+A :  I was thinking it was Gaussians but it 's states .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  So . The thing I was thinking about was uh , you know , the number of insertions really goes up when you start adding all the noise in ,
+
+dialogue type : s^cs
+A :  and maybe the thing to do next would be to try to um uh make the silence model more powerful ,
+
+dialogue type : s^cs
+A :  you know , increasing the number of Gaussians to the number of states , different different things like that ,
+
+dialogue type : s
+A :  so . That 's probably the next little thing I 'll play with when I get a chance
+

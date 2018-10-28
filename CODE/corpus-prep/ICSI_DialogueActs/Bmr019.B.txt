@@ -1,0 +1,1323 @@
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg|qy^rt
+B :  Oh , could you close the door , maybe ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s.%-
+B :  I guess the only other thing , uh , for which I
+
+dialogue type : fg
+B :  Um .
+
+dialogue type : fh|s^t
+B :  OK , so there 's digits , alignments ,
+
+dialogue type : fh
+B :  and , um ,
+
+dialogue type : s^t
+B :  I guess the other thing , which I came unprepared for , uh , is , uh , to dis s s see if there 's anything anybody wants to discuss about the Saturday meeting .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  Any I mean , maybe not .
+
+dialogue type : fh
+B :  Uh .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : %--
+B : 
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^rt
+B :  With with whatever it was , a month and a half or something ahead of time , the only time we could find in common roughly in common , was on a Saturday .
+
+dialogue type : b
+B :  Ugh .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s
+B :  But , h I mean , he probably has to go do something .
+
+dialogue type : qy^d^g
+B :  Right ?
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : fg
+B :  R r right .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  So we have to equip him with a with a with a head - mounted , uh , cell phone
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Well , it 's Yeah , sort of the bre the breath noises and the mouth clicks and so forth like that , the lapel 's gonna be better on .
+
+dialogue type : s
+B :  The lapel is typically worse on the on clothes rustling ,
+
+dialogue type : s.%-
+B :  but if no one 's rustling their clothes ,
+
+dialogue type : %-
+B : 
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa|s
+B :  Right . So in the digits , in most most cases , there weren't other people talking .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^nd|s^ar
+B :  There typically don't , no .
+
+dialogue type : s
+B :  They 're they 're intended to be omni - directional .
+
+dialogue type : s
+B :  And th it 's and because you don't know how people are gonna put them on , you know .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Um . Yeah , we actually talked about this in the , uh , front - end meeting this morning , too .
+
+dialogue type : s^e
+B :  Much the same thing ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^rt
+B :  uh , I mean , there the point of interest to the group was primarily that , um , the , uh the system that we had that was based on H T K , that 's used by , you know , all the participants in Aurora , was so much worse than the than the S R
+
+dialogue type : s
+B :  And the interesting thing is that even though , yes , it 's a digits task and that 's a relatively small number of words and there 's a bunch of digits that you train on , it 's just not as good as having a a l very large amount of data and training up a a a nice good big HMM .
+
+dialogue type : s
+B :  Um , also you had the adaptation in the SRI system , which we didn't have in this .
+
+dialogue type : fh
+B :  Um . So . Um .
+
+dialogue type : s
+B :  I s I think Stephane , uh , had seen them .
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qy^rt
+B :  Hav - Have you ever t Have you ever tried this exact same recognizer out on the actual TI - digits test set ?
+
+dialogue type : s^cs
+B :  It might be interesting to do that .
+
+dialogue type : s^df.%--
+B :  Cuz my my cuz my sense ,
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk|s^cs^ng
+B :  Yeah , bu although I 'd be I think it 'd be interesting to just take this exact actual system
+
+dialogue type : s^df
+B :  so that these numbers were comparable
+
+dialogue type : s^cs^e
+B :  and try it out on TI - digits .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^df.%--
+B : 
+
+dialogue type : s^df
+B :  I mean , cuz we were getting sub one percent numbers on TI - digits also with the tandem thing .
+
+dialogue type : s
+B :  So , one so there were a number of things we noted from this .
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  this , you know , very limited training HTK system .
+
+dialogue type : s
+B :  Uh , but the other is that , um , the digits recorded here in this room with these close mikes , i uh , are actually a lot harder than the studio - recording TI - digits .
+
+dialogue type : s
+B :  I think , you know , one reason for that , uh , might be that there 's still even though it 's close - talking , there still is some noise and some room acoustics .
+
+dialogue type : s
+B :  And another might be that , uh , I 'd I would presume that in the studio , uh , uh , situation recording read speech that if somebody
+
+dialogue type : s
+B :  did something a little funny or n pronounced something a little funny or made a little that they didn't include it ,
+
+dialogue type : s^e
+B :  they made them do it again .
+
+dialogue type : b.%
+B :  Mmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^na|s^aa
+B :  It 's wide - band , yeah .
+
+dialogue type : s
+B :  It 's in in fact , we looked it up
+
+dialogue type : s
+B :  and it was actually twenty kilohertz sampling .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %-
+B :  See w
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Well , the other thing would be to do it without the adaptation and compare to these numbers without the adaptation .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg|s
+B :  Yeah . Most of TI - digits is connected digits , I think .
+
+dialogue type : s
+B :  The I mean , we had a Bellcore corpus that we were using .
+
+dialogue type : s
+B :  It was that 's that was isolated digits .
+
+dialogue type : fh.%
+B :  Um .
+
+dialogue type : fg|s^ng
+B :  Yeah . But the thing is , uh I mean , w when you it depends whether you 're ju were just using this as a a starter task for you know , to get things going for conversational or if we 're really interested i in connected digits .
+
+dialogue type : s
+B :  And I I think the answer is both .
+
+dialogue type : s
+B :  And for for connected digits over the telephone you don't actually want to put a whole lot of effort into adaptation
+
+dialogue type : s^df
+B :  because somebody gets on the phone and says a number
+
+dialogue type : s^df^e
+B :  and then you just want it .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b.%
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : fg|s
+B :  Yeah . So that 'd be anoth another interesting data point .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : fg|s^t.%-
+B :  Yeah . At any rate , I don't know if w
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^na|s^aa
+B :  Too many adju too many adjustments . Yeah .
+
+dialogue type : s^rt^t^tc
+B :  Anyway , what I was saying is that I I think I probably wouldn't want to see that as sort of like the norm , that we compared all things to .
+
+dialogue type : s^e
+B :  To , uh , the to have have all this ad all this , uh , adaptation .
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : fg
+B :  Um .
+
+dialogue type : s
+B :  The other thing that that , uh of course , what Barry was looking at was was just that ,
+
+dialogue type : s
+B :  the near versus far .
+
+dialogue type : s
+B :  And , yeah , the adaptation would get th some of that .
+
+dialogue type : s
+B :  But , I think even even if there was , uh , only a factor of two or something , like I was saying in the email , I think that 's that 's a big factor .
+
+dialogue type : fh
+B : 
+
+dialogue type : %-
+B :  N
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : s^ba
+B :  It 's great .
+
+dialogue type : qw^t^tc
+B :  So , where were we ?
+
+dialogue type : fh
+B :  Uh Yeah .
+
+dialogue type : s
+B :  Uh , adaptation , non - adaptation ,
+
+dialogue type : s
+B :  um , factor of two ,
+
+dialogue type : fh
+B : 
+
+dialogue type : fg|s
+B :  Oh , yeah . I know what I was go w
+
+dialogue type : s^bk
+B :  Oh , no , no .
+
+dialogue type : s
+B :  It 's tha that that we were saying , you know , well is how much worse is far than near , you know .
+
+dialogue type : s
+B :  And I mean it depends on which one you 're looking at ,
+
+dialogue type : s:s
+B :  but for the everybody , it 's little under a factor or two .
+
+dialogue type : fg|s
+B :  Yeah . I I know what I was thinking was that maybe , uh , i i we could actually t t try at least looking at , uh , some of the the large vocabulary speech from a far microphone ,
+
+dialogue type : s^e
+B :  at least from the good one .
+
+dialogue type : s
+B :  I mean , before I thought we 'd get , you know , a hundred and fifty percent error or something ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa|s^na
+B :  Right . I understand .
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : s^bk
+B :  Yeah , sure .
+
+dialogue type : s^na
+B :  Get all these insertions .
+
+dialogue type : s^cs^df.%-
+B :  But I 'm saying if you do the same kind of limited thing as people have done in Switchboard evaluations or as a
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa|s^na
+B :  Yeah . The same sort of numbers that we got those graphs from .
+
+dialogue type : qy^d^g
+B :  Right ?
+
+dialogue type : s^aa|s.%-
+B :  Yeah , do it with one of on
+
+dialogue type : qw
+B :  But but but how did we get the how did we determine the links , uh , that we 're testing on in the stuff we reported ?
+
+dialogue type : %-
+B :  And tha
+
+dialogue type : s^bu
+B :  And that 's what we were getting those numbers from .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^cs
+B :  Well , we could start with the good ones .
+
+dialogue type : s^cs
+B :  But anyway so I think that we should try it once with the same conditions that were used to create those ,
+
+dialogue type : s^cs^e
+B :  and in those same segments just use one of the P Z
+
+dialogue type : s.%--
+B :  And then , you know , I mean , the thing is if we were getting , uh what , thirty - five , forty percent , something like that on on that particular set ,
+
+dialogue type : qh
+B :  uh , does it go to seventy or eighty ?
+
+dialogue type : qh
+B :  Or , does it use up so much memory we can't decode it ?
+
+dialogue type : fh
+B : 
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  This is kind of central .
+
+dialogue type : s
+B :  You know , it 's so i but I would I 'd pick that one .
+
+dialogue type : s
+B :  It 'll be less good for some people than for other ,
+
+dialogue type : s^cs
+B :  but I I 'd like to see it on the same exact same data set that that we did the other thing on .
+
+dialogue type : qy^d^f^g
+B :  Right ?
+
+dialogue type : s^na
+B :  That 's probably one of the reasons .
+
+dialogue type : s^df^ng
+B :  But the other is , it 's very , uh I mean , even though there 's I 'm sure the f f the the SRI , uh , front - end has some kind of pre - emphasis , it 's it 's , uh still , th it 's picking up lots of low - frequency energy .
+
+dialogue type : s
+B :  So , even discriminating against it , I 'm sure some of it 's getting through .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s^na
+B :  But , yeah , you 're right .
+
+dialogue type : s^na
+B :  Prob - a part of it is just the distance .
+
+dialogue type : s^aap
+B :  Well , they 're bad .
+
+dialogue type : s^df^ng
+B :  But , I mean , if you listen to it , it sounds OK . You know ?
+
+dialogue type : b.%
+B :  u Yeah .
+
+dialogue type : s
+B :  Well , they 're twenty - five cents or so .
+
+dialogue type : b.x
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  But , I mean , the thing is people use those little mikes for everything
+
+dialogue type : s^df
+B :  because they 're really not bad .
+
+dialogue type : s^j
+B :  I mean , if you 're not doing something ridiculous like feeding it to a speech recognizer , they they they you know , you can hear the sou hear the sounds just fine .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  They I mean , i it 's more or less the same principles as these other mikes are built under ,
+
+dialogue type : s
+B :  it 's just that there 's less quality control .
+
+dialogue type : s
+B :  They just , you know , churn them out and don't check them .
+
+dialogue type : fh
+B :  Um . So .
+
+dialogue type : s^ba
+B :  So that was Yeah . So that was i interesting result .
+
+dialogue type : s
+B :  So like I said , the front - end guys are very much interested in in this is as as well
+
+dialogue type : %-
+B :  and
+
+dialogue type : s.%--
+B :  Well , I think what we wanna do is we want to eh ,
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  we want to have the ability to feed it different features .
+
+dialogue type : s
+B :  And then , um , from the point of view of the front - end research , it would be s uh , substituting for HTK .
+
+dialogue type : s
+B :  I think that 's the key thing .
+
+dialogue type : s
+B :  And then if we can feed it different features , then we can try all the different things that we 're trying there .
+
+dialogue type : s
+B :  And then , um , uh , also Dave is is thinking about using the data in different ways , uh , to um , uh , explicitly work on reverberation
+
+dialogue type : s^e
+B :  starting with some techniques that some other people have found somewhat useful , and Yeah .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : %-
+B :  H h
+
+dialogue type : s
+B :  He 's he 's sort of back ,
+
+dialogue type : s
+B :  but he drove for fourteen hours an and wasn't gonna make it in today .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : fg|%-
+B : 
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Cool .
+
+dialogue type : fg|qo^d^e
+B :  OK . So the s the the next thing we had on the agenda was something about alignments ?
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qw
+B :  G given I I mean , I wa I wa I was gonna ask you anyway , uh , how you assessed that things were better .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b.%
+B :  Mm - hmm .
+
+dialogue type : s^rt
+B :  So so if we e e even just had a a It sounds like w we we almost do .
+
+dialogue type : s^bk^m
+B :  Uh , if we We have two .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^cs
+B :  Just ha uh , trying out the alignment procedure that you have on that
+
+dialogue type : s
+B :  you could actually get something , um uh , uh , get an objective measure .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : %-
+B :  H
+
+dialogue type : s:s
+B :  I tell you , I say I say " uh - huh " a lot ,
+
+dialogue type : s^e
+B :  while people are talking to each other .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg|s^df
+B :  Yeah . I mean , y y you folks have probably already told me ,
+
+dialogue type : qy
+B :  but were were you intending to do a Eurospeech submission ,
+
+dialogue type : qrr.%--
+B :  or ?
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s:s
+B :  Do as I say ,
+
+dialogue type : s:s
+B :  don't do as I do .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Yeah . I know that th the Telecom people use use " spurt " for that .
+
+dialogue type : s^aa
+B :  Yes .
+
+dialogue type : s
+B :  And that 's I mean , I I was using that for a while when I was doing the rate of speech stuff ,
+
+dialogue type : s^df.%--:s.%--
+B : 
+
+dialogue type : s
+B :  and an because cuz it 's another question about how many pauses they put in between them .
+
+dialogue type : qo
+B :  But how fast do they do the words within the spurt ?
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : s^2
+B :  Here .
+
+dialogue type : s^na|s^aa
+B :  Just very locally , yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b.%
+B :  Mm - hmm .
+
+dialogue type : s^bk|s^ba.%-
+B :  Yeah . That 's the good thing about these pape
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^ba
+B :  No , it 's that 's the good thing about these pape paper deadlines and , uh , you know , class projects , and and things like that ,
+
+dialogue type : s^df.%--
+B :  because you you really get g
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : s
+B :  Oh , now it 's out in the public ,
+
+dialogue type : s^e
+B :  this this this secret information .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^na
+B :  Th - that 's that 's true .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^aa
+B :  That 's true .
+
+dialogue type : s
+B :  By th by the way , this is totally unfair , you may you may feel ,
+
+dialogue type : s
+B :  but the the , uh the morning meeting folks actually have an an extra month or so .
+
+dialogue type : s
+B :  There 's a special Aurora session
+
+dialogue type : s
+B :  and the Aurora pe people involved in Aurora have till Ma - uh , early May or something to turn in their paper .
+
+dialogue type : s.%-
+B :  I if it w
+
+dialogue type : %-
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa|s
+B :  No , it wouldn't work .
+
+dialogue type : s^m^na.%--
+B : 
+
+dialogue type : s^e
+B :  I mean , it it 's it 's actually the Aurora task .
+
+dialogue type : %-
+B :  It
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : s^nd
+B :  This is not the Aurora task .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^am
+B :  Maybe .
+
+dialogue type : s^na
+B :  I think it 's a littl little far - fetched .
+
+dialogue type : s^df
+B :  Nah , I mean , the thing is Aurora 's pretty closed community .
+
+dialogue type : s
+B :  I mean , you know , the people who were involved in the the only people who are allowed to test on that are people who who made it above a certain threshold in the first round ,
+
+dialogue type : s
+B :  uh w in ninety - nine
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk|qy^bu^d^j^rt
+B :  Oh , you don't like HTK ?
+
+dialogue type : s
+B :  No . I mean , this it it 's the HTK that is trained on a very limited amount of data .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^aa|s^na
+B :  Oh , yeah . I I really think that that 's true .
+
+dialogue type : s.%-
+B :  And they i i
+
+dialogue type : %-
+B :  i
+
+dialogue type : %-
+B : 
+
+dialogue type : %-
+B :  Well , u i
+
+dialogue type : s^rt.%--
+B : 
+
+dialogue type : s
+B :  I mean , for the evaluations , yes , we 'll run a version that hasn't been touched .
+
+dialogue type : s
+B :  But , uh , one of the reasons I have him messing around with that , because I think it 's sort of an open question that we don't know the answer to .
+
+dialogue type : s
+B :  People always say very glibly that i if you s show improvement on a bad system , that doesn't mean anything ,
+
+dialogue type : s^df
+B :  cuz it may not be show uh , because , you know , it doesn't tell you anything about the good system .
+
+dialogue type : s
+B :  And I I 've always sort of felt that that depends .
+
+dialogue type : s
+B :  You know , that if some peopl If you 're actually are getting at something that has some conceptual substance to it , it will port .
+
+dialogue type : s
+B :  And in fact , most methods that people now use were originally tried with something that was not their absolute best system at some level .
+
+dialogue type : s
+B :  But of course , sometimes it doesn't , uh , port .
+
+dialogue type : s
+B :  So I think that 's that 's an interesting question .
+
+dialogue type : qo.%-
+B :  If we 're getting three percent error on , uh , u uh , English , uh , nati native speakers , um , using the Aurora system , and we do some improvements and bring it from three to two , do those same improvements bring , uh , th you know , the SRI system from one point three to you know , to point eight ?
+
+dialogue type : s.%--
+B :  Well .
+
+dialogue type : s^rt
+B :  You know , so that 's that 's something we can test .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s.%--
+B :  Anyway .
+
+dialogue type : s^tc
+B :  I think we 've we 've covered that one up extremely well .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg
+B : 
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s
+B :  So tha so we 'll you know , maybe you guys 'll have have one .
+
+dialogue type : s
+B :  Uh , you you and , uh and Dan have have a paper that that 's going in .
+
+dialogue type : s
+B :  You know , that 's that 's pretty solid , on the segmentation stuff .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  And the Aurora folks here will will definitely get something in on Aurora ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s
+B :  H i it got it got better .
+
+dialogue type : b
+B :  Yeah , yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : fg|s^tc
+B :  Um , let 's see .
+
+dialogue type : s^t^tc.%--
+B : 
+
+dialogue type : s
+B :  Well , there 's a couple things .
+
+dialogue type : qo
+B :  Uh , one is anything that , um , anybody has to say about Saturday ?
+
+dialogue type : qo^e^rt
+B :  Anything we should do in prep for Saturday ?
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^df
+B :  I mean , u um , Mari was asking was trying to come up with something like an agenda
+
+dialogue type : s
+B :  and we 're sort of fitting around people 's times a bit .
+
+dialogue type : s
+B :  But , um , clearly when we actually get here we 'll move things around this , as we need to ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  so you can't absolutely count on it .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^e
+B :  That was my thought .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : %--
+B :  u
+
+dialogue type : s^ar|s^nd
+B :  No . I I hadn't in intended to .
+
+dialogue type : s
+B :  We won we wanna I mean , they 're there 's gonna be , uh , Jeff , Katrin , Mari and two students .
+
+dialogue type : s
+B :  So there 's five from there .
+
+dialogue type : s^m^na
+B :  And Brian 's coming ,
+
+dialogue type : s^rt
+B :  so that 's six .
+
+dialogue type : fh
+B : 
+
+dialogue type : %-
+B : 
+
+dialogue type : %-
+B : 
+
+dialogue type : s^no
+B :  I hadn't really thought of it ,
+
+dialogue type : %-
+B : 
+
+dialogue type : s^cs
+B :  Maybe part of it .
+
+dialogue type : s^cs^r
+B :  Maybe part of it .
+
+dialogue type : s^2
+B :  At the same time .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : %-
+B :  Any
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg
+B : 
+
+dialogue type : s^bk|s
+B :  OK . Yeah . I guess I sent it around a little bit .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  I hadn't heard back from Mari after I I u u uh , brought up the point abou about Andreas 's schedule .
+
+dialogue type : s
+B :  So , um , maybe when I get back there 'll be some some mail from her .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  Th - that part 's definitely gonna confuse somebody who looks at these later .
+
+dialogue type : s^df
+B :  I mean , this is we we 're recording secret NSA meetings ?
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  It 's network services and applications .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^j^na^t3
+B :  It 's always Morgan 's fault .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s.%--
+B :  Th - the other thing I had actually was ,
+
+dialogue type : s^df
+B :  I I didn't realize this till today ,
+
+dialogue type : s^rt
+B :  but , uh , this is , uh , Jose 's last day .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s.%-
+B :  I d so I I jus
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Yeah . Maybe somebody else will come along and will be , uh , interested in working on it
+
+dialogue type : s
+B :  and could start off from where you are also , you know .
+
+dialogue type : s^rt
+B :  They 'd make use of of what you 've done .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^aa|s^na
+B :  Yeah , it 's a very short time .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : %-
+B :  Well .
+
+dialogue type : s^ft
+B :  Thank you , Jose .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : s^ft
+B :  I guess , uh , unless somebody has something else , we 'll read read our digits
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B : 
+
+dialogue type : qw^br
+B :  Uh , I 'm sorry ?
+
+dialogue type : s^co^j
+B :  So keep it away from that end of the table .
+
+dialogue type : %-
+B :  Well ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : fg
+B :  Um .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^ba
+B :  Tha - that 's that looks great .
+
+dialogue type : fg|s^tc.%-
+B : 
+
+dialogue type : s
+B :  She 's she 's serious .
+
+dialogue type : s^r
+B :  She is serious .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  Actually actually kind of careful
+
+dialogue type : s^df
+B :  cuz I have a strong allergy to nuts ,
+
+dialogue type : s.%-
+B :  so I have to sort of figure out one without th
+
+dialogue type : s
+B :  It 's hard to hard to say .
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : fh
+B : 
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bk|s^ng
+B :  Yeah . I may I may hold off .
+
+dialogue type : s
+B :  But if I was eh , but maybe I 'll get some later .
+
+dialogue type : s^ft
+B :  Thanks .
+
+dialogue type : qh^cs.%--
+B :  Well well , why don't we ?
+
+dialogue type : s^df
+B :  He he 's worried about a ticket .
+
+dialogue type : qh^cs
+B :  Why don't we do a simultaneous one ?
+
+dialogue type : qy^bu^d^rt
+B :  Simultaneous one ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qw^br
+B :  I have to what ?
+
+dialogue type : s^na
+B :  I did ,
+
+dialogue type : s
+B :  and now I love it so much .
+
+dialogue type : s^co
+B :  W wait wait a minute wait a minute .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  we want it synchronized .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : %-
+B :  We
+
+dialogue type : s^aa
+B :  Y Yeah ,
+
+dialogue type : %-
+B :  bu
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^ar
+B :  No , no .
+
+dialogue type : s
+B :  Synchronized digits .
+
+dialogue type : s^aa
+B :  Yes .
+
+dialogue type : s^j
+B :  There 's so many possibilities .
+
+dialogue type : fg|qh^cs^t^tc
+B :  Uh . OK , why don't we go ?
+
+dialogue type : s^co
+B :  Uh , one two three Go !
+
+dialogue type : s
+B :  And Andreas has the last word .
+

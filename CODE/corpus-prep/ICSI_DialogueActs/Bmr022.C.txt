@@ -1,0 +1,987 @@
+dialogue type : s^bu
+C :  You 're a May birthday ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s
+C :  Barbara told me .
+
+dialogue type : s^e
+C :  Barbara Peskin .
+
+dialogue type : qy^bu^d^rt
+C :  And this is the mixed signal ?
+
+dialogue type : s^cs.%-
+C :  Well , the other thing
+
+dialogue type : s^cs.%--
+C :  The other thing you can do
+
+dialogue type : qy^bu^d^rt
+C :  This is on the mixed signal ,
+
+dialogue type : qrr.%--
+C : 
+
+dialogue type : qy^bu^d^rt
+C :  the ones with the beeps that they 're getting , that they made mistakes on is the mixed one ?
+
+dialogue type : s^e.%--
+C :  Or they 're indivi
+
+dialogue type : s
+C :  If it 's individual , um y c we can probably run a forced alignment ,
+
+dialogue type : s
+C :  where you c include the beeps as words and pretty much figure out where the errors are .
+
+dialogue type : s^rt
+C :  I don't think we could do it on the mixed signal ,
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  But on the individual channels that would probably work , if they have enough words in the transcript .
+
+dialogue type : s
+C :  So , I mean , that 's pretty quick to run .
+
+dialogue type : %--
+C : 
+
+dialogue type : s^cs
+C :  I mean , we could try it .
+
+dialogue type : s^df.%-
+C :  Cuz if a beep is treated as a unique word ,
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  Put in put " beep " in as a word .
+
+dialogue type : fg|s^cs
+C :  Yeah . Yeah . Well the beep model Actually , you could train a beep model .
+
+dialogue type : s^ba
+C :  That that 's a good idea .
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa|%-
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  I mean , that might actually work ,
+
+dialogue type : s^df^rt
+C :  because you 'll I guess the trick is figuring out , you know , where it doesn't align ?
+
+dialogue type : s^df
+C :  But if it 's a problem of extra beeps , rather than missing beeps , then um that 's easier
+
+dialogue type : s
+C :  and it might work .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : b
+C :  Oh , yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^cs^j
+C :  You could have , um , each speaker in the meeting say " beep " and record it
+
+dialogue type : s.%--
+C :  and that will be their pro
+
+dialogue type : s^fa
+C :  Sorry .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s
+C :  But yo I guess you 'd still get the mistake that you mentioned ,
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : s
+C :  I mean , if that 's some of the errors , those would probably stay the same , regardless .
+
+dialogue type : s^aa|s
+C :  Yeah , you have like a sanity sanity check on them .
+
+dialogue type : s^ba
+C :  That 's a good idea .
+
+dialogue type : s
+C :  Alternating .
+
+dialogue type : s^aa|s^ba
+C :  Yeah , that 's a good , like , error checking approach , I think .
+
+dialogue type : s
+C :  There must be .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bu
+C :  That was at least forty - five minutes ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s
+C :  That 's the shortest meeting we have .
+
+dialogue type : s.%--
+C :  Most of them are double that , or
+
+dialogue type : fh
+C :  so
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  It must be in the high hundreds of them , at least .
+
+dialogue type : s
+C :  So that 's getting a little cumbersome for them to type , like , five hundred ?
+
+dialogue type : fg|s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fg|s^ba
+C :  Yeah , so it 'd be a lot of overhead to type .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C :  u
+
+dialogue type : s^ba^cs
+C :  I mean , it 's not a bad idea to try the alignment .
+
+dialogue type : s
+C :  Um , if there 's only like three of them , then if you align , the first point at which things get messed up is sort of the location of the first problem .
+
+dialogue type : s.%--
+C :  And then , the second p
+
+dialogue type : s
+C :  I mean , you could do it that way ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  it would be able to handle any errors .
+
+dialogue type : s^cs
+C :  So if they make , on the average , that many , and it costs them more time to do something different than what they 're doing , which I don't know , but if it does , then we could try doing that as a post - process ,
+
+dialogue type : s^cs
+C :  and , um , have a student or a transcriber run this alignment ,
+
+dialogue type : s^cs
+C :  or we can do it
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  then you can iteratively figure out where the problems are .
+
+dialogue type : s^rt
+C :  It would take a little work ,
+
+dialogue type : s
+C :  but not any real human not a lot of human work .
+
+dialogue type : s.%--
+C :  Well , the for the forced alignment will run fa
+
+dialogue type : s
+C :  otherwise it 'll take forever .
+
+dialogue type : s.%-
+C :  I mean , to really run recognition ?
+
+dialogue type : fh
+C :  Or ?
+
+dialogue type : b
+C :  Right .
+
+dialogue type : fg|s
+C :  Yeah , then we just map it to a reject model .
+
+dialogue type : s
+C :  In and in fact , that 's what we do now .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  an expert can't even tell what they 're talking about .
+
+dialogue type : s
+C :  Um , so that 's OK .
+
+dialogue type : s
+C :  Just map that to reject
+
+dialogue type : fh
+C : 
+
+dialogue type : s^rt
+C :  The forced alignment might not work then ,
+
+dialogue type : s^cs
+C :  although we can try it .
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk|s
+C :  Right . But it 'll it 'll grab the next beep , in other words .
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  You 'll get back another offset .
+
+dialogue type : fh|s
+C : 
+
+dialogue type : s
+C :  then I and then I realized " Well , the recognizer will just go along and line up all the beeps ,
+
+dialogue type : s
+C :  and then there 'll be all the extra beeps at the end
+
+dialogue type : s
+C :  if there were more beeps then you wanted . "
+
+dialogue type : s^df
+C :  So you need the word you need the word to c sort of control the relative location .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^nd
+C :  I think you do care about it .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  Otherwise you just count up the total number of beeps .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  I mean the only thing I 'm worried about with that approach is that if we need to figure out the beep alignment problem before the transcribers do the corrections here , then we 're in trouble .
+
+dialogue type : s
+C :  In other words , if the transcripts aren't sort of good enough that the aligner constraints are good enough to sort of show you where the errors are , then it wouldn't work .
+
+dialogue type : s^df
+C :  But it might work .
+
+dialogue type : s
+C :  It might work to do this if their transcripts are pretty close on the words that usually get recognized correctly ,
+
+dialogue type : s
+C :  which are the , you know , function words ,
+
+dialogue type : s^e
+C :  the common words .
+
+dialogue type : fg|s.%-
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fg|s.%--
+C : 
+
+dialogue type : s
+C :  Um , if beeps were like the segments that we get from um , the transcription tool already , that that 's what we have done ,
+
+dialogue type : s^ba
+C :  and it works very well .
+
+dialogue type : s
+C :  You can see these segments align and these don't .
+
+dialogue type : s
+C :  Um , then you just have to go back in and figure out where the endpoints of those segments are ,
+
+dialogue type : s^df
+C :  cuz some of them will be wrong .
+
+dialogue type : s^df^e
+C :  Because the bi the beeps were missing , by definition .
+
+dialogue type : s
+C :  So it might actually work .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Definitely when they don't align at all , it it it fails .
+
+dialogue type : s
+C :  I mean , that that 's how we found a lot of problems before , with , um , words being on the wrong place or something .
+
+dialogue type : s
+C :  So a failed alignment is a very good indicator that that the words don't match up .
+
+dialogue type : %--
+C : 
+
+dialogue type : s^aa
+C :  Yeah , is , uh it Right .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  That 's why you actually need the text .
+
+dialogue type : s^e
+C :  In order to force you to try to match something that gives you a model to match against .
+
+dialogue type : fh
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^cs
+C :  But it if Suppose we get one or two errors , still , per you know , per transcript , then we z we might wanna try some approach like that .
+
+dialogue type : s^2
+C :  Where it is .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s
+C :  If so , if that doesn't add time for them , that 'd be great .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  We have to ask them .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  into the You know , t for the checking problem .
+
+dialogue type : s
+C :  Into twenty minutes chunks or something ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  I haven't looked at these ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^df
+C :  cuz I was gone last week ,
+
+dialogue type : s^rt
+C :  but but Don had told me that there 's a difference in some of the conventions ?
+
+dialogue type : s^bu
+C :  So but those are all easy things ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s^bk
+C :  Yeah . OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C : 
+
+dialogue type : s^e.%--
+C : 
+
+dialogue type : s^bk
+C :  Great .
+
+dialogue type : b.%
+C :  Hmm .
+
+dialogue type : fg|s^ng:s
+C :  Um , I wouldn't well , it they didn't say " hate "
+
+dialogue type : s^df
+C :  but they they c they come on time to their meetings in order to not be left the last person who has to sit by those mikes .
+
+dialogue type : s^na
+C :  There were a few people you , and like , three or four people who really like them .
+
+dialogue type : s^e
+C :  And e and th all the others really don't .
+
+dialogue type : qh^cs
+C :  What about just a different headband thing ?
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : s^ba^df
+C :  Like , I don't mind those ,
+
+dialogue type : s^df
+C :  but it they bounce around .
+
+dialogue type : qy^rt
+C :  I mean , can we keep the microphones , and just somehow attach a more comfortable thing over your head ?
+
+dialogue type : s
+C :  That 's my problem with this one .
+
+dialogue type : s^e
+C :  The the ear thing comes out to here .
+
+dialogue type : s^e
+C :  It doesn't even fit over my ear .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : qw.%-
+C : 
+
+dialogue type : s^t3
+C :  Another one just bit the dust .
+
+dialogue type : s^t3
+C :  I think there 's a problem with this one .
+
+dialogue type : s^t^tc
+C :  I have a quick question about microphones ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^rt
+C :  I got this crazy idea that , um , i in the future , people will just walk around with the microphones that they use for their cell phones ?
+
+dialogue type : s^e
+C :  You know , these little boom ones ,
+
+dialogue type : s
+C :  like , and really go to meetings with close talking mikes .
+
+dialogue type : s
+C :  If they 're their own personal microphone .
+
+dialogue type : s^cs.%--
+C :  And so I 'm wondering if we can get a couple of tho
+
+dialogue type : s^bd
+C :  I don't know how good quality they are ,
+
+dialogue type : s^cs^df
+C :  but it would be really interesting to see if they 're good enough .
+
+dialogue type : s
+C :  The k kind that guys that like to look like they 're really cool at airports wear .
+
+dialogue type : s
+C :  You can't miss it .
+
+dialogue type : s^r
+C :  You cannot miss it .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  they 're probably talking to nobody ,
+
+dialogue type : %-
+C :  but
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s.%--
+C :  They wear the heads
+
+dialogue type : s
+C :  E Well , there you go .
+
+dialogue type : s^aa^fe
+C :  Yes .
+
+dialogue type : s
+C :  That 's that it looks sort of like that .
+
+dialogue type : fg|s.%--
+C :  OK , so whatever people sort of wear to use l
+
+dialogue type : s^aa|s
+C :  Yeah , something like tha with their cell phones ,
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  people like that .
+
+dialogue type : qh
+C :  Are they ?
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : qy^bu^d^rt
+C :  So it 's they 're not compatible ?
+
+dialogue type : %-
+C :  Well ,
+
+dialogue type : fg|s
+C :  um , just as an example for , you know , the future , of the fact that maybe people will wear those microphones ,
+
+dialogue type : s
+C :  or some people might ,
+
+dialogue type : s^e
+C :  to meetings ,
+
+dialogue type : s^f
+C :  you know .
+
+dialogue type : s^df
+C :  Not a I 'm not saying there 's not a far - field microphone , uh , application ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  If we have a choi I 've always wondered how well they would work .
+
+dialogue type : s^bk|s.%--
+C : 
+
+dialogue type : s^bd
+C :  Anyway , it 's just an idea .
+
+dialogue type : fh
+C : 
+
+dialogue type : b.%
+C :  Mmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qy^cs.%--
+C : 
+
+dialogue type : s^e.%-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^cs
+C :  But it doesn't have to be root .
+
+dialogue type : s^cs^e
+C :  It could be some other user that we all can SUX to .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bk|s
+C :  Oh . So tha that 's what I meant ,
+
+dialogue type : s^cs:s
+C :  it just some user like " meeting - root " or something .
+
+dialogue type : s^bd^no
+C :  I don't know .
+
+dialogue type : b.%
+C :  Yeah .
+
+dialogue type : s^aa|%-
+C : 
+
+dialogue type : %-
+C : 
+
+dialogue type : qy.%-
+C : 
+
+dialogue type : s^aa|s^m^na
+C :  Yeah , just keep the lock on .
+
+dialogue type : s^cs
+C :  I mean , just check it out check it out
+
+dialogue type : s^cs.%-
+C : 
+
+dialogue type : s^bk
+C :  Oh ,
+
+dialogue type : s
+C :  it Oh , it doesn't .
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : qh^cs
+C :  So why not use RCS at that point ? Just at that stage ?
+
+dialogue type : s^bk^m
+C :  It 's not remote .
+
+dialogue type : s^df
+C :  But at that point we only want , probably , Jane to be in control anyway ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bd.%-
+C :  I mean , it 's just an i
+
+dialogue type : s^bu^df
+C :  But not to modify them ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s^e
+C :  Just to read them .
+
+dialogue type : s^no^rt
+C :  I don't know ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : s
+C :  Well It 's sort of not really a question about permissions ,
+
+dialogue type : s
+C :  but more of procedure .
+
+dialogue type : s^df
+C :  Either those all go through Jane , or through someone ,
+
+dialogue type : s^df^e
+C :  or they all don't .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  And if they all do , then there isn't a problem ,
+
+dialogue type : qy^d^f^g^rt
+C :  right ?
+
+dialogue type : s^df
+C :  Cuz once they give us the data , it 's ours ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I mean , ours to sort of transcribe and annotate .
+
+dialogue type : s
+C :  And if they wanna make changes , they can do that .
+
+dialogue type : s.%-
+C :  So then if they do have acc
+
+dialogue type : fg|qh
+C :  OK , so what if they have What if they have accounts here , and they use RCS ,
+
+dialogue type : s^e
+C :  at that point , where you can l really lock a file .
+
+dialogue type : s^ba^df
+C :  I mean , I 'm worried . If you can't lock a file , this this to me sounds very scary .
+
+dialogue type : fh
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  If they 're ac if they 're so closely linked that they 're actually modifying transcripts and " key " files , then they could do it by , you know , secure - shelling into ICSI , under RCS , at that point .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+C :  So , maybe there is a way in CVS to effectively lock something if you don't want people to make any changes ?
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : %--
+C : 
+
+dialogue type : s^cs
+C :  So then you could use CVS
+
+dialogue type : s^cs^e
+C :  and , you know , just f have remote access ,
+
+dialogue type : s^bd^df
+C :  but then it 's up to whoever is , sort of , responsible for that level of transcription to decide how and when to put these locks ,
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s.%--
+C :  So if that 's at an
+
+dialogue type : s.%--
+C : 
+
+dialogue type : %--
+C :  Uh , you know ,
+
+dialogue type : s^ba
+C :  if that 's if that model works for the transcripts , then that 's fine .
+
+dialogue type : s
+C :  But if that pr @ @ um , allows someone to come in and modify while you 're modifying , and they turn out to be changes that , you know , would have been better to wait until your version came out , then that 's really up to you ,
+
+dialogue type : s^e
+C :  not up to the software ,
+
+dialogue type : s^aa|s^na
+C :  Yeah , that 's what I would be worried about too .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  I mean , I like that idea
+
+dialogue type : s^df
+C :  because even a casual user can always send email to whoever 's in charge ,
+
+dialogue type : s:s
+C :  and say , you know , " we 'd like these changes "
+
+dialogue type : s^rt
+C :  and , you know , hopefully we 'll give them a response .
+
+dialogue type : s:s
+C :  And if they really do it a lot , and they say " we 're a casual user but we want a chance to change the transcripts " then we can face that if it happens ,
+
+dialogue type : fh
+C :  but
+
+dialogue type : s
+C :  I don't really see the people at UW that I know of right now making huge amoun investing huge amounts of time in changing transcripts .
+
+dialogue type : s^bd^df
+C :  But I could be wrong .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^aa|s
+C :  Right . And there 's some happy medium
+
+dialogue type : s
+C :  and we don't know what that is yet until we get feedback from people ,
+
+dialogue type : qh^cs
+C :  but what if it 's OK to just handle it with sort of a person in charge of the philosophy behind the changes ,
+
+dialogue type : s^cs^e
+C :  and some people with permissions , maybe by request , to make changes ,
+
+dialogue type : s
+C :  That we don't just give people permissions if they 're not gonna make changes .
+
+dialogue type : s
+C :  Because I 've overwritten a a file by mistake ,
+
+dialogue type : s
+C :  not wanting to have done that
+
+dialogue type : s^df^rt
+C :  cuz I didn't think I had permission , when I did .
+
+dialogue type : s^cs
+C :  Um , and then just seeing if that is enough to to handle the transcript changes .
+
+dialogue type : s
+C :  I 'm just worried about letting everybody go in and make changes ,
+
+dialogue type : s^df
+C :  cuz it 's real easy when you 're trying to , I don't know , run alignments and there 's a word you wanna fix , to go in and do that and then mess up other things ,
+
+dialogue type : s
+C :  if you don't know , you know , the overall philosophy behind the the conventions .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^aa
+C :  Exactly .
+
+dialogue type : s^cs
+C :  Or just , yeah , start by make it a really tight control
+
+dialogue type : s^cs.%-
+C : 
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^df
+C :  But you can control that by knowing you 're making two corpora
+
+dialogue type : s
+C :  or knowing that you 're adding um , annotations on one version and you don't have the latest corrections maybe at that point .
+
+dialogue type : s
+C :  And then you finish the project and you realize that there were corrections made on your originals
+
+dialogue type : s
+C :  and then you have to merge them .
+
+dialogue type : s
+C :  And the b the thing that makes it ea OK to do that , is knowing where the synch time boundaries are .
+
+dialogue type : s^df
+C :  Cuz you can automatically pretty much merge things if you 've only got twenty words or so in an utterance .
+
+dialogue type : s
+C :  It 's when you get the whole meeting
+
+dialogue type : s
+C :  and the synch times ch have changed ,
+
+dialogue type : s
+C :  or you can't correspond to a previous version with synch times , that you get in trouble .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : qy^t^tc
+C :  Was there anything else on your list ?
+
+dialogue type : fg|qr
+C :  Now , wait , are are we doing them simultaneously or one at a time ?
+
+dialogue type : s^bk
+C :  Alright .
+

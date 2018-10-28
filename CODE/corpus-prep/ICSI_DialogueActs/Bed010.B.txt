@@ -1,0 +1,774 @@
+dialogue type : z
+B :  Thank you .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Oh ,
+
+dialogue type : s^2
+B :  Am Spartacus . "
+
+dialogue type : s
+B :  Verstehe .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b.%
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK . N ,
+
+dialogue type : s^bk^m
+B :  N , V
+
+dialogue type : s^bk
+B :  yeah ,
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^tc
+B :  Alright .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : s
+B :  Yeah , I noticed that um , that some of the examples they had , had you know , non - English word orders and so on ,
+
+dialogue type : s
+B :  you know . And then all that good stuff .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : %-
+B :  Like .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^no.%--
+B :  I
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^no
+B :  You know , I I still don't exactly understand sort of the information flow uh in in this thing , or what the modules are and so on .
+
+dialogue type : s^bu
+B :  So , you know , like just that such - and - such module uh um decides that it wants to achieve the goal of greeting the user ,
+
+dialogue type : s.%--
+B :  and then magically it sort of s
+
+dialogue type : qw
+B :  I mean , how does it know which syntactic structure to pull out , and all that ?
+
+dialogue type : %
+B :  R uh
+
+dialogue type : s^bk
+B :  Sure .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^2
+B :  soon .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : sj^ba
+B :  That 's fine .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s.%--
+B :  And I remember one thing that that came up in the talk last Wednesday . Um , was this ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^e^rt
+B :  For each lexical item , the lexical entry says what all the uh trees are that it can appear in .
+
+dialogue type : fh|s
+B :  And of course , that 's not v That 's the opposite of constructional .
+
+dialogue type : s
+B :  That 's , you know , that 's that 's HPSG or whatever .
+
+dialogue type : qy^d^g^rt
+B :  You know ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^2
+B :  Make our stuff fit to that .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Oh OK .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^aa
+B :  Right , yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^bk
+B :  Oh OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Got it .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Right , OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fh|s
+B :  So I mean , the the point is that like the meetings um so far that I 've been at have been sort of been geared towards this demo ,
+
+dialogue type : s
+B :  and then that 's going to go away pretty soon .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  And then we 'll sort of shift gears a Fairly substantially ,
+
+dialogue type : qy^d^g^rt
+B :  huh ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  OK ,
+
+dialogue type : s^bk
+B :  right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  It 's alright .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qw
+B :  How do you go about this process of deciding what these connections are ?
+
+dialogue type : s
+B :  I know that there 's an issue of how to weight the different things too , and stuff .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Alright .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^aa^rt
+B :  that 's right .
+
+dialogue type : fg|s.%--:qy.%--
+B :  Yeah , oh , and by the way , speaking of data , um , are there
+
+dialogue type : s
+B :  I could swore uh , I could swear I saw it sitting on someone 's desk at some point ,
+
+dialogue type : qy^rt
+B :  but is there a um a transcript of any of the , sort of , initial interactions of people with the with the system ?
+
+dialogue type : s^df
+B :  Cuz you know , I 'm still sort of itching to to look at what look at the stuff , and see what people are saying .
+
+dialogue type : fg
+B :  Yeah ,
+
+dialogue type : s^bk
+B :  u OK .
+
+dialogue type : s
+B :  Yeah , I mean I I sort of um found the uh , uh the audio of some of those ,
+
+dialogue type : fh|s
+B :  and um , it kind of sounded like I didn't want to trudge through that , you know .
+
+dialogue type : s
+B :  It was just Strange ,
+
+dialogue type : fh
+B :  but .
+
+dialogue type : s^aa
+B :  Oh yeah ,
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK ,
+
+dialogue type : fg
+B :  yeah , I mean .
+
+dialogue type : fg|s^t^tc
+B :  Oh , um , I just wanted to , uh , s like mention as an issue , um , you know last meeting I wasn't here
+
+dialogue type : s^df
+B :  because I went to a linguistics colloquium on the fictive motion stuff ,
+
+dialogue type : sj^ba
+B :  and that was pretty interesting
+
+dialogue type : fh
+B :  and you know , I mean ,
+
+dialogue type : sj
+B :  seems to me that that will fairly obviously be of relevance to uh to what we 're doing here
+
+dialogue type : s
+B :  because you know people are likely to give descriptions
+
+dialogue type : s^e
+B :  like you know , " What 's that thing uh right where you start to go up the hill , " or something like that ,
+
+dialogue type : s^e
+B :  you know , meaning a few feet up the hill or whatever from some reference point and all that stuff
+
+dialogue type : s
+B :  so I mean , I 'm sure in terms of you know , people trying to state locations or , you know , all that kind of stuff , this is gonna be very relevant .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : fh|s.%--
+B : 
+
+dialogue type : s:s
+B :  he 'd what he talked about was that you know in English we say things like th you know , " your bike is parked across the street "
+
+dialogue type : s:s
+B :  and we use these prepositional phrases , you know , " well , if you were to move across the street you would be at the bike " ,
+
+dialogue type : s:s
+B :  but um in in Japanese the the more conventionalized tendency is to use a sort of a description of " where one has crossed to the river , there is a tree " .
+
+dialogue type : fh|s:s
+B :  Um , and you know , you can actually say things like , um , " there 's a tree where one has crossed the river , but no one has ever crossed the river " , or something like that .
+
+dialogue type : s
+B :  So the idea is that this really is you know that 's supposed show that 's it 's really fictive and so on .
+
+dialogue type : fh
+B : 
+
+dialogue type : s:s
+B :  But the point is that that kind of construction is also used in English , you know , like " right where you start to go up the hill " , or " just when you get off the train " , or something like that to uh , to indicate where something is .
+
+dialogue type : s^cc.%-
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg|s^bu
+B :  Right , so the canonical direction of motion determines where the front is .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : sj.%-
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : sj.%--
+B :  I mean , it seems to me that you can get both in in English depending o
+
+dialogue type : s.%--
+B :  You know , like , " in front of the car " could you know Like ,
+
+dialogue type : s
+B :  here 's the car sideways to me in between me and the car or something 's in front of the car , or whatever .
+
+dialogue type : s
+B :  I could see that ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^tc
+B :  But anyway , so you know , I mean , this was this was a a very good talk on those kinds of issues and so on .
+
+dialogue type : fh
+B :  So uh .
+
+dialogue type : sj^ba
+B :  Alright !
+
+dialogue type : sj^ba
+B :  Cool !
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^aa^r
+B :  The origin .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : s^rt
+B :  I never heard it .
+
+dialogue type : s^bk^rt
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg
+B :  Right .
+
+dialogue type : s
+B :  You you can actually say things like , um , " it 's behind the tree from me " or something like that , I think , in in in certain circumstances in English ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  Me too .
+
+dialogue type : b
+B :  Huh .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s^2
+B :  Circuits .
+
+dialogue type : sj^ba
+B :  That 's cool .
+
+dialogue type : b
+B :  Yeah
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^2
+B :  What 's going on at the end of the tool ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s^r
+B :  What 's going on at the end of the tool , or whatever .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : sj^ba
+B :  That 's cool .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Alright .
+
+dialogue type : %--
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s^2
+B :  Be of use to someone who 's trying to do this ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  I see .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : sj
+B :  Good to know .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : s^bk
+B :  Alright .
+
+dialogue type : s^df^j
+B :  Cuz I don't have to implement anything .
+
+dialogue type : s^aa
+B :  Yeah , right .
+
+dialogue type : s^fe
+B :  Cool !
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^2^j
+B :  Just a drive up .
+
+dialogue type : %
+B :  Ca - chuk !
+
+dialogue type : s^j
+B :  There you go .
+
+dialogue type : s^aa
+B :  Exactly .
+
+dialogue type : s^2^aa
+B :  Drive through , yeah .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b.%
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Sure .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa^r
+B :  Yeah .
+
+dialogue type : s^bs
+B :  Oh , so in Switzerland .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^aa
+B :  OK .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  Pretty soon .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^2
+B :  Quite relevant , yeah .
+
+dialogue type : b
+B :  Yeah ,
+
+dialogue type : s^aa
+B :  oh yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : s
+B :  Yeah , I 'm actually probably going to be in contact with her uh pretty soon anyway because of various of us students were going to have a reading group about precisely that sort of thing over the summer ,
+
+dialogue type : fh.%
+B :  so .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg
+B :  Right ,
+
+dialogue type : s^2
+B :  no faculty !
+
+dialogue type : s^aa
+B :  Yeah , right .
+
+dialogue type : s
+B :  It 's as if we didn't tell anyone at all ,
+
+dialogue type : s^bk
+B :  right .
+

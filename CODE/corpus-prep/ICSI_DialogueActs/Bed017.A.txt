@@ -1,0 +1,282 @@
+dialogue type : z
+A :  Why ?
+
+dialogue type : z
+A :  No , cuz she already told me it , before she told you .
+
+dialogue type : z
+A :  Oh , well , it doesn't matter what time .
+
+dialogue type : z
+A :  Well maybe she hadn't just started transcribing me yet .
+
+dialogue type : z
+A :  Anyway .
+
+dialogue type : z
+A :  I beg to differ .
+
+dialogue type : z
+A :  But you have to say something genuinely funny before you 'll get an example .
+
+dialogue type : z
+A :  No , it 's a different laugh .
+
+dialogue type : z
+A :  Ooh , wow !
+
+dialogue type : z
+A :  Wow . Whoa !
+
+dialogue type : z
+A :  Uh .
+
+dialogue type : fg
+A :  Sorry .
+
+dialogue type : s
+A :  Hi . Hi .
+
+dialogue type : s
+A :  So when you said " Andreas " I thought you were talking about Stolcke .
+
+dialogue type : s
+A :  Now I know that we aren't ,
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^aa
+A :  Of course .
+
+dialogue type : s^ba
+A :  That 's good .
+
+dialogue type : s^j
+A :  That 's definitely a job for artificial intelligence .
+
+dialogue type : s
+A :  Except for humans can't really solve it either , so .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  And then you can blame the computer .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^j^na
+A :  That should be one of them .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s
+A :  And so some of the I don't know how much you know about the larger Heidelberg project ,
+
+dialogue type : qy.%-
+A : 
+
+dialogue type : s
+A :  So it seems like a lot of some of the issues are the same .
+
+dialogue type : s.%--
+A :  It 's like , um , you know , the c context - based factors that influence how you interpret ,
+
+dialogue type : fh|s.%--
+A :  um , s how to interpret .
+
+dialogue type : s
+A :  In in this case , infer in in knowing wanting to know what kinds of things to ask .
+
+dialogue type : s
+A :  We - we 've kind of talked about that ,
+
+dialogue type : s
+A :  but we haven't worried too much about that end of the discourse .
+
+dialogue type : s
+A :  But maybe you guys had that in the previous models .
+
+dialogue type : s^2
+A :  Documents that have the answers .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bu
+A :  So you also don't have to figure out what the content is .
+
+dialogue type : s^bu
+A :  You 're just taking the keywords as a topic text ,
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm ,
+
+dialogue type : b^rt
+A :  mm - hmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I guess I 'm trying to figure out how how it maps to the kinds of things that we 've talked about in this group , and , actually associated groups ,
+
+dialogue type : s^df
+A :  cuz some of us do pretty detailed linguistic analyses ,
+
+dialogue type : s^bu^rt
+A :  and I 'm guessing that you you won't be doing that ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^df
+A :  Just checking .
+
+dialogue type : fh
+A :  So , OK .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^df
+A :  Well , he had other things to do .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^cs^rt
+A :  The other person I thought of is Dan Gildea ?
+
+dialogue type : s^df.%-
+A :  because he did some work on topic spotting
+
+dialogue type : fh|s.%--
+A :  w um , which is , I mean , you I mean . I don't Depending on how well you wanna integrate with that end ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^df
+A :  We There 's someone in ICSI who actually has been working on has worked on that kinda stuff ,
+
+dialogue type : s^df
+A :  and he 's worked with frame net ,
+
+dialogue type : s
+A :  so you could talk to him about , you know , both of those things at once .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^e
+A :  And he just finished writing a draft of his thesis .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  I u Dan Gildea , GILDEA .
+
+dialogue type : s^e
+A :  And , he 's in one of the rooms on the fifth floor and stuff ,
+
+dialogue type : fh
+A : 
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s
+A :  Well , if you fal solve the problem , hope you can do one for us too .
+
+dialogue type : s^j
+A :  Talk about changing the topic .
+
+dialogue type : s^df
+A :  At least this is a private meeting .
+
+dialogue type : s^aa
+A :  Right , exactly ,
+
+dialogue type : s
+A :  OK , that 's the link .
+
+dialogue type : s^aa
+A :  Mmm . Definitely .
+
+dialogue type : s
+A :  But for adults and not for the children .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+A :  Greater than two ?
+
+dialogue type : s^aa
+A :  Uh , right , right .
+

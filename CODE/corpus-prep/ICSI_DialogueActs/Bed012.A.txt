@@ -1,0 +1,540 @@
+dialogue type : qy^d^m^rt
+A :  The Crown ?
+
+dialogue type : qy^rt
+A :  Is that the actual name ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : s^aa
+A :  Indeed .
+
+dialogue type : s^aa
+A :  Yes ,
+
+dialogue type : s^aa
+A :  I have .
+
+dialogue type : s^e
+A :  And , I do .
+
+dialogue type : s^bk
+A :  Yeah , alright .
+
+dialogue type : qy^t
+A :  s So where are we ?
+
+dialogue type : s^j
+A :  I don't think it can handle French ,
+
+dialogue type : s
+A :  but anyway .
+
+dialogue type : s^ar^t3
+A :  No .
+
+dialogue type : s^ng^t3
+A :  I 'm not drinking tea .
+
+dialogue type : qw^t3
+A :  What are you talking about ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^fa^t3
+A :  Excuse me .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : s^cs.%--
+A :  You should probably make them out of
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy^bu^d^rt
+A :  The different decision nodes , you mean ?
+
+dialogue type : s^na
+A :  Well , d yeah , this is making the assumption .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : qw.%-
+A : 
+
+dialogue type : s
+A :  If we trusted the Go - there node more th much more than we trusted the other ones , then we would conclude , even in this situation , that he wanted to go there .
+
+dialogue type : s
+A :  So , in that sense , we weight them equally
+
+dialogue type : s^e
+A :  right now .
+
+dialogue type : s
+A :  Yeah , so , the final d decision is the combination of these three .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Yeah , sure .
+
+dialogue type : s^bc
+A :  A decision node for every possible question , you mean ?
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : h|qy^bu^rt
+A :  Um , I mean , are you saying that , what happens if you try to scale this up to the situation , or are we just dealing with arbitrary language ?
+
+dialogue type : qy^rt
+A :  Is that your point ?
+
+dialogue type : qy^d^rt
+A :  For every question ?
+
+dialogue type : %-
+A : 
+
+dialogue type : h
+A :  Hmm .
+
+dialogue type : s^nd
+A :  I don't Not necessarily , I would think .
+
+dialogue type : s^df
+A :  I mean , it 's not based on constructions ,
+
+dialogue type : s^df
+A :  it 's based on things like , uh , there 's gonna be a node for Go - there or not , and there 's gonna be a node for Enter , View , Approach .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  I mean , in general , like , we won't just have those three ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : s
+A :  We 'll have , uh , like , many , many nodes .
+
+dialogue type : s
+A :  So we have to , like So that it 's no longer possible to just look at the nodes themselves and figure out what the person is trying to say .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  I think that 's true .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : %-
+A :  Ge
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK , right .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa|%--
+A :  Yes , I mean .
+
+dialogue type : s^aa
+A :  Sure .
+
+dialogue type : s^na
+A :  You do need to know I mean , to have that kind of information .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s.%--
+A :  I guess the other thing is that um , yeah .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  Like , if you 're asked a Where - Is question , you may not even look like , ask for the posterior probability of the , uh , EVA node ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : s^df
+A :  Cuz , that 's what I mean , in the Bayes - net you always ask for the posterior probability of a specific node .
+
+dialogue type : fh
+A :  So , I mean ,
+
+dialogue type : s
+A :  you may not even bother to compute things you don't need .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s^df
+A :  You can compute , uh , the posterior probability of one subset of the nodes , given some other nodes ,
+
+dialogue type : s^e
+A :  but totally ignore some other nodes , also .
+
+dialogue type : s
+A :  Basically , things you ignore get marginalized over .
+
+dialogue type : s^aa|s^df.%-
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : s^na
+A :  But I would think that 's what you want to do .
+
+dialogue type : qy^d^g^rt
+A :  Right ?
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aap
+A :  I don't know if it would necessarily be that , uh , complicated .
+
+dialogue type : fh
+A : 
+
+dialogue type : s.%-
+A :  I mean , it w
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  That 's true , I guess .
+
+dialogue type : s^na
+A :  Yeah , so , in a way you would have that .
+
+dialogue type : s^bk|qw
+A :  OK , why 's that ?
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Alright .
+
+dialogue type : s
+A :  Well , hopefully it 's fixable .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  So we can figure this out .
+
+dialogue type : s^na
+A :  They should come when they 're done their stuff , basically , whenever that is .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : h
+A :  Um ,
+
+dialogue type : s
+A :  I guess , Jerry needs to enter marks ,
+
+dialogue type : s
+A :  but I don't know if he 's gonna do that now or later .
+
+dialogue type : fh|s
+A :  But , uh , if he 's gonna enter marks , it 's gonna take him awhile , I guess ,
+
+dialogue type : s
+A :  and he won't be here .
+
+dialogue type : qh^m^rt
+A :  Nancy ?
+
+dialogue type : h|s
+A :  Um , she was sorta finishing up the , uh , calculation of marks and assigning of grades ,
+
+dialogue type : s
+A :  but I don't know if she should be here .
+
+dialogue type : s
+A :  Well or , she should be free after that ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s^e
+A :  assuming she 's coming to this meeting .
+
+dialogue type : s^no
+A :  I don't know if she knows about it .
+
+dialogue type : qy^bu^no^rt
+A :  Is she ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^bc
+A :  Four inputs .
+
+dialogue type : s^df
+A :  Those are The bottom things are inputs , also .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : qy^2^rt
+A :  Alarm in the dog ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^fa|s
+A :  Sorry . Yeah , I 'm confusing two .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^am
+A :  Maybe .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^cc
+A :  We 'll meet next Tuesday , I guess .
+
+dialogue type : qw^d^rt
+A :  Which Friday ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qw^rt
+A :  Is he How long is he gone for ?
+
+dialogue type : qh^rt
+A :  Italy , huh ?
+
+dialogue type : qw^rt
+A :  What 's , uh what 's there ?
+
+dialogue type : s^j
+A :  Pasta .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s^aa^m
+A :  Just visiting .
+
+dialogue type : s^ba
+A :  It 's a pretty nice place ,
+
+dialogue type : s^e
+A :  in my brief , uh , encounter with it .
+
+dialogue type : b
+A :  Yes .
+
+dialogue type : qw
+A :  h What ?
+
+dialogue type : %-
+A : 
+
+dialogue type : qw^rt
+A :  Which ones ?
+
+dialogue type : h|qw^bu.%-
+A : 
+
+dialogue type : s
+A :  I don't u understand .
+
+dialogue type : s:s
+A :  Like , the Go - there depends on all those four things .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  Well , it depends on the situation .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bk|s.%--
+A : 
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Sure .
+
+dialogue type : s
+A :  So , whatever .
+
+dialogue type : s^m
+A :  Johno ?
+
+dialogue type : s
+A :  Yeah . People have the same problem with my name .
+
+dialogue type : s^fe
+A :  Oops .
+
+dialogue type : qy^bu^rt
+A :  Oh , in my name ?
+
+dialogue type : s
+A :  Before the A .
+
+dialogue type : s
+A :  People have the inverse problem with my name .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  That 's good .
+
+dialogue type : s^ft^j
+A :  I appreciate that .
+
+dialogue type : qy^m^rt
+A :  " Basman " ?
+
+dialogue type : s^df
+A :  Yeah , it 's because of the chessplayer named Michael Basman ,
+
+dialogue type : s^e
+A :  who is my hero .
+
+dialogue type : qy^d^rt
+A :  Not Eva ?
+
+dialogue type : fg|s
+A :  Yeah . It doesn't matter what those nodes are , anyway ,
+
+dialogue type : s^df
+A :  because we 'll just make the weights " zero " for now .
+
+dialogue type : s^aa
+A :  OK .
+
+dialogue type : s^aa
+A :  Sure .
+
+dialogue type : h
+A : 
+
+dialogue type : h
+A : 
+
+dialogue type : qw
+A :  But how many constructions do could we possibly have nodes for ?
+
+dialogue type : s^ar:s
+A :  No , we .
+
+dialogue type : s^e
+A :  Like , when people do this kind of thing .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : qy^rt
+A :  Is it considered to be like in are they considered to be like very , uh , sort of s abstract things ?
+
+dialogue type : s^bk|s^bu
+A :  OK , so it 's like in the thousands .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : %-
+A :  S
+
+dialogue type : s^2
+A :  Discourse - level constructions .
+
+dialogue type : b
+A :  Yes .
+
+dialogue type : qw^rt
+A :  How 's that ? How it can be finite , again ?
+
+dialogue type : s
+A :  But , I mean , in the practical sense , it 's impossible .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aap
+A :  Well , two to the power of the number of neurons .
+
+dialogue type : h|s^aap.%-
+A : 
+
+dialogue type : s^na
+A :  Bandw - Yeah , so you can't do better than something .
+

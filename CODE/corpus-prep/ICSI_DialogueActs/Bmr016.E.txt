@@ -1,0 +1,1803 @@
+dialogue type : s^ba
+E :  Interesting .
+
+dialogue type : %
+E :  Hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^na
+E :  I agree .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  And i actually it 's no more artificial than what we 've been doing with words .
+
+dialogue type : s
+E :  I 'm sure people can adapt to this ,
+
+dialogue type : s^e
+E :  read it single .
+
+dialogue type : s
+E :  The spaces already bias it toward being separated .
+
+dialogue type : s
+E :  And I know I 'm gonna find this easier than words .
+
+dialogue type : s^ba
+E :  I think that i it 's fine .
+
+dialogue type : s
+E :  I it it to me it looks like you 've got the func the idea of grouping and you have the grou the idea of separation
+
+dialogue type : s
+E :  and , you know , it 's just a matter of u i the instructions , that 's all .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^co
+E :  Go ahead .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg|s^na
+E :  Yeah , I also would like to argue for that
+
+dialogue type : s^df
+E :  cuz it it seems to me that , um , there 's a real strength in having the same test replicated in a whole bunch of times
+
+dialogue type : s^df^e
+E :  and adding to that basic test bank .
+
+dialogue type : s^bk.%
+E :  Hmm ?
+
+dialogue type : s^df
+E :  Cuz then you have , you know , more and more , u chances to get away from random errors .
+
+dialogue type : s
+E :  And I think , um , the other thing too is that right now we have sort of a stratified sample with reference to dialect groups ,
+
+dialogue type : s
+E :  and it might be there might be an argument to be made for having uh f for replicating all of the digits that we 've done ,
+
+dialogue type : s
+E :  which were done by non - native speakers
+
+dialogue type : s
+E :  so that we have a core that totally replicates the original data set ,
+
+dialogue type : s
+E :  which is totally American speakers ,
+
+dialogue type : s
+E :  and then we have these stratified additional language groups overlapping certain aspects of the database .
+
+dialogue type : s^df^nd
+E :  Except that if you have the stimuli comparable , then it says something about the the contribution of setting
+
+dialogue type : fh
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qw
+E :  What 's an example of a of m some of the other differences ?
+
+dialogue type : qo^e
+E :  Any other a difference ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK , fine .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Great .
+
+dialogue type : s^j
+E :  I think it was numbers ,
+
+dialogue type : s^j
+E :  but I 'm not sure .
+
+dialogue type : s
+E :  You have to have a similar pace .
+
+dialogue type : qy
+E :  c c Can I can I have an another another question w about this ?
+
+dialogue type : s
+E :  So , um , there are these digits ,
+
+dialogue type : s
+E :  which are detached digits ,
+
+dialogue type : s^rt
+E :  but there are other words that contain the same general phon phoneme sequences .
+
+dialogue type : s:s
+E :  Like " wonderful " has " one " in it
+
+dialogue type : s
+E :  and and Victor Borge had a had a piece on this where he inflated the digits .
+
+dialogue type : s^cs
+E :  Well , I wonder if there 's , um , an if there would be a value in having digits that are in essence embedded in real words to compare in terms of like the articulation of " one " in " wonderful " versus " one " as a digit being read .
+
+dialogue type : s
+E :  There you go .
+
+dialogue type : s^m
+E :  Nein .
+
+dialogue type : s^bd^df
+E :  Well , I mean , I just wanted to offer that as a possible task
+
+dialogue type : s^df
+E :  because , you know , if we were to each read his embedded numbers words in sent in sentences
+
+dialogue type : s
+E :  cuz it 's like an entire sketch he does
+
+dialogue type : s
+E :  and I wouldn't take the inflated version .
+
+dialogue type : s
+E :  So he talks about the woman being " two - derful " ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  and a But , you know , if it were to be deflated , just the normal word , it would be like a little story that we could read .
+
+dialogue type : s^no
+E :  I don't know if it would be useful for comparison ,
+
+dialogue type : s^df
+E :  but it 's embedded numbers .
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^bk|s^ft
+E :  OK , thank you .
+
+dialogue type : b
+E :  Huh .
+
+dialogue type : s^aa
+E :  Mm - hmm . Mm - hmm .
+
+dialogue type : s^ba
+E :  Mm - hmm , very good point .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qw^rt
+E :  What 's th u w in what respect ?
+
+dialogue type : %-
+E :  In the in
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Mm - hmm . Yeah .
+
+dialogue type : s
+E :  It was also true of the digits task which was X Waves .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^2
+E :  Very quickly .
+
+dialogue type : s^aa
+E :  I agree .
+
+dialogue type : s
+E :  You 're right about the backup being a bottleneck .
+
+dialogue type : s^ba
+E :  It 's good to think towards scratch .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^2
+E :  With two two digits .
+
+dialogue type : s^bk|s
+E :  OK . So I got a little print - out here .
+
+dialogue type : s^rt
+E :  So three on this side ,
+
+dialogue type : s
+E :  three on this side .
+
+dialogue type : s
+E :  And I stapled them .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : fg|s
+E :  Alright so , first of all , um , there was a an interest in the transcribe transcription , uh , checking procedures
+
+dialogue type : s
+E :  and and I can tell you first , uh , to go through the steps
+
+dialogue type : s
+E :  although you 've probably seen them .
+
+dialogue type : s.%--
+E :  Um , as you might imagine , when you 're dealing with , um , r really c a fair number of words , and uh , @ @ natural speech
+
+dialogue type : s
+E :  which means s self - repairs and all these other factors , that there 're lots of things to be , um , s standardized and streamlined and checked on .
+
+dialogue type : fh
+E :  And , um , so ,
+
+dialogue type : s
+E :  I did a bunch of checks ,
+
+dialogue type : s
+E :  and the first thing I did was obviously a spell - check .
+
+dialogue type : s
+E :  And at that point I discovered certain things
+
+dialogue type : s:s
+E :  like , um , " accommodate " with one " M " ,
+
+dialogue type : s
+E :  that kind of thing .
+
+dialogue type : s
+E :  And then , in addition to that , I did an exhaustive listing of the forms in the data file ,
+
+dialogue type : s
+E : 
+
+dialogue type : qw^br
+E :  Yeah ?
+
+dialogue type : s^aa|s^co
+E :  Sure , please ,
+
+dialogue type : s^aa|s^co^r
+E :  yeah , please , please .
+
+dialogue type : s^aa
+E :  Yeah , yeah , yeah .
+
+dialogue type : s^aa
+E :  Yes .
+
+dialogue type : s^aa
+E :  That 's right .
+
+dialogue type : s^aa
+E :  Exactly .
+
+dialogue type : s^2^na
+E :  I do these checks .
+
+dialogue type : s^aa
+E :  Uh - huh .
+
+dialogue type : s^aa
+E :  Exactly .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ft
+E :  Thank you .
+
+dialogue type : s^rt.%--
+E : 
+
+dialogue type : s
+E :  Actually , I will go through this in in order ,
+
+dialogue type : s^cs
+E :  so if if we could maybe wait and stick keep that for a second
+
+dialogue type : s^df
+E :  cuz we 're not ready for that .
+
+dialogue type : s^aa
+E :  Yeah , yeah , yeah , yeah . Exactly ! Exactly !
+
+dialogue type : fg|s
+E :  Alright so , a spelling check first
+
+dialogue type : s
+E :  then an exhaustive listing of the , uh all the forms in the data with the punctuation attached
+
+dialogue type : s
+E :  and at that point I pick up things like , oh , you know , word followed by two commas .
+
+dialogue type : s
+E :  And th and then another check involves , uh , being sure that every utterance has an identifiable speaker .
+
+dialogue type : s
+E :  And if not , then that gets checked .
+
+dialogue type : s
+E :  Then there 's this issue of glossing s w so - called " spoken - forms " .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  mo for the most part , we 're keeping it standard wo word level transcription .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  w And that that 's done with the assumption that pronunciation variants can be handled .
+
+dialogue type : s:s
+E :  So for things like " and " , the fact that someone doesn't say the " D " , uh that 's not important enough to capture in the transcription
+
+dialogue type : s^df
+E :  because a a good pronunciation , uh , you know , model would be able to handle that .
+
+dialogue type : s:s
+E :  However , things like " cuz " where you 're lacking an entire very prominent first syllable ,
+
+dialogue type : s
+E :  and furthermore , it 's a form that 's specific to spoken language ,
+
+dialogue type : s
+E :  those are r reasons f for those reasons I I kept that separate ,
+
+dialogue type : s:s
+E :  and used the convention of using " CUZ " for that form ,
+
+dialogue type : s
+E :  however , glossing it
+
+dialogue type : s^df
+E :  so that it 's possible with the script to plug in the full orthographic form for that one ,
+
+dialogue type : s^e
+E :  and a couple of others ,
+
+dialogue type : s^bd
+E :  not many .
+
+dialogue type : s:s
+E :  So " wanna " is another one ,
+
+dialogue type : s:s
+E :  " going " uh , " gonna " is another one ,
+
+dialogue type : s
+E :  with just the assumption , again , that this th these are things which it 's not really fair to a c consider expect that a pronunciation model , to handle .
+
+dialogue type : s^bu|qy^d^g^rt
+E :  And Chuck , you in you indicated that " cuz " is is one of those that 's handled in a different way also , didn't you ?
+
+dialogue type : qy.%--
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  So so it might not have been It might not have been you ,
+
+dialogue type : s
+E :  but someone told me that in fact " cuz " is treated differently in , um , i u in this context
+
+dialogue type : s^df
+E :  because of that r reason that , um , it 's a little bit farther than a pronunciation variant .
+
+dialogue type : s.%--
+E :  OK , so after that ,
+
+dialogue type : s^t1
+E :  let 's see ,
+
+dialogue type : fh
+E :  um .
+
+dialogue type : s.%--
+E :  Well so when I get the exhau
+
+dialogue type : s
+E :  So the spell - check picks up those words
+
+dialogue type : s^df
+E :  because they 're not in the dictionary .
+
+dialogue type : s.%-:s.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah , mm - hmm .
+
+dialogue type : s^na.%--
+E : 
+
+dialogue type : s^df:s
+E :  I have a sed You know , so I do sed script saying whenever you see " gonna " you know , " convert it to gonna " , you know , " gloss equals quote going - to quote " ,
+
+dialogue type : s^f
+E :  you know .
+
+dialogue type : s
+E :  And with all these things being in curly brackets
+
+dialogue type : s^df
+E :  so they 're always distinctive .
+
+dialogue type : fg|s
+E :  OK , I also wrote a script which will , um , retrieve anything in curly brackets , or anything which I 've classified as an acronym ,
+
+dialogue type : s
+E :  and a pronounced acronym .
+
+dialogue type : s
+E :  And the way I tag ac pronounced acronyms is that I have underscores between the components .
+
+dialogue type : s:s
+E :  So if it 's " ACL " then it 's " A " underscore " C " underscore " L " .
+
+dialogue type : s.%-
+E :  And the th
+
+dialogue type : s^aa
+E :  Yes . Uh - huh , yeah .
+
+dialogue type : fg|%-
+E :  OK , so now . Uh and a
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa|s^nd
+E :  Yes , but not the reverse .
+
+dialogue type : s^df
+E :  So sometimes people will say " because " in the meeting ,
+
+dialogue type : s^df.%--:s
+E :  and if if they actually said " because " , then it 's written as " because " with no w
+
+dialogue type : s^df:s
+E :  " cuz " doesn't even figure into the equation .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^ba
+E :  That 's a good point .
+
+dialogue type : s^ba
+E :  That 's fine .
+
+dialogue type : s^bd
+E :  Well Don has a script .
+
+dialogue type : s^aa
+E :  Exactly .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s
+E :  And Don knows this ,
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa|s^na
+E :  Yes . And that 's why there 're different tags on the glosses ,
+
+dialogue type : s^e
+E :  on the different on the different types of comments ,
+
+dialogue type : s
+E :  which we 'll which we 'll see in just a second .
+
+dialogue type : s^rt
+E :  So the pronounceable acronyms get underscores ,
+
+dialogue type : s
+E :  the things in curly brackets are viewed as comments .
+
+dialogue type : s
+E :  There 're comments of four types .
+
+dialogue type : s
+E :  So this is a good time to introduce that .
+
+dialogue type : s
+E :  The four types .
+
+dialogue type : s
+E :  w And maybe we 'll expand that
+
+dialogue type : s
+E :  but the but the comments are , um , of four types mainly right now .
+
+dialogue type : s
+E :  One of them is , um , the gloss type we just mentioned .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s
+E :  I 'm still doing the overview .
+
+dialogue type : s
+E :  I haven't actually gotten here yet .
+
+dialogue type : fg|s
+E :  OK so , gloss is things like replacing the full form u with the , um , more abbreviated one to the left .
+
+dialogue type : s
+E :  Uh , then you have if it 's uh , there 're a couple different types of elements that can happen that aren't really properly words ,
+
+dialogue type : s
+E :  and wo some of them are laughs and breathes ,
+
+dialogue type : s^rt:s^rt
+E :  so we have uh that 's prepended with a v a tag of " VOC " .
+
+dialogue type : s
+E :  And the non - vocal ones are like door - slams and tappings ,
+
+dialogue type : s
+E :  and that 's prepended with a no non - vocalization .
+
+dialogue type : s^aa|s.%--
+E : 
+
+dialogue type : s
+E :  Let 's just take one example .
+
+dialogue type : s
+E :  And then the no non - vocalization would be something like a door - slam .
+
+dialogue type : s
+E :  They always end .
+
+dialogue type : s
+E :  So it 's like they 're paired curly brackets .
+
+dialogue type : s
+E :  And then the third type right now , uh , is m things that fall in the category of comments about what 's happening .
+
+dialogue type : s
+E :  So it could be something like , you know , " referring to so - and - so " ,
+
+dialogue type : s
+E :  " talking about such - and - such " ,
+
+dialogue type : s
+E :  uh , you know , " looking at so - and - so " .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^aa|s^na
+E :  Yeah , and this gets substituted here .
+
+dialogue type : s^aa
+E :  Huh - uh .
+
+dialogue type : s^aa|s^na
+E :  No , they 're events .
+
+dialogue type : s^e
+E :  They 're actually They have the status of events .
+
+dialogue type : s
+E :  Well , and actually , um , it is true that , with respect to " laugh " , there 's another one
+
+dialogue type : s^e
+E :  which is " while laughing " ,
+
+dialogue type : s
+E :  and that is , uh , i i An argument could be made for this tur turning that into a qualitative statement
+
+dialogue type : s^df
+E :  because it 's talking about the thing that preceded it ,
+
+dialogue type : s|s^f
+E :  but at present we haven't been , um , uh , coding the exact scope of laughing , you know ,
+
+dialogue type : s
+E :  and so to have " while laughing " , you know that it happened somewhere in there
+
+dialogue type : s^rt
+E :  which could well mean that it occurred separately and following ,
+
+dialogue type : s
+E :  or , you know , including some of the utterances to the left .
+
+dialogue type : s
+E :  Haven't been awfully precise about that ,
+
+dialogue type : s.%--
+E :  but I have here ,
+
+dialogue type : s
+E :  now we 're about to get to the to this now ,
+
+dialogue type : s
+E :  I have frequencies .
+
+dialogue type : s
+E :  So you 'll see how often these different things occur .
+
+dialogue type : fh|s
+E :  But , um , uh , the very front page deals with this , uh , final c pa uh , uh , aspect of the standardization
+
+dialogue type : s
+E :  which has to do with the spoken forms like " mm - hmm " and " mm - hmm " and " ha " and " uh - uh " and all these different types .
+
+dialogue type : s
+E :  And , um , uh , someone pointed out to me ,
+
+dialogue type : s
+E :  this might have been Chuck , about , um about how a recognizer , if it 's looking for " mm - hmmm " with three M 's , and it 's transcribed with two M 's , that it might uh , that it might increase the error rate
+
+dialogue type : s
+E :  which is which would really be a shame
+
+dialogue type : s^df
+E :  because um , I p I personally w would not be able to make a claim that those are dr dramatically different items .
+
+dialogue type : s
+E :  So , right now I 've standardized across all the existing data with these spoken forms .
+
+dialogue type : s.%-
+E :  I I should say
+
+dialogue type : s
+E :  all existing data except thirty minutes which got found today .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah , yeah .
+
+dialogue type : s^aa
+E :  Acsu - actually yeah .
+
+dialogue type : s
+E :  I got It was stored in a place I didn't expect ,
+
+dialogue type : fh
+E :  so and and um ,
+
+dialogue type : s
+E :  w we , uh , sh yea reconstructed how that happened .
+
+dialogue type : s
+E :  And this is this 'll be great .
+
+dialogue type : s
+E :  So I 'll I 'll be able to get through that tonight ,
+
+dialogue type : s
+E :  and then everyth i well , actually later today probably .
+
+dialogue type : s
+E :  And so then we 'll have everything following these conventions .
+
+dialogue type : s
+E :  But you notice it 's really rather a small set of these kinds of things .
+
+dialogue type : s
+E :  And I made it so that these are , um , with a couple exceptions but , things that you wouldn't find in the spell - checker
+
+dialogue type : s^df
+E :  so that they 'll show up really easily .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^aa
+E :  Sure .
+
+dialogue type : s^bk|s
+E :  Well , yeah . Now that that s only occurs once ,
+
+dialogue type : s
+E :  and I 'm thinking of changing that .
+
+dialogue type : s^df
+E :  So - c I haven't listened to it
+
+dialogue type : s^no
+E :  so I don't know .
+
+dialogue type : s^no
+E :  I haven't heard it actually .
+
+dialogue type : s
+E :  I n I need to listen to that one .
+
+dialogue type : qy^rt
+E :  Did she hear the th did she actually hear it ?
+
+dialogue type : s^df
+E :  Cuz I haven't heard it .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : fg|s
+E :  Yeah I 'm curious to se hear what it is ,
+
+dialogue type : s
+E :  but I didn't know wanna change it to something else until I knew .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b.%
+E :  Hhh .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^na
+E :  That 's right .
+
+dialogue type : s^bk.%
+E :  OK .
+
+dialogue type : s^aa|s^na
+E :  Yeah , that 's right .
+
+dialogue type : s^aa
+E :  That 's right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %--
+E :  Uh ,
+
+dialogue type : fg
+E :  so .
+
+dialogue type : s
+E :  That 's partly a nonnative - native thing ,
+
+dialogue type : s
+E :  but I have found " EH " in native speakers too .
+
+dialogue type : s
+E : 
+
+dialogue type : s:s
+E :  Eh .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^na
+E :  That 's right .
+
+dialogue type : s^aa
+E :  Exactly .
+
+dialogue type : s^2:s
+E :  " UH " .
+
+dialogue type : s^aa|s^na
+E :  Mm - hmm , that 's right .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bd
+E :  Well , we 're not doing We 're not doing length .
+
+dialogue type : s^bk|s^j^na
+E :  Yeah , that 's right .
+
+dialogue type : s^na
+E :  This makes sense .
+
+dialogue type : s^aa|s.%-
+E : 
+
+dialogue type : s^aa
+E :  uh - huh , yeah .
+
+dialogue type : s^na^r
+E :  That makes sense .
+
+dialogue type : fg|s
+E :  Yeah , and so , you know , I mean , th th I have there are some , um , Americans who who are using this " eh " too ,
+
+dialogue type : s
+E :  and I haven't listened to it systematically ,
+
+dialogue type : s
+E :  maybe with some of them , uh , they 'd end up being " uh 's "
+
+dialogue type : s
+E :  but , uh , I my spot - checking has made me think that we do have " eh " in also , um , American e e data represented here .
+
+dialogue type : fh
+E :  But
+
+dialogue type : s
+E :  any case , that 's the this is reduced down from really quite a long a much longer list ,
+
+dialogue type : s.%--
+E :  and this is
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  It was fascinating , I was listening to some of these , uh , I guess two nights ago ,
+
+dialogue type : s:s
+E :  and it 's just hilarious to liste to to do a search for the " mm - hmm 's " .
+
+dialogue type : s:s
+E :  And you get " mm - hmm "
+
+dialogue type : s
+E :  and diff everybody 's doing it .
+
+dialogue type : s
+E :  Just I wanted to say I w think it would be fun to make a montage of it
+
+dialogue type : s:s
+E :  because there 's a " Mm - hmm .
+
+dialogue type : s:s
+E :  Mm - hmm .
+
+dialogue type : s:s
+E :  Mm - hmm . "
+
+dialogue type : s
+E :  It 's really it 's really fun to listen to .
+
+dialogue type : s
+E :  All these different vocal tracts , you know ,
+
+dialogue type : s
+E :  but it 's it 's the same item .
+
+dialogue type : s^ba
+E :  It 's very interesting .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^t^tc
+E :  Uh , then the acronyms
+
+dialogue type : s
+E :  y and the ones in parentheses are ones which the transcriber wasn't sure of ,
+
+dialogue type : s
+E :  and I haven't been able to listen to to to clarify ,
+
+dialogue type : s
+E :  but you can see that the parenthesis convention makes it very easy to find them
+
+dialogue type : s^df
+E :  cuz it 's the only place where where they 're used .
+
+dialogue type : s
+E :  Question mark is punctuation .
+
+dialogue type : s
+E : 
+
+dialogue type : s^rt:qy^bu^d^rt
+E :  um , " DC ? "
+
+dialogue type : s^aa
+E :  Exactly .
+
+dialogue type : s^aa^r
+E :  Exactly .
+
+dialogue type : fg|s.%--
+E : 
+
+dialogue type : s
+E :  Well , and I do have a stress marker here .
+
+dialogue type : s
+E :  Sometimes the contrastive stress is showing up ,
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  The parenthesized is something that the transcriber thought was ANN , but wasn't entirely sure .
+
+dialogue type : s
+E :  So I 'd need to go back or someone needs to go back , and say , you know , yes or no ,
+
+dialogue type : s
+E :  and then get rid of the parentheses .
+
+dialogue type : s
+E :  But the parentheses are used only in that context in the transcripts , of of noti noticing that there 's something uncertain .
+
+dialogue type : s^na
+E :  I think that 's true .
+
+dialogue type : s^aa
+E :  Yeah , absolutely .
+
+dialogue type : s
+E :  NSA ,
+
+dialogue type : s^e
+E :  a lot of these are are coming from them .
+
+dialogue type : s
+E :  I listened to some of that .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa|s^na
+E :  Yeah . I agree .
+
+dialogue type : s
+E :  And Robustness has a fair amount ,
+
+dialogue type : s
+E :  but the NSA group is just very very many .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ba
+E :  That 's interesting .
+
+dialogue type : fg|s:s
+E :  Right and sometimes , I mean , you see a couple of these that are actually " OK 's "
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^e:s
+E :  understandability that they weren't entirely sure the person said " OK . "
+
+dialogue type : s
+E :  You know , so it isn't really necessarily a an undecipherable acronym ,
+
+dialogue type : s
+E :  but just n needs to be double checked .
+
+dialogue type : s^t^tc
+E :  Now we get to the comments .
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  Number of times out of the entire database ,
+
+dialogue type : s
+E :  w except for that last thirty minutes I haven't checked yet .
+
+dialogue type : s
+E :  I 'd have to listen .
+
+dialogue type : s^na
+E :  I I I agree .
+
+dialogue type : s
+E :  I w I 'd like to standardize these down farther
+
+dialogue type : fh
+E :  but , um , uh ,
+
+dialogue type : s
+E :  uh , to me that sounds equivalent .
+
+dialogue type : s
+E :  But , I I 'm a little hesitant to to collapse across categories unless I actually listen to them .
+
+dialogue type : s^na
+E :  Well , then , at least now .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Six .
+
+dialogue type : fg
+E : 
+
+dialogue type : qy^rt:s
+E :  But did you notice that there were seven hundred and eighty five instances of " OK " ?
+
+dialogue type : s
+E :  And that 's just without the without punc punctuation .
+
+dialogue type : s
+E :  Extra forty one if it 's questioned .
+
+dialogue type : s
+E :  On the page two of acronyms .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^2|s^aa
+E :  Of " OK " , yes .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  So that 's the single existing convention for " OK " .
+
+dialogue type : s^aa|%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  That 's that 's I looked for that one .
+
+dialogue type : s
+E :  I actually explicitly looked for that one ,
+
+dialogue type : s.%--
+E :  and I think that , um ,
+
+dialogue type : s^no
+E :  I I 'm not exactly sure about that .
+
+dialogue type : s^ar|s
+E :  No , I looked for that ,
+
+dialogue type : s
+E :  but that doesn't actually exist .
+
+dialogue type : s.%--
+E :  And it may be ,
+
+dialogue type : s^no
+E :  I don't I can't explain that .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s
+E :  it 's the only pattern that has a slash after it ,
+
+dialogue type : s
+E :  and I think it 's it 's an epiphenomenon .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ba
+E :  Oh that 's cute .
+
+dialogue type : s^ba
+E :  That 's funny .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^bd^ng
+E :  Y well , no , that 's r that 's legitimate .
+
+dialogue type : s^tc
+E :  So now , uh , comments , you can see they 're listed again ,
+
+dialogue type : s
+E :  same deal , with exhaustive listing of everything found in everything except for these final th thirty minutes .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  " TCL " .
+
+dialogue type : qw^rt
+E :  Where do you see that ?
+
+dialogue type : s^bk
+E :  Oh , oh .
+
+dialogue type : s:s
+E :  The reason is because w it was said " tickle " .
+
+dialogue type : s^bk
+E :  Yep .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  So this this happens in the very first one .
+
+dialogue type : s:s
+E :  I actually wrote it as " tickle " .
+
+dialogue type : s^df
+E :  Because we they didn't say " TCL " , they said " tickle " .
+
+dialogue type : s:s
+E :  And then , following that is " QUAL TCL " .
+
+dialogue type : s
+E :  Qual - qualifier .
+
+dialogue type : s^m
+E :  Comment .
+
+dialogue type : s
+E :  Comment or contextual comment .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^rt.%--
+E :  Well , of course now the the Tannen corre the spelling c change .
+
+dialogue type : s
+E :  Uh , that 's what gets I I picked those up in the frequency check .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s:s
+E :  " ICSI " is is one of those that sometimes people pronounce and sometimes they say " ICSI . "
+
+dialogue type : s
+E :  So , those that are l are listed in the acronyms , I actually know
+
+dialogue type : s^e
+E :  they were said as letters .
+
+dialogue type : s
+E :  The others , um , e those really do need to be listened to
+
+dialogue type : s^df
+E :  cuz I haven't been able to go to all the IC ICSI things ,
+
+dialogue type : s:s
+E :  and and until they 've been listened to they stay as " ICSI " .
+
+dialogue type : s^na
+E :  It was !
+
+dialogue type : s^na
+E :  In fact , it was !
+
+dialogue type : s^aa
+E :  Yeah !
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa|s^na
+E :  Yeah , that 's it .
+
+dialogue type : s^ba
+E :  Perfect .
+
+dialogue type : s^aa|s^na
+E :  Yeah that 's it .
+
+dialogue type : s^na^r
+E :  That 's it .
+
+dialogue type : s^bk|s
+E :  Yeah , that 's that 's been changed .
+
+dialogue type : s
+E :  That 's been changed .
+
+dialogue type : s
+E :  So , exactly , that 's where the lengthening comment c came in .
+
+dialogue type : s
+E :  s chan brought it down .
+
+dialogue type : s
+E :  And those of course get get picked up in the frequency check
+
+dialogue type : s^df:s
+E :  because you see " beep "
+
+dialogue type : s
+E :  and you know I mean it gets kicked out in the spelling ,
+
+dialogue type : s
+E :  and it also gets kicked out in the , uh , freq frequency listing .
+
+dialogue type : s:s
+E :  I have the there 're various things like " breathe " versus " breath " versus " inhale " and , hhh ,
+
+dialogue type : s^bd^no
+E :  you know , I don't know .
+
+dialogue type : s
+E :  I I think they don't have any implications for anything else
+
+dialogue type : s
+E :  so it 's like I 'm tempted to leave them for now
+
+dialogue type : s
+E :  an and It 's easy enough to find them when they 're in curly brackets .
+
+dialogue type : s
+E :  We can always get an exhaustive listing of these things and find them and change them .
+
+dialogue type : s^bk|s^no
+E :  Yeah , but I don't actually remember what it was .
+
+dialogue type : s
+E :  But that was Eric did that .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^am
+E :  I think maybe something like that .
+
+dialogue type : s
+E :  Well , that 'd qualify .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^ba
+E :  Interesting question .
+
+dialogue type : s^bk
+E :  Yes .
+
+dialogue type : s^bk|s.%--
+E : 
+
+dialogue type : s^fe
+E :  Ooo - ooo !
+
+dialogue type : s^ba
+E :  Very important .
+
+dialogue type : s
+E :  Uh Chuck Chuck led to a refinement here
+
+dialogue type : s
+E :  which is to add " NUMS " if these are parts of the read numbers .
+
+dialogue type : s
+E :  Now you already know i that I had , uh , in places where they hadn't transcribed numbers , I put " numbers " in place of any kind of numbers ,
+
+dialogue type : s.%--
+E :  but there are places where they ,
+
+dialogue type : fh|s
+E :  um , it th this convention came later
+
+dialogue type : s
+E :  an and at the very first digits task in some transcripts they actually transcribed numbers .
+
+dialogue type : fh
+E :  And , um ,
+
+dialogue type : %--
+E :  d
+
+dialogue type : s
+E :  Chuck pointed out that this is read speech ,
+
+dialogue type : s
+E :  and it 's nice to have the option of ignoring it for certain other prob uh p uh , things .
+
+dialogue type : s
+E :  And that 's why there 's this other tag here which occurs a hundred and five or three hundred and five times right now
+
+dialogue type : s
+E :  which is just well n n " NUMS " by itself
+
+dialogue type : s
+E :  which means this is part of the numbers task .
+
+dialogue type : s
+E :  I may change it to " digits " .
+
+dialogue type : s
+E :  I mean , i with the sed command you can really just change it however you want
+
+dialogue type : s^df|qy^d^f^g
+E :  because it 's systematically encoded , you know ?
+
+dialogue type : s
+E :  Have to think about what 's the best for for the overall purposes ,
+
+dialogue type : s
+E :  but in any case , um , " numbers " and " NUMS " are a part of this digits task thing .
+
+dialogue type : s
+E :  Um , now th Then I have these numbers that have quotation marks around them .
+
+dialogue type : s
+E :  Um , I didn't want to put them in as gloss comments
+
+dialogue type : s
+E :  because then you get the substitution .
+
+dialogue type : s
+E :  And actually , th um , the reason I b did it this way was because I initially started out with the other version ,
+
+dialogue type : s
+E :  you have the numbers and you have the full form and the parentheses ,
+
+dialogue type : s
+E :  however sometimes people stumble over these numbers they 're saying .
+
+dialogue type : s:s
+E :  So you say , " Seve - seventy eight point two " , or whatever .
+
+dialogue type : s
+E :  And there 's no way of capturing that if you 're putting the numbers off to the side .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s.%--
+E :  The left is i
+
+dialogue type : s^rt.%--
+E :  so example the very first one ,
+
+dialogue type : s:s
+E :  it would be , spelled out in words , " point five " .
+
+dialogue type : s
+E :  Only it 's spelled out in words .
+
+dialogue type : s
+E :  So i this is also spelled out in in words .
+
+dialogue type : s:s
+E :  " Point five . "
+
+dialogue type : s:s
+E :  And then , in here , " NUMS " ,
+
+dialogue type : s
+E :  so it 's not going to be mistaken as a gloss .
+
+dialogue type : s:s
+E :  It comes out as " NUMS quote dot five " .
+
+dialogue type : s^ft.%
+E :  Thank you .
+
+dialogue type : %-
+E : 
+
+dialogue type : s:s
+E :  In that case it 's people saying things like " one one one dash so - and - so "
+
+dialogue type : s:s
+E :  or they 're saying uh " two I mean zero " whatever .
+
+dialogue type : s
+E :  And in that case , it 's part of the numbers task ,
+
+dialogue type : s
+E :  and it 's not gonna be included in the read digits anyway ,
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^na
+E :  There is .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  I 've added that all now too .
+
+dialogue type : s:s
+E :  So , so gloss in the same line that would have " gloss quote one one one dash one thirty " , you 'd have a gloss at the end of the line saying , uh , " curly bracket NUMS curly bracket " .
+
+dialogue type : s
+E :  So if you if you did a , uh , a " grep minus V nums "
+
+dialogue type : s
+E :  and you get rid of anything that was read .
+
+dialogue type : s^aa
+E :  Yes .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^ba
+E :  Good .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s:s
+E :  Oh these are all these , the " NUMS point " , this all where they 're saying " point " something or other .
+
+dialogue type : s
+E :  And the other thing too is for readability of the transcript .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s:s
+E :  eh , " so in the data column five has " , you know , " one point five compared to seventy nine point six " ,
+
+dialogue type : s
+E :  it 's like when you see the words it 's really hard to follow the argument .
+
+dialogue type : s
+E :  And this is just really a a way of someone who would handle th the data in a more discourse - y way to be able to follow what 's being said .
+
+dialogue type : s
+E :  So this is where Chuck 's , um , overall h architecture comes in ,
+
+dialogue type : s
+E :  where we 're gonna have a master file of the channelized data .
+
+dialogue type : s
+E :  Um , there will be scripts that are written to convert it into these t these main two uses
+
+dialogue type : s
+E :  and th some scripts will take it down th e into a f a for ta take it to a format that 's usable for the recognizer
+
+dialogue type : s
+E :  an uh , other scripts will take it to a form that 's usable for the for linguistics an and discourse analysis .
+
+dialogue type : s
+E :  And , um , the implication that that I have is that th the master copy will stay unchanged .
+
+dialogue type : s
+E :  These will just be things that are generated ,
+
+dialogue type : fh
+E :  and
+
+dialogue type : s
+E :  e by using scripts .
+
+dialogue type : s
+E :  When things change then the the script will cham change
+
+dialogue type : s
+E :  but the but there won't be stored copies of in different versions of things .
+
+dialogue type : %-
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa
+E :  Ex - exactly .
+
+dialogue type : s^aa^r
+E :  Exactly .
+
+dialogue type : s^na
+E :  That was that was my motivation .
+
+dialogue type : s
+E :  And i these can be changed , like I said .
+
+dialogue type : s
+E :  You know , I mean , as I said I was considering changing it to " digits " .
+
+dialogue type : s
+E :  And , it just i you know , it 's just a matter of deciding on whatever it is , and being sure the scripts know .
+
+dialogue type : s
+E :  The other thing is you can get really so minute with these things
+
+dialogue type : s
+E :  and increase the size of the files and the re and decrease the readability to such an extent by simply something like " percent " .
+
+dialogue type : s^ba^bd
+E :  Now I I could have adopted a similar convention for " percent " ,
+
+dialogue type : s|qy^d^f^g
+E :  but somehow percent is not so hard , you know ?
+
+dialogue type : s
+E : 
+
+dialogue type : s
+E :  And we could always add it later .
+
+dialogue type : s
+E :  Percent 's easy to detect .
+
+dialogue type : s
+E :  Point however is is uh a word that has a couple different meanings .
+
+dialogue type : s
+E :  And you 'll find both of those in one of these meetings ,
+
+dialogue type : s
+E :  where he 's saying " well the first point I wanna make is so - and - so "
+
+dialogue type : s
+E :  and he goes through four points ,
+
+dialogue type : s
+E :  and also has all these decimals .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s
+E :  Well I wanted to say also regarding the channelized data ,
+
+dialogue type : s
+E :  that , um , Thilo requested , um , that we ge get some segments done by hand to e e s reduce the size of the time bins
+
+dialogue type : s
+E :  wh like was Chuc - Chuck was mentioning earlier
+
+dialogue type : s:s
+E :  that , um , that , um , if you if you said , " Oh " and it was in part of a really long , s complex , overlapping segment , that the same start and end times would be held for that one
+
+dialogue type : s^e^rt
+E :  as for the longer utterances ,
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  And he requested that there be , uh , similar , uh , samples done for five minute stretches c involving a variety of speakers and overlapping secti sections .
+
+dialogue type : s
+E :  He gave me he did the very nice , he he did some shopping through the data
+
+dialogue type : s
+E :  and found segments that would be useful .
+
+dialogue type : s
+E :  And at this point , all four of the ones that he specified have been done .
+
+dialogue type : s
+E :  In addition the I 've I have the transcribers expanding the amount that they 're doing actually .
+
+dialogue type : s
+E :  So right now , um , I know that as of today we got an extra fifteen minutes of that type ,
+
+dialogue type : s
+E :  and I 'm having them expand the realm on either side of these places where they 've already started .
+
+dialogue type : s
+E :  But if if you know , and I and he 's gonna give me some more sections that that he thinks would be useful for this purpose .
+
+dialogue type : s^df
+E :  Because it 's true ,
+
+dialogue type : s^e
+E :  I mean , if we could do the the more fine grained tuning of this , uh , using an algorithm , that would be so much more efficient .
+
+dialogue type : fh
+E :  And , um .
+
+dialogue type : s
+E :  So this is gonna be useful to expand this .
+
+dialogue type : s^bu
+E :  You mean to start from scratch f in a brand new transcript ?
+
+dialogue type : s^ba
+E :  That 'd be excellent .
+
+dialogue type : s^aa|s^ba
+E :  Yeah , that 'd be really great .
+
+dialogue type : s
+E :  As it stands we 're still in the phase of sort of , um , cleaning up the existing data
+
+dialogue type : s^e
+E :  getting things , uh , in i m more tight tightly time uh , aligned .
+
+dialogue type : s^rt
+E :  I also wanna tell um , I also wanted to r raise the issue that OK so , there 's this idea we 're gonna have this master copy of the transcript ,
+
+dialogue type : s
+E :  it 's gonna be modified by scripts t into these two different functions .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^m
+E :  Two two or more .
+
+dialogue type : s
+E :  And that the master is gonna be the channelized version .
+
+dialogue type : s
+E :  So right now we 've taken this i initial one , it was a single channel basically the way it was input .
+
+dialogue type : s
+E :  And now , uh , thanks to the advances made in the interface , we can from now on use the channelized part ,
+
+dialogue type : s
+E :  and , um , any changes that are made get made in the channelized version kind of thing .
+
+dialogue type : s
+E : 
+
+dialogue type : s^na
+E :  Yes , they have .
+
+dialogue type : s^aap
+E :  Except for the missing thirty minutes .
+
+dialogue type : s.%--
+E :  Uh , for for a total of like twenty m
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^t1.%--
+E : 
+
+dialogue type : s
+E :  total of about an thirty minutes .
+
+dialogue type : s
+E :  That 's that 's been the case .
+
+dialogue type : s
+E :  And plus the training , whatever you have .
+
+dialogue type : s
+E :  Well , you know the problem the problem is that some some of the adjustments that they 're making are to bring are to combine bins that were time bins which were previously separate .
+
+dialogue type : s
+E :  And the reason they do that is sometimes there 's a word that 's cut off .
+
+dialogue type : s
+E :  And so , i i i it 's true that it 's likely to be adjusted in the way that the words are more complete .
+
+dialogue type : fh
+E :  And ,
+
+dialogue type : s
+E :  so I it 's gonna be a more reliable thing
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s
+E :  Well partly it depends on how um , how e effective it will be to apply an algorithm
+
+dialogue type : s^df
+E :  because i this takes time ,
+
+dialogue type : s^df
+E :  you know , it takes a couple hours t to do , uh , ten minutes .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg|%-
+E : 
+
+dialogue type : b
+E :  yeah .
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^t^tc
+E :  So that 's I I mean I could there were other checks that I did ,
+
+dialogue type : s^t
+E :  but it 's I think that we 've unless you think there 's anything else , I think that I 've covered it .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Great .
+

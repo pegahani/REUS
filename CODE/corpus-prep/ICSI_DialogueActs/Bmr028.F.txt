@@ -1,0 +1,624 @@
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^aa|s^na
+F :  Yeah . I think so , too .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : qy^rt
+F :  It could Do you have to put it in your ear ?
+
+dialogue type : qy^r^rt
+F :  I Does it really need to go in her ear ?
+
+dialogue type : s^e^rt
+F :  That that bud ?
+
+dialogue type : s^bu
+F :  It doesn't have to go in her ear .
+
+dialogue type : qy^d^g^rt
+F :  Right ?
+
+dialogue type : s^bk
+F :  Oh , wow .
+
+dialogue type : s^fa
+F :  But Tcl is wonderful .
+
+dialogue type : s
+F :  There you go .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : fg|s^ba
+F :  Yeah . Yeah . I like it .
+
+dialogue type : s^ba
+F :  It 's great .
+
+dialogue type : s^cs^rt
+F :  I think , maybe talk to him first in person ?
+
+dialogue type : s
+F :  That 's what I would think .
+
+dialogue type : s^bk
+F :  Mm - hmm .
+
+dialogue type : s^bk|qy^bh^rt
+F :  Oh , is that right ?
+
+dialogue type : s
+F :  Oh . I saw him I saw him on Tuesday .
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : qy^rt
+F :  Well , did you ask Lila ?
+
+dialogue type : s^df
+F :  Cuz I bet she has this information .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : %-
+F : 
+
+dialogue type : %-
+F :  M
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  What I mean is , he 's an active member and he 's still here .
+
+dialogue type : s^ba
+F :  Very helpful .
+
+dialogue type : s^df^ng
+F :  Most of them , though , really were visitors here and Lila should have contacts with them .
+
+dialogue type : s^ba
+F :  Nice meetings , by the way .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^nd.%--
+F : 
+
+dialogue type : qy
+F :  Are you su ? Are you sure ?
+
+dialogue type : s^rt
+F :  Yeah . NSA - one and NSA - three ?
+
+dialogue type : qy^bu^d^g^rt
+F :  We 're talking about those ?
+
+dialogue type : s^bk
+F :  Oh , oh . I see . OK . Fine .
+
+dialogue type : s
+F :  But I knew everybody in the NSA meetings .
+
+dialogue type : s
+F :  So th I 'm sure that we have , uh , fresh , you know , information on them .
+
+dialogue type : s^bk
+F :  Good . OK .
+
+dialogue type : s
+F :  I bet I know who that was .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  Well , you know , uh , I All I need to do is mail , um send them m a mail like two days in advance so they can schedule their time .
+
+dialogue type : s.%--
+F :  I did that with the last outage . I j I wrote to them letting them know that this w
+
+dialogue type : %-
+F :  was not , um
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s.%--
+F :  This is on Popcorn ? Or ?
+
+dialogue type : qy^bu^d^rt
+F :  This is on Popcorn or something ?
+
+dialogue type : s^bk
+F :  Yeah ? OK .
+
+dialogue type : s^ba
+F :  That 's very good .
+
+dialogue type : qw
+F :  What was the question ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^fe
+F :  Ooo .
+
+dialogue type : s^ba
+F :  I don't like that term .
+
+dialogue type : s^r
+F :  I don't like that term .
+
+dialogue type : s^r
+F :  I don't like that term .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^ba
+F :  Hmm . Interesting .
+
+dialogue type : %
+F :  Wow .
+
+dialogue type : s^ba
+F :  That 's interesting .
+
+dialogue type : qy^rt
+F :  Did it get rid of other stuff , too , though ?
+
+dialogue type : qy^rt
+F :  Did it get rid of other stuff besides the speech ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^ba
+F :  Wow . Interesting .
+
+dialogue type : s^ba
+F :  Wow .
+
+dialogue type : s^ba
+F :  Wow . Interesting .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s
+F :  I wanna ask , um So , you know that the data I ' v I have upgraded it considerably .
+
+dialogue type : s.%--
+F :  So I 've probably made I probably corrected something like ,
+
+dialogue type : %--
+F :  well , s
+
+dialogue type : s
+F :  It 's really a substantial amount of things that I 've caught , changed um , added to it .
+
+dialogue type : s
+F :  Including a lot of , uh , backchannels .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  So . If you if you run it on the new version , then the numbers will be um , and you compare it to the to runs on the old version , then you 're gonna end up with more of an improvement than would actually be the case .
+
+dialogue type : qy^2^bu^d^rt
+F :  As of February ?
+
+dialogue type : qy^bu^d^rt
+F :  So a l Like the HLT paper ?
+
+dialogue type : s^bk|s
+F :  OK . Well , so long as you have the same baseline , then you 'll be able to tell .
+
+dialogue type : s
+F :  So long as i so long as it 's the same baseline you 'll be able to tell .
+
+dialogue type : s^df
+F :  But but I 'm just gonn I 'm just saying that if you were to compare that with running that on the new data , that it would be an a more optimistic outcome .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa|s^na
+F :  Mmm . I did .
+
+dialogue type : s^ba
+F :  That sounds great .
+
+dialogue type : fg|s
+F :  Yeah . I mean , t y I was thinking , th the other day , that this is not just conversational speech .
+
+dialogue type : s^df
+F :  The fact that is has so much technological jargon in it . I it makes it u considerably harder to , um me e e e to transcribe and to to double check and all those things .
+
+dialogue type : s
+F :  So , I think you 're gonna find a substantial gain in terms of the word ac accuracy .
+
+dialogue type : s^df
+F :  So long as those words are in your vocabulary .
+
+dialogue type : s^aap
+F :  Well , all of them are . All of our all of our meetings have a lot of jargon in them . But we know what those words are .
+
+dialogue type : s^no
+F :  I mean , I don't know how you get them into the vocabulary ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^tc:s
+F :  Now , I have to I have to I really need to , uh , raise a question about the term " cheating " .
+
+dialogue type : qy^d^f^g
+F :  OK ?
+
+dialogue type : s
+F :  And the reason is , um , if I understand that , " cheating " is a term which is used to apply for basically what all of linguistics corpus linguistics does , and what what my transcribers are doing and what I do , which is a methodology whereby you actually physically mark things in the data .
+
+dialogue type : s^e
+F :  Like the transcription ,
+
+dialogue type : s^e
+F :  like the words that are actually there .
+
+dialogue type : s^bk|s^ba
+F :  OK . I mean , that that part is OK .
+
+dialogue type : s^cs
+F :  But I but I do wonder sometimes if it might be possible to use a term that 's a little bit less evaluative , like , um , " hand - marked " .
+
+dialogue type : s^bk|s^cs^rt
+F :  OK . I guess what I 'm I 'm thinking , is just in if uh , when these are presented in an inte interdisciplinary context , it might be nice to add that explanation ?
+
+dialogue type : s^df^rt
+F :  Cuz otherwise it sounds like a pejorative statement on an alternative methodology ?
+
+dialogue type : s^df
+F :  Cuz it sounds like it sort of devalues the the , um , all other approach , which is to to put those distinctions in .
+
+dialogue type : s^m^na
+F :  They can do experiments .
+
+dialogue type : fg|s^cs^ng
+F :  Yeah , it just seems like , you know , i if it were " bootstrapping " , or if it were I mean , there are other ways to maybe get the point across .
+
+dialogue type : s^bk
+F :  Hu - Well . OK .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  OK . Alright .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  OK . OK .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^df
+F :  I can understand it in context as you described it .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  It has shock value ,
+
+dialogue type : %--
+F :  and
+
+dialogue type : s
+F :  to the wr to the wrong audience , I think that that might be t a negative shock .
+
+dialogue type : s^aa|s^cs
+F :  Yeah . We started with hand - marked data , or with , uh , t you know , hand - transcribed data ,
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : qy
+F :  Did you break the microphone ?
+
+dialogue type : s
+F :  Nnn . OK .
+
+dialogue type : s^t^tc
+F :  OK . Well , I feel better now .
+
+dialogue type : s^ft^tc
+F :  Thank you very much .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^df
+F :  you know , I understand it in that context ,
+
+dialogue type : s
+F :  but it but it is almost resentful .
+
+dialogue type : s
+F :  It 's almost like , you know , resentful of the data , resentful of the , um , the hard work that 's going into preparing the data
+
+dialogue type : %-
+F : 
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  OK . OK .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  Oh , interesting .
+
+dialogue type : s^df^no
+F :  I didn't know that .
+
+dialogue type : s^fe
+F :  Huh !
+
+dialogue type : b
+F :  Uh - huh !
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^bk|s^ba^na
+F :  Oh , sure . Terminology is always context dependent .
+
+dialogue type : s^ba
+F :  No question about it .
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  I didn't realize .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  This is interesting what what Adam said about it being used also for a bunch of other , uh , dimensions .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Interesting .
+
+dialogue type : s^ba
+F :  Interesting .
+
+dialogue type : x
+F :  Huh !
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : b
+F :  Interesting .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^ng
+F :  Well . The term itself is .
+
+dialogue type : qy^d^g^rt
+F :  You know ?
+
+dialogue type : s^df^nd
+F :  But but it And it 's pejorative with respect to a certain purpose .
+
+dialogue type : s^bk
+F :  I understand .
+
+dialogue type : s
+F :  I I wanted to raise the issue .
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s^m^na
+F :  Anyway .
+
+dialogue type : s^bk|s^ba
+F :  OK . That 's interesting . OK .
+
+dialogue type : s
+F :  Well , I wanted to raise the issue ,
+
+dialogue type : fh
+F :  and um ,
+
+dialogue type : s
+F :  I I , uh I appreciate the discussion .
+
+dialogue type : s^t^tc
+F :  I wanted to ask one other question which is a different matter ,
+
+dialogue type : s^rt
+F :  which is with respect to , um , this thing that you 've been r working on for the recording monitoring script ?
+
+dialogue type : s
+F :  So . The idea You had this script that you 're working on , to be sure that the microphone values are in are kept in ?
+
+dialogue type : s^bk
+F :  OK . OK .
+
+dialogue type : %-
+F : 
+
+dialogue type : s.%--
+F :  Well , I was just wondering if i i
+
+dialogue type : s
+F :  Because I I am finding that , um , in double checking , I 've run across , u um , one data set where the microphone was off early on ,
+
+dialogue type : s
+F :  and then two other speakers their microphones went off later .
+
+dialogue type : s
+F :  And this is out of , like , seven speakers .
+
+dialogue type : s
+F :  So out of seven speakers , four microphones Y you know , basically , three three microphones bak basically flaked ,
+
+dialogue type : s
+F :  which makes it hard for the data to be used for all possible purposes .
+
+dialogue type : s^na
+F :  That 's what I think .
+
+dialogue type : s
+F :  I think the two that flaked late , I think it was the battery .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I mean , I don't know if there 's a way to replace a battery , if it happens in the middle of a meeting .
+
+dialogue type : s^am
+F :  Maybe that 's hopeless anyway .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^bk
+F :  Oh , I see .
+
+dialogue type : s^bk|s^cs
+F :  OK . Then I guess that raises the question of , uh , whether we should screen the data before they get transcribed .
+
+dialogue type : s^df
+F :  Because , although I think that the data are still useful in terms of providing content ,
+
+dialogue type : s
+F :  and and that , I know that having three out of seven microphones out of commission during some part of the meeting restricts the , uh , usefulness of the data for other purposes .
+
+dialogue type : s^cs.%-
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  So , we have some part of that .
+
+dialogue type : %-
+F :  I c
+
+dialogue type : s
+F :  Well , there the And the other aspect of it is , um , that , when the microphone is not well - adjusted , then y i i even if it 's not a lapel mike , you can get lapel mike type behavior .
+
+dialogue type : s
+F :  Cuz I 'm I 'm expecting , for example , with this , that you 're gonna end up , you know , picking up other peoples ' signals .
+
+dialogue type : s^bk|s
+F :  Yeah . I mean , it 's just you know , the microphone is intended for certain adjustments .
+
+dialogue type : s
+F :  The only argument for doing so would be with reference to the content . Content maps .
+
+dialogue type : s^cs
+F :  Uh but mayb maybe then it should be done in the old original way ,
+
+dialogue type : s^cs^e
+F :  w instead of channelizing and having the , uh , uh , you know , elaborate coding of the backchannels .
+
+dialogue type : s^cs.%--
+F : 
+
+dialogue type : s^no.%--
+F : 
+
+dialogue type : s^cs
+F :  Well , someone who 's associated with the meeting could have , like , a summary of points handled in the meeting .
+
+dialogue type : s^cs
+F :  You know , maybe if we could pay one person who knows that subject matter to do an outline of the meeting 's content .
+
+dialogue type : s^e
+F :  Instead of losing the content altogether .
+
+dialogue type : s^ba^ng
+F :  I guess the troub trouble in my mind is that it that it 's not a very neat corpus
+
+dialogue type : s:s
+F :  if you say " these data are available ,
+
+dialogue type : s:s
+F :  but these are imperfect ,
+
+dialogue type : s:s
+F :  because of the f you know , the batteries flaked . "
+
+dialogue type : s
+F :  And we have so many .
+
+dialogue type : s
+F :  We have such a backlog . I mean , to be able to get through the backlog of the of the good meetings , it would be nice to not have energies diverted .
+
+dialogue type : s^bk
+F :  That 's fine .
+
+dialogue type : s^bk|s^ba
+F :  Oh , good question .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yep . Yep .
+

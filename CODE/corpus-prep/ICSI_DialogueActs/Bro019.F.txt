@@ -1,0 +1,711 @@
+dialogue type : z
+F :  now we 're on .
+
+dialogue type : z
+F :  Yes .
+
+dialogue type : z
+F :  Yes .
+
+dialogue type : z
+F :  For you it is .
+
+dialogue type : z
+F :  Uh , your mike number 's written on the back of that unit there .
+
+dialogue type : z
+F :  And then the channel number 's usually one less than that .
+
+dialogue type : z
+F :  It - it 's one less than what 's written on the back of your
+
+dialogue type : z
+F :  yeah .
+
+dialogue type : z
+F :  So you should be zero , actually .
+
+dialogue type : z
+F :  For your uh , channel number .
+
+dialogue type : z
+F :  So what we usually do is um , we typically will have our meetings
+
+dialogue type : z
+F :  and then at the end of the meetings we 'll read the digits .
+
+dialogue type : z
+F :  Everybody goes around and reads the digits on the the bottom of their forms .
+
+dialogue type : z
+F :  Yeah .
+
+dialogue type : z
+F :  We 're This is session R - nineteen .
+
+dialogue type : qy^bu^d^rt
+F :  Sunil 's here for the summer ?
+
+dialogue type : s^cs
+F :  I could say a few words about um , some of the uh , compute stuff that 's happening around here ,
+
+dialogue type : s^df
+F :  so that people in the group know .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  So we just put in an order for about twelve new machines , uh , to use as sort of a compute farm .
+
+dialogue type : fh
+F :  And um ,
+
+dialogue type : s
+F :  uh , we ordered uh , SUN - Blade - one - hundreds ,
+
+dialogue type : fh
+F :  and um ,
+
+dialogue type : s
+F :  I 'm not sure exactly how long it 'll take for those to come in ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  So the plan for using these is , uh , we 're running P - make and Customs here
+
+dialogue type : s
+F :  and Andreas has sort of gotten that all uh , fixed up and up to speed .
+
+dialogue type : s
+F :  And he 's got a number of little utilities that make it very easy to um , run things using P - make and Customs .
+
+dialogue type : s^df
+F :  You don't actually have to write P - make scripts and things like that .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^cs
+F :  And I can send an email around
+
+dialogue type : s^cs
+F :  or , maybe I should do an FAQ on the web site about it or something .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s.%-
+F :  there 's a c
+
+dialogue type : s^aa
+F :  Yeah , yeah .
+
+dialogue type : s
+F :  Uh , there 's a command , uh , that you can use called " run command " .
+
+dialogue type : s^e
+F :  " Run dash command " ,
+
+dialogue type : s^bsc^e
+F :  " run hyphen command " .
+
+dialogue type : s
+F :  And , if you say that and then some job that you want to execute , uh , it will find the fastest currently available machine , and export your job to that machine ,
+
+dialogue type : fh|s
+F :  and uh and run it there
+
+dialogue type : s
+F :  and it 'll duplicate your environment .
+
+dialogue type : fh
+F :  So
+
+dialogue type : s
+F :  you can try this as a simple test with uh , the L S command .
+
+dialogue type : s^e
+F :  So you can say " run dash command L S " ,
+
+dialogue type : fh|s^e
+F :  and , um , it 'll actually export that LS command to some machine in the institute , and um , do an LS on your current directory .
+
+dialogue type : s^bs
+F :  So , substitute LS for whatever command you want to run ,
+
+dialogue type : fh|s
+F :  and um And that 's a simple way to get started using using this .
+
+dialogue type : s
+F :  And , so , soon , when we get all the new machines up
+
+dialogue type : s
+F :  Now th one of the nice things is that uh , each machine that 's part of the P - make and Customs network has attributes associated with it .
+
+dialogue type : fh|s^e
+F :  Uh , attributes like how much memory the machine has ,
+
+dialogue type : s^e
+F :  what its speed is ,
+
+dialogue type : s^e
+F :  what its operating system ,
+
+dialogue type : s
+F :  and when you use something like " run command " , you can specify those attributes for your program .
+
+dialogue type : s^e
+F :  For example if you only want your thing to run under Linux , you can give it the Linux attribute ,
+
+dialogue type : s^e
+F :  and then it will find the fastest available Linux machine and run it on that .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s
+F :  You can control where your jobs go , to a certain extent ,
+
+dialogue type : s^e
+F :  all the way down to an individual machine .
+
+dialogue type : s
+F :  Each machine has an attribute which is the name of itself .
+
+dialogue type : s
+F :  So you can give that as an attribute and it 'll only run on that .
+
+dialogue type : s
+F :  If there 's already a job running , on some machine that you 're trying to select , your job will get queued up ,
+
+dialogue type : s
+F :  and then when that resource , that machine becomes available , your job will get exported there .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s
+F :  there 's a lot of nice features to it
+
+dialogue type : s
+F :  and it kinda helps to balance the load of the machines
+
+dialogue type : fh
+F :  and uh ,
+
+dialogue type : s
+F :  right now Andreas and I have been the main ones using it
+
+dialogue type : %--
+F :  and we 're Uh .
+
+dialogue type : s
+F :  The SRI recognizer has all this P - make customs stuff built into it .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Exactly .
+
+dialogue type : fg|s
+F :  Yeah , you know , I I sort of got started using the recognizer just recently
+
+dialogue type : fh
+F :  and uh ,
+
+dialogue type : s
+F :  uh I fired off a training job ,
+
+dialogue type : s
+F :  and then I fired off a recognition job
+
+dialogue type : s:qy
+F :  and I get this email about midnight from Andreas saying , " uh , are you running two trainings simultaneously
+
+dialogue type : s:s
+F :  s my m my jobs are not getting run . "
+
+dialogue type : s
+F :  So I had to back off a little bit .
+
+dialogue type : fh
+F :  But ,
+
+dialogue type : s
+F :  soon as we get some more machines then uh then we 'll have more compute available .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : s
+F :  that 's just a quick update about what we 've got .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^bk
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Mm - hmm .
+
+dialogue type : s
+F :  You could write a script uh , which called run command on each sub - job
+
+dialogue type : qy^d^f^g
+F :  right ?
+
+dialogue type : s^cs
+F :  But you probably wanna be careful with that
+
+dialogue type : s^df
+F :  because um , you don't wanna saturate the network .
+
+dialogue type : fh
+F :  Uh ,
+
+dialogue type : fh
+F :  so , um ,
+
+dialogue type : s^cs
+F :  you know , you should you should probably not run more than , say ten jobs yourself at any one time ,
+
+dialogue type : s^df.%-
+F : 
+
+dialogue type : s^nd
+F :  Well it 's not that so much as that , you know , e with if everybody ran fifty jobs at once then it would just bring everything to a halt
+
+dialogue type : s
+F :  and , you know , people 's jobs would get delayed ,
+
+dialogue type : s^nd
+F :  so it 's sort of a sharing thing .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s^cs
+F :  so you should try to limit it to somet sometim some number around ten jobs at a time .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : s^e
+F :  So if you had a script for example that had a thousand things it needed to run , um , you 'd somehow need to put some logic in there if you were gonna use " run command " , uh , to only have ten of those going at a time .
+
+dialogue type : s^e
+F :  And uh , then , when one of those finished you 'd fire off another one .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : s^aa
+F :  Yeah , exactly .
+
+dialogue type : s
+F :  Yeah , you have to be a little bit careful .
+
+dialogue type : fg
+F :  Um ,
+
+dialogue type : s^tc.%--
+F : 
+
+dialogue type : s
+F :  If you have that level of parallelization um , and you don't wanna have to worry about writing the logic in in a Perl script to take care of that , you can use um , P - make
+
+dialogue type : s
+F :  and and you basically write a Make file that uh , you know your final job depends on these one thousand things ,
+
+dialogue type : s^cs^rt
+F :  and when you run P - make , uh , on your Make file , you can give it the dash capital J and and then a number ,
+
+dialogue type : s
+F :  and that number represents how many uh , machines to use at once .
+
+dialogue type : s
+F :  And then it 'll make sure that it never goes above that .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s
+F :  I can get some documentation .
+
+dialogue type : s^am
+F :  It depends .
+
+dialogue type : s^df
+F :  If you " Run command " , that I mentioned before , is doesn't know about other things that you might be running .
+
+dialogue type : s^df
+F :  So , it would be possible to run a hundred run jobs at once ,
+
+dialogue type : s^df
+F :  and they wouldn't know about each other .
+
+dialogue type : s^df
+F :  But if you use P - make , then , it knows about all the jobs that it has to run
+
+dialogue type : s^df
+F :  and it can control , uh , how many it runs simultaneously .
+
+dialogue type : s
+F :  It uses " export " underlyingly .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  i It 's meant to be run one job at a time ?
+
+dialogue type : s^e
+F :  So you could fire off a thousand of those ,
+
+dialogue type : s^e
+F :  and it doesn't know any one of those doesn't know about the other ones that are running .
+
+dialogue type : s.%--
+F :  Well , if you have ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  Like , for example , uh if you didn't wanna write a P - make script
+
+dialogue type : s
+F :  and you just had a , uh an HTK training job that you know is gonna take uh , six hours to run ,
+
+dialogue type : s
+F :  and somebody 's using , uh , the machine you typically use ,
+
+dialogue type : s
+F :  you can say " run command " and your HTK thing
+
+dialogue type : s
+F :  and it 'll find another machine ,
+
+dialogue type : s^e
+F :  the fastest currently available machine
+
+dialogue type : s
+F :  and and run your job there .
+
+dialogue type : s^aa
+F :  Yes .
+
+dialogue type : s^aa
+F :  Yeah ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s
+F :  So some of the machines at the institute , um , have this attribute called " no evict " .
+
+dialogue type : s
+F :  And if you specify that , in in one of your attribute lines , then it 'll go to a machine which your job won't be evicted from .
+
+dialogue type : s
+F :  But , the machines that don't have that attribute , if a job gets fired up on that , which could be somebody 's desktop machine , and and they were at lunch ,
+
+dialogue type : s
+F :  they come back from lunch and they start typing on the console , then your machine will get evicted your job will get evicted from their machine and be restarted on another machine . Automatically .
+
+dialogue type : s^e
+F :  So which can cause you to lose time ,
+
+dialogue type : qy^d^f^g
+F :  right ?
+
+dialogue type : s^e
+F :  If you had a two hour job , and it got halfway through
+
+dialogue type : s^e
+F :  and then somebody came back to their machine and it got evicted .
+
+dialogue type : s^cs
+F :  So . If you don't want your job to run on a machine where it could be evicted , then you give it the minus the attribute , you know , " no evict " ,
+
+dialogue type : s
+F :  and it 'll pick a machine that it can't be evicted from .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Yeah ,
+
+dialogue type : s^no
+F :  I I 'm not sure how that works .
+
+dialogue type : s
+F :  Uh , it seems like Andreas did something for that .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^no
+F :  I don't know whether it monitors the keyboard or actually looks at the console TTY ,
+
+dialogue type : s^cs
+F :  so maybe if you echoed something to the you know , dev dev console or something .
+
+dialogue type : qw^br
+F :  Hmm ?
+
+dialogue type : s^bk
+F :  Yeah , yeah .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : fg
+F :  Yeah ,
+
+dialogue type : fh
+F :  so , um ,
+
+dialogue type : fh
+F :  yeah .
+
+dialogue type : s^no
+F :  I I can I 'm not sure about that one .
+
+dialogue type : fh
+F :  But uh .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fg
+F :  Um .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^cs
+F :  Yeah , and and also uh , Stephane 's a a really good resource for that if you can't find me .
+
+dialogue type : s^e
+F :  Especially with regard to the Aurora stuff .
+
+dialogue type : s
+F :  He he knows that stuff better than I do .
+
+dialogue type : qy
+F :  Are y are you saying LDA ?
+
+dialogue type : s^bk
+F :  LDA .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bu
+F :  So people won't even have to worry about , uh , doing speech - nonspeech then .
+
+dialogue type : s^bk
+F :  Mmm .
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : s^bk
+F :  Yeah ,
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy.%--
+F : 
+
+dialogue type : qy^rt
+F :  Are are people not supposed to use any speech outside of those endpoints ?
+
+dialogue type : qrr
+F :  Or can you then use speech outside of it for estimating background noise and things ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^ba
+F :  Wow .
+
+dialogue type : s^bu
+F :  So the baseline itself improves by fifty percent .
+
+dialogue type : s^ba
+F :  Wow .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^2
+F :  Perfect to match .
+
+dialogue type : s^bu
+F :  It 's it 's not guaranteed though .
+
+dialogue type : qy^rt
+F :  Is it is spectral subtraction typically done on the after the mel , uh , scaling
+
+dialogue type : qrr
+F :  or is it done on the FFT bins ?
+
+dialogue type : qy
+F :  Does it matter ,
+
+dialogue type : qrr.%--
+F :  or ?
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^bk
+F :  Hmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : %--
+F : 
+
+dialogue type : s^na
+F :  not that I know of .
+
+dialogue type : b.%
+F :  That 's right
+
+dialogue type : qw^d^rt
+F :  Wi - with what targets ?
+
+dialogue type : s^2
+F :  Phones .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : qy^bu^d^rt
+F :  So you 're not down here permanently yet ?
+
+dialogue type : s^bk
+F :  Ah !
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : qy^bu^rt
+F :  So you just You typically just get a few roots ?
+
+dialogue type : qy^d^f^g
+F :  You know ,
+
+dialogue type : s^e
+F :  two or three ,
+
+dialogue type : s^e
+F :  something like that ?
+
+dialogue type : s^bk
+F :  Mm - hmm .
+
+dialogue type : qw.%-
+F : 
+
+dialogue type : qy^rt
+F :  If this is synthetic speech can't you just get the formants directly ?
+
+dialogue type : qw
+F :  I mean h how is the speech created ?
+
+dialogue type : s^bu|qy^g^rt
+F :  Wasn't a formant synthesizer was it ?
+
+dialogue type : s^bk
+F :  Oh ,
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : s
+F :  That 's sort of the point .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : qy^cs^d^rt^t^tc
+F :  I guess we should do digits quickly .
+
+dialogue type : qy^cs.%
+F :  You wanna go ahead ?
+
+dialogue type : z
+F :  OK .
+

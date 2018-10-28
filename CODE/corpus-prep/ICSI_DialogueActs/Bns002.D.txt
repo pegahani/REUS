@@ -1,0 +1,2745 @@
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  OK .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^ft
+D :  Thank you .
+
+dialogue type : s
+D :  Well , eh , I I have prepared , eh , a really short talk about some of the topics
+
+dialogue type : s
+D :  I I have been doing some w some research work uh before coming here .
+
+dialogue type : fh|s^cc
+D :  And eh , well , mainly I will present
+
+dialogue type : s
+D :  uh Here you have more or less the sketch of the presentation .
+
+dialogue type : s^cc^rt
+D :  I will present some ideas and some concepts about what ad - hoc networks are ,
+
+dialogue type : s
+D :  about the issues in media access control in wireless networks ,
+
+dialogue type : s
+D :  also about routing in such kind of networks
+
+dialogue type : fh|s^cc
+D :  and , eh , I will make some comments also about uh the current standards of wireless local area networks
+
+dialogue type : s^cc
+D :  and finally , I will present the blueprint of of my research project or my research uh proposal here .
+
+dialogue type : fh|s
+D :  So the first thing is eh what an ad - hoc network is .
+
+dialogue type : s^df
+D :  You know , uh , an ad - hoc network is made of wireless nodes .
+
+dialogue type : s^df
+D :  These nodes of course can be mobile nodes ,
+
+dialogue type : s^df
+D :  and , eh in this network there is no network infrastructure .
+
+dialogue type : fh|s
+D :  So eh the only active thing we have is the mobile nodes .
+
+dialogue type : fh
+D :  And eh
+
+dialogue type : s
+D :  end - to - end communication , is sometimes , uh done by direct communication from one node to the other ,
+
+dialogue type : s^df
+D :  because they can talk to each other .
+
+dialogue type : s
+D :  But sometimes it is not possible , this direct communication , because nodes , end uh source or and destination nodes are um are too far away .
+
+dialogue type : s
+D :  And in this case , it can be done , communication can be done , by uh using multi - hub routing .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  an intermediate , or a set of intermediate nodes will route or will forward the packet from the sender to the destination .
+
+dialogue type : fh
+D :  So
+
+dialogue type : fh|s
+D :  uh in a sense , what we have in this kind of networks , is that , uh nodes are as both arced as both uh endpoints and also routers of other neighboring nodes .
+
+dialogue type : s
+D :  And this makes a uh difference from other kind of network .
+
+dialogue type : s
+D :  And well , regarding the purposes of what can this kind of network be used for , eh we can say that , well , cellular networks are infrastructure - based networks ,
+
+dialogue type : s
+D :  in this kind of ad - hoc networks , we don't have anything uh , with the exception of the network nodes .
+
+dialogue type : s
+D :  So , this uh network can be useful for eh uh occasions where no available infrastructure is present ,
+
+dialogue type : s^e^rt
+D :  like for example , in in eh after some kind of of eh um catastrophe catastrophic event ,
+
+dialogue type : s^e
+D :  or , also when even when there is a network available , we don't want , for different reasons , to use the available network .
+
+dialogue type : s^e
+D :  This latt later case can be , for example , the use in military systems ,
+
+dialogue type : s^e
+D :  where maybe we don't want to
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^na
+D :  That 's OK .
+
+dialogue type : s^na
+D :  That 's O K .
+
+dialogue type : s^na
+D :  That 's perfect , you know .
+
+dialogue type : s
+D :  This in this case , we will say that this node is acting as a as a gat external gateway , from this network to connect to other networks ,
+
+dialogue type : s
+D :  and of course the underlying uh protocols can can be , of course , uh IP - based .
+
+dialogue type : fh
+D :  Uh , OK .
+
+dialogue type : s
+D :  Here you have several several uh , proposed , uh , scenarios for for used this networks .
+
+dialogue type : s^e
+D :  When no network is available ,
+
+dialogue type : s^bk
+D :  OK ?
+
+dialogue type : s^e
+D :  And another another application , for example , NASA is is uh studying , is uh the use of these networks , these ad - hoc networks , for sending multiple probes , uh , um uh missions .
+
+dialogue type : s^e
+D :  So , for example , all of you are aware of this uh the last Atlas , the last successful uh Mars mission ,
+
+dialogue type : s
+D :  the cellular vehicle was only one , and was uh walking around , uh roaming around the base station , which in this case was the gateway uh node of this network ,
+
+dialogue type : s
+D :  but it was only one mobile node , of course .
+
+dialogue type : s
+D :  Nothing prevents ,
+
+dialogue type : s^e
+D :  except well maybe the cost , to send not only one mobile rover , but ten tons of them , or or at least uh several of them .
+
+dialogue type : fh
+D :  So , uh
+
+dialogue type : s
+D :  higher area could be covered , could be explored
+
+dialogue type : s
+D :  and uh of course , all the different nodes could also use some kind of ad - hoc networking , , ad - hoc routing , to extend the distance , the maximum distance , than uh a single radio transmission will would allow .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  And in the other case , or the other area uh of of of application , is the so - called network of sensors ,
+
+dialogue type : s^e^rt
+D :  where we can deploy a set of sensors in a maybe uninhabited area ,
+
+dialogue type : s^e
+D :  let 's say , for example , the forest ,
+
+dialogue type : s
+D :  and we can uh take some information
+
+dialogue type : fh|s^e^rt
+D :  uh , for example for for fire - fighting , we can just launch from a plane , several small sensors ,
+
+dialogue type : fh
+D :  and uh
+
+dialogue type : s^e
+D :  these sensors can be for example , uh checking that there is no fire ,
+
+dialogue type : s^e^rt
+D :  they can have some kind of uh let 's say infrared technology sensor ,
+
+dialogue type : s^df
+D :  so we can cover a huge area with only a small set of of sensors , and without any other infrastructure .
+
+dialogue type : qy^d
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : fh
+D :  Well ,
+
+dialogue type : s^ba
+D :  You know , it 's an interesting question .
+
+dialogue type : s^ng
+D :  Uh , the the main thing about an ad - hoc network is not that nodes move .
+
+dialogue type : s
+D :  It is the way of topology changes can happen .
+
+dialogue type : s^df
+D :  The idea that mmm , any change is possible at any given moment .
+
+dialogue type : s:qw
+D :  But you can of course ask , " but if the nodes are not moving , what kind of topology changes can we expect ? "
+
+dialogue type : fh|s
+D :  Well , eh , the thing is that usually in in a n in a network of sensors , what we have , or the idea is to have um , an important number of sensors , and maybe with a high filer rate .
+
+dialogue type : s^e
+D :  maybe the batteries are uh exhausted in some nodes because maybe uh they are not being able to take uh , let 's say , any sun to recharge its cells ,
+
+dialogue type : s^e
+D :  uh maybe some of them can be uh just uh out of order for other eh environmenta environmental conditions .
+
+dialogue type : fh|s^df
+D :  So uh the idea is that even when these nodes are not moving , they can start and stop working at uh , let 's say , higher pace .
+
+dialogue type : s
+D :  Then , uh what will happen in a in a regular network , uh in a network where you don't have or either mobility or uh this uh on - off uh rate , high rate .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^ft
+D :  Thank you , Joe .
+
+dialogue type : fg
+D :  Well ,
+
+dialogue type : fh|s
+D :  uh , you know , and finally , uh , another non - military applications , where uh maybe a network is available , like for example , a room like this ,
+
+dialogue type : s^e
+D :  where we have , in fa in fact , a wired infrastructure ,
+
+dialogue type : s
+D :  but this uh possible application of ad - hoc networks could be uh , any place , any meeting room , where we arrive with our computers
+
+dialogue type : s
+D :  and eh we just can communicate seamlessly to each other without any kind of access point , any kind of uh mmm external network ,
+
+dialogue type : s^df
+D :  because the kind of work we want to do is just only local based ,
+
+dialogue type : s^df
+D :  it 's only to chat to each other or to exchange files with the person , which is in front of us .
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s
+D :  but we n don't want to product pro provide , eh , access to the internet or something .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  And , of course , the same eh the same scenario , could also happen in a place where there is no uh , infrastructure available .
+
+dialogue type : s^e
+D :  Let 's say a meeting room uh , in in the middle of the desert ,
+
+dialogue type : qy^d^f^g
+D :  OK ? ,
+
+dialogue type : s^e
+D :  without any other network .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s:s^bk
+D :  the point or or the question could be for some of us , the idea of saying " OK ,
+
+dialogue type : s:s^na
+D :  That sounds OK ,
+
+dialogue type : qh^cs^rt
+D :  but why not to use a longer transmission range , so we can reach any destination in just one hop ? "
+
+dialogue type : s^df
+D :  This seems to make sense because , well , uh we are this way avoiding all the routing problem
+
+dialogue type : s
+D :  that , well , we will talk a little bit uh , about routing later ,
+
+dialogue type : fh
+D :  but uh
+
+dialogue type : s^ba
+D :  it it seems that i probably that the problem is is not an easy one ,
+
+dialogue type : s^df
+D :  because uh a node 's moving , the route is changing ,
+
+dialogue type : s^df
+D :  so w one can think that routing in this uh scenario is is a complex thing .
+
+dialogue type : s
+D :  But the problem is if w we just uh try to put more power in each tr transmitter ,
+
+dialogue type : s
+D :  so this uh transmitter can reach any destination in only one hop ,
+
+dialogue type : s
+D :  what we are doing is uh to rising the power needs of each node ,
+
+dialogue type : s
+D :  and also we are reducing the network uh throughput ,
+
+dialogue type : s^df
+D :  because we are only allowing one transmissio one transmission at a time .
+
+dialogue type : s^df
+D :  Because uh , well , we cannot allow several transmissions , several high - powered transmissions at the same time
+
+dialogue type : s^df
+D :  because one is interfering with the other .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : %-
+D : 
+
+dialogue type : s
+D :  uh I think I 'm not telling it yet ,
+
+dialogue type : s
+D :  but we are assuming that we are using a single common channel for all the nodes .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s^df
+D :  So that 's why we cannot allow several transmitters in the same channel at the same time .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s^ba
+D :  So , the idea of hav having a longer transmission range is not a good one .
+
+dialogue type : s
+D :  or at least it has the drawbacks um , um , I was telling you .
+
+dialogue type : fh|s
+D :  Eh , let 's speak a little bit about the media access issues in in wireless networks ,
+
+dialogue type : fh|s
+D :  Uh , you know , the easiest eh way to to show how this works is or at least one of I think one of the easiest is that this drawing , or this picture ,
+
+dialogue type : s^df
+D :  what what we have is a set of nodes , each one at a different location .
+
+dialogue type : s
+D :  At at at a at an at a given moment this eh node , this dash node is is transmitting
+
+dialogue type : s
+D :  and uh , the arrows are representing this transmission
+
+dialogue type : s
+D :  and the receiving nodes , these three nodes , are receiving the transmission ,
+
+dialogue type : s
+D :  and I 'm trying to uh show the area , the covered area , for of this transmission by means of this uh dashed eh line circle .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : fh|s
+D :  So , uh , any transmission has a maximum transmission range ,
+
+dialogue type : fh|s
+D :  and uh in the simpler way , we can see this like a circle with the center in the transmitter and a certain radius .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  The value of this radius is uh in principle , is a fixed value
+
+dialogue type : s
+D :  and it depends on the uh power of the transmitter .
+
+dialogue type : s^bd
+D :  Of course , uh this is only our uh simplife simplified model
+
+dialogue type : s^bd
+D :  and of course this can be uh improved uh a lot ,
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  And in fact the real behavior is not exactly this one ,
+
+dialogue type : s
+D :  but uh for for what I want to say it 's it 's OK ,
+
+dialogue type : s
+D :  it 's enough .
+
+dialogue type : qy^d^f^g^rt
+D :  OK ?
+
+dialogue type : fh
+D :  So
+
+dialogue type : qw
+D :  what are the differences uh , in this in this eh wireless transmission , regarding uh to the wireless to the wired ones .
+
+dialogue type : qw
+D :  What what are the d the main differences .
+
+dialogue type : s
+D :  Well , the main differences come from the fact that , uh in uh in uh wireless transmission we have a special domain we don't have when we are using a wire for transmitting a signal .
+
+dialogue type : s^df
+D :  And the point I 'm trying to show in this picture , is that if for example , this other node wants also to transmit while this one was transmitting , if we are using some kind of carry detect scheme , like for example , CSMA , or something uh uh derivated from it , the problem is that this node will hear the g the m the transmission media ,
+
+dialogue type : s
+D :  it won't be able to hear anything
+
+dialogue type : s^rt
+D :  so , he will conclude that no other transmission is going on ,
+
+dialogue type : s
+D :  and he will start transmitting .
+
+dialogue type : s
+D :  And if he does , what will happen is that this node and this other node will also receive this transmission ,
+
+dialogue type : s
+D :  and this will produce , at least at these two nodes , a collision or a m a m a a re a bad reception .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  So none of these two simultaneous transmissions will be properly received at this node nor at this other node .
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s^fa
+D :  Oh , sorry .
+
+dialogue type : fh|%--
+D : 
+
+dialogue type : s^rt
+D :  I think this is the previous one ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s^ft
+D :  thank you .
+
+dialogue type : fh
+D :  Eh
+
+dialogue type : s
+D :  this is what is called a " hidden terminal " problem .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s^df
+D :  because well uh this node is not able to hear this other node because of the distance uh , between them .
+
+dialogue type : s
+D :  But Uh , this problem , as you can see in the in the picture , is uh really producing at least some reception problem at these two nodes .
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s
+D :  so it is it is a problem that we have to address
+
+dialogue type : s
+D :  and it is a new problem compared to wired uh media access control .
+
+dialogue type : fh
+D :  And , uh ,
+
+dialogue type : s
+D :  well , some devel some protocols have been developed to avoid this problem and to try to address this particular behavior of wireless transmissions
+
+dialogue type : s
+D :  and the main idea is to use some kind of a reservation mechanism .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  we are um reserving a certain , and a specific uh , area of space so we can guarantee that nobody is trying to use the same space at the same time .
+
+dialogue type : fh
+D :  OK ?
+
+dialogue type : s
+D :  This is the basic idea .
+
+dialogue type : s^bk
+D :  Yeah ?
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa|s.%-
+D : 
+
+dialogue type : s
+D :  This one .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s
+D :  in eh the the the main idea and and the base of most of this protocols , is what this the so - called RTS CTS uh dialogue .
+
+dialogue type : s.%--
+D :  The idea is that ,
+
+dialogue type : fh
+D :  uh ,
+
+dialogue type : s
+D :  of course , this is only intended for unicast transmissions ,
+
+dialogue type : s^df
+D :  I mean , only for when a node wants to transmit something to a neighbor node .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  But not to broadcast . Uh , to all the nodes .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  For this for this eh , work , the transmitter has to send a a a reservation packet called RTS , " Request To Send " , before eh being able to send data .
+
+dialogue type : s
+D :  And the receiver is expected to return back another packet called CTS , " Clear To Send " , to allow the transmitter to send the data .
+
+dialogue type : s
+D :  If the transmitter receives successfully the CTS packet from the destination , then it will be able to send eh the packet , the data packet .
+
+dialogue type : s
+D :  If not , it will h uh , back off , and it will retry uh sometime later .
+
+dialogue type : s^bk
+D :  OK ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : h
+D :  Uh .
+
+dialogue type : s^aa
+D :  Yes .
+
+dialogue type : s^aa^r
+D :  Yes .
+
+dialogue type : s^df
+D :  The idea is uh , if I want to send you something , I first of all , I need you to answer me to be sure that you are my neighbor now
+
+dialogue type : s^df
+D :  because maybe you are off or maybe you are uh too far away ,
+
+dialogue type : s^df
+D :  and also because that way Miguel , for example , it may be is not being able to hearing me will hear your CTS and will know that you are about to receive uh data from me .
+
+dialogue type : qy^d^f^g^rt
+D :  OK ?
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  in fact , forcing the receiver to transmit for a short period of time is also uh , used to signal all the uh receiver neighbors that a recept a reception is taking place .
+
+dialogue type : s^bk
+D :  OK ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  Two two things .
+
+dialogue type : s
+D :  First of all , eh , this this mechanism is only a media access controlled mechanism ,
+
+dialogue type : s
+D :  so it is not connected with routing eh , anyhow .
+
+dialogue type : s
+D :  And , second point ,
+
+dialogue type : fh
+D :  eh
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s
+D :  RTS packets can collide to other RTS packets .
+
+dialogue type : s
+D :  So , this mechanism is not uh preventing collisions ,
+
+dialogue type : s
+D :  it is preventing only data collisions .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : %-
+D : 
+
+dialogue type : s:s^bk
+D :  And and you can say " OK ,
+
+dialogue type : s:qw
+D :  but what is the what the benefit is ? "
+
+dialogue type : s
+D :  The benefit is that , eh RTS packets and CTS packets are short packets ,
+
+dialogue type : s^e
+D :  really short packets .
+
+dialogue type : s^e
+D :  Let 's say eh eh 30 bytes or less .
+
+dialogue type : s
+D :  while data packets can be much mor much bigger .
+
+dialogue type : s^e
+D :  Let 's say uh one - K , five - K - s .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  a collision in this short packet is only wasting a small amount of time .
+
+dialogue type : fh
+D :  And , uh
+
+dialogue type : s
+D :  if that way we can warranty that there is there are there is no collision uh uh , between data packet , well , this this is this means a a huge eh increase in network throughput ,
+
+dialogue type : s^df
+D :  because we well , we we only waste really small time colliding .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^df
+D :  It is a reservation mechanism ,
+
+dialogue type : fh
+D :  so
+
+dialogue type : s
+D :  if reservation doesn't work OK , if uh one reservation don't succeed then , uh , this transmission should have to wait .
+
+dialogue type : s^e.%--
+D : 
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s^bk
+D :  yeah ,
+
+dialogue type : s^co.%-
+D : 
+
+dialogue type : s^co.%--
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^co
+D :  Fo - fo for forget forget about routing .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^2
+D :  a CTS .
+
+dialogue type : s^na
+D :  That 's OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^na
+D :  That 's it .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : s^bk|s^nd
+D :  Yeah , but eh a node is only is only involved in one transmission at a given time .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s^df
+D :  if now two has uh mmm answer with the with the CTS , it will be waiting until the data that has to come .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^df
+D :  But n not before .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa|s.%-
+D : 
+
+dialogue type : s^ar
+D :  No , no , no .
+
+dialogue type : s^df
+D :  But we are we are talking only about a data packet .
+
+dialogue type : s^e
+D :  at the MAC layer .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^na
+D :  All the packets ,
+
+dialogue type : s^e^na
+D :  all unicast packets .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  That that true .
+
+dialogue type : s^aa^r
+D :  That 's true .
+
+dialogue type : s^e
+D :  But not in the meantime .
+
+dialogue type : s
+D :  After receiving You know , in fact , probably the routing protocol will need to check the address the the let 's say IP address , which is inside the data packet ,
+
+dialogue type : fh
+D :  so ,
+
+dialogue type : s
+D :  you cannot u usually you cannot , uh , read the data packet until you the reception is over .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s^df
+D :  because usually your network hardware only provides you a copy of a packet after ou a a successful reception
+
+dialogue type : s^df
+D :  and usually you know that reception is successful if every bit has passed the CRC check .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  You have checked that the that this frame has received uh without errors .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : fg
+D :  So
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^ba
+D :  That 's OK .
+
+dialogue type : s^aa|s^co
+D :  Yeah , let me let me put some special representation of what we are doing .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^rt
+D :  This is the transmitting node ,
+
+dialogue type : s^rt
+D :  this is the receiving node ,
+
+dialogue type : s
+D :  and these two areas , of course , there 's something like this , are the uh places of the total space where you can hear the Here , this one is the RTS and this one is the CTS .
+
+dialogue type : s.%--
+D :  So , any node ,
+
+dialogue type : s
+D :  for example , this node is a neighbor of the receiving node ,
+
+dialogue type : s
+D :  but it is not a neighbor of the transmitting node .
+
+dialogue type : s
+D :  So when this node hears the CTS transmission that is performed by the receiver , this will be uh informed , that a recev a reception is taking place in in in it 's area .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  in fact , this node will avoid any further transmission until uh this reception , that will start in in a moment , is over .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : %--
+D : 
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : s^ar^r
+D :  No .
+
+dialogue type : s^co
+D :  Let me let me let me show you one thing .
+
+dialogue type : s|qy^d^g^rt
+D :  If this node was transmitting before , it should uh it should ha uh transmit an RTS packet in advance , OK ?
+
+dialogue type : s
+D :  So this node should hear it before .
+
+dialogue type : s
+D :  So this node is W won't be sending the eh eh CTS packet to the transmitter .
+
+dialogue type : s
+D :  So this transmission won't take place .
+
+dialogue type : s^aa
+D :  M Yeah .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  And , in fact , uh there is another detail ,
+
+dialogue type : s
+D :  it is not uh uh uh uh in on the on the slide ,
+
+dialogue type : s^df
+D :  and it is that both the RTS and the CTS packet uh , have a field , a control field where the total length of the data packet is shown .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  when you hear one uh CTS or one uh RTS packet , you know that the frame that they are trying to transmit or , that this one is trying to transmit this one is about to receive You know the length .
+
+dialogue type : s
+D :  You know the bit rate ,
+
+dialogue type : s
+D :  so you know that the amount of time you have to wait until you can try to get the control , or t try to send your own transmission .
+
+dialogue type : h|s^aa
+D :  Mmm , yeah .
+
+dialogue type : h|s^nd
+D :  Uh , well , we are assuming that uh mmm all the all the transmissions are bidirectional .
+
+dialogue type : fh|s^am
+D :  I mean , uh you know it depends .
+
+dialogue type : s^am^df
+D :  It depends mainly on on the antenna gain and the transmission power and the receiver uh threshold .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : %
+D :  S
+
+dialogue type : s
+D :  So what what we are assuming is that all the nodes behave exactly the same regarding to uh transmission and receiving signals .
+
+dialogue type : fg
+D : 
+
+dialogue type : fg
+D :  yeah
+
+dialogue type : s
+D :  but the but in this case , you know this this idea , this uh geometric idea , can be can be , if you want , uh deformed because of some obstacles .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  But this wall is working both ways .
+
+dialogue type : s^df
+D :  It is not only making this node not to hear this one , it 's also making this one not to hear this node .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Because of this wall , if they are not neighbors , well , we can represent this putting this node like here .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s^ar|s^ng
+D :  No , but this is not the scenario we are assuming .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  We are assuming all the nodes are exactly the same .
+
+dialogue type : fh|s
+D :  Uh , so they transmit the same power ,
+
+dialogue type : s
+D :  and they uh have the same uh uh sensitivity .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^e
+D :  If if if I can hear you , you can hear me .
+
+dialogue type : s
+D :  and and the opposite works also .
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s^e
+D :  if you cannot hear me , I cannot hear you .
+
+dialogue type : qy^d.%--
+D :  In a ?
+
+dialogue type : h|s^nd
+D :  Uh not really ,
+
+dialogue type : s^df
+D :  but also depends on uh you know , for example power relationships , and antenna relationships .
+
+dialogue type : %--
+D :  You know , eh
+
+dialogue type : %-
+D : 
+
+dialogue type : s.%--
+D :  because for example , uh one kind of thing ,
+
+dialogue type : s^bk|s
+D :  OK , if I use a directional antenna , this is making that in one direction ,
+
+dialogue type : s
+D :  I 'm getting more uh let 's say more gain than another .
+
+dialogue type : s
+D :  And that 's true
+
+dialogue type : s
+D :  but th that What is also true is that one directional antenna works both ways .
+
+dialogue type : s^df
+D :  It provides you more gain when you are transmitting but also when you are receiving .
+
+dialogue type : s
+D :  so , in general , in general even when if there uh if there i are different antenna gains , uh , you 're getting mainly bidirectional channels .
+
+dialogue type : s^df
+D :  Only when you have a an important uh power difference is when l um , the communication can only work one way .
+
+dialogue type : s^e
+D :  For example , you have one big station with uh a lot of transmission power ,
+
+dialogue type : s^e
+D :  and then you have a really small mobile uh thing that can hear perfectly the signal from this uh uh bigger station ,
+
+dialogue type : s^e
+D :  but it has not enough power to transmit something that can be heard here .
+
+dialogue type : fh
+D :  So um
+
+dialogue type : s
+D :  But this this this is not our scenario .
+
+dialogue type : s^df
+D :  In our scenario , all the nodes are exactly the same .
+
+dialogue type : s^df
+D :  They they have the same uh signal uh behavior .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  this is not a problem for us ,
+
+dialogue type : s^e
+D :  at least for the moment ,
+
+dialogue type : s^am^e
+D :  maybe later we 'll see some differences .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  You know , the idea is that this mechanism is a reservation mechanism .
+
+dialogue type : s
+D :  And what we are doing here is try to reserve the area of space we are covering
+
+dialogue type : s
+D :  and eh here 's where our some of our work is done .
+
+dialogue type : s
+D :  The main idea for for our work , is well , if we are using this reservation mechanism , we are reserving an area of space for a single transmission .
+
+dialogue type : fh|s
+D :  Uh , if this area is bigger than what is really needed , we are , somehow , wasting a little bit of space .
+
+dialogue type : fh
+D :  So , uh
+
+dialogue type : s
+D :  our first eh work in this area was to study different mechanisms to try to adjust these transmission values ,
+
+dialogue type : s
+D :  these uh the area , the covered area , for a single transmission , trying to get a minimum value ,
+
+dialogue type : s
+D :  so we can reduce the not - used space for other simultaneous transmissions .
+
+dialogue type : s
+D :  And this will lead us to a a better to a better network throughput , to higher number of simultaneous transmissions .
+
+dialogue type : s
+D :  And , we have , uh mmm , worked about this problem uh , in two different uh ways .
+
+dialogue type : s
+D :  One of these ways has been try to find a mechanism to uh calculate an optimal value for the transmission range uh , and to get an equal value for all the transmitters .
+
+dialogue type : fh|s
+D :  So , the idea in this first work was to obtain a fixed value for the transmission range .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^ba
+D :  Oops !
+
+dialogue type : s
+D :  It is about uh , an algorithm to adapt the transmission power for every for every single transmission .
+
+dialogue type : fh|s
+D :  So , uh , in this second part of our work , we are using a different value for every single transmission .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s
+D :  First point , what we have proposed is a way to obtain the transmission range uh for uh for an escenario where we know the number of nodes
+
+dialogue type : s^rt
+D :  and the area of deployment , we have a a fixed area , where we deploy all the nodes ,
+
+dialogue type : s^rt
+D :  we have a fixed number of nodes ,
+
+dialogue type : s
+D :  and , uh we assume that these nodes are moving freely around this this area
+
+dialogue type : s
+D : 
+
+dialogue type : s^bsc
+D :  the better possible throughput ,
+
+dialogue type : qy^d^f^g.%
+D :  OK ?
+
+dialogue type : s^e
+D :  but without our network getting partitioned ,
+
+dialogue type : s^e
+D :  which is a problem that we are trying to avoid .
+
+dialogue type : s^df
+D :  You know , if we have , because of node motion , we have something like this ,
+
+dialogue type : s
+D :  this is the deployment area of or or node ,
+
+dialogue type : s
+D :  and if we have some nodes here and some nodes here , well maybe these nodes in this area , cannot reach the nodes on this other area .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : qw
+D :  Uh , so what can we do to avoid this ?
+
+dialogue type : s
+D :  Of course we can choose uh our transmission values longer enough to reach from so the nodes from this area will be able to reach the nodes on this other area .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  But , again , we can assume that eh if uh , nodes are moving , uh more or less uh in a random fashion , this configuration is not very likely to happen .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  So the point we ha what we have done is to present a mechanism would pr which provides uh one uh value for a given uh mmm probability .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  So we can say that uh a given eh value are @ @ for for the transmission range , will be OK for a given number of nodes , if we Sorry . for a certain , for a certain probability .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  So , the point is uh , we cannot say that this is not gonna happen ,
+
+dialogue type : s^df
+D :  what we can say is this is not very likely to happen , if nodes move uh uh random .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  This is the next .
+
+dialogue type : s^bk|%-
+D :  Yeah , th
+
+dialogue type : %
+D :  u
+
+dialogue type : %
+D :  e
+
+dialogue type : %
+D :  e
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s
+D :  but this is this is a way that it is it is being explored by other researchers ,
+
+dialogue type : s^df
+D :  but not not uh , by me .
+
+dialogue type : fh|s
+D :  But uh , there is , uh one , at least one person who is who is doing what they call " topology control " ,
+
+dialogue type : s
+D :  and this is , uh related to to uh the control of the transmission power to get uh certain properties uh from your network ,
+
+dialogue type : s^e
+D :  like for example , they are what they are doing eh is eh some people working for BBN
+
+dialogue type : s^e
+D :  Ram Ramanatan is the researcher ,
+
+dialogue type : s^e
+D :  and the article is is uh I think from from this year ,
+
+dialogue type : fh
+D :  and eh
+
+dialogue type : s
+D :  these guys are doing eh what they call uh " B - connected networks " ,
+
+dialogue type : s^df
+D :  they are trying all the network nodes to have at least two neighbors .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s^df
+D :  And they are controlling the power to eh this g uh mmm get this this number of neighbors ,
+
+dialogue type : s
+D :  but this is not what I am doing
+
+dialogue type : s
+D :  and uh the kind of power control I am doing uh , um , is more or less presented here ,
+
+dialogue type : s^df
+D :  and what we are doing is to transmit uh with the minimum power needed depending on the distance to the destination .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  Every transmission is supposed to be done to a certain neighbor node
+
+dialogue type : s
+D :  we cull the neighbors to these nodes which are uh closer than a given distance ,
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  and because we wanted to to compare our algorithm with something , we needed to compare it with the no power control ,
+
+dialogue type : s^e
+D :  which is the usual uh mechanism at this eh media access control level .
+
+dialogue type : s
+D :  So , what we are doing here is to to compare our mechanism against the no power control ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  in order to be able to compare , we have to fix a given whatever , but a given uh maximum transmission range to compare .
+
+dialogue type : fh|s
+D :  And , uh what we are doing is we are uh taking the advantage that we are u we have this RTS CTS dialogue , in advance , before sending the data , to uh agree with the receiver , the power level he is willing to get from us .
+
+dialogue type : qy^d^f^g
+D :  OK ,
+
+dialogue type : s
+D :  so every single transmission in every single transmission we are checking with the receiver the power level we have to use for the data transmission .
+
+dialogue type : s
+D :  That 's the main thing .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  Well , uh we are assuming that e y for at least for uh veh uh you know , uh , car and and walking or or people riding a mo motorcycle the f um frame length is so small that only um very very small um space can be can be eh travelled while the transmission is taking place .
+
+dialogue type : fh
+D :  You know ,
+
+dialogue type : s^e.%-
+D :  in one millisec
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : %--
+D : 
+
+dialogue type : s^ar|%-
+D : 
+
+dialogue type : s^bk|s
+D :  Yeah but , i let 's say you have one kilobyte .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s^e
+D :  One kilobyte is uh eight uh bits .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : fh|s
+D :  And eh , if you are transmitting at , let 's say , uh at one megabit per second , this means one microsecond per bit .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  So this only is taking eight milliseconds ,
+
+dialogue type : s^e
+D :  which is not a lot of time if you are travelling , let 's say , at uh one hundred kilometers per second .
+
+dialogue type : s
+D :  Oh per per hour .
+
+dialogue type : s^fa
+D :  Sorry .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^na
+D :  it will be delayed
+
+dialogue type : s
+D :  but you will start from scratch again .
+
+dialogue type : s^df
+D :  I mean , it will be a start with another RTS CTS .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : fg|s.%--
+D : 
+
+dialogue type : s^cc^t1
+D :  I will have to translate this ,
+
+dialogue type : fh
+D :  uh
+
+dialogue type : s^t1.%--
+D :  It shou should be something ipsh
+
+dialogue type : s^t1.%--
+D :  So , this should be something like
+
+dialogue type : fh
+D :  uh
+
+dialogue type : s^t1
+D :  thirty meters per second .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  So in in eight milliseconds , well , the amount of of space you are travelling is not too much .
+
+dialogue type : s^e
+D :  For most of of of uh the wireless technologies ,
+
+dialogue type : s^e
+D :  maybe not for all of them ,
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s^df
+D :  but I 'm of course , I 'm also uh using a conservative value for the transmission speed ,
+
+dialogue type : s
+D :  now you can get much more speed than speedier interfaces than this one ,
+
+dialogue type : s
+D :  but the thing is , uh , that we are assuming that for a given transmission , we can uh consider the network as if it were built of a set of static nodes .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  Motion will be important for routing ,
+
+dialogue type : s^df
+D :  but for the media access control level , we are considering that motion can be con is not is not important .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s^bk|s
+D :  Yeah , but again again , what we are adding with this behavior is , uh uh a little bit more , probably some some uh small part to the uh bit error rate .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  Maybe this frame will won't be received properly , and , should eh have to be eh dropped ,
+
+dialogue type : fg
+D :  but anyway ,
+
+dialogue type : fh|s
+D :  eh even if nodes are completely static , eh some problems will happen in the wireless transmission ,
+
+dialogue type : fh
+D :  so
+
+dialogue type : s^df
+D :  we won't have a hundred percent eh perfect eh channel anyway .
+
+dialogue type : fh|s
+D :  So eh if this problem , as you show it probably it 's it 's eh Y you can you can see that it is not very likely to happen ,
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : b
+D :  Hmm ?
+
+dialogue type : s^bk
+D :  Hmm - hmm - hmm .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^aa
+D :  sure , sure .
+
+dialogue type : s
+D :  In fact in fact , you know I I I I I maybe I I I had to to prepare a more detailed eh , view ,
+
+dialogue type : s^df
+D :  I I just was trying to do something soft ,
+
+dialogue type : s^e
+D :  not to to bore th the public
+
+dialogue type : s^df
+D :  but of course there are a lot of other smart eh things that are built in , in these protocols ,
+
+dialogue type : s^e
+D :  like for example , an automatic , uh acknowledgement .
+
+dialogue type : s
+D :  Some protocols used uh in the same way as this RTS and CTS packet some of them use , an eh acknowledge from the receiver ,
+
+dialogue type : s^e
+D :  which is also a short packet ,
+
+dialogue type : s
+D :  so you you are getting some kind of link layer uh acknowledgement scheme
+
+dialogue type : s^e
+D :  which can save a lot of data transmissions
+
+dialogue type : s^df
+D :  because eh usually when you send a a a a frame , you will want to some kind of acknowledgement back .
+
+dialogue type : s^df
+D :  So , if this acknowledgement has to go through the process of a new RTS and a new CTS , well , this takes longer than just a link layer uh , extra packet .
+
+dialogue type : s
+D :  That , of course uh is also contemplated in this eh packet length length or included in the RTS and CTS packets ,
+
+dialogue type : fh|s
+D :  so , eh , you know , everybody can wait until this uh acknowledgement is also transmitted by the receiver .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  in fact , eh nnn some people proposing this mechanism is is showing a a b a big improvement
+
+dialogue type : fh|s
+D :  and eh there are a lot of other mechanisms , also regarding and a time - out mechanism , or the time - out algorithm for these retries when you try to send something and you don't succeed , uh , what what you the amount of time you have to wait until you retry again .
+
+dialogue type : s
+D :  Well , uh , some people is also proposing different things , different eh algorithms with different results .
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s^df
+D :  I just was trying to present a you know the main ideas .
+
+dialogue type : s
+D :  So , I I I you know , ask uh You Feel free to ask uh whatever you want ,
+
+dialogue type : s^df
+D :  but I I want to insist that it was just an uh a simplified uh version , a light version .
+
+dialogue type : qy^d^f^g^rt
+D :  OK ?
+
+dialogue type : fh|s
+D :  well , uh you know finally this algorithm , eh , as I was telling , eh what it 's doing is to check with the receiver the power level to be used .
+
+dialogue type : s
+D :  And it is very simple to see that some advantages can some advantage can be obtained ,
+
+dialogue type : s^df
+D :  because the difference is eh if you don't have power control , you are using all the time the maximum power ,
+
+dialogue type : s^df
+D :  if you have power control , sometimes you will use less than the maximum power
+
+dialogue type : qw
+D :  How often do you use less power than the maximum ?
+
+dialogue type : s^df
+D :  Well , this will this will be connected to the motion pattern .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  Depending how nodes are moving ,
+
+dialogue type : s^rt.%--
+D :  well maybe all the time all your neighbors are at the maximum distance
+
+dialogue type : s
+D :  But , this probably , doesn't l look like uh something very very uh very likely .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s^df
+D :  because well , l probably y what you will have will be some neighbors that are really close
+
+dialogue type : s
+D :  others that are a little bit far away
+
+dialogue type : s
+D :  and finally , these neighbors that are in the in the frontier of your of your coverage area .
+
+dialogue type : b.%
+D :  OK .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : fg|s
+D :  Yeah , let let me let me answer you uh with a question .
+
+dialogue type : qy
+D :  Uh , If , for example , your car uh you you have uh an endless uh source of of gas , do you think it will it will be a problem , the amount of gas your your car is is using ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  It won't be a problem for your pocket ,
+
+dialogue type : s^e
+D :  for your wallet ,
+
+dialogue type : s
+D :  but maybe it will be a problem for the environment .
+
+dialogue type : s
+D :  So , I think that the answer to your question is in this line ,
+
+dialogue type : s^bd
+D :  that uh if you have an endless uh source of power , well , maybe it 's not a problem , for the battery uh lasting .
+
+dialogue type : s^df^rt
+D :  But , it is a problem because you are using more area than you should .
+
+dialogue type : s
+D :  And therefore you are preventing other transmissions to take place at the same time .
+
+dialogue type : s
+D :  And therefore uh the problem is not only connected to to the to the power
+
+dialogue type : s
+D :  it is also connected to the net to the global network throughput .
+
+dialogue type : qy^d^f^g^rt
+D :  OK ?
+
+dialogue type : fh
+D : 
+
+dialogue type : s.%--
+D :  But , again , uh , you know , uh the the m
+
+dialogue type : s.%--
+D :  If you ask me " what what do you think what will happen , in the industry ? "
+
+dialogue type : s
+D :  What I think that will happen is that they will try to get uh mmm better hardware than we have now
+
+dialogue type : s^df
+D :  because now the problem with transceivers is that a lot of power is uh consumed at the logic of the transceiver ,
+
+dialogue type : s^df^e
+D :  and not uh transmitted to the air .
+
+dialogue type : s^e
+D :  It is not power transferred to the air .
+
+dialogue type : s
+D :  So , the problem now is that eh most of the power uh , uh t uh a wireless network card is consuming , is is is drawn by the by the eh logic control of the card .
+
+dialogue type : s^e
+D :  All the all the calculations ,
+
+dialogue type : s^e.%-
+D : 
+
+dialogue type : s
+D :  So , I am sure that eh that manufacturers will try to to squeeze until the the the last ampere f of of this eh , let 's say , eh wasted power ,
+
+dialogue type : s^df.%--
+D :  because what you cannot avoid is , uh
+
+dialogue type : s
+D :  to p l the part of the of the radio frequency power you have to transmit .
+
+dialogue type : s
+D :  I mean , this is this cannot be avoided .
+
+dialogue type : s.%--
+D :  But what you can avoid or you can reduce
+
+dialogue type : s.%--
+D :  and probably
+
+dialogue type : s^df
+D :  because now it is the main factor , the main consumption factor , is the logic inside .
+
+dialogue type : s
+D :  In the same way , at as as it happened with with processors , for example .
+
+dialogue type : s
+D :  Now processors are much more uh power efficient than before .
+
+dialogue type : s^f
+D :  OK ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk|%-
+D :  Yeah , pero e
+
+dialogue type : %--
+D : 
+
+dialogue type : s^fa
+D :  Oh , sorry !
+
+dialogue type : s
+D :  But even if you if you don't have to to worry about eh your power source , you have to worry about your environment ,
+
+dialogue type : s^e
+D :  about not using more resources that you don't own
+
+dialogue type : s^e
+D :  that are uh shared about w w among the community .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^2
+D :  The destination .
+
+dialogue type : s^rt
+D :  Can take place at the same time .
+
+dialogue type : s^ba
+D :  That 's OK .
+
+dialogue type : s
+D :  And to and to get the maximum network throughput .
+
+dialogue type : s
+D :  That 's that 's the idea .
+
+dialogue type : s.%--
+D :  However however , and
+
+dialogue type : s
+D :  uh , it is always some however ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bsc
+D :  or , more than greedy in this case ,
+
+dialogue type : s
+D :  it could be , say , this stingy mechanism to trying to avoid to use any extra space is also leading to a higher level of interference at the receivers .
+
+dialogue type : fh
+D :  So , uh
+
+dialogue type : s
+D :  at the end of the road , we have to uh look for some trade - offs to avoid too much uh interference at the receivers .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : s
+D :  So , uh at the end we are using a little bit more power than these mathematically minimum values .
+
+dialogue type : s^f
+D :  OK ?
+
+dialogue type : s^df.%--
+D :  because if not , the uh
+
+dialogue type : s
+D :  the frame error rate or the bit error rate uh , skyrockets .
+
+dialogue type : s^f
+D :  OK ?
+
+dialogue type : s^df
+D :  because of the of high interference levels .
+
+dialogue type : s
+D :  A lot of simultaneous transmissions also means for each receiver point of view , a lot of neighbors or or nodes transmitting at the same time .
+
+dialogue type : s
+D :  And , all the transmitters uh with the exception of the transmitter of my transmitter , are my intereferers
+
+dialogue type : s
+D :  and are and all of them are producing less quality reception ,
+
+dialogue type : s
+D :  so if they are a lot of them , well , uh the reception can be can be uh disturbed .
+
+dialogue type : qy^d^f^g
+D :  OK ?
+
+dialogue type : fh|s
+D :  And but um , um this is taking longer than I expected .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^t^tc
+D :  Let 's let 's uh take a k a a really a really light uh view at the at the routing in this in this network ,
+
+dialogue type : s^rt
+D :  which is another important area of of research .
+
+dialogue type : s^rt
+D :  You know , in fact there is a a group at the ITF uh called " Manit " .
+
+dialogue type : s^rt
+D :  This working group is is devoted to uh try to to present or to agree a common protocol for routing IP traffic on these eh kind of networks ,
+
+dialogue type : s^e^rt
+D :  on these ad - hoc networks ,
+
+dialogue type : fh
+D :  Uh , and
+
+dialogue type : s
+D :  at this moment there are , I would say , a lot of proposals of different protocols uh for uh end - to - end traffic
+
+dialogue type : s^rt
+D :  and also for multicast traffic ,
+
+dialogue type : s^e
+D :  on these networks
+
+dialogue type : s
+D :  And eh well some day in the future eh , a protocol should be chosen
+
+dialogue type : s
+D :  but , for the moment eh we have several of them on the table .
+
+dialogue type : s
+D :  and eh any protocol has some advantages and some disadvantages .
+
+dialogue type : s
+D :  The basic the basic problem we have to solve in in these eh routing protocols is the fast eh the fast pace at what eh topology changes can happen .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  the problem here is that now uh one node is my neighbor ,
+
+dialogue type : s^e
+D :  and next second , it is not .
+
+dialogue type : s
+D :  So any route that was going through this neighbor now is is not possible
+
+dialogue type : s^e
+D :  and should change .
+
+dialogue type : s.%--
+D :  And the problem is that well
+
+dialogue type : fh
+D :  uh an
+
+dialogue type : s
+D :  an if you let me a personal comment , I think that one error on the group is not to agree a set of mobility patterns to to do the the tests .
+
+dialogue type : s^df^rt
+D :  because here , well , mobility is making these uh neighborhood relationships to appear or to disappear ,
+
+dialogue type : s^rt
+D :  So uh , it should be interesting if we agree uh a common a common set of motion patterns to perform the tests
+
+dialogue type : s^df
+D :  because if not , well , it 's difficult to to perform comparisons uh between one protocol and another ,
+
+dialogue type : s^e
+D :  a different one .
+
+dialogue type : s
+D :  But anyway , now what we have is is two basic approaches to this this problem .
+
+dialogue type : s
+D :  Eh , mainly what they call the practive protocols
+
+dialogue type : s
+D : 
+
+dialogue type : s^e
+D :  distance vectors ,
+
+dialogue type : s^fa|s
+D :  sorry , and and link end state protocols ,
+
+dialogue type : s^rt
+D :  eh , which are usually table driven ,
+
+dialogue type : s^rt
+D :  so you have a process , trying to to maintain up - to - date a set of routing table tables and the nodes
+
+dialogue type : s^rt
+D :  and eh every routing de decision is eh just eh looking up the table ,
+
+dialogue type : s^rt
+D :  and sending to the proper neighbor node
+
+dialogue type : s^rt
+D :  and , eh the other the other set of protocols are using a reactive uh approach
+
+dialogue type : s
+D :  and these protocols are trying to work on demand ,
+
+dialogue type : s
+D :  so they are trying to solve on only these routers that are needed
+
+dialogue type : s
+D :  so when I want to send uh , a packet to a a given destination , first of all , I have to figure out the proper route for this packet .
+
+dialogue type : s
+D :  And then , uh I 'm using soft routing .
+
+dialogue type : s
+D :  I 'm I 'm including on the on the uh header of this packet , the set of eh nodes that should be forwarding this node to the destination .
+
+dialogue type : s
+D :  eh of course , uh these uh two approaches can be can be uh somehow mixed
+
+dialogue type : s
+D :  and some hybrid proposals are also on the on the paper ,
+
+dialogue type : fh
+D :  and eh
+
+dialogue type : s
+D :  these proposals are are trying to get the advantages of both uh mechanisms
+
+dialogue type : s
+D :  eh some sometimes making a kind of combination of of them
+
+dialogue type : fh|s
+D :  uh , let 's say , for example , using uh practive approach for the closer set of nodes ,
+
+dialogue type : s^rt
+D :  let 's say for the neighbors and maybe the next level ,
+
+dialogue type : s
+D :  and , using a reactive approach
+
+dialogue type : s^e
+D :  I mean , as our routing approach , for nodes that are closer than this practive area .
+
+dialogue type : s^bk
+D :  OK ?
+
+dialogue type : s.%--
+D :  and eh , well ,
+
+dialogue type : %--
+D :  u e a
+
+dialogue type : s^rt
+D :  some multicast protocols have been proposed for this scenario too ,
+
+dialogue type : s
+D :  and , well , they have to deal with the same problems that they 're uh end - to - end routing protocols .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  Routing protocols intended for multicast .
+
+dialogue type : s^e
+D :  So , for for uh , for sending one to any .
+
+dialogue type : qy^d^f^g.%
+D :  Hmm ?
+
+dialogue type : fh|s
+D :  Uh well , the main the main problems that some of the solutions eh are exhibiting , is uh the lack of eh scalability
+
+dialogue type : s
+D :  uh mainly the source routing protocols have a problem when you when you scale from or scale scale badly from tens of nodes to to thousands of nodes
+
+dialogue type : s^df
+D :  because , well , you cannot have uh , uh let 's say , uh , an endless uh header length .
+
+dialogue type : s^e
+D :  You have a limited a limited header length .
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Something like this
+
+dialogue type : s
+D :  So you your packet should look like like this way .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  So this this uh header , well , it 's it 's a problem .
+
+dialogue type : s
+D :  Of course , there are also some some solutions
+
+dialogue type : s
+D :  like uh uh employing some kind of of uh hierarchical source route routing ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : %-
+D :  Anoth
+
+dialogue type : s
+D :  Another problem eh , is eh trying to provide some quality of service in these networks ,
+
+dialogue type : s^df.%--
+D :  because , well , em uh change is is the only thing you know for sure , here
+
+dialogue type : s
+D :  So , eh providing quality of service is also is quite a challenge in in this network .
+
+dialogue type : s
+D :  But , again uh there are some proposals .
+
+dialogue type : s^nd
+D :  Not really .
+
+dialogue type : s^df.%--
+D : 
+
+dialogue type : fh
+D :  You know ,
+
+dialogue type : s^ba^df
+D :  uh , I 'm sure that the proposals are OK ,
+
+dialogue type : s^df
+D :  but eh I don't I don't think that You cannot warr you you I don't think you can warranty too much in these networks .
+
+dialogue type : s
+D :  So , I see this like a you know , a a topic I 'm not convinced about .
+
+dialogue type : s^e
+D :  I don't trust you can really provide quality of service ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^am
+D :  Yeah .
+
+dialogue type : s
+D :  You know , uh if you are curious , uh I can I can I can provide you the n some of the proposals
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  And eh , finally , the other the other thing , which is also under research or under study is , uh to have some kind of a power - aware routing .
+
+dialogue type : s
+D :  There are some proposals , too .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  routing function could be connected with uh global or local power consumption .
+
+dialogue type : s
+D :  So , for example , you could ask to u nnn , the network to transmit your packet with the lowest uh global uh consumption
+
+dialogue type : s
+D :  or with your lowest local consumption , for example .
+
+dialogue type : qy^d^f^g^rt
+D :  OK ?
+
+dialogue type : s
+D :  I mean , would the option for me to to use less power when sending a packet is to send it to the closest neighbor .
+
+dialogue type : s^f|s
+D :  OK , assuming that I 'm I 'm also using s or having some kind of power control thing .
+
+dialogue type : s
+D :  so that way transmitting to the closer close to my closer node , is , uh something that requires less effort than sending to a more distant node .
+
+dialogue type : s
+D :  Maybe the closer node is not a good uh it is not in the good direction to the to reach the destination .
+
+dialogue type : s
+D :  But it is for sure the the less expensive uh thing for me .
+
+dialogue type : qy^d^f^g^rt
+D :  OK ?
+
+dialogue type : s^bd
+D :  But probably this uh this is not something really useful .
+
+dialogue type : s
+D :  And that ca what can be u really useful is to reduce the global power consumption in the routing function .
+
+dialogue type : %--
+D :  So ,
+
+dialogue type : s^df.%--
+D :  because in this way ,
+
+dialogue type : s
+D :  well , maybe one node is is being forced to use more power
+
+dialogue type : s
+D :  but but if we take a look at the whole thing , well , we can ask for a a low consumption route ,
+
+dialogue type : s.%-
+D :  well , the same way
+
+dialogue type : s:s
+D :  as we are asking , for example , when we want uh some packet to be shipped in the real life , we can go and say " well , we will we are happy with this UPS ground system .
+
+dialogue type : s
+D :  What we want w is two - day delivery service , or w twenty - four hours service , and we are willing to pay more or less for this service .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^ba
+D :  That 's O K .
+
+dialogue type : s^rt
+D :  So , these are more or less uh some open problems ,
+
+dialogue type : s.%--
+D :  and uh well just a quick comment about probably
+
+dialogue type : s^rt
+D :  all of use are now aware of the availability of this eh standard the I - triple - E eight hundred and two point eleven
+
+dialogue type : s
+D :  uh in fact it is it is powering you know , uh the evolution of the of the of networking industry in the wireless area .
+
+dialogue type : s.%--
+D :  And in the beginning , the first adaptors uh
+
+dialogue type : s^fa
+D :  Oops !
+
+dialogue type : s^e
+D :  were only one and two megabytes per second ,
+
+dialogue type : s
+D :  but now we you you can buy for for the same price for even the same price uh , the new eleven megabytes per second version
+
+dialogue type : s^rt
+D :  I 've been use it for for a while ,
+
+dialogue type : s
+D :  and it w can tell you it works pretty well .
+
+dialogue type : fh|s
+D :  and uh , the thing is that these devices have two different modes of operation .
+
+dialogue type : s
+D :  One of them , and probably the most popular , is uh l what we call the " infrastructure mode " ,
+
+dialogue type : s^rt
+D :  where you have a set of mobile nodes ,
+
+dialogue type : s
+D :  and then you have one or more access points .
+
+dialogue type : s
+D :  These access points are uh in fact providing the eh required connectivity from the mobiles to the network to the m wired network ,
+
+dialogue type : s^e
+D :  and from there to the internet usually .
+
+dialogue type : s^aa|s^na
+D :  Yeah , yeah , we can call it a base station .
+
+dialogue type : s^rt
+D :  And , eh , the other mode of operation which should be appropriate , for example , for this meeting room example , uh doesn't require any any access point ,
+
+dialogue type : s
+D :  and in this second case , communication happens f eh um from one computer to the other at the link ly layer .
+
+dialogue type : qy^d^f^g^rt
+D :  OK ?
+
+dialogue type : s^rt
+D :  So , if I want to connect to uh , let 's say , Miguel 's , uh Michael 's , uh I I will send him a packet ,
+
+dialogue type : s
+D :  and he will receive it , and that 's it .
+
+dialogue type : s
+D :  OK , we can build on top of this some uh routing algorithm ,
+
+dialogue type : s^e
+D :  some ad - hoc routing algorithm ,
+
+dialogue type : s
+D :  but this is out of the scope of the of the standard .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^2.%--
+D : 
+
+dialogue type : s^ar
+D :  no .
+
+dialogue type : s^rt
+D :  Eleven - B is only for for uh radio
+
+dialogue type : s
+D :  and it 's only for uh direct sequences spread spectrum .
+
+dialogue type : s
+D :  But , in fact , there is an ongoing new version , I think it 's c version - A ,
+
+dialogue type : s
+D :  but it is not uh commercially available
+
+dialogue type : s^e
+D :  which w will use uh orthogonal frequency division multiplexing
+
+dialogue type : s
+D :  and will get probably twenty - five megabits per second .
+
+dialogue type : fh|s
+D :  eh but , again , the will move to five gigahertz ,
+
+dialogue type : s^e
+D :  uh five point five gigahertz ,
+
+dialogue type : s^e
+D :  eh gigahertz , uh area of a spec expect uh spectrum
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^rt
+D :  You know , that the old the old waveLAN are nine hundred megahertz version
+
+dialogue type : s
+D :  and the new ones are the the eleven megabits uh are uh two point four m uh ISM band .
+
+dialogue type : s.%-
+D :  However , uh some old uh waveLANs are also , but not the older ones the oldest ones , are also uh two point four m
+
+dialogue type : s^m^na
+D :  eh gigahertz . S
+
+dialogue type : %-
+D :  S
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  you ca you you are you start to see uh compatible products in the market .
+
+dialogue type : s^df
+D :  Because eh maybe because it 's the , let 's say , second version ,
+
+dialogue type : s^df^e
+D :  but also because I think it 's the only way for this industry to take off .
+
+dialogue type : s^df
+D :  because uh previous versions , if you buy , let 's say , waveLAN , you are tied to waveLAN al the rest of your life .
+
+dialogue type : s
+D :  But now you can you can have interoperable products from several vendors ,
+
+dialogue type : s^e
+D :  which is , I think , what , in the past , will power the ethernet uh revolution
+
+dialogue type : s
+D :  You can buy any any compatible product
+
+dialogue type : s
+D :  and and you know it will work with the other brand .
+
+dialogue type : qy^bu^d
+D :  In front ?
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : h
+D :  Mmm .
+
+dialogue type : %--
+D :  You know ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I think that to put things in perspective , what we need to know is what Bluetooth is and what Bluetooth is for .
+
+dialogue type : s
+D :  And uh Bluetooth is mainly for cutting this cable .
+
+dialogue type : s
+D :  You know , the other day I was joking about that our wireless microphones were not , in fact , wireless
+
+dialogue type : s
+D :  because it had this wire ,
+
+dialogue type : s
+D :  So , the point is that eh Bluetooth is mainly a technology for cutting these kind of cables .
+
+dialogue type : s
+D :  You know , sh oh short short distance cables ,
+
+dialogue type : s.%--
+D :  uh , carrying usually really s uh , sh nnn ,
+
+dialogue type : fh
+D :  nnn
+
+dialogue type : s^e
+D :  slow signals ,
+
+dialogue type : s^e
+D :  or let 's say , boys and something like this .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aap|s.%--
+D :  Yeah , but you know , uh in fact
+
+dialogue type : fh|s
+D :  uh the initial version had only the the range of ten meters ,
+
+dialogue type : s:s|qh^cs
+D :  and I guess that somebody at a certain meeting said " OK , why don't we have a l an extended range version ,
+
+dialogue type : s:s^df
+D :  so we could re - use the same technology for other purposes ,
+
+dialogue type : s:s^e
+D :  different than the original ones . "
+
+dialogue type : s
+D :  So , em , uh , I have the feeling that this is u this is what is uh introducing some confor confusion in the in the Bluetooth
+
+dialogue type : s
+D :  eh or in the way people is is looking at Bluetooth
+
+dialogue type : s^df
+D :  because they can say " OK , hundred meters is is is an acceptable distance ,
+
+dialogue type : s
+D :  let 's say , for communicating inside a building , inside a a small office .
+
+dialogue type : s
+D :  So , uh some people , I think , is being tempted to think that Bluetooth could provide them uh , some kind of local connectivity ,
+
+dialogue type : s
+D :  but uh for for data for computing uses .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  working at at eleven megabits per second , you cannot you cannot switch to another thing , to another slower thing .
+
+dialogue type : s
+D :  But uh even when they are using the same the same uh , um area of a s a spectrum ,
+
+dialogue type : s^df
+D :  because Bluetooth is also intended to work in two point four uh gigabits ,
+
+dialogue type : s
+D :  eh the technologies are different ,
+
+dialogue type : s
+D :  you know eh Bluetooth eh is using a frequency hopping system
+
+dialogue type : fh
+D :  and uh
+
+dialogue type : fh
+D :  mmm
+
+dialogue type : s
+D :  both uh dialing sequence and frequency hopping , spread the spectrum techniques , are also intended to provide uh interference l uh less , uh data transmission .
+
+dialogue type : s
+D :  So , the idea is that these two techniques are intended not to interfere with any other thing .
+
+dialogue type : s
+D :  So , even when I haven't tried , and I cannot tell you for sure , I think that the only problem one network will encounter uh in the presence of the other is a little bit of more noise .
+
+dialogue type : s^bd
+D :  And this will produce a little bit less throughput ,
+
+dialogue type : s^df
+D :  but nothing more .
+
+dialogue type : s
+D :  I don't expect any any more problem .
+
+dialogue type : s.%--
+D :  even the the the own Bluetooth specification is also
+
+dialogue type : s.%--
+D :  assuming that another Bluetooth or several Bluetooth networks c will be could be in the same area of space
+
+dialogue type : s
+D :  and they are using the same hopping technology , frequency hopping technology .
+
+dialogue type : s
+D :  But again , this technology is uh trying to avoid the other networks by choosing different hopping patterns .
+
+dialogue type : s
+D :  So uh if several Bluetooth networks can can uh coexist without a problem , I don't see any problem will will happen if if we want to to make coexist one uh Bluetooth with another wireless uh local area network technology .
+
+dialogue type : s^aa|s^na
+D :  Yeah . I think so .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Five bucks .
+
+dialogue type : s^e
+D :  Five bucks chip .
+
+dialogue type : b
+D :  Hmm - hmm - hmm .
+
+dialogue type : s^bc
+D :  Will be .
+
+dialogue type : s^r
+D :  Will be .
+
+dialogue type : s
+D :  In fact in fact Bluetooth is also designed
+
+dialogue type : s^e
+D :  to be compatible with existing digital European cordless telephones .
+
+dialogue type : s
+D :  So , hopefully , we will be able to use some of our old devices or maybe our our cordless phone base station at home , with a computer . S
+
+dialogue type : s
+D :  S So I think some really nice applications will will appear .
+
+dialogue type : s^na
+D :  I 'll try to .
+
+dialogue type : s
+D :  So , let me let me just uh finish , you know .
+
+dialogue type : s
+D :  Uh well , this is something I , more or less , I told you .
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s
+D :  what the the spark of of my of my work here , or at least , of what I was proposing to work here , is the fact that these two model uh two modes of operation , I was telling you here that you have to choose at the driver level if your network adaptor is working in an access point - based environment or in ad ho in an ad - hoc environment . I see this as a as a limitation
+
+dialogue type : s^df
+D :  because I think that uh when you have to choose among two options , well , mmm , maybe you are saying " no " to some of the benefits the other option , different than the one you are choosing , could provide you .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^fa
+D :  Oops !
+
+dialogue type : s^bk
+D :  Well , yeah .
+
+dialogue type : s^co^t1
+D :  Let 's go .
+
+dialogue type : s
+D :  where we can have a kind of uh dual mode uh wireless network adaptor
+
+dialogue type : s
+D :  So if we are not able to reach any access point but we are able to reach another network node , well , maybe this network node could do me the favor to reach or to forward my packets to the access point .
+
+dialogue type : s
+D :  So the main idea , the driving force here , is to uh try to obtain uh , let 's say , hybrid mode
+
+dialogue type : s
+D :  which allows an adaptor to work either in the access point or in the eh in the ad - hoc mode in a seamless way .
+
+dialogue type : s.%--
+D :  and to include in every single node driver ,
+
+dialogue type : s
+D :  this forwarding or helper uh forwarding mechanism that will allow to extend the wireless coverage without a need of buying a lot of access points
+
+dialogue type : s^e|qy^d^f^g
+D :  and putting even an access point inside the restroom . OK ?
+
+dialogue type : s
+D :  Of course this idea mmm , can sound p can sound a little bit not very appealing for the manufacturers ,
+
+dialogue type : s^e
+D :  at least for the manufacturers of access point
+
+dialogue type : s^df
+D :  because well , they probably are very happy of selling a lot of them .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D : 
+
+dialogue type : fh
+D :  So
+
+dialogue type : qh
+D :  One possible extension of the same idea and something uh I 've been thinking for awhile , is the idea that , well , why can't do we extend this same concept to cell array systems ?
+
+dialogue type : qh
+D :  Why can't we , for example , think about some mmm , new mechanisms that users could get , uh connectivity by means of other users , and no directly to the base station ,
+
+dialogue type : qh
+D :  or , when we have several technologies uh in overlapped in a certain area , why can't we use the closest and the cheapest , maybe , technology ,
+
+dialogue type : s^e
+D :  or maybe the less power consumption technology , without the user to worry about if he is now using this or the other technology .
+
+dialogue type : qh
+D :  And on the other hand , what are the billing implications of this behavior ?
+
+dialogue type : s^df
+D :  Because it is clear that , well , when I 'm only uh , talking to the to the base station of my provider , well billing is more or less straightforward ,
+
+dialogue type : qh
+D :  but what happens if I 'm working uh , let 's say , uh across a mall , and at a given moment I 'm using the small base station of a cordless phone that is inside the shop I 'm at the window of ?
+
+dialogue type : s
+D :  Well in this case , I 'm using a resource which is not owned by my provider .
+
+dialogue type : s^rt
+D :  I 'm using , a let 's say , a private property .
+
+dialogue type : s
+D :  Maybe I have to pay to this private property ,
+
+dialogue type : s
+D :  or maybe my carrier will have to pay or to refund some money to this guy .
+
+dialogue type : s^df
+D :  You know this something , uh I 'm putting on the table
+
+dialogue type : s^bd
+D :  I 'm not sure about , uh if this can be really of interest or not
+
+dialogue type : s
+D :  but , it 's an idea ,
+
+dialogue type : s
+D :  and I 'll be happy to discuss it with you .
+
+dialogue type : s^t^tc
+D :  And I uh I think my presentation is over ,
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^fw
+D :  Oh , you are welcome .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : h|s^nd
+D :  Nnn , no to both q to both questions .
+
+dialogue type : s^rt
+D :  I don't have previous experience
+
+dialogue type : s
+D :  I don't eh know if uh where it will it would fix .
+
+dialogue type : s
+D :  However , eh you know I 'm just doing this presentation
+
+dialogue type : fh|s
+D :  uh some somehow a review of my previous work .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I 'm I 'm probably getting involved a little bit more in this active routing thing .
+
+dialogue type : fh|s
+D :  So uh I I maybe I will be able to hopefully I will be able to to give you a better answer in the future .
+
+dialogue type : s^ft
+D :  Oh , than thanks , Michael , for your computer .
+
+dialogue type : qy^t3
+D :  Should I power off it ?
+
+dialogue type : s^bk^t3
+D :  OK .
+
+dialogue type : s^bk^t3|s^fa^t3
+D :  Oh , OK , sorry , sorry .
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : %-
+D :  W
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  Michael
+
+dialogue type : s^r
+D :  Michael ,
+
+dialogue type : s^ba
+D :  which is the proper answer ?
+
+dialogue type : qy^bu^d^rt
+D :  Th - this one ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^ft
+D :  Thank you .
+
+dialogue type : b
+D :  Hmm - hmm .
+
+dialogue type : s
+D :  Universidad Nacional de Educacion a Distancia
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Paez , Paez
+
+dialogue type : s
+D :  Paez .
+
+dialogue type : b
+D :  Hmm - hmm - hmm .
+
+dialogue type : qw
+D :  Wher - where your slides are available ?
+
+dialogue type : qw^r
+D :  Wher - where the slides are available ?
+
+dialogue type : qw
+D :  When ?
+
+dialogue type : s^bk
+D :  Ah !
+
+dialogue type : s
+D :  You will send it , sorry .
+
+dialogue type : s^fa
+D :  Sorry .
+
+dialogue type : s^bk|%-
+D : 
+

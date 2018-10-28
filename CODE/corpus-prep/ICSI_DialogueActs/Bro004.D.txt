@@ -1,0 +1,1377 @@
+dialogue type : z
+D :  Channel channel three ,
+
+dialogue type : z
+D :  yeah .
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  Mike four .
+
+dialogue type : h|s^rt
+D :  Uh so . uh We So As I was already said , we we mainly focused on uh four kind of features .
+
+dialogue type : s^rt
+D :  The PLP , the PLP with JRASTA , the MSG , and the MFCC from the baseline Aurora .
+
+dialogue type : s
+D :  Uh , and we focused for the the test part on the English and the Italian .
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s^rt
+D :  so on the TI - digits English and on the Italian data
+
+dialogue type : s
+D :  and also on the broad uh English uh French and uh Spanish databases .
+
+dialogue type : s^rt
+D :  Mmm , so there 's our result tables here , for the tandem approach ,
+
+dialogue type : s^rt
+D :  and um , actually what we we @ @ observed is that if the network is trained on the task data it works pretty well .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^rt
+D :  so if the network is trained on the task data um tandem works pretty well .
+
+dialogue type : s.%--
+D :  And uh actually we have uh ,
+
+dialogue type : s.%-
+D :  results are similar Only on ,
+
+dialogue type : s^aa
+D :  yeah .
+
+dialogue type : s^aa^m
+D :  Just that task .
+
+dialogue type : s^arp
+D :  But actually we didn't train network on uh both types of data
+
+dialogue type : s.%--
+D :  I mean uh phonetically ba
+
+dialogue type : s
+D :  phonetically balanced uh data and task data .
+
+dialogue type : s
+D :  We only did either task task data or uh broad data .
+
+dialogue type : fh
+D :  Um Yeah .
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : b
+D :  Mmm . Yeah .
+
+dialogue type : qy^bu^rt
+D :  If we use the same language ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^nd
+D :  But Yeah but I did not uh do that .
+
+dialogue type : s^ar|s
+D :  We No , we did four four kind of of testing , actually .
+
+dialogue type : s^rt
+D : 
+
+dialogue type : s^rt
+D :  So , with nets trained on task data .
+
+dialogue type : s^rt
+D :  So for Italian on the Italian speech @ @ .
+
+dialogue type : s
+D :  The second test is trained on a single language um with broad database ,
+
+dialogue type : s^rt
+D :  but the same language as the t task data .
+
+dialogue type : s^rt
+D :  But for Italian we choose Spanish which we assume is close to Italian .
+
+dialogue type : s^rt
+D :  The third test is by using , um
+
+dialogue type : s.%-
+D :  and the fourth is
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^arp
+D :  But not digits .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah
+
+dialogue type : s
+D :  And the fourth test is uh excluding from these three languages the language that is the task language .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Uh , yeah .
+
+dialogue type : fg|s.%--
+D :  So um for uh TI - digits for ins
+
+dialogue type : s
+D :  example uh when we go from TI - digits training to TIMIT training uh we lose uh around ten percent ,
+
+dialogue type : s
+D :  uh . The error rate increase u of of of ten percent , relative .
+
+dialogue type : sj
+D :  So this is not so bad .
+
+dialogue type : s
+D :  And then when we jump to the multilingual data it 's uh it become worse
+
+dialogue type : s
+D :  and , well Around uh , let 's say , twenty perc twenty percent further .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aap
+D :  Twenty to to thirty percent further .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah . Yeah .
+
+dialogue type : s^arp.%-
+D : 
+
+dialogue type : %--
+D :  So .
+
+dialogue type : %--
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : fg|s
+D : 
+
+dialogue type : %--
+D :  so ,
+
+dialogue type : s.%--
+D :  the the ratio of
+
+dialogue type : s
+D :  our error rates uh with the baseline error rate is around uh one point one .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^ar
+D :  No no no .
+
+dialogue type : s^rt
+D :  Uh same language we are at uh for at English at O point eight .
+
+dialogue type : s
+D :  So it improves , compared to the baseline .
+
+dialogue type : %--
+D : 
+
+dialogue type : %--
+D :  So .
+
+dialogue type : s.%--
+D :  Le - let me .
+
+dialogue type : s^rt.%-
+D :  Tas - task data
+
+dialogue type : s.%-
+D :  we are u
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^bk
+D :  Oh yeah , the f Yeah , OK .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Sure .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa^m
+D :  Yeah , it 's around one point one .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : %-
+D :  Ye
+
+dialogue type : s^ar
+D :  Uh , more actually .
+
+dialogue type : s^aa
+D :  If I Yeah .
+
+dialogue type : qw^t3
+D :  What would you say ?
+
+dialogue type : s
+D :  Around one point four
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : s
+D :  If we exclude English , um there is not much difference with the data
+
+dialogue type : s
+D :  with English .
+
+dialogue type : fh
+D :  So . Yeah .
+
+dialogue type : b
+D :  Uh .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^m^na^rt
+D : 
+
+dialogue type : fh
+D :  Um
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah sure .
+
+dialogue type : h|s^aa
+D :  Uh yeah .
+
+dialogue type : s^arp
+D :  A part of it ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : h|s
+D :  Um It 's two times ,
+
+dialogue type : s^rt.%--
+D :  actually ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : h|s
+D :  Um . The English data No , the multilingual databases are two times the broad English data .
+
+dialogue type : s
+D :  We just wanted to keep this , w well , not too huge .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^aa
+D :  I think so .
+
+dialogue type : qy.%-
+D : 
+
+dialogue type : h|s^aa
+D :  Uh , Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Hmm ?
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : h|s
+D :  Uh , let me check .
+
+dialogue type : h
+D :  Uh .
+
+dialogue type : s^rt
+D :  So . This was for the PLP ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^rt
+D :  This is quite the same tendency , with a slight increase of the error rate , uh if we go to to TIMIT .
+
+dialogue type : s^rt
+D :  And then it 's it gets worse with the multilingual .
+
+dialogue type : h|s^bk
+D :  Um . Yeah .
+
+dialogue type : s^rt
+D :  There there is a difference actually with b between PLP and JRASTA
+
+dialogue type : s^rt
+D :  is that JRASTA seems to perform better with the highly mismatched condition but slightly slightly worse for the well matched condition .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^aa
+D :  Yeah , yeah .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^ar
+D :  Uh , no , no .
+
+dialogue type : qy^d^rt
+D :  Training on a single language , you mean ,
+
+dialogue type : qy^d^rt
+D :  and testing on the other one ?
+
+dialogue type : s^ar
+D :  Uh , no .
+
+dialogue type : s
+D :  So the only task that 's similar to this is the training on two languages ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : h|s^ar
+D :  Uh , No .
+
+dialogue type : s^rt
+D :  Either thi this is test with uh the same language but from the broad data ,
+
+dialogue type : s^rt
+D :  or it 's test with uh different languages
+
+dialogue type : s^e
+D :  also from the broad data ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  So , it 's it 's three or three and four .
+
+dialogue type : h|s^ar
+D :  Uh . No .
+
+dialogue type : qy^bu^d
+D :  You mean training digits on one language and using the net to recognize on the other ?
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : h|s^ar
+D :  Uh , No , I don't think so .
+
+dialogue type : %-
+D :  So .
+
+dialogue type : s^rt
+D :  So you have uh basically two uh parts .
+
+dialogue type : s^rt
+D :  The upper part is for TI - digits
+
+dialogue type : s^rt
+D :  and it 's divided in three rows of four four rows each .
+
+dialogue type : s^rt
+D :  And the first four rows is well - matched ,
+
+dialogue type : s^rt
+D :  then the s the second group of four rows is mismatched ,
+
+dialogue type : s^rt
+D :  and finally highly mismatched .
+
+dialogue type : s^rt
+D :  And then the lower part is for Italian
+
+dialogue type : s^rt
+D :  and it 's the same the same thing .
+
+dialogue type : s
+D :  So . It 's it 's the HTK results , I mean .
+
+dialogue type : s^rt
+D :  So it 's HTK training testings with different kind of features
+
+dialogue type : s
+D :  and what appears in the uh left column is the networks that are used for doing this .
+
+dialogue type : fh
+D :  So . Uh Yeah .
+
+dialogue type : s
+D :  It - It was part of these results .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : qy^d^rt
+D :  You mean the HTK Aurora baseline ?
+
+dialogue type : s
+D :  It 's uh the one hundred number .
+
+dialogue type : s
+D :  It 's , well , all these numbers are the ratio with respect to the baseline .
+
+dialogue type : s^na
+D :  Yeah , this is a word error rate ratio .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  So , seventy point two means that we reduced the error rate uh by thirty thirty percent .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^rt
+D :  To TIMIT .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^rt
+D :  Then you have uh MF , MS and ME
+
+dialogue type : s^rt
+D :  which are for French , Spanish and English .
+
+dialogue type : s.%--
+D :  And ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : s^rt
+D :  Actually I I uh forgot to say that the multilingual net are trained on uh features without the s derivatives
+
+dialogue type : s
+D :  uh but with increased frame numbers .
+
+dialogue type : b.%
+D :  Mmm .
+
+dialogue type : s
+D :  And we can we can see on the first line of the table that it it it 's slightly slightly worse when we don't use
+
+dialogue type : s
+D :  delta but it 's not not that much .
+
+dialogue type : s
+D :  So . Multi - French , Multi - Spanish , and Multi - English .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^m^na
+D :  Still poor .
+
+dialogue type : s^aa
+D :  Yeah . Yeah .
+
+dialogue type : s^na
+D :  No these are the s s s same noises ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : s.%--
+D :  At least at least for the first for the well - matched ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^rt
+D :  Yeah , so for the Italian the results are uh stranger
+
+dialogue type : fh
+D :  um Mmm .
+
+dialogue type : s^rt
+D :  So what appears is that perhaps Spanish is not very close to Italian
+
+dialogue type : s^df
+D :  because uh , well , when using the the network trained only on Spanish it 's the error rate is almost uh twice the baseline error rate .
+
+dialogue type : b
+D :  Mmm . Uh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  There there is another difference , is that the noise the noises are different .
+
+dialogue type : s^rt
+D :  Well , For for the Italian part I mean
+
+dialogue type : s^e
+D :  the uh the um networks are trained with noise from Aurora TI - digits ,
+
+dialogue type : b
+D :  mmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^cs^rt
+D :  And perhaps the noise are quite different from the noises in the speech that Italian .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^ar
+D :  no ,
+
+dialogue type : s
+D :  the third part ,
+
+dialogue type : s
+D :  so it 's uh highly mismatched .
+
+dialogue type : s
+D :  So . Training and test noise are different .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah . Yeah .
+
+dialogue type : s^aa|s^arp
+D :  Yeah . But it 's not a clean case .
+
+dialogue type : s^rt
+D :  It 's a noisy case
+
+dialogue type : s
+D :  but uh training and test noises are the same .
+
+dialogue type : s^aa
+D :  So Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^rt
+D :  So it 's always noisy basically ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^ar
+D :  Uh , no we don't plan to fill the holes
+
+dialogue type : s^rt
+D :  but actually there is something important ,
+
+dialogue type : s^rt
+D :  is that um we made a lot of assumption concerning the on - line normalization
+
+dialogue type : s
+D :  and we just noticed uh recently that uh the approach that we were using was not uh leading to very good results when we used the straight features to HTK .
+
+dialogue type : fh
+D :  Um Mmm .
+
+dialogue type : s.%--
+D :  So basically d if you look at the at the left of the table , the first uh row , with eighty - six , one hundred , and forty - three and seventy - five ,
+
+dialogue type : s
+D :  these are the results we obtained for Italian uh with straight mmm , PLP features using on - line normalization .
+
+dialogue type : s^rt
+D :  Mmm . And the , mmm what 's in the table , just at the left of the PLP twelve on - line normalization column ,
+
+dialogue type : s
+D :  so , the numbers seventy - nine , fifty - four and uh forty - two are the results obtained by uh Pratibha with uh his on - line normalization uh her on - line normalization approach .
+
+dialogue type : %-
+D :  So .
+
+dialogue type : s.%--
+D :  Just uh
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  So these are the results of OGI with on - line normalization
+
+dialogue type : s^rt
+D :  and straight features to HTK .
+
+dialogue type : s
+D :  And the previous result , eighty - six and so on , are with our features straight to HTK .
+
+dialogue type : s^rt
+D :  So what we see that is there is that um uh the way we were doing this was not correct ,
+
+dialogue type : sj^df
+D :  but still the networks are very good .
+
+dialogue type : s^e
+D :  When we use the networks our number are better that uh Pratibha results .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^rt
+D :  There were diff there were different things
+
+dialogue type : s^rt
+D :  and basically , the first thing is the mmm , alpha uh value .
+
+dialogue type : s^rt.%--
+D :  So , the recursion uh part .
+
+dialogue type : s^rt
+D :  um , I used point five percent , which was the default value in the in the programs here .
+
+dialogue type : s
+D :  And Pratibha used five percent .
+
+dialogue type : s^rt
+D :  So it adapts more quickly
+
+dialogue type : s.%--
+D :  Um , but ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : s^rt
+D :  I assume that this was not important because uh previous results from from Dan and show that basically the both both values g give the same same uh results .
+
+dialogue type : s^rt
+D :  It was true on uh TI - digits but it 's not true on Italian .
+
+dialogue type : s^rt
+D :  Uh , second thing is the initialization of the stuff .
+
+dialogue type : s^rt
+D :  Actually , uh what we were doing is to start the recursion from the beginning of the utterance .
+
+dialogue type : s
+D :  And using initial values that are the global mean and variances measured across the whole database .
+
+dialogue type : s
+D :  And Pratibha did something different is
+
+dialogue type : s
+D :  that he uh she initialed the um values of the mean and variance by computing this on the twenty - five first frames of each utterance .
+
+dialogue type : s^rt
+D :  Mmm . There were other minor differences ,
+
+dialogue type : s^rt
+D :  the fact that she used fifteen dissities instead s instead of thirteen ,
+
+dialogue type : s
+D :  and that she used C - zero instead of log energy .
+
+dialogue type : s
+D :  Uh , but the main differences concerns the recursion .
+
+dialogue type : s^rt
+D :  So . Uh , I changed the code
+
+dialogue type : s
+D :  uh and now we have a baseline that 's similar to the OGI baseline .
+
+dialogue type : s^rt
+D :  We It it 's slightly uh different
+
+dialogue type : s^rt
+D :  because I don't exactly initialize the same way she does .
+
+dialogue type : s
+D :  Actually I start , mmm , I don't wait to a fifteen twenty - five twenty - five frames before computing a mean and the variance to e to to start the recursion .
+
+dialogue type : s
+D :  I I use the on - line scheme
+
+dialogue type : s
+D :  and only start the re recursion after the twenty - five twenty - fifth frame .
+
+dialogue type : s^rt
+D :  But , well it 's similar .
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  well , the the the networks are retaining with these new features .
+
+dialogue type : fh
+D :  And ,
+
+dialogue type : fh
+D :  yeah .
+
+dialogue type : s
+D :  So basically what I expect is that these numbers will a little bit go down
+
+dialogue type : s
+D :  but perhaps not not so much
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  even if the features are not normalized . It it will learn how to normalize
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%-
+D :  Yeah I
+
+dialogue type : s^ar
+D :  No ,
+
+dialogue type : s
+D :  I we plan to start this
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  what we could do more as a as a research
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Uh , well , there is basically perhaps a flaw in the in the the stuff
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D :  If we trained the networks on the on a language and a t or a specific task ,
+
+dialogue type : s^rt
+D :  um , what we ask is to the network is to put the bound the decision boundaries somewhere in the space .
+
+dialogue type : s^rt
+D :  And uh mmm and ask the network to put one , at one side of the for for a particular phoneme at one side of the boundary decision boundary
+
+dialogue type : s^rt
+D :  and one for another phoneme at the other side .
+
+dialogue type : s
+D :  And so there is kind of reduction of the information there that 's not correct
+
+dialogue type : s^df
+D :  because if we change task and if the phonemes are not in the same context in the new task , obviously the decision boundaries are not should not be at the same place .
+
+dialogue type : s
+D :  But the way the feature gives The the way the network gives the features is that it reduce completely the it removes completely the information a lot of information from the the features by uh uh placing the decision boundaries at optimal places for one kind of data
+
+dialogue type : s
+D :  but this is not the case for another kind of data .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^cs
+D :  So uh what we were thinking about is perhaps um one way to solve this problem is increase the number of outputs of the neural networks .
+
+dialogue type : s^e.%--
+D :  Doing something like , um um phonemes within context and ,
+
+dialogue type : s
+D :  well , basically context dependent phonemes .
+
+dialogue type : s^aa|s^arp.%-
+D : 
+
+dialogue type : s^aa|s^arp
+D :  Ye - yeah but here it 's something different .
+
+dialogue type : s^e
+D :  We want to have features
+
+dialogue type : fh
+D :  uh well , um .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa|s.%--
+D : 
+
+dialogue type : s^rt
+D :  the way we we do it now is that we have a neural network
+
+dialogue type : s
+D :  and basically the net network is trained almost to give binary decisions .
+
+dialogue type : s^e
+D :  And uh binary decisions about phonemes .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah , sure
+
+dialogue type : s.%--
+D :  but
+
+dialogue type : h|s^rt
+D :  uh So basically it 's almost binary decisions
+
+dialogue type : s
+D :  and um the idea of using more classes is to get something that 's less binary decisions .
+
+dialogue type : s^arp.%-
+D : 
+
+dialogue type : s^arp.%-
+D : 
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^arp.%-
+D : 
+
+dialogue type : s^am
+D :  Yeah , perhaps you 're right ,
+
+dialogue type : s^arp^df
+D :  but you have more classes
+
+dialogue type : s
+D :  so you you have more information in your features .
+
+dialogue type : s^e
+D :  So , Um You have more information in the uh
+
+dialogue type : s^bsc.%--
+D :  posteriors vector
+
+dialogue type : fh
+D :  um
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^df
+D :  But still the information is relevant
+
+dialogue type : s^rt
+D :  because it 's it 's information that helps to discriminate ,
+
+dialogue type : s
+D :  if it 's possible to be able to discriminate among the phonemes in context .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s.%-
+D :  N
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : s
+D :  Uh so there is this combination ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : s^rt
+D :  Working on combination obviously .
+
+dialogue type : s^rt
+D :  Um , I will start work on multi - band .
+
+dialogue type : s
+D :  And we plan to work also on the idea of using both features and net outputs .
+
+dialogue type : fh|s
+D :  Um . And we think that with this approach perhaps we could reduce the number of outputs of the neural network .
+
+dialogue type : s^rt
+D :  Um , So , get simpler networks ,
+
+dialogue type : s^rt
+D :  because we still have the features .
+
+dialogue type : s^rt
+D :  So we have um come up with um different kind of broad phonetic categories .
+
+dialogue type : s^rt
+D :  And we have Basically we have three types of broad phonetic classes .
+
+dialogue type : s
+D :  Well , something using place of articulation
+
+dialogue type : s^rt
+D :  which which leads to nine , I think , broad classes .
+
+dialogue type : s
+D :  Uh , another which is based on manner ,
+
+dialogue type : s^rt
+D :  which is is also something like nine classes .
+
+dialogue type : s^rt
+D :  And then , something that combine both ,
+
+dialogue type : qy^d^rt
+D :  and we have twenty f twenty - five ?
+
+dialogue type : s^m
+D :  Twenty - seven broad classes .
+
+dialogue type : s.%--
+D :  So like , uh ,
+
+dialogue type : s^no
+D :  oh , I don't know ,
+
+dialogue type : s.%--
+D :  like back vowels , front vowels .
+
+dialogue type : s
+D :  Um For the moments we do not don't have nets ,
+
+dialogue type : s^df^rt
+D :  I mean , It 's just Were we just changing the labels to retrain nets with fewer out outputs .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  It - It 's the single net ,
+
+dialogue type : s^aa
+D :  yeah .
+
+dialogue type : s^bs
+D :  It 's one net with um twenty - seven outputs
+
+dialogue type : s
+D :  if we have twenty - seven classes ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : s^rt
+D :  So it 's Well , it 's basically a standard net with fewer classes .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^arp.%--
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa^m
+D :  B b including the features , yeah .
+
+dialogue type : sj
+D :  I don't think this will work alone .
+
+dialogue type : sj
+D :  I think it will get worse
+
+dialogue type : s^df
+D :  because Well , I believe the effect that of of too reducing too much the information is basically basically what happens
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : fg
+D :  Yeah ,
+
+dialogue type : s^rt
+D :  because there is perhaps one important thing that the net brings ,
+
+dialogue type : s^rt
+D :  and OGI show showed that , is the distinction between sp speech and silence
+
+dialogue type : s^rt
+D :  Because these nets are trained on well - controlled condition .
+
+dialogue type : s
+D :  I mean the labels are obtained on clean speech , and we add noise after .
+
+dialogue type : s^rt
+D :  So this is one thing
+
+dialogue type : fh
+D :  And
+
+dialogue type : s^cs^rt
+D :  But perhaps , something intermediary using also some broad classes could could bring so much more information .
+
+dialogue type : fh
+D :  Uh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s.%-
+D :  There will probably be ,
+
+dialogue type : s^aa
+D :  yeah ,
+
+dialogue type : s
+D :  one single KL to transform everything
+
+dialogue type : s.%-
+D :  or uh ,
+
+dialogue type : %-
+D :  per
+
+dialogue type : s.%--
+D :  This is still something that
+
+dialogue type : b
+D :  yeah ,
+
+dialogue type : s^no.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Uh , yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : h|s^ar
+D :  Uh , no . I don't think so .
+
+dialogue type : s
+D :  Yeah , I have one .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s
+D :  The features ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^no
+D :  Yeah , I don't know .
+
+dialogue type : s
+D :  I think I think it 's the C - zero using C - zero instead of log energy .
+
+dialogue type : s
+D :  Yeah , it 's this .
+
+dialogue type : s
+D :  It should be that ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : %-
+D :  i
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s
+D :  Yeah , you can basically remove the the frames from the feature feature files .
+
+dialogue type : %-
+D :  I t
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  I think we 're alright ,
+
+dialogue type : s
+D :  um , not much problems with that .
+
+dialogue type : s
+D :  It 's OK .
+
+dialogue type : s^bsc
+D :  Well this table took uh more than five days to get back .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^ar
+D :  Mmm , no .
+
+dialogue type : qy^d^rt
+D :  You were using Gin perhaps ,
+
+dialogue type : b.%
+D :  yeah ?
+
+dialogue type : s
+D :  No .
+
+dialogue type : b
+D :  Hmm . Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : qy^bu^d^g^rt
+D :  For HTK ?
+
+dialogue type : h|s
+D :  Uh Training is longer .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Yeah .
+

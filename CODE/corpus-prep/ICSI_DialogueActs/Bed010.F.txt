@@ -1,0 +1,72 @@
+dialogue type : qw^t3
+F :  Why
+
+dialogue type : s.%-
+F :  This was like
+
+dialogue type : s
+F :  Looks a little bit like Reichenbach for time .
+
+dialogue type : s^aa^m
+F :  It 's a lot like it .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : qy^bu^d^rt
+F :  Because it 's within reach now ?
+
+dialogue type : s^fe
+F :  Oh . Wow .
+
+dialogue type : qw
+F :  W what does it feel like ?
+
+dialogue type : qy^d^j^rt
+F :  You don't have a hidden purist streak ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^df
+F :  Just checking .
+
+dialogue type : s^j
+F :  I have a problem , then .
+
+dialogue type : sj^j
+F :  It 's So . Whether I do depends on whether I 'm talking to him or him probably .
+
+dialogue type : s^e
+F :  Which meeting I 'm in .
+
+dialogue type : s^2^j
+F :  It 's OK to be purist within that context .
+
+dialogue type : s^bk
+F :  Yes ,
+
+dialogue type : sj^ba
+F :  good .
+
+dialogue type : b.%
+F :  Yay .
+
+dialogue type : fg|sj
+F :  Yeah , I thought it had to be a joke , of your part , you know
+
+dialogue type : s^j
+F :  like " Johno made it up ,
+
+dialogue type : sj.%
+F :  I 'm sure . "
+
+dialogue type : qy^bu^d^rt
+F :  Someone from the class ?
+
+dialogue type : sj.%-
+F : 
+
+dialogue type : s^ba
+F :  It 's interesting .
+

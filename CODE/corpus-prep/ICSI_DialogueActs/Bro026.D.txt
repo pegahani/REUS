@@ -1,0 +1,309 @@
+dialogue type : s^aa
+D :  Oh , yeah .
+
+dialogue type : s^aa^r
+D :  Yeah .
+
+dialogue type : s
+D :  It 's it 's it 's it was updated yesterday ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : sj^ng.%-
+D : 
+
+dialogue type : fg|sj
+D :  Yeah , I I don't think anybody up there is like working on it right now .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa^m
+D :  Yeah .
+
+dialogue type : s
+D :  So right now nobody 's working on Aurora there .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^cs
+D :  I can actually do it
+
+dialogue type : s^cs.%-
+D : 
+
+dialogue type : s^ar
+D :  No , I didn't .
+
+dialogue type : s^cc
+D :  So I I 'll try it today .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Oh .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s
+D :  Second .
+
+dialogue type : s
+D :  And th the ranking actually didn't change after the German and Danish .
+
+dialogue type : fh
+D :  So , yeah .
+
+dialogue type : b^rt
+D :  Yeah .
+
+dialogue type : b^rt
+D :  Yeah .
+
+dialogue type : b^rt
+D :  Yeah , yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  Their their first system is fifty - four point something .
+
+dialogue type : s
+D :  And , uh , we are fifty - three point something .
+
+dialogue type : s
+D :  And their second system is also fifty - three point something .
+
+dialogue type : s^aa^m
+D :  Yeah , one percent .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Well , it it it it so it actually makes it dependent on the overall energy of the uh , the frame .
+
+dialogue type : s
+D :  If yo if you don't normalize and if if you don't normalize .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^ar|s^df
+D :  No , I guess the VAD has its own set of features .
+
+dialogue type : s
+D :  I mean , which could be this one of these streams , or it can be something derived from these streams .
+
+dialogue type : s^aa|s
+D : 
+
+dialogue type : s.%-
+D :  Well , it has t I mean the th
+
+dialogue type : s^aa|s^e
+D :  Yeah , if it has to fit the delays and all this stuff .
+
+dialogue type : s^aa^rt
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^cc
+D :  So , I 'll , um I 'll actually after the meeting I 'll add the second stream to the VAD and maybe I 'll start with the feature net in that case .
+
+dialogue type : s
+D :  It 's like , you 're looking at the VAD ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : %-
+D : 
+
+dialogue type : qy^bu^d^rt
+D :  For the VAD ?
+
+dialogue type : qy^bu^d^rt
+D :  Oh , you already have it ?
+
+dialogue type : s^bk|s^bu
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah , yeah .
+
+dialogue type : s^na
+D :  Yeah , th I I guess it 's almost ready .
+
+dialogue type : fh
+D : 
+
+dialogue type : %--
+D : 
+
+dialogue type : s^rt
+D :  So they have released their , uh , document , describing the system .
+
+dialogue type : s^bk
+D :  Sure .
+
+dialogue type : s^nd
+D :  It - no , it 's just downloadable from their from their web site .
+
+dialogue type : s^cc
+D :  So I 'll point you to the web site and the mails corresponding .
+
+dialogue type : %-
+D :  So I
+
+dialogue type : sj
+D :  Uh , I I think they are still , uh , tuning something on that .
+
+dialogue type : s
+D :  So they 're like , d they 're varying different parameters like the insertion penalty and other stuff , and then seeing what 's the performance .
+
+dialogue type : h|s
+D :  Uh , w I guess there is , uh , time during which people are gonna make suggestions .
+
+dialogue type : s^bc
+D :  After that .
+
+dialogue type : s^am
+D :  Yeah , I guess .
+
+dialogue type : fg|s.%--
+D : 
+
+dialogue type : %-
+D :  b
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : qy^2^d^rt
+D :  The Wall Street ?
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  It 's , uh It 's like a medium medium - mismatch condition , sort of .
+
+dialogue type : h|s
+D :  Um , I guess I guess one some preliminary version is already there .
+
+dialogue type : s^aa|s
+D :  Yeah , it 's already there .
+
+dialogue type : s^aa^r
+D :  Yeah .
+
+dialogue type : s^e
+D :  But they 're actually parallel - y doing some modifications also , I think .
+
+dialogue type : s
+D :  So I guess the f final system will be frozen by middle of , like , one more week maybe .
+
+dialogue type : s^na
+D :  Yeah , that 's just one more .
+
+dialogue type : s^ng
+D :  No , it 's just a straightforward HMM .
+
+dialogue type : s
+D :  It 's just a HMM , Gaussian mixture model .
+
+dialogue type : s^na.%-
+D :  Yeah , this is a g
+
+dialogue type : s.%-
+D :  yeah , this i
+
+dialogue type : s^aa
+D :  yeah .
+
+dialogue type : s^na
+D :  I I I think yeah , I I guess something like that .
+
+dialogue type : s
+D :  It 's like as painless as possible ,
+
+dialogue type : qy^d^rt.%--
+D :  is what Do they provide all the scripts , everything , and then Just ,
+
+dialogue type : s^aa
+D :  ju Yeah , I th I think .
+
+dialogue type : qy^rt
+D :  So sh shall we , like , add Chuck also to the mailing lists ?
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : s
+D :  Because there 's a mailing list for this .
+
+dialogue type : s
+D :  Yeah , I guess maybe Hari or Hynek , one of them , has to send a mail to Joe .
+
+dialogue type : s^cs.%-
+D : 
+
+dialogue type : s.%-
+D :  Well , yeah , to add or maybe wh
+
+dialogue type : s
+D :  Yeah , so that 's just fine .
+
+dialogue type : fg
+D : 
+
+dialogue type : fg
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  And there is an , uh , archive of all the mails that has been gon that has gone , uh , between these people among these people .
+
+dialogue type : s
+D : 
+
+dialogue type : s^e
+D :  Mississippi web site .
+
+dialogue type : s^aa|s
+D :  Yeah , it 's password protected .
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Yeah .
+

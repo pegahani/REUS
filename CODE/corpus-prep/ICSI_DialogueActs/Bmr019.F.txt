@@ -1,0 +1,1392 @@
+dialogue type : %-
+F :  C we
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^cs
+F :  We should do that second ,
+
+dialogue type : s^df
+F :  because Liz might join us in time for that .
+
+dialogue type : s
+F :  Talk about aligning people 's schedules .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^ba
+F :  It 's pretty sad .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^ar|s
+F :  No , actually I I have to I have to shuttle kids from various places to various other places .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s
+F :  And I don't have and I don't , um , have a cell phone
+
+dialogue type : s
+F :  so I can't be having a conference call while driving .
+
+dialogue type : s
+F :  Plus , it would make for interesting noise background noise .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^aa^j
+F :  Oh , yeah .
+
+dialogue type : s^aa
+F :  Oh , yeah .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^j
+F :  I let , uh , my five - year - old have a try at the digits ,
+
+dialogue type : fh
+F :  eh .
+
+dialogue type : s^aa
+F :  Exactly .
+
+dialogue type : qy^rt
+F :  D do the lapel mikes have any directionality to them ?
+
+dialogue type : s^df
+F :  Because I I suppose you could make some that have sort of that you have to orient towards your mouth ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  It
+
+dialogue type : s.%--
+F : 
+
+dialogue type : qy^rt
+F :  Di - did I send you some results without adaptation ?
+
+dialogue type : s^df
+F :  Yeah , I think I did , actually .
+
+dialogue type : s
+F :  So there was a significant loss from not doing the adaptation .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : s.%--
+F :  A a a couple percent or some
+
+dialogue type : %--
+F : 
+
+dialogue type : %--
+F : 
+
+dialogue type : s^no
+F :  Uh , I I don't remember ,
+
+dialogue type : s
+F :  but there was there was a significant , um , loss or win from adaptation with with adaptation .
+
+dialogue type : fh
+F :  And , um ,
+
+dialogue type : s
+F :  that was the phone - loop adaptation .
+
+dialogue type : s
+F :  And then there was a very small like point one percent on the natives uh , win from doing , um , you know , adaptation to the recognition hypotheses .
+
+dialogue type : s
+F :  And I tried both means adaptation and means and variances ,
+
+dialogue type : s
+F :  and the variances added another or subtracted another point one percent .
+
+dialogue type : s
+F :  So , it 's , um that 's the number there .
+
+dialogue type : s
+F :  Point six , I believe , is what you get with both , uh , means and variance adaptation .
+
+dialogue type : qw^br
+F :  This exact same recognizer ?
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s
+F :  But but , I have I mean , people people at SRI are actually working on digits .
+
+dialogue type : s
+F :  I could and they are using a system that 's , um you know , h is actually trained on digits ,
+
+dialogue type : s^df
+F :  um , but h h otherwise uses the same , you know , decoder , the same , uh , training methods , and so forth ,
+
+dialogue type : s^cs
+F :  and I could ask them what they get on TI - digits .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  Well , Adam knows how to run it ,
+
+dialogue type : s.%-
+F :  so you just make a f
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg
+F :  Well .
+
+dialogue type : s
+F :  But remember , we 're using a telephone bandwidth front - end here , uh , on this , uh on this SRI system ,
+
+dialogue type : s
+F :  so , um , I was I thought that maybe that 's actually a good thing
+
+dialogue type : s^rt
+F :  because it it gets rid of some of the uh , the noises ,
+
+dialogue type : s^e
+F :  um , you know , in the the below and above the um , the , you know , speech bandwidth
+
+dialogue type : fh
+F :  and , um ,
+
+dialogue type : s
+F :  I suspect that to get sort of the last bit out of these higher - quality recordings you would have to in fact , uh , use models that , uh , were trained on wider - band data .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fh
+F :  Yeah .
+
+dialogue type : s
+F :  It 's it 's easy enough to try ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : %-
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  one issue with with that is that um , the system has this , uh , notion of a speaker to which is used in adaptation , variance norm uh , you know , both in , uh , mean and variance normalization
+
+dialogue type : s
+F :  and also in the VTL estimation .
+
+dialogue type : fh
+F : 
+
+dialogue type : %-
+F :  Do y ?
+
+dialogue type : %-
+F :  Is ?
+
+dialogue type : qy^rt
+F :  So does so th so does does , um , the TI - digits database have speakers that are known ?
+
+dialogue type : qy^rt
+F :  And is there is there enough data or a comparable comparable amount of data to to what we have in our recordings here ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk|s^df^ng
+F :  Right . Uh , but I 'm not so much worried about the adaptation , actually , than than the , um , um the , uh , VTL estimation .
+
+dialogue type : s^e
+F :  If you have only one utterance per speaker you might actually screw up on estimating the the warping , uh , factor .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^bk|s^nd
+F :  Right . But it 's not the amount of speakers ,
+
+dialogue type : s^e
+F :  it 's the num it 's the amount of data per speaker .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : fh
+F : 
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  So th the system actually extracts the speaker ID from the waveform names .
+
+dialogue type : s
+F :  And there 's a there 's a script and that is actually all in one script .
+
+dialogue type : s
+F :  So there 's this one script that parses waveform names
+
+dialogue type : s
+F :  and extracts things like the , um , speaker , uh , ID
+
+dialogue type : s^e
+F :  or something that can stand in as a speaker ID .
+
+dialogue type : s^cs
+F :  So , we might have to modify that script to recognize the , um , speakers , um , in the in the , uh , um , TI - digits database .
+
+dialogue type : s^cs
+F :  Or you can fake you can fake names for these waveforms that resemble the names that we use here for the for the meetings .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s
+F :  By the way , I think we can improve these numbers if we care to compr improve them by , um , not starting with the Switchboard models but by taking the Switchboard models and doing supervised adaptation on a small amount of digit data collected in this setting .
+
+dialogue type : s^df
+F :  Because that would adapt your models to the room acoustics
+
+dialogue type : s^df^e
+F :  and f for the far - field microphones , you know , to the noise .
+
+dialogue type : s
+F :  And that should really improve things , um , further .
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  use that as the starting models for your speaker adaptation .
+
+dialogue type : s^ng^no
+F :  Well , I don't know .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s
+F :  Um , but , you know , I uh , my impression was that you were actually interested in the far - field microphone , uh , problem ,
+
+dialogue type : %--
+F :  I mean .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s
+F :  you want to you want to That 's the obvious thing to try .
+
+dialogue type : qy^d^f^g
+F :  Right ?
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : s
+F :  That 's where the most m acoustic mismatch is between the currently used models and the the r the set up here .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qh^bk.%
+F :  It is ?
+
+dialogue type : fh.%
+F :  Uh .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^df
+F :  I I already adjusted this a number of times .
+
+dialogue type : %-
+F :  I I
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa|s^na
+F :  Yeah , I think this contraption around your head is not working so well .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg|s
+F :  Yeah , basically your ears are too big .
+
+dialogue type : s^bd
+F :  I mean , mine are too .
+
+dialogue type : s^bd^e
+F :  E th everybody 's ears are too big for these things .
+
+dialogue type : fh
+F : 
+
+dialogue type : qw^rt.%-
+F :  What k u By the way , wh what factor of two did you ?
+
+dialogue type : %--
+F : 
+
+dialogue type : s^bk
+F :  Oh , th OK .
+
+dialogue type : s
+F :  That factor of two .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^cs
+F :  You want to probably choose the PZM channel that is closest to the speaker .
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qw
+F :  So so , but where is this now ?
+
+dialogue type : qw^e
+F :  I mean , what 's where do we go from here ?
+
+dialogue type : %--
+F :  I mean ,
+
+dialogue type : s
+F :  we so we have a we have a a system that works pretty well
+
+dialogue type : s
+F :  but it 's not , you know , the system that people here are used to using to working with .
+
+dialogue type : qw
+F :  So what what do we do now ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  OK . Alright .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bu
+F :  So so the key thing that 's missing here is basically the ability to feed , you know , other features i into the recognizer
+
+dialogue type : s^bu^e
+F :  and also then to train the system .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^no
+F :  And , uh , es I don't know when Chuck will be back
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : fg|s
+F :  So , I think that 's one of the things that he said he would be working on .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : s
+F :  Just sort of t to make sure that we can do that
+
+dialogue type : fh
+F :  and Um .
+
+dialogue type : s
+F :  It 's uh , I mean , the the front - end is f i tha that 's in the SRI recognizer is very nice in that it does a lot of things on the fly
+
+dialogue type : s^df
+F :  but it unfortunately is not designed and , um like the , uh , ICSI system is , where you can feed it from a pipeline of of the command .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  you know , if you want to use some new features , you have to dump them into individual files
+
+dialogue type : s
+F :  and give those files to the recognizer .
+
+dialogue type : s^bk^rt
+F :  OK .
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : s^bk
+F :  Alright .
+
+dialogue type : fg|s
+F :  Yeah , the the the cumbersome thing is is , um is that you actually have to dump out little little files .
+
+dialogue type : s
+F :  So for each segment that you want to recognize you have to dump out a separate file .
+
+dialogue type : s
+F :  Just like i th like th as if there were these waveform segments ,
+
+dialogue type : s
+F :  but instead you have sort of feature file segments .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^ba
+F :  So that 's actually interesting .
+
+dialogue type : s
+F :  The pruning was the same value that we used for recognition .
+
+dialogue type : s
+F :  And we had lowered that we had used tighter pruning after Liz ran some experiments showing that , you know , it runs slower
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s
+F :  So for free recognition , this the lower pruning value is better .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^aa
+F :  Correct .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : fg|s
+F :  Um , but it turned out for for to get accurate alignments it was really important to open up the pruning significantly .
+
+dialogue type : fh|s^df
+F :  Um because otherwise it would sort of do greedy alignment , um , in regions where there was no real speech yet from the foreground speaker .
+
+dialogue type : s
+F :  Um , so that was one big factor that helped improve things
+
+dialogue type : s.%--
+F :  and then the other thing was that ,
+
+dialogue type : s
+F :  you know , as Liz said the we f enforce the fact that , uh , the foreground speech has to be continuous .
+
+dialogue type : s^e
+F :  It cannot be you cannot have a background speech hypothesis in the middle of the foreground speech .
+
+dialogue type : s^e
+F :  You can only have background speech at the beginning and the end .
+
+dialogue type : fg
+F : 
+
+dialogue type : fg|%-
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  so we have a reject phone .
+
+dialogue type : s
+F :  And you and what we wanted to try with you know , once we have this paper written and have a little more time , uh , t cloning that reject model
+
+dialogue type : s
+F :  and then one copy of it would be adapted to the foreground speaker to capture the rejects in the foreground ,
+
+dialogue type : s^e
+F :  like fragments and stuff ,
+
+dialogue type : s
+F :  and the other copy would be adapted to the background speaker .
+
+dialogue type : %-
+F : 
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : %-
+F :  We w
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : s^rt
+F :  We it 's straightforward to actually just have a a penalty that doesn't completely disallows it but discourages it .
+
+dialogue type : s^df
+F :  But , um , we just didn't have time to play with , you know , tuning yet another yet another parameter .
+
+dialogue type : s
+F :  And really the reason we can't do it is just that we don't have a we don't have ground truth for these .
+
+dialogue type : s^cs
+F :  So , we would need a hand - marked , um , word - level alignments
+
+dialogue type : s^cs^e
+F :  or at least sort of the boundaries of the speech betw you know , between the speakers .
+
+dialogue type : fh|s
+F :  Um , and then use that as a reference
+
+dialogue type : s
+F :  and tune the parameters of the of the model , uh , to op to get the best performance .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  We don't care what what tool you use .
+
+dialogue type : %-
+F : 
+
+dialogue type : fg|s
+F :  Yeah , whatever you use .
+
+dialogue type : s
+F :  I mean , we convert it to this format that the , um , NIST scoring tool unders uh , CTM . Conversation Time - Marked file .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : s^nd
+F :  Actually , not randomly .
+
+dialogue type : s^df
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : fg
+F :  Well ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^ar|s
+F :  No . I think it 's actually I think what 's going on is backchannelling is something that happens in two - party conversations .
+
+dialogue type : s^e
+F :  And if you ask someone a question , you essentially initiating a little two - party conversation .
+
+dialogue type : s
+F :  So then you 're so and then you 're expected to backchannel
+
+dialogue type : s^df
+F :  because the person is addressing you directly and not everybody .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^e
+F :  And
+
+dialogue type : s
+F :  It 's the it 's the spurt format .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : s^cs.%-
+F : 
+
+dialogue type : fh
+F :  Uh .
+
+dialogue type : %-
+F :  So s
+
+dialogue type : %-
+F :  W uh , w
+
+dialogue type : %-
+F :  We
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^bd^df
+F :  uh , this this is just maybe someone has s some some ideas about how to do it better ,
+
+dialogue type : s
+F :  but we So we 're taking these , uh , alignments from the individual channels .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  from each alignment we 're producing , uh , one of these CTM files ,
+
+dialogue type : s
+F :  which essentially has it 's just a linear sequence of words with the begin times for every word and the duration .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa|s
+F :  Right . But it has one the first column has the meeting name ,
+
+dialogue type : s
+F :  so it could actually contain several meetings .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : s
+F :  And the second column is the channel .
+
+dialogue type : s
+F :  Third column is the , um , start times of the words and the fourth column is the duration of the words .
+
+dialogue type : s.%--
+F :  And then we 're ,
+
+dialogue type : fh
+F : 
+
+dialogue type : fg|s
+F :  OK . Then we have a messy alignment process where we actually insert into the sequence of words the , uh , tags
+
+dialogue type : s^e
+F :  for , like , where where sentence ends of sentence ,
+
+dialogue type : s^e
+F :  question marks ,
+
+dialogue type : fh|s^e
+F :  um , various other things .
+
+dialogue type : fh
+F :  Uh .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s
+F :  So so those are actually sort of retro - fitted into the time alignment .
+
+dialogue type : s
+F :  And then we merge all the alignments from the various channels
+
+dialogue type : s
+F :  and we sort them by time .
+
+dialogue type : s
+F :  And then there 's a then there 's a process where you now determine the spurts .
+
+dialogue type : s
+F :  That is Actually , no , you do that before you merge the various channels .
+
+dialogue type : s
+F :  So you you id identify by some criterion ,
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  you identify the beginnings and ends of these spurts ,
+
+dialogue type : s
+F :  and you put another set of tags in there to keep those straight .
+
+dialogue type : s
+F :  And then you merge everything in terms of , you know , linearizing the sequence based on the time marks .
+
+dialogue type : s
+F :  And then you extract the individual channels again ,
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  you know , where their spurts start and end .
+
+dialogue type : s
+F :  And so you extract the individual channels , uh , one sp spurt by spurt as it were .
+
+dialogue type : s
+F :  Um , and inside the words or between the words you now have begin and end tags for overlaps .
+
+dialogue type : s
+F :  So , you you basically have everything sort of lined up and in a form where you can look at the individual speakers and how their speech relates to the other speakers ' speech .
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : fg
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : %-
+F : 
+
+dialogue type : b.%
+F :  Right .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  Well , there 's lots of little things .
+
+dialogue type : s
+F :  It 's like there 're twelve different scripts which you run
+
+dialogue type : s
+F :  and then at the end you have what you want .
+
+dialogue type : fh
+F :  But , um ,
+
+dialogue type : s
+F :  at the very last stage we throw away the actual time information .
+
+dialogue type : s
+F :  All we care about is whether that there 's a certain word was overlapped by someone else 's word .
+
+dialogue type : s
+F :  So you sort of at that point , you discretize things into just having overlap or no overlap .
+
+dialogue type : s^df
+F :  Because we figure that 's about the level of analysis that we want to do for this paper .
+
+dialogue type : s:qw
+F :  But if you wanted to do a more fine - grained analysis and say , you know , how far into the word is the overlap , you could do that .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F : 
+
+dialogue type : b.x
+F :  Right .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s.%-
+F :  Plus , mayb
+
+dialogue type : s.%--
+F :  I don't know , m
+
+dialogue type : s^rt
+F :  I mean , u u Jane likes to look at data .
+
+dialogue type : s^cs
+F :  Maybe , you know , you could you could look at this format and see if you find anything interesting .
+
+dialogue type : s^bd^no
+F :  I don't know .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : s
+F :  Well th th the other thing that that that yo that you usually don't tell your graduate students is that these deadlines are actually not that , um , you know , strictly enforced ,
+
+dialogue type : s^df.%-
+F : 
+
+dialogue type : s^df.%-
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^df
+F :  i Because these the conference organizers actually have an interest in getting lots of submissions .
+
+dialogue type : s
+F :  I mean , a a monetary interest .
+
+dialogue type : fh
+F :  So Um .
+
+dialogue type : s.%-
+F :  And good submission
+
+dialogue type : b
+F :  Right .
+
+dialogue type : %-
+F : 
+
+dialogue type : s
+F :  That 's another issue ,
+
+dialogue type : fh
+F : 
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^cs
+F :  Maybe you can submit the digits paper on e for the Aurora session .
+
+dialogue type : s^aap
+F :  Yeah .
+
+dialogue type : s.%--
+F :  But but the people I mean ,
+
+dialogue type : s
+F :  a a paper that is not on Aurora would probably be more interesting at that point
+
+dialogue type : s^df
+F :  because everybody 's so sick and tired of the Aurora task .
+
+dialogue type : s^cs^df
+F :  Well , no . If you if you have it 's to if you discuss some relation to the Aurora task ,
+
+dialogue type : s^cs^e.%-
+F : 
+
+dialogue type : fh.%
+F :  Um .
+
+dialogue type : s
+F :  Well , a relation other than negation , maybe ,
+
+dialogue type : fh
+F :  um .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^bd^no
+F :  I don't know .
+
+dialogue type : qo^cs
+F :  How well does an Aurora system do on on you know , on digits collected in a in this environment ?
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^bk^m
+F :  Maybe .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  Well , that 's maybe why they don't f know that they have a crummy system .
+
+dialogue type : s^e
+F :  I mean , a crummy back - end .
+
+dialogue type : s^df
+F :  No , I mean I mean , seriously ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^df
+F :  No , I 'm sorry .
+
+dialogue type : s^df
+F :  No . I didn't mean anybody any particular system .
+
+dialogue type : s^e
+F :  I meant this H T K back - end .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^no
+F :  I don't h I don't have any stock in HTK or Entropic or anything .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^cs
+F :  But so , if you But maybe you should , you know , consider more using more data ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^bk.%
+F :  OK .
+
+dialogue type : s^fe
+F :  Whew !
+
+dialogue type : s
+F :  Actually this this , um So , there 's another paper .
+
+dialogue type : s
+F :  It 's a Eurospeech paper but not related to meetings .
+
+dialogue type : s
+F :  But it 's on digits .
+
+dialogue type : fh
+F :  So , um ,
+
+dialogue type : s
+F :  uh , a colleague at SRI developed a improved version of MMIE training .
+
+dialogue type : s
+F :  And he tested it mostly on digits
+
+dialogue type : s^df
+F :  because it 's sort of a you know , it doesn't take weeks to train it .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : s.%--
+F :  And got some very impressive results , um , with , you know , discriminative , uh , Gaussian training . Um , you know , like , um , error rates go from I don't know , in very noisy environment , like from ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s.%--
+F :  I for now I OK , now I have the order of magnit
+
+dialogue type : s^no
+F :  I 'm not sure about the order of magnitude .
+
+dialogue type : qr
+F :  Was it like from ten percent to eight percent or from e e you know , point you know , from one percent to point eight percent ?
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk^m
+F :  It got better .
+
+dialogue type : s^ba
+F :  That 's the important thing .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  Yeah . Right .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^b^aa
+F :  Yeah .
+
+dialogue type : qy^rt
+F :  Are we recording it ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s.%-
+F :  But you know th
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^cs
+F :  Can use the Oprah mike .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^df
+F :  Because it would be a different kind of meeting ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : fh
+F : 
+
+dialogue type : s^cs
+F :  Maybe just maybe not the whole day
+
+dialogue type : s^cs^e.%--
+F :  but just , you know , maybe some I mean ,
+
+dialogue type : qw^br^rt
+F :  part of it ?
+
+dialogue type : s^ng
+F :  Please .
+
+dialogue type : s^cs
+F :  Maybe the sections that are not right afte you know , after lunch when everybody 's still munching
+
+dialogue type : fh
+F : 
+
+dialogue type : b
+F :  Right .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : fh
+F :  Uh .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^co
+F :  Wait .
+
+dialogue type : %-
+F : 
+
+dialogue type : fg
+F : 
+
+dialogue type : s^rt
+F :  th the other good thing about the alignments is that , um , it 's not always the machine 's fault if it doesn't work .
+
+dialogue type : s.%-
+F :  So , you can actually find , um ,
+
+dialogue type : s.%-
+F :  problem uh , proble
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  You can find , uh , problems with with the transcripts ,
+
+dialogue type : fh
+F :  um , you know ,
+
+dialogue type : s
+F :  and go back and fix them .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^fe
+F :  Oh !
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s
+F :  Have a good trip .
+
+dialogue type : s^co
+F :  Keep in touch .
+
+dialogue type : s^ar^j|s^df^j
+F :  No , we prefer to keep it for ourselves .
+
+dialogue type : s^aa
+F :  Yeah , yeah .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^ba
+F :  Mmm !
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : s^bk
+F :  Oh , yeah .
+
+dialogue type : s^j
+F :  Th - it doesn't it won't leave this room .
+
+dialogue type : s^ba
+F :  Mmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s
+F :  Chocolate adaptation .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : qy^bu^d^rt
+F :  You mean that the the grouping is supposed to be synchronized ?
+
+dialogue type : qw^br^m
+F :  No ?
+
+dialogue type : qw^br^m^rt
+F :  No ?
+
+dialogue type : qy^bu^d^j^rt
+F :  It 's like a like a Greek like a Greek choir ?
+
+dialogue type : qy^d^f^g
+F :  You know ?
+
+dialogue type : %--
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^ar
+F :  No .
+

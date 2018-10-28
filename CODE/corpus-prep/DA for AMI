@@ -1,0 +1,27 @@
+Background noise = 0
+Back channel
+Stall
+Fragment
+
+Information Exchange = 1 (0)
+Inform
+Elicit-Inform
+
+Acts about possible actions = 2 (1)
+Suggest
+Offer
+Elicit-Offer-or-Suggest
+
+Comment on Previous discussions (Assessment) = 3 (2)
+Accept-Offer
+Agreement-Disagreement
+Opinion-about-some-Information
+Uncertainty-about-Suggestion
+Evaluate Actions
+Comment-about-Understanding
+
+Social Acts (Emotional Feelings) = 4
+Be-Positive
+Be-Negative
+
+Other = 5 (removed)

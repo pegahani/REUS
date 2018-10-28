@@ -1,0 +1,474 @@
+dialogue type : s^na
+D :  I saw her earlier .
+
+dialogue type : %-
+D :  I think
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  She 'll probably come up .
+
+dialogue type : s^na^t
+D :  I 've got a couple of things to talk about .
+
+dialogue type : h|s^t
+D :  Uh , IBM stuff and , um , just getting uh , meeting information organized .
+
+dialogue type : s^na
+D :  In my mind .
+
+dialogue type : s
+D :  Now the the You saw the note that the PLP now is getting basically the same as the MFCC .
+
+dialogue type : qy^d^g^rt
+D :  Right ?
+
+dialogue type : s^aa|s
+D :  Yeah . So , um , talked with Brian and gave him the alternatives to the single beep at the end of each utterance that we had generated before .
+
+dialogue type : fh
+D : 
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s^j^m
+D :  The Chuck chunks .
+
+dialogue type : fh
+D :  Right .
+
+dialogue type : s
+D :  And so he talked it over with the transcriber
+
+dialogue type : s^cs^e
+D :  and the transcriber thought that the easiest thing for them would be if there was a beep and then the nu a number , a digit , and then a beep , uh , at the beginning of each one
+
+dialogue type : s^df
+D :  and that would help keep them from getting lost .
+
+dialogue type : fh|s
+D :  And , um , so Adam wrote a little script to generate those style , uh , beeps
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  I came up here and just recorded the numbers one through ten .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : qy^rt
+D :  Does it sound OK ?
+
+dialogue type : s
+D :  So , um Yeah . We just used those .
+
+dialogue type : s^aa|s
+D :  Yeah . He then he d I recorded Actually , I recorded one through ten three times at three different speeds and then he picked .
+
+dialogue type : s
+D :  He liked the fastest one , so he just cut those out and spliced them in between , uh , two beeps .
+
+dialogue type : qh
+D :  Does it ?
+
+dialogue type : s^aa|s.%-
+D : 
+
+dialogue type : s
+D :  That 'll throw them ,
+
+dialogue type : qy^d^g
+D :  huh ?
+
+dialogue type : s^am
+D :  Yeah . Huh ! Maybe .
+
+dialogue type : s^df
+D :  And she said it wasn't gonna the transcriber said it wouldn't be a problem cuz they can actually make a template , uh , that has beep , number , beep .
+
+dialogue type : s
+D :  So for them it 'll be very quick
+
+dialogue type : s^e
+D :  to to put those in there when they 're transcribing .
+
+dialogue type : s^cc
+D :  So , um , we We 're gonna send them one more sample meeting ,
+
+dialogue type : s
+D :  uh , and Thilo has run his segmentation .
+
+dialogue type : s
+D :  Adam 's gonna generate the chunked file .
+
+dialogue type : s^cc
+D :  And then , um , I 'll give it to Brian and they can try that out .
+
+dialogue type : s
+D :  And when we get that back we 'll see if that sort of fixes the problem we had with , uh , too many beeps in the last transcription .
+
+dialogue type : h|qy^bu^d^rt
+D :  Uh . Our s our On our side ?
+
+dialogue type : qrr
+D :  or including IBM 's ?
+
+dialogue type : s^no
+D :  Well , I don't know .
+
+dialogue type : s
+D :  The last one seemed like it took a couple of weeks .
+
+dialogue type : fh|s^e
+D :  Um , maybe even three .
+
+dialogue type : fh|s
+D :  Uh , that 's just the I B M side .
+
+dialogue type : s
+D :  Our side is quick .
+
+dialogue type : qw.%-
+D :  I mean , I I don't know . How long does your ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : s
+D :  I Yeah , I I hope @ @ we can get a better estimate from this one that we send them .
+
+dialogue type : fh
+D :  So . Um .
+
+dialogue type : s^no
+D :  I I don't know yet how long that 'll take .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Right . Right .
+
+dialogue type : s^j
+D :  Burn - out .
+
+dialogue type : s^aa|s.%-
+D : 
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : s^e
+D :  For all the Meeting Recorder data .
+
+dialogue type : s^bd
+D :  We should have .
+
+dialogue type : fh|s
+D :  Um . And so we 've got a plan for what we 're gonna do there .
+
+dialogue type : s
+D :  And then , Jane also s prepared a um , started getting all of the the meetings organized , so she prepared a a spreadsheet , which I spent the last couple of days adding to .
+
+dialogue type : s
+D :  So I went through all of the data that we have collected so far , and have
+
+dialogue type : s
+D :  been putting it into , uh , a spreadsheet with start time , the date , the old meeting name , the new meeting name , the number of speakers , the duration of the meeting , comments , you know , what its transcription status is , all that kind of stuff .
+
+dialogue type : s^df
+D :  And so , the idea is that we can take this and then export it as HTML and put it on the Meeting Recorder web page
+
+dialogue type : s^df
+D :  so we can keep people updated about what 's going on .
+
+dialogue type : fh|s^cc
+D :  Um , I 've gotta get some more information from Jane
+
+dialogue type : s^df
+D :  cuz I have some some gaps here that I need to get her to fill in ,
+
+dialogue type : s
+D :  but so far , um , as of Monday , the fourteenth , um , we 've had a total number of meeting sixty - two hours of meetings that we have collected .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  Uh , some other interesting things , average number of speakers per meeting is six .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s^cc
+D :  and I 'm gonna have on here the total amount that 's been transcribed so far ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  uh , that 's what I have to talk to Jane about , figuring out exactly which ones have have been completed and so forth .
+
+dialogue type : s
+D :  But , um , this 'll be a nice thing that we can put up on the the web site and people can be informed of the status of various different ones .
+
+dialogue type : s
+D :  And it 'll also list , uh , like under the status , if it 's at IBM or if it 's at ICSI , uh , or if it 's completed or which ones we 're excluding
+
+dialogue type : s
+D :  and and there 's a place for comments , so we can , um , say why we 're excluding things and so forth .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^2
+D :  Content , really .
+
+dialogue type : s^2
+D :  Talk .
+
+dialogue type : qy^rt
+D :  Could it have to do with the the lower frequency cut - off on the Switchboard ?
+
+dialogue type : s^bk
+D :  Hmm .
+
+dialogue type : qy^rt
+D :  Were they out of balance ?
+
+dialogue type : s^no
+D :  I didn't I didn't notice .
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : s^bu
+D :  Hmm . We 're using sixty - four ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qy^2^bu^d^rt
+D :  Than you do with the standard ?
+
+dialogue type : s^bu
+D :  Well , that was combined with the triangular .
+
+dialogue type : qy^d^g^rt
+D :  Right ?
+
+dialogue type : s^bk
+D :  Yeah . Right .
+
+dialogue type : s^na
+D :  The low - frequency cut - off .
+
+dialogue type : qw
+D :  What what is the parameter ?
+
+dialogue type : qy^rt
+D :  Is it , uh , just the f lower cut - off that you want ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : s^cs
+D :  One experiment we should we 'll probably need to do though when um , at some point , is , since we 're using that same the net that was trained on PLP without all these things in it , for the tandem system , we may wanna go back and retrain ,
+
+dialogue type : s^bk
+D :  yeah , yeah ,
+
+dialogue type : s^e|s^f
+D :  for the tandem . You know ,
+
+dialogue type : s
+D :  so we can see if it what effect it has on the tandem processing .
+
+dialogue type : s
+D :  So , we But but we may not . I mean , if it doesn't perform as well , we may not know why .
+
+dialogue type : qy^d^g^rt
+D :  Right ?
+
+dialogue type : s^df
+D :  Cuz we need to do the exact experiment .
+
+dialogue type : fg|s.%--
+D :  So , Morgan , an another thing that Andreas and I were talking about was ,
+
+dialogue type : s
+D :  so @ @ in the first experiment that he did we just took the whole fifty - six , uh , outputs
+
+dialogue type : s
+D :  and that 's , um , basically compared to a thirty - nine input feature vector from either MFCC or PLP .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa|s^na
+D :  Yeah . Through the regular tandem outputs .
+
+dialogue type : s^m^na
+D :  Through the KLT .
+
+dialogue type : s^e
+D :  All that kinda stuff .
+
+dialogue type : s^na
+D :  That 's what we did .
+
+dialogue type : qy^d^f^g^rt
+D :  Right ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  so we treated the th first thirteen as though they were standard features .
+
+dialogue type : qy.%--
+D :  I mean , did Dan do experiments like that to ?
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^df
+D :  Cuz in a sense , the net 's already got quite a bit of context in those features ,
+
+dialogue type : s
+D :  so if we did deltas and double - deltas on top of those , we 're getting sort of even more .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : fg|s
+D :  Yeah . There could be a bug in in the somewhere before that .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^df
+D :  E Eric coached me through then that part of it ,
+
+dialogue type : s
+D :  so I 'm pretty confident in that .
+
+dialogue type : s
+D :  I mean , the only slight difference is that I use normalization values that , um , Andreas calculated
+
+dialogue type : s^e
+D :  from the original PLP ,
+
+dialogue type : s
+D :  which is right .
+
+dialogue type : %--
+D :  N
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s^bu
+D :  Oh , we actually don't do that normalization for the PLP ,
+
+dialogue type : qy^g^rt
+D :  do we ?
+
+dialogue type : s^e
+D :  For the st just the straight PLP features ?
+
+dialogue type : s^bk^m|s^bk
+D :  S R I system does that . Right .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg|s
+D :  Yeah . It 's hard with features ,
+
+dialogue type : s^df
+D :  cuz you don't know what they should look like .
+
+dialogue type : s^df^e.%-
+D : 
+
+dialogue type : s^cs
+D :  So another huge experiment we could do would be to take the tandem features , uh , do SRI forced alignments using those features , and then re - do the net with those .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Yeah . Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qy.%--
+D :  Did he did he try to ?
+
+dialogue type : qy^bu^d.%-
+D :  So he always ended up with a feature vector that was twice as long as either one of the ?
+
+dialogue type : s^bk
+D :  Yeah .
+

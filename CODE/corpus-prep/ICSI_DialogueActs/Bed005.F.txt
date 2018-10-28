@@ -1,0 +1,165 @@
+dialogue type : s^bk^rt
+F :  Right . OK .
+
+dialogue type : s^m^na
+F :  We are all switched on .
+
+dialogue type : b
+F :  e yeah .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : s:qw
+F :  Actually , you would say , " which films are on tonight ? "
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : %-
+F :  But
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s
+F :  And you have both proper names and descriptions
+
+dialogue type : s^e
+F :  and y and you can ask for it .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s:qw
+F :  Or or if you take something even more scary , um , " how do I get to the third building after the Tower ?
+
+dialogue type : s^bsc
+F :  the Ple - Powder - Tower ? "
+
+dialogue type : s.%-
+F :  Uh , you need some mechanism for
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : %-
+F :  Muh
+
+dialogue type : b
+F :  Right .
+
+dialogue type : %-
+F :  Mwa
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg|s
+F :  So , uh So , uh , I was just going to ask ,
+
+dialogue type : fh
+F :  um , so ,
+
+dialogue type : qw.%-
+F : 
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^bk
+F :  Got it .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^ba
+F :  That 's great !
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Ugh .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : qw
+F :  W what was this ?
+
+dialogue type : s.%--
+F :  It i i i ehhh , i ehhh .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^bk
+F :  OK . Right .
+
+dialogue type : s^e^t3
+F :  Like the army .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fg|s
+F :  Yeah , I I would like a copy ,
+
+dialogue type : fh
+F :  y y yeah .
+
+dialogue type : b
+F :  OK .
+

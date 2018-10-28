@@ -1,0 +1,858 @@
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+E :  The the mel cepstrum ?
+
+dialogue type : s^bk.%--
+E : 
+
+dialogue type : s^bk
+E :  OK ,
+
+dialogue type : s^bc
+E :  the Aurora system .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qw
+E :  What are the R 's ?
+
+dialogue type : s^df
+E :  I 'm sorry I missed it .
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : s^bu.%--
+E : 
+
+dialogue type : s^bk
+E :  Mmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s
+E :  So so don't uh don't do the division ,
+
+dialogue type : s
+E :  but let the net have everything .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qw
+E :  How long does it take , Carmen , to train up one of these nets ?
+
+dialogue type : s^bk^rt
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Hmm .
+
+dialogue type : qy^d^rt
+E :  The targets for the neural net , uh , they come from forced alignments ?
+
+dialogue type : s^bk
+E :  Ah !
+
+dialogue type : b.%
+E :  OK .
+
+dialogue type : qy^bh
+E :  Really ?
+
+dialogue type : qw^d.%--
+E : 
+
+dialogue type : qy^bu^d^rt
+E :  For Aurora ?
+
+dialogue type : s^fe
+E :  Oh !
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qw
+E :  When are they planning When would they do that ?
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qy^br^d^rt
+E :  They have a constant in there , you said ?
+
+dialogue type : qy^rt
+E :  Is that some kind of base conversion ,
+
+dialogue type : qrr.%--
+E :  or ?
+
+dialogue type : s
+E :  Experimental results .
+
+dialogue type : s
+E :  So they 're taking the number inside the log and raising it to sixteen over log base two .
+
+dialogue type : qy^rt
+E :  Does it have to do with those sixty - fours ,
+
+dialogue type : qrr.%--
+E :  or ?
+
+dialogue type : fg|s^cs
+E :  Yeah , I was just gonna say maybe it has something to do with hardware ,
+
+dialogue type : s^e
+E :  something they were doing .
+
+dialogue type : s
+E :  Well it just , yeah , puts it in the right range ,
+
+dialogue type : fh
+E : 
+
+dialogue type : qy
+E :  Do have Have people sort of stopped going to ICASSP in recent years ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^ba
+E :  Cool .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : sj^ba
+E :  It 's probably a good place to start .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : fg|s^cs
+E :  Yeah , you could even then to to get an idea about how different it is , you could maybe take some subset and you know , go through a few sentences , mark them by hand
+
+dialogue type : s^cs
+E :  and then see how different it is from you know , the canonical ones ,
+
+dialogue type : s
+E :  just to get an idea a rough idea of h if it really even makes a difference .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s.x
+E :  You could define other events as being sequences of these events too .
+
+dialogue type : s^arp.%--
+E : 
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah , yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  I 'm adding complexity .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qw^rt
+E :  So what 's the advantage of support vector machines ?
+
+dialogue type : qw.%--
+E : 
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qy^rt
+E :  Does there some kind of a distance metric that they use
+
+dialogue type : qw^g
+E :  or how do they for cla what do they do for classification ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b^rt
+E :  Oh .
+
+dialogue type : qw
+E :  So why save the examples ?
+
+dialogue type : qw^g
+E :  Why not just save what the boundary itself is ?
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^2
+E :  Sort of an equivalent .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Oh .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : s^bs
+E :  So rather than doing nearest neighbor where you compare to every single one , you just pick a few critical ones ,
+
+dialogue type : %--
+E : 
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b.%
+E :  Hmm .
+
+dialogue type : s^bu
+E :  And you get that for each class , you get a zero or a one .
+
+dialogue type : qy^rt
+E :  Did the did they get good results with that ?
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qy^rt
+E :  Did you find any more mistakes in their tables ?
+
+dialogue type : qy^bu^d^rt
+E :  So in your in in the thing that you 're doing , uh you have a vector of ones and zeros for each phone ?
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : qy.%--
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : %--
+E :  And so when you do your
+
+dialogue type : qw
+E :  wh I 'm what is the task for the class project ?
+
+dialogue type : qy^d^g^rt
+E :  To come up with the phones ?
+
+dialogue type : qrr^d^g^rt
+E :  or to come up with these vectors to see how closely they match the phones ,
+
+dialogue type : qrr^g.%--
+E :  or ?
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : s^am
+E :  I think so .
+
+dialogue type : s^no
+E :  I guess I mean , uh I 'm not sure what you what you 're what you get out of your system .
+
+dialogue type : qy^rt
+E :  Do you get out a uh a vector of these ones and zeros and then try to find the closest matching phoneme to that vector ,
+
+dialogue type : qrr^g.%--
+E :  or ?
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : qy^bu^d^rt
+E :  So they had one recurrent net for each particular feature ?
+
+dialogue type : b
+E :  I see .
+
+dialogue type : qo
+E :  I wo did they compare that I mean , what if you just did phone recognition and did the reverse lookup .
+
+dialogue type : s^e
+E :  So you recognize a phone and which ever phone was recognized , you spit out it 's vector of ones and zeros .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  No .
+
+dialogue type : qy^2^bu^d^rt
+E :  Insertion penalty ?
+
+dialogue type : h
+E :  Uh .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^m^t1
+E :  " Changes to the data " ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : h|s^bk
+E :  Uh right ,
+
+dialogue type : s^ar|s^df^nd
+E :  no I haven't had a chance to do that .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  well it seems like there 's a bug ,
+
+dialogue type : s
+E :  because the difference in performance is it 's not gigantic
+
+dialogue type : s
+E :  but it 's big enough that it it seems wrong .
+
+dialogue type : %--
+E : 
+
+dialogue type : fg|s.%--
+E : 
+
+dialogue type : s^bk
+E :  Yeah ,
+
+dialogue type : s^rt
+E :  I guess I don't think that the normalization difference is gonna account for everything .
+
+dialogue type : s^rt
+E :  So what I was working on is um just going through and checking the headers of the wavefiles ,
+
+dialogue type : s
+E :  to see if maybe there was a um a certain type of compression or something that was done that my script wasn't catching .
+
+dialogue type : s
+E :  So that for some subset of the training data , uh the the the features I was computing were junk .
+
+dialogue type : s
+E :  Which would you know cause it to perform OK ,
+
+dialogue type : s
+E :  but uh , you know , the the models would be all messed up .
+
+dialogue type : s
+E :  So I was going through and just double - checking that kind of think first , to see if there was just some kind of obvious bug in the way that I was computing the features .
+
+dialogue type : s
+E :  Looking at all the sampling rates to make sure all the sampling rates were what eight K , what I was assuming they were ,
+
+dialogue type : h
+E : 
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fg
+E :  Yeah ,
+
+dialogue type : s
+E :  and I think , hhh I 'm trying to remember but I think I recall that Andreas was saying that he was gonna run sort of the reverse experiment .
+
+dialogue type : fh|s
+E :  Uh which is to try to emulate the normalization that we did
+
+dialogue type : s
+E :  but with the mel cepstral features .
+
+dialogue type : s
+E :  Sort of , you know , back up from the system that he had .
+
+dialogue type : %--
+E : 
+
+dialogue type : s
+E :  I have to look back through my my email from him .
+
+dialogue type : fg
+E :  Yeah ,
+
+dialogue type : s^m
+E :  he 's gone now .
+
+dialogue type : fg
+E :  Um .
+
+dialogue type : %--
+E : 
+
+dialogue type : s^bk^rt
+E :  Right .
+
+dialogue type : fg|s.%--
+E : 
+
+dialogue type : s
+E :  I was looking I 've been studying and going through the logs for the system that um Andreas created .
+
+dialogue type : s
+E :  And um his uh the way that the S R I system looks like it works is that it reads the wavefiles directly ,
+
+dialogue type : fh|s
+E :  uh and does all of the cepstral computation stuff on the fly .
+
+dialogue type : s
+E :  And , so there 's no place where these where the cepstral files are stored , anywhere that I can go look at and compare to the PLP ones ,
+
+dialogue type : s
+E :  so whereas with our features , he 's actually storing the cepstrum on disk , and he reads those in .
+
+dialogue type : s.%--
+E :  But it looked like he had to give it uh
+
+dialogue type : s
+E :  even though the cepstrum is already computed , he has to give it uh a front - end parameter file .
+
+dialogue type : s
+E :  Which talks about the kind of uh com computation that his mel cepstrum thing does ,
+
+dialogue type : s
+E :  so i I I don't know if that it probably doesn't mess it up ,
+
+dialogue type : s
+E :  it probably just ignores it if it determines that it 's already in the right format or something
+
+dialogue type : s
+E :  but the the the two processes that happen are a little different .
+
+dialogue type : %--
+E :  So .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah
+
+dialogue type : s^ar|s^nd
+E :  no and I didn't have a chance to do that .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg|s
+E :  Yeah . I 've been um , I 've been working with um Jeremy on his project
+
+dialogue type : s
+E :  and then I 've been trying to track down this bug in uh the ICSI front - end features .
+
+dialogue type : s
+E :  So one thing that I did notice , yesterday I was studying the um the uh RASTA code
+
+dialogue type : s
+E :  and it looks like we don't have any way to um control the frequency range that we use in our analysis .
+
+dialogue type : s
+E :  We basically it looks to me like we do the FFT , um and then we just take all the bins
+
+dialogue type : s
+E :  and we use everything .
+
+dialogue type : s:s
+E :  We don't have any set of parameters where we can say you know , " only process from you know a hundred and ten hertz to thirty - seven - fifty " .
+
+dialogue type : s^df
+E :  At least I couldn't see any kind of control for that .
+
+dialogue type : qy^bu^d^rt
+E :  The the filters ?
+
+dialogue type : qw^g^rt
+E :  Which filters ?
+
+dialogue type : s^bk
+E :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+E :  When you get the mel When you go to the mel scale .
+
+dialogue type : s
+E :  I saw something about uh that looked like it was doing something like that , but I didn't quite understand it .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+E :  But so the but that 's a fixed uh thing ?
+
+dialogue type : qy^bu^d^g.%--
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^2
+E :  Use this analysis bandwidth or something .
+
+dialogue type : fg|s
+E :  Yeah , I went through the Feacalc code and then looked at you know just calling the RASTA libs and thing like that .
+
+dialogue type : s
+E :  And I didn't I couldn't see any wh place where that kind of thing was done .
+
+dialogue type : s
+E :  But um I didn't quite understand everything that I saw ,
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qy^tc.%--
+E : 
+
+dialogue type : s
+E :  I was wondering if there 's maybe um certain settings of the parameters when you compute PLP which would basically cause it to output mel cepstrum .
+
+dialogue type : s
+E :  So that , in effect , what I could do is use our code
+
+dialogue type : s
+E :  but produce mel cepstrum
+
+dialogue type : s.%--
+E : 
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^2^bu
+E :  There 's a cubic root that happens ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^bk|s
+E :  Yeah just it just seems like this kind of behavior could be caused by you know s some of the training data being messed up .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  One of the things that I did notice was that the um log likelihoods coming out of the log recognizer from the PLP data were much lower , much smaller ,
+
+dialogue type : s
+E :  than for the mel cepstral stuff , and that the average amount of pruning that was happening was therefore a little bit higher for the PLP features .
+
+dialogue type : s
+E :  So , since he used the same exact pruning thresholds for both , I was wondering if it could be that we 're getting more pruning .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Yeah ,
+
+dialogue type : %--
+E : 
+
+dialogue type : %--
+E : 
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  Well , what I was gonna do is I was gonna take um a couple of the utterances that he had run through ,
+
+dialogue type : s
+E :  then run them through again
+
+dialogue type : s
+E :  but modify the pruning threshold and see if it you know , affects the score .
+
+dialogue type : %--
+E :  So .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg|s^df
+E :  Right . I mean , yeah , generally in these things you you turn back pruning really far ,
+
+dialogue type : s
+E :  so I I didn't think it would be that big a deal
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  And the uh the the run time of the recognizer on the PLP features is longer
+
+dialogue type : s
+E :  which sort of implies that the networks are bushier ,
+
+dialogue type : s
+E :  you know , there 's more things it 's considering
+
+dialogue type : s
+E :  which goes along with the fact that the matches aren't as good .
+
+dialogue type : s
+E :  So uh , you know , it could be that we 're just pruning too much .
+
+dialogue type : %-
+E :  So .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Mm - hmm . Right .
+
+dialogue type : b.%
+E :  Right .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s
+E :  There 's lots of little differences .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : x
+E :  Uh .
+
+dialogue type : s
+E :  Trying to track it down .
+
+dialogue type : s^aa
+E :  Yeah
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^d^rt
+E :  On on the real data , not with artificial reverb ?
+
+dialogue type : s^bk
+E :  Uh - huh .
+
+dialogue type : s^aa
+E :  Mm - hmm ,
+
+dialogue type : s
+E :  or it wa a it was around one .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  It 's trained on a lot of different things .
+
+dialogue type : h
+E :  Um .
+
+dialogue type : s
+E :  It 's trained on uh a lot of Switchboard , Call Home ,
+
+dialogue type : fh|s
+E :  um a bunch of different sources ,
+
+dialogue type : s
+E :  some digits ,
+
+dialogue type : s
+E :  there 's some digits training in there .
+
+dialogue type : s
+E :  And it wasn't trained on this task either .
+
+dialogue type : h|s^aa
+E :  Uh , yeah .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : z
+E :  Yeah .
+
+dialogue type : z
+E :  That 'll work .
+

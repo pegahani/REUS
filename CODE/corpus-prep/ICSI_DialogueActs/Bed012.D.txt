@@ -1,0 +1,123 @@
+dialogue type : qy^rt
+D :  Did you add more stuff to it ? later ?
+
+dialogue type : h|s^bd
+D :  Um . I don't know .
+
+dialogue type : s
+D :  There were , like , the you know , @ @ and all that stuff .
+
+dialogue type : s
+D :  But . I thought you you said you were adding stuff
+
+dialogue type : s^bd
+D :  but I don't know .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : qw^rt
+D :  What ?
+
+dialogue type : s^aa
+D :  True .
+
+dialogue type : s^ng
+D :  Well , eventually , you still have to pick out which ones you look at .
+
+dialogue type : s
+D :  So it 's pretty much the same problem ,
+
+dialogue type : qy^d^g^rt
+D :  isn't it ?
+
+dialogue type : b
+D :  OK .
+
+dialogue type : qy.%-
+D :  You added a bunch of nodes , for ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk|qy^bu^m^rt
+D :  Oh . This Friday ?
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : qy^bu^rt
+D :  Wait . So you 're saying , next Tuesday , is it the whole group meeting ,
+
+dialogue type : qrr.%--
+D :  or just us three working on it , or or ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bu.%--
+D : 
+
+dialogue type : s^bu.%-
+D : 
+
+dialogue type : qy^d^rt
+D :  This week ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  I don't get it .
+
+dialogue type : s^bs.%--
+D : 
+
+dialogue type : qy^rt
+D :  Is that what the Keith node is ?
+
+dialogue type : s^bk|qy^rt
+D :  OK . And you 're taking it out ? for now ?
+
+dialogue type : qrr.%--
+D :  Or ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  Eva .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  I 'd probably still respond to it .
+
+dialogue type : s
+D :  I 've had people call me Eva ,
+
+dialogue type : s^no
+D :  but I don't know .
+
+dialogue type : h|s^no
+D :  Um , no idea then .
+
+dialogue type : qw^br^rt
+D :  What ?
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : fg
+D :  Um .
+
+dialogue type : s^ba
+D :  That 's fine .
+

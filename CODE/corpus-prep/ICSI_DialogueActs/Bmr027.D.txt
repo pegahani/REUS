@@ -1,0 +1,204 @@
+dialogue type : z
+D :  It 's old - school .
+
+dialogue type : %-
+D :  I mean , i it 's k
+
+dialogue type : s
+D :  It 's kind of like signing up for a mailing list .
+
+dialogue type : s
+D :  They have opt in and opt out .
+
+dialogue type : s
+D :  And there are two different ways .
+
+dialogue type : s
+D :  I mean , and either way works
+
+dialogue type : s^bd
+D :  probably , I mean .
+
+dialogue type : s^2
+D :  And they 're served .
+
+dialogue type : qy^rt
+D :  Can't you just do that channel ?
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^cs^j|s^aa
+D :  You can hide it . Yeah .
+
+dialogue type : s^ba^j^t3
+D :  It wouldn't be that hard to hide it .
+
+dialogue type : s^cs^j
+D :  You can use spread spectrum .
+
+dialogue type : s^cs^e^j
+D :  Hide it .
+
+dialogue type : s^j^na
+D :  Yeah , there you go .
+
+dialogue type : s
+D :  There you go .
+
+dialogue type : s
+D :  Then you have , like , subliminal , uh , messages ,
+
+dialogue type : %-
+D :  like .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s
+D :  It 's like certified mail .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : s^bk
+D :  Oh . Uh - oh .
+
+dialogue type : qy^bu^d^rt
+D :  Jane , these are from IBM ?
+
+dialogue type : s^e^rt
+D :  The top lines ?
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^bk
+D :  Oh , I see .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : fg|s
+D :  Yeah , I still I still need to get a pair , too .
+
+dialogue type : s
+D :  I 'm using one of these .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Definitely .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^ba
+D :  u It 's short .
+
+dialogue type : s
+D :  I mean , if you wanna go , we can just throw it in at the end .
+
+dialogue type : h
+D :  Um , well , uh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^ft
+D :  Thank you , thank you .
+
+dialogue type : fg
+D :  Um . So , um ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Um , this is always a suspect phrase .
+
+dialogue type : fg|s
+D :  But , um , no . I , uh I realized that we 're going to be doing a lot of experiments , um , o for this , uh , paper we 're writing ,
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  We 're probably gonna need that disk space that we had on that eighteen gig hard drive .
+
+dialogue type : s^df
+D :  But , um , we also have someone else coming in that 's gonna help us out with some stuff .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk|s^cs.%-
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : fg
+D : 
+
+dialogue type : fg|s
+D :  Yeah . I mean , I guess the thing is is , all I need is to hang it off , like , the person who 's coming in , Sonali 's , computer .
+
+dialogue type : s^fe
+D :  Whew .
+
+dialogue type : s^cs
+D :  Or we can move them .
+
+dialogue type : qy^rt
+D :  So are we gonna move the stuff off of my hard drive onto that when those come in ?
+
+dialogue type : s^bk|s^ba
+D :  OK . That 's fine .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : fg|s
+D :  Yeah . I think I can find something if I 'm desperate
+
+dialogue type : s
+D :  and , um , in the meantime I 'll just hold out .
+
+dialogue type : s
+D :  That was the only thing I wanted to bring up .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^ba
+D :  Alright . Great .
+
+dialogue type : s^tc
+D :  That 's it .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s^cs
+D :  We should probably talk off - line about when we 're gonna talk off - line .
+

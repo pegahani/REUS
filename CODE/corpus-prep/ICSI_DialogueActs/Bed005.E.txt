@@ -1,0 +1,243 @@
+dialogue type : qw
+E :  What did you end up having to do ?
+
+dialogue type : qy^e
+E :  I mean , wha Was there anything interesting about it at all ?
+
+dialogue type : qrr
+E :  or are we gonna see that ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^ba
+E :  Interesting parser property .
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : s^2
+E :  Today
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bu|qy^d^g^rt
+E :  And the t and the time , right ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^aa
+E :  True .
+
+dialogue type : %-
+E :  S
+
+dialogue type : s.%--
+E :  The former end g "
+
+dialogue type : s^bk
+E :  Oh , I see .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk|s
+E :  OK . Key words , e basically .
+
+dialogue type : s
+E :  So it really is key word matching , basically .
+
+dialogue type : b.%
+E :  Hmm .
+
+dialogue type : s^e^rt
+E :  Tonight ?
+
+dialogue type : s^e
+E :  This this evening ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Huh .
+
+dialogue type : %-
+E :  S
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  It 's a match .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Right Yeah .
+
+dialogue type : s
+E :  Uniquely .
+
+dialogue type : s^bk|s
+E : 
+
+dialogue type : s
+E :  So we had this problem last year when we first thought about this domain , actually ,
+
+dialogue type : s
+E :  was that most of the things we talked about are our story understanding .
+
+dialogue type : s
+E :  Uh , we 're gonna have a short discourse
+
+dialogue type : s
+E :  and the person talking is trying to , I don't know , give you a statement and tell you something .
+
+dialogue type : s.%-
+E :  And here , it 's th
+
+dialogue type : s^aa|s^na
+E :  Yea - eh y Yeah , I guess so .
+
+dialogue type : s
+E :  And then here , y you are j uh , the person is getting information
+
+dialogue type : s
+E :  and they or may not be following some larger plan , you know , that we have to recognize or , you know , infer .
+
+dialogue type : s.%-
+E :  And th th the their discourse patterns probably don't follo follow quite as many logical connec
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : %-
+E :  M
+
+dialogue type : s^aa|s
+E :  Right . Cuz for a while we were thinking , " well , how can we change the , um , data to sort of illicit tha illicit , um , actions that are more like what we are used to ? "
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^bk
+E :  Yep .
+
+dialogue type : b
+E :  Mmm Mm - hmm .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b.%
+E :  Mmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s|qy^d^g
+E :  It was a quick one , huh ?
+
+dialogue type : s
+E :  They have clips !
+
+dialogue type : b
+E :  Huh .
+
+dialogue type : s^t3
+E :  New terminology ?
+
+dialogue type : s^t3
+E :  I haven't heard that before .
+
+dialogue type : %--
+E : 
+
+dialogue type : s^aa
+E :  yeah .
+
+dialogue type : s^na|s^aa
+E :  I I think so , yeah .
+
+dialogue type : b.%
+E :  Yeah , @ @ .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : b.%
+E :  Mmm .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : s
+E :  So , you don't need da data enough to cover uh , nearly as much stuff .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Sure .
+

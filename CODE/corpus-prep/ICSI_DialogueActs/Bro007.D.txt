@@ -1,0 +1,159 @@
+dialogue type : s^t3
+D :  The graph ,
+
+dialogue type : s^t3
+D :  yeah another one .
+
+dialogue type : s^t1
+D :  Two HTK .
+
+dialogue type : s^2
+D :  Step .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  For the Italian .
+
+dialogue type : s
+D :  For this one .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%-
+D :  For that
+
+dialogue type : b
+D :  Mmm yeah .
+
+dialogue type : s
+D :  For many a mismatch it 's worse .
+
+dialogue type : s^no
+D :  I don't remember .
+
+dialogue type : %-
+D :  Ye
+
+dialogue type : s
+D :  But words well word I don't know .
+
+dialogue type : s
+D :  Sentences .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah
+
+dialogue type : s^na
+D :  for the Italian even seven digits y more or less
+
+dialogue type : s^arp^rt
+D :  but sometime the sentence have only one digit
+
+dialogue type : s
+D :  and sometime uh like uh the number of uh credit cards , something like that .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qy^bu^d
+D :  The size that we have ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Yeah we have the result that the output of the HTK
+
+dialogue type : s
+D :  The number of of sentences , no it 's the number isn't .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  It the the output silence of the MLP .
+
+dialogue type : s
+D :  It 's only one small experiment to know what happened .
+
+dialogue type : s
+D :  To apply also to in include also the the silence of the MLP we have the fifty - six form and the silence to pick up the silence and we include those .
+
+dialogue type : s^aa|s^df.%-
+D :  Yeah , because when we apply the KLT
+
+dialogue type : s^na
+D :  in addition , yes .
+
+dialogue type : s.%-
+D :  In addition t
+
+dialogue type : s
+D :  and we not s we are not sure if we pick we have the silence .
+
+dialogue type : s
+D :  It 's in fact OGI two .
+
+dialogue type : s^aap
+D :  And with the all the output of the combo .
+
+dialogue type : fh
+D :  Uh
+
+dialogue type : b
+D :  Yes .
+
+dialogue type : s
+D :  We lost time uh Wednesday maybe because that the difference in the time may be is a long different of the time .
+
+dialogue type : s
+D :  Maybe the Thursday the twelfth of the night of the Thurs - thirty - one is is not valid in Europe .
+
+dialogue type : s
+D :  We don't know is happening .
+
+dialogue type : s^bk
+D :  Tuesday .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah , five PM .
+
+dialogue type : s^nd
+D :  Not five PM , three PM .
+
+dialogue type : s^na
+D :  Three PM .
+
+dialogue type : s^ar
+D :  Uh no
+
+dialogue type : qy^bu^rt
+D :  three three A - three PM ?
+
+dialogue type : s^aa
+D :  Oh yeah , yeah , yeah , yeah .
+
+dialogue type : s
+D :  Three PM here is in Europe midnight .
+
+dialogue type : s^bk
+D :  Oh OK .
+
+dialogue type : b
+D :  Mm - hmm . Mm - hmm ,
+
+dialogue type : %
+D :  maybe .
+
+dialogue type : b
+D :  Yeah .
+

@@ -1,0 +1,627 @@
+dialogue type : z
+B :  Blow into it ,
+
+dialogue type : z
+B :  it works really well .
+
+dialogue type : s^nd
+B :  I was there .
+
+dialogue type : qy^bu^d^rt
+B :  With Hynek ?
+
+dialogue type : s^m
+B :  Yeah .
+
+dialogue type : fg|qy^bu^rt
+B :  Oh the What we talked about yesterday ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.x
+B :  I was wearing the I was wearing the lapel and you were sitting next to me ,
+
+dialogue type : s
+B :  and I only said one thing but you were talking and it was picking up all your words .
+
+dialogue type : qo
+B :  What about the stuff that um Mirjam has been doing ?
+
+dialogue type : s
+B :  And and S Shawn , yeah .
+
+dialogue type : b
+B :  Oh .
+
+dialogue type : qy^bu^rt
+B :  So they 're training up nets to try to recognize these acoustic features ?
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  And their their targets are based on canonical mappings of phones to acoustic f features .
+
+dialogue type : qw^rt
+B :  What does what did um Larry Saul use for it was the sonorant uh detector ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : qw.%-
+B : 
+
+dialogue type : qw^rt
+B :  H how did he do that ?
+
+dialogue type : qw^rt
+B :  Wh - what was his detector ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : b^rt
+B :  Mm - hmm .
+
+dialogue type : qw
+B :  So how did he combine all these features ?
+
+dialogue type : qw
+B :  What what r mmm classifier did he
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^bk
+B :  Oh right .
+
+dialogue type : s
+B :  You were talking about that , yeah .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : b
+B :  Hmm !
+
+dialogue type : s^j.%--
+B :  Pierced tongues and
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^j
+B :  You could just mount it to that and they wouldn't even notice .
+
+dialogue type : s^j
+B :  Weld it .
+
+dialogue type : s^j
+B :  Zzz .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %--
+B :  I
+
+dialogue type : s^aa
+B :  That 's right .
+
+dialogue type : s^cs^j
+B :  You could what you could do is you could sell little rings and stuff with embedded you know , transmitters in them and things
+
+dialogue type : fh
+B :  and
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm !
+
+dialogue type : s.%--
+B :  There 's a bunch of data that l around ,
+
+dialogue type : s
+B :  that people have done studies like that w way way back
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  I remember there was this guy at A T - andT ,
+
+dialogue type : qy^bu^rt
+B :  Randolph ?
+
+dialogue type : qw
+B :  or r What was his name ?
+
+dialogue type : qy
+B :  Do you remember that guy ?
+
+dialogue type : fh|s
+B :  Um , researcher at A T - andT a while back that was studying , trying to do speech recognition from these kinds of features .
+
+dialogue type : s^no
+B :  I can't remember what his name was .
+
+dialogue type : s
+B :  Dang .
+
+dialogue type : s
+B :  Now I 'll think of it .
+
+dialogue type : s
+B :  That 's interesting .
+
+dialogue type : s^na
+B :  Mark Randolph .
+
+dialogue type : qy^rt
+B :  Oh is he ?
+
+dialogue type : s^bk
+B :  Oh OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^no
+B :  I can't remember exactly what he was using , now .
+
+dialogue type : s
+B :  But I know I just remember it had to do with you know uh positional parameters
+
+dialogue type : s
+B :  and trying to m you know do speech recognition based on them .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qw^rt
+B :  Could you cluster the just do some kind of clustering ?
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bu.%-
+B :  So you 're talking about using that data to get
+
+dialogue type : fh
+B :  uh
+
+dialogue type : s^e
+B :  instead of using canonical mappings of phones .
+
+dialogue type : qy^bu^d^rt
+B :  So you 'd use that data to give you sort of what the the true mappings are for each phone ?
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^bu.%-
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy^d^rt
+B :  So he doesn't have to have truth marks
+
+dialogue type : qrr.%-
+B :  or Ho
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : qw^rt.x
+B :  So where did he get his uh his tar his uh high - level targets about what 's sonorant and what 's not ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qy^bu^rt.x
+B :  Using TIMIT ?
+
+dialogue type : qrr.%-
+B : 
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^cs^t
+B :  I could say a little bit about w stuff I 've been playing with .
+
+dialogue type : s.%-
+B :  I um
+
+dialogue type : qw^br^rt.x
+B :  Huh ?
+
+dialogue type : s^aa.x
+B :  Yes , I 'm playing .
+
+dialogue type : h|s
+B :  Um so I wanted to do this experiment to see um uh what happens if we try to uh improve the performance of the back - end recognizer for the Aurora task
+
+dialogue type : s^e
+B :  and see how that affects things .
+
+dialogue type : s
+B :  And so I had this um I think I sent around last week a this plan I had for an experiment ,
+
+dialogue type : s
+B :  this matrix where I would take the um the original um the original system .
+
+dialogue type : s
+B :  So there 's the original system trained on the mel cepstral features
+
+dialogue type : s
+B :  and then com and then uh optimize the b HTK system and run that again .
+
+dialogue type : s
+B :  So look at the difference there
+
+dialogue type : s
+B :  and then uh do the same thing for the ICSI - OGI front - end .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qy^bu^d^rt
+B :  that I looked at ?
+
+dialogue type : h|s
+B :  Uh I 'm looking at the Italian right now .
+
+dialogue type : s
+B :  So as far as I 've gotten is I 've uh been able to go through from beginning to end the um full HTK system for the Italian data
+
+dialogue type : s
+B :  and got the same results that um that uh Stephane had .
+
+dialogue type : fh|s
+B :  So um I started looking to and now I 'm I 'm sort of lookin at the point where I wanna know what should I change in the HTK back - end in order to try to uh to improve it .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  One of the first things I thought of was the fact that they use the same number of states for all of the models
+
+dialogue type : s
+B :  and so I went on - line and I uh found a pronunciation dictionary for Italian digits
+
+dialogue type : s
+B :  and just looked at , you know , the number of phones in each one of the digits .
+
+dialogue type : fh|s
+B :  Um you know , sort of the canonical way of setting up a an HMM system is that you use um three states per phone
+
+dialogue type : fh|s
+B :  and um so then the the total number of states for a word would just be , you know , the number of phones times three .
+
+dialogue type : s
+B :  And so when I did that for the Italian digits , I got a number of states , ranging on the low end from nine to the high end , eighteen .
+
+dialogue type : fh|s^e
+B :  Um . Now you have to really add two to that because in HTK there 's an initial null and a final null
+
+dialogue type : s^e
+B :  so when they use uh models that have eighteen states , there 're really sixteen states .
+
+dialogue type : s^e
+B :  They 've got those initial and final null states .
+
+dialogue type : fh|s
+B :  And so um their guess of eighteen states seems to be pretty well matched to the two longest words of the Italian digits ,
+
+dialogue type : s^e
+B :  the four and five which um , according to my , you know , sort of off the cuff calculation , should have eighteen states each .
+
+dialogue type : s
+B :  And so they had sixteen .
+
+dialogue type : s
+B :  So that 's pretty close .
+
+dialogue type : fh|s
+B :  Um but for the most of the words are sh much shorter .
+
+dialogue type : s
+B :  So the majority of them wanna have nine states .
+
+dialogue type : s
+B :  And so theirs are s sort of twice as long .
+
+dialogue type : fh|s.%--
+B :  So my guess uh
+
+dialogue type : s
+B :  And then if you I I printed out a confusion matrix um uh for the well - matched case ,
+
+dialogue type : s
+B :  and it turns out that the longest words are actually the ones that do the best .
+
+dialogue type : s
+B :  So my guess about what 's happening is that you know , if you assume a fixed the same amount of training data for each of these digits
+
+dialogue type : s
+B :  and a fixed length model for all of them
+
+dialogue type : s
+B :  but the actual words for some of them are half as long
+
+dialogue type : s
+B :  you really um have , you know , half as much training data for those models .
+
+dialogue type : s
+B :  Because if you have a long word and you 're training it to eighteen states , uh you 've got you know , you 've got the same number of Gaussians , you 've gotta train in each case ,
+
+dialogue type : s
+B :  but for the shorter words , you know , the total number of frames is actually half as many .
+
+dialogue type : fh|s
+B :  So it could be that , you know , for the short words there 's because you have so many states , you just don't have enough data to train all those Gaussians .
+
+dialogue type : fh|s^cc
+B :  So um I 'm going to try to um create more word - specific um uh prototype H M Ms to start training from .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg|s^cc
+B :  Yeah so I 'll I 'll , the next experiment I 'm gonna try is to just um you know create uh models that seem to be more w matched to my guess about how long they should be .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  how these models were coming out , you know , what w when we train up uh th you know , the model for " one " , which wants to have nine states , you know ,
+
+dialogue type : qw
+B :  what is the uh what do the transition probabilities look like in the self - loops , look like in in those models ?
+
+dialogue type : s
+B :  And so I talked to Andreas and he explained to me how you can calculate the expected duration of an HMM just by looking at the transition matrix
+
+dialogue type : s
+B :  and so I wrote a little Matlab script that calculates that
+
+dialogue type : fh
+B :  and
+
+dialogue type : s^cc
+B :  so I 'm gonna sort of print those out for each of the words to see what 's happening , you know , how these models are training up ,
+
+dialogue type : s^e
+B :  you know , the long ones versus the short ones .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  quickly , I did the silence model
+
+dialogue type : fh
+B :  and and um
+
+dialogue type : s
+B :  that 's coming out with about one point two seconds as its average duration
+
+dialogue type : s.x
+B :  and the silence model 's the one that 's used at the beginning and the end of each of the string of digits .
+
+dialogue type : s^aa.x
+B :  Yeah , yeah .
+
+dialogue type : s
+B :  And so the S P model , which is what they put in between digits , I I haven't calculated that for that one yet ,
+
+dialogue type : fh.x
+B :  but um .
+
+dialogue type : s.x
+B :  So they basically their their model for a whole digit string is silence digit , SP , digit , SP blah - blah - blah and then silence at the end .
+
+dialogue type : fh
+B :  And so .
+
+dialogue type : s^no.x
+B :  I have to look at that , but I 'm not sure that they are .
+
+dialogue type : s.x
+B :  Now the one thing about the S P model is really it only has a single s emitting state to it .
+
+dialogue type : s.x
+B :  So if it 's not optional , you know , it 's it 's not gonna hurt a whole lot
+
+dialogue type : s.x
+B : 
+
+dialogue type : fh|s.x
+B :  um It doesn't require its own training data ,
+
+dialogue type : s.x
+B :  it just shares that state .
+
+dialogue type : s^ba.x
+B :  So it , I mean , it 's pretty good the way that they have it set up ,
+
+dialogue type : fh
+B :  but um
+
+dialogue type : s.x
+B :  i So I wanna play with that a little bit more .
+
+dialogue type : s
+B :  I 'm curious about looking at , you know how these models have trained and looking at the expected durations of the models
+
+dialogue type : s^cc.%--
+B : 
+
+dialogue type : s
+B :  just from looking at the durations of these models , you know , what what 's happening .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b.x
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s.x
+B :  And Hynek , when I wa told him about this , he had an interesting point ,
+
+dialogue type : s.x
+B :  and that was th um the the final models that they end up training up have I think probably something on the order of six Gaussians per state .
+
+dialogue type : s.x
+B :  So they 're fairly , you know , hefty models .
+
+dialogue type : s.x
+B :  And Hynek was saying that well , probably in a real application , you wouldn't have enough compute to handle models that are very big or complicated .
+
+dialogue type : s^cs.x
+B :  So in fact what we may want are simpler models .
+
+dialogue type : s.x
+B :  And compare how they perform to that .
+
+dialogue type : s.x
+B :  But you know , it depends on what the actual application is
+
+dialogue type : s
+B :  and it 's really hard to know what your limits are in terms of how many Gaussians you can have .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^aa
+B :  Yeah , yeah .
+
+dialogue type : s
+B :  Well one thing I mean , if I if if I start um reducing the number of states for some of these shorter models that 's gonna reduce the total number of Gaussians .
+
+dialogue type : s^bs
+B :  So in a sense it 'll be a simpler system .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  I really wasn't even gonna play with that part of the system yet ,
+
+dialogue type : s.%-
+B :  I was just gonna change the the t
+
+dialogue type : fg|s
+B :  yeah , just look at the length of the models and just see what happens .
+
+dialogue type : b
+B :  So .
+
+dialogue type : qy.x
+B :  Does anybody know how to um run Matlab
+
+dialogue type : s^e.x
+B :  sort of in batch mode like you c send it s a bunch of commands to run and it gives you the output .
+
+dialogue type : qy^rt.x
+B :  Is it possible to do that ?
+
+dialogue type : qy^d^rt
+B :  Yeah ?
+
+dialogue type : s^bk
+B :  Octave .
+
+dialogue type : s^bk
+B :  Ah !
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fh
+B :  Great .
+
+dialogue type : s^ft
+B :  Thanks .
+
+dialogue type : s
+B :  I was going crazy trying to do that .
+
+dialogue type : s^ba
+B :  Great !
+
+dialogue type : s
+B :  If it 'll do like a lot of the basic matrix and vector stuff
+
+dialogue type : s^ba
+B :  that 's perfect .
+
+dialogue type : s^fe
+B :  Great !
+

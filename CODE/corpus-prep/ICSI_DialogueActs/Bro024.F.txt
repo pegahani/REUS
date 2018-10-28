@@ -1,0 +1,267 @@
+dialogue type : z
+F :  And we 're on .
+
+dialogue type : z
+F :  I 'll get it .
+
+dialogue type : z
+F :  Hey Dave ?
+
+dialogue type : z
+F :  Could you go ahead and turn on , uh , Stephane 's
+
+dialogue type : z
+F :  OK .
+
+dialogue type : z
+F :  Uh , yeah ,
+
+dialogue type : z
+F :  a Linux box .
+
+dialogue type : z
+F :  Yeah .
+
+dialogue type : z
+F :  It 's got , uh , like sixteen channels going into it .
+
+dialogue type : z
+F :  Mm - hmm .
+
+dialogue type : z
+F :  Yeah ,
+
+dialogue type : z
+F :  so far , it 's been pretty good .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : qw^co
+F :  Why don't you go ahead , Dave ?
+
+dialogue type : qy^bu^d^rt
+F :  That 's on digits ?
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^bk
+F :  Mm - hmm .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^cs^r
+F :  you can also reflect the data .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fh
+F :  you know ,
+
+dialogue type : s^no
+F :  I 'm not sure how many frames you need .
+
+dialogue type : s
+F :  But you take that many from the front and flip it around to a as the negative value .
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : qy^co^rt^tc
+F :  Do you wanna go , Barry ?
+
+dialogue type : s^na
+F :  Yeah briefly .
+
+dialogue type : s^bu|qy^d^g^rt
+F :  So you 've got two weeks , huh ?
+
+dialogue type : qy
+F :  Are you gonna do any dry runs for your thing ,
+
+dialogue type : qrr.%--
+F : 
+
+dialogue type : s^aa
+F :  Sure .
+
+dialogue type : s^aa
+F :  Sure .
+
+dialogue type : qy^rt
+F :  Is that it ?
+
+dialogue type : x
+F :  Hhh .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fg
+F :  Uh . Hhh .
+
+dialogue type : fh
+F :  Let 's see .
+
+dialogue type : s^tc
+F :  So we 've got forty minutes left ,
+
+dialogue type : s
+F :  and it seems like there 's a lot of material .
+
+dialogue type : qy^rt
+F :  An - any suggestions about where we where we should go next ?
+
+dialogue type : fh
+F :  Uh .
+
+dialogue type : qy^co^rt
+F :  Do you wanna go , Sunil ?
+
+dialogue type : s
+F :  Maybe we 'll just start with you .
+
+dialogue type : fg|s
+F :  So n s So since the high mismatch performance is much worse to begin with , it 's easier to get a better relative improvement .
+
+dialogue type : s^ng
+F :  Well , but that involves mucking with the back - end ,
+
+dialogue type : s^e^ng
+F :  which is not allowed .
+
+dialogue type : fh
+F :  Yeah .
+
+dialogue type : s^ft^t3
+F :  Thanks Adam .
+
+dialogue type : qy^rt
+F :  So is , uh Is that about it ?
+
+dialogue type : qrr.%--
+F :  Or ?
+
+dialogue type : qy^d^rt
+F :  This is for the LDA ?
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : qw^rt
+F :  What where was the , um the smallest latency of all the systems last time ?
+
+dialogue type : qw^rt
+F :  What what was it ?
+
+dialogue type : qy^bu^d^rt
+F :  Thirteen ?
+
+dialogue type : s^bk^m
+F :  Thirty .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  I was just curious about where we are compared to , you know , the shortest that people have done .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fg
+F :  OK ,
+
+dialogue type : s^tc
+F :  we 've got twenty minutes
+
+dialogue type : s^co
+F :  so we should probably try to move along .
+
+dialogue type : fh|qy^co^rt
+F :  Uh , did you wanna go next , Stephane ?
+
+dialogue type : s^cc
+F :  I can share with Barry .
+
+dialogue type : qy^rt
+F :  So is that it ?
+
+dialogue type : s^cs
+F :  So we need to combine these two .
+
+dialogue type : qy^d^tc
+F :  Carmen ?
+
+dialogue type : qy.%--
+F : 
+
+dialogue type : fg
+F :  So , um ,
+
+dialogue type : qr^rt^tc
+F :  what 's Do you think we , uh , should do the digits or skip it ?
+
+dialogue type : qw
+F :  Or what are what do you think ?
+
+dialogue type : s^aa
+F :  Yeah ,
+
+dialogue type : s^na
+F :  got them .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : qy^co^t3
+F :  Would you pass those down ?
+
+dialogue type : fg
+F :  OK ,
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : s
+F :  so I guess I 'll go ahead .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : z
+F :  OK ,
+
+dialogue type : z
+F :  if you could just leave , um , your mike on top of your , uh , digit form
+
+dialogue type : z
+F :  I can fill in any information that 's missing .
+
+dialogue type : z
+F : 
+
+dialogue type : z
+F :  I didn't get a chance to fill them out ahead of time .
+
+dialogue type : z
+F :  Yeah ,
+
+dialogue type : z
+F :  we 're gonna have to fix that .
+
+dialogue type : z
+F :  Uh , let 's see ,
+
+dialogue type : z
+F :  it starts with one here , and then goes around and ends with nine here .
+
+dialogue type : z
+F :  So he 's eight ,
+
+dialogue type : z
+F :  you 're seven ,
+

@@ -1,0 +1,420 @@
+dialogue type : z
+A :  I think I 'm zero .
+
+dialogue type : z
+A :  Did you fix something ?
+
+dialogue type : z
+A :  Is it written on her sheet , I believe .
+
+dialogue type : z
+A :  But , channel
+
+dialogue type : qy
+A :  How about over th from the front of the room ?
+
+dialogue type : qy^bu
+A :  Do you mean if it 's trained only on On data from just that task ,
+
+dialogue type : qy^d^g
+A :  that language ?
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : qw.%-
+A :  So what 's th
+
+dialogue type : s.%-
+A :  In
+
+dialogue type : s
+A :  The three languages is not digits ,
+
+dialogue type : s^bu
+A :  it 's the broad data .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^co
+A :  And so , remind me ,
+
+dialogue type : s^bu
+A :  the multilingual stuff is just the broad data .
+
+dialogue type : qy^d^g
+A :  Right ?
+
+dialogue type : s
+A :  It 's not the digits .
+
+dialogue type : s^bu
+A :  So it 's the combination of two things there .
+
+dialogue type : s^bu
+A :  It 's removing the task specific training and it 's adding other languages .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^2
+A :  Already ,
+
+dialogue type : b
+A :  right right right .
+
+dialogue type : s^bu
+A :  So they were sort of building here ?
+
+dialogue type : s^bk
+A :  OK ?
+
+dialogue type : qy^rt
+A :  One point four ?
+
+dialogue type : qy^bu^d
+A :  So , it 's an additional thirty percent .
+
+dialogue type : s^2
+A :  Task data .
+
+dialogue type : s
+A :  It 's multilingual .
+
+dialogue type : fg
+A : 
+
+dialogue type : s^co
+A :  Go ahead .
+
+dialogue type : s^cc
+A :  Ah , while you 're gone I 'll ask s some of my questions .
+
+dialogue type : h.x
+A :  Um .
+
+dialogue type : qy^rt
+A :  The um What was Was this number forty
+
+dialogue type : qrr^d^rt
+A :  or It was roughly the same as this one , he said ?
+
+dialogue type : s^rt
+A :  When you had the two language versus the three language ?
+
+dialogue type : s^bu
+A :  That 's where he removed English ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg
+A :  Mm - hmm .
+
+dialogue type : s
+A : 
+
+dialogue type : qy^rt
+A :  were um all three of these nets using the same output ?
+
+dialogue type : qy^d^rt
+A :  This multi - language uh labelling ?
+
+dialogue type : s^bk
+A :  OK , OK .
+
+dialogue type : s^bu
+A :  So this would From this you would say , " well , it doesn't really matter if we put Finnish into the training of the neural net , if there 's gonna be , you know , Finnish in the test data . "
+
+dialogue type : qy^d^g^rt
+A :  Right ?
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : sj^ba
+A :  Yeah , that would be interesting .
+
+dialogue type : qy^rt
+A :  Did you do different languages from digits ?
+
+dialogue type : s^2^rt
+A :  Digits on another language ?
+
+dialogue type : qy^d^rt
+A :  So , so the upper part is training TI - digits ?
+
+dialogue type : s^bk
+A :  Ah .
+
+dialogue type : qw^rt
+A :  So where is the baseline for the TI - digits located in here ?
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^bk^fe
+A :  Ah !
+
+dialogue type : s^bk
+A :  Ah , OK , OK .
+
+dialogue type : s^bk
+A :  OK , I see .
+
+dialogue type : s^bk
+A :  OK , OK , gotcha .
+
+dialogue type : s
+A :  Multi - French ,
+
+dialogue type : s
+A :  Multi - Spanish
+
+dialogue type : qy^rt^tc
+A :  Can I ask something real quick ?
+
+dialogue type : s^rt
+A :  In in the upper part in the English stuff , it looks like the very best number is sixty point nine ?
+
+dialogue type : s
+A :  and that 's in the uh the third section in the upper part under PLP JRASTA ,
+
+dialogue type : s
+A :  sort of the middle column ?
+
+dialogue type : qy^rt
+A :  I is that a noisy condition ?
+
+dialogue type : s^bu^rt
+A :  So that 's matched training ?
+
+dialogue type : qy^g^rt
+A :  Is that what that is ?
+
+dialogue type : qw.%--
+A : 
+
+dialogue type : qy^rt
+A :  Wouldn't you get your best number in the clean case ?
+
+dialogue type : s^fe
+A :  Ah ,
+
+dialogue type : s^bk
+A :  OK
+
+dialogue type : s^bs.%--
+A : 
+
+dialogue type : s^bk
+A :  OK ,
+
+dialogue type : s^bk
+A :  alright , I see .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qy^d^rt
+A :  And then so , in the in the um in the non - mismatched clean case , your best one was under MFCC ?
+
+dialogue type : qy^d^g^rt
+A :  That sixty - one point four ?
+
+dialogue type : s^bu^rt.%-
+A :  Oh ! So this upper third ?
+
+dialogue type : qy^d^rt
+A :  Uh that 's still noisy ?
+
+dialogue type : s^bk
+A :  Ah , OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : qw^rt
+A :  Where is that ?
+
+dialogue type : qy^d^g^rt
+A :  seventy - nine , fifty
+
+dialogue type : s^bk
+A :  Oh I see , OK .
+
+dialogue type : s
+A :  I think they have one output .
+
+dialogue type : s
+A :  They s they say in here that the VAD is not used as an additional feature .
+
+dialogue type : qy^rt
+A :  Does does anybody know how they 're using it ?
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bu.%--
+A : 
+
+dialogue type : s^df^no
+A :  I don't understand .
+
+dialogue type : qy^bu^d^rt
+A :  You mean it 's throwing out frames ?
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s^rt
+A :  that 's what I was just gonna ask .
+
+dialogue type : qw^rt
+A :  How can you just throw out frames ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  In the text they say that this this is a tentative block diagram of a possible configuration we could think of .
+
+dialogue type : s^bu
+A :  So that sort of sounds like they 're not doing that yet .
+
+dialogue type : b
+A :  Yeah . Yeah .
+
+dialogue type : s
+A :  I 'm just wondering what exactly did they do up in this table if it wasn't this .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s
+A :  Plus it 's gonna introduce delays .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^bk
+A :  Ah .
+
+dialogue type : qy^rt^rt
+A :  When they removed the silence frames , did they insert some kind of a marker so that the recognizer knows it 's knows when it 's time to back trace or something ?
+
+dialogue type : s^bk
+A :  Oh , right .
+
+dialogue type : qy^bu^d^rt
+A :  Maybe they 're just inserting some nummy frames or something ?
+
+dialogue type : s^bk
+A :  Hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^e
+A :  Some constant vector .
+
+dialogue type : s.%-
+A :  I mean
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^bk
+A :  That 's right .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  what I mean is something that is very distinguishable from speech .
+
+dialogue type : s^df
+A :  So that the the silence model in HTK will always pick it up .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yeah , right .
+
+dialogue type : b
+A :  Yeah , yeah .
+
+dialogue type : s
+A :  They have a they have a thing for doing that
+
+dialogue type : s
+A :  and th they have for awhile , in H T
+
+dialogue type : s
+A :  And you can parallelize the training .
+
+dialogue type : s
+A :  And run it on several machines
+
+dialogue type : s
+A :  and it just basically keeps counts .
+
+dialogue type : s
+A :  And there 's something a final thing that you run
+
+dialogue type : s
+A :  and it accumulates all the counts together .
+
+dialogue type : s^no
+A :  I don't what their scripts are set up to do for the Aurora stuff ,
+
+dialogue type : fh
+A : 
+

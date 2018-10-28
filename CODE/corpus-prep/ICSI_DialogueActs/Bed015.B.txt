@@ -1,0 +1,111 @@
+dialogue type : z
+B :  what things to talk about .
+
+dialogue type : z
+B :  Check check check check .
+
+dialogue type : z
+B :  Alright . Good .
+
+dialogue type : %-
+B : 
+
+dialogue type : %-
+B :  Th
+
+dialogue type : %-
+B : 
+
+dialogue type : qy^bu^d
+B :  So that 's why you put semantic constraints up top and meaning bindings down down here ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bu^rt
+B :  Th - so this definitely should be " semantic constraints " down at the bottom ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^df
+B :  Well he w he went to college here .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^j
+B :  So we 're building a mental space , good .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^j
+B :  Well every time Nancy giggles it means it means that it 's your job .
+
+dialogue type : s
+B :  I r I read that paper ,
+
+dialogue type : qy^bu^d
+B :  the hedges paper ?
+
+dialogue type : s
+B :  I read some of that paper actually .
+
+dialogue type : s^ba
+B :  Oh , man .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s:s
+B :  There 's that quote in Jurafsky and Martin where where it goes where some guy goes , " every time I fire a linguist the performance of the recognizer goes up . "
+
+dialogue type : fg|qy.%-
+B : 
+
+dialogue type : qy
+B :  Can I ask a quick question about this side ?
+
+dialogue type : qy
+B :  Is this , uh was it intentional to leave off things like " inherits "
+
+dialogue type : fh
+B : 
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^bu
+B :  like constructions can inherit from other things ,
+
+dialogue type : qy^rt
+B :  am I right ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^cs^j^rt
+B :  You can just give him the abstract that we wrote for the paper .
+
+dialogue type : s
+B :  The pressure 's on you Nancy .
+

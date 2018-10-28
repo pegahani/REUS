@@ -1,0 +1,204 @@
+dialogue type : qw^rt
+E :  Which meetings is she transcribing ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^bu
+E :  So we 're doing some in parallel .
+
+dialogue type : s^bu.%-
+E :  So they 're just doing their own thing until
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : fg|s^tc
+E :  And , also um , I was just showing Andreas , I got um an X Waves kind of display ,
+
+dialogue type : s^no
+E : 
+
+dialogue type : s
+E :  with like the prosodic stuff where we have like stylized pitches and signals and the transcripts on the bottom
+
+dialogue type : s
+E :  so , right now it 's just an X Waves
+
+dialogue type : s
+E :  and then you have three windows
+
+dialogue type : s
+E :  but I don't know , it looked pretty nice
+
+dialogue type : sj
+E :  and I 'm sure it think it has potential for a little something ,
+
+dialogue type : s^aa^r
+E :  yeah , for a demo .
+
+dialogue type : fh
+E : 
+
+dialogue type : b
+E :  Oh .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Yeah , OK .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Yeah , it 's basically ASCII files or binary files , whatever representation .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I mean we could do it in Matl - I mean you could do it in a number of different places I 'm sure .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : sj^aa^ba
+E :  Yeah , that 'd be very cool .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : h|qw
+E :  Um What do you mean by real time ?
+
+dialogue type : qy.%-
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : sj.x
+E : 
+
+dialogue type : sj
+E :  It would be cool like to see to hear it and see it ,
+
+dialogue type : s
+E :  and see the pitch contours also .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s.%-
+E :  Yeah , I mean y
+
+dialogue type : fg
+E :  Right , right .
+
+dialogue type : sj^df
+E :  I just thought if you meant slides I thought you meant like just like um view graphs or something .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qw^rt
+E :  How much space do you need for these ?
+
+dialogue type : s
+E :  I have um I have an eighteen gig drive hanging off of my computer .
+
+dialogue type : h
+E : 
+
+dialogue type : h|s^rt
+E :  Uh , Samosa .
+
+dialogue type : s^aa
+E :  Yeah , I had .
+
+dialogue type : s
+E :  Well it 's about I think there 's about twelve gig left .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fg|s
+E :  So , I didn't realize it was so critical .
+
+dialogue type : s
+E :  I mean I 'm not doing anything on it right now until I get new meetings to transcri or that are new transcriptions coming in I really can't do anything .
+
+dialogue type : s.%-
+E :  Um not that I can't do anything , I jus
+
+dialogue type : fg
+E : 
+
+dialogue type : s
+E :  I have a lot of space , though .
+
+dialogue type : s.%-
+E :  I have a lot of space and it 's not it 's n
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^aa
+E :  Yeah
+
+dialogue type : s^m
+E :  not for long .
+
+dialogue type : s.%-
+E :  But I mean it 's not going f
+
+dialogue type : sj
+E :  It 's not being used often at all .
+
+dialogue type : %-
+E :  I th
+
+dialogue type : s
+E :  I think it 's about four or five gig
+
+dialogue type : s
+E :  cuz I have four meetings on there ,
+
+dialogue type : s
+E :  three or four meetings .
+
+dialogue type : s.%--
+E :  So .
+
+dialogue type : qy^d^j^rt
+E :  Watch a ball game ?
+
+dialogue type : b
+E :  Yeah .
+

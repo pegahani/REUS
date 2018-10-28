@@ -1,0 +1,1479 @@
+dialogue type : z
+B :  Goats eat cans , to my understanding .
+
+dialogue type : z
+B :  Tin cans .
+
+dialogue type : z
+B :  Could I hit hit F - seven to do that ?
+
+dialogue type : z
+B : 
+
+dialogue type : z
+B :  Robert ?
+
+dialogue type : z
+B :  Oh , the remote will do it
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  Cuz I 'm already up there ?
+
+dialogue type : z
+B :  You are in control .
+
+dialogue type : z
+B :  Already ?
+
+dialogue type : z
+B :  I Well it makes it easier to do
+
+dialogue type : z
+B : 
+
+dialogue type : z
+B :  Ah !
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^t1
+B :  So , Let 's see .
+
+dialogue type : qw^t1
+B :  Which one of these buttons will do this for me ?
+
+dialogue type : s^fe
+B :  Aha !
+
+dialogue type : b
+B :  OK .
+
+dialogue type : qy^m^rt^t1
+B :  Do I wanna go back to the first one ?
+
+dialogue type : s^aa
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^co
+B :  Introduce .
+
+dialogue type : s^no
+B :  Although I 've I 've never I don't know what the light bulb is for .
+
+dialogue type : s
+B :  I didn't i install that into my PowerPoint presentation .
+
+dialogue type : s^bk
+B :  Ah .
+
+dialogue type : s^nd
+B :  I 'd prefer not to .
+
+dialogue type : s^rt
+B :  Because I 'm gonna switch to the JavaBayes program
+
+dialogue type : s
+B :  and then if I do that it 'll mess everything up .
+
+dialogue type : qy^rt
+B :  Is that OK ?
+
+dialogue type : qy^d.%--
+B : 
+
+dialogue type : qw^br
+B :  Wait , what do you want me to do ?
+
+dialogue type : s^aap
+B :  Well I can do that ,
+
+dialogue type : s^ng
+B :  but then I have to end the presentation in the middle so I can go back to open up
+
+dialogue type : s.%-
+B : 
+
+dialogue type : qy^rt
+B :  Is that better ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^cc
+B :  Uh I 'll also get rid of this " Click to add notes " .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s
+B :  So then the features we decided or we decided we were talked about ,
+
+dialogue type : qy^d^f^g
+B :  right ?
+
+dialogue type : s
+B :  Uh the the prosody , the discourse , verb choice .
+
+dialogue type : s
+B :  You know . We had a list of things like " to go " and " to visit " and what not .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I knew you 'd like that .
+
+dialogue type : s^ft
+B :  Thank you .
+
+dialogue type : s
+B :  uh , of a of a building .
+
+dialogue type : s.%--
+B :  Whether the
+
+dialogue type : s
+B :  and this i we actually have a separate feature
+
+dialogue type : s
+B :  but I decided to put it on the same line for space .
+
+dialogue type : s
+B :  " Nice walls " which we can look up
+
+dialogue type : s.%--
+B :  because I mean if you 're gonna get real close to a building in the Tango mode ,
+
+dialogue type : qy^d^f^g
+B :  right ,
+
+dialogue type : s
+B :  there 's gotta be a reason for it .
+
+dialogue type : s
+B :  And it 's either because you 're in route to something else or you wanna look at the walls .
+
+dialogue type : s
+B :  The context , which in this case we 've limited to " business person " , " tourist " , or " unknown " ,
+
+dialogue type : s
+B :  the time of day ,
+
+dialogue type : s
+B :  and " open to suggestions " , isn't actually a feature .
+
+dialogue type : s
+B :  It 's " We are open to suggestions . "
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  They 're separate things .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  I either could put " nice walls " on its own line or " open to suggestions " off the slide .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^nd.%-
+B : 
+
+dialogue type : fg|s^ng.%--
+B : 
+
+dialogue type : s
+B :  Like you m might be able to " Vista " it ,
+
+dialogue type : qy^d^g
+B :  right ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s.%--
+B :  versus , like ,
+
+dialogue type : s^rt
+B :  I was at this place in Europe where they had little carvings of , like , dead people on the walls or something .
+
+dialogue type : s^no.%--
+B :  I don't remember w
+
+dialogue type : s
+B :  It was a long time ago .
+
+dialogue type : s
+B :  But if you looked at it real close , you could see the the in intricacy of the of the walls .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^aa
+B :  Exactly .
+
+dialogue type : qy^d
+B :  Robert ?
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^arp.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qy.%--
+B : 
+
+dialogue type : s^bu
+B :  They 're not exclusive groups ,
+
+dialogue type : qy^g
+B :  are they ?
+
+dialogue type : s.%--
+B :  Like non - tourist - y landmarks and
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg|s
+B :  OK , So our initial idea was not very satisfying , because uh our initial idea was basically all the features pointing to the output node .
+
+dialogue type : fh
+B :  Uh .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Reasons being , you know , it 'd be a pain to set up all the probabilities for that .
+
+dialogue type : s
+B :  If we moved onto the next step and did learning of some sort , uh according Bhaskara we 'd be handicapped .
+
+dialogue type : s^no
+B :  I don't know belief - nets very well .
+
+dialogue type : sj^2
+B :  And they wouldn't look pretty .
+
+dialogue type : s.%--
+B :  So .
+
+dialogue type : fh
+B :  Uh .
+
+dialogue type : s
+B :  So then our next idea was to add a middle layer ,
+
+dialogue type : qy^d^f^g
+B :  right ?
+
+dialogue type : s.%--
+B :  So the thinking behind that was we have the features that we 've drawn from the communication of some Like , the someone s
+
+dialogue type : s
+B :  The person at the screen is trying to communicate some abstract idea ,
+
+dialogue type : s
+B :  like " I 'm " the the abstract idea being " I am a tourist
+
+dialogue type : s
+B :  I want to go to this place . "
+
+dialogue type : qy^d^f^g
+B :  Right ?
+
+dialogue type : s
+B :  So we 're gonna set up features along the lines of where they want to go
+
+dialogue type : s
+B :  and what they 've said previously and whatnot .
+
+dialogue type : s
+B :  And then we have the means that they should use .
+
+dialogue type : qy^d^f^g
+B :  Right ?
+
+dialogue type : s
+B :  but the middle thing , we were thinking along the lines of maybe trying to figure out , like , the concept of whether they 're a tourist or whether they 're running an errand or something like that
+
+dialogue type : s
+B :  along those lines .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^aa|s
+B :  Yes , we could things we couldn't extract the from the data , the hidden variables .
+
+dialogue type : s^aa
+B :  Yes ,
+
+dialogue type : sj^ba
+B :  good .
+
+dialogue type : s
+B :  So then the hidden variables hair variables we came up with were whether someone was on a tour , running an errand , or whether they were in a hurry ,
+
+dialogue type : s.%-
+B :  because we were thinking uh , if they were in a hurry there 'd be less likely to like or th
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s
+B :  Or they might be more likely to be using the place that they want to go to as a like a navigational point to go to another place .
+
+dialogue type : s
+B :  Whether the destination was their final destination ,
+
+dialogue type : s
+B :  whether the destination was closed .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^tc
+B :  And then " Let 's look at the belief - net " OK .
+
+dialogue type : s^t1
+B :  So that means that I should switch to the other program .
+
+dialogue type : s
+B :  Um right now it 's still kind of in a toy version of it ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Well I 'll talk about it when I get the picture up .
+
+dialogue type : h
+B :  OK .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^t1
+B :  Let 's see .
+
+dialogue type : qw^t1
+B :  What happens if I maximize this ?
+
+dialogue type : s^t1
+B :  There we go .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  So . The mode basically has three different outputs .
+
+dialogue type : s.%--
+B :  The probability whether the probability of a Vista , Tango , or Enter .
+
+dialogue type : h|s
+B :  Um The " context " , we simplified .
+
+dialogue type : s
+B :  Basically it 's just the businessman , the tourist , unknown .
+
+dialogue type : s
+B :  " Verb used " is actually personally amusing
+
+dialogue type : s
+B :  mainly because it 's it 's just whether the verb is a Tango verb , an Enter verb , or a Vista verb .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : fg
+B : 
+
+dialogue type : qh^cs
+B :  Why don't you mention things about this , Bhaskara ,
+
+dialogue type : s
+B :  that I am not that are not coming to my mind right now .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^nd
+B :  it 's so it sort of is
+
+dialogue type : s^df
+B :  because it 's because have the the time of day
+
+dialogue type : s.%--
+B :  and the close
+
+dialogue type : s
+B :  it just had the er and what time it closed .
+
+dialogue type : s
+B :  Yeah the the actual parse is somewhere up around in here .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s
+B :  There were there 'd be other things besides just the admission fee ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  That was the initial one that we found .
+
+dialogue type : s^2.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : fg
+B :  One , uh Uh . Um ,
+
+dialogue type : qo^rt^tc
+B :  anything else you want to say Bhaskara ?
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa.%-
+B :  Yeah , th
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : s
+B :  so one thing I I 'm you know unsure about , is how we have the discus uh the " admission fee " thing set up .
+
+dialogue type : s.%--
+B :  So one thing that we were thinking was by doing the layers like this ,
+
+dialogue type : s
+B :  Uh we kept um things from directly affecting the mode beyond the concept ,
+
+dialogue type : s
+B :  but you could see perhaps discus the " admission fee " going directly to the mode pointing at " Enter " ,
+
+dialogue type : qy^d^f^g
+B :  right ?
+
+dialogue type : s^rt
+B :  Versus pointing to just at " tourist " ,
+
+dialogue type : qy^d^f^g
+B :  OK ?
+
+dialogue type : s
+B :  But we just decided to keep all the things we extracted to point at the middle and then down .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^bk^m
+B :  Navigational landmarks ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : b
+B :  Yeah ,
+
+dialogue type : s
+B :  that would be whatever building they referred to .
+
+dialogue type : s^na
+B :  That 's how we have it currently set up ,
+
+dialogue type : s
+B :  but it could be , you know , based upon hour
+
+dialogue type : s
+B :  or dis we could discrete it des descret - ize it .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^aap
+B :  Or un unknown ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : s.%-
+B :  Wi
+
+dialogue type : s^m
+B :  It is binary
+
+dialogue type : s^df
+B :  but it doesn't have question mark because it 's extracted .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm . Yeah .
+
+dialogue type : s:s
+B :  I want to get to the church quickly ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Excellent .
+
+dialogue type : qy
+B :  Do we have anything else to say about this ?
+
+dialogue type : s^bk.%--
+B :  Oh the
+
+dialogue type : s^aa^rt
+B :  Yeah , we could .
+
+dialogue type : s^arp
+B :  But the demo doesn't work very well .
+
+dialogue type : s^2
+B :  Observe nodes .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^t1
+B :  Dat - dat - dah .
+
+dialogue type : qw
+B :  What should I observe ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^bk^j
+B :  I love nice walls ,
+
+dialogue type : s^bk^rt
+B :  OK ?
+
+dialogue type : s^j
+B :  I 'm a big fan .
+
+dialogue type : qy^bu^d^m
+B :  And the time of day is night ?
+
+dialogue type : s^bk
+B :  Alright .
+
+dialogue type : %--
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^t1
+B :  Oh whoops .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^fe
+B :  Ach !
+
+dialogue type : s
+B :  One thing that bugs me about JavaBayes is you have to click that and do this .
+
+dialogue type : qy^d^rt
+B :  That all you want ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^t1
+B :  So let 's see .
+
+dialogue type : s^bu
+B :  I want to query ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s
+B :  the mode .
+
+dialogue type : s^rt^t1.%--
+B : 
+
+dialogue type : s^t1
+B :  So let 's see .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  If it 's night time , they have not discussed admission fee , and the n walls are nice .
+
+dialogue type : s
+B :  So , yeah .
+
+dialogue type : s^am
+B :  I guess that sort of makes sense .
+
+dialogue type : s^df^rt
+B :  The reason I say the demo doesn't work very well is yesterday we uh observed everything in favor of taking a tour ,
+
+dialogue type : s
+B :  and it came up as " Tango " ,
+
+dialogue type : qy^d^f^g
+B :  right ?
+
+dialogue type : s
+B :  Over and over again .
+
+dialogue type : s^j
+B :  We couldn't we couldn't figure out how to turn it off of " Tango " .
+
+dialogue type : s^aa
+B :  Yeah , yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^j
+B :  Spent my youth practicing the tango de la muerte .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^rt
+B :  I guess once we look at the data more we 'll get more hidden nodes ,
+
+dialogue type : s
+B :  but I 'd like to see more .
+
+dialogue type : s^rt
+B :  Not because it would expedite the probabilities , cuz it wouldn't .
+
+dialogue type : s
+B :  It would actually slow that down tremendously .
+
+dialogue type : %-
+B :  But .
+
+dialogue type : s^ar.%
+B :  No ,
+
+dialogue type : s^j
+B :  I think we should have uh exponentially more middle nodes than features we 've extracted .
+
+dialogue type : s^bd.%--
+B :  I 'm ju I 'm just jo
+
+dialogue type : s
+B :  Well the I kind of thought of " doing business " as more of running an errand type thing .
+
+dialogue type : s.%-
+B :  So i wi th
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^fe^t1
+B :  Oops .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s.%--
+B :  We were thi
+
+dialogue type : b
+B :  Yeah ,
+
+dialogue type : s.%-
+B :  We were th
+
+dialogue type : h|s
+B :  Uh , well it depends on how many things it 's linked to .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^bk
+B :  Yeah , that 's true .
+
+dialogue type : qy^bu^rt
+B :  Also you know , didn't we have a size as one ?
+
+dialogue type : s^r^rt
+B :  The size of the landmark .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  For some reason I had that OK , that was a thought that I had at one point
+
+dialogue type : s
+B :  but then went away .
+
+dialogue type : fg
+B :  Way
+
+dialogue type : qy^ng
+B :  Does it actually help to distinguish between those two cases though ?
+
+dialogue type : qr^e^rt
+B :  Whether it 's practically speaking enterable , or actually physically enterable or not ?
+
+dialogue type : s^aap.%-
+B : 
+
+dialogue type : s^bu
+B :  Whether it 's a Whether it 's a public building , and whether it 's actually has a door .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  So Tom Cruise 's house is not a public building
+
+dialogue type : s
+B :  but it has a door .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  OK , sh
+
+dialogue type : s^co
+B :  explain to me why it 's necessary to distinguish between whether something has a door and is not public .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Or " not public " and " not a door " are equivalent things ,
+
+dialogue type : s
+B :  it seems like in practice .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : qy^j
+B :  Does it have nice walls ?
+
+dialogue type : s^bk
+B :  Excellent .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  You could affect Theoretically you could affect " doing business " with " has door " .
+
+dialogue type : s^t1
+B :  Let 's see .
+
+dialogue type : s^rt
+B :  Well , we have it saved .
+
+dialogue type : s^rt
+B :  So . We can rel open it up again .
+
+dialogue type : s^rt
+B :  The safety net .
+
+dialogue type : s^t1
+B :  Let 's see .
+
+dialogue type : s
+B :  So this is " has door "
+
+dialogue type : s
+B :  Uh , true , false .
+
+dialogue type : s
+B :  That 's acceptable .
+
+dialogue type : s^rt
+B :  And I want to edit the function going to that ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^m
+B :  Oh no .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^bk^m
+B :  It was fine .
+
+dialogue type : s.%
+B :  added this one .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^co
+B :  Oh wait ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qy.%--
+B :  Did we w
+
+dialogue type : s
+B :  Yes ,
+
+dialogue type : sj^ba
+B :  that 's not good .
+
+dialogue type : s^t1
+B :  Let 's see .
+
+dialogue type : s^fe
+B :  Oops .
+
+dialogue type : s^ar
+B :  No it doesn't , actually .
+
+dialogue type : s^ar^m
+B :  I didn't think it did learning .
+
+dialogue type : s
+B :  Maybe it did a little bit of learning ,
+
+dialogue type : s
+B :  I don't remember .
+
+dialogue type : s
+B :  Which is w quite positive ,
+
+dialogue type : s^bk
+B :  yeah .
+
+dialogue type : s
+B :  But actually it had an interface .
+
+dialogue type : s.%--
+B :  A lot of them were like , you know .
+
+dialogue type : b
+B :  Huh .
+
+dialogue type : s.%-
+B :  The c
+
+dialogue type : s
+B :  There 's like an XML format for Bayes - nets .
+
+dialogue type : s^aa
+B :  The - there is one .
+
+dialogue type : s^no
+B :  I don't know if this uses it .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : fg|s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Uh , yes I do actually .
+
+dialogue type : h
+B :  Let me see .
+
+dialogue type : sj^ba
+B :  Oh man ,
+
+dialogue type : qy^rt
+B :  I didn't n Is there an ampersand in DOS ?
+
+dialogue type : s^ar
+B :  We - That 's alright .
+
+dialogue type : s
+B :  I can probably double cli click on it .
+
+dialogue type : s^t1
+B :  Let 's see .
+
+dialogue type : s^r^t1
+B :  Let 's see ,
+
+dialogue type : s^t1
+B :  come on .
+
+dialogue type : s^j
+B :  One of these days , it should open this ,
+
+dialogue type : s^j
+B :  theoretically .
+
+dialogue type : s
+B :  Oh there we go .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^fe
+B :  Oh !
+
+dialogue type : s
+B :  W Ah , it was dead . To the world .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^rt
+B :  I like I like Word Pad because it has the uh the returns ,
+
+dialogue type : s^rt
+B :  the carriage returns on some of them .
+
+dialogue type : s^rt
+B :  You know how they get " auto - fills " I guess ,
+
+dialogue type : s^rt
+B :  or whatever you call it .
+
+dialogue type : s
+B :  It just basically looks like it just specifies a bunch of
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fg|s.%-
+B : 
+
+dialogue type : s^cs
+B :  Actually we could write a program that could generate this .
+
+dialogue type : s^df
+B :  Yeah you could .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : qy^2^bu^rt
+B :  We could manipulate the source itself ?
+
+dialogue type : %-
+B : 
+
+dialogue type : s^no.%-
+B : 
+
+dialogue type : qy.%-
+B : 
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s.%--
+B :  I didn't e
+
+dialogue type : s^bk^m
+B :  Up one .
+
+dialogue type : sj^ba
+B :  Ah yes , good .
+
+dialogue type : s
+B :  " Source " .
+
+dialogue type : sj^ba
+B :  That 's that 's quite nice .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s
+B :  Yeah I know there is an I was looking on the we web page
+
+dialogue type : s
+B :  and he 's updated it for an XML version of I guess Bayes - nets .
+
+dialogue type : s
+B :  There 's a Bayes - net spec for in XML .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  Well th you can either you ca or you can read both .
+
+dialogue type : s
+B :  To my understanding .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I could have misread the web page ,
+
+dialogue type : s
+B :  I have a habit of doing that ,
+
+dialogue type : fh
+B :  but .
+
+dialogue type : s^m
+B :  Do I have more slides ?
+
+dialogue type : h|s
+B :  Um yes ,
+
+dialogue type : s
+B :  one more .
+
+dialogue type : s
+B :  " Future Work " .
+
+dialogue type : s^cs
+B :  I think every presentation have a should have a " Future Work " slide .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  we already talked about all this stuff ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : s^aap
+B :  Uh that 's future future work .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s:s
+B :  And of course if you have a presentation that doesn't have something that doesn't work at all , then you have " What I learned " , as a slide .
+
+dialogue type : s^aa^rt
+B :  You could .
+
+dialogue type : s
+B :  My first approach failed .
+
+dialogue type : s
+B :  What I learned .
+
+dialogue type : s^t^tc
+B :  OK , so I think that uh our presentation 's finished .
+
+dialogue type : s
+B :  I know what I like about these meetings is one person will nod , and then the next person will nod , and then it just goes all the way around the room .
+
+dialogue type : s
+B :  No I Earlier I went and Bhaskara went and you did it .
+
+dialogue type : s
+B :  You did it .
+
+dialogue type : qy^rt
+B :  Should I pull up the net again ?
+
+dialogue type : s^aa
+B :  Yes .
+
+dialogue type : s
+B :  There we go .
+
+dialogue type : s^t1.%-
+B : 
+
+dialogue type : s^t1
+B :  cuz I got a wireless mike on .
+
+dialogue type : s^bs.%--:s.%--
+B : 
+
+dialogue type : s
+B :  " admission fee " , or maybe , you know , " how much to enter "
+
+dialogue type : s
+B :  or you know something ,
+
+dialogue type : s
+B :  other cues .
+
+dialogue type : s^aa
+B :  Exactly .
+
+dialogue type : s
+B :  That would all f funnel into one node that would constitute entrance requirements or something like that .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I guess , the fact that the there 's a complete separation between the observed features and in the output .
+
+dialogue type : s^df.%--
+B :  I mean , it makes it cleaner , but then uh I mean .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^rt:s
+B :  or increase the probability of " enter directly " versus " going there via tourist " .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Yeah ,
+
+dialogue type : sj^ba
+B :  that makes sense .
+
+dialogue type : qy^d
+B :  There are places in Germany where it costs two hundred fifty dollars to enter ?
+
+dialogue type : qy^bh
+B :  Really ?
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : s^rt:s
+B :  If you want to see " The Magic Flute " or something .
+
+dialogue type : s
+B :  The Spagos of Heidelberg .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : fg
+B :  Oh yeah ,
+
+dialogue type : s
+B :  I think I see .
+
+dialogue type : s^bu
+B :  So the discourse refers to " admission fee " but it just turns out that they change their mind in the middle of the discourse .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : qw.%--
+B : 
+
+dialogue type : qw.%--
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s
+B :  You 'd uh probably have to transfer in Chicago .
+
+dialogue type : s^rt.%-
+B : 
+
+dialogue type : s
+B :  One time I saw a report on trains ,
+
+dialogue type : s.%--
+B :  and I think there is a l
+
+dialogue type : s^no.%--
+B : 
+
+dialogue type : s
+B :  I thought there was a line that went from somewhere ,
+
+dialogue type : s
+B :  maybe it was Sacramento to Chicago ,
+
+dialogue type : s
+B :  but there was like a California to Chicago line of some sort .
+
+dialogue type : s
+B :  I could be wrong though .
+
+dialogue type : s
+B :  It was a while ago .
+
+dialogue type : b
+B :  Yeah
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  They might have blown it up .
+
+dialogue type : s^ng
+B :  I 'm frightened by Amtrak myself .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  They seem to have a lot of accidents on the Amtrak .
+
+dialogue type : s^aa
+B :  Yeah . Yeah .
+
+dialogue type : s
+B :  This is going to be an interesting transcript .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : qy^bu^j^rt
+B :  It 'd help it figure it out .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  The features ,
+
+dialogue type : s^no
+B :  I don't know ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bs
+B :  Basically just refine some of the more general nodes .
+
+dialogue type : sj^e
+B :  Some of them are completely absurd too ,
+
+dialogue type : s^rt
+B :  like they want to enter , but it 's closed ,
+
+dialogue type : s^rt
+B :  it 's night time ,
+
+dialogue type : s^f.%--
+B :  you know
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^2
+B :  confused .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qw^rt
+B :  Who 's talking on Wednesday ?
+
+dialogue type : s^no
+B :  I haven't J Jerry never sent out a sent out an email ,
+
+dialogue type : qy
+B :  did he , ever ?
+
+dialogue type : s^fe
+B :  Ah !
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : qy^rt
+B :  Do you want to trade ?
+
+dialogue type : s^bk
+B : 
+
+dialogue type : qw^rt
+B :  Why does SmartKom need a network ?
+
+dialogue type : s^bk
+B :  Ah .
+
+dialogue type : s^2
+B :  It 's plugged in .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^2
+B :  One of us ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : sj^j
+B :  I like how we 've you guys have successfully narrowed it down .
+
+dialogue type : s:qy^rt
+B :  " Is one of you going to be the subject ? "
+
+dialogue type : s.%--:qy^rt.%--
+B : 
+
+dialogue type : s^co^j
+B :  jump in .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  I know .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : sj^ba^t3
+B :  I like that .
+
+dialogue type : s^t3:s^co
+B :  " Test the wizard . "
+
+dialogue type : s^j^t3
+B :  I want that on a T - shirt .
+
+dialogue type : s^bk
+B :  Alrighty .
+
+dialogue type : qy^rt^tc
+B :  So is this the official end of the meeting now ?
+
+dialogue type : s
+B :  I just randomly label things .
+
+dialogue type : s
+B :  So that has nothing to do with economics or anything .
+

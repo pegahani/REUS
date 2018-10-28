@@ -1,0 +1,447 @@
+dialogue type : qw
+C :  But wh wh wh what are the box ?
+
+dialogue type : qw.%-
+C :  But what w
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s
+C :  You know , I I can I can build , eh , any computer uh you n installing whatever . It 's needed ,
+
+dialogue type : s^df
+C :  I mean , I will enjoy doing it .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s
+C :  That 's OK for me .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b.%
+C :  Hmm - hmm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Yeah ,
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^na
+C :  I think so .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  That 's OK .
+
+dialogue type : b
+C :  Hmm - hmm - hmm .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  Uh , there there there are couple of comments I I have about the web pages .
+
+dialogue type : s
+C :  One is is the , uh , I think it 's Joe 's , uh , graphic , I think it should be better .
+
+dialogue type : s
+C :  Maybe you are working at it .
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : s^cs.%--
+C :  And then maybe the the ICSI logo could be could be could be ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^ar
+C :  No ,
+
+dialogue type : s.%--
+C :  it is just ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^cs
+C :  Maybe we can we can , uh , translate the white color into transparent color
+
+dialogue type : s^df
+C :  so it will get more natural .
+
+dialogue type : s^df
+C :  It 's just a suggestion .
+
+dialogue type : s^2
+C :  To the home page .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^na
+C :  That 's that 's OK .
+
+dialogue type : s^bk
+C :  Hmm - hmm - hmm .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : %-
+C :  I
+
+dialogue type : s^cc
+C :  I will take a look and I will tell you something .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  No ,
+
+dialogue type : s^aa^r
+C :  no , no .
+
+dialogue type : %-
+C :  I I just I
+
+dialogue type : s
+C :  In fact the Pacific Bell phone was not working , for example
+
+dialogue type : s
+C :  when I tried the the phone on this booklet it was not working .
+
+dialogue type : s.%-
+C :  But the thing is that maybe this could be on a starting point or or if digest
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm ?
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^na
+C :  that 's OK , too .
+
+dialogue type : b
+C :  Hmm - hmm - hmm .
+
+dialogue type : s^aa
+C :  OK .
+
+dialogue type : s^rt
+C :  Oh , I 'll be I 'll be here until the end of July .
+
+dialogue type : fh
+C :  And , uh ,
+
+dialogue type : fh
+C :  well , eh
+
+dialogue type : s^e
+C :  even later if , uh , there is some interesting work , uh , going on ,
+
+dialogue type : s
+C :  well I I will be able to to do some work from Spain too .
+
+dialogue type : s
+C :  So , that 's my future uh forecast .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk|s
+C :  Yeah , well , you know , uh the problem the I think that we have a a problem or a difference in Spain , at least , compared with the Americans .
+
+dialogue type : s^df
+C :  And i is that our students are , uh are not getting involved in research until they have , uh , finished their studies .
+
+dialogue type : s^ba
+C :  So , uh , it 's something a little bit , uh , strange
+
+dialogue type : s.%-
+C :  but it is this this is the w
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^rt
+C :  You you have to to pass the different tests
+
+dialogue type : s^rt
+C :  and you have to study the different subjects .
+
+dialogue type : s
+C :  And , until you have finished with this , uh well OK , you can do it by by your own ,
+
+dialogue type : s^rt
+C :  but but the thing is that you 're not supposed to do it .
+
+dialogue type : s
+C :  And usually students are pretty busy for not doing other things .
+
+dialogue type : fh
+C :  Uh .
+
+dialogue type : h|s^nd
+C :  Ah yeah em nnn , not really .
+
+dialogue type : s^na
+C :  You know , there is .
+
+dialogue type : s^na^r
+C :  There is .
+
+dialogue type : s^df
+C :  But , uh , it is not a research work .
+
+dialogue type : s^df
+C :  Usually it 's an application work .
+
+dialogue type : s
+C :  So you build a web site , your own E - commerce site , uh , whatever ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : %-
+C : 
+
+dialogue type : s^df
+C :  But it is not , uh , something your teacher provides you some research papers and you , let 's say , build a simulator or try to .
+
+dialogue type : fg
+C :  So
+
+dialogue type : s^tc
+C :  we have , uh , other students are which are , uh , mmm people that has a grant
+
+dialogue type : s
+C :  and they are they are starting as , uh , researchers ,
+
+dialogue type : fh|s
+C :  aaa , but this is only connected to your own funding
+
+dialogue type : s
+C :  so if you if you have projects you can have , uh , people working with you .
+
+dialogue type : s
+C :  If you don't have , a research project well , you cannot pay them
+
+dialogue type : s
+C :  so u u usually you don't have anybody .
+
+dialogue type : s
+C :  So it 's kind of , uh , dependent on the funding we have in some projects .
+
+dialogue type : fh
+C :  So
+
+dialogue type : %
+C :  w
+
+dialogue type : s
+C :  it 's not sure ,
+
+dialogue type : s
+C :  not really sure .
+
+dialogue type : s^bk
+C :  Yeah ,
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  I think we could We could find , uh , some , eh work force .
+
+dialogue type : qy^d^f^g
+C :  OK ?
+
+dialogue type : s.%--
+C :  Because well , you you can , eh , fo redirect you know , the the work as uh let 's say as a subject work of something that you can you can try to , eh , s
+
+dialogue type : s
+C :  In some subjects , in fact , eh , the the the , uh , topics are more open
+
+dialogue type : s
+C :  so you can introduce some research topics too .
+
+dialogue type : fh
+C :  So
+
+dialogue type : s
+C :  but the main thing is that there is a , uh , this big difference
+
+dialogue type : s^df
+C :  because , eh , students are not supposed to do research , eh , work until they have finished their gra their grade .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^aa
+C :  sure .
+
+dialogue type : s^aa^r
+C :  Sure .
+
+dialogue type : s^aa|s^na
+C :  Yeah , I think so too ,
+
+dialogue type : s
+C :  but , eh , you know , it also depends on the subjects
+
+dialogue type : s^df
+C :  because sometimes subjects are fixed
+
+dialogue type : s^df
+C :  so you cannot you cannot , uh uh , give any any stuff you want .
+
+dialogue type : s^df
+C :  You have to to provide a certain a certain prime for the subject too ,
+
+dialogue type : s
+C :  but , you know , sometimes , especially in the in the latest , eh uh , courses uh , things are probably more open
+
+dialogue type : s
+C :  and , well , it it is something that can be changed .
+
+dialogue type : s
+C :  Well , they are they are using the the the same idea of labelling packets with a with a content descriptor or something .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  There 's a connection point .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^2
+C :  Later .
+
+dialogue type : s^nd
+C :  Oh , not really , you know ,
+
+dialogue type : fh|s
+C :  uh , I I I I think that Well , in the future , somebody will come to the NSA group
+
+dialogue type : fh
+C :  eh
+
+dialogue type : %
+C :  Ah ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^ar|s.%--
+C : 
+
+dialogue type : fg
+C :  OK ,
+
+dialogue type : s^nd
+C :  I I I think that it cannot , eh , be , eh considered the first type task to do
+
+dialogue type : s^df
+C :  because nobody is is knowledgeable about multicasting
+
+dialogue type : s^cs
+C :  but I think that , eh , any of us could address these things in the future ,
+
+dialogue type : s^cs
+C :  or maybe a new person could address this . in the future .
+
+dialogue type : fh
+C :  So
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  I mean , wh what I think is that , uh , it it makes no sense to me to reduce , uh , uh , uh , uh , something which is more or less complete ,
+
+dialogue type : s^df
+C :  because we don't have the person .
+
+dialogue type : s^cs
+C :  I think that the the way to to go is probably the opposite , to try to find something which has a meaning by itself
+
+dialogue type : s^cs
+C : 
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^fa
+C :  Sorry .
+
+dialogue type : s^bk
+C :  Yeah ,
+
+dialogue type : s
+C :  that 's OK .
+
+dialogue type : s^fa
+C :  Sorry , sorry ,
+
+dialogue type : fh
+C :  heh ?
+
+dialogue type : %-
+C :  Now I
+
+dialogue type : s^bk
+C :  OK .
+

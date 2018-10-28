@@ -1,0 +1,1140 @@
+dialogue type : s
+D :  That 's our system .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^t1.%-
+D :  Speaking
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : qy^rt
+D :  So does she have transcribers right now who are basically sitting idle because there 's no data back from IBM
+
+dialogue type : qy^bu^d^r^rt
+D :  no ?
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : s
+D :  Because I I need to ask Jane whether it 's it would be OK for her um , s some of her people to transcribe uh some of the initial data we got from the SmartKom data collection , which is these short like five or seven minute sessions .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  The Again , we we have a similar uh logistic set - up where we are supposed to send the data to Munich
+
+dialogue type : s
+D :  and get it transcribed and get it back .
+
+dialogue type : s
+D :  But to get going we would like some of the data transcribed right away so we can get started .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%-
+D :  I mean since these are very short , that should really be uh ,
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : fg
+D :  Right , s
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : s
+D :  So So it 's basically one channel to transcribe .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s
+D :  And some of it is read speech , so we could give them the the thing that they 're reading
+
+dialogue type : s.%-
+D : 
+
+dialogue type : fh
+D :  And so um ,
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^cc
+D :  Uh if if that 's OK with you to to , you know , get that stuff uh to ask her for that , then I 'll do that .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  OK , yeah .
+
+dialogue type : s^bk
+D :  Alrighty .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qy^bh
+D :  Really ?
+
+dialogue type : qy^rt.%--
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : sj^cs
+D :  It would be cool if we could uh get that to work uh at at SRI
+
+dialogue type : s^df.%--
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b.%
+D :  Mmm .
+
+dialogue type : s^cs.%-
+D : 
+
+dialogue type : qy^bu^d^m^rt
+D :  We have ?
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : fg
+D : 
+
+dialogue type : s^cs
+D :  But But it would be cool if the Transcriber interface had like another window for the you know , maybe above the waveform where it would show some arbitrary valued function that is that is you know time synchron ti ti time synchronous with the wavform .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  But it would almost be like having another waveform displayed .
+
+dialogue type : %-
+D :  S
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  But you still need to store the disks somehow .
+
+dialogue type : %-
+D : 
+
+dialogue type : qy^bu^d^rt.%-
+D : 
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^e^rt
+D :  Plus we 're talking about buying a second dis uh , file server .
+
+dialogue type : s^bk
+D :  I see Oh , I see .
+
+dialogue type : qy^bu^d.%--
+D : 
+
+dialogue type : b
+D :  mmm .
+
+dialogue type : qw^bu^d^rt
+D :  XG ?
+
+dialogue type : s^bu
+D :  That 's also where we store the The uh Hub - five training set waveforms ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s
+D :  But I 've also been storing I 've been storing the feature files there
+
+dialogue type : s
+D :  and I guess I can s start deleting some because we now know what the best features are
+
+dialogue type : s
+D :  and we won't be using the old ones anymore .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D :  Maybe I 'm confu
+
+dialogue type : s^fa
+D :  Oh no I 'm sorry .
+
+dialogue type : s^bk
+D :  Oh OK .
+
+dialogue type : s^na
+D :  I think you 're right .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : %-
+D :  The b
+
+dialogue type : s
+D :  I 'm also using DG
+
+dialogue type : s
+D :  I got that confused .
+
+dialogue type : s
+D :  OK .
+
+dialogue type : %-
+D : 
+
+dialogue type : %-
+D : 
+
+dialogue type : %
+D :  Mmm .
+
+dialogue type : s.%--
+D :  One One On - One thing to in to um t to do when you need to conserve space is
+
+dialogue type : s
+D :  I bet there are still some old , uh , like , nine gig disks , uh , around
+
+dialogue type : s
+D :  and you can probably consolidate them onto larger disks
+
+dialogue type : s
+D :  and and you know recover the space .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^cs
+D :  Maybe we can put some disks in the in that back room there .
+
+dialogue type : s^2^rt
+D :  To the machine that collects the data .
+
+dialogue type : s^rt
+D :  So then you could , at least temporarily , store stuff there .
+
+dialogue type : %-
+D : 
+
+dialogue type : qw^bu
+D :  What do you mean it 's not on the net ?
+
+dialogue type : qy^bu^d^rt
+D :  Oh because it 's because it 's an ACIRI machine ?
+
+dialogue type : s^bk
+D :  Oh , oh oh .
+
+dialogue type : sj
+D :  But that can't be that hard .
+
+dialogue type : fh
+D : 
+
+dialogue type : %-
+D :  Oh ,
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : qy^rt
+D :  Is this gotta be in the morning ?
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D :  Because you know I Fridays I have to leave uh like around uh two .
+
+dialogue type : s^cs.%-
+D :  So if it could be before that would be be
+
+dialogue type : s^bk
+D :  Oh , OK , alright .
+
+dialogue type : s^fa
+D :  Oh I 'm sorry , I misunderstood .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Alright .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : fg|s^tc
+D :  Um Uh One thing I mean we in past meetings we had um also a you know various variously talked about the um work that w uh was happening sort of on the on the recognition side
+
+dialogue type : fh|s
+D :  um but isn't necessarily related to meetings uh specifically .
+
+dialogue type : s^cs
+D :  So . Um . And I wondered whether we should maybe have um a separate meeting
+
+dialogue type : s
+D :  and between you know , whoever 's interested in that
+
+dialogue type : s^df
+D :  because I feel that uh there 's plenty of stuff to talk about
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Well , it 's that It 's just gonna be ver very boring for people who are not you know , sort of really interested in the details of the recognition system .
+
+dialogue type : s.%--
+D :  Well I know Well , Jane an
+
+dialogue type : qr.%--
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : fg
+D :  So ,
+
+dialogue type : fh
+D :  uh , uh ,
+
+dialogue type : s
+D :  Liz and Jane probably .
+
+dialogue type : s
+D :  Uh . Uh , if you wanna put it that way .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^by
+D :  I mean it it 's sort of I mean when when the talk is about data collection stuff , sometimes I 've you know , I I 'm bored .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  I 'm
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah
+
+dialogue type : %-
+D : 
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : s^cs
+D :  And we don't have to do it every week .
+
+dialogue type : s^cs
+D :  We could do it every other week or so .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^na
+D :  We could do that , yeah .
+
+dialogue type : s
+D :  I I Personally I 'd I 'm not in favor of more meetings .
+
+dialogue type : fh|s.%-
+D :  Um . Because , uh .
+
+dialogue type : %-
+D :  You know .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  We feel We feel obligated to collect more data .
+
+dialogue type : s^bk
+D :  ummh . ummh . OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : fg
+D :  So um .
+
+dialogue type : s^cs^tc
+D :  So so we could talk a little bit about that now if if there 's some time .
+
+dialogue type : s.%--
+D :  Um I jus So the latest result was that um
+
+dialogue type : fh|s
+D :  um yot I tested the uh the sort of final version of the PLP configuration um on development test data for for this year 's Hub - five test set .
+
+dialogue type : s
+D :  And the recognition performance was exactly , and I mean exactly up to the you know , the first decimal , same as with the uh Mel Cepstra front - end .
+
+dialogue type : s^aa
+D :  Yes .
+
+dialogue type : s^bd.%--
+D : 
+
+dialogue type : s
+D :  i overall .
+
+dialogue type : s
+D :  They They were The males I think were slightly better and the females were slightly worse but nothing really .
+
+dialogue type : s
+D :  I mean definitely not significant .
+
+dialogue type : s
+D :  And then the really nice thing was that if if we combine the two systems we get a one and a half percent improvement .
+
+dialogue type : %-
+D :  So .
+
+dialogue type : %-
+D :  t
+
+dialogue type : s
+D :  With N - best ROVER , which is like our new and improved version of ROVER .
+
+dialogue type : s
+D :  Which u actually uses the whole N - best list from both systems to mmm , uh c combine that .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : %-
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Next time we have an evaluation they want to do uh , you know , basically a at least the system combination .
+
+dialogue type : fh|qh
+D :  Um , and , you know , why not ?
+
+dialogue type : fh
+D :  Uh . So .
+
+dialogue type : h|qw^bu
+D :  Uh w what do you mean ?
+
+dialogue type : qr
+D :  More features in the sense of front - end features or in the sense of just bells and whistles ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg
+D :  Well
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s.%--
+D :  So , we cou
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  You know , if you you know you basically multiply your effort by N , where N is a number of different systems
+
+dialogue type : fh
+D :  and Um .
+
+dialogue type : s
+D :  So . So one one compromise would be to only to have the everything up to the point where you generate lattices be basically one system
+
+dialogue type : s
+D :  and then after that you rescore your lattices with the multiple systems
+
+dialogue type : s
+D :  and combine the results and that 's a fairly painless um thing .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^aa
+D :  I I think so .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  Maybe a little less because at that point the error rates are lower
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  You know , maybe it 's only one percent or something but that would still be worthwhile doing .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s
+D :  Um Jus - You know , just wanted to let you know that that 's working out very nicely .
+
+dialogue type : s^tc.%--
+D : 
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D :  So this was uh really really sort of just to get Dave going with his um experiments .
+
+dialogue type : s.%--
+D :  And so , uh .
+
+dialogue type : s
+D :  But as a result , um , you know , we were sort of wondering why is the Hub - five system doing so well on the digits .
+
+dialogue type : s
+D :  And the reason is basically there 's a whole bunch of read speech data in the Hub - five training set .
+
+dialogue type : s.%-
+D :  And you c
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^nd
+D :  No it 's actually , digits is only a maybe a fifth of it .
+
+dialogue type : s
+D :  The rest is is read is read TIMIT data and uh ATIS data and Wall Street Journal and stuff like that .
+
+dialogue type : s
+D :  A fifth would be maybe uh two hours something .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  But it definitely helps to have the other read data in there
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  You know the error rate is half of what you do if you train only on ti uh TIMIT uh not TIMIT uh TI - digits ,
+
+dialogue type : qw
+D :  which is only what
+
+dialogue type : qy^bu^rt
+D :  two hours something ?
+
+dialogue type : s
+D :  So . Uh , more read speech data definitely helps .
+
+dialogue type : s
+D :  And you can leave out all the conversational data with no performance penalty .
+
+dialogue type : %-
+D :  That 's e
+
+dialogue type : %-
+D :  That was e
+
+dialogue type : b
+D :  Right , right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^bk
+D :  Oh , yeah .
+
+dialogue type : s^na
+D :  So we only for the Hub - five training , we 're only using uh a fairly small subset of the Macrophone database .
+
+dialogue type : fh|sj^cs
+D :  Um , so , you could beef that up and probably do even better .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  Well , I mean that 's plenty of read speech data .
+
+dialogue type : s
+D :  I mean , Wall Street Journal , uh , take one example .
+
+dialogue type : %--
+D :  But um .
+
+dialogue type : s
+D :  So , you know that might be useful for the people who train the the digit recognizers to to use uh something other than TI - digits .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^tc
+D :  Well , that was that .
+
+dialogue type : s^tc
+D :  And then I th guess Chuck and I had some discussions about how to proceed with the tandem uh system
+
+dialogue type : qy^cs^d
+D :  and You wanna You wanna see where that stands ?
+
+dialogue type : s
+D :  An - And one side effect of that would be that it 's um that the phone set would change .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^rt
+D :  forty - eight phones ?
+
+dialogue type : s
+D :  Uh which is smaller than the um than the phone set that that we 've been using so far .
+
+dialogue type : sj
+D :  And that that that will probably help , actually ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  You know we want to try things like deltas on the tandem features .
+
+dialogue type : s
+D :  And so you h have to multiply everything by two or three .
+
+dialogue type : s
+D :  And so , you know , fewer dimensions in the phone set would be actually helpful just from a logistics point of view .
+
+dialogue type : fg
+D :  Right .
+
+dialogue type : fg
+D :  Exactly .
+
+dialogue type : s
+D :  So so that was the other thing .
+
+dialogue type : s
+D :  And then we wanted to s just limit it to maybe uh something on the same order of dimensions as we use in a standard um front - end .
+
+dialogue type : s
+D :  So that would mean just doing the top I don't know ten or twelve or something of the KLT dimensions .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Once we have the new M L P trained up , uh one thing I wanted to try just for the fun of it was to actually run uh like a standard hybrid system that is based on you know , those features
+
+dialogue type : fh|s
+D :  uh and uh retrain MLP and also the you know , the dictionary that we use for the Hub - five system .
+
+dialogue type : s^bk
+D :  Exactly .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  So that would basically give us a , um , more hopefully a a better system
+
+dialogue type : fh|s
+D :  um because you know , compared to what Eric did a while ago , where he trained up , I think , a system based on Broadcast News
+
+dialogue type : s
+D :  and then uh tra retraining it on Switchboard
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  But he I think he d he didn't he probably didn't use all the training data that was available .
+
+dialogue type : sj
+D :  And his dictionary probably wasn't as tuned to um conversational speech as as the as ours is .
+
+dialogue type : s.%-
+D :  So .
+
+dialogue type : s
+D :  And the dictionary made a huge difference .
+
+dialogue type : fh|s
+D :  Uh . We we made some improvements to the dictionary 's uh to the dictionary about two years ago
+
+dialogue type : s
+D :  which resulted in a uh something like a four percent absolute error rate reduction on Switchboard ,
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s.%-
+D :  But that w
+
+dialogue type : s.%-
+D : 
+
+dialogue type : fg
+D :  Right .
+
+dialogue type : s
+D :  And And that number I think was on Switchboard - one data ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s
+D :  Where the error rate now is in the twenties .
+
+dialogue type : s.%-
+D :  So , um .
+
+dialogue type : s.%-
+D :  That 's yet s
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  just at least to give us an idea of how well the hybrid system would do .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s
+D :  And the other thing that that would help us to evaluate is to see how well the M L P is trained up .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s
+D :  Because it 's a pretty good um indicator of that .
+
+dialogue type : s^df
+D :  So it 's sort of a sanity check of the M L P outputs before we go ahead and train up the uh you know , use them as a basis for the tandem system .
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : s^aa
+D :  Sure .
+
+dialogue type : %-
+D : 
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk
+D :  Oh oh that 's a good question .
+
+dialogue type : h|s^no
+D :  Yeah , we we weren't sure whether it 's worth to just use the alignments um from the S R I recognizer
+
+dialogue type : s
+D :  or whether to actually go through one or more iterations of embedded training where you realign .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Alright .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : %-
+D :  Well but i
+
+dialogue type : qy^rt
+D :  But in your experience I mean uh have you seen big improvements in s on some tasks with embedded training ?
+
+dialogue type : qrr
+D :  Or was it sort of small - ish uh improvements that you got
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^2.%-
+D : 
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : qy^bu^d^rt
+D :  So you you started training with outputs from a with alignments that were generated by the Cambridge uh system ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh
+D :  Uh .
+
+dialogue type : sj.%--
+D : 
+
+dialogue type : fh
+D :  Hmm .
+
+dialogue type : s
+D :  That was probably because your initial system I mean your system was ba worse than Cambridge 's .
+
+dialogue type : %-
+D :  And you Um .
+
+dialogue type : qy^bh
+D :  It wasn't ?
+
+dialogue type : qy^bh
+D :  Really ?
+
+dialogue type : sj^ba
+D :  That 's weird .
+
+dialogue type : s^r^rt
+D :  That 's That 's weird .
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : s^fa
+D :  I 'm sorry .
+
+dialogue type : sj.%--
+D :  It 's w
+
+dialogue type : sj
+D :  It 's weird that it got worse .
+
+dialogue type : s
+D :  Oh actually it 's not that weird
+
+dialogue type : s^df.%--
+D : 
+
+dialogue type : s
+D :  We have seen cases where acoustic retraining the acoustic models after some other change made matters worse rather than better .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+D :  You mean with soft targets ?
+
+dialogue type : qrr.%--
+D :  Or ?
+
+dialogue type : s^fa.%--
+D :  Sorry , I 'm sor
+
+dialogue type : s.%--
+D : 
+
+dialogue type : qw^rt
+D :  What What 's the key issue here ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : fg|s.%--
+D : 
+
+dialogue type : s^bu
+D :  Well i you 'd would be gender - dependent training ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : s
+D :  So So I think it 's uh that 's about mmm , something like thirty hours .
+
+dialogue type : s^aa^e
+D :  Thirty hours per gender .
+
+dialogue type : s^aa
+D :  I I think so .
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  You know , it 's more like like thirty forty hours
+
+dialogue type : s
+D :  something like that .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  Remember you 'll have a smaller output layer so there 's gonna be fewer parameters there .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Oh I see ,
+
+dialogue type : s^bk
+D :  I see ,
+
+dialogue type : s^bk
+D :  yeah , of course .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : s^bs|s^bk
+D :  It 's negligible , OK .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : qrr
+D :  Was that gender - dependent or independent ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : fg
+D :  Right .
+
+dialogue type : s
+D :  I actually have to go .
+
+dialogue type : fh
+D :  So .
+

@@ -1,0 +1,1017 @@
+dialogue type : z
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s.%--
+B :  So that should have ma many fewer
+
+dialogue type : s^e
+B :  And it 's also not uh a bunch of interruptions with people and all that ,
+
+dialogue type : qy^d^g
+B :  right ?
+
+dialogue type : fh
+B :  So .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^bu^d.%-
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg
+B :  Oh
+
+dialogue type : s
+B :  I wondered whe when we would reach Dave 's saturation point .
+
+dialogue type : s
+B :  He 's sort of been been volunteering for everything
+
+dialogue type : %--
+B : 
+
+dialogue type : s^fe^rt
+B :  O K .
+
+dialogue type : s
+B :  Finally said he was too busy .
+
+dialogue type : s
+B :  I guess we reached it .
+
+dialogue type : fg|s
+B :  OK , so again , the issue is For July , the issue 's gonna be what can we fit into a Windows machine , uh , and so on ,
+
+dialogue type : fh
+B : 
+
+dialogue type : qy^tc
+B :  So , can some of the stuff that Don 's talking about somehow fit into this
+
+dialogue type : fh|s.%--
+B : 
+
+dialogue type : b
+B :  Yes .
+
+dialogue type : %--
+B :  You know , wh
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : %--
+B :  So . Uh ,
+
+dialogue type : s
+B :  no , we 're talking about on the computer
+
+dialogue type : fg|s
+B :  and and um , I think when we were talking about this before we had littl this little demo meeting ,
+
+dialogue type : s
+B :  we sort of set up a range of different degrees of liveness that you could have
+
+dialogue type : s
+B :  and , the more live , the better , but uh , given the crunch of time , we may have to retreat from it to some extent .
+
+dialogue type : s
+B :  So I think For a lot of reasons , I think it would be very nice to have this Transcriber interface be able to show some other interesting signal along with it
+
+dialogue type : s
+B :  so it 'd be a good thing to get in there .
+
+dialogue type : fh
+B :  But ,
+
+dialogue type : fh|s
+B :  um Anyway , jus just looking for ways that we could actually show what you 're doing , uh , in to people .
+
+dialogue type : s
+B :  Cuz a lot of this stuff , particularly for Communicator , uh certainly a significant chunk of the things that we waved our arms about th originally had t had to do with prosodics
+
+dialogue type : sj
+B :  It 'd be nice to show that we can actually get them and see them .
+
+dialogue type : qy^rt
+B :  Did they come in ?
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^bu.%--
+B : 
+
+dialogue type : s^cs
+B :  Well , maybe it should get another rack .
+
+dialogue type : s^cs
+B :  But if Abbott is going to be our disk server it it file server it seems like we would want to get it , uh , a second disk rack or something .
+
+dialogue type : sj
+B :  Well , for the next meeting you might be out of luck with those ten ,
+
+dialogue type : qy^g
+B :  mightn't you ?
+
+dialogue type : fh|s^df^f
+B :  Uh , you know Dave Johnson is gone for , like , ten days ,
+
+dialogue type : h|s^bsc
+B :  Uh , well , tonight .
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : s^no
+B :  I don't know what his schedule is .
+
+dialogue type : s
+B :  I 'm just saying he 's gone .
+
+dialogue type : s^bc
+B :  You had an eighteen gigabyte drive .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^cs^j
+B :  We need another gigaquad .
+
+dialogue type : s
+B :  There should I d There should just be a b I should have a button .
+
+dialogue type : s
+B :  Just press Press each meeting saying " we need more disk space " " this week " .
+
+dialogue type : s^co
+B :  Skip the rest of the conversation .
+
+dialogue type : qw^rt
+B :  And And how much does each meeting take ?
+
+dialogue type : s
+B :  So - so So maybe there 's a hundred gig or something .
+
+dialogue type : fh.%
+B : 
+
+dialogue type : s
+B :  I mean . Cuz we we have the uncompressed around also .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : sj
+B :  Well I mean it 's the they really are cheap .
+
+dialogue type : s
+B :  I mean it 's just a question of figuring out where they should be and hanging them ,
+
+dialogue type : s
+B :  but But uh , we could You know , if you want to get four disks , get four disks .
+
+dialogue type : s
+B :  I mean it 's it 's small I mean these things ar are just a few hundred dollars .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^cs
+B :  Yeah , I think you need a direct conversation with him .
+
+dialogue type : s^cs:qw
+B :  And just say an - e just ask him that , you know , wha what should you do .
+
+dialogue type : s:qy
+B :  And in my answer back was " are you sure you just want one ? "
+
+dialogue type : s
+B :  So I mean I think that what you want to do is plan ahead a little bit and figure " well , here 's what we pi figure on doing for the next few months " .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s
+B :  So this is a question that 's pretty hard to solve without talking to Dave ,
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  No .
+
+dialogue type : s
+B :  I think Dave Dave knows all these things , of course .
+
+dialogue type : s
+B :  An - and so , he always has a a lot of plans of things that he 's gonna do to make things better in many ways an and runs out of time .
+
+dialogue type : fg
+B :  Well .
+
+dialogue type : s.%--
+B :  So .
+
+dialogue type : s
+B :  But this this is a very specific question for me .
+
+dialogue type : s
+B :  Basically , we can easily get one to four disks ,
+
+dialogue type : s
+B :  I mean you just go out and get four and we 've got the money for it ,
+
+dialogue type : s
+B :  it 's no big deal .
+
+dialogue type : fh|qo
+B :  Uh , but the question is where they go ,
+
+dialogue type : s
+B :  and I don't think we can solve that here ,
+
+dialogue type : s^cs
+B :  you just have to ask him .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Yeah ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s
+B :  Yeah , e again , you know , any one of these things is certainly not a big deal .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^nd
+B :  Well all of us have long lists of different things we 're doing .
+
+dialogue type : s
+B :  But at any rate I think that there 's a there 's a longer term thing and there 's immediate need
+
+dialogue type : s^cs.%--
+B : 
+
+dialogue type : fh|s^cs.x
+B :  Uh , maybe maybe after after tea or something you and I can go down and and talk to him about it
+
+dialogue type : s
+B :  Just say " wha you know , what should we do right now ? "
+
+dialogue type : h|s^rt
+B :  Uh , eleven days or something ?
+
+dialogue type : b
+B :  Yeah
+
+dialogue type : s^e
+B :  basically tomorrow and all of the week after .
+
+dialogue type : fg
+B : 
+
+dialogue type : h
+B :  Let 's see .
+
+dialogue type : s
+B :  The only oth thing other thing I was gonna add was that um uh , I talked briefly to Mari
+
+dialogue type : s
+B :  and uh we had both been busy with other things so we haven't really connected that much since the last meeting we had here
+
+dialogue type : s
+B :  but we agreed that we would have a telephone meeting the Friday after next .
+
+dialogue type : s
+B :  And I I I wanted to make it , um after the next one of these meetings ,
+
+dialogue type : s
+B :  so something that we wanna do next meeting is is uh to put together um , a kind of reasonable list for ourselves of what is it , um , that we 've done .
+
+dialogue type : s
+B :  I mean just sort of bulletize I mean o e do do I can I can dream up text but this is basically gonna lead to the annual report .
+
+dialogue type : fh|%-
+B :  So Um If w
+
+dialogue type : h|%-
+B :  Um , that would
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : fh|%--
+B : 
+
+dialogue type : %-
+B : 
+
+dialogue type : %-
+B : 
+
+dialogue type : h
+B : 
+
+dialogue type : s^nd
+B :  No , no but I I I don't need other folks for the meeting .
+
+dialogue type : s
+B :  I can do it .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : fg
+B :  Yeah
+
+dialogue type : s
+B :  so what I meant was on the me this meeting if I wa something I I I 'm making a major thing in the agenda is I wanna help in getting together a list of what it is that we 've done so I can tell her .
+
+dialogue type : s
+B :  I think I have a pretty good idea
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  Uh , and then the next day uh , late in the day I 'll be having that that discussion with her .
+
+dialogue type : fh
+B :  Um . So .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy^bh
+B :  Think so ?
+
+dialogue type : fg|qw
+B :  Well , OK , so how many how many people here would not be interested in uh in a meeting about recognition ?
+
+dialogue type : fg|%-
+B :  Yeah , so you 're su
+
+dialogue type : %-
+B :  So .
+
+dialogue type : s^bk|s
+B :  OK , so we 're gonna have a guy 's meeting .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^j
+B :  Yeah , real real real men " Real men do decoding " or something like that .
+
+dialogue type : %-
+B :  Uh .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^co
+B :  So you need a better developed feminine side .
+
+dialogue type : s
+B :  There 's probably gonna be a lot of " bleeps " in this meeting .
+
+dialogue type : fh
+B :  Uh . Um .
+
+dialogue type : s
+B :  I think it must be uh nearing the end of the week .
+
+dialogue type : fh|s^bk
+B :  Um . Yeah .
+
+dialogue type : s^tc
+B :  I You know , I I 've heard some comments about like this .
+
+dialogue type : s
+B :  That m could be .
+
+dialogue type : %--
+B : 
+
+dialogue type : fh|%-
+B :  Um . U
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : qw^cs
+B :  Why don't we just start with that .
+
+dialogue type : s^cs
+B :  And then if we find , you know we 're just not getting enough done , there 's all these topics not coming up , then we can expand into another meeting .
+
+dialogue type : sj^ba
+B :  But I I think that 's a great idea .
+
+dialogue type : fh|s^cs.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  you and I , I guess are the main ones who sort of see the bridge between the two .
+
+dialogue type : s
+B :  We are doing recognition in both of them .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fh
+B :  Uh .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b.%
+B :  Mm - hmm .
+
+dialogue type : s
+B :  So except I mean the only key difference between the two really is the kind of smoothing at the end which is the auto - regressive versus the cepstral truncation .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^aa|qh^m
+B :  Sure , why not ?
+
+dialogue type : b.%
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : %-
+B :  An
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s
+B :  Including digits I gather , yeah .
+
+dialogue type : qw
+B :  A fifth of it is how much ?
+
+dialogue type : fg
+B :  Right .
+
+dialogue type : qw^r
+B :  But a fi a fifth is how much ?
+
+dialogue type : s
+B :  Yeah , so I mean that 's actually not that different from the amount of training that there was .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : qy^bh^d
+B :  Oh yeah
+
+dialogue type : %-
+B :  w
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : sj
+B :  Yeah that was the interesting thing .
+
+dialogue type : s
+B :  Because because uh , it was apparent if you put in a bunch more data it would be better ,
+
+dialogue type : fh
+B :  but but uh .
+
+dialogue type : s
+B :  Well they been using TIMIT .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Uh . They they uh they experimented for a while with a bunch of different databases with French and Spanish and so forth cuz they 're multilingual tests
+
+dialogue type : s
+B :  and and uh , um , and actually the best results they got wa were uh using TIMIT .
+
+dialogue type : s
+B :  Uh But uh which So that 's what they 're they 're using now .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  If we knew what the structure of what we 're doing there was .
+
+dialogue type : s
+B :  I mean there 's still a bunch of messing around with different kinds of uh noise robustness algorithms .
+
+dialogue type : s
+B :  So we don't know exactly which combination we 're gonna be going with .
+
+dialogue type : s
+B :  Once we know , then the trainable parts of it it 'd be great to run lots of lots of stuff through .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  Sure .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^cs
+B :  Yeah , and I think and we sh again check we should check with Stephane .
+
+dialogue type : s
+B :  My impression was that when we did that before that had very little uh he didn't lose very much .
+
+dialogue type : s^aa
+B :  Yeah
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s
+B :  And the b And the base u starting off with the base of the alignments that you got from i from a pretty decent system .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : sj^ba
+B :  That 's That 's certainly one thing , yeah .
+
+dialogue type : b
+B :  Uh . Yeah .
+
+dialogue type : s^rt
+B :  Well the other thing is , dipping deep into history and into uh our resource management days , when we were collaborating with SRI before ,
+
+dialogue type : fh|s
+B :  uh it was I think , it is was a really key uh starting point for us that we actually got our alignment .
+
+dialogue type : s
+B :  When we were working together we got our initial alignments from Decipher , uh at the time .
+
+dialogue type : fh|s
+B :  Uh . And . Later we got away from it because because once we had decent systems going then it was it was typically better to use our own systems
+
+dialogue type : s
+B :  cuz they were self consistent
+
+dialogue type : s
+B :  but but certainly to start off when we were trying to recover from our initial hundred and forty percent error uh rate .
+
+dialogue type : fh|s
+B :  Uh . But that was a that was a good good good way to start .
+
+dialogue type : s
+B :  And we 're not quite that bad with our our Switchboard systems but it was they certainly aren't as good as SRI 's ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  Well , the hybrid system we never got better than about fifty percent error .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I think there 's just a whole lot of things that uh no one ever had time for .
+
+dialogue type : s
+B :  We never did really fix up the dictionary .
+
+dialogue type : s
+B :  Uh we always had a list of a half dozen things that we were gonna do
+
+dialogue type : s
+B :  and and a lot of them were pretty simple and we never did .
+
+dialogue type : s
+B :  Uh , we never did an never did any adaptation
+
+dialogue type : fh|s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s
+B :  We were probably at least a factor or two off .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s
+B :  It 's the conver it 's the s conversational speech bit .
+
+dialogue type : s
+B :  Because our our Broadcast News system is actually pretty good .
+
+dialogue type : s
+B :  He knows .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : sj
+B :  It 'll still probably be worse .
+
+dialogue type : s
+B :  I mean , it 's it 'd be context independent and so on .
+
+dialogue type : %-
+B :  But .
+
+dialogue type : h|s^aa
+B :  Uh , yeah .
+
+dialogue type : s.%--
+B :  I mean . I think I agree with Ad
+
+dialogue type : s^cs
+B :  I mean basically you would then You proceed with the embedded training .
+
+dialogue type : s
+B :  It 's gonna take you a while to train at this net anyway .
+
+dialogue type : s^cs
+B :  And while it 's training you may as well test the one you have and see how it did .
+
+dialogue type : fh|s
+B :  Uh well . It depended on the task .
+
+dialogue type : s
+B :  I mean I think in this one I would sort of expect it to be important
+
+dialogue type : s^df
+B :  because we 're coming from uh , alignments that were achieved with an extremely different system .
+
+dialogue type : fh
+B :  Uh .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^arp.%-
+B :  But I mean i
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : qy^bu^rt
+B :  Was it ?
+
+dialogue type : s^ng
+B :  I don't think it was .
+
+dialogue type : s^aa
+B :  No .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qw^bu^rt
+B :  Excuse me ?
+
+dialogue type : s^fe
+B :  Oh !
+
+dialogue type : fh|sj^ba
+B :  Um . No .
+
+dialogue type : fh|s
+B :  Uh . Tha - u we we 've see I mean and wi with the numbers OGI numbers task we 've seen a number of times people doing embedded trainings and things not getting better .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  I mean they were using pretty diff similar feature sets to us .
+
+dialogue type : s
+B : 
+
+dialogue type : s^co
+B :  Oh , wait a minute ,
+
+dialogue type : s.%--
+B :  and the other thing uh ,
+
+dialogue type : s^fa^t3
+B :  sorry ,
+
+dialogue type : s
+B :  it was the other thing is that what was in common to the Cambridge system and our system is they both were training posteriors .
+
+dialogue type : s
+B :  So I mean , uh , that 's another pretty big difference
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  Oh , that uh both the Cambridge system and our system were were training posteriors .
+
+dialogue type : s
+B :  And if we 're we 're coming from alignments coming from the SRI system , it 's a likelihood - based system .
+
+dialogue type : s
+B :  So so that 's another difference .
+
+dialogue type : s
+B : 
+
+dialogue type : fh|sj
+B :  Uh , I would think that in a that an embedded uh embedded uh training would have at least a good shot of improving it some more .
+
+dialogue type : sj^no
+B :  But we don't know .
+
+dialogue type : qy^d^rt^tc
+B :  You gonna say something ?
+
+dialogue type : qw^rt
+B :  Uh , how much training data ?
+
+dialogue type : qw^rt
+B :  And how How many hours is that ?
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg|s.%-
+B :  Um . So . Uh . after run
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s.%--
+B :  So
+
+dialogue type : s
+B :  At least a couple thousand hidden units .
+
+dialogue type : s.%--
+B :  I mean .
+
+dialogue type : s
+B :  It 's it 's th the thing I 'll I 'll think about it a little more
+
+dialogue type : s
+B :  but it it 'd be toss up between two thousand and four thousand .
+
+dialogue type : s^cs
+B :  You definitely wouldn't want the eight thousand .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : h
+B :  Oh let me think about it ,
+
+dialogue type : s
+B :  but I think that that uh th at some point there 's diminishing returns .
+
+dialogue type : s
+B :  I mean it doesn't actually get worse , typically ,
+
+dialogue type : s^e
+B :  but it but but there is diminishing returns
+
+dialogue type : s
+B :  and you 're doubling the amount of time .
+
+dialogue type : s^arp
+B :  Not by much .
+
+dialogue type : qy^bu^d^rt
+B :  Fifty s Fifty four to forty eight ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  It 'll have a very tiny effect .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Yeah , so it 's it 'd be way , way less than ten percent of the difference .
+
+dialogue type : fh|s.%--
+B : 
+
+dialogue type : qw.%-
+B :  How bi how big
+
+dialogue type : h
+B :  Let 's see .
+
+dialogue type : qw^t1
+B :  What am I trying to think of ?
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s
+B :  And that was trained up on uh like a hundred and forty hours of of speech .
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s
+B :  So that would be like trained on s sixty or seventy hours .
+
+dialogue type : fh
+B :  So , uh ,
+
+dialogue type : s.%--
+B :  yeah definitely not the one thousand uh two thousand fr
+
+dialogue type : s
+B :  I mean the four thousand will be better
+
+dialogue type : s
+B :  and the two thousand will be almost will be faster and almost as good .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Yeah , thirty hours is like a hundred and ten thousand uh seconds .
+
+dialogue type : fh|s
+B :  Uh , so that 's like eleven eleven million frames .
+
+dialogue type : s
+B :  And a two thousand hidden unit net is uh I guess about seven , eight hundred thousand parameters .
+
+dialogue type : sj
+B :  So that 's probably That 's probably fine .
+
+dialogue type : s
+B :  I mean a four thousand is well within the range that you could benefit from
+
+dialogue type : s
+B :  but the two thousand 'd be faster
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk
+B :  Alright .
+
+dialogue type : s
+B :  Uncle Bernie 's rule is ten to one .
+
+dialogue type : s^f.%--
+B : 
+
+dialogue type : s^bk
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s
+B :  Yes sir .
+
+dialogue type : s^ar
+B :  Nah .
+
+dialogue type : s
+B :  Since we have nothing to talk about we only talked for an hour .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : z
+B :  de - ba - de . de - ba - de
+
+dialogue type : z
+B :  That 's all folks !
+

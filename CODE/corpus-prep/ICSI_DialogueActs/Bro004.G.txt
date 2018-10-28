@@ -1,0 +1,33 @@
+dialogue type : s^ft
+G :  Oh , thanks .
+
+dialogue type : qy^rt
+G :  Do we Do we have that big new IBM machine
+
+dialogue type : s.%--
+G :  the , I think in th
+
+dialogue type : s^cs^rt
+G :  And if we can do things on Linux , some of the machines we have going already , like Swede ?
+
+dialogue type : sj
+G :  Um It seems pretty fast .
+
+dialogue type : s^bu^rt
+G :  But I think Fudge is pretty fast too .
+
+dialogue type : qr
+G :  I is it um mostly um the neural network trainings that are um slowing us down or the HTK runs that are slowing us down ?
+
+dialogue type : s
+G :  Because , um I think that 'll be running Linux ,
+
+dialogue type : s
+G :  and Sw - Swede and Fudge are already running Linux
+
+dialogue type : s^rt
+G :  so , um I could try to get um the train the neural network trainings or the HTK stuff running under Linux , and to start with I 'm wondering which one I should pick first .
+
+dialogue type : b
+G :  OK .
+

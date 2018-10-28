@@ -1,0 +1,1161 @@
+dialogue type : s
+G :  headphones that aren't so uncomfortable .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^ar
+G :  No .
+
+dialogue type : fg|s
+G :  Um , I don't think they 're designed to be over your ears .
+
+dialogue type : s^aa
+G :  Yep .
+
+dialogue type : s
+G :  But I definitely haven't figured it out .
+
+dialogue type : s
+G :  " Sip , sigh . "
+
+dialogue type : s.%--
+G : 
+
+dialogue type : %--
+G :  u
+
+dialogue type : s^na
+G :  usually we 've done that
+
+dialogue type : s
+G :  and also we 've s done digits as well ,
+
+dialogue type : s
+G :  but I forgot to print any out .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^df
+G :  Besides with this big a group ,
+
+dialogue type : s.%
+G :  it would take too much time .
+
+dialogue type : s^bk|s^df^nd
+G :  Yeah , but it takes too much time .
+
+dialogue type : s
+G :  Uh , especially for querying .
+
+dialogue type : s
+G :  Landay . James .
+
+dialogue type : s^df^nd
+G :  But if we had the CrossPads , we could ask people , you know , if if something comes up write it down and mark it somehow ,
+
+dialogue type : s^f
+G :  you know .
+
+dialogue type : s^ba
+G :  But that 's alright .
+
+dialogue type : s^df
+G :  I don't think there 'd be so many that you couldn't have someone clean it up
+
+dialogue type : s^e
+G :  pretty easily .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s^rt
+G :  And I 'm Adam Janin on channel A .
+
+dialogue type : qy^cs^rt
+G :  And , uh , do you want to do the P D As and the P Z
+
+dialogue type : s
+G :  Far .
+
+dialogue type : s
+G :  Yeah , and eventually once this room gets a little more organized , the Jimlets will be mounted under the table ,
+
+dialogue type : s
+G :  and these guys will be permanently mounted somehow .
+
+dialogue type : s
+G :  You know , probably with double - sided tape ,
+
+dialogue type : fh
+G :  but So .
+
+dialogue type : s
+G :  You So we won't have to go through that .
+
+dialogue type : s^aap
+G :  Well , that was just one of the reasons .
+
+dialogue type : s^aa|s^na
+G :  But , yeah , definitely .
+
+dialogue type : %--
+G : 
+
+dialogue type : s
+G :  Well , I asked them to
+
+dialogue type : s
+G :  and none of them did .
+
+dialogue type : s^e
+G :  So , I I asked them to send me ideas for queries after the meeting
+
+dialogue type : s
+G :  and no one ever did .
+
+dialogue type : s^bd^df
+G :  I didn't follow up either .
+
+dialogue type : s^bd^e:s
+G :  So I didn't track them down and say " please do th do it now " .
+
+dialogue type : s
+G :  But , uh , no one spontaneously provided anything .
+
+dialogue type : s^df^no:s
+G :  I just don't know how else to generate the queries other than getting an expert to actually listen to the meeting and say " that 's important ,
+
+dialogue type : s^df^e:s
+G :  that might be a query " .
+
+dialogue type : s^aap
+G :  I mean , that gives you a summary
+
+dialogue type : s^nd.%--
+G : 
+
+dialogue type : qh^df^ng
+G :  How do you generate queries from that ?
+
+dialogue type : s
+G :  Uh , James and I were talking about this during one of the breaks .
+
+dialogue type : s
+G :  And the problem with that is , I 'm definitely going to do something with information retrieval
+
+dialogue type : s^e
+G :  even if it 's sort of not full full - bore what I 'm gonna do for my thesis .
+
+dialogue type : s
+G :  I 'm gonna do something .
+
+dialogue type : s
+G :  I 'm not gonna do anything with summarization .
+
+dialogue type : s
+G :  And so if someone wants to do that , that 's fine ,
+
+dialogue type : s
+G :  but it 's not gonna be me .
+
+dialogue type : s^aa
+G :  Yep .
+
+dialogue type : s^bk
+G :  Oh , I see .
+
+dialogue type : %
+G :  Uh , y
+
+dialogue type : s
+G :  I mean , i this would tell you what the hit is ,
+
+dialogue type : s
+G :  not what the query is .
+
+dialogue type : %-
+G : 
+
+dialogue type : s
+G :  And so you could you can generate a query from the hits ,
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : fg|s^ba^nd
+G :  Yeah , I think that 's difficult
+
+dialogue type : s^df
+G :  because then they 're not gonna ask the questions that are in the summary .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s
+G :  th Yeah , I think it has to be a participant .
+
+dialogue type : s
+G :  Well , it doesn't have to be .
+
+dialogue type : s
+G :  OK . So that that is another use of Meeting Recorder that we haven't really talked about ,
+
+dialogue type : s
+G :  which is for someone else ,
+
+dialogue type : s^e
+G :  as opposed to as a remembrance agent ,
+
+dialogue type : s
+G :  which is what had been my primary thought in the information retrieval part of it would be .
+
+dialogue type : fh
+G :  But , uh ,
+
+dialogue type : s
+G :  I guess if you had a meeting participant , they could use the summary to refresh themselves about the meeting and then make up queries .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^no
+G :  I don't know how to do it if until you have a system .
+
+dialogue type : s^aa|s^na
+G :  Yeah , that that 's what I was saying .
+
+dialogue type : s^df
+G :  But at least it would get us started .
+
+dialogue type : b.%
+G :  Mmm .
+
+dialogue type : s^ba^df^ng
+G :  Although it seems like that 's , um , a high burden on the note - taker .
+
+dialogue type : s^e
+G :  That 's a pretty fine grain that the note - taker will have to take .
+
+dialogue type : %-
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s^nd
+G :  Well , I think that 's a little bit of a problem .
+
+dialogue type : s
+G :  Their sort of note - taking application stuff
+
+dialogue type : s^rt
+G :  they 've been doing for the last couple of years ,
+
+dialogue type : s
+G :  and I don't think anyone is still working on it .
+
+dialogue type : s
+G :  I think they 're done .
+
+dialogue type : s
+G :  Um , so I 'm not sure that they have anyone currently working on notes .
+
+dialogue type : s
+G :  So what we 'd have to interest someone in is the combination of note and speech .
+
+dialogue type : qh
+G :  And so the question is " is there such a person ? "
+
+dialogue type : s
+G :  And I think right now , the answer is " no " .
+
+dialogue type : s^ng
+G :  We 'll just have to see .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^aa|s^na
+G :  Yeah , absolutely . Then you want to have it .
+
+dialogue type : s
+G :  By hand .
+
+dialogue type : s^2
+G :  Minutes .
+
+dialogue type : s^na
+G :  Never .
+
+dialogue type : s^na^r|s^na
+G :  Never . I 've never seen it at ICSI .
+
+dialogue type : qo.%--
+G :  Does anyone ?
+
+dialogue type : s
+G :  I mean , Dan is the one who who most frequently would take notes ,
+
+dialogue type : fh
+G : 
+
+dialogue type : qy^bh
+G :  Oh , really ?
+
+dialogue type : s^na|s^2
+G :  That 's true are four or five people .
+
+dialogue type : s^2
+G :  Culture .
+
+dialogue type : s^ng.%--
+G : 
+
+dialogue type : s
+G :  There 's uh a person with a laptop at each meeting .
+
+dialogue type : s
+G :  There are more .
+
+dialogue type : s
+G :  I mean , there are ten - ish .
+
+dialogue type : s^ba
+G :  They 're very sparse .
+
+dialogue type : fg|s
+G :  Yeah . This is something early in the project we talked a lot about .
+
+dialogue type : s^aap|s^df^nd
+G :  I agree , but but you you just you g end up with video ,
+
+dialogue type : s
+G :  and and instrumented rooms .
+
+dialogue type : s
+G :  And that 's a different project , I think .
+
+dialogue type : s^aa|%-
+G : 
+
+dialogue type : qh^df.%-
+G : 
+
+dialogue type : qh^df.%-
+G : 
+
+dialogue type : b
+G :  Huh .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s^df^nd
+G :  But I think adding photographs adds a whole nother level of problems .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^df^ng
+G :  But that it 's gonna be a lot of effort on our part to create it , and store it ,
+
+dialogue type : s
+G :  and get all the standards , and to do anything with it .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^2
+G :  Low fidelity .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s^ba
+G :  Well , once the room is a little more fixed that 's a little easier
+
+dialogue type : s^df.%--
+G : 
+
+dialogue type : s
+G :  Well , the wireless .
+
+dialogue type : fh
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^na^rt
+G :  I I I don't disagree .
+
+dialogue type : s
+G :  I think that if you have that , then people who are interested in vision can use this database . The problem with it is you 'll have more people who don't want to be filmed than who don't want to be recorded .
+
+dialogue type : s^df^e:s
+G :  So that there 's going to be another group of people who are gonna say " I won't participate " .
+
+dialogue type : fh
+G : 
+
+dialogue type : s^df^nd
+G :  But , you know , that 's a lot of infrastructure and work .
+
+dialogue type : s^df^e^rt
+G :  To set it up and then anonymize it ?
+
+dialogue type : b.%
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt^t3
+G :  Couldn't find it ?
+
+dialogue type : qy^bu^d^e^rt^t3
+G :  Hmm ?
+
+dialogue type : s^nd.%--
+G : 
+
+dialogue type : s|qy^d^f^g
+G :  er , if we weren't recording this , this this would get lost . Right ?
+
+dialogue type : s
+G :  The point is that we 're not saving it anyway .
+
+dialogue type : qy^d^f^g
+G :  Right ?
+
+dialogue type : s^e
+G :  In in our real - life setting .
+
+dialogue type : s
+G :  Well , uh , in that case we don't need to take pictures of it .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s
+G :  And and they seem to not be able to give enough of them away ,
+
+dialogue type : s
+G :  so we could probably get more as well .
+
+dialogue type : s^aa|s^no
+G :  Yeah , I 'm not sure .
+
+dialogue type : s
+G :  I think it it it will again depend on Landay ,
+
+dialogue type : s
+G :  and if he has a student who 's interested ,
+
+dialogue type : s
+G :  and how much infrastructure we 'll need .
+
+dialogue type : s
+G :  I mean , if it 's easy , we can just do it .
+
+dialogue type : s
+G :  Um , but if it requires a lot of our time , we probably won't do it .
+
+dialogue type : s^aa|s^na
+G :  Yeah . Yeah , we have to sort of figure out what we 're gonna do .
+
+dialogue type : qy^d^g
+G :  Right .
+
+dialogue type : s^aa|s^na
+G :  Right . I ag I think I agree with that .
+
+dialogue type : s^ba
+G :  I think , though , the importance marking is a good idea , though .
+
+dialogue type : s^e
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^cs
+G :  Do it on pilots or laptops or something .
+
+dialogue type : s^j:s^cs
+G :  OK , if something 's important everyone clap .
+
+dialogue type : s^aa|s^na
+G :  Yeah . Um , I think that 's right .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^bk|s^ba
+G :  Oh , OK . That 's fine .
+
+dialogue type : s^na
+G :  Absolutely .
+
+dialogue type : fg|s
+G :  Yeah . What I was gonna say is that I don't want to ask people to do something they wouldn't normally do in a meeting .
+
+dialogue type : s
+G :  It 's ver I just want to keep away from the artificiality .
+
+dialogue type : s.%--
+G :  But I think it definitely
+
+dialogue type : s
+G :  if they exist .
+
+dialogue type : s^ba
+G :  And then Jane 's idea of summarization afterward I think is not a bad one .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : s
+G :  picking out basically to let you pick out keywords ,
+
+dialogue type : s^e
+G :  um , and , uh , construct queries .
+
+dialogue type : s
+G :  People in the meeting .
+
+dialogue type : s
+G :  You know , just at at the end of the meeting , before you go ,
+
+dialogue type : s^e
+G :  go around the table .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^ba
+G :  Ugh .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^2^bu^d^rt
+G :  And see score them ?
+
+dialogue type : b.%
+G :  Oh .
+
+dialogue type : b.%
+G :  Hmm .
+
+dialogue type : %--
+G :  I d
+
+dialogue type : fg|s
+G :  yeah , I don't know how you would do it , though .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^2.%-
+G : 
+
+dialogue type : s^aa
+G :  Yeah ,
+
+dialogue type : %
+G :  fff !
+
+dialogue type : qy^cs^rt
+G :  Maybe e Is email easier ?
+
+dialogue type : s
+G :  I mean , I when you first said do do it , um , spoken , what I was thinking is , oh then people have to come up
+
+dialogue type : s
+G :  and you have to hook them up to the recorder .
+
+dialogue type : s
+G :  So , if they 're already here I think that 's good ,
+
+dialogue type : s
+G :  but if they 're not already here for I 'd rather do email .
+
+dialogue type : s^df
+G :  I 'm much faster typing than anything else .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^bd^no
+G :  I don't know .
+
+dialogue type : s^2.%-
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : fg|s^na:s
+G :  Yeah , read the digits ,
+
+dialogue type : s^na:s
+G :  do the summary .
+
+dialogue type : s^t3
+G :  God , that 's bugging me .
+
+dialogue type : qy^rt
+G :  Can we turn that light off ?
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa|%-
+G : 
+
+dialogue type : s^ba
+G :  Very annoying .
+
+dialogue type : s^ba
+G :  Oh , much better .
+
+dialogue type : s^j
+G :  Too much caffeine .
+
+dialogue type : s
+G :  I thought it was the projector for a moment .
+
+dialogue type : s:qw
+G :  It was like , " what 's going on ? "
+
+dialogue type : s
+G :  We we 've just been talking , how do we generate queries ?
+
+dialogue type : s
+G :  And so that was one suggestion .
+
+dialogue type : qw
+G :  And what ?
+
+dialogue type : s^aap|s^aa
+G :  At least . Yeah .
+
+dialogue type : s^bu^e
+G :  m i Even if that much ?
+
+dialogue type : s^bk
+G :  Less .
+
+dialogue type : s^t^tc
+G :  Well , in answer to " is it Landay 's problem ? " ,
+
+dialogue type : s
+G :  um , he doesn't have a student who 's interested right now in doing anything .
+
+dialogue type : s
+G :  So he has very little manpower .
+
+dialogue type : s
+G :  Um , there 's very little allocated for him
+
+dialogue type : s
+G :  and also he 's pretty focused on user interface .
+
+dialogue type : s
+G :  So I don't think he wants to do information retrieval ,
+
+dialogue type : s
+G :  query generation , that sort of stuff .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : %-
+G : 
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s^cs
+G :  Or or just a memory refresher .
+
+dialogue type : s^aa|s^na
+G :  Yep . I agree .
+
+dialogue type : s^t3
+G :  We 're still here .
+
+dialogue type : s
+G :  As many are willing to do it .
+
+dialogue type : s^cs.%--
+G : 
+
+dialogue type : s^bd
+G :  I mean , I we didn't take minutes and we don't have summaries .
+
+dialogue type : s^cs
+G :  But , uh , people could , like , listen to them a little bit and generate some queries .
+
+dialogue type : s
+G :  Of course Jane doesn't need to .
+
+dialogue type : s
+G :  I 'm sure you have that meeting memorized by now .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : s^ng
+G :  Or want to get up and leave .
+
+dialogue type : s^2:s
+G :  Me too , me too , me too .
+
+dialogue type : %-
+G :  Well ,
+
+dialogue type : s
+G :  you have the other thing , that that they know why we 're doing it .
+
+dialogue type : s^e
+G :  We 'll I mean , we 'll we 'll be telling them that the reason we 're trying to do this is is to d generate queries in the future ,
+
+dialogue type : s^e
+G :  so try to pick things that other people didn't say .
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : fg|s.%-:s.%-
+G :  Yeah , like Jim Bass says " add a few lines on dialogue in your next perf "
+
+dialogue type : s
+G :  But that that 's gonna be very hard to generate .
+
+dialogue type : %-
+G : 
+
+dialogue type : s
+G :  But what 's interesting to me may not b have been interesting to you .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : fg|s
+G :  Yeah , I I think you can't get at all of it ,
+
+dialogue type : qy^d^g
+G :  right ?
+
+dialogue type : s
+G :  W we just need to start somewhere .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : qy^bu^d^rt
+G :  Importance ?
+
+dialogue type : s^arp:s
+G :  I wouldn't even say that " that they learned " .
+
+dialogue type : s^cs
+G :  Uh , you might want to mention something that that you brought up .
+
+dialogue type : s^aa|s.%--
+G : 
+
+dialogue type : %--
+G :  n
+
+dialogue type : s
+G :  I think that 's gonna predominantly end up being whoever takes down the equipment then .
+
+dialogue type : fh|s^t1
+G :  Yeah , that would be , let 's see , me .
+
+dialogue type : s^cs^j
+G :  Give them a reward ,
+
+dialogue type : qy^cs^d^j
+G :  a dollar a query ?
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b.%
+G :  Yeah .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b.%
+G :  Yep .
+
+dialogue type : s^aa|s^cs
+G :  Absolutely . So I think we 're gonna have to start with keywords
+
+dialogue type : s^cs^e
+G :  and and if someone becomes more interested we could work our way up .
+
+dialogue type : fh
+G : 
+
+dialogue type : qy^bh
+G :  Really ?
+
+dialogue type : s^bk|s^na
+G :  Oh , that 's true .
+
+dialogue type : fg|s^df
+G :  Yeah , I was thinking about Wizard of Oz ,
+
+dialogue type : s^bd
+G :  but it requires the wizard to know all about the meetings .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^aa|s^na
+G :  Oh , yeah . I I understand .
+
+dialogue type : s
+G :  Yep .
+
+dialogue type : s
+G :  But that neither could anyone else , though , is what , uh , my point is .
+
+dialogue type : s^aa|s^df
+G :  Right . Since we have the transcript .
+
+dialogue type : s^cs^rt
+G :  Dates maybe .
+
+dialogue type : s^bd^no
+G :  I don't know .
+
+dialogue type : s
+G :  That 's something I always forget .
+
+dialogue type : s
+G :  That that 's all I wrote down .
+
+dialogue type : s^aa|qy
+G :  Sure . Can you hand me my note pad ?
+
+dialogue type : s^ft^t3
+G :  Thanks .
+
+dialogue type : s^bk
+G :  Yep .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s^t
+G :  Mailing lists .
+
+dialogue type : qw
+G :  Uh , how quickly do you want it ?
+
+dialogue type : s^df
+G :  My July is really very crowded .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^na
+G :  That 's right .
+
+dialogue type : s
+G :  Dot Berkeley dot EDU , of course .
+
+dialogue type : s^bk|qy^rt
+G :  Oh , is this IBM ?
+
+dialogue type : fg|qw
+G :  Uh , so do they How are they gonna do the multi - channel ?
+
+dialogue type : s^bk
+G :  I thought so .
+
+dialogue type : qy^2^bu^d
+G :  Mix ?
+
+dialogue type : s^bk|s
+G :  OK . That 's , uh , my question .
+
+dialogue type : s
+G :  So we 'll give them all sixteen channels
+
+dialogue type : s
+G :  and they 'll do whatever they want with it .
+
+dialogue type : s^ba^ng
+G :  It 's not hard .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^aa
+G :  Yep . Absolutely .
+
+dialogue type : s^aa
+G :  Absolutely .
+
+dialogue type : s^aa
+G :  So , sure .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^t^tc
+G :  Not an immediate action item but something we do have to worry about is data formats for for higher - level information .
+
+dialogue type : s^bsc
+G :  Well , or d or not even higher level ,
+
+dialogue type : s^bsc
+G :  different level , prosody and all that sort of stuff .
+
+dialogue type : s
+G :  We 're gonna have to figure out how we 're gonna annotate that .
+
+dialogue type : s^nd
+G :  But that 's not That 's display .
+
+dialogue type : s^e
+G :  That 's different than format .
+
+dialogue type : s
+G :  Get my parents to do it .
+
+dialogue type : s
+G :  I think my father would last through the second prompt before he hang hung up .
+
+dialogue type : s
+G :  He would never use it .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : qw^rt
+G :  What is it ?
+
+dialogue type : s^bk
+G :  Oh , OK .
+
+dialogue type : s
+G :  It 's a tape recorder .
+
+dialogue type : s^j
+G :  It 's eight tape recorders .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  Un - unfortunately Landay told me that Jason is not gonna be working on that anymore .
+
+dialogue type : s
+G :  He 's switching to other stuff again .
+
+dialogue type : qw
+G :  Who ?
+
+dialogue type : qrr^bu^d
+G :  Landay or Jason ?
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^aa
+G :  True .
+
+dialogue type : s^na
+G :  Absolutely .
+
+dialogue type : s^arp^df
+G :  Well , but that 's not very much .
+
+dialogue type : s^bk
+G :  Yep .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : fh|s
+G :  Yeah . Basically what his software does is h it picks out keywords and does a Google - like search .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Yep .
+
+dialogue type : s^cs
+G :  Um , the " Georgia Tech Classroom Two Thousand " is a good one .
+
+dialogue type : s
+G :  Well , Georgia Tech did a very elaborate instrumented room .
+
+dialogue type : s
+G :  And I want to try to stay away from that .
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bu|qy^d^g
+G :  It 's also it 's not it 's not near - far , right ?
+
+dialogue type : s
+G :  I think @ @ gonna add that to one of my action items .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s
+G :  Cuz I had thought they 'd only done far - field ,
+
+dialogue type : s^e
+G :  intelligent - room sorts of things .
+
+dialogue type : s^e^no
+G :  I hadn't known that then they 'd done any more than that .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^na
+G :  I think everyone here is on the list .
+
+dialogue type : s^nd
+G :  I think you are .
+
+dialogue type : s
+G :  I I added a few people who didn't who I knew had to be on it even though they didn't tell me .
+
+dialogue type : s^e
+G :  Like Jane , for example .
+
+dialogue type : s^bu|qy^g^rt
+G :  You are on it , aren't you ?
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : s:qy
+G :  " Psst . Want to buy a corpora ? "
+
+dialogue type : s^na
+G :  It 's not the same .
+
+dialogue type : s
+G :  Now , I was already thinking about it ,
+
+dialogue type : fh
+G : 
+
+dialogue type : fg
+G :  So , um ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  what I thought was interesting was the combination of the CrossPad and the speech .
+
+dialogue type : s
+G :  Especially , um , the interaction of them rather than just note - taking .
+
+dialogue type : qh
+G :  So , can you determine the interesting points by who 's writing ?
+
+dialogue type : qh^e
+G :  Can you do special gestures and so on that that have , uh , special meaning to the corpora ?
+
+dialogue type : s
+G :  I really liked that .
+
+dialogue type : qy^rt
+G :  Did you take pictures of the boards ?
+
+dialogue type : s^2|s^na
+G :  To the pre previous meeting . That 's right .
+
+dialogue type : s^bk
+G :  Ah !
+
+dialogue type : s
+G :  I wonder if work 's already been done on it .
+
+dialogue type : s^cs^j.%--
+G : 
+
+dialogue type : s^bk|s.%-
+G : 
+
+dialogue type : s
+G :  That actually has come up a couple times in queries .
+
+dialogue type : s
+G :  I was talking to Landay
+
+dialogue type : s
+G :  and that was one of his examples .
+
+dialogue type : s:qw
+G :  When when did people laugh ?
+
+dialogue type : s
+G :  So we need a laugh detector .
+
+dialogue type : s^df
+G :  Cuz that seems to be pretty common .
+
+dialogue type : s^m^na
+G :  Not in the congressional hearings .
+
+dialogue type : s
+G :  Quiet sobbing .
+
+dialogue type : s^na
+G :  I think we 're done .
+

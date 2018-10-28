@@ -1,0 +1,99 @@
+dialogue type : z
+C :  Oh , I don't
+
+dialogue type : z
+C :  Hello , hello , hello , hello .
+
+dialogue type : z
+C :  Hello .
+
+dialogue type : z
+C :  Hello , hello .
+
+dialogue type : z
+C :  Aaa - aaa - aaa .
+
+dialogue type : z
+C :  OK .
+
+dialogue type : z
+C :  That 's me .
+
+dialogue type : z
+C :  Channel two .
+
+dialogue type : z
+C :  Two .
+
+dialogue type : z
+C :  Ooo .
+
+dialogue type : z
+C :  I think I 'm channel two .
+
+dialogue type : s
+C :  Chicken on the grill .
+
+dialogue type : s^cs
+C :  Try that corner .
+
+dialogue type : s^na
+C :  Yeah , it 's longer .
+
+dialogue type : s^co.%--
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qy^d^rt^t3
+C :  These numbers are uh ratio to baseline ?
+
+dialogue type : s^t3
+C :  Ratio .
+
+dialogue type : s
+C :  Well , it 's relative to the um baseline mismatching
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  ASP .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : s
+C :  There it is .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  Well , it says baseline ASP is twenty - three mill minus thirteen .
+
+dialogue type : s^2|s^bk
+C :  From the baseline . OK .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Huh .
+
+dialogue type : s
+C :  Temporal and spectral .
+
+dialogue type : s^bk.%--
+C :  Yeah
+
+dialogue type : s
+C :  Tonic .
+

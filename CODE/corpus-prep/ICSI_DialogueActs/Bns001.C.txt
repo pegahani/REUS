@@ -1,0 +1,963 @@
+dialogue type : s^ar
+C :  No .
+
+dialogue type : qy^bu^d^rt
+C :  This afternoon you mean ?
+
+dialogue type : s^ar|s^nd
+C :  No , this was unrelated to to the things of yesterday and last weeks
+
+dialogue type : %-
+C :  wha
+
+dialogue type : s
+C :  Yeah , and This probably has to be a brainstorm right now .
+
+dialogue type : fg|s
+C :  Um What I told Joachim yesterday was that , uh uh for my company the company I work for , they are more interested in in an explicit service , than in core technology .
+
+dialogue type : %
+C :  u
+
+dialogue type : s
+C :  Me , on the other hand , I 'm more interested in uh , core service , or c core technology , myself .
+
+dialogue type : s
+C :  So I 'm u I was thinking about uh , how I could combine the both of them .
+
+dialogue type : s
+C :  KPN was , um they 're interested in having , uh like , six people or something , working on the project for one year
+
+dialogue type : s
+C :  or maybe , uh , three people fo working on the project for two years ,
+
+dialogue type : s
+C :  and have a kind of a demonstration uh , for a specifically in UMTS service .
+
+dialogue type : s^cs
+C :  I was thinking that um as a well , not really a UMTS service , but yesterday , what I discussed with Joachim was uh , a w little bit based on your ad - hoc networking also .
+
+dialogue type : s
+C :  That it would be interesting to have a kind of a device where you can switch from w a WaveLAN Technology to , um , UMTS .
+
+dialogue type : s
+C :  I think that 's , uh , it 's in in the future that will be a main competitor of , uh , of UMTS ,
+
+dialogue type : s^e
+C :  too , like the the the Lucent , uh , equipment has a l huge scope already ,
+
+dialogue type : s^e
+C :  like five hundred feet , or or even more sometimes .
+
+dialogue type : s
+C :  so that 's it 's might be interesting for , a service to walk into a building or whatever is available on that network .
+
+dialogue type : s
+C :  You can switch from UMTS or uh uh , to WaveLAN Technologies .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s
+C :  Of course , it sounds strange for a company that does UMTS to switch to to be able to switch or provide the service to switch to WaveLAN
+
+dialogue type : s^df
+C :  but at the end it makes it easier for your and cheaper for your customers .
+
+dialogue type : s^df
+C :  So , if they don't do it , somebody else will probably do it .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Yeah ,
+
+dialogue type : %
+C : 
+
+dialogue type : s^bk|s^na
+C :  Yeah , something like that could be possible ,
+
+dialogue type : s^cs
+C :  maybe even a UMTS - to - WaveLAN - gateway ,
+
+dialogue type : s^df^no
+C :  or I 'm not sure if that 's possible like we U - if UMTS re contains redirects or whatever , like switches .
+
+dialogue type : s^no
+C :  I 'm not sure about it .
+
+dialogue type : s
+C :  It could be .
+
+dialogue type : s
+C :  It 's not a problem .
+
+dialogue type : fg|s
+C :  No , but s You could have a UMTS gateway that translates everything to that uh w local @ @ .
+
+dialogue type : s^e
+C :  If you will
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : h
+C :  Well ,
+
+dialogue type : s^no
+C :  If connection is lost , I am I 'm not sure if sometimes you 'd simply have to drop a connection . If you have outstanding connections .
+
+dialogue type : s
+C :  But that 's uh one thing of the internet ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s
+C :  It 's should be able to unplug a host , bring it somewhere else and everything continues like it should be .
+
+dialogue type : s^no
+C :  I 'm not sure i if it 's uh if you really have to con uh save a connection for all applications ,
+
+dialogue type : s^nd
+C :  I I don't think so .
+
+dialogue type : s^bk|qy^bu^d
+C :  Oh , the one I have Sitcom ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Um .
+
+dialogue type : s^am
+C :  Well , the switching itself could be a problem .
+
+dialogue type : s^am
+C :  Becau - well it 's a depends
+
+dialogue type : s^am
+C :  if one of the other networks is available , maybe you are ,
+
+dialogue type : s^no
+C :  I don't know .
+
+dialogue type : s^cs
+C :  So that could be a t topic for research ,
+
+dialogue type : s^am
+C :  so maybe you know more about it .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Y Yes .
+
+dialogue type : fg
+C :  Um .
+
+dialogue type : s^ba^cs
+C :  If if you can leave it out the network that will be really cool .
+
+dialogue type : s^df
+C :  That 's what you w what I would like to do ,
+
+dialogue type : fh
+C :  so
+
+dialogue type : fh
+C :  Yes .
+
+dialogue type : s
+C :  The the thing is that we are looking for a research topic on on those uh four areas .
+
+dialogue type : fg
+C : 
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  So so we went through uh uh to through multicast .
+
+dialogue type : s.%--
+C :  So this architecture with m
+
+dialogue type : s
+C :  well , at least no wireless environment or a mobile IP environment , comparable to uh UMTS environments . We really did not find any well , difficulties there .
+
+dialogue type : s^e
+C :  On the blackboard , that is .
+
+dialogue type : s
+C :  Of course , in real life there will b probably be some problems .
+
+dialogue type : qy^bu^d^rt
+C :  Iceberg ?
+
+dialogue type : qy^bu^d^rt
+C :  You mean the Iceberg project ?
+
+dialogue type : s^bk.%-
+C :  Barwan of uh ES
+
+dialogue type : s
+C :  I know there 's one that 's of uh Randy Katz .
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : qy^bu^d^rt
+C :  They worked together wi little bit with Nokia ?
+
+dialogue type : qy^d^rt
+C :  Palo Alto ?
+
+dialogue type : qy^d
+C :  Mountain View ?
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ba
+C :  I like them
+
+dialogue type : fh
+C :  so
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^cs
+C :  Or maybe talk to them about s operations they thought of but didn't touch yet .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : qw^rt
+C :  Wh - when did you go through this ?
+
+dialogue type : s^df
+C :  Cuz yesterday I was uh Well coincidentally , I b bumped into this project here .
+
+dialogue type : s^ba
+C :  It 's funny .
+
+dialogue type : s
+C :  Yeah , yesterday I was just surfing a little bit .
+
+dialogue type : s
+C :  And then from Nokia I came to this that project ,
+
+dialogue type : fh
+C :  so .
+
+dialogue type : s
+C :  Nokia research .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  That 's right .
+
+dialogue type : s
+C :  And he 's also board in Nokia research ,
+
+dialogue type : fh
+C :  so
+
+dialogue type : s
+C :  Well , just to make the list a little bit longer .
+
+dialogue type : %--
+C :  May
+
+dialogue type : fh|s^cs
+C :  Um , you could also think about uh session management .
+
+dialogue type : s^df
+C :  I do along with uh the network applications and services , uh as you might know .
+
+dialogue type : s.%--
+C :  It 's a a
+
+dialogue type : s^df
+C :  if you can do it in the end systems or at sp specific servers , then , I 'm in favor of that .
+
+dialogue type : s
+C :  But se session management , I mean uh the authentication , if you go from one network to the other , it 's not solved .
+
+dialogue type : fh
+C :  uh ,
+
+dialogue type : s^df
+C :  Nobody really wants a a guest on your network .
+
+dialogue type : s^e
+C :  Unless you get some money through some way uh through some way .
+
+dialogue type : s
+C :  Then , there is also the session management in the sense that a lot of these things at the Barwan project , as you said , go through proxies .
+
+dialogue type : s
+C :  There might be kind of handoffs at uh at proxies ,
+
+dialogue type : s^e
+C :  like the zip uh s zip proxy that we also discussed before a little bit .
+
+dialogue type : s
+C :  That that 's als I think also in the line of uh session management .
+
+dialogue type : s
+C :  Then there is this uh perfect thing uh the Berkeley sockets .
+
+dialogue type : s^ba
+C :  It 's almost perfect .
+
+dialogue type : s
+C :  They s kind of skipped uh layer five , uh session management or session layer , I think .
+
+dialogue type : s^df
+C :  That 's um normally with if you do a socket programming , it 's directly the prot application protocol on layer four , uh TCP socket , or layer five for UDP socket .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C :  Well ,
+
+dialogue type : qy
+C :  could you introduce such a session management ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  Norm - what they do right now is they make it part of the application - level protocol .
+
+dialogue type : s
+C :  That 's what they do most often .
+
+dialogue type : s^e
+C :  Like with session management ? for mobile the uh applications such as ist instant messaging or uh talks , and so on , uh like zip . It 's just doing a a reconnect .
+
+dialogue type : s^e
+C :  If they think that the network is different or different capabilities come into play , they simply do a reconnect
+
+dialogue type : s
+C :  so it 's part of the protocol .
+
+dialogue type : s
+C :  That 's all what I think about session management ,
+
+dialogue type : s^e
+C :  like part of in proxies or is it en embedded in application level protocols ?
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  So how do you want to focus on network services .
+
+dialogue type : %--
+C :  Well the
+
+dialogue type : s
+C :  So " network applications " , if you look at the name of the group , one thing is that um the they used to call a a n a " network " that was uh if it was like distributed between two systems connected by a network .
+
+dialogue type : s
+C :  If you look at " network " from the OZ layer , then it 's uh , level two or something or maybe level three , but everything below three .
+
+dialogue type : s
+C :  So there are , I think , two two different interpretations of uh " network " .
+
+dialogue type : qy
+C :  But are there " network applications " , then ?
+
+dialogue type : s
+C :  So , the the name is " Network Services and Applications " ,
+
+dialogue type : qw
+C :  s so what could be an en example of a network application if you look at the OZ stick ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk|s
+C :  OK , OK , well , they will I didn't want to get a discussion now .
+
+dialogue type : s^aap
+C :  Well , think it works ,
+
+dialogue type : %--
+C :  but uh
+
+dialogue type : s^aa|s
+C :  yes , the mapping of course between multicasting and the UMTS or or whatever
+
+dialogue type : s^rt
+C :  That 's or CDMA or whatever that 's uh , yeah , probably a thing that has to be find out .
+
+dialogue type : s^no
+C :  I don't know what statuses .
+
+dialogue type : s^am
+C :  Maybe they already did it par as part of UMTS ,
+
+dialogue type : s^no
+C :  I 'm not sure .
+
+dialogue type : s^no
+C :  I don't have a clue .
+
+dialogue type : s
+C :  I I only know how it works on copper and like ethernet
+
+dialogue type : s
+C :  and on PS PPP over something
+
+dialogue type : s
+C :  and how it works like that ,
+
+dialogue type : s^no
+C :  but on the wireless I 'm not sure .
+
+dialogue type : s^aap|s.%--
+C :  Yes , but if if it 's available
+
+dialogue type : s.%--
+C :  that means
+
+dialogue type : s^rt
+C :  so so if uh if it 's already part of the UMTS standardization then uh it 's immediately finished ,
+
+dialogue type : s^rt
+C :  like , OK , you can tell , KPN well go to Ericsson or Nokia and buy it ?
+
+dialogue type : s
+C :  And if it 's not in there yet well , it could be a suggestion
+
+dialogue type : s
+C :  and then the hardware people will make it part u like the ETSI or whatever where U wherever UMTS is standardized they will d well , go for it .
+
+dialogue type : s
+C :  Of course , yeah , this this group could do that , too .
+
+dialogue type : s
+C :  Could be ,
+
+dialogue type : fh
+C :  but
+
+dialogue type : s^no
+C :  I 'm not really sure ,
+
+dialogue type : s
+C :  but I thought I I had the impression that we can throw away our Nokia stuff when our web gateways , when we g even go to GPRS ,
+
+dialogue type : fh
+C :  so
+
+dialogue type : s
+C :  let alone UMTS .
+
+dialogue type : s
+C :  That 's the impression I get .
+
+dialogue type : s^aa|s^na
+C :  Yeah , definitely .
+
+dialogue type : s.%--
+C :  But but still a le d it 's a it 's a fundamental
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  the terminal has a WAP stick .
+
+dialogue type : s
+C :  And there 's a box that has also a a WAP stick .
+
+dialogue type : s
+C :  And they do sometime most cases , they do share an IP address .
+
+dialogue type : s
+C :  But doesn't uh have to deal with IP at all .
+
+dialogue type : s
+C :  It 's l just a thirty - bit number
+
+dialogue type : s
+C :  that a actually is an assigned number .
+
+dialogue type : s
+C :  But it 's all only used for identification .
+
+dialogue type : s
+C :  That 's the only thing .
+
+dialogue type : s
+C :  It 's stored in a WAP cookie ,
+
+dialogue type : s
+C :  much like HTP
+
+dialogue type : s.%--
+C :  in a cookie and from the WAP gateway
+
+dialogue type : s
+C :  then it will be HTP real HTP or something .
+
+dialogue type : s
+C :  So it 's it 's really a different uh type of connection .
+
+dialogue type : s
+C :  It looks a little bit like uh the the well , WML looks a little bit like HTML ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  It 's not IP at all .
+
+dialogue type : s
+C :  Because there is a gateway , you can access with almost the same microbrowser ,
+
+dialogue type : s^e
+C :  the same i uh web servers .
+
+dialogue type : s
+C :  If they provide the right content uh , spit out the right uh WML language .
+
+dialogue type : s
+C :  So it 's it 's really a different network technology I think .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C :  But @ @
+
+dialogue type : %-
+C :  I i
+
+dialogue type : fg
+C : 
+
+dialogue type : s^ng
+C :  Ri - right now there is still a lot of WAP , actually .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^df
+C :  Well , users usage .
+
+dialogue type : s
+C :  My colleagues are .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa|s^na
+C :  Yeah , they are using WAP .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C :  i
+
+dialogue type : s^bu
+C :  Bu - well , you don't have a mobile phone in in the USA here .
+
+dialogue type : s
+C :  So that 's maybe the reason .
+
+dialogue type : s
+C :  And I 'm not I doubt that it 's not available in Germany .
+
+dialogue type : s
+C :  It 's would be unbelievable to me .
+
+dialogue type : s^na
+C :  It i it is .
+
+dialogue type : s^df
+C :  In in in Sweden it is also there .
+
+dialogue type : s^df^e
+C :  And in the Netherlands , it is also available .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^bk|%-
+C : 
+
+dialogue type : s^fe
+C :  Oh !
+
+dialogue type : %-
+C :  Bu
+
+dialogue type : s^df
+C :  I 'm the first one to admit that 's a h that it is a hype ,
+
+dialogue type : s^df^rt
+C :  but and but I 'm I just wanted to say it is being used .
+
+dialogue type : s
+C :  But if it makes sense to me and to especially to have WAP in in between , no .
+
+dialogue type : s
+C :  I 'm not a supporter of it .
+
+dialogue type : s
+C :  So they have this optimized protocol to to transmit a few ASCII bytes that can rescr refresh the screen with a different animation every , well , second , a few times .
+
+dialogue type : s^na
+C :  So , that 's that 's true .
+
+dialogue type : s
+C :  I immediately agree .
+
+dialogue type : s^df
+C :  But the thing was , y you just asked well , " will will it be the same , will there be WAP for UMTS " and so on , QPRS .
+
+dialogue type : s^no
+C :  And well I don't have the answer ,
+
+dialogue type : s
+C :  but I thought it was not .
+
+dialogue type : s
+C :  I 'm just It 's weird it 's weird to stop doing it with GPRS .
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s
+C :  if you want to do it in a in a mobile phone want to implement it , as a light stack or something .
+
+dialogue type : qy^d^f^g^rt
+C :  Yes ?
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s^aa|s^na
+C :  No , not not if you have a big uh web pad or something .
+
+dialogue type : s
+C :  Then you m There there 's an IP stack in it
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : %-
+C :  So
+
+dialogue type : qy.%--
+C :  c Can I do another one , like
+
+dialogue type : s^tc
+C :  UMTS or wireless u i generally are will be m more expensive .
+
+dialogue type : s^e
+C :  And especially UMTS .
+
+dialogue type : s
+C :  If they want to get back the money .
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : s
+C :  not really billing , of course .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  but at least the different application of protocol - based usage .
+
+dialogue type : s^rt
+C :  So you have uh one connection , one application uses FTP whatever ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^cs
+C :  That those type of application you m may might want to make more out of a megabit per second or something .
+
+dialogue type : qy^rt
+C :  Could that be something ,
+
+dialogue type : qrr.%--
+C :  or ?
+
+dialogue type : %-
+C :  Or is n
+
+dialogue type : s^ar|s.%-
+C : 
+
+dialogue type : %-
+C :  e
+
+dialogue type : s^aa|s^na
+C :  Yeah , that 's true .
+
+dialogue type : s^aa|s^na
+C :  Yeah , that 's right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : %-
+C :  N
+
+dialogue type : s^ng
+C :  Well , I 'm not sure .
+
+dialogue type : s^ng
+C :  I I th I think I agree with him .
+
+dialogue type : s
+C :  But uh right now we 're looking at b a th You want to do a big thing instead of a great thing .
+
+dialogue type : s
+C :  So if you d assume that it should connect uh really good to Siemens and to uh KPN , and to the then it starts to get big we should all go to the in the same direction .
+
+dialogue type : s
+C :  If you already assume " well , OK , they paid money " , and now you think , OK , what what great thing you want to do , then it gives you more freedom to think about this great thing you want to m do .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^df
+C :  But you but you don't get one if you if you try to to align KPN with Siemens , for instance .
+
+dialogue type : %-
+C :  Uh .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^na
+C :  That 's right now the s the status .
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s
+C :  I 'm out for th one a week and a half .
+
+dialogue type : s
+C :  So on Wednesday , Thursday , Friday , I have a workshop at Stanford
+
+dialogue type : s
+C :  and next week I have a week on holiday .
+
+dialogue type : s^am
+C :  Could be .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bu
+C :  So so the only solution would for for KPN would be that there is a p a project in this area .
+
+dialogue type : s
+C :  So that makes sense to do in this ar This , I mean the Bay Area
+
+dialogue type : s
+C :  with a group of uh a few people ,
+
+dialogue type : s^e
+C :  like four or something ,
+
+dialogue type : s
+C :  and that connects to this project .
+
+dialogue type : s
+C :  So , one somebody or two somebodies can be found uh founded or get money to join this project .
+
+dialogue type : s
+C :  But that the other four should build a service on top of it , that has a clear business focus .
+
+dialogue type : s
+C :  It means eh a a UMTS service basically .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa|s^nd
+C :  Yeah , but you see the the they ask something pretty strange .
+
+dialogue type : s
+C :  They they want something pretty strange from me that I think of a service ,
+
+dialogue type : s^e
+C :  a network service .
+
+dialogue type : s
+C :  There are sixty million billion people in the in the world that think of services all day
+
+dialogue type : s
+C :  and try to make a lot of money with it in the form of start - ups or whatever .
+
+dialogue type : s
+C :  And just think of a service like that , if I could do this .
+
+dialogue type : %-
+C :  w
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : %-
+C : 
+
+dialogue type : %-
+C :  Bu
+
+dialogue type : s
+C :  Well , u until now I have been trying to think about it ,
+
+dialogue type : %--
+C :  but eh f to me u
+
+dialogue type : s
+C :  what I have every every time I encountered it , it is all this is all pretty close by ,
+
+dialogue type : s
+C :  like the industry is already behind this .
+
+dialogue type : s
+C :  So they they want to make this available pretty soon .
+
+dialogue type : s
+C :  So I 'm just trying to think uh m more ahead , like uh use the wireless device as a only as a signalling thing or something .
+
+dialogue type : s
+C :  So so whenever you come in with your uh GSM phone and there is a PC available , like everything will be directed to the the bigger device or something .
+
+dialogue type : s
+C :  So more services like that .
+
+dialogue type : s
+C :  I think the they are working pretty hard to get IP available very good and efficiently from uh two mobile devices or wireless devices .
+
+dialogue type : %-
+C :  a th thing
+
+dialogue type : s.%-
+C :  And there 's a We m
+
+dialogue type : s
+C :  Our group might fo want to focus on the uh IP over ether no nets
+
+dialogue type : s.%--
+C :  or something like
+
+dialogue type : s^e
+C : 
+
+dialogue type : s
+C :  N no nets ,
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  Like only over ether .
+
+dialogue type : s
+C :  carefully integrated for net
+
+dialogue type : s
+C :  but there is no net .
+
+dialogue type : s^rt
+C :  If you want to do make like also for wireless devices end to end IP available , that could be a vision .
+
+dialogue type : fh
+C :  Like .
+
+dialogue type : s
+C :  Well , so he he says well IP to IP or end to end IP , is far well , it 's far away .
+
+dialogue type : fh
+C :  um
+
+dialogue type : s
+C :  So you what you might want to do is well get U M T S out there
+
+dialogue type : s
+C :  and just do uh I Ps playing over radio .
+
+dialogue type : s
+C :  Like like SDH , IP over fiber or WDM - WDM .
+
+dialogue type : s
+C :  This gets rid of the SDH .
+
+dialogue type : s^rt
+C :  Or , well , start with get rid of the ATM first
+
+dialogue type : s^rt
+C :  and then get rid of SDH .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s^cs
+C :  Eh you guys do that discussion later on please ,
+
+dialogue type : qy^d^g^rt
+C :  uh ?
+
+dialogue type : s^e
+C :  RSVP .
+
+dialogue type : s^bk
+C :  OK
+
+dialogue type : s^na
+C :  Don't switch it off .
+

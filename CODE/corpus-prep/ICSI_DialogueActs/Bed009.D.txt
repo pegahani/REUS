@@ -1,0 +1,441 @@
+dialogue type : z
+D :  Hello ?
+
+dialogue type : z
+D :  OK ,
+
+dialogue type : z
+D :  uh
+
+dialogue type : s^m
+D :  Hi .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm ,
+
+dialogue type : b
+D :  yep .
+
+dialogue type : s
+D :  Yeah , very much
+
+dialogue type : s^bk
+D :  Yeah
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b.%
+D :  Oh
+
+dialogue type : qw^br
+D :  Hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b.x
+D :  Hmm .
+
+dialogue type : b
+D :  Hmm , ah .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Huh .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^ar
+D :  uh , No ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^am
+D :  I think .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^bk|s
+D :  Yeah , it 's it 's not defined yet .
+
+dialogue type : s^aa
+D :  Um Yeah .
+
+dialogue type : x
+D :  Mmm .
+
+dialogue type : s^aa|s
+D :  Yeah , there 's a meeting next next week I think
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : fg
+D :  Yeah ,
+
+dialogue type : qy.%--
+D :  are there currently is uh
+
+dialogue type : s^rt
+D :  no syntactic analysis
+
+dialogue type : s
+D :  but in the next release there will be some .
+
+dialogue type : s.%--
+D :  unless
+
+dialogue type : s.%--
+D :  and it 's
+
+dialogue type : fg
+D :  um uh
+
+dialogue type : s.%--
+D :  you can access this
+
+dialogue type : s^aa
+D :  Hmm .
+
+dialogue type : h|s^rt
+D :  um it 's to to integrate and syntactic analysis .
+
+dialogue type : s^rt
+D :  and um add some more features like segmentation .
+
+dialogue type : s^rt
+D :  So then an utter more than one utterance is There um there 's often uh pause between it
+
+dialogue type : s
+D :  and a segmentation occurs .
+
+dialogue type : fh
+D :  um
+
+dialogue type : b
+D :  yeah
+
+dialogue type : s^ar|s.%--
+D :  No no it 's uh I think it 's it 's totally complicated for
+
+dialogue type : s
+D :  it 's just one one person
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s
+D :  ah and so things must be simpler
+
+dialogue type : s
+D :  but uh , Miel syntactic analysis with um finite state transducers .
+
+dialogue type : s^bk|s
+D :  Yeah , uh the problem is th that it has to be very fast
+
+dialogue type : s.%--
+D :  because um if you want to for more than one path anywhere
+
+dialogue type : qo
+D :  what 's in the latches from the speech recognizer
+
+dialogue type : s
+D :  so it 's speed is crucial .
+
+dialogue type : fh
+D :  uh
+
+dialogue type : s
+D :  And they are not fast enough .
+
+dialogue type : s
+D :  And they also have to be very robust . cuz of um speech recognition errors
+
+dialogue type : %--
+D :  and
+
+dialogue type : s.%--
+D :  I think it 's that
+
+dialogue type : s.%--
+D :  might ,
+
+dialogue type : s
+D :  at Tuebingen I thought .
+
+dialogue type : qy
+D :  was Do you know something about that ?
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk
+D :  oh
+
+dialogue type : s
+D :  Oh from from Stuttgart ,
+
+dialogue type : fg|%-
+D :  yeah , also
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  yeah .
+
+dialogue type : s^aa
+D :  yeah
+
+dialogue type : s
+D :  that 's In this direction ,
+
+dialogue type : s^aa
+D :  yes
+
+dialogue type : s^r
+D :  Yeah , it 's in in this direction .
+
+dialogue type : b
+D :  Mm - hmm , yeah ,
+
+dialogue type : sj^ba
+D :  it would be very interesting ,
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm , yeah .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^bk^rt
+D :  Mm - hmm .
+
+dialogue type : h
+D :  um
+
+dialogue type : s^aa|s
+D :  yeah , I 've I 've looked at it
+
+dialogue type : s^df
+D :  but but it 's no not much uh information available .
+
+dialogue type : s.%--
+D :  I found ,
+
+dialogue type : s
+D :  but it 's also finite - state transducers , I thought .
+
+dialogue type : s.%--
+D :  and
+
+dialogue type : fg|s^df.%--
+D :  Yeah , and and Purely finite - state transducers are not so good for German since there 's um
+
+dialogue type : s
+D :  The word order is is uh not fixed
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  Mm - hmm . Also it 's uh it 's um Yes , uh the um choice between uh this processing and that processing and my template matcher .
+
+dialogue type : h|s
+D :  Um , yeah but it 's all in the in the lexicon .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^aa|s
+D :  Yeah th the information is available .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Yeah
+
+dialogue type : s^aa|s.%--
+D :  Yeah , we can ,
+
+dialogue type : b
+D :  oh yeah .
+
+dialogue type : s
+D :  We have knowledge bases from from Verbmobil system we can use
+
+dialogue type : %--
+D :  and so .
+
+dialogue type : %-
+D : 
+
+dialogue type : h
+D :  um
+
+dialogue type : fg|s
+D :  Yeah , but but it 's used for for stem forms .
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : qw.%
+D :  What ?
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^aa
+D :  Yeah
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : h|s
+D :  um Not yet but it 's planned to do that .
+
+dialogue type : b
+D :  Yeah
+
+dialogue type : b
+D :  Oh yes .
+
+dialogue type : h|s^aa
+D :  um Yeah ,
+
+dialogue type : s.%--
+D :  it 's um I think it 's um
+
+dialogue type : s^aa|s
+D :  yes , it 's it 's um possible to to do list processing .
+
+dialogue type : s^rt
+D :  and Maybe this is um more adequate for English
+
+dialogue type : s
+D :  and in German um set processing is used .
+
+dialogue type : s.%--
+D :  Maybe yeah .
+
+dialogue type : s
+D :  Some extensions uh have to be made . For for a English version
+
+dialogue type : s^aa
+D :  Mm - hmm ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : h
+D : 
+
+dialogue type : s^ar
+D :  mmm . No .
+
+dialogue type : qy^rt
+D :  Oder there was an talk ?
+
+dialogue type : b
+D :  uh Mmm , yeah .
+
+dialogue type : b
+D :  Ah .
+
+dialogue type : b
+D :  Mmm , ah .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^bk
+D :  Ah , OK .
+

@@ -1,0 +1,69 @@
+dialogue type : fg|s^rt^tc
+J :  OK , my name is uh Espen Eriksen .
+
+dialogue type : s^rt
+J :  I 'm a Norwegian .
+
+dialogue type : fh|s
+J :  Um uh this is my second semester at Berkeley .
+
+dialogue type : s^rt
+J :  Currently I 'm taking uh my first graduate level courses in DSP
+
+dialogue type : fh|s^rt
+J :  and um when I come back to Norway I 'm gonna continue with the more of a research project work kind of work .
+
+dialogue type : fh|s
+J :  So this semester I 'm starting up with a with a small project through uh Dave Gelbart which I 'm taking a course with
+
+dialogue type : s^rt
+J :  I got in touch with him and he told me about this project .
+
+dialogue type : fh|s
+J :  So with the help of uh Dan Ellis I 'm gonna do small project associated to this .
+
+dialogue type : s^cc
+J :  What I 'm gonna try to do is uh use use ech echo cancellation to uh to handle the periods where you have overlapping talk .
+
+dialogue type : s
+J :  To try to do something about that .
+
+dialogue type : s
+J :  So currently I 'm um I 'm just reading up on echo cancellation ,
+
+dialogue type : s
+J :  s looking into the theory behind that
+
+dialogue type : fh|s
+J :  and then uh hopefully I get some results .
+
+dialogue type : s
+J :  So it it 's a it 's a project goes over the course of one semester .
+
+dialogue type : s
+J :  So I 'm just here today to introduce myself .
+
+dialogue type : s.%--
+J :  Tell about
+
+dialogue type : s
+J :  I 'll be I 'll be working on this .
+
+dialogue type : s
+J :  This is my second semester and last .
+
+dialogue type : fh|s.%-
+J :  So I leave
+
+dialogue type : s^aa|s^na
+J :  Yeah , I 'm in Morgan 's course ,
+
+dialogue type : b
+J :  yeah .
+
+dialogue type : s^aa
+J :  Yeah .
+
+dialogue type : b
+J :  Yeah .
+

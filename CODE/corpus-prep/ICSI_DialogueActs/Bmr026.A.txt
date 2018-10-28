@@ -1,0 +1,717 @@
+dialogue type : s
+A :  OK , we 're on .
+
+dialogue type : s^t
+A :  So , I think this is gonna be a pretty short meeting because I have four agenda items ,
+
+dialogue type : s
+A :  three of them were requested by Jane who is not gonna be at the meeting today .
+
+dialogue type : h|s^rt^t
+A :  So . The uh first was transcription status .
+
+dialogue type : qy^rt
+A :  Does anyone besides Jane know what the transcription status is ?
+
+dialogue type : s^fe
+A :  Ugh !
+
+dialogue type : qy
+A :  C can I have a pen ?
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s^ar
+A :  No , no .
+
+dialogue type : s
+A :  We haven't done that process .
+
+dialogue type : s^e
+A :  So . They ' r they 're doing the full transcription process .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : sj^ba
+A :  Yep , sounds familiar .
+
+dialogue type : qy^2^d^rt
+A :  Make sure it 's right .
+
+dialogue type : qy^rt
+A :  Can you mail that out to the list ?
+
+dialogue type : s^bk
+A :  Oh , OK , OK .
+
+dialogue type : s
+A :  Yeah , I haven't done that .
+
+dialogue type : s
+A :  So . I have lots of stuff to add that 's just in my own directory .
+
+dialogue type : s^cc
+A :  I 'll try to get to that .
+
+dialogue type : s^bk^rt^tc
+A :  OK .
+
+dialogue type : s
+A :  So Jane also wanted to talk about participant approval , but I don't really think there 's much to talk about .
+
+dialogue type : s^cc
+A :  I 'm just gonna do it .
+
+dialogue type : s
+A :  And uh , if anyone objects too much then they can do it instead .
+
+dialogue type : s^cc
+A :  I 'm gonna send out to the participants , uh , with links to web
+
+dialogue type : s
+A :  And then bleep them out .
+
+dialogue type : s
+A :  For the ones that we have .
+
+dialogue type : fh
+A :  Um
+
+dialogue type : s^ar|s
+A :  Nope , they 'll have access to the audio also .
+
+dialogue type : s
+A :  I mean that 's my intention .
+
+dialogue type : s
+A :  Because the transcripts might not be right .
+
+dialogue type : s
+A :  So you want people to be able to listen to them .
+
+dialogue type : sj^ba
+A :  Oh , that 's a good point .
+
+dialogue type : sj^ba^r
+A :  That 's a good point .
+
+dialogue type : h|s
+A :  Yeah , it 's it 's probably going to have to be the uncompressed versions because , uh , uh , it takes too long to do random access decompression .
+
+dialogue type : s
+A :  Well , that was the other point .
+
+dialogue type : s^t
+A :  Yep , that 's another agenda item .
+
+dialogue type : h
+A : 
+
+dialogue type : sj^ba
+A :  But that is a good point so we 'll get to that , too .
+
+dialogue type : h|s
+A :  Um , DARPA demo status , not much to say .
+
+dialogue type : s
+A :  The back - end stuff is working out fine .
+
+dialogue type : s
+A :  It 's more or less ready to go .
+
+dialogue type : s
+A :  I 've added some stuff that uh indes indexes by the meeting type MR , EDU , et cetera
+
+dialogue type : s
+A :  and also by the user ID .
+
+dialogue type : s
+A :  So that the front - end can then do filtering based on that as well .
+
+dialogue type : fh|s
+A :  Uh The back - end is uh , going more slowly as I s I think I said before just cuz I 'm not much of a Tcl - TK programmer .
+
+dialogue type : fh|s
+A :  And uh Dave Gelbart says he 's a little too busy .
+
+dialogue type : s
+A :  So I think Don and I are gonna work on that and and you and I can just talk about it off - line more .
+
+dialogue type : fh|s
+A :  But uh the back - end was pretty smooth .
+
+dialogue type : s
+A :  So I think , we 'll have something .
+
+dialogue type : s
+A :  It may not be as As pretty as we might like , but we 'll have something .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : fg|s
+A :  Yeah , he he actually he volunteered but then he s then he retracted it .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : sj^bd
+A :  Oh well .
+
+dialogue type : fg
+A : 
+
+dialogue type : sj^ba
+A :  Oh , cool .
+
+dialogue type : qy^d^rt
+A :  For a demo ?
+
+dialogue type : s^bk
+A :  Yeah , sounds good .
+
+dialogue type : s
+A :  So it might just be slides .
+
+dialogue type : s
+A :  Well Transcriber is Tcl - TK , very generic with Snack ,
+
+dialogue type : s
+A :  so basically anything you can get Snack to run on , it will work .
+
+dialogue type : s^bu
+A :  Well I thought it was packaged with Transcriber ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : b
+A :  Ah .
+
+dialogue type : s^2
+A :  Patch .
+
+dialogue type : s^fe
+A :  Ugh !
+
+dialogue type : s
+A : 
+
+dialogue type : s^aa|s
+A :  Yeah b it 's just hasn't made it into the release yet .
+
+dialogue type : sj
+A :  It 'd be easy enough to add that .
+
+dialogue type : s^ng
+A :  Again it 's it 's It 's more Tcl - T
+
+dialogue type : s
+A :  So someone who 's familiar with Tcl - TK has to do it ,
+
+dialogue type : s
+A :  but uh , it wouldn't be hard to do .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : sj.%--
+A :  But it it seems to me that I c
+
+dialogue type : sj
+A :  It doesn't seem like having that real time is that necessary .
+
+dialogue type : sj
+A :  So yo It seems to me you could do images .
+
+dialogue type : s^aa
+A :  Yeah , jus Yeah .
+
+dialogue type : sj.%--
+A :  It just seems to me jus
+
+dialogue type : s^aap|s^nd
+A :  Sure , but I don't think I You can do all that just statically in
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^tc
+A :  And the last i item on the agenda is disk issues yet again .
+
+dialogue type : s
+A :  So , we 're doing OK on backed up .
+
+dialogue type : s
+A :  We 're We 're only about thirty percent on the second disk .
+
+dialogue type : s
+A :  So , uh , we have a little bit of time before that becomes critical ,
+
+dialogue type : s
+A :  but we are like ninety five percent , ninety eight percent on the scratch disks for the expanded meetings .
+
+dialogue type : s^rt
+A :  And , my original intention was like we would just delete them as we needed more space ,
+
+dialogue type : s
+A :  but unfortunately we 're in the position where we have to deal with all the meeting data all at once , in a lot of different ways .
+
+dialogue type : s^bk|s^m
+A :  Yeah , there 're a lot of transcribers ,
+
+dialogue type : s^cs
+A :  so all of those need to be expanded ,
+
+dialogue type : s^rt^t
+A :  and then people are doing chunking and I want to do uh , uh , uh , the permission forms ,
+
+dialogue type : s
+A :  so I want those to be live , so there 's a lot of data that has to be around .
+
+dialogue type : fh|s
+A :  Um And Jane was gonna talk to , uh , Dave Johnson about it .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^fa
+A : 
+
+dialogue type : s
+A :  ten , uh SPARC - Blade SUN - Blades .
+
+dialogue type : s^r
+A :  They came in but they 're not set up yet .
+
+dialogue type : s^cs
+A :  And so it seems to me we could hang scratch disk on those because they 'll be in the machine room ,
+
+dialogue type : s^e
+A :  they 'll be on the fast connection to the rest of the machines .
+
+dialogue type : s
+A :  And if we just need un - backed - up space , we could just hang disks off them .
+
+dialogue type : s
+A :  Because there 's no more room in the disk racks on Abbott .
+
+dialogue type : s
+A :  Well , but the SUN - Blades have spare drive bays .
+
+dialogue type : s^co
+A :  Just put them in .
+
+dialogue type : b
+A :  Sure .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  Cuz the SUN uh , these SUN - Blades take commodity hard drives .
+
+dialogue type : s
+A :  So you can just go out and buy a PC hard drive and stick it in .
+
+dialogue type : sj^ba
+A :  Well , I mean there are lots of long term solutions .
+
+dialogue type : qh
+A :  What I 'm looking for is where do we s expand the next meeting ?
+
+dialogue type : s^no
+A :  Oh , I didn't know he had left already .
+
+dialogue type : s^by
+A :  Oh , oh well .
+
+dialogue type : s
+A :  You we need about a gig per meeting .
+
+dialogue type : s^ba^fe
+A :  Alright !
+
+dialogue type : qw^rt
+A :  What 's your computer 's name ?
+
+dialogue type : qy^bu^d^rt
+A :  So it And you have an X drives installed ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qy^d.%-
+A :  And you 're o you 're offering ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qw
+A :  Which one was that , X G ?
+
+dialogue type : qy^d^g^rt
+A :  X G ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bu
+A :  But that won't be getting any bigger ,
+
+dialogue type : qy^g
+A :  will it ?
+
+dialogue type : s
+A :  Not not for long .
+
+dialogue type : s
+A :  Yeah , it 's probably Probably only about four gig is on X on your X drive ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : sj^ba^tc
+A :  Great .
+
+dialogue type : s^tc
+A :  OK , so that will get us through the next couple days .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s^e
+A :  At least .
+
+dialogue type : qy^d^rt
+A :  The " more disk space " button ?
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s
+A :  Half a gig .
+
+dialogue type : s
+A :  For all of them .
+
+dialogue type : s
+A :  I would like to .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : qw
+A :  And put it where ?
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s
+A :  Wa - a I know what they want .
+
+dialogue type : s
+A :  The sysadmins would prefer to have one external drive per machine .
+
+dialogue type : s
+A :  So they don't want to stack up external drives .
+
+dialogue type : fh|s
+A :  Um And then they want everything else in the machine room .
+
+dialogue type : qw
+A :  So the question is where are you gonna hang them ?
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s
+A :  But I I know that generally their first priority has been for backed up disk .
+
+dialogue type : s
+A :  And so I think what he 's been concentrating on is uh the back the back up system , rather than on new disk .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^aa
+A :  Yeah really .
+
+dialogue type : s
+A :  Popcorn .
+
+dialogue type : s^arp
+A :  Yeah , it 's just It 's not on the net , so it 's a little awkward
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  It 's behind lots of fire walls that don't allow any services through except S S
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A :  And also on the list is to get it into the normal ICSI net ,
+
+dialogue type : qh
+A :  but Who knows when that will happen ?
+
+dialogue type : s
+A :  No , the the problem with that apparently is that they don't currently have a wire running to that back room that goes anywhere near one of the ICSI routers .
+
+dialogue type : s
+A :  So , they actually have to run a wire somewhere .
+
+dialogue type : s^arp
+A :  But Dave has to do all of them .
+
+dialogue type : sj^fe
+A :  Oh my !
+
+dialogue type : s^rt^tc
+A :  And that 's all I have .
+
+dialogue type : qy^bu^d^rt
+A :  This is the fifteenth ?
+
+dialogue type : qy^bu^d^rt
+A :  So just a week from tomorrow ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^nd
+A :  I 'm interested .
+
+dialogue type : s
+A :  Jane , I think .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s
+A :  If we talked about it in this meeting .
+
+dialogue type : qy^j^rt
+A :  The Nod off ?
+
+dialogue type : s^aa
+A :  Yeah , I would as I would guess .
+
+dialogue type : s^2^cs^ng
+A :  Or just alternate the focus .
+
+dialogue type : s^e
+A :  Yeah , so on even weeks have basic on data .
+
+dialogue type : s^j^nd
+A :  I am .
+
+dialogue type : s^fa.%-
+A :  Oh sor
+
+dialogue type : s
+A :  Well , except that we keep going for our full time .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : x
+A :  Ugh .
+
+dialogue type : s^ar
+A :  I don't .
+
+dialogue type : s^co^t1
+A :  Let 's read digits and go .
+
+dialogue type : s^2
+A :  Bridge .
+
+dialogue type : b
+A :  OK ?
+
+dialogue type : s^ar
+A :  No , no that would be for next week .
+
+dialogue type : b.%
+A :  Mmm .
+
+dialogue type : b
+A :  Wow .
+
+dialogue type : qy^bu^rt
+A :  Just with ROVER ?
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s^ba
+A :  Yeah , it 's pretty impressive .
+
+dialogue type : s^cs
+A :  We clearly gotta add a few more features , though .
+
+dialogue type : s
+A :  No , uh front - end features .
+
+dialogue type : s
+A :  You know we did PLP and Mel Cepstra .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : sj^ba
+A :  Cool .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^no
+A :  I don't know .
+
+dialogue type : s^cs
+A :  I could also put in uh focus condition zero from Hub - four from Broadcast News , which is mostly prepared speech .
+
+dialogue type : s
+A :  It 's not exactly read speech but it 's pretty darn close .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  That 's right .
+
+dialogue type : b.%
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s^co
+A :  Try it .
+
+dialogue type : s^co^rt
+A :  You run it ?
+
+dialogue type : s^co^rt
+A :  Keep keep both versions ?
+
+dialogue type : s^co
+A :  See which one 's better ?
+
+dialogue type : s
+A :  I could make arguments either way .
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  Sort of given up guessing .
+
+dialogue type : s
+A :  Although , I mean we 've done it with When we were combining with the Cambridge recurrent neural net , embedded training made it worse .
+
+dialogue type : s
+A :  Which I 've never figured out .
+
+dialogue type : sj
+A :  I think it 's a bug .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  No
+
+dialogue type : s^e^nd
+A :  they were they were comparable .
+
+dialogue type : s
+A :  They were very close .
+
+dialogue type : s
+A :  That 's what I said .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Ah yeah .
+
+dialogue type : s
+A :  That 's another big difference .
+
+dialogue type : s^no.x
+A :  I 'm not sure what this 'll mean .
+
+dialogue type : qo^rt^t3
+A :  Hello ?
+
+dialogue type : qw^br^rt^t3
+A :  Excuse me ?
+
+dialogue type : s^bk^t3
+A :  Alright .
+
+dialogue type : s^t3
+A :  Wrong number .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^arp
+A :  But not by a lot .
+
+dialogue type : s
+A :  Vast majority is from the input unit .
+
+dialogue type : s^aa|s
+A :  Right , because you used the context windows
+
+dialogue type : s
+A :  and so the input to hidden is much , much larger .
+
+dialogue type : s
+A :  It 'll be faster .
+
+dialogue type : s
+A :  We 're just waiting for you to leave .
+
+dialogue type : qo^rt
+A :  Anything else ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : %--
+A : 
+
+dialogue type : s^aa
+A :  yeah that 's right .
+
+dialogue type : s
+A :  Uh , well , we started late .
+

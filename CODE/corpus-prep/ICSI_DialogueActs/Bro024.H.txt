@@ -1,0 +1,174 @@
+dialogue type : s^cs
+H :  Please give me one .
+
+dialogue type : s
+H :  It 's worse .
+
+dialogue type : h|s
+H :  Well , I only say that the this is , a summary of the of all the VTS experiments
+
+dialogue type : s
+H :  and say that the result in the last um , for Italian the last experiment for Italian , are bad .
+
+dialogue type : s
+H :  I make a mistake when I write .
+
+dialogue type : s
+H :  Up at D I copy one of the bad result .
+
+dialogue type : fh
+H : 
+
+dialogue type : s.%--
+H :  There . You know , this .
+
+dialogue type : fh
+H :  Um ,
+
+dialogue type : fh
+H :  well .
+
+dialogue type : s
+H :  If we put everything , we improve a lot u the spectral use of the VTS
+
+dialogue type : s
+H :  but the final result are not still mmm , good like the Wiener filter for example .
+
+dialogue type : s^no
+H :  I don't know .
+
+dialogue type : s
+H :  Maybe it 's @ @ it 's possible to to have the same result .
+
+dialogue type : s^no
+H :  I don't know exactly .
+
+dialogue type : fh
+H :  Mmm .
+
+dialogue type : s
+H :  Because I have , mmm , worse result in medium mismatch and high mismatch .
+
+dialogue type : fh
+H :  And Yeah .
+
+dialogue type : s
+H :  I someti are more or less similar but but are worse .
+
+dialogue type : fh
+H :  And
+
+dialogue type : s^rt
+H :  still I don't have the result for TI - digits .
+
+dialogue type : s^df
+H :  The program is training .
+
+dialogue type : s^am
+H :  Maybe for this weekend I will have result TI - digits
+
+dialogue type : s
+H :  and I can complete that s like this .
+
+dialogue type : fh
+H :  Well .
+
+dialogue type : s
+H :  One thing that I note are not here in this result but are speak are spoken before with Sunil I I improve my result using clean LDA filter .
+
+dialogue type : s
+H :  If I use , eh , the LDA filter that are training with the noisy speech , that hurts the res my results .
+
+dialogue type : s
+H :  This is with the clean .
+
+dialogue type : s
+H :  With the noise I have worse result , that if I doesn't use it .
+
+dialogue type : s^df
+H :  But m that may be because with this technique we are using really really clean speech .
+
+dialogue type : s
+H :  The speech the representation that go to the HTK is really clean speech
+
+dialogue type : s^df
+H :  because it 's from the dictionary ,
+
+dialogue type : s^e
+H :  the code book
+
+dialogue type : s^am
+H :  and maybe from that .
+
+dialogue type : s^no
+H :  I don't know .
+
+dialogue type : s
+H :  Because I think that you did some experiments using the two the two LDA filter , clean and noi and noise ,
+
+dialogue type : s
+H :  and it doesn't matter too much .
+
+dialogue type : s^bu
+H :  It 's better to use clean .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^cs
+H :  Maybe you can do d also this .
+
+dialogue type : s^e
+H :  To use clean speech .
+
+dialogue type : s
+H :  Yeah , with the clean LDA .
+
+dialogue type : qy
+H :  Is that the reason ?
+
+dialogue type : %-
+H : 
+
+dialogue type : s
+H :  And this is everything .
+
+dialogue type : s^aa
+H :  Yeah .
+
+dialogue type : s^cs.%-
+H :  And prepare at the s
+
+dialogue type : s^bk
+H :  Yeah ,
+
+dialogue type : s^na
+H :  I was thinking to do that next week .
+
+dialogue type : s^bk
+H :  Yeah ,
+
+dialogue type : s^cc
+H :  I wi I I will do that next week .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^aa
+H :  OK .
+
+dialogue type : s.%--
+H :  I can send
+
+dialogue type : s
+H :  yet .
+
+dialogue type : z
+H :  This is date and time .
+
+dialogue type : z
+H :  No .
+
+dialogue type : z
+H :  On the channel , channel .
+

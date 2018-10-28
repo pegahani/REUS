@@ -1,0 +1,99 @@
+dialogue type : s^t1
+D :  Ooh , Thursday .
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^m^t1
+D :  Rank .
+
+dialogue type : b
+D :  Oh .
+
+dialogue type : %-
+D :  Dar
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : %-
+D :  S
+
+dialogue type : h
+D :  Mmm .
+
+dialogue type : s^tc
+D :  No , just , uh , looking into some some of the things that , um , uh , John Ohala and Hynek , um , gave as feedback ,
+
+dialogue type : s^e
+D :  um , as as a starting point for the project .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s^cs
+D :  In in my proposal , I I was thinking about starting from a set of , uh , phonological features , or a subset of them .
+
+dialogue type : s
+D :  Um , but that might not be necessarily a good idea according to , um , John .
+
+dialogue type : s
+D :  He said , uh , um , these these phonological features are are sort of figments of imagination also .
+
+dialogue type : %-
+D :  Um . S
+
+dialogue type : %-
+D :  Ye
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^cs^rt
+D :  Yeah . So , um , a better way would be something more more data - driven ,
+
+dialogue type : s
+D :  just looking at the data and seeing what 's similar and what 's not similar .
+
+dialogue type : s
+D :  So , I 'm I 'm , um , taking a look at some of , um , Sangita 's work on on TRAPS .
+
+dialogue type : s.%--
+D :  She did something where , um w where the TRAPS learn
+
+dialogue type : s
+D :  She clustered the the temporal patterns of , um , certain certain phonemes in in m averaged over many , many contexts .
+
+dialogue type : s
+D :  And , uh , some things tended to cluster .
+
+dialogue type : s
+D :  Right ? You know , like stop stop consonants clustered really well .
+
+dialogue type : s
+D :  Um , silence was by its own self .
+
+dialogue type : s
+D :  And , uh , um , v vocalic was clustered .
+
+dialogue type : fh|s.%-
+D : 
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^df
+D :  Just to see where where I could start off from ,
+
+dialogue type : qy^d^f^g^rt
+D :  uh , you know ?
+
+dialogue type : s
+D :  A a a set of small features and continue to iterate and find , uh , a better set .
+
+dialogue type : b
+D :  Yeah .
+

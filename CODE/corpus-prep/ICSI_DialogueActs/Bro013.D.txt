@@ -1,0 +1,183 @@
+dialogue type : s
+D :  No , I w I begin to play with Matlab and to found some parameter robust for voiced - unvoiced decision .
+
+dialogue type : s
+D :  But only to play .
+
+dialogue type : s
+D :  And we they we found that maybe w is a classical parameter , the sq the variance between the um FFT of the signal and the small spectrum of time we after the um mel filter bank .
+
+dialogue type : s
+D :  And , well , is more or less robust .
+
+dialogue type : s
+D :  Is good for clean speech .
+
+dialogue type : s
+D :  Is quite good for noisy speech .
+
+dialogue type : s
+D :  but um we must to have bigger statistic with TIMIT ,
+
+dialogue type : s.%--
+D :  and is not ready yet to use on ,
+
+dialogue type : s^no
+D :  well , I don't know .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  I have here .
+
+dialogue type : s
+D :  I have here for one signal , for one frame .
+
+dialogue type : s
+D :  The the mix of the two , noise and unnoise , and the signal is this .
+
+dialogue type : s
+D :  Clean , and this noise .
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  the mixed , the big signal is for clean .
+
+dialogue type : h|s
+D :  Uh this is uh this axis is nnn , " frame " .
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : h|s
+D :  Uh , this is uh energy , log - energy of the spectrum .
+
+dialogue type : %--
+D :  Of the
+
+dialogue type : s
+D :  this is the variance ,
+
+dialogue type : s^e
+D :  the difference between the spectrum of the signal and FFT of each frame of the signal
+
+dialogue type : s^e
+D :  and this mouth spectrum of time after the f may fit for the two ,
+
+dialogue type : s
+D :  this big , to here , they are to signal .
+
+dialogue type : s
+D :  This is for clean and this is for noise .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^no
+D :  I don't know .
+
+dialogue type : s
+D :  I I think that I have d another graph ,
+
+dialogue type : s^no
+D :  but I 'm not sure .
+
+dialogue type : s
+D :  The lower is noise and the height is clean .
+
+dialogue type : s
+D :  It 's height .
+
+dialogue type : s
+D :  Oh . I must to have .
+
+dialogue type : s.%-
+D :  Pity , but I don't have two different
+
+dialogue type : s^aa|s^na
+D :  Yeah , it is the height is voiced portion .
+
+dialogue type : s
+D :  And this is the noise portion .
+
+dialogue type : s
+D :  And this is more or less like this .
+
+dialogue type : s
+D :  But I meant to have see @ @ two two the picture .
+
+dialogue type : s
+D :  This is , for example , for one frame .
+
+dialogue type : s
+D :  the the spectrum of the signal .
+
+dialogue type : s
+D :  And this is the small version of the spectrum after ML mel filter bank .
+
+dialogue type : s.%-
+D :  And this is
+
+dialogue type : s^no
+D :  I don't know .
+
+dialogue type : s^nd
+D :  This is not the different .
+
+dialogue type : s
+D :  This is trying to obtain with LPC model the spectrum
+
+dialogue type : s.%--
+D :  but using Matlab without going factor and s
+
+dialogue type : s^na
+D :  Not pre - emphasis .
+
+dialogue type : s^e
+D :  Nothing .
+
+dialogue type : %-
+D : 
+
+dialogue type : s
+D :  I think that this is good .
+
+dialogue type : s
+D :  This is quite similar .
+
+dialogue type : s
+D :  this is this is another frame .
+
+dialogue type : s
+D :  ho how I obtained the envelope , this envelope , with the mel filter bank .
+
+dialogue type : s^aa|s
+D :  Yeah because when did noise clear in these section is clear
+
+dialogue type : s
+D :  if s @ @ val value is indicative that is a voice frame and it 's low values
+
+dialogue type : s
+D :  you have read up and you have a paper , the paper that you s give me yesterday .
+
+dialogue type : s
+D :  they say that yesterday they are some problem
+
+dialogue type : x
+D : 
+
+dialogue type : s^m
+D :  Is another problem .
+
+dialogue type : s^aa
+D :  Yeah like this .
+
+dialogue type : s
+D :  Of kind like this .
+
+dialogue type : s^aa
+D :  Yeah .
+

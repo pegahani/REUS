@@ -1,0 +1,141 @@
+dialogue type : s^fe
+D :  Oops .
+
+dialogue type : s^fe
+D :  Oops .
+
+dialogue type : s^2
+D :  Inserted ones .
+
+dialogue type : s
+D :  For one meeting .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : %-
+D :  For
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^2
+D :  Individual channels .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : qy^bu^d^rt
+D :  In the end ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yep .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : s^aa|s^ba
+D :  Yeah , that 's funny .
+
+dialogue type : b
+D :  Oh .
+
+dialogue type : %-
+D : 
+
+dialogue type : s.%--
+D :  Just instead of the sequential number , for
+
+dialogue type : s^cs
+D :  perhaps just the speaker ID or something .
+
+dialogue type : s^cs^e.%--
+D :  Just say speaker one or spea
+
+dialogue type : s
+D :  or just one , two , three , four for four speakers or something .
+
+dialogue type : x
+D :  Pppt !
+
+dialogue type : s
+D :  Could could be helpful .
+
+dialogue type : s^aa
+D :  Yeah . Yeah . Yeah . Yep .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  I think it should be more ,
+
+dialogue type : s^bk
+D :  yeah .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : qw^rt
+D :  So why not ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa|s^na
+D :  Yeah , that 's right .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : fg|s
+D :  Yep . It just ha just hangs down there .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : fg|s.%--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+

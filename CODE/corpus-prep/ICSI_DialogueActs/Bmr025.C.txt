@@ -1,0 +1,54 @@
+dialogue type : s^bk
+C :  Cool .
+
+dialogue type : h|s
+C :  Um yeah I 'm starting to
+
+dialogue type : fh
+C :  and
+
+dialogue type : fh
+C :  um
+
+dialogue type : s^cc
+C :  Yeah we can probably find some examples of different type of prosodic events going on .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk|s
+C :  Yeah , I mean I 'll be here .
+
+dialogue type : s^ba
+C :  Cool .
+
+dialogue type : b
+C :  Ooo .
+
+dialogue type : %-
+C :  u
+
+dialogue type : b
+C :  Huh .
+
+dialogue type : qy^rt
+C :  Will that also include like batteries dying ?
+
+dialogue type : s^bu
+C :  Just a any time the mike 's putting out zeros basically .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^fe
+C :  Oops .
+
+dialogue type : s
+C :  Speaking of which .
+
+dialogue type : s^ft^t3
+C :  Thank you .
+

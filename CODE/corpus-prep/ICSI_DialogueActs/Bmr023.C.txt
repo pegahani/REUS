@@ -1,0 +1,609 @@
+dialogue type : z
+C :  What channel am I on ?
+
+dialogue type : z
+C :  Oh , channel two .
+
+dialogue type : s
+C :  Unison .
+
+dialogue type : s^2^j
+C :  Greek chorus .
+
+dialogue type : qy^rt
+C :  Are you implying that it 's currently disorganized ?
+
+dialogue type : fg
+C :  Well .
+
+dialogue type : s^nd
+C :  We 're improving .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : fg|s^ba
+C :  Yeah . Actually it looks like it 's getting better .
+
+dialogue type : s.%-
+C :  So . But
+
+dialogue type : s^aa^m
+C :  With age . Yeah .
+
+dialogue type : s
+C :  But , uh , that 's not d directly related to me .
+
+dialogue type : s
+C :  Doesn't mean we can't talk about it .
+
+dialogue type : fh|s
+C :  Um , it seems It looks l I haven't The It 's The experiment is still not complete ,
+
+dialogue type : fh
+C :  but ,
+
+dialogue type : fh|s^ba
+C :  um , it looks like the vocal tract length normalization is working beautifully , actually ,
+
+dialogue type : s^df
+C :  w using the warp factors that we computed for the SRI system and just applying them to the ICSI front - end .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Just had to take the reciprocal of the number because they have different meanings in the two systems .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^cs
+C :  But one issue actually that just came up in discussion with Liz and and Don was , um , as far as meeting recognition is concerned , um , we would really like to , uh , move , uh , to , uh , doing the recognition on automatic segmentations .
+
+dialogue type : s^df
+C :  Because in all our previous experiments , we had the uh , you know , we were essentially cheating by having the , um , you know , the h the hand - segmentations as the basis of the recognition .
+
+dialogue type : s^cs.%-
+C : 
+
+dialogue type : s^e.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : fg
+C : 
+
+dialogue type : s^cs
+C :  We should we should consider doing some extra things , like , um , you know , retraining or adapting the the models for background noise to the to this environment , for instance .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : qw
+C :  Where 'd you get the digits from ?
+
+dialogue type : qy
+C :  And do you splice them into the waveform ?
+
+dialogue type : qrr.%--
+C :  Or ?
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^j.%-
+C : 
+
+dialogue type : s
+C :  And they don't have to approve , you know , th an edited version , they can just give their approval to whatever version
+
+dialogue type : fg
+C :  Bu
+
+dialogue type : s^arp
+C :  Yeah . But th I mean , the editing will continue . Presumably if if s errors are found , they will be fixed ,
+
+dialogue type : s^e
+C :  but they won't change the the content of the meetings .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : %-
+C :  Tha
+
+dialogue type : %-
+C : 
+
+dialogue type : qo^cs
+C :  How about having them approve the audio and not the transcripts ?
+
+dialogue type : s^bd
+C :  Well , that 's O K .
+
+dialogue type : s^df
+C :  We just have to give them a chance to listen to it , and if they don't , that 's their problem .
+
+dialogue type : s^fe
+C :  No , I 'm serious .
+
+dialogue type : qh^d^rt
+C :  Really ?
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^nd
+C :  Spurts wouldn't be .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : %-
+C :  No
+
+dialogue type : qy^rt
+C :  Have you tried using just time , as opposed to number of words ?
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^ng
+C :  Well , no , I mean t time time position relative to the beginning of the spurt .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  I mean that wouldn't be cheating because you can detect pause pretty well within the time .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : %-
+C :  W wh wh wh
+
+dialogue type : qy^bu^d^rt
+C :  Better in what sense ?
+
+dialogue type : s^bk|s
+C :  Oh , yeah . I tried that .
+
+dialogue type : s
+C :  It didn't , um , help dramatically .
+
+dialogue type : %-
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I think there were a higher number of deletions , actually .
+
+dialogue type : s
+C :  So , you , uh So , actually it it preferred to have a positive er , negative insertion penalty ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Yeah . The error changed by probably one percent or so .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^m^na
+C :  That 's not the problem .
+
+dialogue type : s^aa
+C :  No .
+
+dialogue type : s.%--
+C :  But , uh , we s just , um ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  you know , Chuck and I talked and the @ @ next thing to do is probably to tune the um , the size of the Gaussian system , um , @ @ to to this to this feature vector , which we haven't done at all .
+
+dialogue type : s
+C :  We just used the same configuration as we used for the for the standard system .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  You know , each each mixture has ten Gaussians
+
+dialogue type : s
+C :  and and we 're using sixty - four ,
+
+dialogue type : s
+C :  so that 's obviously a big difference
+
+dialogue type : s^am
+C :  and it might be way off
+
+dialogue type : s^am
+C :  and give very poorly trained , uh , you know , Gaussians that way ,
+
+dialogue type : s^e
+C :  uh , an and poorly trained mixture weights .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  The turn - around time on the training when we train only the a male system with , uh , you know , our small training set , is less than twenty - four hours ,
+
+dialogue type : s^cs
+C :  so we can run lots of uh , basically just brute force ,
+
+dialogue type : s^cs
+C :  try a whole bunch of different um , settings .
+
+dialogue type : s
+C :  And , uh , with the new machines it 'll be even better .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s.%--
+C :  But the PLP features work um , uh , you know , continue to improve the ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  As I said before , the uh using Dan 's , uh , uh , vocal tract normalization option works very well .
+
+dialogue type : s
+C :  So , um , @ @ I ran one experiment where we 're just did the vocal tract le normalization only in the test data ,
+
+dialogue type : s
+C :  so I didn't bother to retrain the models at all ,
+
+dialogue type : s
+C :  and it improved by one percent ,
+
+dialogue type : s
+C :  which is about what we get with uh , with , you know , just @ @ actually doing both training and test normalization , um , with , um , the , uh uh , with the standard system .
+
+dialogue type : s
+C :  So , in a few hours we 'll have the numbers for the for retraining everything with vocal tract length normalization
+
+dialogue type : s
+C :  and So , that might even improve it further .
+
+dialogue type : s
+C :  So , it looks like the P L - fea P features do very well now with after having figured out all these little tricks to to get it to work .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^aa
+C :  Exactly . Yeah .
+
+dialogue type : s^aa|%-
+C :  Right . a
+
+dialogue type : fg|s
+C :  Right . And and what that suggests also is of course that the current Switchboard MLP isn't trained on very good features .
+
+dialogue type : s^df
+C :  Uh , because it was trained on whatever , you know , was used , uh , last time you did Hub - five stuff ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : %-
+C :  Uh .
+
+dialogue type : s^df^ng
+C :  Well , but if you add them all up you have , uh , almost five percent difference now .
+
+dialogue type : s^aa|s^rt
+C :  Yeah . And now we have another percent with the V T
+
+dialogue type : s.%--
+C :  Um , actually , and it 's ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  um , well , you m prob maybe another half percent if you do the VTL in training ,
+
+dialogue type : s
+C :  and then interestingly , if you optimize you get more of a win out of rescoring the , um , uh , the N best lists ,
+
+dialogue type : s^e
+C :  uh , and optimizing the weights ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s
+C :  Well , he made it a parameter .
+
+dialogue type : s^rt
+C :  It 's called , uh , H - HPF .
+
+dialogue type : s^bd
+C :  u And but HPF , you know , when you put a number after it , uses that as the hertz value of the cut - off .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s
+C :  Well , but , um Well , uh , again , after completing the current experiments , we 'll we can add up all the uh differences
+
+dialogue type : %-
+C :  and and an
+
+dialogue type : %--
+C :  Y
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^na|s^aa
+C :  Well , that 's what I meant , in fact . Yeah .
+
+dialogue type : fg|qy.%--
+C :  So so , the thing is is do we expect ?
+
+dialogue type : qy^rt
+C :  eh At this point I 'm as I mean , you know e I 'm wondering is it Can we expect , uh , a tandem system to do better than a properly trained you know , a Gaussian system trained directly on the features with , you know , the right ch choice of parameters ?
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s
+C :  But there the main point is that , um , you know , it took us a while but we have the procedure for coupling the two systems debugged now
+
+dialogue type : s
+C : 
+
+dialogue type : s^e
+C :  uh , either generating them or feeding them to this to the SRI system ,
+
+dialogue type : %-
+C :  but
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  And I 'm wondering how we can how we can debug that .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s
+C :  I 'm actually f quite sure that the feeding the features into the system and training it up ,
+
+dialogue type : s
+C :  that that I think that 's this that 's essentially the same as we use with the ce with the P L P fe features .
+
+dialogue type : s
+C :  And that 's obviously working great .
+
+dialogue type : %-
+C :  So . I um .
+
+dialogue type : %-
+C : 
+
+dialogue type : qh
+C :  the another degree of freedom is how do you generate the K L T transform ?
+
+dialogue type : qy^d^f^g
+C :  Right ?
+
+dialogue type : %-
+C :  We to
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^ar|s
+C :  No . The the SRI system does it .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  So , there 's there is there is room for bugs that we might not have discovered ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^nd
+C :  They 're optimized for phone discrimination ,
+
+dialogue type : s^e.%-
+C : 
+
+dialogue type : %-
+C :  Mm - Mmm .
+
+dialogue type : %-
+C :  Do y
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  And there 's a mismatch in the phone sets .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk|s
+C :  Oh , we already talked about that .
+
+dialogue type : %-
+C :  El
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ar|s
+C :  No , but we we when when we when I first started corresponding with Dan about how to go about this , I think that was one of the things that we definitely went there .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk|qy^rt
+C :  Uh - huh . And i does it help ?
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : s^bk
+C :  Oh . OK .
+
+dialogue type : qy^rt
+C :  And do you do a KLT transform on the con on the combined feature vector ?
+
+dialogue type : qy^rt
+C :  Do you d you do a KLT transform on the combined feature vector ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^df
+C :  Because you end up with this huge feature vector , so that might be a problem , a unless you do some form of dimensionality reduction .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : fg|s^tc
+C :  OK . Actually , I have to run .
+
+dialogue type : fh
+C :  Uh .
+

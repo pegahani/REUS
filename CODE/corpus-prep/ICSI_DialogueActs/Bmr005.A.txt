@@ -1,0 +1,171 @@
+dialogue type : z
+A :  Sounds like an initialization thing .
+
+dialogue type : z
+A :  Tran
+
+dialogue type : z
+A :  Oh sorry , go ahead .
+
+dialogue type : s^2^rt
+A :  Nonspeech sounds ?
+
+dialogue type : fg|s.x
+A :  You know I think some of these um that are the nonspeech overlapping events may be difficult even for humans to tell that there 's two there .
+
+dialogue type : s
+A :  I mean , if it 's a tapping sound , you wouldn't necessarily or , you know , something like that , it 'd be it might be hard to know that it was two separate events .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^bu
+A : 
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : qy^t3
+A :  Were you interrupting him or was he interrupting you ?
+
+dialogue type : sj^bu:qw^cs
+A :  But I think Liz is saying why not get it out of the transcripts ?
+
+dialogue type : s
+A :  You know , I did I did uh something almost identical to this at one of my previous jobs , and it works pretty well .
+
+dialogue type : s
+A :  I mean , i almost exactly what you described , an energy detector with a median filter , you look for runs .
+
+dialogue type : fh
+A :  And uh ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa|s
+A :  Yeah . I mean , you you can get y I mean , you get them pretty close .
+
+dialogue type : s^cs
+A :  And so I think doing that to generate these possibilities and then going through and saying yes or no on them would be a quick way to to do it .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : h|s^ar
+A :  Uh . No . No .
+
+dialogue type : s
+A :  It was when I was working for the government .
+
+dialogue type : s^ar
+A :  Nah .
+
+dialogue type : s^aa
+A :  Yeah , he 's it it doesn't take a long time .
+
+dialogue type : h|s^no
+A :  Oh ! I have to remember .
+
+dialogue type : s^cc
+A :  I 'll think about it ,
+
+dialogue type : s^cc^e
+A :  and try to remember .
+
+dialogue type : s
+A :  Di - dif different different bandwidth .
+
+dialogue type : qy^bu^d^rt
+A :  Ten meetings that have been sent to IBM ?
+
+dialogue type : qw^rt
+A :  H how many total have we recorded now , altogether ?
+
+dialogue type : s^ng
+A :  It was the morning one .
+
+dialogue type : qw^rt.x
+A :  W what is the um the artifact you try to you 're trying to get rid of when you do that ?
+
+dialogue type : s^bu
+A :  So that would mean like if you were listening to the data that was recorded on one of those .
+
+dialogue type : fh|s
+A :  Uh , just the raw data ,
+
+dialogue type : qy^d^rt
+A :  you would you might hear kind of an echo ?
+
+dialogue type : s.%--
+A :  And and then this noise cancellation would get
+
+dialogue type : s^bu.%--
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  When uh , I would have meetings with the folks in Cambridge when I was at BBN over the phone , they had a um some kind of a special speaker phone
+
+dialogue type : s
+A :  and when they would first connect me , it would come on and we 'd hear all this noise .
+
+dialogue type : s
+A :  And then it was uh And then it would come on and it was very clear ,
+
+dialogue type : qy^d^f
+A :  you know .
+
+dialogue type : s^m
+A :  Three Three hours .
+
+dialogue type : qw^rt.%--
+A : 
+
+dialogue type : s
+A :  I mean , we 're already talking about sort of two levels of detail in meetings .
+
+dialogue type : s
+A :  One is uh um without doing the digits Or , I guess the full - blown one is where you do the digits , and everything , and then talk about doing it without digits ,
+
+dialogue type : qw
+A :  what if we had another level , just to collect data , which is without the headsets and we just did the table - mounted stuff .
+
+dialogue type : s^bk
+A :  You do , OK .
+
+dialogue type : s^bk
+A :  I see , OK .
+
+dialogue type : qy^rt
+A :  Have they ever responded to you ?
+
+dialogue type : qy^rt
+A :  Is the uh , notion of recording any of Chuck 's meetings dead in the water ,
+
+dialogue type : qrr^rt
+A :  or is that still a possibility ?
+
+dialogue type : s.%--
+A :  Well , even I mean , coming down from campus is sort of a big thing , but what about
+
+dialogue type : qw^rt
+A :  or what about people in the in the building ?
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : qw.%--
+A : 
+
+dialogue type : s
+A :  You could get a lot of lively discussions from those radio ones .
+

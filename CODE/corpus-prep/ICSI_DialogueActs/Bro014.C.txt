@@ -1,0 +1,1008 @@
+dialogue type : s^bk
+C :  Yes , again .
+
+dialogue type : s
+C :  We did it again , Morgan .
+
+dialogue type : qy^rt
+C :  Is he gonna come here ?
+
+dialogue type : s^bu
+C :  So when you said " in town " , you mean Oregon .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s
+C :  I have something just fairly brief to report on .
+
+dialogue type : fh|s
+C :  Um , I did some experim uh , uh , just a few more experiments before I had to , uh , go away for the w well , that week .
+
+dialogue type : qy
+C :  Was it last week or whenever ?
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s
+C :  so what I was started playing with was the th again , this is the HTK back - end .
+
+dialogue type : fh
+C :  And , um ,
+
+dialogue type : s
+C :  I was curious because the way that they train up the models , they go through about four sort of rounds of of training .
+
+dialogue type : s^e
+C :  And in the first round they do uh , I think it 's three iterations ,
+
+dialogue type : s^e
+C :  and for the last three rounds e e they do seven iterations of re - estimation in each of those three .
+
+dialogue type : fh
+C :  And so ,
+
+dialogue type : s
+C :  you know , that 's part of what takes so long to train the the the back - end for this .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : fh
+C :  Uh ,
+
+dialogue type : s^cs
+C :  maybe I should write it on the board .
+
+dialogue type : s
+C :  So , there 's four rounds of training .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s
+C :  I g I g I guess you could say iterations .
+
+dialogue type : s
+C :  The first one is three , then seven , seven , and seven .
+
+dialogue type : s^e
+C :  And what these numbers refer to is the number of times that the , uh , HMM re - estimation is run .
+
+dialogue type : s^e
+C :  It 's this program called H E
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  So what happens is , um , at each one of these points , you increase the number of Gaussians in the model .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^m^na
+C :  The mix up .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  And so , in the final one here , you end up with , uh for all of the the digit words , you end up with , uh , three mixtures per state ,
+
+dialogue type : s^e
+C :  eh , in the final thing .
+
+dialogue type : s
+C :  So I had done some experiments where I was I I want to play with the number of mixtures .
+
+dialogue type : fh
+C :  But , um ,
+
+dialogue type : fh|s
+C :  uh , I wanted to first test to see if we actually need to do this many iterations early on .
+
+dialogue type : fh
+C :  And so ,
+
+dialogue type : fh|s
+C :  um , I I ran a couple of experiments where I reduced that to l to be three , two , two , uh , five , I think ,
+
+dialogue type : s
+C :  and I got almost the exact same results .
+
+dialogue type : s
+C :  And but it runs much much faster .
+
+dialogue type : fh
+C :  So , um ,
+
+dialogue type : s
+C :  I I think m it only took something like , uh , three or four hours to do the full training ,
+
+dialogue type : qw^rt
+C :  as opposed to wh what , sixteen hours or something like that ?
+
+dialogue type : s^df
+C :  I mean , it takes you have to do an overnight basically , the way it is set up now .
+
+dialogue type : fh
+C :  So ,
+
+dialogue type : fh
+C :  uh ,
+
+dialogue type : s
+C :  even we don't do anything else , doing something like this could allow us to turn experiments around a lot faster .
+
+dialogue type : s
+C :  And when you have your final thing , we go back to this .
+
+dialogue type : fh
+C :  So , um ,
+
+dialogue type : s
+C :  and it 's a real simple change to make .
+
+dialogue type : s^e
+C :  I mean , it 's like one little text file you edit and change those numbers ,
+
+dialogue type : s^e
+C :  and you don't do anything else .
+
+dialogue type : s^e
+C :  And then you just run .
+
+dialogue type : s^df
+C :  So it 's a very simple change to make
+
+dialogue type : s^df
+C :  and it doesn't seem to hurt all that much .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : h|s^no
+C :  Uh , I I have to look to see what the exact numbers were .
+
+dialogue type : s^na
+C :  I I thought was , like , three , two , two , five ,
+
+dialogue type : s^cc
+C :  but I I 'll I 'll double check .
+
+dialogue type : s^df
+C :  It was over a week ago that I did it ,
+
+dialogue type : s^df
+C :  so I can't remember exactly .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  um , but it 's so much faster .
+
+dialogue type : s
+C :  I it makes a big difference .
+
+dialogue type : s
+C :  So we could do a lot more experiments and throw a lot more stuff in there .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^bk|s^rt
+C :  Oh , the other thing that I did was , um , I compiled the HTK stuff for the Linux boxes .
+
+dialogue type : s
+C :  So we have this big thing that we got from IBM ,
+
+dialogue type : s^e
+C :  which is a five - processor machine .
+
+dialogue type : s^e
+C :  Really fast ,
+
+dialogue type : s
+C :  but it 's running Linux .
+
+dialogue type : s
+C :  So , you can now run your experiments on that machine
+
+dialogue type : s
+C :  and you can run five at a time
+
+dialogue type : s
+C :  and it runs , uh , as fast as , you know , uh , five different machines .
+
+dialogue type : fh
+C :  So , um ,
+
+dialogue type : s^no
+C :  I 've forgotten now what the name of that machine is
+
+dialogue type : s^cc
+C :  but I can I can send email around about it .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  now HTK 's compiled for both the Linux and for , um , the Sparcs .
+
+dialogue type : s
+C :  Um , you have to make you have to make sure that in your dot CSHRC , um , it detects whether you 're running on the Linux or a a Sparc and points to the right executables .
+
+dialogue type : fh
+C :  Uh ,
+
+dialogue type : s
+C :  and you may not have had that in your dot CSHRC before , if you were always just running the Sparc .
+
+dialogue type : fh
+C :  So ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : s
+C :  uh , I can I can tell you exactly what you need to do to get all of that to work .
+
+dialogue type : s
+C :  But it 'll it really increases what we can run on .
+
+dialogue type : s
+C :  So , together with the fact that we 've got these faster Linux boxes and that it takes less time to do these , um , we should be able to crank through a lot more experiments .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s
+C :  So after I did that , then what I wanted to do was try increasing the number of mixtures ,
+
+dialogue type : s^df
+C :  just to see , um see how how that affects performance .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Exactly .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^aa^r
+C :  Right .
+
+dialogue type : s^bk
+C :  Uh - huh .
+
+dialogue type : h
+C :  Uh ,
+
+dialogue type : s^t1
+C :  let 's see ,
+
+dialogue type : fh
+C :  uh .
+
+dialogue type : s.%--
+C :  It goes from
+
+dialogue type : s
+C :  this uh , try to go it backwards this at this point it 's two mixtures per state .
+
+dialogue type : s^na
+C :  So this just adds one .
+
+dialogue type : s^nd
+C :  Except that , uh , actually for the silence model , it 's six mixtures per state .
+
+dialogue type : s
+C :  Uh , so it goes to two .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^aa|s^na
+C :  Yeah . I think that 's what it is .
+
+dialogue type : fh
+C :  Uh ,
+
+dialogue type : s^aa|s.%--
+C : 
+
+dialogue type : s^fe
+C :  Shoot .
+
+dialogue type : s^no
+C :  I I I can't remember now what happens at that first one .
+
+dialogue type : s
+C :  Uh , I have to look it up and see .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s
+C :  there because they start off with , uh , an initial model
+
+dialogue type : s^e
+C :  which is just this global model ,
+
+dialogue type : s
+C :  and then they split it to the individuals .
+
+dialogue type : s
+C :  And so , it may be that that 's what 's happening here .
+
+dialogue type : s
+C :  I I I have to look it up and see .
+
+dialogue type : s^no
+C :  I I don't exactly remember .
+
+dialogue type : s
+C :  So . That 's it .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : qw
+C :  How should that be done ?
+
+dialogue type : s^df
+C : 
+
+dialogue type : s^df
+C :  Uh , this seems like an obvious mistake or something .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^cs
+C :  Well , it seems like they should do , like , the percentage improvement or something ,
+
+dialogue type : s
+C :  rather than the absolute improvement .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : qw^cs
+C :  Why don't they not look at improvements but just look at your av your scores ?
+
+dialogue type : s^e
+C :  You know , figure out how to combine the scores
+
+dialogue type : s^e
+C :  with a weight or whatever ,
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  here 's your score .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  and here 's its score .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s
+C :  It sounds like they don't really have a good idea about what the final application is gonna be .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I mean , I I was thinking about it in terms of , if I were building the final product
+
+dialogue type : s
+C :  and I was gonna test to see which front - end I 'd I wanted to use ,
+
+dialogue type : s
+C :  I would try to weight things depending on the exact environment that I was gonna be using the system in .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qy^rt
+C :  So if if they don't know , doesn't that suggest the way for them to go ?
+
+dialogue type : fh
+C :  Uh ,
+
+dialogue type : s^e
+C :  you assume everything 's equal .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : x
+C : 
+
+dialogue type : s^bu
+C :  So not try to combine them .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^2
+C :  The training and testing .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C : 
+
+dialogue type : s^bu
+C :  so you should weight those other conditions v very you know , really small .
+
+dialogue type : s^df
+C :  I mean , that 's more of an information kind of thing .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^j
+C :  Well , that 'll teach them to roll their window up .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^co
+C :  Wait a minute .
+
+dialogue type : s
+C :  I I 'm confused .
+
+dialogue type : qw^rt
+C :  Wha - what do you mean ?
+
+dialogue type : s^bk
+C :  Oh ,
+
+dialogue type : s^bk
+C :  oh . I see .
+
+dialogue type : qy^bu^d^rt
+C :  So there 's this assumption that the v the voice activity detector can only use the MFCC ?
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s.%--
+C :  I g
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%-
+C :  I don't s
+
+dialogue type : s
+C :  But they seem like two separate issues .
+
+dialogue type : qy^d^f^g^rt
+C :  Right ?
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bu
+C :  But it seems like you should do both .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : fg|s^cs
+C :  Yeah . It seems like you should try to make your baseline as good as possible .
+
+dialogue type : s^cs
+C :  And if it turns out that you can't improve on that , well , I mean , then , you know , nobody wins and you just use MFCC .
+
+dialogue type : qy^d^f^g^rt
+C :  Right ?
+
+dialogue type : s
+C :  It seems like whatever they choose they shouldn't , you know , purposefully brain - damage a part of the system to make a worse baseline ,
+
+dialogue type : %--
+C : 
+
+dialogue type : qy^d^f^g
+C :  You know ?
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qy^rt
+C :  Is this related to the issue that you brought up a couple of meetings ago with the the musical tones
+
+dialogue type : fh
+C :  and ?
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : qw.%-
+C : 
+
+dialogue type : qw^rt
+C :  what sorts of features are you looking at ?
+
+dialogue type : s^co
+C :  Wait a minute .
+
+dialogue type : qw^rt
+C :  I what does that mean ?
+
+dialogue type : s^e
+C :  The variance of the spectrum of excitation .
+
+dialogue type : qw.%--
+C :  How do you know ?
+
+dialogue type : qw
+C :  How did you get your voiced and unvoiced truth data ?
+
+dialogue type : qy^rt
+C :  Is this a a s a trained system ?
+
+dialogue type : qrr
+C :  Or is it a system where you just pick some thresholds ?
+
+dialogue type : qw^rt
+C :  Ho - how does it work ?
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s^bu
+C :  Because it seems like what you said about the mean of the the voiced and the unvoiced that seemed pretty encouraging .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : fg
+C :  Well , y
+
+dialogue type : s^nd
+C :  Well , y I I don't know that I would trust that so much
+
+dialogue type : s^df
+C :  because you 're doing these canonical mappings from TIMIT labellings .
+
+dialogue type : qy^d^f^g^rt
+C :  Right ?
+
+dialogue type : fh
+C :  So ,
+
+dialogue type : s^df
+C :  really that 's sort of a cartoon picture about what 's voiced and unvoiced .
+
+dialogue type : s
+C :  So that could be giving you a lot of variance .
+
+dialogue type : fh
+C :  I mean ,
+
+dialogue type : s
+C :  i it it may be that that you 're finding something good
+
+dialogue type : s
+C :  and that the variance is sort of artificial because of how you 're getting your truth .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^aa^r
+C :  Right .
+
+dialogue type : qy^bu^rt
+C :  So i is the idea that you 're going to take whatever features you develop and and just add them onto the future vector ?
+
+dialogue type : qw
+C :  Or , what 's the use of the the voiced - unvoiced detector ?
+
+dialogue type : qy^rt
+C :  It 's not part of a VAD system that you 're doing ?
+
+dialogue type : s^bk
+C :  Oh ,
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk^m
+C :  Features .
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^ba
+C :  I think it 's a neat thing .
+
+dialogue type : s^ba
+C :  Uh , it seems like a good idea .
+
+dialogue type : qw.%--
+C : 
+
+dialogue type : s
+C :  uh , maybe I 'm going in too much detail ,
+
+dialogue type : qw
+C :  but how exactly do you make the difference between the FFT and the smoothed spectral envelope ?
+
+dialogue type : qw.%--
+C :  Wha - wh i i uh , how is that , uh ?
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^bu
+C :  So you you end up with a vector that 's the same length as the FFT vector ?
+
+dialogue type : s^bu
+C :  And then you just , uh , compute differences
+
+dialogue type : %--
+C :  and ,
+
+dialogue type : qy^bu^d
+C :  uh , sum the differences ?
+
+dialogue type : s^bk
+C :  Oh ! OK .
+
+dialogue type : qy^bu^d^rt
+C :  So this is uh , basically this is comparing an original version of the signal to a smoothed version of the same signal ?
+
+dialogue type : s^bk
+C :  Uh - huh .
+
+dialogue type : qw^d.%--
+C :  Like which of the ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Right , right .
+
+dialogue type : qy^bu^d^rt
+C :  It 's the ratio .
+
+dialogue type : qw
+C :  So what 's th uh , what 's the intuition behind this kind of a thing ?
+
+dialogue type : s^df
+C :  I I don't know really know the signal - processing well enough to understand what what is that doing .
+
+dialogue type : s^bk
+C :  Uh - huh .
+
+dialogue type : s^bk
+C :  Uh - huh .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Oh ! OK .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : qy.%--
+C :  So do you have a picture that sh ?
+
+dialogue type : qy
+C :  Is this for a voiced segment ,
+
+dialogue type : qy^d^e^rt
+C :  this picture ?
+
+dialogue type : qw
+C :  What does it look like for unvoiced ?
+
+dialogue type : s^bk
+C :  This is the difference .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : fg
+C :  So ,
+
+dialogue type : qy.%--
+C : 
+
+dialogue type : s^m^na
+C :  the pitch ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qh^bh^rt
+C :  Hmm .
+
+dialogue type : s^ba
+C :  That 's that 's really neat .
+
+dialogue type : qy^bu^d^rt
+C :  So you don't have one for unvoiced picture ?
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s
+C :  I would li I would like to see those pictures .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : qy^bu^d.%--
+C : 
+
+dialogue type : qy^rt
+C :  doing this kind of thing is pretty robust to noise ?
+
+dialogue type : b
+C :  Huh .
+
+dialogue type : qy^2
+C :  You end up with a similar difference
+
+dialogue type : qy^d^rt
+C :  over here ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ba^bk
+C :  Cool !
+
+dialogue type : s^bk
+C :  Oh , that 's clean .
+
+dialogue type : s^bk
+C :  Oh , OK
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bu.%--
+C :  So this one inclu is a longer Ah .
+
+dialogue type : s^bu
+C :  Oh , it 's that time - frequency trade - off thing .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qy^rt
+C :  Oh . Oh , so this i is this the difference here ,
+
+dialogue type : qy^d^e^rt
+C :  for that ?
+
+dialogue type : s
+C :  Oh , that 's the f the original .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^ba
+C :  That 's interesting .
+
+dialogue type : qy^rt
+C :  Would you would you wanna do this kind of , uh , difference thing after you do spectral subtraction ?
+
+dialogue type : s^cs
+C :  Seems like you 'd wanna do it on the FFT bins .
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : s^e
+C :  uh , for for this purpose , that is .
+
+dialogue type : qw
+C :  When is the next , um , Aurora deadline ?
+
+dialogue type : s^bk^m
+C :  June .
+
+dialogue type : %
+C :  Y
+
+dialogue type : qy^cs^rt
+C :  Should we do digits ?
+

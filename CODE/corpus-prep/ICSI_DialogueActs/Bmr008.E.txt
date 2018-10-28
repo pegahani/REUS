@@ -1,0 +1,471 @@
+dialogue type : z
+E :  Yeah I I just tried it .
+
+dialogue type : z
+E :  I think my head is too big .
+
+dialogue type : z
+E :  Oh yeah .
+
+dialogue type : z
+E : 
+
+dialogue type : qy^bu^d^rt
+E :  Status ?
+
+dialogue type : s^bk
+E :  Oh oh , stats kind of status , OK .
+
+dialogue type : s^cs
+E :  Student , Non - student .
+
+dialogue type : s^e^j
+E :  Sitting .
+
+dialogue type : qw^cs:qw
+E :  How about You could say , if you 're giving a talk , how likely are you to be challenged ?
+
+dialogue type : s^ng
+E :  Well , sounds like you really need to know something kind of like that .
+
+dialogue type : sj:qw
+E :  You need to know sort of Bas - in in this meeting , sort of what is your social status ?
+
+dialogue type : s^arp.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : %-
+E :  I g
+
+dialogue type : sj.%--
+E : 
+
+dialogue type : s^df^nd
+E :  But , that will depend on what the meeting 's about ,
+
+dialogue type : qy^d^f^g^rt
+E :  right ?
+
+dialogue type : s.%--
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qh
+E :  I guess I 'm wondering how can you make a conclusion based on that , if you don't know about the meeting ?
+
+dialogue type : s^no
+E :  I don't know .
+
+dialogue type : s.%-
+E :  I 'm just That 's why I was wondering about if you can put something about the d
+
+dialogue type : s^rt
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : sj^ba
+E :  No , I like the idea of putting down the the status information
+
+dialogue type : s^df
+E :  because I think you probably can get a lot of interest there can be a lot of interesting research on that .
+
+dialogue type : qy^d.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qy^d^f
+E :  Well I guess I was thinking maybe , you know how you were taking information off of the digits and putting it onto that ?
+
+dialogue type : qy
+E :  Could we put one more thing on here maybe ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^df.%-
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Oh , right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qw.%-
+E : 
+
+dialogue type : qw:s
+E :  How about " optional but highly desirable " ?
+
+dialogue type : s^aa|s:s
+E :  Yeah , If not given we will estimate .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : sj
+E :  They 're very strong - willed .
+
+dialogue type : qy^d^f^g^rt
+E :  You know ?
+
+dialogue type : s.%-
+E :  People He
+
+dialogue type : sj^cs
+E :  I think I think you can put " optional "
+
+dialogue type : s^df.%-
+E : 
+
+dialogue type : qy^bu^d^rt
+E :  You know people who lie about it ?
+
+dialogue type : fg|sj^ba
+E :  Yeah , I think it 's OK .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^2.%-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^2:s
+E :  Which is more objective . than somebody evalu saying , I think I speak this or that .
+
+dialogue type : s^aa|s
+E :  Yeah , I was just gonna ask the same thing .
+
+dialogue type : %-
+E : 
+
+dialogue type : qy.%-
+E : 
+
+dialogue type : qr.%--
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qr^rt
+E :  Do you mean state , or do you mean more broad than the state level ?
+
+dialogue type : qr^bu^d.%-
+E :  You mean like you know southern US , or northeastern or
+
+dialogue type : s^cs
+E :  If you wanted to get regions for American English you could copy what they did in TIMIT .
+
+dialogue type : s^e
+E :  They had divided things up into regions .
+
+dialogue type : s^ar
+E :  No , no .
+
+dialogue type : s
+E :  It would only be f if you said American English
+
+dialogue type : s
+E :  then you 'd put the regions .
+
+dialogue type : s
+E :  For the others , you would just leave it .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^bs
+E :  We wouldn't have enough to really make them difference on those .
+
+dialogue type : s
+E :  Oh , it 's like six regions of the country or something .
+
+dialogue type : s
+E :  Very just a limited number
+
+dialogue type : s.%-
+E : 
+
+dialogue type : sj^ba
+E :  Yeah .
+
+dialogue type : s^cs
+E :  You 'd just leave them .
+
+dialogue type : s
+E :  You don't even ask .
+
+dialogue type : s.%--:s.%--
+E : 
+
+dialogue type : qy^d^rt
+E :  And that would apply to everybody then ?
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : s^cs
+E :  And then you could map those to the TIMIT regions later , if people wanted to .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  That 's more general .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  That 's true .
+
+dialogue type : qy^2^bu^d^rt
+E :  A lot of post - processing .
+
+dialogue type : fg|s
+E :  Yeah , y there is actu you made me think about another wrinkle in this whole thing , which is that just asking them where they grew up between certain ages isn't enough ,
+
+dialogue type : s^df
+E :  because somebody could grow up in Germany but live on an army base speaking English .
+
+dialogue type : fg|s^cs.%--:qw.%--
+E : 
+
+dialogue type : s^bk
+E :  Oh that 's nice , OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  Sort of like as soon as you get to the cases on the edge , the complexity just shoots up .
+
+dialogue type : fg|s
+E :  Well , you know the other thing , too , is that it seems like th one of the reasons you would gather real detailed information about their native language is if you were gonna do fine - grained phonetic analysis or something .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^rt
+E :  Well that 's what I was gonna ask ,
+
+dialogue type : qy.%-
+E : 
+
+dialogue type : qy^rt
+E :  Were they putting down where they lived at the moment they m recordings were made ?
+
+dialogue type : qy^g^rt
+E :  Is that why ?
+
+dialogue type : qy^d^e^g^rt
+E :  Rather than where they grew up ?
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bu^cs
+E :  So , then we probably don't need the fine - grained information .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^2
+E :  It can't be relied on only .
+
+dialogue type : s^aa^rt|sj^ba
+E :  Yeah , I think those are good .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : sj
+E :  I don't think you really have to do all that much .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  N Right . Yeah .
+
+dialogue type : %-
+E :  N detec
+
+dialogue type : fg|s
+E :  And then there will be people who live in an English speaking country , but all their meetings are held in another language .
+
+dialogue type : fh
+E :  So ,
+
+dialogue type : s^t3
+E :  Yochai 's company is like that .
+
+dialogue type : s^t3
+E :  Everybody speaks Hebrew .
+
+dialogue type : s^cs^j
+E :  PIN .
+
+dialogue type : qw
+E :  what about all of the meetings that have been recorded so far that without this ?
+
+dialogue type : qo.%-
+E : 
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^bs.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qw.%-
+E :  What about that error that that uh the the supposed lub
+
+dialogue type : s^ar|s.%-
+E : 
+
+dialogue type : s
+E :  We were guessing you had a bug before
+
+dialogue type : s^rt.%--
+E : 
+
+dialogue type : s^bk
+E :  Ah .
+
+dialogue type : qr.%-
+E : 
+
+dialogue type : fg|s.%--
+E : 
+
+dialogue type : s
+E :  hmm , I 'm just trying to remember where we were ,
+
+dialogue type : qy^bu^d^rt
+E :  but uh , were you were interested in finding out if you can tell the difference between overlap and single speakers by looking at the e energy ,
+
+dialogue type : s^e^rt
+E :  like say , for example , the mean of the energy .
+
+dialogue type : qy^g^rt
+E :  Was that the idea ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  So , if you look at on this page that has uh frame energy ,
+
+dialogue type : s
+E :  you look at the mean for the overlap , that 's forty - four point sixty - two versus the mean for the speakers , thirty - nine point sixty - two ,
+
+dialogue type : s
+E :  so there seems to be more energy when there 's overlapping which makes sense ,
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Yeah ,
+
+dialogue type : s
+E :  different than standard deviation .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg|s^tc
+E : 
+
+dialogue type : qy^bu^rt
+E :  On the overlap category , is that overlapping of speakers only ?
+
+dialogue type : qy^bu^d
+E :  It doesn't include some of the other sounds ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qw
+E :  Just out of curiosity , what was the bug ?
+
+dialogue type : qw^r
+E :  What was the bug that you found ?
+
+dialogue type : s
+E :  The bug from last uh meeting ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm !
+
+dialogue type : qy^d
+E :  So it was positioning randomly ?
+

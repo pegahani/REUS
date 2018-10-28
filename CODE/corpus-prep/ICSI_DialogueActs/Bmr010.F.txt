@@ -1,0 +1,1221 @@
+dialogue type : s^na
+F :  Well , I 'm I sent a couple of items . They 're they 're sort of practical .
+
+dialogue type : s^no.%--
+F : 
+
+dialogue type : s^e
+F :  if if that 's too practical for what we 're focused on .
+
+dialogue type : s^aa^rt
+F :  OK .
+
+dialogue type : s
+F :  Well , um , I can give you an update on the transcription effort .
+
+dialogue type : fh|s^rt^t
+F :  Uh , maybe raise the issue of microphone , uh , um procedures
+
+dialogue type : s^e^rt
+F :  with reference to the cleanliness of the recordings .
+
+dialogue type : s^cs^t
+F :  And then maybe ask , th uh , these guys .
+
+dialogue type : s
+F :  The we have great great , uh , p steps forward in terms of the nonspeech - speech pre - segmenting of the signal .
+
+dialogue type : s^ba
+F :  Well , it 's a it 's a big improvement .
+
+dialogue type : s^br^j^rt
+F :  I beg your pardon ?
+
+dialogue type : s^br^j^r^rt
+F :  I beg your pardon ?
+
+dialogue type : s^na
+F :  I think that would be a good thing to start with .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : qy.%--
+F : 
+
+dialogue type : s^aa
+F :  Uh - huh .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^na
+F :  Uh , they they think it 's a terrific improvement .
+
+dialogue type : fh|s
+F :  And , um , it real it just makes a a world of difference .
+
+dialogue type : fh|s
+F :  And , um , y you also did some something in addition
+
+dialogue type : s
+F :  which was , um , for those in which there was , uh , quiet speakers in the mix .
+
+dialogue type : s
+F :  And you also provided me with several different versions ,
+
+dialogue type : s^e
+F :  which I compared .
+
+dialogue type : s
+F :  And so you change parameters .
+
+dialogue type : qw.%-
+F : 
+
+dialogue type : qy^rt
+F :  do you wanna say something about the parameters that you change ?
+
+dialogue type : b
+F :  Mm - hmm , mm - hmm .
+
+dialogue type : s^aa
+F :  That 's true .
+
+dialogue type : s^arp
+F :  But it it saves so much time the the transcribers
+
+dialogue type : s^e
+F :  just enormous , enormous savings .
+
+dialogue type : fh
+F :  Fantastic .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : s.%--
+F :  OK . But then there 's another thing that also Thilo 's involved with ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^e
+F :  OK , and and also Da - Dave Gelbart .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  and w and so we had this meeting .
+
+dialogue type : s^e
+F :  Th - the also Adam , before the the before you went away .
+
+dialogue type : s^e
+F :  Uh we , um regarding the representation of overlaps ,
+
+dialogue type : s
+F :  because at present , um , because of the limitations of th the interface we 're using ,
+
+dialogue type : s
+F :  overlaps are , uh , not being encoded by the transcribers in as complete and , uh , detailed a way as it might be ,
+
+dialogue type : s
+F :  and as might be desired I think would be desired in the corpus ultimately .
+
+dialogue type : s
+F :  So we don't have start and end points at each point where there 's an overlap .
+
+dialogue type : s
+F :  We just have the the overlaps encoded in a simple bin .
+
+dialogue type : fh|s^cs
+F :  Well , OK . So @ @ the limits of the over of of the interface are such that we were at this meeting we were entertaining how we might either expand the the interface or find other tools which already do what would be useful .
+
+dialogue type : s.%--
+F :  Because what would ultimately be , um , ideal in my my view
+
+dialogue type : s.%--
+F :  and I think I mean , I had the sense that it was consensus ,
+
+dialogue type : s^cs
+F :  is that , um , a thorough - going musical score notation would be the best way to go .
+
+dialogue type : s^df
+F :  Because you can have multiple channels ,
+
+dialogue type : s
+F :  there 's a single time - line ,
+
+dialogue type : s
+F :  it 's very clear , flexible , and all those nice things .
+
+dialogue type : fh
+F :  OK . So , um ,
+
+dialogue type : s
+F :  um , I spoke I had a meeting with Dave Gelbart on on and he had , uh , excellent ideas on how the interface could be modified to to do this kind of representation .
+
+dialogue type : s
+F :  But , um , he in the meantime you were checking into the existence of already , um , existing interfaces which might already have these properties .
+
+dialogue type : fh|qy
+F :  So , do you wanna say something about that ?
+
+dialogue type : s^m
+F :  Under Windows .
+
+dialogue type : s^bk
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg|s^am
+F :  Mm - hmm . We could uh , potentially so .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  this this is called Praat , PRAAT , which I guess means spee speech in Dutch or something .
+
+dialogue type : %-
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : qy.%--
+F :  But I 'm just wondering , is ?
+
+dialogue type : s^bk
+F :  Oh ! I see .
+
+dialogue type : s^bk^r
+F :  Oh , I see .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  It 's a different one .
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : s^bk
+F :  Oh , I see .
+
+dialogue type : s^bk
+F :  OK . OK . Alright .
+
+dialogue type : b
+F :  Mmm , yeah .
+
+dialogue type : b^rt
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^cs^tc.%--
+F :  And and I was just thinking that , um , if it were possible to bring that in , like , you know , this week ,
+
+dialogue type : s^cs
+F :  then when they 're encoding the overlaps it would be nice for them to be able to specify when you know , the start points and end points of overlaps .
+
+dialogue type : sj^ba
+F :  uh Th - they 're making really quick progress .
+
+dialogue type : fg|s
+F :  And , um , so my my goal was w m my charge was to get eleven hours by the end of the month .
+
+dialogue type : s
+F :  And it 'll be I 'm I 'm I 'm clear that we 'll be able to do that .
+
+dialogue type : s.%--
+F :  I sent it to ,
+
+dialogue type : fh
+F : 
+
+dialogue type : qo^t1
+F :  who did I send that to ?
+
+dialogue type : s
+F :  I sent it to a list
+
+dialogue type : s
+F :  and I thought I sent it to the e to the local list .
+
+dialogue type : qy^rt
+F :  You saw that ?
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  that they are making progress
+
+dialogue type : s
+F :  and that he 's going that they 're going he 's gonna check the f the output of the first transcription
+
+dialogue type : %--
+F : 
+
+dialogue type : fh
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  this is a new development .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : sj^ba
+F :  Super .
+
+dialogue type : sj^ba
+F :  Super .
+
+dialogue type : s^bk
+F :  OK . Great .
+
+dialogue type : b^rt
+F :  Yeah .
+
+dialogue type : qy^bh
+F :  Isn't that great ?
+
+dialogue type : s^aa
+F :  Yes . That 's true .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Good .
+
+dialogue type : b^rt
+F :  Mm - hmm .
+
+dialogue type : b^rt
+F :  Mm - hmm .
+
+dialogue type : fg
+F :  Yeah , exactly .
+
+dialogue type : s
+F :  And just keep those things separate .
+
+dialogue type : s
+F :  And and , um , Dan Ellis 's hack already allows them to be able to display different waveforms to clarify overlaps and things ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk|%-
+F : 
+
+dialogue type : s
+F :  Well , uh , yes , but what I mean is that , uh , from the transcriber 's perspective , uh , those two functions are separate .
+
+dialogue type : s
+F :  And Dan Ellis 's hack handles the , um , choice the ability to choose different waveforms from moment to moment .
+
+dialogue type : fg
+F : 
+
+dialogue type : s^bk
+F :  That 's true .
+
+dialogue type : b
+F :  Yeah ,
+
+dialogue type : s^bd
+F :  but that 's that 's OK ,
+
+dialogue type : s.%--
+F :  cuz they 're they 're ,
+
+dialogue type : s
+F :  you know , they 're focused on the ear anyway .
+
+dialogue type : s.%-
+F :  And then and then
+
+dialogue type : s
+F :  the hack to preserve the overlaps better would be one which creates different output files for each channel ,
+
+dialogue type : s
+F :  which then would also serve Liz 's request of having ,
+
+dialogue type : s
+F :  you know , a single channel ,
+
+dialogue type : s
+F :  separable , uh , cleanly , easily separable ,
+
+dialogue type : s
+F :  uh , transcript tied to a single channel , uh , audio .
+
+dialogue type : s
+F :  Not directly .
+
+dialogue type : s^rt
+F :  I 'm trying to think if if I could have gotten it over a list .
+
+dialogue type : s
+F :  I don't I don't think so .
+
+dialogue type : s^bk|s
+F :  Oh ! This was from before December .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  OK . OK .
+
+dialogue type : s^bk
+F :  That 's right .
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : s
+F :  I 'm keeping the conventions absolutely as simple as possible .
+
+dialogue type : b
+F :  Yeah . Yeah .
+
+dialogue type : s
+F :  N there was also this , uh , email from Dan regarding the speech - non nonspeech segmentation thing .
+
+dialogue type : s.%--
+F :  I don't know if ,
+
+dialogue type : fh
+F :  uh ,
+
+dialogue type : s.%--
+F :  uh , we wanna ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  and Dan Gel - and Dave Gelbart is interested in pursuing the aspect of using amplitude as a a a as a basis for the separation .
+
+dialogue type : %-
+F :  Cross
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : fg
+F :  Fantastic .
+
+dialogue type : s
+F :  Cuz there is one thing that we don't have right now and that is the automatic , um , channel identifier .
+
+dialogue type : s^rt
+F :  That that , you know , that would g help in terms of encoding of overlaps .
+
+dialogue type : s^df
+F :  The the transcribers would have less , uh , disentangling to do if that were available .
+
+dialogue type : fh
+F :  But .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b.%
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : h|%--
+F :  Um , to code d
+
+dialogue type : qy^bu^d^rt
+F :  so types of overlap ?
+
+dialogue type : s
+F :  Um , so at a meeting that wasn't transcribed , we worked up a a typology .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  Yes , exactly .
+
+dialogue type : s
+F :  That hasn't changed .
+
+dialogue type : fh
+F :  So
+
+dialogue type : s
+F :  it i the it 's basically a two - tiered structure where the first one is whether the person who 's interrupted continues or not .
+
+dialogue type : s:qy^rt
+F :  And then below that there 're subcategories , uh , that have more to do with , you know , is it , uh , simply backchannel
+
+dialogue type : s:qrr
+F :  or is it , um , someone completing someone else 's thought ,
+
+dialogue type : s:qrr
+F :  or is it someone in introducing a new thought .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : sj^ba
+F :  That 'd be that 'd be nice .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : sj^ba
+F :  This is wonderful to have a direct contact like that .
+
+dialogue type : s
+F :  uh Well , th lemme ask you this .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  well , she said tomorrow
+
+dialogue type : s.%--
+F :  but then she said you know ,
+
+dialogue type : s.%--
+F :  but the , you know let 's let 's just , uh , say
+
+dialogue type : s
+F :  maybe the day after just to be s on the safe side .
+
+dialogue type : s
+F :  I could send Brian the , um the transcript .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  er , uh , I could send him that if it would be possible , or a good idea or not , to try to do a s forced alignment on what we 're on the way we 're encoding overlaps now .
+
+dialogue type : s^bk
+F :  Good .
+
+dialogue type : b
+F :  Yeah !
+
+dialogue type : b
+F :  Super . Super .
+
+dialogue type : b
+F :  Yeah , yeah .
+
+dialogue type : s^fe
+F :  Oh !
+
+dialogue type : s^bk|s^no
+F :  Yeah . I I I don't know for sure .
+
+dialogue type : sj^ba
+F :  That would be like that 'd be like him .
+
+dialogue type : sj^ba
+F :  He 's great .
+
+dialogue type : s^aa|sj^ba
+F :  Yeah . That 'd be great .
+
+dialogue type : qy^d^rt
+F :  And there 's no adaptor for it ?
+
+dialogue type : s.%--
+F : 
+
+dialogue type : b
+F :  OK .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b.%
+F :  Oh .
+
+dialogue type : b
+F :  Wow .
+
+dialogue type : %--
+F : 
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : b
+F :  That 's interesting .
+
+dialogue type : s^cs
+F :  Well , what I wondered is whether it 's possible to have to maybe use the display at the beginning
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^cs^e
+F :  I mean , have someone do some routine whatever ,
+
+dialogue type : s^df
+F :  and and then see if when they 're breathing it 's showing .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : qy^rt
+F :  Can you see the breathing ?
+
+dialogue type : s^df.%-
+F : 
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : b
+F :  Yeah . Uh - huh .
+
+dialogue type : b
+F :  Good .
+
+dialogue type : fg
+F :  Yeah , i
+
+dialogue type : s^aa
+F :  That 's true .
+
+dialogue type : s
+F :  It just seems like i if something l simple like that can be tweaked and the quality goes , you know , uh , dramatically up , then it might be worth doing .
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fh|s
+F :  uh , your volume is is greater .
+
+dialogue type : fh|s.%-
+F : 
+
+dialogue type : s
+F :  I it makes their their job extremely easy .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^cs^t.%--
+F : 
+
+dialogue type : s
+F :  Well , I don't know what you wanna do . Yeah .
+
+dialogue type : s.%--
+F :  About the transcribers or anything or ?
+
+dialogue type : s^no
+F :  I don't know .
+
+dialogue type : s^na
+F :  They are .
+
+dialogue type : s
+F :  They 're putting Eh , so in curly brackets they put " inhale " or " breath " .
+
+dialogue type : s^e
+F :  It they and then in curly brackets they say " laughter " .
+
+dialogue type : s
+F :  Now they 're they 're not being awfully precise ,
+
+dialogue type : s
+F :  uh , m So they 're two types of laughter that are not being distinguished .
+
+dialogue type : s^rt
+F :  One is when sometimes s someone will start laughing when they 're in the middle of a sentence .
+
+dialogue type : s
+F :  And and then the other one is when they finish the sentence and then they laugh .
+
+dialogue type : fh|s
+F : 
+
+dialogue type : s^co.%--
+F :  I mean , you 'd need to have extra
+
+dialogue type : s^e
+F :  e extra complications , like time tags indicating the beginning and ending of of the laughing through the utterance .
+
+dialogue type : s
+F :  And that and what they 're doing is in both cases just saying " curly brackets laughing " a after the unit .
+
+dialogue type : b
+F :  Good .
+
+dialogue type : s^bk
+F :  Oh !
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^co.%--
+F :  And let me ask y
+
+dialogue type : s^co
+F :  and I gotta ask you one thing about that .
+
+dialogue type : fh
+F :  So , um ,
+
+dialogue type : s
+F :  if they laugh between two words , you you 'd get it in between the two words .
+
+dialogue type : s
+F :  But if they laugh across three or four words you you get it after those four words .
+
+dialogue type : qy^rt
+F :  Does that matter ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^aa
+F :  I think he 's right .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b.%
+F :  Good .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^no
+F :  I I 'm not really sure which is more frequent ,
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  I think it may be an individual thing . Some people are more prone to laughing when they 're speaking .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  Yeah . OK .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : h|s
+F :  Um , um , the I I 'm really very for I 'm extremely fortunate with the people who , uh , applied and who are transcribing for us .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^df
+F :  and I 'm not just saying that cuz they might be hearing this .
+
+dialogue type : s
+F :  No , they 're super . They 're the they very quick .
+
+dialogue type : s
+F :  Yeah , I know . I am I 'm serious .
+
+dialogue type : sj^ba
+F :  They 're just super .
+
+dialogue type : s^rt
+F :  So I , um , e you know , I I brought them in and , um , trained them in pairs
+
+dialogue type : s^df
+F : 
+
+dialogue type : s
+F :  you know , i i the they think about different things
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fh
+F :  and um ,
+
+dialogue type : s
+F :  I trained them to , uh , f on about a minute or two of the one that was already transcribed .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  You know , I can I can use that later , with reference to inter - coder reliability kind of issues .
+
+dialogue type : s
+F :  But the main thing was to get them used to the conventions
+
+dialogue type : s
+F :  and , you know , the idea of the th th the size of the unit versus how long it takes to play it back
+
+dialogue type : s
+F :  so these th sort of calibration issues .
+
+dialogue type : s
+F :  And then , um , I just set them loose
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^rt
+F :  they all have e a already background in using computers .
+
+dialogue type : s
+F :  They 're , um they 're trained in linguistics .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s.%--
+F :  Well , they they 're very perce
+
+dialogue type : s:s
+F :  they 'll So one of them said " well , you know , he really said " n " ,
+
+dialogue type : s:s
+F :  not really " and " ,
+
+dialogue type : s:qw
+F :  so what what should I do with that ? "
+
+dialogue type : s.%--:s.%--
+F :  And I said , " well for our purposes ,
+
+dialogue type : s.%--
+F :  I do have a convention . If it 's an a noncanonical p "
+
+dialogue type : s
+F :  That one , I think we you know , with Eric 's work , I sort of figure we we can just treat that as a variant .
+
+dialogue type : s.%--
+F :  But I told them if if there 's an obvious speech error , uh , like I said in one thing ,
+
+dialogue type : s
+F :  and I gave my my example , like I said , " microfon " in instead of " microphone " .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I knew it when I said it .
+
+dialogue type : s:s
+F :  I remember s thinking " oh , that 's not correctly pronounced " .
+
+dialogue type : s
+F :  But it but I thought it 's not worth fixing
+
+dialogue type : s^df
+F :  cuz often when you 're speaking everybody knows what what you mean .
+
+dialogue type : s
+F :  But I have a convention that if it 's obviously a noncanonical pronunciation a speech error with you know , wi within the realm of resolution that you can tell in this native English American English speaker , you know that I didn't mean to say " microfon . "
+
+dialogue type : s
+F :  Then you 'd put a little tick at the beginning of the word ,
+
+dialogue type : s
+F :  and that just signals that , um , this is not standard ,
+
+dialogue type : s:s
+F :  and then in curly brackets " pron error " .
+
+dialogue type : fh|s
+F :  And , um , and other than that , it 's w word level .
+
+dialogue type : s:s
+F :  But , you know , the fact that they noticed , you know , the " nnn " . " He said " nnn " , not " and " .
+
+dialogue type : s:qw
+F :  What shall I do with that ? "
+
+dialogue type : sj^ba
+F :  I mean , they 're very perceptive .
+
+dialogue type : s
+F :  And and s several of them are trained in IPA .
+
+dialogue type : s
+F :  C they really could do phonetic transcription if if we wanted them to .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  And I 'm also thinking these people are a terrific pool .
+
+dialogue type : s
+F :  I mean , if , uh so I I told them that , um , we don't know if this will continue past the end of the month
+
+dialogue type : s.%-
+F : 
+
+dialogue type : fh
+F :  m I
+
+dialogue type : s
+F :  think they know that the data p source is limited
+
+dialogue type : s
+F :  and I may not be able to keep them employed till the end of the month
+
+dialogue type : s
+F :  even , although I hope to .
+
+dialogue type : fh
+F : 
+
+dialogue type : sj^ba
+F :  Oh , that 'd be so super .
+
+dialogue type : sj^ba
+F :  They would be so s so terrific .
+
+dialogue type : s^aa
+F :  Mm - hmm , that 's right .
+
+dialogue type : s
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^ba.%
+F :  That 'd be great .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : sj^ba
+F :  Oh , wonderful .
+
+dialogue type : b
+F :  Mm - hmm . Yeah .
+
+dialogue type : fg
+F :  Wonderful .
+
+dialogue type : s
+F :  And then school will start in in the sixt on the sixteenth .
+
+dialogue type : s
+F :  Some of them will have to cut back their hours at that point .
+
+dialogue type : s^na^rt
+F :  But Some of them are .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^bd
+F :  Well , why do I wouldn't say forty - hour weeks .
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  Oh , I shouldn't say it that way
+
+dialogue type : s
+F :  because that does sound like forty - hour weeks .
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s
+F :  I th I I would say they 're probably they don't have o they don't have other things that are taking away their time .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  you can't .
+
+dialogue type : s^aa
+F :  No . You 're right .
+
+dialogue type : s
+F :  It 's i it would be too taxing .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  And and I checked them over .
+
+dialogue type : s
+F :  I I I haven't checked them all ,
+
+dialogue type : s
+F :  but just spot - checking .
+
+dialogue type : sj^ba^tc
+F :  They 're fantastic .
+
+dialogue type : b
+F :  Yeah . Yeah .
+
+dialogue type : fg|s
+F :  Well , you know , and I also thought , y Liz has this , eh , you know , and I do also , this this interest in the types of overlaps that are involved .
+
+dialogue type : s
+F :  These people would be great choices for doing coding of that type if we wanted ,
+
+dialogue type : fh
+F :  or
+
+dialogue type : fh
+F :  whatever . So , um .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : sj^ba
+F :  Th - that 'd be I think that 's a a good idea .
+
+dialogue type : s.%--
+F :  You know , there 's also , the e In my mind ,
+
+dialogue type : s^bd
+F :  I think A An - Andreas was leading to this topic ,
+
+dialogue type : s
+F :  the idea that , um , we haven't yet seen the the type of transcript that we get from IBM ,
+
+dialogue type : s^df
+F :  and it may just be , you know , pristine .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  Cuz this is , you know we 've got a good interface ,
+
+dialogue type : s.%--
+F :  we 've got great headphones , m
+
+dialogue type : fh
+F : 
+
+dialogue type : s^m^na
+F :  Something like that .
+
+dialogue type : s^aap^rt
+F :  That 's that 's true .
+
+dialogue type : qy^bu.%-
+F :  Al - although you have to s Don't you have to start with a close enough approximation of the of the verbal part to be able to ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : b
+F :  Oh , excellent .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : x
+F :  OK .
+
+dialogue type : b.%
+F :  Excellent .
+
+dialogue type : s
+F :  I guess there 's another aspect , too ,
+
+dialogue type : s^bd
+F : 
+
+dialogue type : s^bd
+F :  uh , this this is very possibly a different , uh , topic .
+
+dialogue type : s
+F :  But , uh , just let me say with reference to this idea of , um , higher - order organization within meetings .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  you know , the topics that are covered during a meeting with reference to the other , uh , uses of the data ,
+
+dialogue type : s
+F :  so being able to find where so - and - so talked about such - and - such ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F : 
+
+dialogue type : s^e
+F :  already transcribed meeting .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^rt
+F :  where that i if that 's something that we wanna do with each meeting ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  it 's like a manifest , when you get a box full of stuff ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I mean , i I I don't know what uh , level of detail would be most useful .
+
+dialogue type : s^cs
+F :  I don't know i if that 's something that I should do when I look over it , or if we want someone else to do , or whatever .
+
+dialogue type : s
+F :  But this issue of the contents of the meeting
+
+dialogue type : s
+F :  in an outline form .
+
+dialogue type : fh
+F :  OK .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  That 's fine .
+
+dialogue type : s
+F :  I 'm finished .
+
+dialogue type : b
+F :  Oh , yeah .
+
+dialogue type : s^fe
+F :  Oh , yes .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^fa^t3
+F :  Oh , k Sorry .
+
+dialogue type : s
+F :  Scale .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  He has this on his board actually .
+
+dialogue type : qy^rt
+F :  Don't you have , like those those several different categories on the board ?
+
+dialogue type : b.%
+F :  Mm - hmm .
+

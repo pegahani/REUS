@@ -1,0 +1,1317 @@
+dialogue type : s^t^tc
+A :  OK , here we go .
+
+dialogue type : fh
+A :  So
+
+dialogue type : s
+A :  Definitely have to go to tea .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  That too ,
+
+dialogue type : fh
+A : 
+
+dialogue type : fg
+A :  Um So ,
+
+dialogue type : s
+A :  only a couple of agenda items , since no one sent me email for agenda items .
+
+dialogue type : s
+A : 
+
+dialogue type : s
+A :  I s I spoke with several of you about this ,
+
+dialogue type : s
+A :  but just to brainstorm a little bit about what we can do with it .
+
+dialogue type : s
+A :  So we got back the IBM transcript , and the accuracy looks OK .
+
+dialogue type : s
+A :  There are I mean , there are areas which are clearly wrong
+
+dialogue type : s
+A :  and there are a lot of areas where they put question marks , where the acoustics weren't very good .
+
+dialogue type : s
+A :  And I think that 's fine . Putting it in question marks is better than doing it wrong .
+
+dialogue type : s
+A :  The big problem was , they had the wrong number of beeps in it .
+
+dialogue type : s
+A :  So it didn't align .
+
+dialogue type : s
+A :  And that 's exactly what I was afraid of .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I wrote a script that will convert it to the multi the Channeltrans format , looked at it in in Channeltrans and found the places where it got a unsynchronized ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  And in this case only only had to remove beeps ,
+
+dialogue type : s
+A :  because that was th always the error , is that they put in it extraneous beeps .
+
+dialogue type : s
+A :  But it 's not easy to do ,
+
+dialogue type : s
+A :  because the whole thing gets offset ,
+
+dialogue type : s
+A :  and basically , it 's assigning the wrong speaker to the text , and it all gets unaligned .
+
+dialogue type : s
+A :  So it 's very difficult to do .
+
+dialogue type : s
+A :  So it took me several hours just to do that .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A :  It took me a couple hours to write the scripts ,
+
+dialogue type : s^e
+A :  and then it it probably took me maybe forty - five minutes , just going through it .
+
+dialogue type : s
+A :  Now obviously it will be a lot faster from now on ,
+
+dialogue type : s^df
+A :  because now I sort of understand how it works .
+
+dialogue type : s^cs
+A :  But , I think if we had some way uh some tool that made it easier to insert and delete beeps it would make it a lot easier .
+
+dialogue type : s
+A :  Cuz one of the problems is that it takes a very long time when you make a change to load it back up in the channel transcriber .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^nd|s^ar
+A :  I didn't just say that , no .
+
+dialogue type : qh
+A :  So th so this is the o the other approach which is , what do we do in the future , to try to make this less common ?
+
+dialogue type : s^bd^df
+A :  But it 's still gonna happen .
+
+dialogue type : fh
+A : 
+
+dialogue type : fg|s^no
+A :  Yeah , we don't know what their process is .
+
+dialogue type : s
+A :  So I had two ideas .
+
+dialogue type : s
+A :  The first was to provide them a text template that had both the beeps in it and the speaker I Ds .
+
+dialogue type : s
+A :  You know , just " male - female " , " English - nonEnglish " , " one two three four " .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  And they just filled it in .
+
+dialogue type : s
+A :  It was like a hundred twenty ,
+
+dialogue type : s
+A :  and they had a hundred twenty - three or something like that .
+
+dialogue type : qy^rt
+A :  Is that right ?
+
+dialogue type : s^no
+A :  Well I I don't remember .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : qw^rt
+A :  How would that help ?
+
+dialogue type : s^bk|s^bu
+A :  Oh , you mean just break the one hour into a few chunks .
+
+dialogue type : s^ba
+A :  I 'm sure they would prefer it sort of one hour .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  We can definitely do that .
+
+dialogue type : qh
+A :  So t so one question is , are there good places in the files where we can really do that ?
+
+dialogue type : s
+A :  I mean , so so so someone will have to go through them and listen to them and pick a place to break them .
+
+dialogue type : s
+A :  They are played from the individual .
+
+dialogue type : s^bu
+A :  You mean , so , actually put put the wavefile in with beep in it .
+
+dialogue type : s
+A :  And pu and have a beep model .
+
+dialogue type : s^aa|s^ba^na
+A :  Yes , it would be , cuz it 's very , very regular .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^cs^j
+A :  You have to may add some jitter to it .
+
+dialogue type : s
+A :  It 's just in this case they were not .
+
+dialogue type : s
+A :  So I think uh , Chuck had a good explanation for it which I liked ,
+
+dialogue type : s
+A :  which is these they 're listening to it and so they write something down , and let 's say they miss it , they rewind .
+
+dialogue type : s
+A :  Well , they hear the beep again .
+
+dialogue type : qh
+A :  Was that that beep , or was that a different beep ?
+
+dialogue type : s
+A :  So that 's why Chuck was suggesting different tones .
+
+dialogue type : s
+A :  My original thought was , you could have a different tone for each speaker .
+
+dialogue type : s
+A :  You know , there 's plenty of tone space .
+
+dialogue type : s
+A :  And that might help cue the transcriptionist .
+
+dialogue type : s
+A :  You know , give them a little cue about where they are .
+
+dialogue type : qw
+A :  What do you mean ?
+
+dialogue type : s
+A :  That 's what I was saying . Is that that you could have each speaker could have their own tone .
+
+dialogue type : s
+A :  And you know , since there are no more than , you know , ten speakers or so per meeting , there 's plenty of tone space .
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s^fe
+A :  Bo - eep be - oop .
+
+dialogue type : s^bk
+A :  Oh , oh , th oh , I see .
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s^ba
+A :  I mean , Chuck 's suggestion of just two beeps is nice
+
+dialogue type : s^df:s
+A :  because then you could have them actually transcribe " H - beep " or " L - beep " ,
+
+dialogue type : s^e
+A :  " high beep " or " low beep " .
+
+dialogue type : s^ba
+A :  It would be much easier .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : fg|%--
+A :  Yeah , we can ,
+
+dialogue type : fh|s^cs^j
+A :  yeah , like , do do , uh , one for each ca one for each person in the meeting , you can only hire people who have perfect pitch ,
+
+dialogue type : s^e^j
+A :  and they can say " A - flat " " B " .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  So I think , certainly , doing two beeps is is no - brainer .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  If they do something on a computer in a format we can handle , we could give them a text file that was a template with speaker ID and beeps already in it .
+
+dialogue type : s^e
+A :  And then they could just fill that in .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s
+A :  Well , as I said , I think We don't actually know ,
+
+dialogue type : s
+A :  but I think Chuck 's hypothesis was a good one ,
+
+dialogue type : s^e
+A :  which is , you re r you listen to something , you write down what you thought you heard , but you want to listen to it again , so you r rewind .
+
+dialogue type : s:qy
+A :  And then you hear the beep again , and then you say " well , is that that beep ,
+
+dialogue type : s^e:qrr
+A :  or is that a new beep ?
+
+dialogue type : s:s^no
+A :  I don't remember . "
+
+dialogue type : s^e
+A :  And so , you know , a couple times they got it wrong .
+
+dialogue type : s^aap
+A :  Well , we could .
+
+dialogue type : s^ba^df^ng
+A :  We could , but then that starts getting pretty long .
+
+dialogue type : s
+A :  Well , they would have to have a mark .
+
+dialogue type : s
+A :  Well , it 's sequential .
+
+dialogue type : fg|s.%--
+A :  Right , you would go sequential . So unless you got pretty unlucky ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s.%--
+A :  So beep number .
+
+dialogue type : %-
+A :  Yeah the
+
+dialogue type : s^ba^ng
+A :  It 's just getting pretty long .
+
+dialogue type : s^ba
+A :  You know , the utterances are very short .
+
+dialogue type : s:s^fe
+A :  And so you 're gonna be talking beep , number , " yes ! " beep , number , " no " .
+
+dialogue type : s
+A :  And when they transcribe this meeting it 's gonna be really impossible .
+
+dialogue type : b
+A :  Yeah , yep .
+
+dialogue type : s^ba
+A :  It 's not a bad idea .
+
+dialogue type : s^na
+A :  That would help get them synchronized .
+
+dialogue type : s
+A :  I think it would be ,
+
+dialogue type : s^df
+A :  because they would know their place .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^fe^r
+A :  They would know their place , darn it !
+
+dialogue type : s^r
+A :  Those transcriptionists need to know their place .
+
+dialogue type : fg|s^ba
+A :  Yeah , the numbers are a good idea .
+
+dialogue type : s^ba
+A :  Othe - other than lengthening the transcript , I think it would be very helpful .
+
+dialogue type : s^aa|s.%--
+A : 
+
+dialogue type : s
+A :  you could keep them short by not s or just go one through ten , one through ten , one through ten , or one through twenty .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : fg|s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^j:s
+A :  " One hundred twenty - four "
+
+dialogue type : s^j:s
+A :  " Beep . One thousand three hundred forty - two "
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : s^no
+A :  I don't remember .
+
+dialogue type : s
+A :  Chuck was saying there was more than that .
+
+dialogue type : s
+A :  More beeps than that .
+
+dialogue type : qy^rt
+A :  Was it that many ?
+
+dialogue type : s^no
+A :  I just don't recall .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s
+A :  Easy enough to figure out .
+
+dialogue type : s^df
+A :  We have all that data .
+
+dialogue type : fg|s^aa
+A :  Yeah , you 're right .
+
+dialogue type : s
+A :  It had to have been more than that .
+
+dialogue type : s
+A :  I mean , it was a forty - five minute meeting ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  And it certainly was not a minute a chunk ,
+
+dialogue type : s
+A :  it was a few seconds a chunk .
+
+dialogue type : s^df
+A :  So I 'm just mis - remembering .
+
+dialogue type : s^df^r
+A :  I 'm just mis - remembering .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A : 
+
+dialogue type : s^cs
+A :  W wel I mean I A quick conversation with Brian would be good ,
+
+dialogue type : fh
+A :  so .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s^bk|s
+A :  Right . I mean , that 's what we want to avoid .
+
+dialogue type : s^nd
+A :  But that won't work
+
+dialogue type : s^df.%-
+A : 
+
+dialogue type : fg|s.%-
+A : 
+
+dialogue type : s^bk|s^arp
+A :  Right , you you need But you need the text
+
+dialogue type : s^e
+A :  to tell it where it got it wrong .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s^df^na^rt
+A :  Because you have to know which ones match which .
+
+dialogue type : s
+A :  And we can do that with wordcount .
+
+dialogue type : s
+A :  Right ? We already know that that we 're three short .
+
+dialogue type : s^df
+A :  And so if we just did spee uh beep and non - beep all you would get is that you have three mistakes ,
+
+dialogue type : s^df
+A :  but you wouldn't tell you which ones were wrong .
+
+dialogue type : s
+A :  You need some of the words in there , so that you can say " well , this segment matches this one ,
+
+dialogue type : s
+A :  this segment matches this one ,
+
+dialogue type : s
+A :  and this one doesn't match at all ,
+
+dialogue type : s^e
+A :  unless we insert a beep " .
+
+dialogue type : s
+A :  Well , actually , you know , there 's an even easier way .
+
+dialogue type : s
+A :  We don't really need a beep model .
+
+dialogue type : s
+A :  Um , just extract the segments and do a forced alignment ,
+
+dialogue type : s
+A : 
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^ba
+A :  Well , the numbered ones would make it a lot easier ,
+
+dialogue type : s^df
+A :  cuz you could then really localize where the error is .
+
+dialogue type : s^bk
+A :  Yep .
+
+dialogue type : fg|s
+A : 
+
+dialogue type : s^e
+A :  We could certainly break the meetings into pi pieces .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^na|s^aa
+A :  That 's true , yeah .
+
+dialogue type : s
+A :  I think that was Chuck .
+
+dialogue type : s^bk
+A :  Yep .
+
+dialogue type : s^aa|s^na
+A :  Yeah , it does look good .
+
+dialogue type : s
+A :  I mean , I found several errors ,
+
+dialogue type : s^bd
+A :  but they were not significant .
+
+dialogue type : s
+A :  They were all things that I could easily listen to and sometimes convince myself they said one thing and sometimes the other ,
+
+dialogue type : fh
+A :  so .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : fg
+A : 
+
+dialogue type : s^t^tc
+A :  We still haven't really sat down and talked about file reorganization ,
+
+dialogue type : s
+A :  and directory reorganization .
+
+dialogue type : s^t
+A :  So we still have to do that .
+
+dialogue type : s
+A :  But I don't think we need to do that in this meeting .
+
+dialogue type : s
+A :  But , uh It is something that needs to get done ,
+
+dialogue type : s
+A :  and I wanna also coordinate it with Dave so that we do a level zero backup right after .
+
+dialogue type : s^df
+A :  So we don't waste a lot of tapes .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  So let 's let 's try to do that sometime ,
+
+dialogue type : qy^rt
+A :  OK ?
+
+dialogue type : qy^r^rt
+A :  ch OK ?
+
+dialogue type : fh
+A : 
+
+dialogue type : s^t^tc
+A :  We also still have to make a decision about mike issues ,
+
+dialogue type : s^e
+A :  what we wanna do with that .
+
+dialogue type : qy^2^bu^d^rt
+A :  And just swap them in and out ?
+
+dialogue type : s^aa|s^na
+A :  Yeah , we could certainly do that .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  uh , since you weren't at the meeting last week , uh , apparently a bunch of the EDU fe folks really hate this style mike .
+
+dialogue type : s^ba
+A :  I mean , that 's that 's that 's a fairly strong indication of dislike .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^2
+A :  The Crown .
+
+dialogue type : s^cs
+A :  So what I was thinking is , we could get a few more of the Sony ones
+
+dialogue type : s^cs^e
+A :  and just unplug them and plug them in .
+
+dialogue type : s
+A :  And the only thing is that when you fill out the digit forms , you have to be sure to indicate which mike was actually used .
+
+dialogue type : s^ba
+A :  So , I mean , that 's easy to do .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  it it moves us away from this uniform , all the mikes are the same ,
+
+dialogue type : s
+A :  which some people had said was a benefit .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^aa|s^na
+A :  It is . Yeah .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : %-
+A : 
+
+dialogue type : %-
+A :  th
+
+dialogue type : s.%-
+A :  We abs th
+
+dialogue type : s
+A :  We have lots o of choices of microphones .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^cs
+A :  I mean , so we can go microphone shopping , and get get more microphones .
+
+dialogue type : s^df.%-
+A :  It 's just w
+
+dialogue type : s^no
+A :  I 'm just not sure what we should do .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^na
+A :  I agree with that ,
+
+dialogue type : s^cs
+A :  and so my feeling is , we should get mikes that people like .
+
+dialogue type : s
+A :  And so I my feeling is , going out and buying a few more mikes is fine .
+
+dialogue type : qy^rt
+A :  So should I just go do that ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qy
+A :  And then also , should we go ahead and get another wireless system ?
+
+dialogue type : s^e.%-
+A : 
+
+dialogue type : s^ar|s
+A :  Uh , no , actually , get we need another box .
+
+dialogue type : s^df
+A :  Because each each box in the back room can only take six .
+
+dialogue type : s^cs.%-
+A :  So we could
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  So I 'll just go d I 'll do that .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s^bk|s
+A :  OK . Then I will just go do that ,
+
+dialogue type : qw
+A :  and send the bill to uh ,
+
+dialogue type : s^bk^m
+A :  what 's - her - name . Whoever will pay .
+
+dialogue type : s
+A :  You .
+
+dialogue type : b.%
+A :  Yeah .
+
+dialogue type : s
+A :  This it 's it 's a cell phone jack .
+
+dialogue type : %-
+A :  Th - d
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A :  Except that one 's even bigger than most of the ones I 've seen .
+
+dialogue type : s
+A :  Most of the ones are just a little boom .
+
+dialogue type : b.%
+A :  Mm - hmm .
+
+dialogue type : fg|s
+A :  Yeah . The the biggest issue is the stupid cable
+
+dialogue type : s^e.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  It 's non - standard ,
+
+dialogue type : s
+A :  and so you can't just plug something in .
+
+dialogue type : s^e
+A :  You need to get it wired .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  I wonder if you could do an adaptor .
+
+dialogue type : s^no
+A :  I don't know if you can or not .
+
+dialogue type : s
+A :  An adaptor might be a better idea than do redoing the wiring all the time .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s^2
+A :  Demo .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s
+A :  I mean , what I was envisioning was a PDA with a cellular link in it .
+
+dialogue type : s^e
+A :  You know , with one of the r short - range wireless .
+
+dialogue type : s
+A :  And let th Just do capture the audio on the PDA and send the audio over the wireless net .
+
+dialogue type : fh
+A :  But .
+
+dialogue type : s
+A :  Uh , Bluetooth is shorter range ,
+
+dialogue type : s
+A :  but you could use Bluetooth .
+
+dialogue type : s^e
+A :  Wh - whatever the network guys already have hooked up for this floor .
+
+dialogue type : s^no
+A :  I don't remember what it 's called .
+
+dialogue type : fg|s^t
+A :  OK , then uh , another issue on file reorganization is , uh , making data available to people outside ICSI .
+
+dialogue type : s
+A :  So , specifically , the U W folks have been wanting to get access to it .
+
+dialogue type : s^cs
+A :  So I think the right thing to do for that , is figure out how to do CVS without uh , compromising security .
+
+dialogue type : s^e
+A :  Some pass SSH tunneled CVS ,
+
+dialogue type : s
+A :  and then give them access .
+
+dialogue type : s^aa|s^aap^df
+A :  Yes , except that the command has to not take a password .
+
+dialogue type : s^df
+A :  Because it it 's non - interactive .
+
+dialogue type : s
+A :  And so the only way to do that is with , uh S - hosts ,
+
+dialogue type : s
+A :  which is insecure .
+
+dialogue type : s
+A :  So we still have to sort of look at it a little bit .
+
+dialogue type : s
+A :  I mean , I 'm sure it 's been solved ,
+
+dialogue type : s
+A :  and I just haven't found the solution yet .
+
+dialogue type : s
+A :  But I am sure that people have done it
+
+dialogue type : s^df
+A :  because it 's gonna be a problem a lot of people have .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^nd
+A :  Uh , n n not really ,
+
+dialogue type : s^df
+A :  because then we have the coordination issue .
+
+dialogue type : s^cs.%--
+A : 
+
+dialogue type : s^am
+A :  I mean , I guess that 's true .
+
+dialogue type : s.%-
+A :  They could simply log in to ICSI
+
+dialogue type : s^e
+A :  and do everything locally .
+
+dialogue type : s^aa|s^arp^cs
+A :  Yeah , except they could share one .
+
+dialogue type : s^df
+A :  The , uh the SSH accounts , and the user accounts don't have to be similar .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  I mean , there are lots of ways of doing it ,
+
+dialogue type : s^cs
+A :  but w but if we can't figure out a remote way of doing it , just letting them log in to ICSI might be OK .
+
+dialogue type : s
+A :  So the intention was to put everything except the audio files themselves under revision control .
+
+dialogue type : s
+A :  And the audio files , it 's not worth doing
+
+dialogue type : s^df
+A :  cuz they 're too big .
+
+dialogue type : s^df^e
+A :  You 're never gonna be copying them around and making working copies of them .
+
+dialogue type : s
+A :  And then the other issue Jane and I spoke of briefly is just general permission issues .
+
+dialogue type : s
+A :  That right now , lots of people create the files
+
+dialogue type : s
+A :  and then we have group " Meeting Recorder " .
+
+dialogue type : s
+A :  But that means anyone in the Meeting Recorder group can overwrite the files .
+
+dialogue type : s
+A :  And so that 's a pretty coarse level of granularity .
+
+dialogue type : s^cs
+A :  So we might wanna think about doing a Meeting Recorder user owner for those files ,
+
+dialogue type : s^cs^e
+A :  and then doing group slightly differently .
+
+dialogue type : fh
+A : 
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^cs
+A :  Another option is to m make a non make it owned by a not real user ,
+
+dialogue type : s^cs^e
+A :  and then root will be able to do it .
+
+dialogue type : s^bd^df
+A :  But root is pretty tightly controlled here .
+
+dialogue type : s^ba^bd
+A :  So th I don't think that 's a good solution .
+
+dialogue type : s^aa|s^df
+A :  Yes , but if you do that , then someone who isn't the owner can't unchange it .
+
+dialogue type : s^bk|qh^df
+A :  Yeah , as I said , it 's just a question of , uh , do you wanna have to track down root if you have to make any change .
+
+dialogue type : s^df^ng
+A :  You have security issues with that .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^ar|s
+A :  No , with doctor - speech , it 's just a group .
+
+dialogue type : s^e
+A :  So there 're lots of different owners of i i of the files , but the group is always doctor - speech .
+
+dialogue type : s^e
+A :  Or real , usually .
+
+dialogue type : b.%
+A :  Nnn
+
+dialogue type : s^bk|qy^bh^rt
+A :  Oh , do you ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s
+A :  I mean , I 'm not too worried ,
+
+dialogue type : s^df
+A :  because the group 's pretty small .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  Well , and just You , then , also just have the general problem of permission on the other files ,
+
+dialogue type : qh^e
+A :  that , do you want people checking out a transcript file when they find an error , and correcting it ,
+
+dialogue type : qh^e
+A :  or do they wa do you want it to go through you ?
+
+dialogue type : s^bk|s:s
+A :  OK , but that means that you 're gonna have to be available for people , all the time , who say " there 's an error here " ,
+
+dialogue type : s^e
+A :  rather than just them just going in and correcting it .
+
+dialogue type : s^df^ng
+A :  Well , but You have a choice .
+
+dialogue type : s^e
+A :  Either you let people do it themselves , or you don't .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s^bk|s
+A :  Right , so you could get email .
+
+dialogue type : s^cs
+A :  Send email to Jane that someone has done a revision .
+
+dialogue type : s^df
+A :  Well , so , you don't have to release it to the world until you 're ready to .
+
+dialogue type : qh.%-
+A :  So the question is s w
+
+dialogue type : s^cs
+A :  So you would keep it in a separate file structure until you were ready to put it in the repository .
+
+dialogue type : s^cs^e
+A :  Or just keep the lock on it .
+
+dialogue type : s^e.%-
+A : 
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s^df
+A :  Cuz it 's not remote .
+
+dialogue type : s^e
+A :  The nice thing about CVS is is , you can be on a different machine .
+
+dialogue type : s^ar|s^df
+A :  No , because UW wants to have access to these files .
+
+dialogue type : s
+A :  That 's the whole point .
+
+dialogue type : s^df
+A :  Well , if they k en if they record a meeting , and they create a " key " file , and they find an error in their " key " file , they shouldn't have to tell us about that
+
+dialogue type : s
+A :  so that they can create correct an error in one of their files .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : qw
+A :  Different than what ?
+
+dialogue type : %-
+A : 
+
+dialogue type : %-
+A :  B
+
+dialogue type : s
+A :  But , I mean , the meetings are gonna be the same way .
+
+dialogue type : s
+A :  So UW records a meeting ,
+
+dialogue type : s
+A :  we transcribe it .
+
+dialogue type : s
+A :  A few months later they listen to it
+
+dialogue type : s:s
+A :  and they say " Ope ! They got that acronym wrong . "
+
+dialogue type : %-
+A :  Why why sh
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  The the p the point here is that it would be nice t for there to be one repository .
+
+dialogue type : s
+A :  And if we don't let them modify their own data , they 're not gonna store their data in our repository .
+
+dialogue type : s
+A :  Or if we make it inconvenient for them to change their data .
+
+dialogue type : s
+A :  I I 'm just looking at it the other way around .
+
+dialogue type : s.%-
+A :  So so let 's say we k
+
+dialogue type : s
+A :  Ye - well , I don't see a real difference between RCS and any other system .
+
+dialogue type : s
+A :  I mean , it 's just mechanisms .
+
+dialogue type : s
+A :  The nice thing about CVS is that you can have multiple people modifying
+
+dialogue type : s
+A :  and if the changes don't overlap each other , they can just do it .
+
+dialogue type : s
+A :  So the problem with RCS is that if two people want to modify a file at the same time they can't ,
+
+dialogue type : s^df
+A :  because the granularity of locking is at the file level .
+
+dialogue type : s
+A :  Uh , there 're lots of different policies for dealing with it .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  At the repository level , there certainly is .
+
+dialogue type : s^e:s
+A :  You can mark a file as as " you can't check this out " .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s
+A :  Well , it 's it 's just like source code ,
+
+dialogue type : qy^d^f^g^rt
+A :  right ?
+
+dialogue type : s
+A :  So that , when you 're developing it and it 's really rough , you don't put it in the repository .
+
+dialogue type : s
+A :  You wait to the point when you 're ready to release it ,
+
+dialogue type : s
+A :  and then you put it in the repository
+
+dialogue type : s.%-
+A :  and if other people wanna Copy .
+
+dialogue type : b.%
+A :  Mm - hmm .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^co
+A :  Imagine that we reverse this
+
+dialogue type : s
+A :  and they were keeping the repository and we were d collecting meetings and sending them to them .
+
+dialogue type : s
+A :  If I found an error , and I sent them email and said " here 's this error " , and I didn't get a response for a couple weeks , I would stop sending them the my data
+
+dialogue type : s
+A :  and I would start collecting it here
+
+dialogue type : s
+A :  and we would end up with two corpora .
+
+dialogue type : s
+A :  And I don't want that to happen .
+
+dialogue type : s^cs
+A :  So we have to make it convenient for them to make changes that they wanna make .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : %-
+A : 
+
+dialogue type : s.%-
+A :  I just I don't s
+
+dialogue type : s.%-
+A :  I don't see that this is e
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : qy^t3
+A :  Can you write " unread " on that ?
+
+dialogue type : s^aa^t3|s^ft^t3
+A :  Yeah , thank you .
+
+dialogue type : s^na
+A :  Probably not transcripts ,
+
+dialogue type : s^cs^df
+A :  but it would be nice to have one mechanism for all the files .
+
+dialogue type : s
+A :  And they 're certainly gonna wanna change tools .
+
+dialogue type : s
+A :  And so you know , it 's the same as source code .
+
+dialogue type : s
+A :  You you release source code at some point .
+
+dialogue type : s
+A :  And , either you have to do everything or you share responsibility .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^t3
+A :  You can back everything out .
+
+dialogue type : s^bk|s
+A :  Right , but what I want to avoid is ending up with two corpora .
+
+dialogue type : s
+A :  And so if you make it too hard for them to check back in , they 'll check it out once ,
+
+dialogue type : s
+A :  they 'll make all the changes ,
+
+dialogue type : s
+A :  they 'll never tell us about the changes ,
+
+dialogue type : s
+A :  and we 'll get two different corpora .
+
+dialogue type : qy^d^f^g
+A :  Right ?
+
+dialogue type : s^ar
+A :  Nope .
+
+dialogue type : qy^rt^t^tc
+A :  Shall we do some digits ?
+
+dialogue type : s^nd
+A :  I wasn't planning on doing it simultaneously .
+
+dialogue type : s^fe
+A :  Oop ! Ouch !
+

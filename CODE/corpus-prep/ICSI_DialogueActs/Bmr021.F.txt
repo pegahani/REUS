@@ -1,0 +1,381 @@
+dialogue type : z
+F :  Yeah .
+
+dialogue type : s^bk^m
+F :  Pre - crashed .
+
+dialogue type : s^ba
+F :  Oh .
+
+dialogue type : s
+F :  I do .
+
+dialogue type : s^aa|s
+F :  Yeah , I do too .
+
+dialogue type : s^ba
+F :  Interesting .
+
+dialogue type : s
+F :  I have a question about this .
+
+dialogue type : qr^rt
+F :  Are the auditory quality Is it , uh , much different between this kind and the the fancy ones ?
+
+dialogue type : qy^bh^d
+F :  They are .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : qy^rt
+F :  The other thing is , is it just a few people who don't like them in the EDU group ?
+
+dialogue type : %-
+F : 
+
+dialogue type : s^ba^fe
+F :  Gosh ,
+
+dialogue type : s
+F :  cuz I much prefer them ,
+
+dialogue type : s^ba^df
+F :  I think they 're a whole lot , multiple levels , better .
+
+dialogue type : s^ba
+F :  It seems a shame t to discard discard them if if they 're better auditory quality and there 're only a few people who dis who object .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^ba
+F :  I hate it
+
+dialogue type : s^df
+F :  because it 's hard to adjust the microphone .
+
+dialogue type : s
+F :  I mean , I spend all this time fumbling around with it
+
+dialogue type : s^ba
+F :  and still not reasonable ,
+
+dialogue type : b
+F :  yeah .
+
+dialogue type : fg|s
+F :  OK , n now may maybe I just don't know this
+
+dialogue type : qy^rt
+F :  but , um , are the only two possibilities from Sony the two that we 've tried ?
+
+dialogue type : qrr.%-
+F : 
+
+dialogue type : s^bk
+F :  I see . OK .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^bk
+F :  Oh , I see .
+
+dialogue type : qy^bh
+F :  Isn't that something .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^bk
+F :  Oh
+
+dialogue type : s
+F :  Huh , I remember that now .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^cs
+F :  It might be good to double check at the end of the meeting too ,
+
+dialogue type : s^df
+F :  cuz that would be an easy place for , uh , an error in the data .
+
+dialogue type : s^e
+F :  For it to be forgotten .
+
+dialogue type : fg|s^bk.%-
+F : 
+
+dialogue type : %--
+F : 
+
+dialogue type : s^bk|s^ba.%-
+F : 
+
+dialogue type : s^ba
+F :  Good , OK .
+
+dialogue type : s^ba
+F :  Perfect .
+
+dialogue type : s^ba
+F :  Perfect , OK .
+
+dialogue type : qr
+F :  Is that more or less than you thought ?
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : s^cs.%-
+F : 
+
+dialogue type : s
+F :  It was over here sometimes .
+
+dialogue type : qy^rt
+F :  Should we close the door ?
+
+dialogue type : s^df
+F :  Oh , I 'm thinking I don't know about the acoustics .
+
+dialogue type : s^bd
+F :  That 's that 's all I was wondering about .
+
+dialogue type : s^aa|s
+F :  Yeah that 's right , we gotta get the obligatory door - slam .
+
+dialogue type : %--
+F :  I guess ,
+
+dialogue type : s^bk|s
+F :  right , the door - slam phone .
+
+dialogue type : s^am
+F :  That 's an idea .
+
+dialogue type : s^ba
+F :  Wow , wow !
+
+dialogue type : s^ba
+F :  Wow .
+
+dialogue type : s^ba
+F :  That must have been suspenseful .
+
+dialogue type : s
+F :  XF .
+
+dialogue type : s^bk|qy^bu^d^rt
+F :  Oh , different ones ?
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^fa
+F :  sorry ,
+
+dialogue type : s
+F :  different partitions of the same physical disk .
+
+dialogue type : s.%--
+F :  And it 's conceivable
+
+dialogue type : s^bd.%--
+F : 
+
+dialogue type : s
+F :  I mean , so um , I was told that it 's possible that that might have , uh , caused additional wear on it . Maybe caused it to to go bad sooner .
+
+dialogue type : b
+F :  Oh . Uh - huh .
+
+dialogue type : qw
+F :  Well , why not ?
+
+dialogue type : s
+F :  Oh sure it does .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : qr^bu^d
+F :  Well , I mean , so the wavefiles , or or anything at all , because the transcripts are there as well .
+
+dialogue type : s^bk^m|s^bk
+F :  Oh , gigabytes . I see .
+
+dialogue type : s^bk
+F :  Yeah , that 's right .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : qy^bh
+F :  Is that right .
+
+dialogue type : s^ba
+F :  That 's very strange .
+
+dialogue type : s^no
+F :  I didn't realize that .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^cs
+F :  And I and I 'd like , in terms of the conventions , to also , uh , you know , s send a bit to Dan Ellis to see if it 's if there 's any get his input on it .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa|s.%--
+F : 
+
+dialogue type : fg|s^bu
+F :  OK , now and you 're just you 're not talking about the s the X disks the X uh partitions ,
+
+dialogue type : s
+F :  just the backed up space ,
+
+dialogue type : qrr.%--
+F :  or ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s
+F :  I haven't either .
+
+dialogue type : s^fa
+F :  Sorry .
+
+dialogue type : s^cc
+F :  I will by next week , though .
+
+dialogue type : s
+F :  You 're talking about different files .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^2
+F :  With no with no advance warning .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^ba
+F :  Oh no , oh no .
+
+dialogue type : b
+F :  Yeah ,
+
+dialogue type : s
+F :  one one can imagine that that might be problematic .
+
+dialogue type : s^bu
+F :  But this this name change affects a subset ,
+
+dialogue type : s^bu
+F :  doesn't need to reflect everything ,
+
+dialogue type : b
+F :  yeah .
+
+dialogue type : qy^bh
+F :  Isn't that great ?
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bu
+F :  And this is not just the Transcriber ,
+
+dialogue type : s^bu
+F :  this is the Channeltrans ,
+
+dialogue type : qy^d^g^rt
+F :  right ?
+
+dialogue type : s^bk
+F :  Yeah , excellent .
+
+dialogue type : s^ba
+F :  Excellent .
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  yeah I see what you mean .
+
+dialogue type : s^bu
+F :  It 'll it 'll be on the on the UNIX side
+
+dialogue type : s^bu
+F :  but accessible through the H - drive .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : b
+F :  Huh . Yeah .
+
+dialogue type : s^bu^m
+F :  Wi - without what ? Without VTL .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : z
+F :  Do you wanna say that one again ?
+
+dialogue type : z
+F :  That last one ?
+
+dialogue type : z
+F :  Or did did you correct the whole one ?
+
+dialogue type : z
+F :  Oh he did ?
+
+dialogue type : z
+F :  Never mind .
+
+dialogue type : z
+F :  OK good .
+
+dialogue type : z
+F :  Alright .
+
+dialogue type : z
+F :  So .
+
+dialogue type : s.%-
+F :  I think they sh
+
+dialogue type : s^cs^j
+F :  It should give the electric shock to the person recording the meeting .
+
+dialogue type : s^aa
+F :  Yeah .
+

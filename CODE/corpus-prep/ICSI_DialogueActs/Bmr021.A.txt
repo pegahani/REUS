@@ -1,0 +1,999 @@
+dialogue type : s
+A :  We 're on .
+
+dialogue type : s
+A :  So , I think we pre - crashed ,
+
+dialogue type : s^ba
+A :  so I think we 're OK .
+
+dialogue type : s^t^tc
+A :  So it should be a really short meeting , I hope .
+
+dialogue type : s^t^tc
+A :  Uh , agenda items , number one , I wanna talk since we were just discussing that is microphone issues .
+
+dialogue type : qh
+A :  What the heck are we gonna do about microphones ?
+
+dialogue type : s
+A :  So uh I got passed on that the EDU group doesn't like the uh , Crown mikes .
+
+dialogue type : s
+A :  I do .
+
+dialogue type : s^ba
+A :  I l I think I find them very comfortable .
+
+dialogue type : s
+A :  Uh , but it seems to depend on your head shape .
+
+dialogue type : b
+A :  That 's right .
+
+dialogue type : s^bk
+A :  Yep .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s.%--
+A :  So apparently they they like
+
+dialogue type : s
+A :  It has one good effect , that people are trying to get there early
+
+dialogue type : s^df
+A :  because the people who get there early get to pick the mike .
+
+dialogue type : s
+A :  People who show up late have to use these .
+
+dialogue type : s
+A :  So , um , we should probably get different mikes .
+
+dialogue type : s
+A :  So the question is , the easiest thing to do is certainly to just get two more , um , Sony mikes .
+
+dialogue type : s
+A :  Just two more of those ,
+
+dialogue type : s
+A :  um . And that that 's easy
+
+dialogue type : s
+A :  and that will certainly work .
+
+dialogue type : s
+A :  The other option is to try yet another mike .
+
+dialogue type : s
+A :  Find one we like and potentially get six , all the same .
+
+dialogue type : s^na
+A :  Um , these are better , if they 're worn correctly .
+
+dialogue type : s^aa|s^na
+A :  Yeah . Yeah , definitely .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  So , I mean , they 're not a lot better ,
+
+dialogue type : s
+A :  but they are a little better .
+
+dialogue type : s^na
+A :  Um , they 're more directional ,
+
+dialogue type : s
+A :  a little better error uh , noise cancellation ,
+
+dialogue type : s
+A :  and also you can really get it right in front of your mouth , like this ,
+
+dialogue type : s
+A :  whereas that one , to avoid breath noise , you really have to put it at to the side .
+
+dialogue type : s
+A :  So you seem to get better signal with this one .
+
+dialogue type : s^no
+A :  I don't know ,
+
+dialogue type : s^rt.%-
+A :  but you know , in in sort of random polling
+
+dialogue type : s.%-
+A :  I mean , so s
+
+dialogue type : s^cs
+A :  Well , I mean , that 's the other option , is that we could switch the form so it 's more obvious the distinction between channel and mike ,
+
+dialogue type : s^cs
+A :  um , and then get duplicates .
+
+dialogue type : s^ba
+A :  I mean , there 's no problem with that .
+
+dialogue type : qy
+A :  It 's just what Should we get just more Sony ones ?
+
+dialogue type : s^ba
+A :  I hate the Sony ones .
+
+dialogue type : s
+A :  b the one you 're wearing .
+
+dialogue type : s^df
+A :  Because it it pinches pinches the temples too much .
+
+dialogue type : s^ba
+A :  I mean , so , if you wear it sort of around the back , it 's not too bad .
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^cs
+A :  So , I mean , we could try another mike .
+
+dialogue type : s^df
+A :  But then we have the wiring issue ,
+
+dialogue type : s^no
+A : 
+
+dialogue type : qo
+A :  what do people think ?
+
+dialogue type : s
+A :  The plug is proprietary .
+
+dialogue type : s^ba
+A :  So that 's why I was saying getting more Sony ones is trivial ,
+
+dialogue type : s^df
+A :  because we can just go out and buy them .
+
+dialogue type : s
+A :  Any other ones we have to buy them in pigtail versions and get them wired .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : s
+A :  So , the only possibilities from Sony are that one and the lapel mike .
+
+dialogue type : s
+A :  So this isn't Sony .
+
+dialogue type : s
+A :  This is Crown .
+
+dialogue type : s^e
+A :  The one we 're wearing .
+
+dialogue type : s
+A :  And so we had these wired for us .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^na
+A :  I think that 's probably the right first step is just get two more immediately , and have them available .
+
+dialogue type : s^aa|s
+A :  Right . And just make sure that you write down " Crown " or " Sony " on the mike number ,
+
+dialogue type : s^cc
+A :  which I 'll change to mike type , or something like that .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s^ng.%--
+A : 
+
+dialogue type : s^ng
+A :  It 'll be whoever 's setting up the meeting ,
+
+dialogue type : s
+A :  who fills out the key file ,
+
+dialogue type : fh
+A :  so
+
+dialogue type : s^df
+A :  It has the same potential for error as everything else .
+
+dialogue type : s^ar|s
+A :  No , no , we definitely would not have the user fill it out .
+
+dialogue type : s
+A :  It would be me , Chuck , or Liz , depending on which meeting it is .
+
+dialogue type : fg|s^cc
+A :  OK , so we 'll de definitely go ahead and do that .
+
+dialogue type : s
+A :  Couple hundred .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  It depends on how good the mike is .
+
+dialogue type : s
+A :  Well the Crown ones were like two - fifty .
+
+dialogue type : s
+A :  I think those are like one - ninety .
+
+dialogue type : fh
+A :  But .
+
+dialogue type : s^aa^j
+A :  Yeah right .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : fg|s^ba
+A :  Yeah , good mikes are expensive .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa|s
+A :  Yeah , eighty or ninety for the Shures .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  I mean , the Sony ones are expensive
+
+dialogue type : s^df
+A :  because they 're proprietary ,
+
+dialogue type : s
+A :  so they can charge whatever they want .
+
+dialogue type : s^ba
+A :  These are expensive
+
+dialogue type : s^df
+A :  because they 're quite high quality .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^cs
+A :  So we should buzz that out if we send the data to Sony .
+
+dialogue type : s^bd
+A :  Well , I 'm just joking .
+
+dialogue type : s
+A :  So , you do not have to bleep that out .
+
+dialogue type : s^df
+A :  I don't mind if Sony knows my opinion .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : fg
+A :  Um .
+
+dialogue type : s^t^tc
+A :  Also , we 're pro I wanna double check with Morgan ,
+
+dialogue type : s
+A :  he did say yes before I went to Japan on buying another wireless system
+
+dialogue type : s
+A :  so that we can go all wireless , instead of the mix of wired and wireless .
+
+dialogue type : s^ba
+A :  And I think that 's the right thing to do .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s
+A :  Four more wireless .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s
+A :  And also I 'm gonna re probably replace the Andrea mike with a Shure ,
+
+dialogue type : s^cc
+A :  but I 'll test it , uh , sometime today or tomorrow to make sure the Shure one really works ,
+
+dialogue type : s^df
+A :  cuz I have an extra Shure in my office .
+
+dialogue type : s^aa|s^e
+A :  Yeah , apparently it 's had some problems .
+
+dialogue type : s^aa|s.%-
+A : 
+
+dialogue type : s
+A :  This one .
+
+dialogue type : s^m^na|s^aa
+A :  In the meantime , right ,
+
+dialogue type : s^df
+A :  because uh it 'll it 'll probably take a couple weeks to get it delivered from Sony anyway .
+
+dialogue type : fh
+A : 
+
+dialogue type : qy^bh
+A :  Oh really ?
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^am
+A :  I guess cuz everyone 's been out of town .
+
+dialogue type : s
+A :  Probably over the summer it 'll be the same
+
+dialogue type : s^df
+A :  cuz it tends to be less , fewer people .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : qy^bu^d^rt^t^tc
+A :  Uh , done with microphone issues , I think ?
+
+dialogue type : s^na^rt
+A :  If you want .
+
+dialogue type : s^e^j
+A :  And this way we can get a door - slam in the uh in the transcript file .
+
+dialogue type : s^ba
+A :  Oh well .
+
+dialogue type : s^ba
+A :  No - not quite a slam .
+
+dialogue type : qy^bu^d^rt
+A :  Uh , the door - slam phone ?
+
+dialogue type : s^cs
+A :  And then we could have the phone phone ,
+
+dialogue type : s
+A :  for for when the phone rings .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s^t^tc
+A :  Uh , file reorganization .
+
+dialogue type : s^rt
+A :  This is something we were talking about before I left
+
+dialogue type : s^rt
+A :  and saying we should probably wait until after I 'm back ,
+
+dialogue type : s^rt
+A :  and now I 'm back ,
+
+dialogue type : s^cs
+A :  so , we should do that at some point .
+
+dialogue type : s^cs
+A :  So we should get ourselves a list of everything we wanna do to reorganize the file structure and anything else .
+
+dialogue type : s^aa
+A :  Sure .
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+A :  Shorten .
+
+dialogue type : qy^rt
+A :  Is that the same as shorten ?
+
+dialogue type : s^bk|s^bu
+A :  Well , OK , you mean it 's built into the SRI ,
+
+dialogue type : s
+A :  because we have the same thing with shorten in the sound tools .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  So it 's just a question of of what decompression is built into your tools .
+
+dialogue type : qy^bh
+A :  Oh really ?
+
+dialogue type : s^no
+A :  I didn't know that .
+
+dialogue type : s
+A :  Well , that 's not a sound tool ,
+
+dialogue type : qy^d^f^g
+A :  right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^2^rt
+A :  Shortening everything on the fly .
+
+dialogue type : s^2
+A :  You had another process running that was shortening it .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : qy
+A :  Did you have to re - nice one of the processes to make sure that " shorten " ?
+
+dialogue type : s
+A :  Watching the disk meter .
+
+dialogue type : s^2
+A :  The list ,
+
+dialogue type : b
+A :  yep .
+
+dialogue type : s^2
+A :  Start end .
+
+dialogue type : s^aa|s
+A :  Yep , the way Feacalc calc does it .
+
+dialogue type : s^ba
+A :  It would be easy .
+
+dialogue type : s^ba
+A :  It wouldn't be hard at all .
+
+dialogue type : s^rt
+A :  Someone just needs to d sit down and do it who has some time .
+
+dialogue type : s
+A :  And that way we wouldn't have multiple versions floating around .
+
+dialogue type : s
+A :  About the only difficulty with that is if it 's compressed . Then you really do have to decompress it first .
+
+dialogue type : qy^d^f^g
+A :  Right ?
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : s.%-
+A :  Y you don't know how much it 's comp
+
+dialogue type : s
+A :  It doesn't compress it by a fixed amount .
+
+dialogue type : fh|s.%-
+A : 
+
+dialogue type : s^aap
+A :  Well , I mean , it just depends on how much disk space is a problem .
+
+dialogue type : s^cs
+A :  I mean the what you could do is decompress it to a temporary place
+
+dialogue type : s^cs
+A :  and then operate on it and then delete it .
+
+dialogue type : fh
+A :  But .
+
+dialogue type : s^aa
+A :  That 's true .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg|s^ba^cs
+A :  Well , it seems like just shortening them is a good short - term solution
+
+dialogue type : s
+A :  so we don't have to do any coding .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^ar|s^nd
+A :  No , it was I was still here .
+
+dialogue type : s
+A :  It was the day I left .
+
+dialogue type : s^bd|s^df
+A :  No if I if I had done it on purpose I would have timed it right after I left .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  Well , I think there was something else going on ,
+
+dialogue type : s^df
+A :  because uh Dave Johnson said that DD was getting accessed frequently .
+
+dialogue type : s
+A :  And it shouldn't be .
+
+dialogue type : qy^d^f^g
+A :  Right ?
+
+dialogue type : s
+A :  That data never gets touched ,
+
+dialogue type : s
+A :  because we write it once and then we never touch it again .
+
+dialogue type : s
+A :  The wave files .
+
+dialogue type : s
+A :  I mean , he was saying gigabytes .
+
+dialogue type : s
+A :  And so , it has to be the wave files .
+
+dialogue type : fg|s
+A :  Yeah , so I asked Dave about it and he hasn't looked into it yet ,
+
+dialogue type : s^cs
+A :  but we should definitely double check on it .
+
+dialogue type : s^2
+A :  Every night .
+
+dialogue type : s^cs^t^tc
+A :  So at any rate , so for file reorganization we need to first decide what we 're gonna do and then when we 're gonna do it .
+
+dialogue type : s^no
+A :  So I 'm not sure who isn't involved with that .
+
+dialogue type : s
+A :  I mean , certainly me , Chuck and Jane .
+
+dialogue type : qo^rt
+A :  Anyone else care ?
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s.%--
+A :  So , maybe we should do that
+
+dialogue type : s^cs
+A :  not during this meeting but s another time ,
+
+dialogue type : s^cs^e
+A :  and just get a list of everything we 're gonna do .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  So just update all the naming conventions
+
+dialogue type : s^cs
+A :  and put all the files where they really belong , on one disk ,
+
+dialogue type : s^cs
+A :  and then leave leave everything in place until the back - up until the next full back - up
+
+dialogue type : s^cs^e
+A :  and then delete the old ones .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  Well , both need to be reorganized .
+
+dialogue type : fh
+A :  So um ,
+
+dialogue type : s.%--
+A :  various paths , th
+
+dialogue type : s
+A :  I mean this is why we have to do it in a synchronized way ,
+
+dialogue type : s^df.%-
+A :  because um
+
+dialogue type : s^aa|s^na
+A :  Yes , exactly .
+
+dialogue type : s^na
+A :  That too .
+
+dialogue type : s
+A :  So that 's what I was saying . We need to get a list of all that stuff that we wanna do .
+
+dialogue type : fg
+A :  And so
+
+dialogue type : s
+A :  I didn't really get any responses from the naming conventions that I sent out ,
+
+dialogue type : s
+A :  so I assume that 's alright with everyone .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk|s
+A :  OK . Then I should have made that as an agenda item .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s
+A :  Well , I mean , how you choose to do it the naming is up to you .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : b.%
+A :  Yep .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  I Actually I was gonna do a global search - replace on all entries at at ICSI
+
+dialogue type : s
+A :  to change MR to MRM at all places at ICSI .
+
+dialogue type : %--
+A : 
+
+dialogue type : s
+A :  Well , maybe I shouldn't say that on re record .
+
+dialogue type : s.%--
+A :  There was a typo in some of the contracts that Morgan got that someone ,
+
+dialogue type : s:s
+A :  one of our sponsors , did a global sear search and replace for between " sponsor " and their name .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bd^tc
+A :  Well , anyway ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  I 'm not sure whether that 's right .
+
+dialogue type : s^aa|s
+A :  Yeah , one can imagine the problems that that would engender .
+
+dialogue type : fg
+A :  So .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : fg
+A :  Um ,
+
+dialogue type : s^t^tc.%-
+A : 
+
+dialogue type : s^cs
+A :  So you should probably talk to a Sys Admin and get it put in some central place .
+
+dialogue type : s^df
+A :  So that it 'll work on all the NT machines .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^bu
+A :  So I assume Tcl - TK wasn't already on the machine , so you had to install it .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw^rt
+A :  So , w what features did you use ?
+
+dialogue type : s^bu
+A :  So not RASTA ,
+
+dialogue type : s^bu
+A :  just PLP .
+
+dialogue type : b
+A :  Huh .
+
+dialogue type : qo
+A :  Who cares ?
+
+dialogue type : s^ar|s
+A :  No , just would be a sign change .
+
+dialogue type : qw
+A :  How many iterations ?
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^ba^fe
+A :  Hmm .
+
+dialogue type : s^bu
+A :  So this is just combination at the utterance level .
+
+dialogue type : qw
+A :  Why do you think the ICSI front - end is so much worse ?
+
+dialogue type : s^ba
+A :  That seems really odd to me .
+
+dialogue type : s^bk
+A :  Oh right . Right , right , right .
+
+dialogue type : qy^rt
+A :  Ca - can you run the SRI Just as an experiment , run the SRI front - end without vocal tract norma normalization , and see how much difference it makes ?
+
+dialogue type : s^2^am
+A :  If we could figure out how .
+
+dialogue type : fg|%-
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  they don't correspond one - to - one though .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^ba^fe
+A :  Hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^ba^ng
+A :  It gets pretty big .
+
+dialogue type : s^ba
+A :  And m my experience with that in Broadcast News was usually combining at other levels works better .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^bd
+A :  For for whatever that 's worth .
+
+dialogue type : s^aa
+A :  Oh yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : %-
+A :  So w
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s^rt
+A :  It was mostly MSG , PLP , RASTA .
+
+dialogue type : s^e
+A :  So , you know , the feature sets we had available .
+
+dialogue type : s^ba
+A :  And it was almost always better to combine at the probability level .
+
+dialogue type : s
+A :  You know , so we 'd run the neural nets and combine the probabilities .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s
+A :  You 'd also have to do some sort of normalization afterwards so that they 're uh orthogonal .
+
+dialogue type : s
+A :  So you 'd wanna do a linear transform also .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s
+A :  Vocal tract thing ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : s
+A : 
+
+dialogue type : s^bd
+A :  Well , let 's not talk about it here ,
+
+dialogue type : s
+A :  but I had some thoughts about the tandem system .
+
+dialogue type : fg|qy^rt^t^tc
+A :  OK , should we do digits ?
+
+dialogue type : qy^rt
+A :  Do we have any other topics ?
+
+dialogue type : s^cs
+A :  OK , let 's do them one at a time instead of simultaneous since we actually have time .
+
+dialogue type : z
+A :  Why don't we let Don go first before his battery dies ?
+
+dialogue type : s^ba
+A :  You can really tell from the prosody where it goes .
+
+dialogue type : qy^d^rt
+A :  After digits ,
+
+dialogue type : s^no
+A :  I don't know .
+
+dialogue type : s^co
+A :  Go ahead .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^am|s^rt
+A :  Probably . We could probably build that in to the front - end .
+
+dialogue type : s^no
+A :  I don't know ,
+
+dialogue type : s^fe
+A :  uh eh . Fff .
+
+dialogue type : qw
+A :  What would you like it to do when that happens ?
+
+dialogue type : s
+A :  Well if an unblacked out channel is zero , is actually spitting out zeros , you can be pretty sure it 's off .
+
+dialogue type : s^df
+A :  Because it doesn't spit out zeros ,
+
+dialogue type : s
+A :  it spits out epsilons .
+
+dialogue type : qy^d^f^g
+A :  Right ?
+
+dialogue type : s^df
+A :  Cuz there 's little background noise .
+
+dialogue type : qw
+A :  The question is , when the software detects it , what do you want it to do ?
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  We we already have visual feedback ,
+
+dialogue type : qy^d^f^g
+A :  right ?
+
+dialogue type : s^e
+A :  You can see whether your mike is working or not .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s^cs^rt
+A :  Turn off the screen saver during the meeting .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^ng
+A :  There 's no sound out right now .
+
+dialogue type : s^aa|s^ba
+A :  Yep . Yep . Yeah yeah . That would be good .
+
+dialogue type : s^cs^t^tc
+A :  Well , we can think about what to do about it ,
+
+dialogue type : %-
+A :  but it It 's pretty clear we can detect it ,
+
+dialogue type : fh
+A :  so .
+
+dialogue type : fg|qy^rt^t^tc
+A :  OK . Are we done ?
+

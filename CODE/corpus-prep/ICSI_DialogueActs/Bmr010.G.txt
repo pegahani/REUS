@@ -1,0 +1,1470 @@
+dialogue type : z
+G :  Alright !
+
+dialogue type : z
+G :  We 're not crashing .
+
+dialogue type : z
+G :  OK .
+
+dialogue type : qy^rt^t
+G :  OK . Does anybody have an agenda ?
+
+dialogue type : s
+G :  I thought somebody had .
+
+dialogue type : s^aa
+G :  Yeah , that 's right .
+
+dialogue type : s^j
+G :  Yeah , we only want th useless things .
+
+dialogue type : fg
+G :  Yeah .
+
+dialogue type : qh^t
+G :  No , why don't we talk about practical things ?
+
+dialogue type : s^aa
+G :  Sure .
+
+dialogue type : s^bk
+G :  Great .
+
+dialogue type : s^bk|s^t.%--
+G :  OK , transcription , uh , microphone issues
+
+dialogue type : s^bk^rt
+G :  OK .
+
+dialogue type : s^aa
+G :  Yes .
+
+dialogue type : s^aa.%--
+G :  Yeah , well .
+
+dialogue type : s^bk^rt
+G :  OK .
+
+dialogue type : fh
+G : 
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^bk^rt
+G :  OK .
+
+dialogue type : fh|qy^bu^d^rt
+G :  Uh , bigram ?
+
+dialogue type : s^bk^m
+G :  IRAM .
+
+dialogue type : s^am
+G :  Well , m maybe .
+
+dialogue type : s^co^rt
+G :  Yeah , let 's let 's see where we are at three - thirty .
+
+dialogue type : fh
+G : 
+
+dialogue type : fh
+G : 
+
+dialogue type : s^aa|s^co
+G :  Yeah . Th - now you get to tell us what 's the interesting part .
+
+dialogue type : fh
+G : 
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : fh|s.%--
+G :  Um , and , um , the other thing , uh ,
+
+dialogue type : s.%--
+G :  which I 'll just say very briefly that maybe relates to that a little bit ,
+
+dialogue type : s.%--
+G :  which is that , um ,
+
+dialogue type : fh|s
+G :  uh , one of the suggestions that came up in a brief meeting I had the other day when I was in Spain
+
+dialogue type : s^e
+G :  with , uh , Manolo Pardo and Javier , uh , Ferreiros , who was here before ,
+
+dialogue type : s^e
+G :  was , um , why not start with what they had before but add in the non - silence boundaries .
+
+dialogue type : fh|s.%--
+G : 
+
+dialogue type : s
+G :  h he was looking for , uh , speaker change points .
+
+dialogue type : fh
+G :  Um .
+
+dialogue type : s
+G :  As a simplification , he originally did this only using silence as , uh , a putative , uh , speaker change point .
+
+dialogue type : fh|s
+G :  And , uh , he did not , say , look at points where you were changing broad sp uh , phonetic class , for instance .
+
+dialogue type : s
+G :  And for Broadcast News , that was fine .
+
+dialogue type : s
+G :  Here obviously it 's not .
+
+dialogue type : fh|s.%--
+G :  And , um , so one of the things that they were pushing in d in discussing with me is , um ,
+
+dialogue type : s:qw
+G :  w why are you spending so much time , uh , on the , uh , feature issue ,
+
+dialogue type : fh|s
+G :  uh , when perhaps if you sort of deal with what you were using before
+
+dialogue type : s
+G :  and then just broadened it a bit , instead of just ta using silence as putative change point also ?
+
+dialogue type : s
+G :  So then you 've got you already have the super - structure with Gaussians and H - you know , simple H M Ms and so forth .
+
+dialogue type : %--
+G : 
+
+dialogue type : s
+G :  So there was a there was a little bit of a a a a difference of opinion
+
+dialogue type : s^df
+G :  because I I thought that it was it 's interesting to look at what features are useful .
+
+dialogue type : s
+G :  But , uh , on the other hand I saw that the they had a good point
+
+dialogue type : s^cs
+G : 
+
+dialogue type : s^df
+G :  Because ultimately we 're gonna end up with some s su kind of structure like that ,
+
+dialogue type : s
+G :  where you have some kind of simple HMM
+
+dialogue type : s
+G :  and you 're testing the hypothesis that , uh , there is a change .
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  so anyway , I just reporting that .
+
+dialogue type : fh
+G : 
+
+dialogue type : qh^t^tc
+G :  So . Yeah , why don't we do the speech - nonspeech discussion ?
+
+dialogue type : b^rt
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b^rt
+G :  Mm - hmm .
+
+dialogue type : fg
+G : 
+
+dialogue type : s^ba
+G :  That 's great .
+
+dialogue type : fg|s^t
+G :  Um , just qu one quickly , uh , still on the features .
+
+dialogue type : fh|s
+G :  So you have these twenty - four features .
+
+dialogue type : fh|s
+G :  Uh , a lot of them are spectral features .
+
+dialogue type : qy
+G :  Is there a a transformation , uh , like principal components transformation or something ?
+
+dialogue type : %-
+G : 
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bk|s
+G :  OK . No , I was j curious .
+
+dialogue type : s
+G :  Yeah , I don't think it 's a big deal for this application ,
+
+dialogue type : %-
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^fa^t3.%
+G :  Excuse me .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^tc.%--
+G :  The other thing , uh , to keep in mind ,
+
+dialogue type : fh|%--
+G :  uh I mean ,
+
+dialogue type : s
+G :  we 've been very concerned to get all this rolling
+
+dialogue type : s
+G :  so that we would actually have data ,
+
+dialogue type : s
+G :  but , um , I think our outside sponsor is actually gonna kick in
+
+dialogue type : s
+G :  and ultimately that path will be smoothed out .
+
+dialogue type : s
+G :  So I don't know if we have a long - term need to do lots and lots of transcribing .
+
+dialogue type : s^rt
+G :  I think we had a very quick need to get something out
+
+dialogue type : s
+G :  and we 'd like to be able to do some later
+
+dialogue type : sj^ba^df
+G :  because just it 's inter it 's interesting .
+
+dialogue type : s
+G :  But as far a you know , uh , with with any luck we 'll be able to wind down the larger project .
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : sj^ba
+G :  That 's great .
+
+dialogue type : sj^ba
+G :  That 's great .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  I mean , basically it 's it 's all the difference in the world .
+
+dialogue type : s
+G :  I mean , basically he 's he 's on it now .
+
+dialogue type : s
+G :  So so so this is so i it 'll happen .
+
+dialogue type : fh|s
+G :  Yeah . I mean , basically it 's just saying that one of our one of our best people is on it ,
+
+dialogue type : s
+G :  you know , who just doesn't happen to be here anymore .
+
+dialogue type : s
+G :  Someone else pays him .
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  So . Yeah .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^bk|sj^ba
+G :  S OK . That 's that 's a good point .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : b.%
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : qy
+G :  Have , uh , folks from NIST been in contact with you ?
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bk|s^cs
+G :  OK . Well , holidays may have interrupted things ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  They seem to want to get absolutely clear on standards for transcription standards and so forth with with us .
+
+dialogue type : fg|s
+G :  Right . Because they 're they 're presumably going to start recording next month .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : h|s^na
+G :  Um . Yeah , I don't think I mailed anybody .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  if , uh that that , uh , as the point person on it .
+
+dialogue type : fh
+G : 
+
+dialogue type : fg|s
+G :  So , yeah . Maybe I 'll , uh , ping them a little bit about it to get that straight .
+
+dialogue type : s^rt
+G :  Yeah . So is it cuz with any luck there 'll actually be a a there 'll be collections at Columbia ,
+
+dialogue type : s^rt
+G : 
+
+dialogue type : s
+G :  I mean Dan Dan is very interested in doing some other things ,
+
+dialogue type : s^2
+G :  and collections at NIST .
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa|s^m
+G :  Yeah , cross - correlation .
+
+dialogue type : s
+G :  I had mentioned this a couple times before , the c the commercial devices that do , uh , uh , voice , uh you know , active miking ,
+
+dialogue type : s
+G :  basically look at the amp at the energy at each of the mikes .
+
+dialogue type : s
+G :  And and you basically compare the energy here to some function of all of the mikes .
+
+dialogue type : fh
+G :  So ,
+
+dialogue type : s
+G :  by doing that , you know , rather than setting any , uh , absolute threshold , you actually can do pretty good , uh , selection of who who 's talking .
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  And those those systems work very well , by the way ,
+
+dialogue type : s.%--
+G :  I mean , so people use them in panel discussions and so forth with sound reinforcement differing in in sort of ,
+
+dialogue type : fh
+G : 
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^df
+G :  Boy , the guy I knew who built them , built them like twenty twenty years ago ,
+
+dialogue type : sj^ba
+G :  so they 're it 's the the techniques work pretty well .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : fg|s
+G :  Yeah . So I think , you know , basically you can look at some p you have to play around a little bit , uh , to figure out what the right statistic is ,
+
+dialogue type : s
+G : 
+
+dialogue type : fh|s
+G :  Uh , and we also have these we have the advantage of having distant mikes too .
+
+dialogue type : s.%-
+G :  So that , you cou yo
+
+dialogue type : fh|s^no
+G :  Um . I I don't know .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  If I was actually working on it , I 'd sit there and and play around with it ,
+
+dialogue type : s
+G :  and and get a feeling for it .
+
+dialogue type : s.%--
+G :  I mean , the the the ,
+
+dialogue type : fh
+G : 
+
+dialogue type : fh
+G :  But ,
+
+dialogue type : s
+G :  uh , you certainly wanna use the close - talking , as a at least .
+
+dialogue type : s
+G :  I don't know if the other would would add some other helpful dimension or not .
+
+dialogue type : fg|s^co
+G :  Well , uh , my suggestion now is is on all of these things to , uh , contact Brian .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s
+G :  Well , just talk to him about it .
+
+dialogue type : s
+G :  I mean , you know , basically he 's he just studies , he 's a colleague ,
+
+dialogue type : s
+G :  a friend ,
+
+dialogue type : fh
+G :  and ,
+
+dialogue type : fh|s
+G :  uh , they and and , you know , the the organization always did wanna help us .
+
+dialogue type : s
+G :  It was just a question of getting , you know , the right people connected in , who had the time .
+
+dialogue type : fh
+G :  So ,
+
+dialogue type : fh
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^ar|s.%--
+G :  No , I , eh , eh , p
+
+dialogue type : %--
+G : 
+
+dialogue type : s^na
+G :  Yeah , something happened .
+
+dialogue type : s^no
+G :  I don't know what .
+
+dialogue type : s
+G :  But he 's on it now .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : fg
+G :  So , uh ,
+
+dialogue type : qw^t^tc
+G :  where are we ?
+
+dialogue type : s^cs^rt.%--
+G : 
+
+dialogue type : qo^cs
+G :  Well , let 's why don't we talk about microphone issues ?
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^na
+G :  Oh , I probably would .
+
+dialogue type : s
+G :  I mean , my knowledge is twenty years out of date
+
+dialogue type : s
+G :  but some of it 's still the same .
+
+dialogue type : fh
+G : 
+
+dialogue type : fh|s^cs
+G :  Uh , so maybe we c we can take a look at that .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^cs
+G :  Well , let 's look at it together
+
+dialogue type : fh
+G : 
+
+dialogue type : qw^rt
+G :  Who who are we buying these from ?
+
+dialogue type : s.%-
+G :  That 'd be
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^cs
+G :  Yeah . We we can try and look at that together .
+
+dialogue type : s
+G :  Well , I think that that 's that 's a good back - off position .
+
+dialogue type : s
+G :  That 's what I was saying earlier ,
+
+dialogue type : s
+G :  th that , you know , we are gonna get some recordings that are imperfect
+
+dialogue type : s:s
+G :  and , hey , that 's life .
+
+dialogue type : s
+G :  But I I think that it it doesn't hurt , uh , the naturalness of the situation to try to have people wear the microphones properly , if possible ,
+
+dialogue type : s
+G :  because , um , the natural situation is really what we have with the microphones on the table .
+
+dialogue type : s
+G :  I mean , I think , you know , in the target applications that we 're talking about , people aren't gonna be wearing head - mounted mikes anyway .
+
+dialogue type : s
+G :  So this is just for u these head - mounted mikes are just for use with research .
+
+dialogue type : fh|s.%--
+G : 
+
+dialogue type : s
+G :  You know , if if An - Andreas plays around with language modeling , he 's not gonna be m wanna be messed up by people breathing into the microphone .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s
+G :  But it does happen .
+
+dialogue type : qy^d^g^rt
+G :  Right ?
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  I remember when I was when I I I I used , uh , um , a prominent laboratory 's , uh , uh , speech recognizer
+
+dialogue type : s
+G :  about , uh This was , boy , this was a while ago ,
+
+dialogue type : s^rt
+G :  this was about twelve twelve years ago or something .
+
+dialogue type : fh
+G :  And , um ,
+
+dialogue type : s
+G :  they were they were perturbed with me
+
+dialogue type : s
+G :  because I was breathing in instead of breathing out .
+
+dialogue type : s
+G :  And they had models for they they had Markov models for br breathing out
+
+dialogue type : s
+G :  but they didn't have them for breathing in .
+
+dialogue type : fh
+G : 
+
+dialogue type : %-
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : %-
+G :  I
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s
+G :  It it 's going to be imperfect .
+
+dialogue type : s
+G :  You 're not gonna get it perfect .
+
+dialogue type : s^cs
+G :  And you can do some , uh , you know , first - order thing about it ,
+
+dialogue type : s^cs^e
+G :  which is to have people move it , uh , uh , a away from being just directly in front of the middle
+
+dialogue type : s^e
+G :  but not too far away .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%--
+G :  Because you can't al you know , interfere w
+
+dialogue type : s
+G :  you can't fine tune the meeting that much , I think .
+
+dialogue type : %-
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Uh .
+
+dialogue type : s
+G :  And then there 's mass .
+
+dialogue type : s
+G :  Anyway .
+
+dialogue type : qw^rt
+G :  About what ?
+
+dialogue type : fg|%--
+G : 
+
+dialogue type : qh^cs^t
+G :  why don't we do that ?
+
+dialogue type : b^rt
+G :  Mm - hmm .
+
+dialogue type : qy^rt
+G :  Uh is it ?
+
+dialogue type : s^rt
+G :  Same thing .
+
+dialogue type : s^ar
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s
+G :  I mean , it 's it 's it 's always the same thing .
+
+dialogue type : qy^d^g^rt
+G :  Right ?
+
+dialogue type : s^cs.%--
+G : 
+
+dialogue type : s
+G :  we now think that laughter should have three sub sub sub - units in the the three states , uh different states .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%-
+G :  I mean , you know , eh , eh , it 's u
+
+dialogue type : s^bk
+G :  Yeah , yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^co^rt
+G :  Say hi for me .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^aa|s.%-
+G : 
+
+dialogue type : s
+G :  I 'm sure it 's very individual .
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  one thing that c that we 're not doing , of course , is we 're not claiming to , uh , get be getting a representation of mankind
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa
+G :  Uh , yeah .
+
+dialogue type : s^bk
+G :  And Yeah , r right .
+
+dialogue type : fh|qh
+G :  So , uh , who knows .
+
+dialogue type : fh
+G : 
+
+dialogue type : qh^cs^tc
+G :  Yeah . Why don why don't we just since we 're on this vein , why don't we just continue with , uh , what you were gonna say about the transcriptions
+
+dialogue type : fh
+G :  and ?
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Yes .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^cs
+G :  Right . Well Well , you know , it might be something we 'd wanna do with some , uh , s small subset of the whole thing .
+
+dialogue type : s
+G :  We certainly wouldn't wanna do it with everything .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : s
+G :  The other thing we could do , actually , uh , is , uh , use them for a more detailed analysis of the overlaps .
+
+dialogue type : qy^d^g^rt
+G :  Right ?
+
+dialogue type : s^aap
+G :  Well , that 's one way to do it .
+
+dialogue type : s^cs^ng
+G :  But I 've been saying the other thing is just go through it for the overlaps .
+
+dialogue type : qy^d^f^g^rt
+G :  Right ?
+
+dialogue type : s.%--
+G :  Given that y and and do so instead of doing phonetic , uh , uh , transcription for the whole thing ,
+
+dialogue type : s
+G :  which we know from the Steve 's experience with the Switchboard transcription is , you know , very , very time - consuming .
+
+dialogue type : s^df
+G :  And and you know , it took them I don't know how many months to do to get four hours .
+
+dialogue type : s
+G :  And so that hasn't been really our focus .
+
+dialogue type : s
+G :  Uh , we can consider it .
+
+dialogue type : s
+G :  But , I mean , the other thing is since we 've been spending so much time thinking about overlaps is is maybe get a much more detailed analysis of the overlaps .
+
+dialogue type : s^t^tc
+G :  But anyway , I 'm I 'm open to c our consideration .
+
+dialogue type : s
+G :  I I don't wanna say that by fiat .
+
+dialogue type : s
+G :  I 'm open to every consideration of what are some other kinds of detailed analysis that would be most useful .
+
+dialogue type : fh
+G :  And , uh , uh ,
+
+dialogue type : s
+G :  I I I think this year we we actually , uh , can do it .
+
+dialogue type : s
+G :  It 's a we have we have due to @ @ variations in funding we have we seem to be doing , uh , very well on m money for this this year ,
+
+dialogue type : s
+G :  and next year we may have have much less .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s
+G :  Uh , I mean , calendar year two thousand one .
+
+dialogue type : fh|s
+G :  Yeah . So it 's uh , it 's we don't wanna hire a bunch of people , a long - term staff ,
+
+dialogue type : s
+G :  because the the funding that we 've gotten is sort of a big chunk for this year .
+
+dialogue type : s
+G :  But having temporary people doing some specific thing that we need is actually a perfect match to that kind of , uh , funding .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Yeah . Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : %-
+G : 
+
+dialogue type : s
+G :  I remember when we were transcribing BeRP , uh , uh , uh , Ron Kay , uh , volunteered to to do some of that .
+
+dialogue type : s^rt
+G :  And , he was the first first stuff he did was transcribing Chuck .
+
+dialogue type : s^rt
+G :  And he 's saying " You you know , I always thought Chuck spoke really well . "
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b.%
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  It could be that they will uh theirs will end up being a kind of fir first pass or something .
+
+dialogue type : s
+G :  Maybe an elaborate one ,
+
+dialogue type : s
+G :  cuz again they probably are gonna do these alignments ,
+
+dialogue type : s
+G :  which will also clear things up .
+
+dialogue type : s^am
+G :  Well , tha that 's that 's debatable .
+
+dialogue type : qy^d^f^g^rt
+G :  Right ?
+
+dialogue type : s
+G :  I mean , so the so the argument is that if your statistical system is good it will in fact , uh , clean things up .
+
+dialogue type : qy^d^f
+G :  Right ?
+
+dialogue type : s
+G :  So it it 's got its own objective criterion .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%--
+G :  I mean , to give an example of , um , something we used to do , uh , at one point , uh , back back when Chuck was here
+
+dialogue type : s.%--
+G :  in early times ,
+
+dialogue type : s.%--
+G :  is we would take ,
+
+dialogue type : s.%--
+G :  um , da take a word and , uh , have a canonical pronunciation
+
+dialogue type : s
+G :  and , uh , if there was five phones in a word , you 'd break up the word , uh , into five equal - length pieces
+
+dialogue type : s
+G :  which is completely gross .
+
+dialogue type : qy^d^f^g^rt
+G :  Right ?
+
+dialogue type : s
+G :  I mean , th the timing is off all over the place in just about any word .
+
+dialogue type : sj^ba^df^rt
+G :  But it 's O K .
+
+dialogue type : s
+G :  You start off with that and the statistical system
+
+dialogue type : s
+G :  then aligns things ,
+
+dialogue type : s^rt
+G :  and eventually you get something that doesn't really look too bad .
+
+dialogue type : s^bs
+G :  So so I think using a a good aligner , um , actually can can help a lot .
+
+dialogue type : fh
+G :  Um . But , uh ,
+
+dialogue type : s
+G :  you know , they both help each other .
+
+dialogue type : s
+G :  If you have a if you have a better starting point , then it helps the aligner .
+
+dialogue type : s
+G :  If you have a good alignment , it helps the , uh , th the human in in taking less time to correct things .
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b.%
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  Meaning really isn't my thing .
+
+dialogue type : fg
+G : 
+
+dialogue type : s
+G :  We 're running a little short here .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  eh , was p Well , you know , the thing I 'm concerned about is we wanted to do these digits
+
+dialogue type : s
+G :  and and I haven't heard , uh , from Jose yet .
+
+dialogue type : fh
+G : 
+
+dialogue type : fh
+G : 
+
+dialogue type : h
+G : 
+
+dialogue type : s^ng.%--
+G :  I I I think it you know , another another bunch of digits .
+
+dialogue type : s^df
+G :  More data is good .
+
+dialogue type : s^rt
+G :  So so I 'd like to do that .
+
+dialogue type : s.%--
+G :  But I think , do you , maybe ,
+
+dialogue type : fh
+G :  eh ?
+
+dialogue type : qy^rt
+G :  Did you prepare some whole thing you wanted us just to see ?
+
+dialogue type : qrr
+G :  Or what was that ?
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : h|qw.%-
+G :  Uh , how long a ?
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yes .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : fg
+G :  OK .
+
+dialogue type : s
+G :  But the bottom line is it 's still not , uh , separating out very well .
+
+dialogue type : qy^d^g^rt
+G :  Right ?
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : %-
+G : 
+
+dialogue type : s^co^tc
+G :  that 's that 's enough then .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^df
+G :  No , I mean , that there 's no point in going through all of that if that 's the bottom line , really .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : fh|s
+G :  Uh , I mean , there there 's two suggestions , really ,
+
+dialogue type : s.%--
+G :  which is , uh what we said before is that ,
+
+dialogue type : fh
+G :  um ,
+
+dialogue type : s.%--
+G :  it looks like ,
+
+dialogue type : s
+G :  at least that you haven't found an obvious way to normalize
+
+dialogue type : s
+G :  so that the energy is anything like a reliable , uh , indicator of the overlap .
+
+dialogue type : fh|s
+G :  Um , I I 'm I 'm still a little f think that 's a little funny . These things l @ @ seems like there should be ,
+
+dialogue type : s
+G :  but but you don't want to keep , uh keep knocking at it if it 's if you 're not getting any any result with that .
+
+dialogue type : s
+G :  But , I mean , the other things that we talked about is , uh , pitch - related things and harmonicity - related things ,
+
+dialogue type : s
+G :  so which we thought also should be some kind of a reasonable indicator .
+
+dialogue type : fh
+G : 
+
+dialogue type : fh
+G :  But , uh ,
+
+dialogue type : s
+G :  a completely different tack on it wou is the one that was suggested , uh , by your colleagues in Spain ,
+
+dialogue type : s
+G :  which is to say , don't worry so much about the , uh , features .
+
+dialogue type : s^cs
+G :  That is to say , use , you know , as as you 're doing with the speech , uh , nonspeech , use some very general features .
+
+dialogue type : s^cs^e
+G :  And , uh , then , uh , look at it more from the aspect of modeling .
+
+dialogue type : s^e
+G :  You know , have a have a couple Markov models
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  and , uh , try to indi try to determine , you know , w when is th when are you in an overlap , when are you not in an overlap .
+
+dialogue type : s
+G :  And let the , uh , uh , statistical system determine what 's the right way to look at the data .
+
+dialogue type : %--
+G :  I I , um ,
+
+dialogue type : s^cs
+G :  I think it would be interesting to find individual features and put them together .
+
+dialogue type : s^df
+G :  I think that you 'd end up with a better system overall .
+
+dialogue type : s
+G :  But given the limitation in time and given the fact that Javier 's system already exists doing this sort of thing ,
+
+dialogue type : fh
+G :  uh , but , uh ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  maybe that 's a better place to go .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b^rt
+G :  Mm - hmm .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^am
+G :  Maybe .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^bk
+G :  I see .
+
+dialogue type : qy^rt
+G :  Ha - h have you ever looked at the , uh , uh Javier 's , uh , speech segmenter ?
+
+dialogue type : s^cs
+G :  Oh . Maybe m you could , you kn uh show Thilo that .
+
+dialogue type : s^df
+G :  Cuz again the idea is there the limitation there again was that he was he was only using it to look at silence as a as a as a as a p putative split point between speakers .
+
+dialogue type : s^cs
+G :  But if you included , uh , broadened classes then in principle maybe you can cover the overlap cases .
+
+dialogue type : b
+G : 
+
+dialogue type : %-
+G :  N n
+
+dialogue type : s^arp
+G :  Well , it 's sort of has a simple one .
+
+dialogue type : qy^d^g^rt
+G :  Right ?
+
+dialogue type : %-
+G : 
+
+dialogue type : qy
+G :  it 's just it 's just a isn't it just a Gaussian
+
+dialogue type : qy^e.%--
+G :  for each ?
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : qy^bu^d.%-
+G :  Oh , it doesn't have it doesn't have any temporal , uh ?
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s^no
+G :  I gues I guess I don't remember either .
+
+dialogue type : fh|s^df
+G :  Uh . It 's been a while .
+
+dialogue type : fh
+G :  Uh .
+
+dialogue type : s^bu.%--
+G : 
+
+dialogue type : s^bk
+G :  Oh , I see . I see .
+
+dialogue type : fh
+G : 
+
+dialogue type : s^co^t
+G :  O - k OK . So let me go back to what you had , though .
+
+dialogue type : fh
+G :  Um .
+
+dialogue type : s^cs.%--
+G : 
+
+dialogue type : s
+G :  I mean , it 's So you have two categories
+
+dialogue type : s
+G :  and you have Markov models for each .
+
+dialogue type : qy^rt
+G :  Couldn't you have a third category ?
+
+dialogue type : qy^d^e^rt
+G :  So you have , uh you have , uh , nonspeech , single - person speech , and multiple - person speech ?
+
+dialogue type : qy^d^g^rt
+G :  Right ?
+
+dialogue type : qy^d^rt
+G :  And then you have a Markov model for each ?
+
+dialogue type : s^bk
+G :  I see .
+
+dialogue type : s^bk^r
+G :  I see .
+
+dialogue type : %--
+G : 
+
+dialogue type : s^ba
+G :  This is all pretty gross .
+
+dialogue type : s
+G :  I mean , the th the reason why , uh , I was suggesting originally that we look at features is because I thought , well , we 're doing something we haven't done before ,
+
+dialogue type : s^cs.%--
+G : 
+
+dialogue type : s
+G :  It seems like if two people two or more people talk at once , it should get louder ,
+
+dialogue type : fh|s
+G :  uh , and , uh , uh , there should be some discontinuity in pitch contours ,
+
+dialogue type : fh|s
+G :  and , uh , there should overall be a , um , smaller proportion of the total energy that is explained by any particular harmonic sequence in the spectrum .
+
+dialogue type : s
+G :  So those are all things that should be there .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^t3
+G :  By the way , I was told I should be calling you Pepe ,
+
+dialogue type : fh
+G : 
+
+dialogue type : s^e
+G :  by your friends ,
+
+dialogue type : fh
+G :  but
+
+dialogue type : s^tc
+G :  Anyway ,
+
+dialogue type : fh
+G :  um ,
+
+dialogue type : s
+G :  uh , the has has , uh , been exploring , uh , e largely the energy issue
+
+dialogue type : fh
+G :  and ,
+
+dialogue type : fh
+G :  um ,
+
+dialogue type : s
+G :  as with a lot of things , it is not uh , like this , it 's not as simple as it sounds .
+
+dialogue type : s:qy
+G :  And then there 's , you know Is it energy ? Is it log energy ? Is it LPC residual energy ? Is it is it is it , uh , delta of those things ?
+
+dialogue type : s.%--:qw.%--
+G :  Uh , what is it no
+
+dialogue type : s
+G :  Obviously , just a simple number absolute number isn't gonna work .
+
+dialogue type : s:qw
+G :  So it should be with compared to what ?
+
+dialogue type : qy^rt
+G :  Should there be a long window for the normalizing factor and a short window for what you 're looking at ?
+
+dialogue type : s:qw
+G :  Or , you know , how b short should they be ?
+
+dialogue type : fh
+G :  So ,
+
+dialogue type : s
+G :  th he 's been playing around with a lot of these different things
+
+dialogue type : s
+G :  and and so far at least has not come up with any combination that really gave you an indicator .
+
+dialogue type : fh
+G :  So
+
+dialogue type : s
+G :  I I still have a hunch that there 's it 's in there some place ,
+
+dialogue type : s^cs
+G :  but it may be given that you have a limited time here , it it just may not be the best thing to to to focus on for the remaining of it .
+
+dialogue type : s
+G :  So pitch - related and harmonic - related , I 'm I 'm somewhat more hopeful for it .
+
+dialogue type : s.%--
+G :  But it seems like if we just wanna get something to work ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  Th - they were suggesting going to Markov models ,
+
+dialogue type : fh|s
+G :  uh , but in addition there 's an expansion of what Javier did .
+
+dialogue type : s
+G :  And one of those things , looking at the statistical component ,
+
+dialogue type : s
+G :  even if the features that you give it are maybe not ideal for it , it 's just sort of this general filter bank
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  Eee it 's in there somewhere probably .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^co
+G :  Let 's read some digits .
+

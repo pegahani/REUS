@@ -1,0 +1,1722 @@
+dialogue type : s
+B :  So ne next week we 'll have , uh , both Birger and , uh , Mike
+
+dialogue type : s^e
+B :  Michael Kleinschmidt
+
+dialogue type : s
+B :  and Birger Kollmeier will join us .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : qy^bu^d^rt
+B :  and you 're you 're probably gonna go up in a couple three weeks or so ?
+
+dialogue type : qw^e
+B :  When d when are you thinking of going up to , uh , OGI ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^ba|s
+B :  Good . So at least we 'll have one meeting with yo with you still around ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^ba
+B :  That 's good .
+
+dialogue type : qy^bu^d|qy^d^g
+B :  All today , huh ?
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s^ar|qy^bu^d^rt
+B :  No , this I 'm sorry , this is a conference call between different Aurora people
+
+dialogue type : qrr.%-
+B :  or just ?
+
+dialogue type : s
+B :  It 's the main conference call .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qw
+B :  And what are we sitting at currently ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bu^m
+B :  Two thirty .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bu
+B :  we have to reduce it by ten milliseconds somehow .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bu
+B :  W It 's it 's p d primary primarily determined by the VAD at this point ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^cs
+B :  S so we can make the VAD a little shorter .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^cs
+B :  Yeah . We probably should do that pretty soon so that we don't get used to it being a certain way .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy
+B :  Was Hari on the on the phone ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : x
+B :  Hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk.%
+B :  OK .
+
+dialogue type : qy^bu^d^rt
+B :  Uh , but th the two th two thirty includes the tandem network ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qy
+B :  And i is the tandem network , uh , small enough that it will fit on the terminal size
+
+dialogue type : s^e.%-
+B :  in terms of ?
+
+dialogue type : s^bk
+B :  No .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : qw.%-
+B :  Ho - how much memory d ? H how many ?
+
+dialogue type : s^bk|s^na
+B :  Yeah . I 'd like to see that ,
+
+dialogue type : s^df
+B :  cuz maybe I could think a little bit about it ,
+
+dialogue type : s^am^cs
+B :  cuz we maybe we could make it a little smaller
+
+dialogue type : s^ba
+B :  or I mean , it 'd be it 'd be neat if we could fit it all .
+
+dialogue type : s
+B :  Uh , I 'd like to see how far off we are .
+
+dialogue type : s^bu
+B :  But I guess it 's still within their rules to have have it on the , uh , t uh , server side .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qy^bu^d.%--
+B :  And this is still ?
+
+dialogue type : s.%--
+B :  Uh , well , y you 're saying here .
+
+dialogue type : s
+B :  I c I should just let you go on .
+
+dialogue type : b
+B :  Huh .
+
+dialogue type : qy.%--
+B :  Could ? Uh , uh ,
+
+dialogue type : s^fa
+B :  I 'm I 'm really sorry .
+
+dialogue type : qy
+B :  Can you repeat what you were saying about the silence probability ?
+
+dialogue type : %-
+B : 
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : qy^bu^d.%-
+B :  The VAD network is ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^aa|%--
+B : 
+
+dialogue type : s^ba.%
+B :  OK .
+
+dialogue type : qh^d^rt
+B :  We don't ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b.%
+B :  Hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  So , you know , in a way what it might i it 's it 's a little bit like combining knowledge sources .
+
+dialogue type : qy^d^f^g
+B :  Right ?
+
+dialogue type : s^df
+B :  Because the fact that you have these two nets that are different sizes means they behave a little differently ,
+
+dialogue type : s^e
+B :  they find different things .
+
+dialogue type : fh
+B :  And , um ,
+
+dialogue type : s
+B :  if you have , um f the distribution that you have from , uh , f speech sounds is w sort of one source of knowledge .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  and rather than just taking one minus that to get the other ,
+
+dialogue type : s
+B :  which is essentially what 's happening ,
+
+dialogue type : s
+B :  you have this other source of knowledge that you 're putting in there .
+
+dialogue type : s
+B :  So you make use of both of them in in what you 're ending up with .
+
+dialogue type : s^am
+B :  Maybe it 's better .
+
+dialogue type : fh|s.%-
+B :  Anyway , you can probably justify anything if what 's use
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Oh !
+
+dialogue type : s
+B :  That might be the key , actually .
+
+dialogue type : s^df
+B :  Cuz you were really thinking about speech versus nonspeech for that .
+
+dialogue type : s^ba
+B :  That 's a good point .
+
+dialogue type : b.%
+B :  Mm - hmm .
+
+dialogue type : s
+B :  I mean , back on the second stream ,
+
+dialogue type : s
+B :  I mean , that 's something we 've talked about for a while .
+
+dialogue type : s
+B :  I mean , I think that 's certainly a high hope .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : qy^bu^d^rt
+B :  so we have this this default idea about just using some sort of purely spectral thing ?
+
+dialogue type : s^e
+B :  for a second stream ?
+
+dialogue type : qw
+B :  But , uh , how was the stream combined ?
+
+dialogue type : s^bk|s^cs
+B :  Right . So , I mean , if you just had a second stream that was just spectral and had another neural net and combined there , that that , uh , might be good .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : fg|s^cs
+B :  Yeah . Maybe you just put in some other noise ,
+
+dialogue type : s^e
+B :  something that 's different .
+
+dialogue type : s
+B :  I mean , it it 's probably helpful to have have a little noise there .
+
+dialogue type : s
+B :  But it may be something else
+
+dialogue type : s.%--
+B :  th at least you could say it was .
+
+dialogue type : s
+B :  And then if it doesn't hurt too much , though .
+
+dialogue type : s^ba
+B :  Yeah . That 's a good idea .
+
+dialogue type : s^bu
+B :  So this is a particular human .
+
+dialogue type : s^bu^e
+B :  This is this i this is Stephane .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  There 's two problems there .
+
+dialogue type : s
+B :  I mean I mean , so so the first is that by doing LPC - twelve with synthesized speech w like you 're saying , uh , it 's i i you 're you 're adding other degradation .
+
+dialogue type : qy^d^f^g
+B :  Right ?
+
+dialogue type : s^e
+B :  So it 's not just the noise
+
+dialogue type : s^e
+B :  but you 're adding in fact some degradation
+
+dialogue type : s^df^e
+B :  because it 's only an approximation .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s
+B :  and the second thing is which is m maybe more interesting is that , um , if you do it with whispered speech , you get this number .
+
+dialogue type : qh^cs
+B :  What if you had done analysis re - synthesis and taken the pitch as well ?
+
+dialogue type : qy^d^f^g
+B :  Alright ?
+
+dialogue type : s
+B :  So now you put the pitch in .
+
+dialogue type : qh
+B :  What would the percentage be then ?
+
+dialogue type : s
+B :  See , that 's the question .
+
+dialogue type : s
+B :  So , you see , if it 's if it 's if it 's , uh Let 's say it 's back down to one percent again .
+
+dialogue type : s
+B :  That would say at least for people , having the pitch is really , really important ,
+
+dialogue type : s^ba
+B :  which would be interesting in itself .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s:s^ba
+B :  if i on the other hand , if it stayed up near five percent , then I 'd say " boy , LPC n twelve is pretty crummy " .
+
+dialogue type : qy^d^f
+B :  You know ?
+
+dialogue type : s^no
+B :  So I I I 'm not sure I 'm not sure how we can conclude from this anything about that our system is close to the human performance .
+
+dialogue type : s^nd.%--
+B : 
+
+dialogue type : qh.%-
+B : 
+
+dialogue type : qh^cs
+B :  What if you did LPC - twenty ?
+
+dialogue type : s
+B :  Twenty .
+
+dialogue type : qy^d^f^g
+B :  Right ?
+
+dialogue type : s^ba
+B :  I mean , th the thing is LPC is not a a really great representation of speech .
+
+dialogue type : s
+B :  So , all I 'm saying is that you have in addition to the w the , uh , removal of pitch , you also are doing , uh , a particular parameterization ,
+
+dialogue type : %--
+B :  which ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^t1
+B :  Uh , so , let 's see ,
+
+dialogue type : qw^t1.%-
+B :  how would you do ? So , fo
+
+dialogue type : s^ar|s^nd
+B :  No . Actually , we d we we don't ,
+
+dialogue type : s^df
+B :  because we do we do , uh , uh , mel filter bank , for instance .
+
+dialogue type : qy^d^f^g
+B :  Right ?
+
+dialogue type : s^bd^no
+B :  Um , I don't know what mel , uh , based synthesis would sound like ,
+
+dialogue type : s^df^ng
+B :  but certainly the spectra are quite different .
+
+dialogue type : s^aa|s
+B :  Yeah , it 's one percent .
+
+dialogue type : s
+B :  He 's trying to remove the pitch information
+
+dialogue type : s^e
+B :  and make it closer to what to what we 're seeing as the feature vectors .
+
+dialogue type : s
+B :  I mean We were we were j It it it 's a little bit still apples and oranges
+
+dialogue type : s
+B :  because we are choosing these features in order to be the best for recognition .
+
+dialogue type : fh
+B :  And , um ,
+
+dialogue type : s
+B :  i if you listen to them they still might not be very Even if you made something closer to what we 're gonna i it might not sound very good .
+
+dialogue type : s
+B :  Uh , and i the degradation from that might might actually make it even harder , uh , to understand than the LPC - twelve .
+
+dialogue type : s^bs
+B :  So all I 'm saying is that the LPC - twelve puts in synthesis
+
+dialogue type : s^e
+B :  puts in some degradation
+
+dialogue type : s
+B :  that 's not what we 're used to hearing ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  It 's not it 's not just a question of how much information is there , as if you will always take maximum advantage of any information that 's presented to you .
+
+dialogue type : s
+B :  In fact , you hear some things better than others .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fg|s
+B :  But , I agree that it says that , uh , the kind of information that we 're feeding it is probably , um , um , a little bit , um , minimal .
+
+dialogue type : s
+B :  There 's definitely some things that we 've thrown away .
+
+dialogue type : s
+B :  And that 's why I was saying it might be interesting if you an interesting test of this would be if you if you actually put the pitch back in .
+
+dialogue type : s
+B :  So , you just extract it from the actual speech and put it back in ,
+
+dialogue type : qh
+B :  and see does that is that does that make the difference ?
+
+dialogue type : s:s
+B :  If that if that takes it down to one percent again , then you 'd say " OK , it 's it 's in fact having , um , not just the spectral envelope but also the also the the pitch that , uh , @ @ has the information that people can use , anyway . "
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^aa|%-
+B : 
+
+dialogue type : s
+B :  It 's it 's one point four times , uh , to , uh , seven times the error ,
+
+dialogue type : s^e
+B :  for Stephane .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bd^no
+B :  uh , but i I don't know .
+
+dialogue type : s
+B :  I do don't wanna take you away from other things .
+
+dialogue type : s.%-
+B :  But that 's that 's what that 's the first thing that I would be curious about , is , you know , i i when you we
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg|s
+B : 
+
+dialogue type : s^r
+B :  L PC re - synthesis .
+
+dialogue type : fh|s^bu
+B :  So , uh and you did it with a noise source ,
+
+dialogue type : s^bu^e
+B :  rather than with with a s periodic source .
+
+dialogue type : qy^d^f^g
+B :  Right ?
+
+dialogue type : s
+B :  So if you actually did real re - synthesis like you do in an LPC synthesizer , where it 's unvoiced you use noise ,
+
+dialogue type : s
+B :  where it 's voiced you use , uh , periodic pulses .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : s^bd^na
+B :  Well , it might be hard to do it
+
+dialogue type : s^df^nd
+B :  but it but but the thing is that if you um , if you detect that there 's periodic s strong periodic components , then you can use a voiced voice thing .
+
+dialogue type : fg|s^bd
+B :  Yeah . I mean , it 's probably not worth your time .
+
+dialogue type : s^df^e
+B :  It 's it 's a side thing
+
+dialogue type : s^df^e
+B :  and and and there 's a lot to do .
+
+dialogue type : s^df
+B :  But I 'm I 'm just saying , at least as a thought experiment , that 's what I would wanna test .
+
+dialogue type : s
+B :  Uh , I wan would wanna drive it with a a a two - source system rather than a than a one - source system .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^df
+B :  Cuz we 've talked about , like , this harmonic tunneling or other things that people have done based on pitch ,
+
+dialogue type : s^am^cs
+B :  maybe that 's really a key element .
+
+dialogue type : s^am
+B :  Maybe maybe , uh , uh , without that , it 's it 's not possible to do a whole lot better than we 're doing .
+
+dialogue type : s^am
+B :  That that could be .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I mean , other than the pitch de information , it 's hard to imagine that there 's a whole lot more in the signal that that , uh that we 're throwing away that 's important .
+
+dialogue type : s^f|s^df
+B :  Right ? I mean , we 're using a fair number of filters in the filter bank
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : fg|%-
+B :  Yeah . That look
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  That 's that 's I mean , one one percent is sort of what I would I would figure .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I would actually think that if , you looked at people on various times of the day and different amounts of attention , you might actually get up to three or four percent error on digits .
+
+dialogue type : fh
+B : 
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B :  you know , we 're not we 're not incredibly far off .
+
+dialogue type : s
+B :  On the other hand , with any of these numbers except maybe the one percent , it 's st it 's not actually usable in a commercial system with a full telephone number or something .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^ba^tc
+B :  Good .
+
+dialogue type : s^cs^rt^t^tc
+B :  Um , while we 're still on Aurora stuff maybe you can talk a little about the status with the , uh , Wall Street Journal things for it .
+
+dialogue type : qy^bu^d
+B :  This is on clean test set ?
+
+dialogue type : qw
+B :  What kind of numbers are they getting on these on the test conditions ?
+
+dialogue type : s^aa|s^am
+B :  Yeah , that 's probably Aurora .
+
+dialogue type : %--
+B : 
+
+dialogue type : s^ba.%--
+B :  I I I don't find that surpri
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qw
+B :  W what 's what 's some of the lower error rates on on on uh , some of the higher error rates on , uh , some of these w uh , uh , highly mismatched difficult conditions ?
+
+dialogue type : qw^e.%--
+B :  What 's a ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Yeah . So twenty percent error rate on digits .
+
+dialogue type : s.%-
+B :  So if you 're doing so if you 're doing ,
+
+dialogue type : %-
+B :  you know ,
+
+dialogue type : %
+B : 
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s
+B :  and if you 're saying sixty - thousand word recognition , getting sixty percent error on some of these noise condition not at all surprising .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ba^fe
+B :  It 's a bad sign when you looking at the numbers , you can't tell whether it 's accuracy or error rate .
+
+dialogue type : qy^bu^d^rt
+B :  This is for the training ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg|s^df
+B :  Yeah . Cuz we have to get started ,
+
+dialogue type : s^df.%-
+B :  cuz it 's cuz , uh ,
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bk|s^ba
+B :  Oh ! Good .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B :  I guess the actual evaluation will be in six weeks or something .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : qy^rt
+B :  Is that about right you think ?
+
+dialogue type : qy^bu^d^m^rt
+B :  Really , we don't know ?
+
+dialogue type : b.%
+B :  Hmm .
+
+dialogue type : %-
+B :  Some
+
+dialogue type : s
+B :  I have to say , there 's uh something funny - sounding about saying that one of these big companies doesn't have enough cup compute power do that ,
+
+dialogue type : s^rt
+B :  so they 're having to have it done by Mississippi State .
+
+dialogue type : s^ba
+B :  It just just sounds funny .
+
+dialogue type : fh
+B :  But ,
+
+dialogue type : s^tc
+B :  anyway .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qh
+B :  The - there 's this question about , you know , what do you wanna scale ?
+
+dialogue type : s
+B :  Suppose y you can't adjust these word insertion penalties and so forth ,
+
+dialogue type : s
+B :  so you have to do everything at the level of the features .
+
+dialogue type : qh
+B :  What could you do ?
+
+dialogue type : s
+B :  And , uh , one thing I had suggested at an earlier time was maybe some sort of scaling ,
+
+dialogue type : s
+B :  some sort of root or or something of the , um , uh , features .
+
+dialogue type : s
+B :  But the problem with that is that isn't quite the same ,
+
+dialogue type : s
+B :  it occurred to me later ,
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : s^df
+B : 
+
+dialogue type : s^cs
+B :  is because we do this strange thing that we do with the tandem system , at least in that system what you could do is take the , um , uh , values that come out of the net ,
+
+dialogue type : s
+B :  which are something like log probabilities ,
+
+dialogue type : s
+B :  and scale those .
+
+dialogue type : s
+B :  And then , uh , um then at least those things would have the right values
+
+dialogue type : s^bsc
+B :  or the right the right range .
+
+dialogue type : s
+B :  And then that goes into the rest of it and then that 's used as observations .
+
+dialogue type : s
+B :  So it 's it 's , um , another way to do it .
+
+dialogue type : s^na
+B :  I know they 're not .
+
+dialogue type : s^m^na
+B :  I know they 're not .
+
+dialogue type : %--
+B :  But but ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^df
+B :  So because what we 're doing is pretty strange and complicated , we don't really know what the effect is at the other end .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^rt
+B :  I mean , they 're not used as probabilities ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  we 're taking advantage of the fact that something like log probabilities has more of a Gaussian shape than Gaus - than probabilities ,
+
+dialogue type : s
+B :  and so we can model them better .
+
+dialogue type : s
+B :  So , in a way we 're taking advantage of the fact that they 're probabilities ,
+
+dialogue type : s^df
+B :  because they 're this quantity that looks kind of Gaussian when you take it 's log .
+
+dialogue type : s
+B :  So , uh , maybe maybe it would have a a reasonable effect to do that .
+
+dialogue type : s^no
+B :  I d I don't know .
+
+dialogue type : s
+B :  But , I mean , I guess we still haven't had a a ruling back on this .
+
+dialogue type : s
+B :  And we may end up being in a situation where we just you know really can't change the word insertion penalty .
+
+dialogue type : s^cs.%--
+B : 
+
+dialogue type : s^bd^df
+B :  I mean , this this may not help us , uh , in the evaluation
+
+dialogue type : s
+B :  but it might help us in our understanding at least .
+
+dialogue type : s
+B :  We might , just run it with different insper insertion penalties ,
+
+dialogue type : s:s
+B :  and show that , uh , " well , OK , not changing it , playing the rules the way you wanted , we did this . But in fact if we did that , it made a a big difference . "
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy^bu^d
+B :  And just adjust it until it 's the best number ?
+
+dialogue type : fg|s^cs
+B :  Well , we can probably use the real thing ,
+
+dialogue type : qy^g
+B :  can't we ?
+
+dialogue type : s^cs^e
+B :  And then jus just , uh , use it on a reduced test set or something .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Yeah . So I mean , I I think that that 's a reasonable thing to do
+
+dialogue type : qh
+B :  and the only question is what 's the actual knob that we use ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  uh , uh , unfortunately , like I say , I don't know the analytic solution to this
+
+dialogue type : s^df
+B :  cuz what we really want to do is change the scale of the likelihoods ,
+
+dialogue type : s^e
+B :  not the cha not the scale of the the observations .
+
+dialogue type : fh
+B : 
+
+dialogue type : qy
+B :  Do they have the same sort of mix - down sort of procedure , where they start off with a small number of some things
+
+dialogue type : %-
+B :  and ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy
+B :  D Do you know what kind of tying they use ?
+
+dialogue type : qy^rt
+B :  Are they they sort of some sort of a bunch of Gaussians that they share across everything ?
+
+dialogue type : %-
+B :  Or or if it 's ?
+
+dialogue type : s^bk.%
+B :  OK .
+
+dialogue type : b.%
+B :  OK .
+
+dialogue type : s^t^tc.%--
+B : 
+
+dialogue type : s^bd^no
+B :  I I dunno if any of this is gonna come in in time to be relevant ,
+
+dialogue type : s
+B :  but , uh , we had talked about , uh , Guenter playing around , uh , uh , over in Germany
+
+dialogue type : s
+B :  and and , @ @ uh , possibly coming up with something that would , uh , uh , fit in later .
+
+dialogue type : s
+B :  Uh , I saw that other mail where he said that he uh , it wasn't going to work for him to do CVS .
+
+dialogue type : s^bu
+B :  So he just has it all sitting there .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  he might work on improving the noise estimate
+
+dialogue type : s
+B :  or on some histogram things ,
+
+dialogue type : fh
+B : 
+
+dialogue type : fg|s.%--
+B : 
+
+dialogue type : s
+B :  We we didn't talk about it at our meeting
+
+dialogue type : s
+B :  but I just saw the just read the paper .
+
+dialogue type : s^rt
+B :  Someone , I forget the name , and and Ney , uh , about histogram equalization ?
+
+dialogue type : qy^rt
+B :  Did you see that one ?
+
+dialogue type : s^aa|s^bd
+B :  Yeah . I mean , I just read the paper .
+
+dialogue type : s^bd^e
+B :  I didn't see the poster .
+
+dialogue type : s^bk|s
+B :  Yeah . But it 's a little more it it 's a little finer ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s
+B :  So they had like ten quantiles
+
+dialogue type : s
+B :  and and they adjust the distribution .
+
+dialogue type : s
+B :  So you you have the distributions from the training set ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  So this is just a a histogram of of the amplitudes , I guess .
+
+dialogue type : qy^d^f^g
+B :  Right ?
+
+dialogue type : s^rt
+B :  And then Um , people do this in image processing some .
+
+dialogue type : s
+B :  You have this kind of of histogram of of levels of brightness or whatever .
+
+dialogue type : s
+B :  And and and then , when you get a new new thing that you you want to adjust to be better in some way , you adjust it so that the histogram of the new data looks like the old data .
+
+dialogue type : s
+B :  You do this kind of piece - wise linear or , uh , some kind of piece - wise approximation .
+
+dialogue type : s
+B :  They did a uh one version that was piece - wise linear and another that had a power law thing between them between the points .
+
+dialogue type : fh
+B :  And , uh ,
+
+dialogue type : s
+B :  they said they s they sort of see it in a way as s for the speech case as being kind of a generalization of spectral subtraction in a way ,
+
+dialogue type : s^df
+B :  because , you know , in spectral subtraction you 're trying to get rid of this excess energy .
+
+dialogue type : s
+B :  Uh , you know , it 's not supposed to be there .
+
+dialogue type : fh
+B :  Uh and , uh ,
+
+dialogue type : s
+B :  this is sort of adjusting it for for a lot of different levels .
+
+dialogue type : s
+B :  And then they have s they have some kind of , uh , a floor or something ,
+
+dialogue type : s
+B :  so if it gets too low you don't don't do it .
+
+dialogue type : s
+B :  And they they claimed very nice results ,
+
+dialogue type : fh
+B : 
+
+dialogue type : h|s.%--
+B :  Um , I think this i
+
+dialogue type : s^no
+B :  You know , I don't remember that .
+
+dialogue type : qy.%-
+B :  Do you remember ?
+
+dialogue type : %-
+B : 
+
+dialogue type : %
+B : 
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^no
+B :  And I don't remember whether it was filter bank things
+
+dialogue type : s^e
+B :  or whether it was FFT bins
+
+dialogue type : fh
+B : 
+
+dialogue type : s^no.%
+B :  I don't remember that .
+
+dialogue type : s^2^na|s^aa
+B :  And how often they you 've seen them . Yeah .
+
+dialogue type : fg|s
+B : 
+
+dialogue type : s
+B :  So you don't have to change the training .
+
+dialogue type : s
+B :  You just do a measurement over the training .
+
+dialogue type : s
+B :  And then , uh , for testing , uh , you can do it for one per utterance .
+
+dialogue type : s
+B :  Even relatively short utterances .
+
+dialogue type : s
+B :  And they claim it it works pretty well .
+
+dialogue type : s.%-
+B :  I guess in pri
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s^na
+B :  In principle .
+
+dialogue type : s^bd^df
+B :  I didn't read carefully how they actually implemented it ,
+
+dialogue type : s^e
+B :  whether it was some , uh , on - line thing , or whether it was a second pass , or what .
+
+dialogue type : s
+B :  But but they That that was sort of the idea .
+
+dialogue type : s
+B :  So that that seemed , you know , different .
+
+dialogue type : qh
+B :  We 're sort of curious about , uh , what are some things that are , u u um , @ @ conceptually quite different from what we 've done .
+
+dialogue type : s^df
+B :  Cuz we you know , one thing that w that ,
+
+dialogue type : s
+B :  uh , Stephane and Sunil seemed to find , uh , was , you know , they could actually make a unified piece of software that handled a range of different things that people were talking about ,
+
+dialogue type : s
+B :  and it was really just sort of setting of different constants .
+
+dialogue type : s
+B :  And it would turn , you know , one thing into another .
+
+dialogue type : s
+B :  It 'd turn Wiener filtering into spectral subtraction , or whatever .
+
+dialogue type : s
+B :  But there 's other things that we 're not doing .
+
+dialogue type : s
+B :  So , we 're not making any use of pitch ,
+
+dialogue type : s
+B :  uh , uh , which again , might might be important ,
+
+dialogue type : s^df
+B :  uh , because the stuff between the harmonics is probably a schmutz .
+
+dialogue type : s^j
+B :  And and the , uh , transcribers will have fun with that .
+
+dialogue type : fh
+B :  Uh And , um ,
+
+dialogue type : s
+B :  the , uh , stuff at the harmonics isn't so much .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  And we there 's this overall idea of really sort of matching the the hi distributions somehow .
+
+dialogue type : s.%--
+B :  Uh , not just ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  not just subtracting off your estimate of the noise .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^bu^t^tc
+B :  So I guess , uh , Guenter 's gonna play around with some of these things now over this next period ,
+
+dialogue type : fh
+B :  or ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s
+B :  Well , he 's got it anyway ,
+
+dialogue type : s
+B :  so he can .
+
+dialogue type : s
+B :  So potentially if he came up with something that was useful , like a diff a better noise estimation module or something , he could ship it to you guys u up there
+
+dialogue type : fh
+B :  and
+
+dialogue type : s
+B :  we could put it in .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s^ba^tc
+B :  that 's good .
+
+dialogue type : fg|qh.%--
+B : 
+
+dialogue type : s
+B :  I think starting starting a w couple weeks from now , especially if you 're not gonna be around for a while , we 'll we 'll be shifting more over to some other other territory .
+
+dialogue type : fh
+B :  But , uh , uh , uh ,
+
+dialogue type : s
+B :  n not not so much in this meeting about Aurora ,
+
+dialogue type : fh
+B :  but but , uh ,
+
+dialogue type : s^cs^t^tc
+B :  uh , maybe just , uh , quickly today about maybe you could just say a little bit about what you 've been talking about with Michael .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^cs^t
+B :  and then Barry can say something about what what we 're talking about .
+
+dialogue type : b
+B :  Y yeah .
+
+dialogue type : s^2
+B :  Gets thrown out .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s.%-
+B :  So i so it 's actuall
+
+dialogue type : s^ng
+B :  Well , it 's it 's much simpler .
+
+dialogue type : s
+B :  But it 's but it 's uh , it 's there 's a lot number of things I like about it , let me just say .
+
+dialogue type : s
+B :  So , first thing , well , you 're absolutely right .
+
+dialogue type : s
+B :  I mean , i i in truth , both pieces of this are have their analogies in stuff we already do .
+
+dialogue type : s
+B :  But it 's a different take at how to approach it
+
+dialogue type : s
+B :  and potentially one that 's m maybe a bit more systematic than what we 've done ,
+
+dialogue type : s
+B :  uh , and a b a bit more inspiration from from auditory things .
+
+dialogue type : s
+B :  So it 's so I think it 's a neat thing to try .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Yeah , essentially , it 's it 's , uh , you know , PLP or or mel cepstrum , or something like that .
+
+dialogue type : s
+B :  You 've you 've got some , uh , compression .
+
+dialogue type : s
+B :  We always have some compression .
+
+dialogue type : s
+B :  We always have some you know , the the the kind of filter bank with a kind of quasi - log scaling .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  i RASTA the filtering being done in the log domain has an AGC - like , uh , characteristic , which , you know , people typi typically put in these kind of , uh , um , uh , auditory front - ends .
+
+dialogue type : s
+B :  So it 's very , very similar ,
+
+dialogue type : s
+B :  uh , but it 's not exactly the same .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s
+B :  I would agree that the second one is is somewhat more different
+
+dialogue type : s
+B :  but , um , it 's mainly different in that the things that we have been doing like that have been um , had a different kind of motivation and have ended up with different kinds of constraints .
+
+dialogue type : s|qy^d^f^g
+B :  So , for instance , if you look at the LDA RASTA stuff , you know , basically what they do is they they look at the different eigenvectors out of the LDA and they form filters out of it . Right ?
+
+dialogue type : s
+B :  And those filters have different , uh , kinds of temporal extents and temporal characteristics .
+
+dialogue type : s
+B :  And so in fact they 're multi - scale .
+
+dialogue type : s
+B :  But , they 're not sort of systematically multi - scale , like " let 's start here and go to there , and go to there , and go to there " , and so forth .
+
+dialogue type : s
+B :  It 's more like , you run it on this , you do discriminant analysis , and you find out what 's helpful .
+
+dialogue type : s^aa|s^na
+B :  Yeah . They use several of them .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Uh , I mean , you don't have to
+
+dialogue type : s^df
+B :  but but but , uh , Hynek has .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Hyn - when Hynek 's had people do this kind of LDA analysis , they 've done it on frequency direction
+
+dialogue type : s
+B :  and they 've done it on the time direction .
+
+dialogue type : s
+B : 
+
+dialogue type : s^e
+B : 
+
+dialogue type : s
+B :  and that would be the closest to these Gabor function kind of things .
+
+dialogue type : s
+B :  Uh , but I don't think they 've done that much of that .
+
+dialogue type : s.%--
+B :  And , uh , the other thing that 's interesting the the , uh the feature selection thing ,
+
+dialogue type : s
+B :  it 's a simple method ,
+
+dialogue type : s
+B :  but I kinda like it .
+
+dialogue type : s
+B :  Um , there 's a a old , old method for feature selection .
+
+dialogue type : s
+B :  I mean , eh , uh , I remember people referring to it as old when I was playing with it twenty years ago ,
+
+dialogue type : s
+B :  so I know it 's pretty old ,
+
+dialogue type : s
+B :  uh , called Stepwise Linear Discriminant Analysis
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I think it 's used in social sciences a lot .
+
+dialogue type : s
+B :  So , you you you you pick the best feature .
+
+dialogue type : s
+B :  And then you take y you find the next feature that 's the best in combination with it .
+
+dialogue type : s
+B :  And then so on and so on .
+
+dialogue type : s
+B :  And what what Michael 's describing seems to me much , much better ,
+
+dialogue type : s^df
+B :  because the problem with the stepwise discriminant analysis is that you don't know that you know , if you 've picked the right set of features .
+
+dialogue type : s^df
+B :  Just because something 's a good feature doesn't mean that you should be adding it .
+
+dialogue type : fh
+B :  So , um , uh ,
+
+dialogue type : s
+B :  here at least you 're starting off with all of them ,
+
+dialogue type : s
+B :  and you 're throwing out useless features .
+
+dialogue type : s^ba
+B :  I think that 's that seems , uh that seems like a lot better idea .
+
+dialogue type : s
+B :  Uh , you 're always looking at things in combination with other features .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s
+B :  so the only thing is , of course , there 's this this artificial question of of , uh , exactly how you how you a how you assess it
+
+dialogue type : s
+B :  and if if your order had been different in throwing them out .
+
+dialogue type : s
+B :  I mean , it still isn't necessarily really optimal ,
+
+dialogue type : s^ba^df
+B :  but it seems like a pretty good heuristic .
+
+dialogue type : s
+B :  So I th I think it 's it 's I think it 's kinda neat stuff .
+
+dialogue type : fh
+B :  And and and , uh ,
+
+dialogue type : s
+B :  the thing that I wanted to to add to it also was to have us use this in a multi - stream way .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s
+B :  so so that , um , when you come up with these different things , and these different functions , you don't necessarily just put them all into one huge vector ,
+
+dialogue type : s
+B :  but perhaps you have some of them in one stream and some of them in another stream , and so forth .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  And we 've also talked a little bit about , uh , uh , Shihab Shamma 's stuff ,
+
+dialogue type : s
+B :  in which you the way you look at it is that there 's these different mappings
+
+dialogue type : s
+B :  and some of them emphasize , uh , upward moving , uh , energy and fre and frequency .
+
+dialogue type : s
+B :  And some are emphasizing downward
+
+dialogue type : s^e
+B :  and fast things and slow things and and so forth .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  So there 's a bunch of stuff to look at .
+
+dialogue type : s
+B :  But , uh , I think we 're sorta gonna start off with what he , uh , came here with
+
+dialogue type : s
+B :  and branch out branch out from there .
+
+dialogue type : s
+B :  And his advisor is here , too , at the same time .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s
+B :  he 'll be another interesting source of wisdom .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b.%
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^2
+B :  Or the or features .
+
+dialogue type : qy^d^f^g
+B :  Right ?
+
+dialogue type : s^rt
+B :  I mean , y actually , you make me think a a very important point here is that , um , if we a again try to look at how is this different from what we 're already doing , uh , there 's a a , uh a nasty argument that could be made th that it 's it 's not different at at all ,
+
+dialogue type : s^df
+B :  because , uh if you ignore the the selection part
+
+dialogue type : s^df
+B :  because we are going into a a very powerful , uh , nonlinearity
+
+dialogue type : s
+B :  that , uh , in fact is combining over time and frequency ,
+
+dialogue type : s
+B :  and is coming up with its own you know , better than Gabor functions
+
+dialogue type : s
+B :  its , you know , neural net functions ,
+
+dialogue type : s
+B :  its whatever it finds to be best .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  But I I don't actually believe that argument
+
+dialogue type : s^df.%--
+B : 
+
+dialogue type : s
+B :  computing features is useful ,
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  You know , uh , if you 've you 've processed it in some way you 've typically lost something some information .
+
+dialogue type : fh|s
+B :  And so , you 've lost information and yet it does better with with features than it does with the waveform .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s
+B :  uh , I I know that i sometimes it 's useful to to constrain things .
+
+dialogue type : s
+B :  So that 's why it really seems like the constraint in in all this stuff it 's the constraints that are actually what matters .
+
+dialogue type : s^df
+B :  Because if it wasn't the constraints that mattered , then we would 've completely solved this problem long ago ,
+
+dialogue type : s^df
+B :  because long ago we already knew how to put waveforms into powerful statistical mechanisms .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : %-
+B :  Yeah
+
+dialogue type : fg
+B :  Uh ,
+
+dialogue type : s^2
+B :  then it would work .
+
+dialogue type : s^aa|s^na
+B :  Yeah , I agree .
+
+dialogue type : s^aa|s
+B :  Yeah . There 's the problem .
+
+dialogue type : s^aa|s
+B :  Yeah . Then it would work .
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  I mean , uh , we we have done experiments where we literally have put waveforms in
+
+dialogue type : fh
+B :  and and and , uh ,
+
+dialogue type : s
+B :  we kept the number of parameters the same and so forth ,
+
+dialogue type : s
+B :  and it used a lot of training data .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bd^df
+B :  not infinite
+
+dialogue type : s^df
+B : 
+
+dialogue type : s
+B :  and it it , uh it just doesn't do nearly as well .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  it 's not just having the maximum information ,
+
+dialogue type : s
+B :  you want to suppress , uh , the aspects of the input signal that are not helpful for for the discrimination you 're trying to make .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^t^tc.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s|qy^d^f^g
+B :  Be - before you get on the next part l let me just point out that s there 's there 's a a pretty nice relationship between what you 're talking about doing and what you 're talking about doing there . Right ?
+
+dialogue type : s
+B :  So , it seems to me that , you know , if you take away the the the difference of this primary features , and , say , you use as we had talked about maybe doing you use P - RASTA - PLP or something for the the primary features , um , then this feature discovery , uh , uh , thing is just what he 's talking about doing , too ,
+
+dialogue type : s
+B :  except that he 's talking about doing them in order to discover intermediate categories that correspond to these uh , uh , what these sub - features are are are are showing you .
+
+dialogue type : s
+B :  And , um , the other difference is that , um , he 's doing this in a in a multi - band setting ,
+
+dialogue type : s|qy^d^g^rt
+B :  which means that he 's constraining himself to look across time in some f relatively limited , uh , uh , spectral extent . Right ?
+
+dialogue type : s
+B :  And whereas in in this case you 're saying " let 's just do it unconstrained " .
+
+dialogue type : s
+B :  So they 're they 're really pretty related
+
+dialogue type : s
+B :  and maybe they 'll be at some point where we 'll see the the connections a little better
+
+dialogue type : s
+B :  and connect them .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qy^cs^rt
+B :  Should we do our digits
+
+dialogue type : s^e^rt
+B :  and get ou get our treats ?
+
+dialogue type : s^aa|s
+B :  Yeah . It 's kind of like , you know , the little rats with the little thing dropping down to them .
+
+dialogue type : s
+B :  We do the digits and then we get our treats .
+
+dialogue type : s^bk
+B :  OK .
+

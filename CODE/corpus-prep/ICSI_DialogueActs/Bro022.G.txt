@@ -1,0 +1,501 @@
+dialogue type : qw
+G :  Um , what is the reverberation time like there ?
+
+dialogue type : s^nd
+G :  On , uh , the the one what the s in the speech that you are you are using like ?
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^bk
+G :  Oh , this room ?
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm . Mm - hmm .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : qw^rt
+G :  With the with the HTK back - end ? What we have for Aurora ?
+
+dialogue type : s^ng
+G : 
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : s^bk
+G :  Oh .
+
+dialogue type : fg|s
+G :  No . The DC component could be negligible .
+
+dialogue type : s^df
+G :  I mean , if you are recording it through a mike .
+
+dialogue type : s^df
+G :  I mean , any all of the mikes have the DC removal some capacitor sitting right in that bias it .
+
+dialogue type : s^bk
+G :  Oh , OK .
+
+dialogue type : s^bk
+G :  Oh ,
+
+dialogue type : s^bu.%--
+G : 
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bu
+G :  It 's the A - toD that introduces the DC in .
+
+dialogue type : s^aa
+G :  Yeah . Yeah . Yeah .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  Oh , OK .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : %-
+G : 
+
+dialogue type : qr
+G :  And the acoustic models are like - k triphone models or or is it the whole word ?
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  It 's triphone .
+
+dialogue type : s^bu
+G :  Oh . It 's like the tied state .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s
+G :  Because w we were wondering whether that VAD is going to be , like , a realistic one or is it going to be some manual segmentation .
+
+dialogue type : s
+G :  And then , like , if if that VAD is going to be a realistic one , then we can actually use their markers to shift the point around , I mean , the way we want
+
+dialogue type : s^e.%--
+G : 
+
+dialogue type : s
+G :  I mean , rather than keeping the twenty frames , we can actually move the marker to a point which we find more suitable for us .
+
+dialogue type : s
+G :  But if that is going to be something like a manual , uh , segmenter , then we can't use that information anymore ,
+
+dialogue type : s^df
+G :  because that 's not going to be the one that is used in the final evaluation .
+
+dialogue type : s^no
+G :  So . We don't know what is the type of VAD which they 're going to provide .
+
+dialogue type : s^2
+G :  With some some gap .
+
+dialogue type : s
+G :  I mean , with some pauses in the center ,
+
+dialogue type : s
+G :  provided they meet that whatever the hang - over time which they are talking .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s
+G :  Then the they will just fill fill it up .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : fh
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  Yeah . Well , every everywhere has a delay associated with it .
+
+dialogue type : s
+G :  I mean , you still have to k always keep a buffer ,
+
+dialogue type : s
+G :  then only make a decision because you still need to smooth the decision further .
+
+dialogue type : s
+G :  So that 's always there .
+
+dialogue type : s^cs
+G :  Can smooth the SNR estimate , also .
+
+dialogue type : s^bu^rt|qy^d^g^rt
+G :  Your filter is a function of SNR . Hmm ?
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s.%--
+G :  Actually , it 's ,
+
+dialogue type : fh
+G : 
+
+dialogue type : fh
+G :  Uh .
+
+dialogue type : s^no
+G :  I don't know ,
+
+dialogue type : %--
+G : 
+
+dialogue type : s^cs
+G :  go ahead .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^cs
+G :  go ahead .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : fg
+G : 
+
+dialogue type : %--
+G :  u
+
+dialogue type : s^tc
+G :  th I 've been playing with this Wiener filter , like .
+
+dialogue type : s
+G :  And there are there were some bugs in the program ,
+
+dialogue type : s
+G :  so I was p initially trying to clear them up .
+
+dialogue type : s^df
+G :  Because one of the bug was I was assuming that always the VAD uh , the initial frames were silence .
+
+dialogue type : s
+G :  It always started in the silence state ,
+
+dialogue type : s
+G :  but it wasn't for some utterances .
+
+dialogue type : s
+G :  So the it wasn't estimating the noise initially ,
+
+dialogue type : s
+G :  and then it never estimated ,
+
+dialogue type : s^df
+G :  because I assumed that it was always silence .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^m^na
+G :  SpeechDat - Car Italian .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s
+G :  There 're a few cases , actually , which I found later , that there are .
+
+dialogue type : s
+G :  So that was one of the bugs that was there in estimating the noise .
+
+dialogue type : fh|s
+G :  And , uh , so once it was cleared , uh , I ran a few experiments with different ways of smoothing the estimated clean speech and how t estimated the noise and , eh , smoothing the SNR also .
+
+dialogue type : s
+G :  And so the the trend seems to be like , uh , smoothing the current estimate of the clean speech for deriving the SNR ,
+
+dialogue type : s^e
+G :  which is like deriving the Wiener filter ,
+
+dialogue type : s
+G :  seems to be helping . Then updating it quite fast
+
+dialogue type : s^e
+G :  using a very small time constant .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  the More smoothing is helping .
+
+dialogue type : s
+G :  But still it 's like it 's still comparable to the baseline .
+
+dialogue type : s
+G :  I haven't got anything beyond the baseline .
+
+dialogue type : s
+G :  But that 's , like , not using any Wiener filter .
+
+dialogue type : fh|s
+G :  And , uh , so I 'm I 'm trying a few more experiments with different time constants for smoothing the noise spectrum , and smoothing the clean speech , and smoothing SNR .
+
+dialogue type : s
+G :  So there are three time constants that I have .
+
+dialogue type : s
+G :  So , I 'm just playing around .
+
+dialogue type : s
+G :  So , one is fixed in the line , like Smoothing the clean speech is is helping ,
+
+dialogue type : s^cc
+G :  so I 'm not going to change it that much .
+
+dialogue type : s
+G :  But , the way I 'm estimating the noise and the way I 'm estimating the SNR , I 'm just trying trying a little bit .
+
+dialogue type : s.%--
+G :  So , that h
+
+dialogue type : s
+G :  And the other thing is , like , putting a floor on the , uh , SNR ,
+
+dialogue type : s^df.%--
+G :  because that if
+
+dialogue type : s^df
+G :  some In some cases the clean speech is , like when it 's estimated , it goes to very low values ,
+
+dialogue type : s
+G :  so the SNR is , like , very low .
+
+dialogue type : %--
+G :  And
+
+dialogue type : s
+G :  so that actually creates a lot of variance in the low - energy region of the speech .
+
+dialogue type : s
+G :  So , I 'm thinking of , like , putting a floor also for the SNR so that it doesn't vary a lot in the low - energy regions .
+
+dialogue type : fh|s.%--
+G : 
+
+dialogue type : s
+G :  So far I 've been testing only with the baseline , which is which doesn't have any LDA filtering and on - line normalization .
+
+dialogue type : s
+G :  I just want to separate the the contributions out .
+
+dialogue type : s^e
+G :  So it 's just VAD , plus the Wiener filter , plus the baseline system ,
+
+dialogue type : s^e
+G :  which is , uh , just the spectral I mean , the mel sp mel , uh , frequency coefficients .
+
+dialogue type : fh
+G :  Um .
+
+dialogue type : s
+G :  And the other thing that I tried was but I just took of those , uh , Carlos filters , which Hynek had ,
+
+dialogue type : s^df
+G :  to see whether it really h helps or not .
+
+dialogue type : s^df
+G :  I mean , it was just a a run to see whether it really degrades or it helps .
+
+dialogue type : %--
+G :  And
+
+dialogue type : s
+G :  it 's it seems to be like it 's not hurting a lot by just blindly picking up one filter
+
+dialogue type : s^e
+G :  which is nothing but a four hertz a band - pass m m filter on the cubic root of the power spectrum .
+
+dialogue type : s
+G :  So , that was the filter that Hy - uh , Carlos had .
+
+dialogue type : fh
+G :  And
+
+dialogue type : fh
+G : 
+
+dialogue type : s^df
+G :  Yeah . Just just to see whether it really it 's it 's is it worth trying or not .
+
+dialogue type : s
+G :  So , it doesn't seems to be degrading a lot on that .
+
+dialogue type : s
+G :  So there must be something that I can that can be done with that type of noise compensation also ,
+
+dialogue type : s
+G :  which I guess I would ask Carlos about that .
+
+dialogue type : s^e
+G :  I mean , how how he derived those filters
+
+dialogue type : fh
+G : 
+
+dialogue type : s^e
+G :  and where d if he has any filters which are derived on OGI stories , added with some type of noise which what we are using currently ,
+
+dialogue type : s^e
+G :  or something like that .
+
+dialogue type : s^cc.%--
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^m^na
+G :  Cubic root of power spectrum .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s
+G :  And I 'm , like , floating it to z zeros right now .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : fh
+G :  Uh ,
+
+dialogue type : s
+G :  it actually , uh , enhances the onset and offset of I mean , the the begin and the end of the speech .
+
+dialogue type : s
+G :  So it 's there seems to be , like , deep valleys in the begin and the end of , like , high - energy regions ,
+
+dialogue type : s^df
+G :  because the filter has , like , a sort of Mexican - hat type structure .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  when I look at the spectrogram , there are those deep valleys on the begin and the end of the speech .
+
+dialogue type : s
+G :  But the rest of it seems to be , like , pretty nice .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s
+G :  That 's something I observe using that filter .
+
+dialogue type : fh
+G : 
+
+dialogue type : fg
+G :  Yeah .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  because the filter doesn't have a really a deep negative portion ,
+
+dialogue type : s^df
+G :  so that it 's not really creating a lot of negative values in the cubic root .
+
+dialogue type : fh
+G :  So ,
+
+dialogue type : s^cc.%--
+G :  I 'll I 'll s may continue with that for some w
+
+dialogue type : s^cc
+G :  I 'll I 'll Maybe I 'll ask Carlos a little more about how to play with those filters ,
+
+dialogue type : s
+G :  and but while making this Wiener filter better .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s
+G :  That that 's it , Morgan .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^ng
+G :  I I I would actually m m didn't get enough time to work on the subspace last week .
+
+dialogue type : s^df
+G :  It was mostly about finding those bugs
+
+dialogue type : fh
+G :  and
+
+dialogue type : s^e
+G :  th you know , things ,
+
+dialogue type : s
+G :  and I didn't work much on that .
+
+dialogue type : s^t3
+G :  Pratibha .
+

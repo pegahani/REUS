@@ -1,0 +1,201 @@
+dialogue type : s.%-
+F :  Well the second one of those
+
+dialogue type : s^m
+F :  is already at IBM .
+
+dialogue type : s
+F :  That 's the one that we 're waiting to hear from them on .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s.%-
+F :  As soon as
+
+dialogue type : s
+F :  They 're the IBM set .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^rt
+F :  And so as soon as we hear from Brian that this one is OK
+
+dialogue type : s
+F :  and we get the transcript back
+
+dialogue type : s
+F :  and we find out that hopefully there are no problems matching up the transcript with what we gave them ,
+
+dialogue type : s^cc
+F :  then uh we 'll be ready to go and we 'll just send them the next four as a big batch ,
+
+dialogue type : s
+F :  and let them work on that .
+
+dialogue type : s^aa
+F :  Yes ,
+
+dialogue type : s^aa
+F :  exactly .
+
+dialogue type : s
+F :  We 're sort of doing things in parallel ,
+
+dialogue type : s^df
+F :  that way we can get as much done a at once .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : qw
+F :  What what kind of uh what does that look like ? The string that you type in .
+
+dialogue type : qr.%--
+F :  What are you are you are they keywords , or are they ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : qw
+F :  So what does the user see as the result of the query ?
+
+dialogue type : s
+F :  THISL .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Ah .
+
+dialogue type : qy^bu.%--:s
+F :  So if you typed in " small heads " or something you could
+
+dialogue type : s^2
+F :  get back a uh uh something that would let you click and listen to some audio where that phrase had occurred
+
+dialogue type : %-
+F :  or some
+
+dialogue type : s^ba
+F :  Yeah that sounds good .
+
+dialogue type : s^ba
+F :  That sounds really neat .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^bu.%-
+F :  And you have to have all the o
+
+dialogue type : qw
+F :  How does it play ?
+
+dialogue type : s^j
+F :  I hope he never listens to these meetings .
+
+dialogue type : qy^bu^d^rt
+F :  Tony Robinson ?
+
+dialogue type : qo
+F :  What about issues of playing sound files @ @ between the two platforms ?
+
+dialogue type : s
+F :  There 's another one .
+
+dialogue type : qy^d.%--
+F :  Start and end of each ?
+
+dialogue type : s^2^bk
+F :  Utterance .
+
+dialogue type : qy^bu^d
+F :  Just marks ?
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^aa^r
+F :  Right .
+
+dialogue type : s^co
+F :  Wait a minute ,
+
+dialogue type : qw^rt
+F :  how how w eh where is it in the Key file ?
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  I never knew we were supposed to put it in the Key file .
+
+dialogue type : qh^rt
+F :  Oh really ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^na
+F :  You mentioned it ,
+
+dialogue type : s^aa
+F :  yeah . Yeah .
+
+dialogue type : s^2
+F :  Text .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk|s
+F :  Oh ! OK . I didn't do that either .
+
+dialogue type : s
+F :  Takes me no time at all to edit these .
+
+dialogue type : s^2^j
+F :  I 'm not doing anything .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : qy^bu^d^rt
+F :  Them ?
+
+dialogue type : qy^bu^d^e^rt
+F :  There 's more than one ?
+
+dialogue type : s
+F :  I mean we 're transcribing it anyways ,
+
+dialogue type : qw^rt
+F :  why do we need notes ?
+
+dialogue type : s^cs
+F :  Summarize it from the transcription .
+
+dialogue type : s^2^rt
+F :  Doodle .
+
+dialogue type : qw
+F :  How do you synchronize the time in the CrossPad and the time of the recording ?
+

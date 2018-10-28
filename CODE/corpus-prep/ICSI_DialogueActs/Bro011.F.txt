@@ -1,0 +1,69 @@
+dialogue type : z
+F :  Channel B .
+
+dialogue type : fg
+F :  Oh um
+
+dialogue type : fh|s
+F :  Well um I haven't started writing the test yet , I 'm meeting with Adam today
+
+dialogue type : fh|s^rt
+F :  um and he 's going t show me the scripts he has for um running recognition on mee Meeting Recorder digits .
+
+dialogue type : fh|s.x
+F :  Uh I also um haven't got the code yet ,
+
+dialogue type : s.x
+F :  I haven't asked Hynek for for the for his code yet .
+
+dialogue type : s^df.x
+F :  Cuz I looked at uh Avendano 's thesis and I don't really understand what he 's doing yet
+
+dialogue type : s.x
+F :  but it it it sounded like um the channel normalization part um of his thesis um was done in a a bit of I don't know what the word is , a a bit of a rough way
+
+dialogue type : fh|s.%--
+F :  um it sounded like he um
+
+dialogue type : s.x
+F :  he he it it wasn't really fleshed out
+
+dialogue type : s.x
+F :  and maybe he did something that was interesting for the test situation
+
+dialogue type : s.x
+F :  but I I 'm not sure if it 's what I 'd wanna use
+
+dialogue type : s^cc
+F :  so I have to I have to read it more ,
+
+dialogue type : s
+F :  I don't really understand what he 's doing yet .
+
+dialogue type : %-
+F :  Uh I I 'm ho
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : fh|s
+F :  Well or I 'm hoping I 'm hoping Espen will do it .
+
+dialogue type : fh
+F :  Um
+
+dialogue type : %
+F :  u
+
+dialogue type : s
+F :  I I think he 's at least planning to do it for the cl close - mike cross - talk
+
+dialogue type : s
+F :  and so maybe I can just take whatever setup he has and use it .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : fg|s.%--
+F :  Well , although by the way .
+

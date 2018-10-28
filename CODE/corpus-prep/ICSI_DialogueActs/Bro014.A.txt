@@ -1,0 +1,1512 @@
+dialogue type : z
+A :  It 's not very significant .
+
+dialogue type : z
+A :  Ta
+
+dialogue type : s^ba
+A :  Great .
+
+dialogue type : qw^t3.%--
+A :  What 's wrong with ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^bu^d.%--
+A :  So you you run with three , two , two , five ? That 's a
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : h
+A :  Um .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s^rt
+A :  There was a conference call this Tuesday .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s^no
+A :  I don't know yet the what happened Tuesday ,
+
+dialogue type : s
+A :  but the points that they were supposed to discuss is still , uh , things like the weights ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg
+A :  Mmm .
+
+dialogue type : s^no
+A :  I have no idea .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : fg
+A :  Um ,
+
+dialogue type : fh
+A :  yeah .
+
+dialogue type : s
+A :  So the points were the the weights how to weight the different error rates that are obtained from different language and and conditions .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s
+A :  it 's not clear that they will keep the same kind of weighting .
+
+dialogue type : s
+A :  Right now it 's a weighting on on improvement .
+
+dialogue type : s.%--
+A :  Some people are arguing that it would be better to have weights on
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  well , to to combine error rates before computing improvement .
+
+dialogue type : fh|s
+A : 
+
+dialogue type : s
+A :  they they combine error rates ,
+
+dialogue type : s
+A :  but for the other languages they combine improvement .
+
+dialogue type : s
+A :  So it 's not very consistent .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  Well , this is a point .
+
+dialogue type : s
+A :  And right now actually there is a thing also , uh , that happens with the current weight is that a very non - significant improvement on the well - matched case result in huge differences in in the final number .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : x
+A :  In
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^nd
+A :  Tha - that 's what they do .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : s
+A :  And so when you average the the relative improvement it tends to to give a lot of of , um , importance to the well - matched case
+
+dialogue type : s^df
+A :  because the baseline is already very good
+
+dialogue type : fh
+A :  and ,
+
+dialogue type : fh
+A :  um ,
+
+dialogue type : %--
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^2^rt
+A :  Combine error rates
+
+dialogue type : s.%--
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg
+A : 
+
+dialogue type : s
+A :  But there is this this is this still this problem of weights .
+
+dialogue type : s^rt
+A :  When when you combine error rate it tends to give more importance to the difficult cases ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  well , they have different , um , opinions about this .
+
+dialogue type : s^e
+A :  Some people think that it 's more important to look at to have ten percent imp relative improvement on well - matched case than to have fifty percent on the m mismatched ,
+
+dialogue type : s^e
+A :  and other people think that it 's more important to improve a lot on the mismatch
+
+dialogue type : fh
+A : 
+
+dialogue type : %--
+A :  So , bu
+
+dialogue type : s^fe
+A :  l de fff !
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : h|s.%--
+A : 
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s
+A :  Medium mismatch is everything with the far microphone ,
+
+dialogue type : s
+A :  but trained on , like , low noisy condition ,
+
+dialogue type : s^e
+A :  like low speed
+
+dialogue type : s^e
+A :  and or stopped car
+
+dialogue type : s
+A :  and tested on high - speed conditions , I think ,
+
+dialogue type : s^e
+A :  like on a highway
+
+dialogue type : fh
+A : 
+
+dialogue type : fh
+A : 
+
+dialogue type : s^m^na
+A :  Same microphone
+
+dialogue type : %--
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yeah ,
+
+dialogue type : s
+A :  but there is probably a a big change that will be made
+
+dialogue type : s
+A :  is that the the baseline th they want to have a new baseline , perhaps ,
+
+dialogue type : s^e
+A :  which is , um , MFCC
+
+dialogue type : s^e
+A :  but with a voice activity detector .
+
+dialogue type : s
+A :  And apparently , uh , some people are pushing to still keep this fifty percent number .
+
+dialogue type : s
+A :  So they want to have at least fifty percent improvement on the baseline ,
+
+dialogue type : s^e
+A :  but w which would be a much better baseline .
+
+dialogue type : s^rt
+A :  And if we look at the result that Sunil sent , just putting the VAD in the baseline improved , like , more than twenty percent ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : x
+A : 
+
+dialogue type : s^m^na
+A :  Right now , nobody would be there ,
+
+dialogue type : fh
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Uh - huh .
+
+dialogue type : h|s
+A :  Uh , they didn't decide yet .
+
+dialogue type : s^e
+A :  I guess i this was one point of the conference call also ,
+
+dialogue type : fh
+A : 
+
+dialogue type : fh
+A :  mmm ,
+
+dialogue type : s^no
+A :  so I don't know .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : fh
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : %
+A :  M
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fh
+A :  I don't know
+
+dialogue type : fh
+A :  w Yeah .
+
+dialogue type : fh
+A :  Uh , yeah .
+
+dialogue type : s
+A :  Per - e s s someone told that perhaps it 's not fair to do that because the , um to make a good VAD you don't have enough to with the the features that are the baseline features .
+
+dialogue type : fh
+A : 
+
+dialogue type : fh
+A :  mmm ,
+
+dialogue type : s
+A :  you need more features .
+
+dialogue type : s^cs
+A :  So you really need to put more more in the in in the front - end .
+
+dialogue type : %--
+A :  So i
+
+dialogue type : %--
+A :  S
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg
+A :  Yeah ,
+
+dialogue type : s.%-
+A :  if i
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^ng
+A :  That 's not clear ,
+
+dialogue type : s.%--
+A :  but this e
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg
+A :  Um .
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : fg
+A :  So
+
+dialogue type : s^co^tc
+A :  we 'll see what happen with this .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^rt
+A :  well , from OGI , these experiments on putting VAD on the baseline .
+
+dialogue type : s
+A :  And these experiments also are using , uh , some kind of noise compensation ,
+
+dialogue type : s
+A :  so spectral subtraction ,
+
+dialogue type : s
+A :  and putting on - line normalization , um , just after this .
+
+dialogue type : s
+A :  So I think spectral subtraction , LDA filtering , and on - line normalization ,
+
+dialogue type : s^e
+A :  so which is similar to the pro proposal - one , but with spectral subtraction in addition ,
+
+dialogue type : s
+A :  and it seems that on - line normalization doesn't help further when you have spectral subtraction .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^no
+A :  I have no idea ,
+
+dialogue type : s^df
+A :  because the issue I brought up was with a very simple spectral subtraction approach ,
+
+dialogue type : s^rt
+A :  and the one that they use at OGI is one from from the proposed the the the Aurora prop uh , proposals ,
+
+dialogue type : s^e
+A :  which might be much better .
+
+dialogue type : fh
+A :  So , yeah .
+
+dialogue type : s
+A :  I asked Sunil for more information about that ,
+
+dialogue type : fh
+A :  but , uh ,
+
+dialogue type : s^no
+A :  I don't know yet .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^rt
+A :  so we have this kind of new , um , reference system which use a nice a a clean downsampling - upsampling ,
+
+dialogue type : s^e
+A :  which use a new filter that 's much shorter
+
+dialogue type : s^e
+A :  and which also cuts the frequency below sixty - four hertz ,
+
+dialogue type : s^e^rt
+A :  which was not done on our first proposal .
+
+dialogue type : %--
+A :  I
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s^ar^r
+A :  No .
+
+dialogue type : s^df^rt
+A :  Because we 're still testing .
+
+dialogue type : s
+A :  So we have the result for , uh , just the features
+
+dialogue type : s^rt
+A :  and we are currently testing with putting the neural network in the KLT .
+
+dialogue type : fh|s^rt
+A :  Um , it seems to improve on the well - matched case ,
+
+dialogue type : fh|s^rt
+A : 
+
+dialogue type : s^df
+A :  I mean when we put the neural network .
+
+dialogue type : s
+A :  And with the current weighting I think it 's sh it will be better
+
+dialogue type : s^df
+A :  because the well - matched case is better .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s
+A :  It 's like , uh , fff , fff um , ten percent relative .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  Uh - y w when I say it 's worse , it 's not it 's when I I uh , compare proposal - two to proposal - one ,
+
+dialogue type : fh
+A :  so ,
+
+dialogue type : x
+A :  r
+
+dialogue type : fh|s
+A :  uh , y putting neural network compared to n not having any neural network .
+
+dialogue type : s
+A :  I mean , this new system is is is better ,
+
+dialogue type : s^df^rt
+A :  because it has um , this sixty - four hertz cut - off ,
+
+dialogue type : fh|s^df^rt
+A :  uh , clean downsampling ,
+
+dialogue type : fh
+A :  and ,
+
+dialogue type : fh|qw
+A :  um what else ?
+
+dialogue type : s^bk|s
+A :  Uh , yeah , a good VAD .
+
+dialogue type : s
+A :  We put the good VAD .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : fh|%--
+A :  Yeah , I don't know . I I j uh , uh pr
+
+dialogue type : s^m^na
+A : 
+
+dialogue type : %--
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s.%-
+A :  And so
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^df^na
+A :  Mainly because of the sixty - four hertz and the good VAD .
+
+dialogue type : s
+A :  And then I took this system and , mmm , w uh , I p we put the old filters also .
+
+dialogue type : s^rt
+A :  So we have this good system , with good VAD ,
+
+dialogue type : s
+A :  with the short filter and with the long filter ,
+
+dialogue type : fh
+A :  and ,
+
+dialogue type : fh
+A :  um ,
+
+dialogue type : s
+A :  with the short filter it 's not worse .
+
+dialogue type : fh
+A : 
+
+dialogue type : qy^g
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : fg
+A : 
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^na
+A :  Probably , yeah .
+
+dialogue type : fg
+A : 
+
+dialogue type : fg
+A :  So , yeah .
+
+dialogue type : fh
+A :  Uh .
+
+dialogue type : s^bk|s^rt^tc
+A :  Yeah , but it 's a good thing anyway to have shorter delay .
+
+dialogue type : s
+A :  Then we tried , um , to do something like proposal - two
+
+dialogue type : s
+A :  but having , um , e using also MSG features .
+
+dialogue type : s
+A :  So there is this KLT part , which use just the standard features ,
+
+dialogue type : s
+A :  and then two neura two neural networks .
+
+dialogue type : fh
+A :  Mmm ,
+
+dialogue type : fh|s
+A :  and it doesn't seem to help .
+
+dialogue type : fh|s
+A :  Um , however , we just have one result ,
+
+dialogue type : s^e
+A :  which is the Italian mismatch ,
+
+dialogue type : fh
+A :  so .
+
+dialogue type : fh
+A :  Uh .
+
+dialogue type : s
+A :  We have to wait for that to fill the whole table ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : fh|s^aa^r
+A :  Um , yeah .
+
+dialogue type : s
+A :  So basically we try to , uh , find good features that could be used for voicing detection ,
+
+dialogue type : fh|s.%--
+A :  uh , but it 's still , uh on the ,
+
+dialogue type : fh
+A : 
+
+dialogue type : x
+A :  t
+
+dialogue type : s
+A :  we w basically we are still playing with Matlab to to look at at what happened ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s^rt
+A :  So we would be looking at , um , the variance of the spectrum of the excitation ,
+
+dialogue type : s^rt
+A :  something like this ,
+
+dialogue type : s^e^rt
+A :  which is should be high for voiced sounds .
+
+dialogue type : fh
+A :  Uh ,
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%-
+A :  So basically the spectrum of the excitation for a purely periodic sig signal shou sh
+
+dialogue type : %
+A :  e
+
+dialogue type : s^aa
+A :  That 's right .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : fg
+A : 
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s
+A :  So we have the mel f filter bank ,
+
+dialogue type : s
+A :  we have the FFT ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  No .
+
+dialogue type : s^aa
+A :  Yeah , that 's right .
+
+dialogue type : fh
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s^bk
+A :  E yeah ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : fg
+A :  So ,
+
+dialogue type : fg
+A :  well ,
+
+dialogue type : s
+A :  for unvoiced portion we have something tha that has a mean around O point three ,
+
+dialogue type : s
+A :  and for voiced portion the mean is O point fifty - nine .
+
+dialogue type : s^rt
+A :  But the variance seem quite high .
+
+dialogue type : %--
+A : 
+
+dialogue type : fh
+A :  Mmm .
+
+dialogue type : s
+A :  We used , uh , TIMIT
+
+dialogue type : s
+A :  and we used canonical mappings between the phones
+
+dialogue type : fh
+A :  and
+
+dialogue type : fh
+A :  th Yeah .
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : %--
+A : 
+
+dialogue type : s^aa^r
+A :  Yeah .
+
+dialogue type : s
+A :  Uh , so it 's noisy TIMIT .
+
+dialogue type : s^aa
+A :  That 's right .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s
+A :  It seems quite robust to noise ,
+
+dialogue type : s
+A :  so when we take we draw its parameters across time for a clean sentence and then nois the same noisy sentence , it 's very close .
+
+dialogue type : s^bk|s
+A :  Yeah . So there are there is this .
+
+dialogue type : s
+A :  There could be also the , um something like the maximum of the auto - correlation function
+
+dialogue type : fh
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  Right now we just are trying to find some features .
+
+dialogue type : fh
+A :  And ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s^bk|s.%--
+A :  Yeah . Hopefully , I think what we want to have is to put these features in s some kind of ,
+
+dialogue type : fh
+A : 
+
+dialogue type : fh|s
+A :  well , to to obtain a statistical model on these features
+
+dialogue type : s^rt
+A :  and to or just to use a neural network
+
+dialogue type : s
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^ba^m
+A :  Except the variance is quite high .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : fg|s.%--
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s^r.%--
+A : 
+
+dialogue type : fh|s
+A :  well , using the th the FFT , um , you just it gives you just information about if it 's voiced or not voiced , ma mainly , I mean .
+
+dialogue type : fh
+A :  But So ,
+
+dialogue type : s
+A :  this is why we we started to look by having sort of voiced phonemes
+
+dialogue type : fh
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : h|s^no
+A :  Uh , I guess we don't know exactly yet .
+
+dialogue type : fh
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : %--
+A :  Th
+
+dialogue type : h|s^aa
+A :  Uh , no .
+
+dialogue type : s^aa^r
+A :  No .
+
+dialogue type : s^df^rt
+A :  No , the idea was , I guess , to to use them as as features .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^rt
+A :  Yeah , it could be , uh it could be a neural network that does voiced and unvoiced detection ,
+
+dialogue type : s^rt
+A :  but it could be in the also the big neural network that does phoneme classification .
+
+dialogue type : fh
+A :  Mmm .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : h|s.%--
+A : 
+
+dialogue type : qw^t3
+A :  How did we do it up again ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : %--
+A :  S
+
+dialogue type : s
+A :  Yeah . I think we have linear interpolation .
+
+dialogue type : s^rt
+A :  So we have we have one point for one energy for each filter bank ,
+
+dialogue type : s^e^rt
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  That 's right .
+
+dialogue type : s^m^na
+A :  Then we compute the difference .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : %
+A :  So .
+
+dialogue type : s
+A :  And I think the variance is computed only from , like , two hundred hertz to one to fifteen hundred .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^nd
+A :  Fifteen hundred .
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : s^df
+A :  Well , some voiced sound can have also , like , a noisy part on high frequencies ,
+
+dialogue type : fh
+A : 
+
+dialogue type : %--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^t3.%--
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s
+A :  In log domain .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : b
+A :  Uh , yeah .
+
+dialogue type : fg
+A :  So .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s
+A :  What happen if what we have have what we would like to have is some spectrum of the excitation signal ,
+
+dialogue type : s^e
+A :  which is for voiced sound ideally
+
+dialogue type : s^e
+A :  a a pulse train
+
+dialogue type : s
+A :  and for unvoiced it 's something that 's more flat .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  well , we have the we have the FFT because it 's computed in in the in the system ,
+
+dialogue type : s^rt
+A :  and we have the mel filter banks ,
+
+dialogue type : s
+A :  and so if we if we , like , remove the mel filter bank from the FFT , we have something that 's close to the excitation signal .
+
+dialogue type : s^e^rt
+A :  It 's something that 's like a a a train of p a pulse train for voiced sound
+
+dialogue type : s.%--
+A : 
+
+dialogue type : %--
+A :  So - It 's Y
+
+dialogue type : s^aa
+A :  yeah .
+
+dialogue type : qy^rt
+A :  You have several some unvoiced ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : fg
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  This is another voiced example .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Oh , yeah .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  So , of course , it 's around zero ,
+
+dialogue type : %--
+A : 
+
+dialogue type : fh
+A :  Well ,
+
+dialogue type : s^ar
+A :  no .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^na
+A :  It 's the pitch .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^t3.%--
+A : 
+
+dialogue type : qy^r^t3
+A :  do you have the mean for the auto - correlation ?
+
+dialogue type : s^nd^t3
+A :  Well , I mean for the the energy .
+
+dialogue type : s^t3
+A :  They should be more close .
+
+dialogue type : s^bk^t3
+A :  Yeah .
+
+dialogue type : s^t3.%--
+A : 
+
+dialogue type : s^t3
+A :  this is there is less difference .
+
+dialogue type : s^t3
+A :  This is less it 's less robust .
+
+dialogue type : b
+A :  Oh , yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg
+A : 
+
+dialogue type : s^bk
+A :  Yeah . Well .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^na
+A :  It seems ,
+
+dialogue type : s^aa
+A :  yeah .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s^ar
+A :  No , no , no .
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^aa
+A :  Y y y yeah .
+
+dialogue type : s^na^r.%--
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yeah ,
+
+dialogue type : %--
+A : 
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : s
+A :  This is kind of inter interesting also
+
+dialogue type : s^df
+A :  because if we use the standard , uh , frame length of of , like , twenty - five milliseconds , um , what happens is that for low - pitched voiced , because of the frame length , y you don't really have you don't clearly see this periodic structure ,
+
+dialogue type : s^df
+A :  because of the first lobe of of each each of the harmonics .
+
+dialogue type : s
+A :  So , this is like yeah , fifty milliseconds or something like that .
+
+dialogue type : s
+A :  Yeah , but it 's the same frame
+
+dialogue type : fh
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : fg
+A :  So , yeah .
+
+dialogue type : s
+A :  I see that .
+
+dialogue type : s^bk
+A :  Oh , yeah .
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : s
+A :  So with a short frame basically you have only two periods
+
+dialogue type : s
+A :  and it 's not not enough to to have this kind of neat things .
+
+dialogue type : %--
+A : 
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : s^cs
+A :  So probably we 'll have to use , like , long f long frames .
+
+dialogue type : fh
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : h|s^am
+A :  Uh , maybe .
+
+dialogue type : fh
+A :  Mmm .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s
+A :  I guess it depends .
+
+dialogue type : s^bk^m
+A :  How they 're doing it ?
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s
+A :  I guess Ericsson is on the , um , filter bank ,
+
+dialogue type : qy^d^g^rt
+A :  no ?
+
+dialogue type : s
+A :  It 's on the filter bank ,
+
+dialogue type : fh
+A :  so .
+
+dialogue type : fh
+A :  So , yeah ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^aa
+A :  I i it Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : h
+A :  Uh . Yeah ,
+
+dialogue type : s
+A :  that 's all .
+
+dialogue type : s^cc
+A :  So we 'll perhaps try to convince OGI people to use the new the new filters
+
+dialogue type : fh
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : h
+A :  Uh ,
+
+dialogue type : s^nd
+A :  not yet
+
+dialogue type : s^cc
+A :  but I wi I will call them
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  now they are I think they have more time
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : s
+A :  well , Eurospeech deadline is over
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  It 's , um , in June .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^no
+A :  I don't know
+
+dialogue type : %--
+A :  w
+
+dialogue type : %
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : z
+A :  Right .
+

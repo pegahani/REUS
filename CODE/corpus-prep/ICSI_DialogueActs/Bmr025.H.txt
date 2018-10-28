@@ -1,0 +1,1095 @@
+dialogue type : qy^rt^t
+H :  Does anyone have anything to add to the agenda ?
+
+dialogue type : fg
+H :  Um
+
+dialogue type : qy^rt
+H :  as a somewhat segue into the next topic , um could I get a hold of uh the data even if it 's not really corrected yet
+
+dialogue type : s^df^e
+H :  just so I can get the data formats
+
+dialogue type : s^df^e
+H :  and make sure the information retrieval stuff is working ?
+
+dialogue type : qy.%-
+H :  So can you just
+
+dialogue type : qh^rt
+H :  Oh , it is .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : qy^bu^d^rt
+H :  Just So , " transcripts " is the sub - directory ?
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : s^cc
+H :  So I 'll I 'll probably just make some copies of those
+
+dialogue type : s^e
+H :  rather than use the ones that are there .
+
+dialogue type : fh|s^co
+H :  Um and then just we 'll have to remember to delete them once the corrections are made .
+
+dialogue type : s.%
+H :  It 's this one .
+
+dialogue type : qy^rt^t1
+H :  Is my mike on ?
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : qy^bu^d^rt
+H :  And so we 're doing those as disjoint from the ones we 're transcribing here ?
+
+dialogue type : s^bk
+H :  OK , good .
+
+dialogue type : s^na
+H :  Yeah , I think that 's the right way to do it ,
+
+dialogue type : s^e
+H :  especially for the information retrieval stuff .
+
+dialogue type : qy^d^rt^t
+H :  Anything else on transcription status ?
+
+dialogue type : s^bk^rt
+H :  OK .
+
+dialogue type : fg|%--
+H : 
+
+dialogue type : s
+H :  So I 've been working on using the THISL tools to do information retrieval on meeting data
+
+dialogue type : s
+H :  and the THISL tools are there 're two sets , there 's a back - end and a front - end ,
+
+dialogue type : s
+H :  so the front - end is the user interface
+
+dialogue type : s
+H :  and the back - end is the indexing tool and the querying tool .
+
+dialogue type : s
+H :  And so I 've written some tools to convert everything into the right for file formats .
+
+dialogue type : s
+H :  And the command line version of the indexing and the querying is now working .
+
+dialogue type : s
+H :  So at least on the one meeting that I had the transcript for uh conveniently you can now do information retrieval on it ,
+
+dialogue type : s^e
+H :  do type in a a string and get back a list of start - end times for the meeting ,
+
+dialogue type : s^e
+H :  uh of hits .
+
+dialogue type : s^aa^m
+H :  Keywords .
+
+dialogue type : s
+H :  Right ? And so and then it munges it to pass it to the THISL IR which uses an SGML - like format for everything .
+
+dialogue type : s^na
+H :  Um , right now , I have a tool that will do that on a command line using our standard tools ,
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s^cs^t:qw
+H :  So so that 's the other thing I wanted to discuss , is well what should we do for the user interface ?
+
+dialogue type : s
+H :  We have two tools that have already been written .
+
+dialogue type : fh|s
+H :  Um the SoftSound guys did a web - based one ,
+
+dialogue type : fh|s
+H :  um , which I haven't used , haven't looked at .
+
+dialogue type : s
+H :  Dan says it 's pretty good
+
+dialogue type : s
+H :  but it does mean you need to be running a web server .
+
+dialogue type : s
+H :  And so it it 's pretty big and complex .
+
+dialogue type : fh|s
+H :  Uh and it would be difficult to port to Windows
+
+dialogue type : s^df
+H :  because it means porting the web server to Windows .
+
+dialogue type : s
+H :  Uh the other option is Dan did the Tcl - TK THISL GUI front - end
+
+dialogue type : s^ba
+H :  which I think looks great .
+
+dialogue type : s^ba
+H :  I think that 's a nice demo .
+
+dialogue type : s
+H :  Um and that would be much easier to port to Windows .
+
+dialogue type : s^cs
+H :  And so I think that 's the way we should go .
+
+dialogue type : s^aa
+H :  Mm - hmm .
+
+dialogue type : s
+H : 
+
+dialogue type : s
+H :  So it 's uh term frequency , inverse document frequency scoring .
+
+dialogue type : fh|s
+H :  Um and then there are all sorts of metrics for spacing
+
+dialogue type : s^e
+H :  how far apart they have to be and things like that .
+
+dialogue type : s.%-
+H :  So it it 's
+
+dialogue type : s^na
+H :  i it 's like doing a Google query or anyth anything else like that .
+
+dialogue type : s
+H :  So i it uses So it pr produces an index ahead of time
+
+dialogue type : s
+H :  so you don't you 're not doing a linear search through all the documents .
+
+dialogue type : s
+H :  Cuz you can imagine if with if we have the sixty hours ' worth you do wouldn't wanna do a search .
+
+dialogue type : s
+H :  Um you have to do preindexing
+
+dialogue type : s
+H :  and so that these tools do all that .
+
+dialogue type : s.%--
+H : 
+
+dialogue type : fh|s
+H :  well uh to get it to work on the UNIX systems , our side is just rewriting them and modifying them to work for meetings .
+
+dialogue type : s
+H :  So that it understands that they 're different speakers and that it 's one big audio file instead of a bunch of little ones and just sorta things like that .
+
+dialogue type : qw^bu
+H :  On which tool ?
+
+dialogue type : s
+H :  The THISL GUI tool which is the one that Dan wrote , Tcl - TK
+
+dialogue type : fh|s
+H :  um you type in a query and then you get back a list of hits
+
+dialogue type : s
+H :  and you can type on them and listen to them .
+
+dialogue type : s^bsc
+H :  Click on them rather with a mouse .
+
+dialogue type : s^aa|%-
+H : 
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s:s^j
+H :  You you 'd get to listen to " beep " .
+
+dialogue type : s^j
+H :  You couldn't get a video .
+
+dialogue type : s^bk
+H :  Right .
+
+dialogue type : s
+H :  And so I think there 'd be minimal effort to get it to work , minimally
+
+dialogue type : s^cs:s
+H :  and then we 'd wanna add things like query by speaker and by meeting and all that sort of stuff .
+
+dialogue type : s
+H :  Um Dave Gelbart expressed some interest in working on that
+
+dialogue type : s^cc
+H :  so I 'll work with him on it .
+
+dialogue type : s
+H :  And it it 's looking pretty good ,
+
+dialogue type : s^e
+H :  you know , the fact that I got the query system working .
+
+dialogue type : s^ba^cs
+H :  So if we wanna just do a video - based one I think that 'll be easy .
+
+dialogue type : s
+H :  If we wanna get it to Windows it 's gonna be a little more work
+
+dialogue type : s^df.%--
+H :  because the THISL IR , the information retrieval tool 's um ,
+
+dialogue type : s^df
+H :  I had difficulty just compiling them on Solaris .
+
+dialogue type : s
+H :  So getting them to compile on Windows might be challenging .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : s^na
+H :  It certainly helps .
+
+dialogue type : s
+H :  Um , I mean without those I wouldn't even attempt it .
+
+dialogue type : s
+H :  But what those they what those do is provide sort of a BSD compatibility layer ,
+
+dialogue type : s
+H :  so that the normal UNIX function calls all work .
+
+dialogue type : fh
+H :  Um ,
+
+dialogue type : s
+H :  But the problem is that that the THISL tools didn't use anything like Autoconf
+
+dialogue type : s
+H :  and so you have the normal porting problems of different header files and th some things are defined and some things aren't
+
+dialogue type : s
+H :  and uh different compiler work - arounds and so on .
+
+dialogue type : s
+H :  So the fact that um it took me a day to get it c to compile under Solaris means it 's probably gonna take me s significantly more than that to get it to compile under Windows .
+
+dialogue type : s^ba^na
+H :  Free BSD would probably be easier .
+
+dialogue type : s^aa
+H :  That 's true .
+
+dialogue type : s^cc
+H :  Actually you know I should check
+
+dialogue type : s^df
+H :  because he did port it to SPRACHcore
+
+dialogue type : s
+H :  so he might have done that already .
+
+dialogue type : s^cc
+H : 
+
+dialogue type : s^aa
+H :  Yeah , right .
+
+dialogue type : s^aa
+H :  Right .
+
+dialogue type : s^aa.%
+H :  That 's right .
+
+dialogue type : fg|s.%--
+H : 
+
+dialogue type : s
+H :  Blanking on his name .
+
+dialogue type : qy^no^rt
+H :  Do I mean Tony ?
+
+dialogue type : s^aa
+H :  I guess I do .
+
+dialogue type : s^e
+H :  Or S or Steve Renals .
+
+dialogue type : qw
+H :  Which one do I mean ?
+
+dialogue type : s^bd
+H :  My brain is not working ,
+
+dialogue type : s^no
+H :  I don't remember who I 've been corresponding with .
+
+dialogue type : s
+H :  Then it 's Steve Renals .
+
+dialogue type : s
+H :  So uh just getting documentation and uh and f and formats ,
+
+dialogue type : s^ba
+H :  so that 's all going pretty well ,
+
+dialogue type : s
+H :  I think we 'll be OK with that .
+
+dialogue type : h
+H :  Um
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s^ba
+H :  Well , that 's a good point too .
+
+dialogue type : s^no
+H :  I don't know .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s^r
+H : 
+
+dialogue type : s^ba
+H :  Having him volunteer to work on it is a really good thing
+
+dialogue type : s^df
+H :  because he 's worked on the Transcriber stuff
+
+dialogue type : s^df
+H :  and he 's more familiar with Tcl - TK than I am .
+
+dialogue type : s^ng
+H :  Well that 's Snack , not not Transcriber .
+
+dialogue type : s^aa|s
+H :  Yeah , yeah , I mean , I I think THISL THISL GUI probably uses Snack .
+
+dialogue type : s
+H :  And so my intention was just to base it on that .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s^bk|s^cc
+H :  Right , we 'll have to figure out a user interface for that , so .
+
+dialogue type : s^am
+H :  Yeah .
+
+dialogue type : s
+H :  It might be fairly difficult to get that to work in the little short segments we 'd be talking about
+
+dialogue type : s^e
+H :  and having the search tools and so on .
+
+dialogue type : s^cc
+H :  We we can look into it ,
+
+dialogue type : fh
+H : 
+
+dialogue type : s^cc
+H :  Yeah , I mean we have to I have to sit down and try it before I make too many judgments ,
+
+dialogue type : fh
+H :  so uh
+
+dialogue type : fh
+H :  Um
+
+dialogue type : s
+H :  My experience with the Gnu compatibility library is really it 's just as hard and just as easy to port to any system .
+
+dialogue type : qy^d^f^g
+H :  Right ?
+
+dialogue type : s
+H :  The Windows system isn't any harder
+
+dialogue type : s^df
+H :  because it it looks like a BSD system .
+
+dialogue type : s
+H :  It 's just , you know , just like all of them , the " include " files are a little different and the function calls are a little different .
+
+dialogue type : s
+H :  So I it might be a little easier
+
+dialogue type : s^e
+H :  but it 's not gonna be a lot easier .
+
+dialogue type : s^aa^rt
+H :  Mm - hmm .
+
+dialogue type : s^aa^rt
+H :  Mm - hmm ,
+
+dialogue type : s^2
+H :  ranked .
+
+dialogue type : s
+H :  This month .
+
+dialogue type : s^fa|s^bsc
+H :  Oh sorry , next month .
+
+dialogue type : s
+H :  Today isn't June first ,
+
+dialogue type : qy^d^g
+H :  is it .
+
+dialogue type : fh
+H :  Um .
+
+dialogue type : s
+H :  So I 've been doing a bunch of XML tools
+
+dialogue type : s
+H :  where you we 're sort of moving to XML as the general format for everything
+
+dialogue type : s^ba
+H :  and I think that 's definitely the right way to go
+
+dialogue type : s^df
+H :  because there are a lot of tools that let you do extraction and reformatting of XML tools .
+
+dialogue type : fh
+H :  Um .
+
+dialogue type : s^cs
+H :  So yet again we should probably meet to talk about transcription formats in XML
+
+dialogue type : s^df
+H :  because I 'm not particularly happy with what we have now .
+
+dialogue type : s
+H :  I mean it works with Transcriber
+
+dialogue type : s
+H :  but it it 's a pain to use it in other tools
+
+dialogue type : s^df
+H :  uh because it doesn't mark start and end .
+
+dialogue type : h
+H : 
+
+dialogue type : s^2
+H :  Utterance .
+
+dialogue type : s
+H :  So it 's implicit in in there
+
+dialogue type : s
+H :  but you have to do a lot of processing to get it .
+
+dialogue type : s^cs
+H :  And so and also I 'd like to do the indirect time line business .
+
+dialogue type : s
+H :  Um but regardless , I mean , w that 's something that you , me , and Jane can talk about later .
+
+dialogue type : fh|s
+H :  Um , but I 've installed XML tools of various sorts in various languages
+
+dialogue type : s
+H :  and so if people are interested in doing extracting any information from any of these files ,
+
+dialogue type : s^e
+H : 
+
+dialogue type : s^e
+H :  I 'm converting the Key files to XML so that you can extract m uh various inf uh sorted information on individual meetings
+
+dialogue type : s^e
+H :  and then also the transcripts .
+
+dialogue type : s^co
+H : 
+
+dialogue type : s
+H :  it 's mostly Java and Perl
+
+dialogue type : s^cs
+H :  but we can get other languages too if if that 's desirable .
+
+dialogue type : s^aap.%-
+H :  The seat information is on the Key files for the ones which
+
+dialogue type : s
+H :  it 's been recorded ,
+
+dialogue type : s^aa
+H :  yeah .
+
+dialogue type : s
+H :  Where where you 're sitting .
+
+dialogue type : s^aa
+H :  Right .
+
+dialogue type : s^ba^j
+H :  " It 's pretty soft and squishy . "
+
+dialogue type : s^j
+H :  Oh , but that might just be me .
+
+dialogue type : fh
+H :  Um .
+
+dialogue type : s^cs^j
+H :  Maybe we should bleep that out .
+
+dialogue type : s^aa
+H :  Right .
+
+dialogue type : s^rt
+H :  The square bracket .
+
+dialogue type : s^bu
+H :  You haven't been putting it in .
+
+dialogue type : s^bk
+H :  Oh , OK .
+
+dialogue type : s^aa|s^cs
+H :  Yeah so we can go back and fill them in for the ones we have .
+
+dialogue type : s
+H :  I had told you guys about it
+
+dialogue type : fh
+H : 
+
+dialogue type : s^df
+H :  I mean this is why I wanna use a g a tool to do it rather than the plain text
+
+dialogue type : s^df
+H :  because with the plain text it 's very easy to skip those things .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : s.%--
+H :  Um if you use the Edit - key ,
+
+dialogue type : s^bsc^rt
+H : 
+
+dialogue type : s^rt
+H : 
+
+dialogue type : qy^rt
+H :  Did I show you guys that ?
+
+dialogue type : s
+H :  I did show it to you ,
+
+dialogue type : s:s
+H :  but I think you both said " no , you 'll just use text file " .
+
+dialogue type : fh|s
+H :  Um it has it in there , a place to fill it in .
+
+dialogue type : s
+H :  Yeah , and so if you don't fill it in , you 're not gonna get it in the meetings .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : s^rt
+H :  Yeah and then the other thing also that Thilo noticed is , on the microphone ,
+
+dialogue type : s^rt:s
+H :  on channel zero it says hand - held mike or Crown mike ,
+
+dialogue type : s^co
+H :  you actually have to say which one .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : s.%-
+H :  Yeah that 's cuz you kn
+
+dialogue type : s
+H :  I I know why .
+
+dialogue type : s:s
+H :  And then uh also in a couple of places instead of filling the participants under " participants " they were filled in under " description " .
+
+dialogue type : s
+H :  And so that 's also a problem .
+
+dialogue type : s^tc
+H :  So anyway .
+
+dialogue type : s^tc
+H :  That 's it .
+
+dialogue type : fg|s^rt
+H :  Oh uh also I 'm working on another version of this tool ,
+
+dialogue type : s^e
+H :  the the one that shows up here , that will flash yellow if the mike isn't connected .
+
+dialogue type : s
+H :  And it 's not quite ready to go yet
+
+dialogue type : s
+H :  because um it 's hard to tell whether the mike 's connected or not
+
+dialogue type : s^rt
+H :  because the best quality ones , the Crown ones , are about the same level if they 're off
+
+dialogue type : s^e
+H :  and no one 's o off or if they 're on and no one 's talking .
+
+dialogue type : s
+H :  Um these these ones , they are much easier ,
+
+dialogue type : s^df
+H :  there 's a bigger difference .
+
+dialogue type : s
+H :  So I 'm working on that
+
+dialogue type : s
+H :  and it it sorta works
+
+dialogue type : s^cc
+H :  and so eventually we will change to that
+
+dialogue type : s^df
+H :  and then you 'll be able to see graphically if your mike is dropping in or out .
+
+dialogue type : s^aa
+H :  Yep .
+
+dialogue type : s^aa
+H :  Yep .
+
+dialogue type : s^aa^r
+H :  Yep .
+
+dialogue type : %-
+H : 
+
+dialogue type : s^cc
+H :  Well I 'll turn off the screensaver too .
+
+dialogue type : fh|s
+H :  Um the other thing is as I 've said before , it is actually on
+
+dialogue type : s^e
+H :  the thing .
+
+dialogue type : s
+H :  There 's a little level meter
+
+dialogue type : s
+H :  but of course no one ever pays attention to it .
+
+dialogue type : s
+H :  So I think having it on the screen is more easy to notice .
+
+dialogue type : s^2^j
+H :  Uh buzzer .
+
+dialogue type : s^fe
+H :  " Bamp , bamp ! "
+
+dialogue type : qy^d^rt^t^tc
+H :  OK , disk backup , et cetera ?
+
+dialogue type : s
+H :  Um I spoke with Dave Johnson about putting all the Meeting Recorder stuff on non - backed - up disk to save the overhead of backup
+
+dialogue type : s:s
+H :  and he pretty much said " yeah , you could do that if you want "
+
+dialogue type : s^ba
+H :  but he thought it was a bad idea .
+
+dialogue type : s^ba^rt
+H :  In fact what he said is doing the manual one , doing uh NW archive to copy it is a good idea
+
+dialogue type : s
+H :  and we should do that and have it backed up .
+
+dialogue type : s
+H :  He w he 's a firm believer in in lots of different modalities of backup .
+
+dialogue type : s
+H :  I mean , his point was well taken .
+
+dialogue type : s^df
+H :  This data cannot be recovered .
+
+dialogue type : s
+H :  And so if a mistake is made and we lose the backup we should have the archive
+
+dialogue type : s
+H :  and if then a mistake is made and we lose the archive we should have the backup .
+
+dialogue type : s^2
+H :  Just just the monthly full .
+
+dialogue type : s
+H :  Yeah . But he said that that we sh shouldn't worry too much about that ,
+
+dialogue type : s^df
+H :  that we 're getting a new backup system
+
+dialogue type : s
+H :  and we 're far enough away from saturation on full backups that it 's w probably OK .
+
+dialogue type : fh|s
+H :  And uh , so the only issue here is the timing between getting more disks and uh recording meetings .
+
+dialogue type : s^na
+H :  Things that are recreatable easily and also Yeah , basically things that are recreatable .
+
+dialogue type : s
+H :  The expanded files and things like that .
+
+dialogue type : s
+H :  They take up a lot more room anyway .
+
+dialogue type : s
+H :  Uh but we do need more disk .
+
+dialogue type : s^aa
+H :  Yeah .
+
+dialogue type : s
+H :  And I I think I agree with him .
+
+dialogue type : s
+H :  I mean his point was well taken that if we lose one of these we cannot get it back .
+
+dialogue type : s^t
+H :  I don't think there was any other et cetera there .
+
+dialogue type : h|s^ng
+H :  Um unfortunately we could burn C Ds but first of all it 's a pain .
+
+dialogue type : s^df^rt
+H :  Because you have to copy it down to the PC and then burn it
+
+dialogue type : s^e^rt
+H :  and that 's a multi - step procedure .
+
+dialogue type : s
+H :  And second of all the the write - once burners as opposed to a professional press don't last .
+
+dialogue type : s^ba
+H :  So I think burning them for distribution is fine
+
+dialogue type : s^ba
+H :  but burning them for backup is not a good idea .
+
+dialogue type : s^df
+H :  Cuz th they they fail after a couple years .
+
+dialogue type : s
+H :  Yes , since Tcl - TK runs on it , basically things 'll just work .
+
+dialogue type : s
+H :  Uh got an email from uh James Landay
+
+dialogue type : s^e:qy
+H :  who basically said " if you 're not using them , could you return them ? "
+
+dialogue type : s
+H :  So he said he doesn't need them , he just periodically w at the end of each term sends out email to everyone who was recorded as having them
+
+dialogue type : s
+H :  and asks them if they 're still using them .
+
+dialogue type : s^nd
+H :  We we used them a couple times ,
+
+dialogue type : fh
+H : 
+
+dialogue type : s^aa|s^na
+H :  Yeah , we have two .
+
+dialogue type : fg
+H :  Um .
+
+dialogue type : s.%--
+H :  My opinion on it is ,
+
+dialogue type : s
+H :  first , I never take notes anyway
+
+dialogue type : s
+H :  so I 'm not gonna use it ,
+
+dialogue type : fh|s
+H :  um and second , it 's another level of infrastructure that we have to deal with .
+
+dialogue type : s
+H :  And then you can download it
+
+dialogue type : s
+H :  and they have OCR and searching and all sorts of things .
+
+dialogue type : s
+H :  So i if you take notes it 's a great little device .
+
+dialogue type : s
+H :  But I don't take notes ,
+
+dialogue type : fh
+H :  so .
+
+dialogue type : s^aa
+H :  Yep .
+
+dialogue type : s^aa|s
+H :  Yep , and then just sort of died out .
+
+dialogue type : s^aa
+H :  Yeah that 's right .
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : s^ng
+H :  Because that 's summary .
+
+dialogue type : s^aa
+H :  Right .
+
+dialogue type : s
+H :  I mean that was one of the issues we talked about originally
+
+dialogue type : s
+H :  and that that 's w part of the difficulty is that we need an infrastructure for using the time the CrossPads
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s
+H :  You know you want it pretty close
+
+dialogue type : s
+H :  and there 's a fair amount of skew because it 's a hand - held unit with a battery
+
+dialogue type : %-
+H : 
+
+dialogue type : s^co
+H :  so you have to synchronize at the beginning of each meeting all the pads that are being used ,
+
+dialogue type : s^df
+H :  so that it 's synchronized with the time on that
+
+dialogue type : s^e
+H :  and then you have to download to an application ,
+
+dialogue type : s^e
+H :  and then you have to figure out what the data formats are and convert it over if you wanna do anything with this information .
+
+dialogue type : s.%-
+H :  And so there 's a lot of infrastructure which
+
+dialogue type : %-
+H : 
+
+dialogue type : b
+H :  Hmm .
+
+dialogue type : s
+H :  Well , but then there 's the infrastructure at the other end
+
+dialogue type : s^e
+H :  which someone has to listen to that and find that point ,
+
+dialogue type : s^e
+H :  and then mark it .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : s^na
+H :  We can keep all both of them for the whole whole year .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s^aa
+H :  Yep .
+
+dialogue type : s^cs
+H :  Buttons .
+
+dialogue type : s^cs
+H :  I mean for what what you 've been describing buttons would be even more convenient than anything else ,
+
+dialogue type : qy^d^g^rt
+H :  right ?
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s^2
+H :  Action item .
+
+dialogue type : s^ba
+H :  I mean I think the CrossPad idea is a good one .
+
+dialogue type : s^df
+H :  It 's just a question of getting people to use it
+
+dialogue type : s^df
+H :  and getting the infrastructure set up in such a way that it 's not a lot of extra work .
+
+dialogue type : s^df
+H :  I mean that 's part of the reason why it hasn't happened
+
+dialogue type : s^e
+H :  is that it 's been a lot of extra work for me
+
+dialogue type : fh
+H : 
+
+dialogue type : s^aap
+H :  Well it 's digital but it 's in a format that is not particularly standard .
+
+dialogue type : fg|s
+H :  Well w we don't we certainly don't have to return it ,
+
+dialogue type : s^df
+H :  as I said . All all he said is that if you 're not using it could you return it , if you are using it feel free to keep it .
+
+dialogue type : s
+H :  The point is that we haven't used it at all
+
+dialogue type : s:qy
+H :  and are we going to ?
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : s^cs
+H :  I mean if we had them out and sitting on the table people might use them a little more
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s^j
+H :  Sounds breathy to me .
+
+dialogue type : s.%--
+H :  Breath and lau
+
+dialogue type : s^j^m
+H :  " ha - ha - ha - ha " .
+
+dialogue type : s^j^r
+H :  " Ha - ha - ha - ha . "
+
+dialogue type : fg
+H :  Um .
+
+dialogue type : s
+H :  That reminded me of something .
+
+dialogue type : s^bd
+H :  Oh well ,
+
+dialogue type : s^bd
+H :  too late .
+
+dialogue type : s^bd
+H :  It slipped out .
+
+dialogue type : fg
+H :  Oh ,
+
+dialogue type : s
+H :  equipment .
+
+dialogue type : %-
+H : 
+
+dialogue type : s
+H :  Uh , well I 'm always gonna do that .
+
+dialogue type : fh|s
+H :  W uh We ordered uh more wireless ,
+
+dialogue type : s
+H :  and so they should be coming in at some point .
+
+dialogue type : s^cc
+H :  And then at the same time I 'll probably rewire the room as per Jane 's suggestion
+
+dialogue type : s^df
+H :  so that uh the first N channels are wireless , eh are the m the close - talking and the next N are far - field .
+
+dialogue type : s^j
+H :  wired less , wired more .
+
+dialogue type : qy^rt^t^tc
+H :  Should we do digits ?
+
+dialogue type : qy^rt^t^tc
+H :  Do we have anything else ?
+
+dialogue type : s^co.%-
+H : 
+
+dialogue type : qy^rt
+H :  Should we do simultaneous ?
+
+dialogue type : s^aa
+H :  Yeah ,
+
+dialogue type : s^aa
+H :  absolutely .
+
+dialogue type : s^na
+H :  I mean you hav sorta have to .
+
+dialogue type : b
+H :  OK .
+
+dialogue type : s^na
+H :  Well I have to ,
+
+dialogue type : s^no
+H :  I don't know about other people .
+

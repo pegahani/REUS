@@ -1,0 +1,171 @@
+dialogue type : s^aa
+C :  Now , yeah .
+
+dialogue type : s^bk|s
+C :  Yeah , we 're working more on it
+
+dialogue type : s
+C :  but , it 's not finished .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : h|s^aa
+C :  Um , yeah .
+
+dialogue type : s
+C :  What what I 'm doing right now is I 'm trying to include some information about which channel , uh , there 's some speech in .
+
+dialogue type : s
+C :  But that 's not working at the moment .
+
+dialogue type : s
+C :  I 'm just trying to do this by comparing energies , uh normalizing energies and comparing energies of the different channels .
+
+dialogue type : fh
+C :  And
+
+dialogue type : s
+C :  so to to give the transcribers some information in which channel there 's there 's speech in addition to to the thing we we did
+
+dialogue type : s
+C :  now which is just , uh , speech - nonspeech detection on the mixed file .
+
+dialogue type : s
+C :  So I 'm I 'm relying on on the segmentation of the mixed file
+
+dialogue type : s
+C :  but I 'm I 'm trying to subdivide the speech portions into different portions if there is some activity in in different channels .
+
+dialogue type : fg
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa^r
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^aa.%
+C :  Yep .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s^ar|s^ng
+C :  No , th Yeah . No . They they were not switching them but what they were they were adjusting them ,
+
+dialogue type : fh
+C :  so .
+
+dialogue type : s
+C :  And aft after a minute or so it 's it 's way better .
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : h|s
+C :  Um , I 'm sure I have some
+
+dialogue type : s
+C :  but but that 's the one where we 're , um , trai training on ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^r.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^2^aa
+C :  Four speakers ,
+
+dialogue type : s^aa
+C :  yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^na
+C :  The all native .
+
+dialogue type : s^fe
+C :  Ooo , ooo .
+
+dialogue type : qy^bu^d^rt
+C :  American English ?
+
+dialogue type : s
+C :  Ooo , ooo .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^aa^m
+C :  Dan ,
+
+dialogue type : s^aa
+C :  yeah .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yeah .
+

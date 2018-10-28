@@ -1,0 +1,102 @@
+dialogue type : s^bk.%-
+F :  Ri
+
+dialogue type : s^aa
+F :  Yeah ,
+
+dialogue type : s^aa
+F :  OK ,
+
+dialogue type : fh
+F :  so , um ,
+
+dialogue type : s
+F :  we 're interested in , um , methods for far mike speech recognition ,
+
+dialogue type : s^e
+F :  um , mainly , uh , methods that deal with the reverberation in the far mike signal .
+
+dialogue type : fh
+F :  So , um ,
+
+dialogue type : s^e
+F :  one approach would be , um , say MSG and PLP , like was used in Aurora one
+
+dialogue type : s
+F :  and , um , there are other approaches which actually attempt to remove the reverberation , instead of being robust to it like MSG .
+
+dialogue type : s
+F :  And so we 're interested in , um , comparing the performance of um , a robust approach like MSG with these , um , speech enhancement or de - reverber de - reverberation approaches .
+
+dialogue type : s
+F :  And , um , it looks like we 're gonna use the Meeting Recorder digits data for that .
+
+dialogue type : %
+F :  o
+
+dialogue type : %
+F :  o
+
+dialogue type : s^bk
+F :  OK ,
+
+dialogue type : fh
+F :  well , um ,
+
+dialogue type : s.%-
+F :  there was something that was done by , um , a guy named Carlos , I forget his last name , who worked with Hynek , who , um ,
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fh
+F :  Who , um ,
+
+dialogue type : s
+F :  um , it was like RASTA in the sense that of it was , um , de - convolution by filtering
+
+dialogue type : s
+F :  um , except he used a longer time window ,
+
+dialogue type : s^e
+F :  like a second maybe .
+
+dialogue type : s^df
+F :  And the reason for that is RASTA 's time window is too short to , um include the whole , um , reverberation
+
+dialogue type : s^no
+F :  um , I don't know what you call it
+
+dialogue type : s
+F :  the reverberation response .
+
+dialogue type : s
+F :  I if you see wh if you see what I mean .
+
+dialogue type : s^df
+F :  The reverberation filter from my mouth to that mike is like it 's t got it 's too long in the in the time domain for the um for the RASTA filtering to take care of it .
+
+dialogue type : fh
+F :  And , um ,
+
+dialogue type : s
+F :  then there are a couple of other speech enhancement approaches which haven't been tried for speech recognition yet
+
+dialogue type : s
+F :  but have just been tried for enhancement ,
+
+dialogue type : s^e
+F :  which , um , have the assumption that um , you can do LPC um analysis of th of the signal you get at the far microphone
+
+dialogue type : s^rt
+F :  and the , um , all pole filter that you get out of that should be good .
+
+dialogue type : s^e^rt
+F :  It 's just the , um , excitation signal that is going to be distorted by the reverberation
+
+dialogue type : s^cs
+F :  and so you can try and reconstruct a better excitation signal
+
+dialogue type : s^cs
+F :  and , um , feed that through the i um , all pole filter and get enhanced speech with reverberation reduced .
+

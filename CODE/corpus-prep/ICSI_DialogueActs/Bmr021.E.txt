@@ -1,0 +1,330 @@
+dialogue type : z
+E :  One two three four five six I 'm on seven .
+
+dialogue type : s^cs^j
+E :  So you guys need to start going to the EDU meetings .
+
+dialogue type : s
+E :  I prefer these ,
+
+dialogue type : s
+E :  but I don't mind using those .
+
+dialogue type : qy^bu^d^rt
+E :  Those are better than the Sonys ?
+
+dialogue type : fg|s^cs
+E :  Yeah , that 's why I was saying if we could just unplug them and plug them in .
+
+dialogue type : s^rt.%--
+E :  Well , it s It seems like right now if if u what they 're complaining are those ,
+
+dialogue type : s^cs.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^bu
+E :  And then they can just unplug those from the transmitter .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qw^rt
+E :  How much is it just to buy the mike ?
+
+dialogue type : qy^bh
+E :  Really .
+
+dialogue type : s
+E :  Oh that 's way more than I thought .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa
+E :  yeah .
+
+dialogue type : s^ba^fe
+E :  Wow !
+
+dialogue type : qy^rt
+E :  Is there any educational discount ?
+
+dialogue type : s
+E :  And when I was at Computer Motion we used Shure ,
+
+dialogue type : s
+E :  the SM - ten - A 's ,
+
+dialogue type : s
+E :  and I think they were only like eighty bucks or something .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ba
+E :  But they were they seemed pretty good .
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : b
+E :  Right , right .
+
+dialogue type : qy^bu^d^rt
+E :  So then all those red channels there would become wireless ones ?
+
+dialogue type : s^ba
+E :  Cool .
+
+dialogue type : qy^bu^d^rt
+E :  The Andrea mike ?
+
+dialogue type : qw
+E :  Which one is the Andrea mike ?
+
+dialogue type : qy^bu^d^rt
+E :  A wired one ?
+
+dialogue type : s.%--
+E :  Well , if you 're gonna go to all wireless ,
+
+dialogue type : s^bu
+E :  Oh , you mean in the meantime .
+
+dialogue type : s^bk
+E :  Ah , I see .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  I haven't In the meetings that I recorded s It 's always been at most six people ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  Recently I haven't had to used any of the wired ones at all .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  There 's some knocks .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+E :  You have a special phone ?
+
+dialogue type : s^bk^m|s^aa
+E :  Oh , we could add one , yeah .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^2
+E :  At least Feacalc doesn't .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^ba
+E :  Wow !
+
+dialogue type : %--
+E : 
+
+dialogue type : s^bd
+E :  u I don't know if this would mess other things up ,
+
+dialogue type : s^ba^rt
+E :  but It seems like kind of a pain to have all these split up files around .
+
+dialogue type : s^cs
+E :  What would be easier would be like pointers .
+
+dialogue type : s:s
+E :  You know , lists like " original wavefile , start , end " .
+
+dialogue type : %-
+E : 
+
+dialogue type : qy^rt
+E :  Well , is there is there is there a NIST routine which can seek in a compressed file but with uncompressed indices ?
+
+dialogue type : fg|s^bu
+E :  Right . Right we I mean the original Switchboard files are not compressed ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s^cs
+E :  So we could leave those as they are .
+
+dialogue type : s
+E :  Well , assuming you 'd Yeah . Assuming that you then off - load the original Switchboard files .
+
+dialogue type : b
+E :  Yeah , yeah .
+
+dialogue type : s^j
+E :  He did it on purpose .
+
+dialogue type : qy^bu^rt
+E :  Are they ?
+
+dialogue type : s^no
+E :  I don't remember where I put them now .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^2
+E :  Physical disk .
+
+dialogue type : fg|s.%-
+E : 
+
+dialogue type : fg|s
+E :  Yeah , there was something weird about that .
+
+dialogue type : fg|s
+E :  Yeah like like the same meeting shortened , files that we pull off of Popcorn when we 're done doing the recording , looked , to the backup software , as if they had been written , you know , every single night , i for f you know , a week in a row ,
+
+dialogue type : s^ba
+E :  which is really weird .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s^cs
+E :  Maybe n next week if we could .
+
+dialogue type : s^df
+E :  I 'm trying to finish up some stuff .
+
+dialogue type : s^ba
+E :  That sounds like a good idea .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^cs
+E :  I think we should also at the same time try to , uh , convert over to your new naming conventions .
+
+dialogue type : s^ba
+E :  That 'd be good .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  I actually haven't looked at it yet . I haven't had a chance ,
+
+dialogue type : fh
+E :  so .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bu
+E :  If we change things , it won't really affect what you 're doing ,
+
+dialogue type : qy^g^rt
+E :  will it ?
+
+dialogue type : fg|s^bu
+E :  Yeah . So you but you can switch that any time you want ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  Everybody will use it .
+
+dialogue type : s^bk|s
+E :  Fine slash U slash star .
+
+dialogue type : qy^rt^tc
+E :  So Andreas , would it be appropriate to ask how the experiments are going ?
+
+dialogue type : fh
+E : 
+
+dialogue type : s^2
+E :  Just PLP .
+
+dialogue type : s^2
+E :  Thirty - seven fifty .
+
+dialogue type : s^bu
+E :  There 's one other slight difference ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s^bsc
+E :  Or two two differences .
+
+dialogue type : qr
+E :  Do they subtract the max from each i one or do they subtract each one from the max ?
+
+dialogue type : qy^bu^d^rt
+E :  Doesn't matter ?
+
+dialogue type : s
+E :  Except you get a lot of negatives the other way .
+
+dialogue type : s^bk^fe
+E :  Oh ! Oh !
+
+dialogue type : s^2^bu
+E :  For the C - zero .
+
+dialogue type : fg|s
+E :  Yeah , Dan added that in ,
+
+dialogue type : %-
+E : 
+
+dialogue type : qw^cs
+E :  What about ta concatenating the two feature vectors into a single one ?
+
+dialogue type : s^bk
+E :  Hmm .
+
+dialogue type : s^bk
+E :  Hmm .
+
+dialogue type : qw
+E :  What are people doing ,
+
+dialogue type : qr^bu^rt
+E :  they 're switching their mikes off or something ?
+
+dialogue type : %-
+E : 
+
+dialogue type : s^cs.%--
+E : 
+

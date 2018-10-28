@@ -1,0 +1,441 @@
+dialogue type : z
+F :  Smooth .
+
+dialogue type : z
+F :  I just had one of the most frustrating meetings of my career .
+
+dialogue type : z
+F :  Yeah .
+
+dialogue type : z
+F :  Huh .
+
+dialogue type : z
+F :  Yeah , I 'm just gonna sit here
+
+dialogue type : z
+F :  and
+
+dialogue type : z
+F :  growl .
+
+dialogue type : z
+F :  Yeah .
+
+dialogue type : z
+F :  For which we thank you , by the way .
+
+dialogue type : z
+F :  I know you were you were doing that ,
+
+dialogue type : z
+F :  but , anyway .
+
+dialogue type : z
+F :  Oh , I could tell you had a rough day , man !
+
+dialogue type : z
+F :  Yeah ,
+
+dialogue type : z
+F :  it 's a great story .
+
+dialogue type : z
+F :  Oh my goodness .
+
+dialogue type : z
+F :  Are you being silly ?
+
+dialogue type : z
+F :  Uh .
+
+dialogue type : z
+F :  Alright .
+
+dialogue type : z
+F :  Alright .
+
+dialogue type : z
+F :  Just plug one ear .
+
+dialogue type : z
+F :  OK , bye !
+
+dialogue type : z
+F :  That was a great meeting !
+
+dialogue type : z
+F :  So - Now , uh , why ?
+
+dialogue type : z
+F :  OK .
+
+dialogue type : z
+F :  Well , could we ?
+
+dialogue type : s|s^aa
+F :  I think I need a copy of this , yes .
+
+dialogue type : qy^rt
+F :  I is there an extra copy around ?
+
+dialogue type : s^bk.%-
+F :  Alrigh
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s
+F :  There 's only one " S " in " interesting " .
+
+dialogue type : s
+F :  There 's only one " S " in " interesting " . On page five .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^co^fe^j
+F :  Well , better hurry up then !
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s
+F :  Oh , you 've got the parser done .
+
+dialogue type : s^fa
+F :  Sorry .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^aa
+F :  Mm - hmm .
+
+dialogue type : s^na
+F :  I heard it .
+
+dialogue type : s
+F :  Sounds like Fey .
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : qy^bh
+F :  Oh really .
+
+dialogue type : b
+F :  Interesting .
+
+dialogue type : s^ba
+F :  Oh , it 's pretty slow .
+
+dialogue type : s
+F :  The system breaking .
+
+dialogue type : s^ba
+F :  Yeah , that looks familiar .
+
+dialogue type : s^fa
+F :  Oh ! Oh boy !
+
+dialogue type : s^ba^fe
+F :  That 's brilliant !
+
+dialogue type : b
+F :  Hhh .
+
+dialogue type : s^j
+F :  And everybody gets a trampoline in their office .
+
+dialogue type : s^bk|s^co^t^tc
+F :  Alright , let 's stop talking about this .
+
+dialogue type : s^cs
+F :  You might want to , uh , double - check the spellings of the authors ' names on your references ,
+
+dialogue type : s
+F :  you had a few , uh , misspells in your slides , there .
+
+dialogue type : s^e:s
+F :  Like I believe you had " Jackendorf " .
+
+dialogue type : s^bd
+F :  Uh , unless there 's a person called " Jackendorf " ,
+
+dialogue type : b
+F :  yeah .
+
+dialogue type : s
+F :  But that 's the only thing I noticed in there .
+
+dialogue type : s^m^na
+F :  In the presentation .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : s
+F :  He slipped on the wet floor .
+
+dialogue type : s^am
+F :  Depends .
+
+dialogue type : s^cs^j
+F :  Sudden surprising contact ,
+
+dialogue type : qy^d^g^rt
+F :  right ?
+
+dialogue type : s
+F :  But of course , no ,
+
+dialogue type : s
+F :  i i I mean it has a life of its own .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yeah . Right .
+
+dialogue type : fg
+F :  In other news .
+
+dialogue type : s
+F :  Out of out of film , in particular .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : %--
+F : 
+
+dialogue type : s.%--
+F :  yeah , I mean ,
+
+dialogue type : %--
+F : 
+
+dialogue type : s.%--
+F :  and plus the fact that there 's also s
+
+dialogue type : qy:s
+F :  I mean , can you say , like , " The film ran out "
+
+dialogue type : s^f
+F :  you know ,
+
+dialogue type : s:s
+F :  or , maybe you could say something like " The film is out "
+
+dialogue type : s
+F :  so like the the film went away from where it should be ,
+
+dialogue type : s
+F :  namely with you , or something ,
+
+dialogue type : qy^d^f^g
+F :  right ?
+
+dialogue type : s^f
+F :  You know .
+
+dialogue type : s
+F :  The the film the film is gone ,
+
+dialogue type : qy^d^f^g
+F :  right ?
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s^no
+F :  I never really knew what was going on ,
+
+dialogue type : s^df
+F :  I mean I I find it sort of a little bit farfetched to say that that " I 'm out of film " means that I have left the state of having film or something like that ,
+
+dialogue type : fh
+F :  but .
+
+dialogue type : s^aa
+F :  Yeah . Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  You got there .
+
+dialogue type : s
+F :  You got to out of it .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^ba^fe
+F :  Hmm !
+
+dialogue type : s
+F :  Out .
+
+dialogue type : qy^d
+F :  There was one on on " out " or " out of " ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fg|s^bu
+F :  Yeah , Lind - Susan Lindner ,
+
+dialogue type : qy^d^f^g^rt
+F :  right ?
+
+dialogue type : s^bu^rt
+F :  The the " the syrup spread out " ?
+
+dialogue type : qy^d^rt
+F :  That kind of thing ?
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^ba^na
+F :  Totally weird stuff .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : %-
+F :  Sh
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  Onward .
+
+dialogue type : s
+F :  A castle .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^j
+F :  Two hundred million dollars .
+
+dialogue type : fg|s^ba
+F :  Yeah , I think that 's a good example , actually .
+
+dialogue type : s^fe
+F :  Well , shoot ,
+
+dialogue type : qh.%--
+F : 
+
+dialogue type : s^ng
+F :  figuring that out is what this is about .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : %-
+F :  O
+
+dialogue type : s^bk
+F :  Uh , yeah .
+
+dialogue type : qy^bu^d^rt
+F :  Like what side were they on ,
+
+dialogue type : qrr.%--
+F :  or ?
+
+dialogue type : s.%--
+F :  I mean , there 's also things like I mean , s
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : s:qw
+F :  I guess I could ask something like " Where can I find out about blah - blah - blah "
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  doesn't nece I don't necessarily have to care about the spatial location ,
+
+dialogue type : s
+F :  just give me a phone number
+
+dialogue type : s^bu^rt
+F :  and I 'll call them or something like that ?
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : b
+F :  Hmm ?
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : fg
+F :  Oh .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^2
+F :  Fixed .
+
+dialogue type : s^ba
+F :  Oh geez .
+
+dialogue type : s^t3
+F :  I have to go .
+

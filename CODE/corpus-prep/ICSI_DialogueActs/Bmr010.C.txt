@@ -1,0 +1,435 @@
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  I would prefer this .
+
+dialogue type : qw.%-
+C :  Which is ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qy^bu^d^rt
+C :  Speech - nonspeech ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : h|s^rt
+C :  Um , so , uh , what we basically did so far was using the mixed file to to detect s speech or nonspeech portions in that .
+
+dialogue type : fh|s^rt
+C :  And what I did so far is I just used our
+
+dialogue type : s^e^rt
+C :  which is an HMM - ba based system with Gaussian mixtures for s speech and nonspeech .
+
+dialogue type : s
+C :  And it was a system which used only one Gaussian for silence and one Gaussian for speech .
+
+dialogue type : s
+C :  And now I added , uh , multi - mixture possibility for for speech and nonspeech .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Yeah . We we did a nons s speech - nonspeech transcription .
+
+dialogue type : s^e
+C :  Adam , Dave , and I , we did ,
+
+dialogue type : s^e
+C :  for that dialogue
+
+dialogue type : s
+C :  and I trained it on that .
+
+dialogue type : s
+C :  And I did some pre - segmentations for for Jane .
+
+dialogue type : s
+C :  And I 'm not sure how good they are or what what the transcribers say .
+
+dialogue type : qy^bu^d^rt
+C :  They they can use it
+
+dialogue type : qrr.%--
+C :  or ?
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Uh , yeah .
+
+dialogue type : s^na
+C :  That that was one one one thing ,
+
+dialogue type : h|s
+C :  uh , why I added more mixtures for for the speech .
+
+dialogue type : s
+C :  So I saw that there were loud loudly speaking speakers and quietly speaking speakers .
+
+dialogue type : s
+C :  And so I did two mixtures , one for the loud speakers and one for the quiet speakers .
+
+dialogue type : s
+C :  I did that for for five minutes of one dialogue
+
+dialogue type : s^e
+C :  and that was enough to to train the system .
+
+dialogue type : s
+C :  And so it it adapts , uh , on while running .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^am
+C :  Hopefully .
+
+dialogue type : s
+C :  It 's just our our old Munich , uh , loudness - based spectrum
+
+dialogue type : s
+C :  on mel scale twenty twenty critical bands and then loudness .
+
+dialogue type : s
+C :  And four additional features , which is energy , loudness , modified loudness , and zero crossing rate .
+
+dialogue type : s
+C :  So it 's twenty - four twenty - four features .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s^na
+C :  You can specify the minimum length of speech or and silence portions which you want .
+
+dialogue type : s^df
+C :  And so I did some some modifications in those parameters ,
+
+dialogue type : s^e
+C :  basically changing the minimum minimum length for s for silence
+
+dialogue type : s.%--
+C :  to have , er
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  to have more or less , uh , silence portions in inserted .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa^r
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  That 's it .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^ar|s
+C :  No . W w we originally we did that
+
+dialogue type : s.%--
+C :  but we saw , uh ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  we saw that w it 's it 's not it 's not so necessary .
+
+dialogue type : s^df
+C :  It it works as well f with with without , uh , a LDA or something .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : fh|s^rt
+C :  Um , I talked with , uh , Munich guys from from Ludwi - Ludwig Maximilians University , who do a lot of transcribing and transliterations .
+
+dialogue type : s^rt
+C :  And they basically said they have they have , uh , a tool they developed themselves
+
+dialogue type : s
+C :  and they can't give away , uh , f it 's too error - prone ,
+
+dialogue type : s^e
+C :  and had it 's not supported ,
+
+dialogue type : %--
+C : 
+
+dialogue type : fh
+C :  But , um ,
+
+dialogue type : s
+C :  Susanne Bur - Burger , who is at se CMU , he wa who was formally at in Munich and w and is now at with CMU ,
+
+dialogue type : s^rt
+C :  she said she has something
+
+dialogue type : s
+C :  which she uses to do eight channels , uh , trans transliterations ,
+
+dialogue type : s^e
+C :  eight channels simultaneously ,
+
+dialogue type : s^e
+C :  but it 's running under Windows .
+
+dialogue type : s
+C :  So I 'm not sure if if if we can use it .
+
+dialogue type : s
+C :  She said she would give it to us .
+
+dialogue type : s^rt
+C :  It wouldn't be a problem .
+
+dialogue type : s
+C :  And I 've got some some kind of manual down in my office .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bk|s
+C :  Yeah , but then I 'm not sure that 's the right thing for us .
+
+dialogue type : s^ar|s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah . Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^nd
+C :  That 's not Praat .
+
+dialogue type : s:s
+C :  It 's called " trans transedit " I think .
+
+dialogue type : s
+C :  The the , uh the tool from from Susanne .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^2.%--
+C :  Cross
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^ar^r
+C :  No .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ng
+C :  Yeah , but I 'm not too sure if if we can really represent overlap with with the s detector I I I used up to now ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  it 's only speech or it 's it 's it 's nonspeech .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  Yeah . Uh , I could have a look at it .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^bk^rt
+C :  OK .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bk^rt
+C :  OK .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah . Sure .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Yeah , OK .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : h
+C : 
+
+dialogue type : s^no
+C :  I 'm not sure .
+
+dialogue type : s
+C :  I I thought about , uh , adding , uh , uh , another class too .
+
+dialogue type : s
+C :  But it 's not too easy , I think , the the transition between the different class , to model them in in the system I have now .
+
+dialogue type : s^am
+C :  But it it it could be possible , I think ,
+
+dialogue type : s^e
+C :  in principle .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^na
+C :  I had the impression .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+

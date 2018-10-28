@@ -1,0 +1,1638 @@
+dialogue type : z
+B :  One t
+
+dialogue type : z
+B :  One five ,
+
+dialogue type : z
+B :  yeah .
+
+dialogue type : z
+B :  Yeah , OK ,
+
+dialogue type : z
+B :  that 's a good idea .
+
+dialogue type : z
+B :  I 'm on I 'm on two and I should be on .
+
+dialogue type : z
+B :  Yeah .
+
+dialogue type : z
+B :  I don't know .
+
+dialogue type : z
+B :  I I don't know .
+
+dialogue type : z
+B :  It 's very badly designed ?
+
+dialogue type : z
+B :  Why ?
+
+dialogue type : z
+B :  It 's not s It 's not supposed to cover up your ears .
+
+dialogue type : z
+B : 
+
+dialogue type : z
+B :  Oh , that 's strange .
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  It 's still the same words .
+
+dialogue type : z
+B : 
+
+dialogue type : z
+B :  That 's the microphone number .
+
+dialogue type : z
+B : 
+
+dialogue type : z
+B :  Oh , God .
+
+dialogue type : z
+B :  No , let me do it .
+
+dialogue type : z
+B :  No ,
+
+dialogue type : z
+B :  but I 'm gonna look at the uh , logs as well .
+
+dialogue type : z
+B :  Yeah , there there there was there was a there was a bug .
+
+dialogue type : z
+B :  There was a glitch last time we ran .
+
+dialogue type : z
+B :  No .
+
+dialogue type : z
+B :  No , we don't .
+
+dialogue type : z
+B :  But we we ought to st we ought to standardize .
+
+dialogue type : z
+B :  I think , uh , I s I spoke to somebody , Morgan , about that .
+
+dialogue type : z
+B :  I think I think we should put mar Well , no , w we can do that .
+
+dialogue type : z
+B :  I know what they they 're they 're four , three , two , one .
+
+dialogue type : z
+B :  In order now .
+
+dialogue type : z
+B :  Three ,
+
+dialogue type : z
+B :  two , and one .
+
+dialogue type : z
+B :  But I think I think we should put them in standard positions .
+
+dialogue type : z
+B :  I think we should make little marks on the table top .
+
+dialogue type : z
+B : 
+
+dialogue type : z
+B :  I guess that 's the point .
+
+dialogue type : z
+B :  It 'll be a lot easier if we have a if we have them permanently in place or something like that .
+
+dialogue type : z
+B :  You do ?
+
+dialogue type : z
+B :  Oh , gosh .
+
+dialogue type : z
+B :  When 's it gonna be installed ?
+
+dialogue type : z
+B :  I see .
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  Cool .
+
+dialogue type : z
+B :  I see .
+
+dialogue type : qw^d
+B :  Distribute what ?
+
+dialogue type : s
+B :  The data ?
+
+dialogue type : b
+B :  Oh .
+
+dialogue type : b
+B :  Yes .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  It 's not so much the actu The logistics of distribution are secondary to preparing the data in a suitable form for distribution .
+
+dialogue type : s
+B :  And the other thing is that , um , University of Washington may want to start recording meetings as well ,
+
+dialogue type : s
+B :  in which case w w we 'll have to decide what we 've actually got so that we can give them a copy .
+
+dialogue type : qy^bh
+B :  Oh , really ?
+
+dialogue type : s
+B :  Different for you .
+
+dialogue type : b
+B :  Yes .
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : s
+B :  All about that .
+
+dialogue type : s
+B :  Oh , now you 've touched the fan control ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^aa|s^ba
+B :  Yeah , it 's great .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^aa
+B :  Oh , yeah .
+
+dialogue type : s^na
+B :  Absolutely .
+
+dialogue type : s
+B :  Well it 's well like " low " is mid mid - scale .
+
+dialogue type : s^df
+B :  So it could be that it 's not actually wired backwards
+
+dialogue type : s^df
+B :  it 's just that ambiguous .
+
+dialogue type : s^na
+B :  Oh , they do .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Oh , yeah .
+
+dialogue type : qw
+B :  What 's it sound like ?
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^na
+B :  absolutely .
+
+dialogue type : s^na
+B :  Absolutely .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s^aa
+B :  Sure ,
+
+dialogue type : s^na
+B :  of course .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^na
+B :  Let 's .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  That 's right .
+
+dialogue type : qy^bh
+B :  Oh , really .
+
+dialogue type : s^ba
+B :  I have such a hard name .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ba.%
+B :  Wow .
+
+dialogue type : s^aa
+B :  That 's true .
+
+dialogue type : s^no
+B :  We don't we don't know , actually .
+
+dialogue type : s^df
+B :  We haven't decided which which time we care about ,
+
+dialogue type : s^bs
+B : 
+
+dialogue type : s
+B :  and , uh , be in the absence of more specific instructions , we 're trying to figure out what the most convenient thing to do is .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^na
+B :  It could do that
+
+dialogue type : qy^g
+B :  couldn't it .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^na
+B :  I would have thought so ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^bk
+B :  Yeah , yeah ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s^ng
+B :  But we 've got we 've got the most channel data .
+
+dialogue type : s
+B :  We 'd have to do it from your signal .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^df
+B :  I mean , we 've we 've got we 've got a lot of data .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : fg|s.%--
+B : 
+
+dialogue type : fh
+B :  Well ,
+
+dialogue type : s^no
+B :  uh , I don't know .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s
+B :  I mean , it it 's it 's maybe like a week 's work to get to do something like this .
+
+dialogue type : s^e
+B :  So forty or fifty hours .
+
+dialogue type : s^aa
+B :  Sure .
+
+dialogue type : s
+B :  Several minutes .
+
+dialogue type : s^cs
+B :  Well , no , you should do it you should do it Do it again from scratch
+
+dialogue type : s^cs
+B :  and then do it again at the boundaries .
+
+dialogue type : s^cs^j
+B :  So you do the whole thing three times
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Oh !
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qw
+B :  The point we where do we get the the the oracle boundaries from ?
+
+dialogue type : s^e
+B :  Or the boundaries .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  That would be the automatic boundaries .
+
+dialogue type : %-
+B :  Well it w
+
+dialogue type : b
+B :  Yeah , yeah .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Yes .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : fg|s
+B :  So I I need to we need to look at what what the final output is
+
+dialogue type : s^ba
+B :  but it seems like we it doesn't it seems like it 's not really not that hard to have an automatic tool to generate the phrase marks , and the speaker , and speaker identity without putting in the words .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Mmm .
+
+dialogue type : s^aa
+B :  No .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk|s^no
+B :  Yeah , I mean I don't know if we 'd be able to do any thing f to help STP type problems .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s^df|qy^d^f^g
+B :  Because they had because they only had two speakers , right ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk|s
+B :  Yeah , they won't .
+
+dialogue type : s^df
+B :  They w they 'll refuse to do it .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  No , but I mean , they they they won't they won't they will refuse to transcribe this kind of material .
+
+dialogue type : s|qy^d^g
+B :  That 's not what they 're d quoting for , right ?
+
+dialogue type : qy^d^rt
+B :  For quoting meetings ?
+
+dialogue type : s^ba
+B :  Wow .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah , yeah , yeah .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  That 's right .
+
+dialogue type : s^bk|s
+B :  Yeah , it 'd be cheap .
+
+dialogue type : s^e
+B :  Cheap to transcribe .
+
+dialogue type : s
+B :  Well , for ten thousand dollars .
+
+dialogue type : s^2
+B :  Three hundred .
+
+dialogue type : qw^rt
+B :  How how much lower are they ?
+
+dialogue type : s
+B :  Ten .
+
+dialogue type : s^na
+B :  Yeah , give them a break .
+
+dialogue type : s^aa|s^na
+B :  No , it isn't .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^aa
+B :  Yep , yep .
+
+dialogue type : b
+B :  Yep .
+
+dialogue type : b
+B :  No .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^j
+B :  out of out of Adam 's pocket .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  We 'd like to .
+
+dialogue type : s
+B : 
+
+dialogue type : s^bk|s^aa
+B :  Yeah , that 's right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bu
+B :  What s so what are you so you 've done some portion of the first meeting .
+
+dialogue type : qw
+B :  And what 's your plan ?
+
+dialogue type : qy^bu^d
+B :  To carry on doing it ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qw^rt
+B :  What what do they what do they cover ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah , yeah ,
+
+dialogue type : s^na
+B :  their academic .
+
+dialogue type : qy^bh
+B :  Oh , really ?
+
+dialogue type : s
+B :  Linguists .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk^m
+B :  Pre - lay .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  I transcribed a minute of this stuff
+
+dialogue type : s
+B :  and there was a lot of overlapping .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  It was at the beginning .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^nd
+B :  You don't have to .
+
+dialogue type : s^aa
+B :  Uh - huh .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : s^aa
+B :  No .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s
+B :  But that 's but there 's only one there 's only one time boundary for both speakers ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s^df^nd
+B :  " Uh - huh " is " U H H U H . "
+
+dialogue type : s^df^nd
+B :  H U H . "
+
+dialogue type : qy^d^rt
+B :  We have to mark those ?
+
+dialogue type : qy^rt
+B :  Don't they d can't we just leave them unmarked ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Sure .
+
+dialogue type : s^bk
+B :  Uh , yeah ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  it seems like the , uh , tran the transcription problem would be very different if we had these automatic speaker detection turn placing things .
+
+dialogue type : s^df.%--
+B : 
+
+dialogue type : fh
+B :  I mean , I don't know ,
+
+dialogue type : s
+B :  actually it sounds like there might be a problem putting it into the software if the software only handles two parallel channels .
+
+dialogue type : s
+B :  But assuming we can get around that somehow .
+
+dialogue type : qw^rt
+B :  But what if you wanna edit it ?
+
+dialogue type : qy^d^g
+B :  Right ?
+
+dialogue type : s^df
+B :  I mean , the point is we 're gonna generate this transcript with five five tracks in it , but with no words .
+
+dialogue type : s
+B :  Someone 's gonna have to go in and type in the words .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s.%-
+B :  and if there are five five people speaking at once ,
+
+dialogue type : s^bk
+B :  Oh , yeah .
+
+dialogue type : s^bk
+B :  Yes .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^bk
+B :  Mmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Mmm .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  But the only time that becomes ambiguous is if you have two speakers .
+
+dialogue type : s^df
+B :  Like , if you If you only have one person , if you only have one thought that 's continuing across a particular time boundary , you just need one arrow at each end ,
+
+dialogue type : s^df
+B :  and if it 's picked up by a different speaker , it 's picked up by a different speaker .
+
+dialogue type : s^df
+B :  The time it becomes ambiguous if you have more than one speaker and that and they sort of swap .
+
+dialogue type : s
+B :  I guess if you have more than one thread going , then you then you need to know whether they were swapped or not .
+
+dialogue type : s
+B :  Hopefully not very much .
+
+dialogue type : s^bk
+B :  Sure .
+
+dialogue type : s^bk
+B :  I know .
+
+dialogue type : s
+B :  But it it does feel it does feel like it 's really in there .
+
+dialogue type : s
+B :  I you know I did this I did this transcription
+
+dialogue type : s
+B :  and I marked that , I marked it with ellipsis
+
+dialogue type : s^df
+B :  because it seemed like there was a difference .
+
+dialogue type : s^df
+B :  It 's something you wanted to indicate that it that I this was the end of the phrase ,
+
+dialogue type : s^df
+B :  this was the end of that particular transcript ,
+
+dialogue type : s^df
+B :  but it was continued later .
+
+dialogue type : s
+B :  And I picked up with an ellipsis .
+
+dialogue type : s
+B :  I didn't have the equal , not equal thing .
+
+dialogue type : b
+B :  Yeah , yeah .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s
+B :  But it 's something @ @ that I feel we definitely ought to do .
+
+dialogue type : s^aa|s
+B :  Yeah , it took me half an hour to transcribe a minute ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I was trying to get Transcriber to run but I couldn't .
+
+dialogue type : s^df
+B : 
+
+dialogue type : s^ba
+B :  It was horrible .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : qy.%-
+B : 
+
+dialogue type : s.%-
+B :  It was actually it was quite it was a t
+
+dialogue type : %-
+B :  it w
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s^bk
+B :  Web site !
+
+dialogue type : s^ba^fe
+B :  That 's great !
+
+dialogue type : s^cs^j
+B :  We could have like business - to - business E - commerce as well !
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Yeah , yeah , yeah .
+
+dialogue type : b
+B :  Yes .
+
+dialogue type : s^bk
+B :  Yes .
+
+dialogue type : %-
+B :  We c
+
+dialogue type : s^bk^m
+B :  we can do it all !
+
+dialogue type : s^cs.%-
+B : 
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^cs
+B :  We could actually maybe we could use the TCL plug - in .
+
+dialogue type : s
+B :  Oh , man .
+
+dialogue type : s^bk
+B :  I know ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^na
+B :  But I should be allowed to
+
+dialogue type : fh
+B : 
+
+dialogue type : s^nd
+B :  I sh I shouldn't be allowed to by m by my own by my according to my own priorities .
+
+dialogue type : fg
+B :  Alright .
+
+dialogue type : s^co
+B :  Let 's look at it anyway .
+
+dialogue type : s^cs
+B :  So definitely we should we should have some kind of access to the data .
+
+dialogue type : s^bk
+B :  Yes .
+
+dialogue type : fg|s^aa
+B :  Well , yeah .
+
+dialogue type : s.%-
+B :  Well so then th
+
+dialogue type : s
+B :  the other side is , yeah .
+
+dialogue type : s^aa
+B :  Right ,
+
+dialogue type : s^na
+B :  that 's the problem .
+
+dialogue type : s
+B :  No one owns the project .
+
+dialogue type : s^r
+B :  No one owns the project .
+
+dialogue type : s
+B :  No one wants to own the project .
+
+dialogue type : s
+B :  Well then you have to do the web site .
+
+dialogue type : s
+B :  You know , it 's like , it 's that simple .
+
+dialogue type : s^ar
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^nd
+B :  That 's obviously not true ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^aa
+B :  That 's true .
+
+dialogue type : s^aa
+B :  That 's right .
+
+dialogue type : s^ar|s^nd
+B :  No , both .
+
+dialogue type : %-
+B : 
+
+dialogue type : %-
+B :  I 'm not o
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  I 'm not sure how how important that distinction is .
+
+dialogue type : s:s^bk
+B :  I don't think we should say , " oh , it 's internal
+
+dialogue type : s:s
+B :  therefore we don't have to make it very good " .
+
+dialogue type : s:s^bk
+B :  I mean , you can say " oh oh , it 's internal
+
+dialogue type : s:s
+B :  therefore we can put data in it that we don't we don't have to worry about releasing " .
+
+dialogue type : s
+B :  But I think the point is to try and be coherent and make it a nice presentation .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Ah .
+
+dialogue type : s^ba
+B :  Great .
+
+dialogue type : s^ar
+B :  No ,
+
+dialogue type : s^nd
+B :  we 're doing we 're doing great .
+
+dialogue type : qw^br
+B :  What ?
+
+dialogue type : qw^br^r
+B :  What ?
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : qy^d^rt
+B :  You trying to screw up the m the microphones ?
+
+dialogue type : %-
+B :  I mean th
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s
+B :  All the lights .
+
+dialogue type : s^cs
+B :  Velcro .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  It 's like a it 's a sleeping policeman .
+
+dialogue type : s^fe^j
+B :  Speed bump !
+
+dialogue type : s^j
+B :  Speed bump .
+
+dialogue type : s
+B :  That 's the s that 's British for speed bump ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qh
+B :  How else are you gonna distribute them around the tables ?
+
+dialogue type : s
+B :  Oh , because then you don't have to just have one each .
+
+dialogue type : s^df
+B :  So that if t if you have two people sitting next to each other they can actually go into the same box .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s|qy^d^g^rt
+B :  Well it depends on this box , right ?
+
+dialogue type : s^aa
+B :  Exactly .
+
+dialogue type : b
+B :  Hmm !
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  But there are only four .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk|s
+B :  Yeah , I mean , we I had that last time .
+
+dialogue type : qy^d^rt
+B :  But uh there are actually that you know , there 's an extra there 's a mix out on the radio receiver ?
+
+dialogue type : s
+B :  So there are actually six XLR outs on the back of the radio receiver
+
+dialogue type : s
+B :  and only five cables going in ,
+
+dialogue type : s
+B :  I had the wrong five ,
+
+dialogue type : s
+B :  so I ended up not recording one of the channels and recording the mix .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s
+B :  But I subtracted the four that I did have from the mix and got a pretty good approximation of the @ @ .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^na
+B :  It 's not bad .
+
+dialogue type : s^na^r
+B :  It 's not bad ,
+
+dialogue type : s^bk
+B :  yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Hmm !
+
+dialogue type : %-
+B :  See
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yep .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Oh , yeah !
+
+dialogue type : s^aa
+B :  Well w yeah , exactly .
+
+dialogue type : s^j
+B :  We 'll know we 'll know to come after .
+
+dialogue type : qw^br^rt
+B :  Sorry ?
+
+dialogue type : s^bk^fe
+B :  Oh !
+
+dialogue type : s^aa
+B :  Sure .
+
+dialogue type : s^na
+B :  Well of course we do .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa^r
+B :  Yeah , yeah ,
+
+dialogue type : s^aa
+B :  yeah . Sure .
+
+dialogue type : s
+B :  Which we 'll borrow from them , when we need it .
+
+dialogue type : s^bk|s
+B :  Oh , a Applecard .
+
+dialogue type : s^aa
+B :  Sure .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^aa|s^na
+B :  Yeah , you could use my machine .
+
+dialogue type : %
+B : 
+
+dialogue type : fh|s
+B :  Uh , that 's an ethernet connection .
+
+dialogue type : s^e
+B :  It 's going next door .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  No , no ,
+
+dialogue type : s^na
+B :  absolutely , that 's the right way to do it .
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  And given given that we 've got a wireless that we 've got a we got the field .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : s^nd
+B :  W we don't need X access
+
+dialogue type : s^na
+B :  but I mean that 's fine .
+
+dialogue type : s
+B :  That 's that 's what it does ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : fg
+B : 
+
+dialogue type : s^2.%-
+B :  With a with a with a w
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s^ar
+B :  Yeah .
+
+dialogue type : s^nd
+B :  I do !
+
+dialogue type : s^ar
+B :  Yeah .
+
+dialogue type : s^ar^r
+B :  Yeah , yeah .
+
+dialogue type : s^ar
+B :  No ,
+
+dialogue type : s^nd
+B :  I would love to
+
+dialogue type : s^df^no
+B :  but I 'm not sure if my laptop is compatible with the wave LAN thing they 're using .
+
+dialogue type : s|qy^d^g
+B :  Well Apple has their own thing , right ?
+
+dialogue type : s
+B :  Apple has their own thing .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I think you I think it just plug plugs in a PC card ,
+
+dialogue type : s
+B :  so you could probably make it run with that ,
+
+dialogue type : fh
+B :  but .
+
+dialogue type : s^na
+B :  Yeah , I 'm sure .
+
+dialogue type : s^na
+B :  I imagine there is .
+
+dialogue type : fg
+B :  But uh anyway
+
+dialogue type : s
+B :  there are there are abs there are a bunch of machines at ICSI that have those cards
+
+dialogue type : s
+B :  and so I think if w if it doesn't we should be able to find a machine that does that .
+
+dialogue type : s.%--
+B :  I I mean I know that
+
+dialogue type : qy.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah , yeah .
+
+dialogue type : s^aa
+B :  Absolutely .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^bh
+B :  You 're kidding !
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^j
+B :  I 'd trade them a flat panel display for it .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Huge VU meters .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s.%-
+B :  That 's an end
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah , yeah .
+
+dialogue type : s^cs
+B :  I think and uh , having having it on wireless is is the neatest way neatest way to do it .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^ba
+B :  Oh , cool .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^aa
+B :  Yeah , yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  Um ,
+
+dialogue type : fh|s^ba^na
+B :  well , that sounds like a d good solution one way or the other .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^ba^fe
+B :  Uh - oh !
+
+dialogue type : s^ba^fe^r
+B :  Uh - oh !
+
+dialogue type : s^bu
+B :  Does that it means it means it 's gonna explode .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : fg
+B : 
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bs
+B :  So again , Washington wants to equip a system .
+
+dialogue type : s^bs
+B :  Our system , we spent ten thousand dollars on equipment not including the PC .
+
+dialogue type : s^bs
+B :  However , seven and a half thousand of that was the wireless mikes .
+
+dialogue type : fh
+B :  Uh ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^aa
+B :  that 's true
+
+dialogue type : s|qy^d^g
+B :  but we haven't spent that , right ?
+
+dialogue type : s|qy^d^g
+B :  But once we once we 've done the intellectual part of these , uh , we can just knock them out , right ?
+
+dialogue type : s^cs
+B :  We can start we you can make a hundred of them or something .
+
+dialogue type : s^cs.%--
+B : 
+
+dialogue type : s
+B :  Washington could have a system that didn't have any wireless but would had what 's based on these
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^e
+B :  PC and two thousand dollars for the A - to - D stuff .
+
+dialogue type : s^df.%--
+B : 
+
+dialogue type : s^bk
+B :  Oh th the P Z
+
+dialogue type : s
+B :  P Z Ms cost a lot .
+
+dialogue type : s
+B :  But anyway you 'd save , on the seven seven or eight thousand for the for the wireless system .
+
+dialogue type : s
+B :  So actually that might be attractive .
+
+dialogue type : s^bk
+B :  OK ,
+
+dialogue type : s
+B :  I can move my thumb now .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^aa|s^df
+B :  Yeah , but if the words are more predictable .
+
+dialogue type : s^ba
+B :  Mmm !
+
+dialogue type : z
+B :  Sorry .
+
+dialogue type : z
+B :  Tha - tha
+
+dialogue type : z
+B :  Yeah ,
+
+dialogue type : z
+B :  that 's been filled in for you .
+
+dialogue type : z
+B :  But they 're in order !
+
+dialogue type : z
+B :  They start , six , seven , eight , nine , zero , one , two , three , four , five , six , eight , nine .
+
+dialogue type : z
+B :  And they 're in order because they 're sorted lexically by the file names , which are have the numbers in digits .
+
+dialogue type : z
+B :  And so they 're actually this is like all the all utterances that were generated by speaker MPJ or something .
+
+dialogue type : z
+B :  And then within MPJ they 're sorted by what he actually said .
+
+dialogue type : z
+B :  It doesn't matter !
+
+dialogue type : z
+B :  It 's like Cuz you said " six , seven , eight " .
+
+dialogue type : z
+B :  We think it doesn't matter .
+
+dialogue type : z
+B : 
+
+dialogue type : z
+B :  Cuz we have these writt written down , right ?
+
+dialogue type : z
+B : 
+
+dialogue type : z
+B : 
+
+dialogue type : z
+B :  Yeah .
+
+dialogue type : z
+B :  That 's a great idea .
+
+dialogue type : z
+B :  Alright .
+
+dialogue type : z
+B :  Looks good .
+
+dialogue type : z
+B :  Looks like there were no errors .
+
+dialogue type : z
+B :  There were no there were no direct driver errors , by the look of it , which is good .
+
+dialogue type : z
+B :  So I 'm gonna stop it .
+
+dialogue type : z
+B :  Yeah ,
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  Uh - oh .
+

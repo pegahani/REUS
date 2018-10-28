@@ -1,0 +1,213 @@
+dialogue type : z
+E :  Ah
+
+dialogue type : z
+E :  Five , five .
+
+dialogue type : z
+E :  Mmm , channel five ?
+
+dialogue type : z
+E :  Doesn't work ?
+
+dialogue type : z
+E :  No ? Ah ,
+
+dialogue type : z
+E :  era el cuatro .
+
+dialogue type : z
+E :  Yeah .
+
+dialogue type : z
+E :  Yeah yeah yeah .
+
+dialogue type : z
+E :  OK .
+
+dialogue type : z
+E :  I saw that .
+
+dialogue type : z
+E :  Ah yeah , it 's OK .
+
+dialogue type : z
+E :  Channel I decided to talk about that .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^ar
+E :  Not yet .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : %
+E :  Yeah .
+
+dialogue type : s^2
+E :  Aurora - two .
+
+dialogue type : s^ar
+E :  Mmm , no .
+
+dialogue type : qy^d^rt
+E :  Fifty - one ?
+
+dialogue type : %--
+E : 
+
+dialogue type : s^2
+E :  We improve .
+
+dialogue type : s
+E :  I I I 'm trying the HTK with eh , PLP twelve on - line delta - delta and MSG filter together .
+
+dialogue type : s^aa^m
+E :  The combination , yeah .
+
+dialogue type : s^df
+E :  But I haven't result at this moment .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  Ye - Uh , with the old older ,
+
+dialogue type : s^aa
+E :  yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%-
+E :  But We can
+
+dialogue type : s
+E :  know soon .
+
+dialogue type : s^am
+E :  Maybe .
+
+dialogue type : s^no
+E :  I don't know .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  Begin to work in this .
+
+dialogue type : s.%-
+E :  We are @ @ .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  Mu .
+
+dialogue type : s^ar
+E :  No
+
+dialogue type : s^rt
+E :  transform the PLP
+
+dialogue type : s
+E :  and only transform the other
+
+dialogue type : s^no
+E :  I 'm not sure .
+
+dialogue type : s
+E :  Two e @ @ it 's one .
+
+dialogue type : s
+E :  Yeah , I have one .
+
+dialogue type : s
+E :  We have one .
+
+dialogue type : s
+E :  But they have a question of the result .
+
+dialogue type : qw
+E :  Um how are trained the the LDA filter ?
+
+dialogue type : qw^r
+E :  How obtained the LDA filter ?
+
+dialogue type : s^bk
+E :  Yes ,
+
+dialogue type : h|s
+E :  um the LDA filter needs some training set to obtain the filter .
+
+dialogue type : s^rt.%--
+E :  Maybe
+
+dialogue type : s^no
+E :  I don't know exactly how they are obtained .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : qy^d^g
+E :  You understand me ?
+
+dialogue type : s^bk
+E :  Yeah ,
+
+dialogue type : s
+E :  uh for example , LDA filter need a set of a set of training to obtain the filter .
+
+dialogue type : s
+E :  And maybe for the Italian , for the TD TE on for Finnish , these filter are are obtained with their own training set .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg|s^df.%--
+E :  Yeah , because maybe it the same situation that the neural network training with their own
+
+dialogue type : s
+E :  set .
+
+dialogue type : s^no
+E :  I don't understand also
+
+dialogue type : qw.%--
+E :  what
+
+dialogue type : qw^rt
+E :  is what is the difference between ASP and uh baseline over ?
+
+dialogue type : s.%--
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Ah , OK , mm - hmm .
+
+dialogue type : s^bk
+E :  yeah .
+
+dialogue type : s.%
+E :  Temporal LDA .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : b
+E :  Yes .
+

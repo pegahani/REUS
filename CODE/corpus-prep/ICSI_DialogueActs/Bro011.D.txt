@@ -1,0 +1,75 @@
+dialogue type : z
+D :  Channel four .
+
+dialogue type : z
+D :  Test .
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  Today 's
+
+dialogue type : qy^rt^t3
+D :  System on
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : %-
+D :  We modif
+
+dialogue type : s
+D :  Yeah , I modified it
+
+dialogue type : s^bsc
+D :  well ,
+
+dialogue type : s
+D :  modifying I studied Barry 's sim code , more or less .
+
+dialogue type : s^rt
+D :  to take @ @ the first step the spectral subtraction .
+
+dialogue type : s^rt
+D :  and we have some the feature for Italian database
+
+dialogue type : s
+D :  and we will try with this feature with the filter to find the result .
+
+dialogue type : s
+D :  But we haven't result until this moment .
+
+dialogue type : s^rt
+D :  But well , we are working in this also
+
+dialogue type : s^cs.%-
+D : 
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : s^ar|s
+D :  No , no n we have n we have do the experiment
+
+dialogue type : s^e.%--
+D :  only have the feature the feature but the experiment have
+
+dialogue type : s
+D :  we have not make the experiment
+
+dialogue type : fh
+D :  and
+
+dialogue type : s
+D :  maybe will be good result or bad result ,
+
+dialogue type : s^no
+D :  we don't know .
+
+dialogue type : %-
+D :  It 's my
+
+dialogue type : s
+D :  I know this is mine here .
+

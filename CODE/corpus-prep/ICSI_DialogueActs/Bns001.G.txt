@@ -1,0 +1,255 @@
+dialogue type : z
+G :  OK ,
+
+dialogue type : z
+G :  should I next ?
+
+dialogue type : z
+G :  Hey , Adam , you know what ?
+
+dialogue type : z
+G :  It must be funny to do an a research on how people behave while reading these numbers .
+
+dialogue type : z
+G :  That must be
+
+dialogue type : z
+G :  Yeah !
+
+dialogue type : z
+G :  It must be much more interesting to to see their behavior .
+
+dialogue type : z
+G :  Oh y yeah !
+
+dialogue type : s^bk
+G :  Oh ,
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : fg
+G :  Ah .
+
+dialogue type : s^fa
+G :  Sorry .
+
+dialogue type : qy.%-
+G :  Can I ?
+
+dialogue type : s
+G :  Maybe I can add something .
+
+dialogue type : s
+G :  Yeah , if there 's anything else which we what we could add on the web site .
+
+dialogue type : s
+G :  So , p For example , if you have a small abstract or some pictures or whatever , about the work you did before , what you are planning to do here , that would be fine ,
+
+dialogue type : s^df
+G :  cuz now we can add some more stuff there .
+
+dialogue type : s
+G :  Or if you have something or if somebody has some slides , o or articles , whatever he wants to be published there .
+
+dialogue type : s^bk
+G :  Yeah
+
+dialogue type : fh
+G :  and
+
+dialogue type : s^bk|s^ng
+G :  Yeah , it depends what what everybody wants to do .
+
+dialogue type : fg
+G :  So
+
+dialogue type : s
+G :  about the projects will be something ,
+
+dialogue type : s
+G :  then , about publications will be another point ,
+
+dialogue type : s
+G :  and Yeah , additional information about how is life in Berkeley and i Yep . I don't know , some some hints , some web sites or links which are useful when somebody arrives or stuff like that .
+
+dialogue type : s^aa|s^na
+G :  Oh , oh , no , I 'm not doing it for everybody
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^bk|s
+G :  Yeah , but but what is planned is that I do something like a previous , you know , layout , and give everybody the , uh , opin uh , the possibility to the chance to put his content inside
+
+dialogue type : s^df
+G :  so that the layout is for everybody the same ,
+
+dialogue type : s^df
+G :  so about the projects and stuff .
+
+dialogue type : s
+G :  So , there will be something .
+
+dialogue type : qw^rt
+G :  Hmm ?
+
+dialogue type : s^bk^fe
+G :  Oh !
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^aa|s
+G :  Yeah , but the task changed really a lot ,
+
+dialogue type : s.%-
+G :  so , I 'd I rather would like to
+
+dialogue type : s^bk|s
+G :  Yeah , but I 'd rather like to follow the discussion before I gave any comments ,
+
+dialogue type : s^df
+G :  cuz it 's really The first point is it 's much more than it was before I left ,
+
+dialogue type : s:s^fe
+G :  so it 's like five weeks in between , so it 's like that whew !
+
+dialogue type : s
+G :  that big now .
+
+dialogue type : s
+G :  And it really changed a lot
+
+dialogue type : s^df
+G :  cuz the I mean I found the classroom inside
+
+dialogue type : s
+G :  but , the thing where I left the discussion was that we are talking about uh a classroom where you know everybody could look on with any kind of device and follow lectures or do exercise or whatever .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s
+G :  Now we are talking about something which is much more precise
+
+dialogue type : s
+G :  and the the range of stuff is maybe more narrow than before
+
+dialogue type : s
+G :  so I 'd rather like to to follow it a bit , and then to get more into the ideas .
+
+dialogue type : qw
+G :  What do you mean by " put together " ?
+
+dialogue type : b
+G :  Ah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s.%--
+G :  So why I wasn't ,
+
+dialogue type : s^rt
+G :  well , yeah , uh hold myself back a bit with comments , is uh cuz when I left the discussion , the discussion was what to to have something like a big umbrella about everybody who was at this point , here .
+
+dialogue type : s
+G :  And so the discussion was much broader than it is maybe right now .
+
+dialogue type : s^bu
+G :  And there I had the impression the umbrella was this kind of classroom thing .
+
+dialogue type : qy^d^g^rt
+G :  Right ?
+
+dialogue type : qrr^d
+G :  Or wrong ?
+
+dialogue type : s^aa|s^na
+G :  Yeah , yeah , yeah . It is .
+
+dialogue type : s^e
+G :  Of course .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Yeah , yeah , yeah .
+
+dialogue type : s^na
+G :  That 's that 's clear .
+
+dialogue type : %-
+G :  But
+
+dialogue type : s^aa|s^na
+G :  Yeah , that 's that 's clear ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^df
+G :  because when we were discussion discussing this uh stuff weeks ago , uh I had the impression that , you know , everything of these work packages uh fit together under this one big umbrella .
+
+dialogue type : s
+G :  And now it sounds different .
+
+dialogue type : s^no
+G :  So that 's what I don't understand .
+
+dialogue type : s^df
+G :  Ah but , it 's also because I missed the last four weeks .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s
+G :  It 's a a bit hard for me to follow the development what happened in the last four weeks ,
+
+dialogue type : s^e
+G :  why it changed so .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^df
+G :  So Cuz what 's difficult for me is what is meant by " application " ?
+
+dialogue type : s^df
+G :  So . Cuz I have sometimes the impression that everybody is defining " application " in different way .
+
+dialogue type : qw
+G :  So , what exactly is mean by " application " ?
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s^bk
+G :  Oh , OK .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^bu
+G :  So what has changed is that we 're not only focussing on this intelligent classroom , but on everything .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^aap|s^ng
+G :  Yeah but there 's something needed to sell it .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^t3
+G :  Bless you .
+
+dialogue type : s
+G :  Do not Don't switch it off .
+

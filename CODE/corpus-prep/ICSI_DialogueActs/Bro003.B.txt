@@ -1,0 +1,180 @@
+dialogue type : s^nd
+B :  Yeah , Oakland .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^rt
+B :  Other than the language , is there a reason not to use the TIMIT phone set ?
+
+dialogue type : s^e
+B :  Cuz it 's larger ?
+
+dialogue type : s^e
+B :  As opposed to the ICSI phone set ?
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bu|qy^d^g^rt
+B :  Well , we have that now , too , right ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s
+B :  Or Swiss .
+
+dialogue type : s^e
+B :  Swiss - German .
+
+dialogue type : qy
+B :  Did the Aurora people actually corrupt it themselves ,
+
+dialogue type : qrr
+B :  or just specify the signal and the signal - t
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^j
+B :  From the deep South .
+
+dialogue type : s^cs^nd
+B :  Or you just add it to the features .
+
+dialogue type : s^bu
+B :  It 's not a complete set of combinations , though ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^bu^r
+B :  It 's not a complete set of combinations , though ,
+
+dialogue type : qy^d^g^r^rt
+B :  right ?
+
+dialogue type : s^bu
+B :  There 's a computation limit , though ,
+
+dialogue type : qy^g^rt
+B :  isn't there ?
+
+dialogue type : qy^bu^r^rt
+B :  Isn't there like a limit on the computation load , or d latency , or something like that for Aurora task ?
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^no
+B :  I don't know what a Ravioli is .
+
+dialogue type : s^cs
+B :  We can check really quickly ,
+
+dialogue type : s
+B :  I guess .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^na
+B :  It s also depends on the net .
+
+dialogue type : qw^rt
+B :  How big is the net ?
+
+dialogue type : qw^rt
+B :  How big are the nets you 're using ?
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Huh .
+
+dialogue type : qy^bu^d^rt^t3
+B :  SAMPA ?
+
+dialogue type : qw^bu^t3
+B :  What does " SAMPA " mean ?
+
+dialogue type : s.%-
+B :  So , I mean
+
+dialogue type : s^fa
+B :  I 'm sorry .
+
+dialogue type : qy^rt
+B :  I was gonna say , does that mean IPA is not really international ?
+
+dialogue type : s^bk
+B :  Oh , I see .
+
+dialogue type : s^bk
+B :  Got it .
+
+dialogue type : s^bu|qy^d^g^rt
+B :  Fact , most confusions are within the phone phone classes , right ?
+
+dialogue type : s^df
+B :  I think , uh , Larry was saying like obstruents are only confused with other obstruents , et cetera , et cetera .
+
+dialogue type : fg
+B :  Um .
+
+dialogue type : s^bu
+B :  The soft training of the nets still requires the vector to sum to one , though ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s
+B :  So you can't really feed it , like , two articulatory features that are on at the same time with ones
+
+dialogue type : s^df
+B :  cuz it 'll kind of normalize them down to one half or something like that , for instance .
+
+dialogue type : qw^cs
+B :  Why don't you just choose linear ?
+
+dialogue type : qy^d^f^g^rt
+B :  Right ?
+
+dialogue type : qy^cs^d^rt
+B :  Linear outputs ?
+
+dialogue type : qy
+B :  Isn't that what you 'll want ?
+
+dialogue type : s^e
+B :  If you 're gonna do a KL Transform on it .
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Yeah ?
+
+dialogue type : b
+B :  Hmm .
+

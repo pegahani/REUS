@@ -1,0 +1,996 @@
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^no
+C :  I don't see why why your signal is louder after processing ,
+
+dialogue type : s.%-
+C :  because yo
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Well , the system is use the absolute energy , so it 's a little bit dependent on on the signal level .
+
+dialogue type : s^bd
+C :  But , not so much , I guess .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Eh
+
+dialogue type : s
+C :  I had a question about the system the SRI system .
+
+dialogue type : qy^d^rt
+C :  So , you trained it on TI - digits ?
+
+dialogue type : s^bu
+C :  But except this , it 's exactly the same system as the one that was tested before and that was trained on Macrophone .
+
+dialogue type : qy^d^g
+C :  Right ?
+
+dialogue type : s^rt
+C :  So on TI - digits it gives you one point two percent error rate
+
+dialogue type : s
+C :  and on Macrophone it 's still O point eight .
+
+dialogue type : qy^rt
+C :  Uh , but is it exactly the same system ?
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qy^bu^d
+C :  So you use VTL - uh , vocal tract length normalization and , um , like MLLR transformations also ,
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  all that stuff .
+
+dialogue type : s
+C :  It was training on Macrophone and testing yeah , on on meeting digits .
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  so front - end and HTK , um , acoustic models on the meeting digits
+
+dialogue type : s
+C :  and it 's a little bit better than the previous system .
+
+dialogue type : s^e
+C :  We have I have two point seven percent error rate .
+
+dialogue type : s^e
+C :  And before with the system that was proposed , it 's what ? It was three point nine .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s
+C :  We are getting better .
+
+dialogue type : %
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  Two point seven .
+
+dialogue type : s
+C :  On the meeting we have two point seven .
+
+dialogue type : h|s^aa
+C :  Uh . Yeah , yeah .
+
+dialogue type : fh
+C :  So , yeah ,
+
+dialogue type : s
+C :  we have the new LDA filters ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  I think , maybe I didn't look , but one thing that makes a difference is this DC offset compensation .
+
+dialogue type : qy
+C :  Uh , eh Do y did you have a look at at the meet uh , meeting digits , if they have a DC component ,
+
+dialogue type : qrr.%--
+C :  or ?
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : h|s
+C :  Um . Yeah .
+
+dialogue type : s^e
+C :  Maybe , concerning these d still , these meeting digits .
+
+dialogue type : s
+C :  I 'm more interested in trying to figure out what 's still the difference between the SRI system and the Aurora system .
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^bk|s^cc
+C :  Yeah . So , I think I will maybe train , like , gender - dependent models ,
+
+dialogue type : s^df
+C :  because this is also one big difference between the two systems .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s^rt
+C :  the other differences were the fact that maybe the acoustic models of the SRI are more SRI system are more complex .
+
+dialogue type : s
+C :  But , uh , Chuck , you did some experiments with this
+
+dialogue type : fh
+C :  and
+
+dialogue type : s
+C :  it was hard t to to have some exper some improvement with this .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s.%-
+C :  The vocal tr
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk|s
+C :  Yeah . This is another difference .
+
+dialogue type : s
+C :  Their normalization works like on on the utterance levels .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  We have a system that does it on - line .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  it might be worse if the channel is constant ,
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Nnn .
+
+dialogue type : s.%--
+C :  SRI it 's it 's tr
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  I guess it 's triphones .
+
+dialogue type : b
+C :  Huh .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg
+C : 
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : fg
+C :  Well .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^cc
+C :  Well , the first thing I that I want to do is just maybe these gender things .
+
+dialogue type : fh
+C :  Uh .
+
+dialogue type : s^cc.%--
+C : 
+
+dialogue type : s
+C :  Well , I I don't know how much it helps , what 's the model .
+
+dialogue type : s^aa
+C :  That 's right .
+
+dialogue type : s^na
+C :  So it 's the clean TI - digits training set .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : s^bu
+C :  I guess you used the clean training set .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg
+C :  Well .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^na
+C :  I think so .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : %--
+C :  Ye
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^na
+C :  The complete SRI system is one point two .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bu
+C :  It was four point something .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : s.%--
+C :  The HTK system with , uh , b
+
+dialogue type : s
+C : 
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : fg
+C : 
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s
+C :  The only difference is the features , right now ,
+
+dialogue type : s^e.%--
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^na
+C :  They are helping .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s^cc
+C : 
+
+dialogue type : s^cc^e
+C :  test it on , uh , the noisy TI - digits ,
+
+dialogue type : s^df
+C :  cuz I 'm still wondering where this improvement comes from .
+
+dialogue type : s^e
+C :  When you train on Macrophone , it seems better on meeting digits .
+
+dialogue type : s^df
+C :  But I wonder if it 's just because maybe Macrophone is acoustically closer to the meeting digits than than TI - digit is ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^e
+C :  TI - digits are very clean recorded digits
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  Uh ,
+
+dialogue type : %-
+C :  f s
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bk|s^na.%--
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bu
+C :  So , just using the SRI system , test it on and test it on Aurora TI - digits .
+
+dialogue type : qy^d^g^rt
+C :  Right .
+
+dialogue type : h
+C :  Um .
+
+dialogue type : s^bk|s
+C :  Yeah . There is this problem of multilinguality yet .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : %-
+C :  i i
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  That 's right .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : s^aa
+C :  Oh , so , OK .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^na
+C :  I see what you mean .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  But , just testing on TI - digits would already give us some information about what 's going on .
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  mm - hmm .
+
+dialogue type : s^bk
+C :  Uh , yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^tc.%--
+C :  Uh , the next thing is this this VAD problem that ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C : 
+
+dialogue type : s^e
+C :  so , whi that shows that when the SNR decrease , uh , the current VAD approach doesn't drop much frames for some particular noises ,
+
+dialogue type : s^e
+C :  uh , which might be then noises that are closer to speech , uh , acoustically .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : h
+C : 
+
+dialogue type : fh
+C :  Well .
+
+dialogue type : s
+C :  First of all , the boundaries might be , uh like we would have t two hundred milliseconds or before and after speech .
+
+dialogue type : fh
+C :  Uh .
+
+dialogue type : s
+C :  So removing more than that might still make a difference in the results .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^df
+C :  Because we don't didn't looked that much at that .
+
+dialogue type : s
+C :  But , still , I think it 's an interesting problem .
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : b
+C :  yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s
+C :  There 's an uh , I think it 's still for even for the evaluation ,
+
+dialogue type : fh|s
+C :  uh , it might still be interesting to work on this
+
+dialogue type : s^df
+C :  because the boundaries apparently that they would provide is just , um , starting of speech and end of speech uh , at the utterance level .
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^df^na
+C :  It might be useful for , like , noise estimation , and a lot of other things that we want to work on .
+
+dialogue type : %--
+C : 
+
+dialogue type : fh
+C :  Mmm .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s^tc
+C :  So I did I just started to test putting together two VAD which was was not much work actually .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s
+C :  I im re - implemented a VAD that 's very close to the , um , energy - based VAD that , uh , the other Aurora guys use .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s
+C :  So , which is just putting a threshold on the noise energy ,
+
+dialogue type : s
+C :  and , detect detecting the first group of four frames that have a energy that 's above this threshold ,
+
+dialogue type : fh
+C :  and ,
+
+dialogue type : fh
+C :  uh ,
+
+dialogue type : s
+C :  from this point , uh , tagging the frames there as speech .
+
+dialogue type : s
+C :  So it removes the first silent portion portion of each utterance .
+
+dialogue type : s
+C :  And it really removes it ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : s
+C :  still o on the noises where our MLP VAD doesn't work a lot .
+
+dialogue type : fh
+C :  Uh ,
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bu.%--
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg
+C :  So , yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  so , removes like low , um , uh low - energy , uh , speech frames .
+
+dialogue type : s
+C : 
+
+dialogue type : s^e
+C :  so , the one from the MLP and the one from the energy - based with the with the and operator .
+
+dialogue type : fh
+C :  So ,
+
+dialogue type : s
+C :  I only keep the frames where the two agree that it 's speech .
+
+dialogue type : s^e
+C :  So if the energy - based dropped dropped low - energy speech , mmm , they they are they are lost .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s
+C :  But s still , the way it 's done right now it it helps on on the noises where it seems to help on the noises where our VAD was not very good .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : fg
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C :  Well , yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  The frames that are dropped by the energy - based system are are , uh , dropped , even if the , um , MLP decides to keep them .
+
+dialogue type : fh
+C :  But , yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Mmm . M Yeah .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  Well , actually if I don't maybe don't want to work too much of on it right now .
+
+dialogue type : s
+C :  I just wanted to to see if it 's what I observed was the re was caused by this this VAD problem .
+
+dialogue type : s
+C :  And it seems to be the case .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^rt^tc
+C :  Uh , the second thing is the this spectral subtraction .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s^e
+C :  which I 've just started yesterday to launch a bunch of , uh , twenty - five experiments ,
+
+dialogue type : fh|s^e
+C :  uh , with different , uh , values for the parameters that are used .
+
+dialogue type : fh
+C :  So ,
+
+dialogue type : s
+C :  it 's the Makhoul - type spectral subtraction which use an over - estimation factor .
+
+dialogue type : s
+C :  So , we substr I subtract more , um , noise than the noise spectra that is estimated on the noise portion of the s uh , the utterances .
+
+dialogue type : s
+C :  So I tried several , uh , over - estimation factors .
+
+dialogue type : s^rt
+C :  And after subtraction , I also add a constant noise ,
+
+dialogue type : s
+C :  and I also try different , uh , noise , uh , values
+
+dialogue type : s
+C :  and we 'll see what happen .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s.%--
+C :  But st still when we look at the ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  Well , it depends on the parameters that you use ,
+
+dialogue type : s
+C :  but for moderate over - estimation factors and moderate noise level that you add , you st have a lot of musical noise .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s
+C :  On the other hand , when you subtract more and when you add more noise , you get rid of this musical noise
+
+dialogue type : s
+C :  but maybe you distort a lot of speech .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : fh
+C :  Well .
+
+dialogue type : fh
+C :  Mmm .
+
+dialogue type : s
+C :  Well , it until now , it doesn't seem to help .
+
+dialogue type : %--
+C :  But
+
+dialogue type : s
+C :  We 'll see .
+
+dialogue type : s^cc
+C :  So the next thing , maybe I what I will try to to do is just to try to smooth mmm , the , um to smooth the d the result of the subtraction ,
+
+dialogue type : s^e
+C :  to get rid of the musical noise ,
+
+dialogue type : s^e
+C :  using some kind of filter ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : fh
+C :  Mmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  So , to get something that 's would be closer to what you tried to do with Wiener filtering .
+
+dialogue type : %--
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %--
+C : 
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  That 's it for me .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+C :  So this is on SpeechDat - Car Italian ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : %--
+C :  o
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  Actually , the VTS that you tested before was in the log domain
+
+dialogue type : s
+C :  and so the codebook is e e kind of dependent on the level of the speech signal .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  So I expect it If if you have something that 's independent of this , I expect it to it to , uh , be a better model of speech .
+
+dialogue type : fh
+C :  And .
+
+dialogue type : fh
+C :  Well .
+
+dialogue type : s^aa
+C :  No .
+
+dialogue type : s^na
+C :  We could normali norm I mean , remove the median .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^cs
+C :  But here also we would have to be careful about removing the mean of speech
+
+dialogue type : fh
+C :  and
+
+dialogue type : s^e
+C :  not of noise .
+
+dialogue type : s^df
+C :  Because it 's like first doing general normalization
+
+dialogue type : s
+C :  and then noise removal ,
+
+dialogue type : s^e.%--
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+

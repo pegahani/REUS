@@ -1,0 +1,2721 @@
+dialogue type : z
+D :  So
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  Thanks Adam .
+
+dialogue type : z
+D :  We could start with our meeting ?
+
+dialogue type : z
+D :  Yep !
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  You have to stay all the time here ?
+
+dialogue type : z
+D :  But ch you wanna do ?
+
+dialogue type : z
+D :  Yeah .
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  We can do that .
+
+dialogue type : z
+D :  Two nine seven seven ?
+
+dialogue type : z
+D :  Right .
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  Yeah .
+
+dialogue type : z
+D :  I will call you then .
+
+dialogue type : fg
+D :  Uh , OK .
+
+dialogue type : s^co^rt^t
+D :  So , then let 's start with our weekly meeting .
+
+dialogue type : s
+D :  The last time 's uh we learned too much , I believe ,
+
+dialogue type : fh
+D :  so
+
+dialogue type : fh|s^t
+D :  uh , today , I have two topics .
+
+dialogue type : s^t
+D :  And the first topic , um , we have a new member in our group ,
+
+dialogue type : s^e
+D :  Miguel Sanchez .
+
+dialogue type : s
+D :  I believe everybody knows him very well in the meantime because he stayed here quite a little time
+
+dialogue type : s
+D :  and I think he is talking to everybody in the meantime .
+
+dialogue type : s^co
+D :  So , but , anyway , I would like that Miguel Sanchez
+
+dialogue type : fh|s
+D :  And Because I discussing with him uh , uh many things concerning , uh , his skills and what the NSA group intends to do .
+
+dialogue type : s
+D :  I hope there will be a match , uh , then , for his future work .
+
+dialogue type : s^t
+D :  And the second topic is then to discuss a proposal in much more detail .
+
+dialogue type : s
+D :  I believe we still haven't left our starting position .
+
+dialogue type : fh|s
+D :  And , um , yesterday I also discussed with Wilbert some things
+
+dialogue type : s^co^t
+D :  and I would like to focus on the question " What problem we are going to solve with such a proposal . "
+
+dialogue type : s
+D :  Not so will they have a common activity within the group itself and maybe with other partners outside ,
+
+dialogue type : s
+D :  but , the technical problem .
+
+dialogue type : s^df
+D :  But that 's under the s second topic ,
+
+dialogue type : s^co
+D :  so first I would like that Miguel will told us a little bit about his skills and and uh his background .
+
+dialogue type : s
+D :  So , please .
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : s^ft
+D :  So , thanks , Miguel .
+
+dialogue type : s
+D :  Yeah , we m discussed it yesterday that you 'll maybe will have a talk next Tuesday
+
+dialogue type : s^co
+D :  But , Give me a sign and send me an abstract so that I can announce it , then , for the next meeting .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s^tc
+D :  One short other topic is Uh . Claudia did a lot of work concerning the web pages in the meantime .
+
+dialogue type : fh|s
+D :  And , despite busy stuff with waivers and uh and visas and whatever , uh , she found the time to um write , with what we discussed before and in the form of HTML stuff .
+
+dialogue type : s
+D :  And we wanna put it on the web pages in the next days .
+
+dialogue type : fh|s^cc
+D :  So , I will send an email , then , to everybody that they should check their web pages whether they 're aligned with , um , their own views and opinions of what we should what should be presented on the web pages .
+
+dialogue type : s
+D :  And any feedback is then , well appreciated .
+
+dialogue type : %
+D :  No ?
+
+dialogue type : fg
+D :  So .
+
+dialogue type : s^co^t^tc
+D :  Let 's switch to the project proposal .
+
+dialogue type : fh|s.%-
+D :  Um , I mentioned that it is still f
+
+dialogue type : qw^d
+D :  Yeah ?
+
+dialogue type : %
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Then everybody sees the structure , how it is uh , structured really structured .
+
+dialogue type : s
+D :  Then maybe you wi can easy offer some additional input which should be presented , then , on the web pages .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^na
+D :  Yeah , it is .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Half collection of necessary information .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa|s
+D :  Yeah , you can have it .
+
+dialogue type : s^df.%-
+D :  Because , as uh Uh , uh , le
+
+dialogue type : s^ar
+D :  No ,
+
+dialogue type : s^df
+D :  but this is oh , uh Everybody 's obliged to do it for his own , you know .
+
+dialogue type : s
+D :  So there is not uh Claudia is not the webmaster here to , uh , get the collection for for for everything .
+
+dialogue type : fg
+D :  So .
+
+dialogue type : s
+D :  This is responsible for uh , everybody 's responsible for his own ,
+
+dialogue type : fh
+D :  yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s^ft
+D :  thanks .
+
+dialogue type : fg
+D :  So ,
+
+dialogue type : s^co^rt^t^tc
+D :  let 's switch to the proposal .
+
+dialogue type : s
+D :  I ask everybody whether read it in the meantime , and understand everything .
+
+dialogue type : %
+D :  Yeah .
+
+dialogue type : qy^d^rt
+D :  Everybody say yes ?
+
+dialogue type : qy^d^rt
+D :  Yeah ?
+
+dialogue type : s^bk
+D :  Yes ,
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s
+D :  From my point of view , As I mentioned before , we still in the starting position .
+
+dialogue type : s
+D :  I think the four building blocks on the network level will have really a major impact on on f current um , available wireless networks and , uh , also for future generations .
+
+dialogue type : fh|s
+D :  And , what the missing thing is really what kind of problem we are wan wanna s solve with such a project proposal .
+
+dialogue type : s
+D :  And Wilbert yesterday mentioned , and he is right , that , what kind of , maybe , service we are really going to offer .
+
+dialogue type : s
+D :  The linkage between such kind of application , also interactive multimedia application and , uh , this kind of networking stuff is , um , maybe not very well aligned ,
+
+dialogue type : s^df
+D :  because there will be of course , a portion of mobile access to such kind of application .
+
+dialogue type : s
+D :  But , I think that 's not the majority
+
+dialogue type : s
+D :  and that is not the major focus of um this kind of um this kind of application anyway .
+
+dialogue type : s
+D :  So I would like to to uh split , in principle , the discussions of what kind of application tsk um f far away
+
+dialogue type : s
+D :  and I would like to more to focus if we have certain kind of vision t concerning these building blocks and the network , Um , What kind of problem we are going to solve .
+
+dialogue type : s
+D :  What kind of , uh , um , um , glue between these four building blocks exists
+
+dialogue type : fh|s
+D :  and what kind of synergy effects , in principle , as if they work and fit very well together exists for networking stuff .
+
+dialogue type : s
+D :  And what kind of service could we provide in that area .
+
+dialogue type : s
+D :  We will have these kind of , uh , really closely working together of these four building blocks .
+
+dialogue type : s^co
+D :  So maybe uh , Wilbert , you can start to discu oder to to tell the group about what you mentioned yesterday concerning certain kind of ideas .
+
+dialogue type : s^am
+D :  Maybe it 's a brainstorming um , of of these things
+
+dialogue type : s^cs
+D :  and maybe we can comment later on th these uh these ideas .
+
+dialogue type : s^bu|qy^d^g^rt
+D :  And I saw you sk still discuss with with uh Mark , right ?
+
+dialogue type : s^e
+D :  some stuff .
+
+dialogue type : qy
+D :  Was it also related with with these things .
+
+dialogue type : s^bk^m
+D :  No ?
+
+dialogue type : s
+D :  OK , It was @ @ .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^bk
+D :  OK
+
+dialogue type : b
+D :  Yeah , yeah .
+
+dialogue type : s^cs
+D :  Then , maybe then , one one w uh sentence before .
+
+dialogue type : s
+D :  I believe everybody fits very well in these kind of things .
+
+dialogue type : s^df
+D :  Because from the mathematical description with QS - in - Advance , me , as an expert for quality of service and , uh , Michael as an expert for uh , MPLS and Wilbert an expert for for Multicast , and , uh , I discussed with Miguel . It 's uh maybe a little bit the shift to active routing ,
+
+dialogue type : s
+D :  but it is still in the area of routing .
+
+dialogue type : s^cs
+D :  So . My idea is , in principle , to have , independently of any funding , independently of any outer contact , such such a core activity , in principle .
+
+dialogue type : s^cs
+D :  And we can see how much from the outer world can fit in .
+
+dialogue type : s
+D :  First of all , the first stage is the institution which is behind everybody .
+
+dialogue type : s^e
+D :  That means uh KPN in your case and Siemens in our case .
+
+dialogue type : s.%--
+D :  And maybe , then , in the broader world here other partners registered in the proposal migh
+
+dialogue type : s^e
+D :  Tomorrow , I will go to Cisco , for instance ,
+
+dialogue type : s^cc
+D :  and I will discuss uh , all this kind of things .
+
+dialogue type : s^am
+D : 
+
+dialogue type : s
+D :  The benefit here is , in principle , that the results are available .
+
+dialogue type : s^df
+D :  They are not restricted any way .
+
+dialogue type : s
+D :  If you have your own common activity . That makes a little bit more easier .
+
+dialogue type : fh|s
+D :  And , uh , if there is a technical linkage between such , uh um , between the outer world and us OK , the better it is .
+
+dialogue type : s
+D :  But , anyway , if we come to a certain kind of uh , common work within the core of the NSA group , I think that 's really beneficial to everybody .
+
+dialogue type : fh|s
+D :  And uh , especially , Wilbert , if you have in mind to go in the mmm , uh , really from the project proposal view , I think we can build it on this this core .
+
+dialogue type : qy^d^f^g
+D :  You know ,
+
+dialogue type : s
+D :  and go to the outer world with , and and and align it in a certain way .
+
+dialogue type : s^cs
+D :  For instance , that it also fit , maybe , to KPN , and Siemens , and in other companies .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s
+D :  Uh , maybe I will write a few keywords on the on the whiteboard
+
+dialogue type : qy^d^f^g
+D :  OK .
+
+dialogue type : s^bu
+D :  Yet the basic idea is , in principle , to switch seamlessly between wireless LAN technology , whatever and UMTS ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : fh|s^rt
+D :  And you see the benefit that , in principle , the customer will save a lot of money .
+
+dialogue type : s^df
+D :  Because if in - house communication like WaveLAN or maybe I see it also in the American market , some WaveLAN communication in the outer world will be available , the m and that is your assumption , that the more cost uh extensive um U M T S connection could be principle used , I would like to say , over WaveLAN ,
+
+dialogue type : s|qy^d^g^rt
+D :  and then I have a normal WaveLAN connection , right ?
+
+dialogue type : s
+D :  And the router and the WaveLAN connection goes into the core internet elsewhere
+
+dialogue type : fh|s
+D :  and the connection is not dropped between this seamless hand off I would like to say .
+
+dialogue type : qy^d^g^rt
+D :  Right ?
+
+dialogue type : %-
+D : 
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk|s
+D :  Yeah , but if this is the final goal ,
+
+dialogue type : s
+D :  it should be as much as possible available that you do not have to break the connection if you switch between the subnets ' technology
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^na
+D :  non - null
+
+dialogue type : s^bk|s.%--
+D :  Yeah , but if your s
+
+dialogue type : fh|s^ng
+D :  uh I believe everybody is aware about the USAIA architecture .
+
+dialogue type : fh|s
+D :  And uh this one is , here , this stuff is , here , also related to this kind what is mentioned there concerning the end system .
+
+dialogue type : s
+D :  And in my conf uh considered end system , there is a certain kind of policy , concerning how to use subnets technologies and and all these kind of things .
+
+dialogue type : s^e
+D :  How to use quality of service , you know , in advance ,
+
+dialogue type : s^df
+D :  because you have to pay for certain technologies and maybe for certain services .
+
+dialogue type : s
+D :  And that should not be done automatically .
+
+dialogue type : s
+D :  But it could be done automatically .
+
+dialogue type : s
+D :  But nevertheless there must be a certain kind of um user interaction always possible , that you could set up a certain kind of mini - database how to deal with all these kind of things .
+
+dialogue type : s^ba
+D :  I think that 's not a problem .
+
+dialogue type : s
+D :  But uh what I I would like to ask Wilbert here , and we discuss it yesterday , " Is it only the usage of that PCMCIA card where you have instead of GSM today , UMTS , and instead of wireless LAN today also wireless LAN .
+
+dialogue type : s.%--
+D :  Remember your four and one card uh concerning um ,
+
+dialogue type : qw.%--
+D :  what is the name , from Dataco - ?
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : s
+D :  Dacom
+
+dialogue type : s^df
+D :  Where you can enable four technologies , and you plug in , in your laptop
+
+dialogue type : s^df
+D :  and then you have every four uh subnet layer technologies available in your laptop .
+
+dialogue type : qy^rt
+D :  Is that the problem ?
+
+dialogue type : s^nd
+D :  Yeah , that 's not the problem .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : qw
+D :  Why ?
+
+dialogue type : fg|%-
+D :  Yeah , but this i
+
+dialogue type : s^bk|s
+D :  Yeah , but this is th only the probing to figure out that you get at a certain location the information that a s certain coverage of a certain subnet techn technology is available .
+
+dialogue type : s
+D :  And if so , then what Miguel mentions , then you add a certain kind of policy , to switch or not to switch , to this kind of technology ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s
+D :  But this is end - system related .
+
+dialogue type : s
+D :  That 's not network related .
+
+dialogue type : s
+D :  I see no network related stuff within these in this uh idea .
+
+dialogue type : s.%--
+D :  It 's only to set up i u
+
+dialogue type : s
+D :  For me it 's like a laptop t to plug one PCMCIA and currently will have two PCMCIA cards , and I compare GSM with UMTS .
+
+dialogue type : s
+D :  And today I would like to have GSM ,
+
+dialogue type : s^rt
+D :  and then I have my GSM connectivity .
+
+dialogue type : s
+D :  And I cannot use it other technology ,
+
+dialogue type : s^df
+D :  only GSM , because the interfaces , the driver interface , does not permit me to switch between the between different technologies .
+
+dialogue type : s^e
+D :  So if I want to go to wireless LAN I have to stop my connection and put in my wireless LAN PCMCIA card ,
+
+dialogue type : s^e
+D :  and then I can go on and set up the the same connection one more time .
+
+dialogue type : s
+D :  And what you have in mind , to do it a bit more seamlessly , and that makes an only sense for me if both technologies , in principle , were close together in that sense for application .
+
+dialogue type : s^e^rt
+D :  For instance , the application would be that I have my laptop here ,
+
+dialogue type : s^e
+D :  and I work here with wi with my device ,
+
+dialogue type : s^e
+D :  any kind of device ,
+
+dialogue type : s^e
+D :  and I work here in wireless LAN area .
+
+dialogue type : s^e
+D :  And then I go outside , and want to go still on , leaving the coverage of uh of the uh wireless LAN .
+
+dialogue type : s^e^rt
+D :  And at a certain state , the device uh receives certain signals that the coverage of UMTS or GSM is available .
+
+dialogue type : s^e
+D :  And at that state , you automatically , or based on the certain kind of user profile , switched to the um UMTS or GSM st uh network .
+
+dialogue type : s^ba
+D :  That 's the only senseful application .
+
+dialogue type : s
+D :  From my understanding , that means only to have a certain kind of control layer for the different drivers ,
+
+dialogue type : s^e
+D :  which you also mentioned as a USAIA architecture .
+
+dialogue type : fh|s
+D :  and uh then to do the switching for an existing stream or application between these uh , transparently to this application , between those uh these both technologies .
+
+dialogue type : s^am
+D :  Maybe there 's more potential .
+
+dialogue type : s^no
+D :  I don't s see it ,
+
+dialogue type : s^am
+D :  but maybe you have a additional idea .
+
+dialogue type : s
+D :  And I don't think that this end system device uh architecture , which will come automatically .
+
+dialogue type : s
+D :  And I believe there 's a lot of activity throughout the world ,
+
+dialogue type : s^df
+D :  because this seamlessly communication is always mentioned elsewhere where you cou where you listen to .
+
+dialogue type : fh
+D :  So
+
+dialogue type : fh
+D :  uh uh
+
+dialogue type : s
+D :  Now , I would like not to hear only three opinions .
+
+dialogue type : s
+D :  But maybe there are also other opinions .
+
+dialogue type : s^co.%--
+D : 
+
+dialogue type : s
+D :  Let us understand , built for everybody and their com whether their comments .
+
+dialogue type : z
+D :  Oh , please come in .
+
+dialogue type : fg
+D :  Uh .
+
+dialogue type : s^bk
+D :  OK
+
+dialogue type : s
+D :  Good luck .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  And the building blocks ,
+
+dialogue type : s^bk
+D :  yeah .
+
+dialogue type : s
+D :  Multicast , not a topic .
+
+dialogue type : qy^d^rt
+D :  Routing ?
+
+dialogue type : s
+D :  Well , what you the pointer the pointer you sent yesterday .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s
+D :  I c I didn't find the time , yeah , to do so ,
+
+dialogue type : fh
+D :  but ,
+
+dialogue type : fh
+D :  uh
+
+dialogue type : s|qy^d^g^rt
+D :  A Ricochet here , right ?
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Ah we just discussed a lot about proxies .
+
+dialogue type : s
+D :  That 's a fun
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg|s
+D :  Uh maybe a few comments .
+
+dialogue type : qy
+D :  First of all , Um . Do you mind Mi - Miguel , to write the name of the project on the whiteboard ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh|s^cc
+D :  Uh I I will send also the pointer which Miguel sent to me , to everybody so that everybody can take a look to this uh , project .
+
+dialogue type : fh|s^no
+D :  And uh I don't know what avail information is available
+
+dialogue type : s^df
+D :  because I didn't find the time currently to check it out .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qw^br^rt
+D :  Uh , sorry ?
+
+dialogue type : %
+D : 
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Ah !
+
+dialogue type : s^bk
+D :  Ah !
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : b
+D :  Yeah ? @ @
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : s^t^tc
+D :  Then the second thing is that uh Daimler - Chrysler research here in Palo Alto as well as in Germany , Ulm , is doing , in principle , the same with a car .
+
+dialogue type : s^df
+D :  They have a specific antenna for uh GSM Oh , GPS and and fu for future extended G - uh GSM networks and wireless LAN and and other thi and other network technology .
+
+dialogue type : s
+D :  In the roof of the car . They have a s lot of servers
+
+dialogue type : s
+D :  in the trunk of the car . Then they collect data how it is with handoff and all these kind of things
+
+dialogue type : s
+D :  and they are driving around the different areas .
+
+dialogue type : s
+D :  And the same car exists here in Palo Alto uh based on wireless LAN , GSM and 2 x Ricochet networks .
+
+dialogue type : s
+D :  They collect the dat collect collecting a lot of data . concerning the seamless handoffs and whether it works very well with speed
+
+dialogue type : fh
+D :  and um
+
+dialogue type : s
+D :  uh , Thomas is going to build mobile IP stuff in their servers .
+
+dialogue type : fh
+D :  uh
+
+dialogue type : s^df.%--
+D :  because they want to
+
+dialogue type : s
+D :  use current technology with a c a combination of mobile IP . So I think there is a lot of activities in the area .
+
+dialogue type : fh
+D :  Uh .
+
+dialogue type : s
+D :  And my third uh comment is uh if we are going something in that direction that is quite different from this thing here .
+
+dialogue type : fh|s
+D :  But , anyway , maybe as a core technology with a real product in mind .
+
+dialogue type : s
+D :  I see some difficulty because nobody currently has here certain kind uh of UMTS know how .
+
+dialogue type : s
+D :  And you need it definitely
+
+dialogue type : s^df
+D :  because then it j must be your uh Bible I would like to say that you are very familiar with UMTS if you wanna go in in that way .
+
+dialogue type : s
+D :  And As far as I know the UMTS standardization is not finished yet .
+
+dialogue type : s^e
+D :  Ninety percent , maybe , or eighty percent .
+
+dialogue type : s^no
+D :  I kno I 'm not sure .
+
+dialogue type : fh
+D :  But uh
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : qy^bu^d^rt
+D :  Users of of UMTS ?
+
+dialogue type : s
+D :  You can request certain kind of QS .
+
+dialogue type : s
+D :  You can even request it in GPS
+
+dialogue type : s^df
+D :  but it 's not end - to - end quality of service .
+
+dialogue type : s
+D :  It is only um what the gateways get .
+
+dialogue type : s
+D :  And within the core network there are certain kind of tunnels set up in the core network itself of the access provider ,
+
+dialogue type : s^e
+D :  not the internet backbone core .
+
+dialogue type : s
+D :  And you use certain kind of tunnel mechanism to combine , in principle , the base station cluster control .
+
+dialogue type : s
+D :  But this is uh is controlled by a certain kind of node .
+
+dialogue type : s
+D :  And you have the gateway to the PDN , or the Public Data Network .
+
+dialogue type : s
+D :  And between both there 's a certain kind of tunnel set up .
+
+dialogue type : qy^bu^d^rt
+D :  You mean now for GSM , @ @ ,
+
+dialogue type : qrr.%--
+D :  or ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Yeah , what is what means quality of service .
+
+dialogue type : s
+D :  A certain degree .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : fh
+D :  Uh .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  It 's packaged data oriented .
+
+dialogue type : s
+D :  It 's not really circuit - switched .
+
+dialogue type : s
+D :  In UMTS you have always GPS as a a involvement in the core network .
+
+dialogue type : s^rt
+D :  You have , in principle , the path which still is available for for the GSM network .
+
+dialogue type : s
+D :  Also they use , in principle , the same uh the same mechanism .
+
+dialogue type : s
+D :  But you also have a dat uh packet oriented communication that 's on the GPS stuff .
+
+dialogue type : s
+D :  And that 's also related to UMTS .
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : %-
+D : 
+
+dialogue type : s^ar|s^nd
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : s^ba
+D :  I think there 's a lot of research .
+
+dialogue type : qy^rt
+D :  But the question is " is this uh a research wh in which direction we are going ? "
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s.%-
+D :  For inf
+
+dialogue type : s^bk
+D :  Right ,
+
+dialogue type : s
+D :  but bear in mind the picture is a is a little bit different .
+
+dialogue type : s^df
+D :  The picture I have in mind concerning UMTS is , first of all , if you use UMTS only for voice , Like you did it or are doing now for GSM , it 's not worth to have this kind of network .
+
+dialogue type : s
+D :  And , currently in Europe , where it will be deployed first , I believe , it will be very hard , in principle , to get some money back if you have only for using it for voice .
+
+dialogue type : s^df
+D :  Because they paid a lot of money .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : qw^rt
+D :  What is the point ?
+
+dialogue type : s
+D :  The point is that you use the UMTS to connect to the internet and have certain kind of services which are still not available up to now .
+
+dialogue type : s
+D :  But the problem is if you have the internet content , and you have maybe your small uh um device of maybe only evolution based for for these uh new technologies , for for certain mobile phones , then you have certain kind of problems ,
+
+dialogue type : qy^d^f^g
+D :  you know ,
+
+dialogue type : s^df
+D :  because you cannot use these things .
+
+dialogue type : s
+D :  And WAP is not an answer for for these kind of things ,
+
+dialogue type : qy^d^f^g
+D :  you know .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s
+D :  The I believe there is a lot of research work
+
+dialogue type : s
+D :  and also if you see the end - to - end scope of the internet , from the mobile node up to the certain kind of server , " correspondent node " , or whatever you call this destination , then you have certain kind of models , for instance , for the quality of service and all these kind of things .
+
+dialogue type : s
+D :  And then is UMTS only one link where you have certain kind of subnet layer technology .
+
+dialogue type : s
+D :  And you have to match these things anyway .
+
+dialogue type : s
+D :  It 's like a normal ethernet .
+
+dialogue type : s
+D :  Whatever you see , it is only an additional subnet layer technology .
+
+dialogue type : s
+D :  And you have all the things mapped to the uh to to the to the the internet stuff , in principle , to this technology .
+
+dialogue type : s
+D :  And furthermore , you see that the trend is to put more IP technology , really , really IP technology , and not certain kind of modifications and adaptations , to their access network itself .
+
+dialogue type : fh
+D :  And
+
+dialogue type : s^ba
+D :  th there 's a lot of potential , as I believe , for for uh certain research work .
+
+dialogue type : qy^rt
+D :  But the question is , first of all , " Do we have the competence to do something like that ? "
+
+dialogue type : s^e
+D :  First of all .
+
+dialogue type : s
+D :  Second , we are not hardware builders , in that sense to set up certain kind of end systems .
+
+dialogue type : s
+D :  We can design them , yeah , from the protocol layering
+
+dialogue type : s^am
+D :  and and maybe have some simulations , or whatever .
+
+dialogue type : qy^rt
+D :  But isn't the final outcome really such a device ?
+
+dialogue type : s^e
+D :  Prototype , Linux based .
+
+dialogue type : s
+D :  And we go around here and we have maybe a GPS - base station sponsored by Ericsson ,
+
+dialogue type : s^e
+D :  since they are living not so far away
+
+dialogue type : s
+D :  and and maybe WaveLAN connection , here
+
+dialogue type : s
+D :  now a testbed
+
+dialogue type : qy^d^rt
+D :  and then then figure out that it works ?
+
+dialogue type : s
+D :  So , that 's my point .
+
+dialogue type : s^bk
+D :  Yep .
+
+dialogue type : s^bu
+D :  But it 's really higher level .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s
+D :  It 's no more related to a network .
+
+dialogue type : s
+D :  We are leaving the network area .
+
+dialogue type : s^ba
+D :  That 's dangerous .
+
+dialogue type : s.%--
+D :  Cuz if you go to the app
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D :  For me that 's starting with middleware aspects ,
+
+dialogue type : qy^d^f^g
+D :  you know ?
+
+dialogue type : %
+D : 
+
+dialogue type : s
+D :  No , I believe " network " is , if you see it really from from the IP protocol suite , is then layer one , in principle , up t including layer four ,
+
+dialogue type : s^e
+D :  despite the fact that layer four is only residing , normally , in the end system and in the gateways .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk|s
+D :  Yeah , we have , I think , some .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : qh^rt
+D :  Do you see this word " application " related to a network ?
+
+dialogue type : qh
+D :  Or do you see this word independently ?
+
+dialogue type : s
+D :  That was never discussed in detail .
+
+dialogue type : s
+D :  " Network Services and Applications " .
+
+dialogue type : s
+D :  So , everything in the world .
+
+dialogue type : qh
+D :  Or is the application related to the network ?
+
+dialogue type : s
+D : 
+
+dialogue type : s^e
+D :  For instance , e - commerce .
+
+dialogue type : s.%-
+D :  And it 's really , really
+
+dialogue type : fh
+D :  yeah
+
+dialogue type : qy^d^f^g
+D :  You know ?
+
+dialogue type : %--
+D : 
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^ar|s
+D :  No no , uh that is a typical application , I think ,
+
+dialogue type : s
+D :  which is , in principle , also a little bit related to uh to the network .
+
+dialogue type : s^e
+D :  But not any application .
+
+dialogue type : s
+D :  And we also have the aspects for security .
+
+dialogue type : s
+D :  Miguel , you mentioned here authentication and and triple - A ,
+
+dialogue type : s
+D :  but we do not have any expert anymore .
+
+dialogue type : s^df
+D :  Because Hannes was an expert for that .
+
+dialogue type : s
+D :  So the problem for me , it still exists that we have , in principle , here basic building blocks in the proposal from the networking side .
+
+dialogue type : s
+D :  We could have a certain kind of application
+
+dialogue type : s
+D :  and there 's a lot of activities in the outside world
+
+dialogue type : s
+D :  and I believe there 's a lot of contacts .
+
+dialogue type : s
+D :  Or there could be a lot of contacts uh with with these people .
+
+dialogue type : s^e
+D :  Especially at uh Georgia Tech .
+
+dialogue type : s
+D :  I know on next week on Tuesday .
+
+dialogue type : s^r|s^f
+D :  Tuesday , right ?
+
+dialogue type : s
+D :  We will go to UCB .
+
+dialogue type : s
+D :  There are three guys .
+
+dialogue type : s
+D :  Then Morgan mentioned one .
+
+dialogue type : s^bd^no
+D :  I do not know exactly um uh what he is doing ,
+
+dialogue type : s
+D :  but , he 's also interesting in some kind of collaboration .
+
+dialogue type : s
+D :  He 's also a professor in the UCB .
+
+dialogue type : s
+D :  And uh many universities
+
+dialogue type : s
+D :  maybe Claudia mentioned Duisburg .
+
+dialogue type : s
+D :  And uh in principle , most of the university have some activities in that area .
+
+dialogue type : s
+D :  We will not take care about these one ,
+
+dialogue type : s
+D :  but we can use them as um for field ex uh field trial access
+
+dialogue type : s^e
+D :  and and and maybe some support
+
+dialogue type : s^e
+D :  and and whatever kind of thing .
+
+dialogue type : s
+D :  And we focus really on the networking stuff
+
+dialogue type : s
+D :  and going in more detail in this area .
+
+dialogue type : s.%--
+D :  And the alternative is maybe what uh
+
+dialogue type : s^rt
+D :  currently we have only uh this uh proposal from Wilbert to go more in the smaller scope .
+
+dialogue type : s
+D :  Figure out some potential from maybe this uh WaveLAN UMTS stuff
+
+dialogue type : s
+D :  and and starting from that .
+
+dialogue type : qo
+D :  Or , are there other suggestions ?
+
+dialogue type : s^bk|s^bd
+D :  Yeah , you know , it 's still mentioned in the proposal .
+
+dialogue type : fh
+D :  And
+
+dialogue type : %--
+D :  th um
+
+dialogue type : s^bd
+D :  I I 'm sure , OK , that it is the wrong place to get the foundation why we are use this kind of application ,
+
+dialogue type : s^df
+D :  but uh And In in the end of the text in the end of the pr text of the proposal .
+
+dialogue type : s^df
+D :  But it is mentioned that it is only an example .
+
+dialogue type : s
+D :  And that we use this application , in principle , while it is then very very easy to get a certain kind of access to these kind of things .
+
+dialogue type : s
+D :  When you have a video game server and and you want to have mobile access you must at least have one in your consortium , or as a partner whatever , who provides this service .
+
+dialogue type : s
+D :  And then we we are playing videos , in principle , if you have a field trial .
+
+dialogue type : s
+D :  And that is , I think , much more harder than to have a certain kind of certain kind of access to the University ,
+
+dialogue type : s
+D :  and uh to this server , which is run on the campus of the University .
+
+dialogue type : s
+D :  And that is the point .
+
+dialogue type : s
+D :  You can have this f to figure out all the things
+
+dialogue type : fh
+D :  and the the um
+
+dialogue type : fh
+D :  and the the um
+
+dialogue type : s
+D :  um , now , how to say , the requirements of this application using this classroom scenario .
+
+dialogue type : s
+D :  But nevertheless , it 's not the best for
+
+dialogue type : fh
+D :  and and and and uh
+
+dialogue type : s
+D :  s networking stuff .
+
+dialogue type : s
+D :  You are right .
+
+dialogue type : qy
+D :  But it Does anybody see certain kind of potential here to go on ,
+
+dialogue type : s^e
+D :  and to start the work maybe in this little bit smaller oh uh scope based on these building blocks ?
+
+dialogue type : s^df
+D :  Because Multicast you still mentio uh you mentioned that there is no potential .
+
+dialogue type : s
+D :  I think it 's described here that the potential , if you use it for the mapping to the next generation networks in the wireless access area they are still some potential to map Multicast
+
+dialogue type : s^df
+D :  because they do not use it .
+
+dialogue type : s.%--
+D :  And to figure out whether they 're useful inse instead of using certain kind of tunneling mechanism and to set up these tunnels
+
+dialogue type : s.%--
+D :  and have the mapping between a PSDN uh telephone number or whatever kind of number they are using to IP addresses and then there 's the tunnel I Ds ,
+
+dialogue type : s
+D :  and and all this kind of things , I think , is very beneficial as well for for telecommunication providers .
+
+dialogue type : s^e
+D :  as well as for ISP 's .
+
+dialogue type : s
+D :  I I think the potential is still there .
+
+dialogue type : s
+D :  You you neglected that ,
+
+dialogue type : s
+D :  but I don't think that you are right in that sense .
+
+dialogue type : qy^bu^d^rt
+D :  In next generation ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qw.%--
+D :  Now what do you see about the
+
+dialogue type : fh
+D :  um , um ,
+
+dialogue type : s^e
+D :  KPN interests ?
+
+dialogue type : s^df
+D :  Because , I believe s if the argument changes as follows that you are here and that you are very familiar with uh the Multicast stuff , and KPN is very interesting in UMTS stuff , and this is one potential target network environment we are focusing on , but only for the uh IP - layer technology , then , why do the mapping of multica also potential mapping of Multicast , I think , must be of major interest for them .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  Now , WAP is ja not only related now to available bandwidth .
+
+dialogue type : s
+D :  That 's not the only thing .
+
+dialogue type : s
+D :  It 's only the adaptation towards the capabilities of the end device .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b.%
+D :  Huh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b.%
+D :  So yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  It 's transparent , in principle , what you can carry ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  Anyway , you have the gateway .
+
+dialogue type : s
+D :  It must be uh The ca uh c uh t conversion of the media
+
+dialogue type : s
+D :  of the contents , in principle .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^ba
+D :  It 's too late , I believe .
+
+dialogue type : s
+D :  If WAP was available in the beginning of GSM , then I think it was there would be a good chance that it is well - deployed .
+
+dialogue type : s
+D :  But now , the first generation of web - browsers are in the ha and and uh I would say " handies " ,
+
+dialogue type : s
+D :  so that 's wrong in the mobile phones ,
+
+dialogue type : s
+D :  but the the next generation of networks are still available .
+
+dialogue type : s^rt
+D :  and the ba uh the bandwidth constraints are no more applicable ?
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aap|s
+D :  Yeah , but The hype
+
+dialogue type : %-
+D :  but
+
+dialogue type : %
+D :  pffft
+
+dialogue type : fh
+D :  uh
+
+dialogue type : s
+D :  I never saw a user using WAP .
+
+dialogue type : s^co
+D :  Please raise your hand , who is using WAP .
+
+dialogue type : qy^bh
+D :  Yeah ?
+
+dialogue type : qy^bh
+D :  Yeah ?
+
+dialogue type : s^bk|s^bd
+D :  OK , one of six .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : qy^rt
+D :  Now , do you yeah , do you see the chance for WAP ?
+
+dialogue type : s
+D :  I don't see it .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D : 
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^t^tc.%--
+D :  So maybe I would like to ask Claudia ,
+
+dialogue type : qy^bu^d^rt
+D :  you read the proposal in the meantime ?
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^aa|s^na
+D :  Yes , that 's right .
+
+dialogue type : qy
+D :  And do you have some comments on it
+
+dialogue type : s^e|s^bk
+D :  from the next this is version zero dot five right , yeah .
+
+dialogue type : s^na
+D :  That 's right .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s|qy^d^g
+D :  Also we want to go more in the triple - A area . Right ?
+
+dialogue type : s^df.%--
+D :  Because billing alone
+
+dialogue type : s
+D :  Or or ac um Billing is related to accounting ,
+
+dialogue type : s^rt
+D :  Accounting is related to Authentification and Authorization .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s
+D :  And then you are still at the triple - A service uh activity
+
+dialogue type : s
+D :  and nobody is has the skills to deal with that .
+
+dialogue type : s
+D :  And then we are leaving our scope anyway .
+
+dialogue type : s^aa|%-
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s|qy^d^g
+D :  As it What I mean , the synergy effect , right ?
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : %-
+D :  Yeah . I
+
+dialogue type : s^aa|s
+D :  Yeah , in principle , it is related to the current state .
+
+dialogue type : s
+D :  But the networking stuff is more explained in much more detail
+
+dialogue type : s
+D :  and the work packages are better ident oder what c could be derived for work packages is much better aligned .
+
+dialogue type : s|qy^d^f^g
+D :  But that has not changed , yeah ?
+
+dialogue type : fg|s.%-
+D : 
+
+dialogue type : fg|s
+D :  Yeah OK maybe one sentence one sentence .
+
+dialogue type : s
+D :  If you 're focussing on the argument chain as follows . I have an application .
+
+dialogue type : s
+D :  This application has certain kind of requirements .
+
+dialogue type : s
+D :  These requirements are , maybe , Multicast and and and quality of service and mobility
+
+dialogue type : s^e
+D :  access and then mobility management
+
+dialogue type : s
+D :  and That is it .
+
+dialogue type : s
+D :  I want to focus on it .
+
+dialogue type : s
+D :  Then you have in mind that Or you must have in mind that all other applications and all other networking stuff is not affected by this .
+
+dialogue type : s
+D :  That you can use it with every application
+
+dialogue type : s
+D :  and if you introduce some new mechanism in the network , that is not related only to interactive multimedia applications like the classroom , it must be fit end to end .
+
+dialogue type : s
+D :  And if you assume something , like we discussed it , very hard with with Multicast , that you assume that Multicast will be available at certain portions of the network or if you if you want to have it end to end , this mechanism must be applied really for all throughout of the internet .
+
+dialogue type : s
+D :  Otherwise it makes no sense ,
+
+dialogue type : s:s
+D :  and we come to the conclusion , " OK , uh Multicast , we must deal with both approaches " ,
+
+dialogue type : s
+D :  that you have eh application layer Multicast
+
+dialogue type : s.%
+D :  as well as maybe some other Multicast and maybe really Multicast
+
+dialogue type : s
+D :  and then the point is how to select these mechanism if you want to have not a certain kind of access to the server elsewhere in the network you want to use any application .
+
+dialogue type : qy^d^f^g^rt
+D :  Yeah ,
+
+dialogue type : %-
+D : 
+
+dialogue type : s
+D :  The application , for instance , here , that eh the interactive classroom .
+
+dialogue type : s
+D :  But elsewhere any application in in in any kind of video audio
+
+dialogue type : s^e
+D :  or whatever kind of game server
+
+dialogue type : s
+D :  what - whatever kind of interactive multimedia especially do uh downstreaming applications maybe eh video on demand then , eh whatever kind of application you can consider .
+
+dialogue type : s^arp
+D :  Not on everything .
+
+dialogue type : s^nd
+D :  That 's not true .
+
+dialogue type : s.%--
+D :  But we s
+
+dialogue type : s
+D :  That 's why we say here , that we have a certain kind of eh possibility to change in the access networks .
+
+dialogue type : s
+D :  That means the wireless networks
+
+dialogue type : s^df
+D :  because that provides , in principle , the mobility .
+
+dialogue type : s.%--
+D :  And these mechan
+
+dialogue type : s
+D :  And you see that there 's a trend to provide IP functionality more and more in these kind of networks .
+
+dialogue type : s
+D :  But the problem is that you could not focus on this kind of um technology only for the access network .
+
+dialogue type : s
+D :  You have to have in mind always the end to end scope .
+
+dialogue type : s.%--
+D :  And if you see , for instance We have routing algorithm but different protocols and whatever kinds of things , u
+
+dialogue type : s
+D :  especially also for Multicast ,
+
+dialogue type : s
+D :  different things really for different providers ,
+
+dialogue type : s
+D :  and uh and it 's uh very easy to change it , maybe in the access network , for novel things .
+
+dialogue type : s
+D :  For instance , that 's one provider domain
+
+dialogue type : s
+D :  and you can say well why not use active routing in that provider domain ?
+
+dialogue type : s
+D :  So it means that packet are delivering information ,
+
+dialogue type : s
+D :  and you do not have the separation of routing and and and forwarding process .
+
+dialogue type : s
+D :  It 's impossible to deal with that in the whole internet ,
+
+dialogue type : s^df
+D :  because security reasons and whatever kinds of things make it impossible .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  without losing the end to end scope in the internet .
+
+dialogue type : s^rt
+D :  Then you can have certain n novel features
+
+dialogue type : s
+D :  give the providers like KPN or whatever , the po the potential , in principle , to to uh see the building blocks for the future networks
+
+dialogue type : s^df
+D :  because there 's a three g third generation like UMTS , a fourth generation more IP related .
+
+dialogue type : s
+D :  There will be a fifth generation , I 'm sure .
+
+dialogue type : s
+D :  And then you derive the certain kind of building blocks for this network ,
+
+dialogue type : s
+D :  if you ever really full I uh uh full I P , end to end .
+
+dialogue type : s:s
+D :  But nevertheless you can only not only focus on " OK , I provide this mechanism "
+
+dialogue type : s
+D :  because u you are accessing a certain kind of server node in the internet , using any application .
+
+dialogue type : s
+D :  And then this mechanism must fit it there .
+
+dialogue type : s
+D :  But nevertheless eh internet backbone is in the meantime , based on its success ,
+
+dialogue type : s
+D :  impossible to change .
+
+dialogue type : s
+D :  You see the difficulties with IP version six ,
+
+dialogue type : s
+D :  eh eh you see the difficulties with Multicast .
+
+dialogue type : s
+D :  They are discussed since , you know , ten years or whatever .
+
+dialogue type : s
+D :  The specification are rather stable and and available
+
+dialogue type : s
+D :  but we have only islands in that .
+
+dialogue type : s
+D :  We cannot assume that everything is end to end available .
+
+dialogue type : s^rt
+D :  And so you have to mi to have to have in mind that certain kinds of mechanisms are maybe at a certain stage end to end available ,
+
+dialogue type : s
+D :  maybe we have a lucky that the islands are connected to each other
+
+dialogue type : s^rt
+D :  or the same applies for MPLS , for instance ,
+
+dialogue type : s^rt
+D :  maybe they are only portions available ,
+
+dialogue type : qh
+D :  how to deal with that when the islands are not available
+
+dialogue type : s
+D :  and maybe nothing is available .
+
+dialogue type : s
+D :  But you have to select it
+
+dialogue type : s^df
+D :  because I have a mobile phone , a mobile node or whatever kind of device ,
+
+dialogue type : s
+D :  and I want to contact a certain kind of content in the internet .
+
+dialogue type : s
+D :  So is it possible to d have certain kind of normal features in the access network without losing the end to end scope of with these difficulties we are dealing with .
+
+dialogue type : s
+D :  I always say that the success of internet make it unflexible .
+
+dialogue type : s
+D :  It 's impossible to change something very easy . s
+
+dialogue type : %--
+D :  s
+
+dialogue type : s
+D :  It 's easy maybe more on the access network as in the internet backbone .
+
+dialogue type : s
+D :  So that is eh overall picture that we have in mind with these things .
+
+dialogue type : s.%--
+D :  And we can not u
+
+dialogue type : s
+D :  We we are six people
+
+dialogue type : s^e
+D :  or seven or whatever
+
+dialogue type : s^e
+D :  if Hannes come ,
+
+dialogue type : s
+D :  We are not able to solve the problems uh in in uh w in the few years or whatever
+
+dialogue type : s
+D :  what the whole internet community has um done in in si since uh since a decade .
+
+dialogue type : s
+D :  But we can f pick up some f some um potential and and and to start with something .
+
+dialogue type : s
+D :  And that 's my missing point .
+
+dialogue type : s
+D :  That we have here , in principle , really the description of this problem I mentioned
+
+dialogue type : s
+D :  and focus really on the reasonable size of the project
+
+dialogue type : s
+D :  maybe in the first stage fo for the NSA core itself ,
+
+dialogue type : s:s
+D :  and maybe possible extension from , for instance , if KPN say " yes , that 's great , "
+
+dialogue type : s^e:s
+D :  " that 's the right direction .
+
+dialogue type : s^e:s
+D :  We will support that . "
+
+dialogue type : s:s
+D :  And if Siemens say " OK , great , we will support it " ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  mmm University of Berlin or something
+
+dialogue type : s
+D :  and maybe University of Mannheim or Duisburg
+
+dialogue type : s
+D :  or in Spain oder whatever .
+
+dialogue type : s
+D :  So if we have all the similar project then you have only to take care about that 's a little bit aligned ,
+
+dialogue type : s
+D :  that there 's some transparency concerning the results
+
+dialogue type : s
+D :  and and the activities are literally going in the in the same um pace .
+
+dialogue type : s
+D :  So that 's the basic idea .
+
+dialogue type : s
+D :  But really it 's to to figure out certain kind of smaller activities where we can start it .
+
+dialogue type : s
+D :  That 's the point .
+
+dialogue type : s.%--
+D :  And if we get some funding back ,
+
+dialogue type : s.%--
+D :  and we have certain potent uh potential partners in the boat ,
+
+dialogue type : s
+D :  OK , we can go to a broader scope of this whole thing , yeah .
+
+dialogue type : fg|s^ng
+D :  Yeah , but the problem is that f f f funding is the second step .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s^df
+D :  Yeah , but we have no eh current no public funding ,
+
+dialogue type : s^f|s
+D :  OK , everybody 's paid here .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^na
+D :  That 's right .
+
+dialogue type : s^na^r
+D :  That 's right .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s
+D :  I want to have really the activities
+
+dialogue type : s^f|qh
+D :  you know , what is really the outcome
+
+dialogue type : qh
+D :  what is really the problem we are going to solve .
+
+dialogue type : s
+D :  These are my questions .
+
+dialogue type : s
+D :  And if we have identified this block then it is possible to raise some money .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  It 's clear .
+
+dialogue type : s
+D :  Now from my point of view in the beginning , one more time , if I see the four building blocks , and eh I could speak only for my skills , I believe to derive a certain kind of QS Reservation - in - Advance scheme Much more uh general as it is done for for USAIA ,
+
+dialogue type : s
+D :  but mapped then really to desired network subnet layer technologies .
+
+dialogue type : s^aa
+D :  Yes .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^ar|s^rt
+D :  No , for y UMTS .
+
+dialogue type : s
+D :  But first of all , a generic system ,
+
+dialogue type : s^df
+D :  but because you can have several mechanism
+
+dialogue type : s
+D :  really using certain kind of of um um quantitative description ,
+
+dialogue type : s
+D :  you can have more of a qualitative description ,
+
+dialogue type : s
+D :  you can have taken into account moving patterns ,
+
+dialogue type : s
+D :  and and and whatever kind of things ,
+
+dialogue type : s
+D :  but there are a lot of lot of ways to have certain kind of QS Reservation - in - Advance ,
+
+dialogue type : s
+D :  and I see it as definitely is necessary to have this one
+
+dialogue type : s
+D :  if I want be mobile and I want to have not a interruption of my in my application qualities of service .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : fh
+D :  Um
+
+dialogue type : s
+D :  But then , to go , for instance , to UMTS , and figure out what is available within UMTS .
+
+dialogue type : s.%--
+D :  And if I really have an IP application , where I need this kind of of quality of service and having in mind that certain kind of QS will be available in the rest of the internet .
+
+dialogue type : qh
+D :  So how can I map these things uh to the UMTS stuff ?
+
+dialogue type : qh
+D :  And what is the trend towards UMTS to the first generation ?
+
+dialogue type : qh
+D :  And how it is possible to map this one to this technology ?
+
+dialogue type : s
+D :  And if you have the building blocks identified , what is really necessary for QS eh QS - in - Advance for for mobile systems , then you have , in principle , the ideas for the following generation what you could improve .
+
+dialogue type : s^df
+D :  Because then you are maybe no more related to this kind of thing .
+
+dialogue type : s
+D :  I believe the same applies for Multicast .
+
+dialogue type : s
+D :  And I believe the same applies for routing .
+
+dialogue type : s^cs^rt
+D :  So , in principle , in the beginning , there would be a certain kind of uh paperwork anyway ,
+
+dialogue type : s^cs^e^rt
+D :  some theoretical examination of these problems ,
+
+dialogue type : s^e
+D :  and then some prototypes must be derived from that .
+
+dialogue type : s^rt
+D :  And then maybe we will start here with a certain kind of uh testbed equipment we still have here .
+
+dialogue type : s
+D :  We have four uh P Cs available .
+
+dialogue type : s^rt
+D :  Maybe we have to extend it then ,
+
+dialogue type : s^rt
+D :  and figure out some real scenarios ,
+
+dialogue type : s:s^fe
+D :  and maybe then pfff !
+
+dialogue type : s^df.%--
+D :  Because uh , despite the fa
+
+dialogue type : s
+D :  uh uh Hopefully , then we have with the money also not eh only for the room ,
+
+dialogue type : s^ba
+D :  that would be great ,
+
+dialogue type : s
+D :  but there are also some sponsors then then then we add a certain kind of field trial .
+
+dialogue type : s
+D :  But I think that 's pfff ! that 's years , you know .
+
+dialogue type : s^r
+D :  That 's years .
+
+dialogue type : s^cs
+D :  But in the beginning we must have a certain kind of theoretical framework with the relevant technology .
+
+dialogue type : s^e
+D :  Real technology .
+
+dialogue type : s
+D :  Maybe you can start with GPS or or UMTS , or whatever .
+
+dialogue type : s^df
+D :  because these technology will definitely available in Europe .
+
+dialogue type : s
+D :  There 's some money spent on it ,
+
+dialogue type : s^df
+D :  so that it will be in a certain kind of flavor .
+
+dialogue type : s
+D :  It will be available .
+
+dialogue type : s
+D :  And it will be also available in the USA .
+
+dialogue type : s^df
+D :  Because there is a big eh harmonization effort ,
+
+dialogue type : s
+D :  despite the fact they are not aligned to each other anyway ,
+
+dialogue type : s
+D :  but they will have s also certain kind of thr third generation and fourth generation networks .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s
+D :  And after this theoretical framework , if this one is aligned , OK you have some specification
+
+dialogue type : s
+D :  and you set up some Linux or Free BSD or whatever kind of prototype .
+
+dialogue type : s
+D :  So that is what I have in mind with that .
+
+dialogue type : s
+D :  And then OK , and then you will see .
+
+dialogue type : s
+D :  The problem is which I see is that it could be fruitful to standardization
+
+dialogue type : s^rt
+D :  that it could be fruitful to some extent to telecommunication providers .
+
+dialogue type : s
+D :  But there 's not a real product like you say .
+
+dialogue type : s
+D :  There 's not the selling idea behind it .
+
+dialogue type : qy^d^f^g^rt
+D :  Yeah ,
+
+dialogue type : s
+D :  if you go with something what what Wilbert mentioned " OK , let 's have this one here " . We have a new PCMCIA card and and extend something and the end system , or what you mentioned here was the seamless four technologies inter - working in the end s , then you have an an a device which you can sell .
+
+dialogue type : s
+D :  If you go for a networking pfff um uh improvements , in principle , and and understanding next generation building blocks , uh there 's no product .
+
+dialogue type : s
+D :  But it is a long term it 's long term , I think , uh work you can do .
+
+dialogue type : s
+D :  And it 's more related I believe to the skills
+
+dialogue type : s^e
+D :  to what is available
+
+dialogue type : s^e
+D :  and and currently as I see what uh will be available within the NSA group .
+
+dialogue type : s
+D :  And uh , the point is if we focus on on this networking small more networking stuff and em some application guys came into the boat and they focus on their application stuff , whatever this means , It might be we have then the active classroom ,
+
+dialogue type : s
+D :  but it could be another one
+
+dialogue type : s
+D :  that is not representative ,
+
+dialogue type : %-
+D : 
+
+dialogue type : qw^br
+D :  Hmm ?
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^aap
+D :  Then then is something available
+
+dialogue type : s^no
+D :  but I don't know
+
+dialogue type : s^df
+D :  you know , I 'm not an application expert ,
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D :  We have some content .
+
+dialogue type : s^cc
+D :  We will then discuss it on next Tuesday as I mentioned .
+
+dialogue type : fh|s
+D :  Uh Anyway , but uh that were is my answer to the question if some money is available .
+
+dialogue type : s
+D :  The good thing is that the money is available ,
+
+dialogue type : s^df
+D :  because everybody is paid here .
+
+dialogue type : s
+D :  So that is money that the the smallest portion of money which is available .
+
+dialogue type : s
+D :  But first of all Wilbert need more , definitely ,
+
+dialogue type : s^df^rt
+D :  because maybe then KPN is uh no more interesting to go on with this work ,
+
+dialogue type : s
+D :  or we can convince with these kind of things which we have in mind ,
+
+dialogue type : s^e
+D :  uh companies like KPN .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s.%--
+D :  And if we have other suggestions and eh have this as a long term
+
+dialogue type : s^e
+D :  NSA core group activity ,
+
+dialogue type : s
+D :  and this theoretical framework , whether it is finished in half a year or one year doesn't matter , in principle ,
+
+dialogue type : s^df
+D :  because the road map for the the next generation networks is is eh is for many years .
+
+dialogue type : s
+D :  And b before UMTS will be deployed very well , I believe eh it will be common t uh two thousand four or something like that .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s
+D :  And and have an intermediate project , which is related in this direction , something like the seamless handover for two technologies or whatever .
+
+dialogue type : s
+D :  This is a smaller portion in the gen more generic framework , I would like to say , from this proposal .
+
+dialogue type : qh
+D :  Why not go in this way ?
+
+dialogue type : s^no^rt
+D :  I I don't know .
+
+dialogue type : s
+D :  But uh that 's the point eh we are sitting here together .
+
+dialogue type : s
+D :  But for for Dietmar I think eh eh he mentioned it to me , it 's very clear that he will go on with a portion of time , with this USAIA stuff ,
+
+dialogue type : s^e
+D :  in the matical sense
+
+dialogue type : s^df
+D :  because that means for you in a certain kind a certain extent , you are decoupled from networking stuff .
+
+dialogue type : s^df
+D :  Because your focusing on the mathematical thing of whether it 's a network or other thing ,
+
+dialogue type : s
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s
+D :  There is it still ongoing activity with uh maybe a portion of time at the University of Berlin Berlin .
+
+dialogue type : s
+D :  And independently whether I will leave the uh uh ICSI in in the mid of December or not , I will still focus on on on these QS - in - Advance schemes
+
+dialogue type : s^e
+D :  eh also within Siemens
+
+dialogue type : s
+D :  and also with some project there .
+
+dialogue type : s
+D :  And I believe your routing stuff is also available ,
+
+dialogue type : fh
+D :  uh ,
+
+dialogue type : s^bu^e|qy^d^g
+D :  And when you when you will go back to Spain , right ?
+
+dialogue type : s^bk|s
+D :  Yeah , so . and and that 's why , in principle , the skills will be always available I guess .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  yeah
+
+dialogue type : s^am
+D :  maybe
+
+dialogue type : s^bd^df
+D :  Currently no money is available , you know .
+
+dialogue type : s^na
+D :  Now , I will not prevent anybody from getting some cake
+
+dialogue type : s
+D :  and we are sitting here together
+
+dialogue type : s^ba
+D :  it 's uh very uh very slow , in principle ,
+
+dialogue type : s
+D :  but my last question is for Wilbert .
+
+dialogue type : s
+D :  Wilbert , you I I think you got the basic idea
+
+dialogue type : s^df
+D :  because it was mostly discussed with you here from this current available scrap project proposal .
+
+dialogue type : qy^bu^rt
+D :  Don't you think that KPN could be convinced to go on this way what I mentioned before ?
+
+dialogue type : s^e^rt
+D :  There 's no way ?
+
+dialogue type : s
+D :  They needed definitely , in principle , some kind of service or device or product or whatever .
+
+dialogue type : qy^rt
+D :  Can we both have together , maybe , I think it 's a little bit more easier , a discussion on Thursday ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^cs
+D :  Maybe that 's enough time for you to consider a little bit more in this direction ?
+
+dialogue type : s
+D :  And then we could have eh discussion
+
+dialogue type : s
+D :  and maybe this one is an overall work , in principle , where everybody could hook in and and get certain kind of small portions to solve it
+
+dialogue type : %-
+D :  and
+
+dialogue type : b
+D :  mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qy
+D :  Can you consider poten also in the meantime , some potential UMTS services besides this one ?
+
+dialogue type : %-
+D : 
+
+dialogue type : s^ar|s
+D :  No , but , uh fff maybe based on this one and you see the networking stuff
+
+dialogue type : s
+D :  that it is a little bit more evol evolved and than in the the core network technology in the access network , I would like to say .
+
+dialogue type : s
+D :  And this is aligned then as much as possible to the internet .
+
+dialogue type : s
+D :  That 's the basic idea ,
+
+dialogue type : s
+D :  that you can have a certain kind of service which make use of these novel things .
+
+dialogue type : s^df
+D :  Because normally I I believe the the the people are either on the application layer ,
+
+dialogue type : s^rt
+D :  that means higher than layer four ,
+
+dialogue type : s
+D :  or they are on layer f one to l l up to layer four .
+
+dialogue type : s.%--
+D :  And the service people are considering
+
+dialogue type : s
+D :  " OK , UMTS
+
+dialogue type : s
+D :  you have some location information ,
+
+dialogue type : s
+D :  and maybe you are have the infrastructure in the car ,
+
+dialogue type : s
+D :  so , if I provide a certain kind of service , independently what the network is offering , you know .
+
+dialogue type : s
+D :  Because they do not consider it very well .
+
+dialogue type : s
+D :  They know there is a certain kind of location information
+
+dialogue type : s^rt
+D :  and you have a GPS ,
+
+dialogue type : s:s
+D :  and they know , OK , it 's based on satellite .
+
+dialogue type : s^e:s
+D :  And there 's UMTS , that is based on base station .
+
+dialogue type : s
+D :  There 's all that they consider .
+
+dialogue type : s:s
+D :  And then assume , OK , I can do that .
+
+dialogue type : s:s
+D :  And the networking guy said OK it would be great to have Multicast and all these kind of things in the network ,
+
+dialogue type : s
+D :  but do not consider really what a sense of benefit uh for applications ,
+
+dialogue type : s
+D :  there were new app old application make use of it
+
+dialogue type : s
+D :  and how can new application arise
+
+dialogue type : s^e
+D :  which we haven't considered up to now based on this new network function , LAT enrich enriched network function , LAT .
+
+dialogue type : s^cs^rt
+D :  So , I think it 's worth to to consider something in that way
+
+dialogue type : fg|qw.%-
+D : 
+
+dialogue type : s
+D :  Not currently there is a techno technology split .
+
+dialogue type : s
+D :  Of course you have IP in the mobile device
+
+dialogue type : s
+D :  but if you see the strange protocols text
+
+dialogue type : s
+D :  there 's IP over IP and tunnels and and whatever ,
+
+dialogue type : s
+D :  so , but it 's uh looks very strange to me
+
+dialogue type : s^df
+D :  because you have different numbering screens , concerning you have a phone number ,
+
+dialogue type : s^df^e
+D :  you have to map it to IP addresses
+
+dialogue type : s^e
+D :  and and so on ,
+
+dialogue type : s
+D :  but for me , you have not the end to end parts of for for IP functionality .
+
+dialogue type : s
+D :  We are far away from that .
+
+dialogue type : s.%--
+D :  And if you take a really look to the GPRS protocols texts and I believe also they apply for UMTS but I 'm not
+
+dialogue type : s
+D :  eh very familiar with that ,
+
+dialogue type : s
+D :  and the next generations access network is will come soon .
+
+dialogue type : s
+D :  You see it 's every three years or four years they will have a new generation .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  yeah ?
+
+dialogue type : b
+D :  yeah ?
+
+dialogue type : qw
+D :  Why ?
+
+dialogue type : qw
+D :  What kind what kind IP over what do you call it ?
+
+dialogue type : qy^bu^d^m
+D :  No net .
+
+dialogue type : s^ba
+D :  That would be great !
+
+dialogue type : qy
+D :  Can you repeat it ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  Something like that is my final vision .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^2
+D :  ATM stuff .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  There 's the problem is is , you see that the providers eh have always there broken view for for the management .
+
+dialogue type : s
+D :  If you have different kind of protocols texts and network management system , and the billing system and all these kinds of things which is besides the networking stuff , in principle , but you still need it , is eh not aligned .
+
+dialogue type : s
+D :  We have it for different islands
+
+dialogue type : fh
+D :  and and
+
+dialogue type : s|s^f
+D :  Well , that 's my final vision you know .
+
+dialogue type : s
+D :  If you have really then IP networks at a certain generation where you have really the physical media and where necessary uh additional maclear protocols ,
+
+dialogue type : s
+D :  and then you have really always end to end .
+
+dialogue type : s
+D :  It makes you things much more simple much more easier ,
+
+dialogue type : s^df
+D :  uh , but is far far away , you know .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aap|s^df^nd
+D :  Yeah but you have the extension for the eh quality of service mechanism
+
+dialogue type : s^e
+D :  which you have to map then to the underlying technology .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aap|s^df^nd
+D :  Yeah but maybe in the LAN interface it makes
+
+dialogue type : s^df.%-
+D :  since to use it
+
+dialogue type : %-
+D :  And and But
+
+dialogue type : s^bk
+D :  yeah
+
+dialogue type : s
+D :  but I think we sh we will miss the cake
+
+dialogue type : s^cs.%--
+D :  and I think we should stop now but please everybody ,
+
+dialogue type : %--
+D :  short
+
+dialogue type : %--
+D :  eh s
+
+dialogue type : s^cs
+D :  go on with considerations and potential
+
+dialogue type : fh
+D :  and and uh
+
+dialogue type : s
+D :  um we didn't make s much progress today in the meeting ,
+
+dialogue type : s
+D :  but anyway this kind of activity lives from all , from the input of all .
+
+dialogue type : s.%--
+D :  And so I really
+
+dialogue type : s^cs
+D :  if somebody has an idea send an email
+
+dialogue type : s.%--
+D :  and then I would like to enforce everybody
+
+dialogue type : s^bd
+D :  not that I 'm doing everything
+
+dialogue type : s^df
+D :  I could not I f didn't have the time in the past
+
+dialogue type : s^e
+D :  and I will not have it in the future
+
+dialogue type : s
+D :  and maybe I will stay here only s four weeks or five weeks .
+
+dialogue type : s
+D :  So it would be really not the best thing if the activity is dead when I am leaving
+
+dialogue type : s
+D :  and if I stay longer of course we can go on
+
+dialogue type : s
+D :  but nevertheless I rely heavily uh also from the contributions of everybody ,
+
+dialogue type : s
+D :  and it 's in their own interest
+
+dialogue type : s
+D :  of of everybody , also from the institution behind . So If there is certain kind of idea or questions or whatever , we are s only a small group of people
+
+dialogue type : s
+D :  we can easily join on a white board and and start a discussion .
+
+dialogue type : s
+D :  It must not be on every Tuesday , you know ,
+
+dialogue type : s^e
+D :  at a certain time .
+
+dialogue type : s
+D :  And I try to motivate the people .
+
+dialogue type : s
+D :  That it 's free .
+
+dialogue type : s
+D :  That 's a starting .
+
+dialogue type : s
+D :  That 's a ramp .
+
+dialogue type : s
+D :  And we can go in different directions .
+
+dialogue type : s
+D :  And if you have a real focus on the certain novel thing for the services or UMTS or whatever , great .
+
+dialogue type : s
+D :  If not , the long term and then these things must be , nevertheless must be defined in much more detail .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : qy^d^f^g^rt
+D :  OK ?
+
+dialogue type : s^ft
+D :  So , thanks
+
+dialogue type : s
+D :  please do not , um what Adam mentioned to
+
+dialogue type : s^e^m^na
+D :  uh switch off ,
+
+dialogue type : s
+D :  So maybe I will find him @ @ .
+
+dialogue type : s
+D :  cake area .
+
+dialogue type : fh
+D :  and
+
+dialogue type : s^cc
+D :  now let me see whether he will be here ,
+
+dialogue type : fh
+D :  and
+
+dialogue type : s
+D :  We did not forget .
+
+dialogue type : s
+D :  We are done .
+
+dialogue type : s^bk
+D :  OK OK .
+
+dialogue type : s^ba^rt
+D :  Hopefully everything went fine .
+

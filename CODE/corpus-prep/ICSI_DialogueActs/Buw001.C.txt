@@ -1,0 +1,120 @@
+dialogue type : s
+C :  Katrin on channel two .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^na
+C :  That 's true .
+
+dialogue type : s^na
+C :  And you 're gonna send it out by email , too .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Oh , yeah .
+
+dialogue type : s^ba
+C :  That 's better .
+
+dialogue type : qr
+C :  Are you thinking about just asking one participant or all of them ?
+
+dialogue type : s^cs
+C :  Make it a voluntary thing ,
+
+dialogue type : %-
+C :  and then
+
+dialogue type : s^aa|s
+C :  Yeah . That 's why I was wondering .
+
+dialogue type : fg|s
+C :  Yeah , but when you go around the room you might just get the effect that somebody says something
+
+dialogue type : s:s^aa|s^na
+C :  and then you go around the room and they say " yeah , me too , I agree . "
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^ar|s^ba
+C :  No , I think that 's fine .
+
+dialogue type : s
+C :  Now , something that I mentioned earlier to Mari and Liz is that it 's probably important to get as many non - technical and non - speech people as possible
+
+dialogue type : s^df^e
+C :  in order to get some realistic users .
+
+dialogue type : s^cs
+C :  So if you could ask other people to call and use our system , that 'd be good .
+
+dialogue type : s^df
+C :  Cuz we don't want people who already know how to deal with dialogue systems ,
+
+dialogue type : s.%-
+C :  who know that
+
+dialogue type : s
+C :  you shouldn't hyper - articulate , for instance , and things like that .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^aa|s^na
+C :  Yeah , for instance .
+
+dialogue type : s^cs
+C :  Your grandmother .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^na
+C :  I agree with Jane and Eric .
+
+dialogue type : s
+C :  I think the question of how to generate queries automatically was the most interesting question that came up ,
+
+dialogue type : s
+C :  and it 's something that , as you said , is a whole research topic in itself ,
+
+dialogue type : s
+C :  so I don't think we 'll be able to do anything on it
+
+dialogue type : s^df
+C :  because we don't have funding on it , uh , in this project .
+
+dialogue type : fh|s
+C :  But , um , it 's definitely something I would want to do something on .
+

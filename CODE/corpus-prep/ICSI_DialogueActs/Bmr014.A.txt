@@ -1,0 +1,219 @@
+dialogue type : qy^bu^rt
+A :  MR eleven .
+
+dialogue type : qw^bu
+A :  Spikes ?
+
+dialogue type : s^2
+A :  Touching .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^ar.%
+A :  No , no .
+
+dialogue type : s
+A :  He was in .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg|s.%-
+A :  Yeah , he was in s
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^na
+A :  I think he has a class .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%-
+A :  I actually gave
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy^bu^d^rt
+A :  The channel u thing ?
+
+dialogue type : s
+A :  Oh , it 's just uh , I ran the recognizer uh , the speech - nonspeech detector on different channels
+
+dialogue type : s
+A :  and , it 's just in uh in this new multi - channel format and output ,
+
+dialogue type : s
+A :  and I just gave one one meeting to to Liz who wanted to to try it for for the recognizer
+
+dialogue type : s
+A :  as uh , apparently the recognizer had problems with those long chunks of speech , which took too much memory or whatever ,
+
+dialogue type : s
+A :  and so she she will try that I think
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  I 'm I 'm working on it .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : h|s.%--
+A : 
+
+dialogue type : s
+A :  The basic thing is this HMM base .
+
+dialogue type : s
+A :  There is some , uh as the energy is normalized across channels
+
+dialogue type : s^aa
+A :  yeah .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  But basically that 's one of the main changes .
+
+dialogue type : s
+A :  Oh I just uh Mmm , I just use um our loudness - based things
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^aa^bsc|s.%--
+A :  No , I changed this to the to the to the loudness thingy with the with the
+
+dialogue type : qw^rt
+A :  how do you call it ?
+
+dialogue type : s^no
+A :  I 'm not sure .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^no
+A :  I 'm not sure about the term .
+
+dialogue type : s^cc
+A :  Uh , I 'll look it up .
+
+dialogue type : s
+A :  And say it to you .
+
+dialogue type : fh
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s
+A :  That 's that 's basically the the the thing .
+
+dialogue type : fg|s
+A :  Yeah , and I and I tried t to normalize uh uh the features , there 's loudness and modified loudness , um , within one channel ,
+
+dialogue type : s
+A :  because they 're , yeah to to be able to distinguish between foreground and background speech .
+
+dialogue type : sj
+A :  And it works quite well .
+
+dialogue type : s
+A :  But , not always .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : %-
+A :  I
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg
+A : 
+
+dialogue type : s^cs
+A :  Just put the button on on the web page which say " please send me the the scripts " .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b.%
+A :  Oh ,
+
+dialogue type : sj^ba
+A :  Oh , God .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : z
+A :  Burger King
+

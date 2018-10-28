@@ -1,0 +1,711 @@
+dialogue type : s
+C :  So combo is um a system where we have these features that go through a network
+
+dialogue type : s
+C :  and then this same string of features but low - pass filtered with the low - pass filter used in the MSG features .
+
+dialogue type : s
+C :  And so these low - pass filtered goes through M eh another MLP
+
+dialogue type : s
+C :  and then the linear output of these two MLP 's are combined just by adding the values and then there is this KLT .
+
+dialogue type : fh|s
+C :  Um the output is used as uh features as well .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah
+
+dialogue type : fh
+C :  so
+
+dialogue type : s^cc
+C :  yeah I could perhaps draw this on the blackboard
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  So we have these features from OGI that goes through the three paths .
+
+dialogue type : s
+C :  The first is a KLT using several frames of the features .
+
+dialogue type : s^rt
+C :  The second path is uh MLP also using nine frames several frames of features
+
+dialogue type : s^rt
+C :  The third path is this low - pass filter .
+
+dialogue type : s
+C :  Uh , MLP
+
+dialogue type : s^rt
+C :  Adding the outputs just like in the second propose the the proposal from for the first evaluation .
+
+dialogue type : s^m
+C :  And then the KLT and then the two together again .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^aa
+C :  yeah
+
+dialogue type : s^aa
+C :  Yeah
+
+dialogue type : s^na
+C :  that 's the reason , yeah .
+
+dialogue type : qy^bu^d
+C :  For the f the f first yellow line you mean ?
+
+dialogue type : b
+C :  Yeah
+
+dialogue type : h|s
+C :  so it 's uh basically s the same except that we don't have this uh low - pass filtering so we have only two streams .
+
+dialogue type : fh
+C :  Well .
+
+dialogue type : s
+C :  There 's there 's no low low - pass processing used as additional feature stream .
+
+dialogue type : fh
+C :  Um
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s.%--
+C :  Uh actually the way things seems to
+
+dialogue type : s
+C :  um well it 's uh forty percent for TI - digit , sixty for all the SpeechDat - Cars ,
+
+dialogue type : s
+C :  well all these languages .
+
+dialogue type : fh|s
+C :  Ehm the well match is forty , medium thirty five and high mismatch twenty - five .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : h|s^aa
+C :  Uh , no .
+
+dialogue type : fh
+C :  But yeah .
+
+dialogue type : s
+C :  Generally what you observe with TI - digits is that the result are very close whatever the the system .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^nd
+C :  Uh not yet .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^aa
+C :  Mmm yeah , yeah .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa.%--
+C : 
+
+dialogue type : s^nd
+C :  actually OGI two is the the baseline with the OGI features
+
+dialogue type : s
+C :  but this is not exactly the result that they have because they 've they 're still made some changes in the features
+
+dialogue type : s
+C :  and well but uh actually our results are better than their results .
+
+dialogue type : fh|s
+C :  Um I don't know by how much because they did not send us the new results
+
+dialogue type : x
+C :  Uh
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : fg
+C :  Yeah
+
+dialogue type : s^na.%--
+C : 
+
+dialogue type : s^aa
+C :  yeah .
+
+dialogue type : s^df^na.%--
+C :  But there are thirty - six and then sometimes we are we are we are around forty - two and
+
+dialogue type : x
+C :  but
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  So there are some results here
+
+dialogue type : s^rt.%-
+C :  uh so the third and the fifth line of the table
+
+dialogue type : s^aa
+C :  Filt , yeah
+
+dialogue type : fh|s
+C :  Um yeah so it seems f for the the well match and mismatched condition
+
+dialogue type : s
+C :  it 's uh it brings something .
+
+dialogue type : fh|s
+C :  Uh but uh actually apparently there are there 's no room left for any silence detector at the server side because of the delay .
+
+dialogue type : fh
+C :  Uh well
+
+dialogue type : s^aa
+C :  No .
+
+dialogue type : fh
+C :  Uh
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^no
+C :  Except I don't know because they I think they are still working well .
+
+dialogue type : s
+C :  Uh t two days ago they were still working on this trying to reduce the delay of the silence detector
+
+dialogue type : fh
+C :  so but
+
+dialogue type : fh
+C :  yeah
+
+dialogue type : s^cs
+C :  if we had time perhaps we could try to find uh some kind of compromise between the delay that 's on the handset and on the server side .
+
+dialogue type : s^cs
+C :  Perhaps try to reduce the delay on the handset
+
+dialogue type : fh
+C : 
+
+dialogue type : s.%-
+C :  but well hmm For the moment they have this large delay on the the feature computation and so we don't
+
+dialogue type : %-
+C :  I th
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s^rt
+C :  Actually the yeah the second line is uh pretty much like the first line in yellow
+
+dialogue type : s
+C :  except that we don't have this KLT on the first on the left part of the diagram .
+
+dialogue type : s
+C :  We just have the features as they are .
+
+dialogue type : fh
+C :  Um
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^na
+C :  It 's included , yeah .
+
+dialogue type : x
+C :  Mm - hmm ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  Yeah , it 's it 's significantly worse well but Mm - hmm .
+
+dialogue type : s
+C :  Exc - except for the HM
+
+dialogue type : fh
+C :  but
+
+dialogue type : h
+C :  Uh
+
+dialogue type : h|s
+C :  Um it 's it depends well the well matched is generally larger than the other sets
+
+dialogue type : s
+C :  and I think it 's around two thousand or three thousand words perhaps , at least .
+
+dialogue type : qo^d
+C :  Hmm ?
+
+dialogue type : s
+C :  The words , yeah .
+
+dialogue type : s^m
+C :  S sentences .
+
+dialogue type : s
+C :  Some sets have five hundred sentences ,
+
+dialogue type : fh
+C :  so .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : %-
+C :  It it d
+
+dialogue type : s
+C :  Seven digits .
+
+dialogue type : x
+C :  Mm - hmm ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^cs
+C :  We could we could run run some kind of significance tests
+
+dialogue type : fh
+C :  or
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s^aa
+C :  Yeah sure sure .
+
+dialogue type : b
+C :  Yeah sure .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fh
+C :  Uh
+
+dialogue type : s^bk
+C :  Oh yeah
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ar|s^nd
+C :  No they 're I think there is this silence in addition to the um KLT outputs
+
+dialogue type : s^df
+C :  it is because we we we just keep uh we don't keep all the dimensions after the KLT
+
+dialogue type : fh
+C :  and yeah .
+
+dialogue type : s
+C :  So we try to add the silence also in addition to the these twenty - eight dimensions .
+
+dialogue type : h|s
+C :  Uh it 's o it 's OGI two ,
+
+dialogue type : s^rt
+C :  it 's so the th it 's the features from the first line
+
+dialogue type : fh
+C :  and yeah .
+
+dialogue type : s
+C :  So it 's uh basically this but without the KLT on the from the left path .
+
+dialogue type : s.%--
+C :  Uh the second line you don't have this combo stuff so you just
+
+dialogue type : fh
+C :  uh
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : h|s^aa
+C :  Uh I guess , yeah .
+
+dialogue type : s^aa
+C :  I guess , yeah .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s
+C :  It 's not clear here .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^na
+C : 
+
+dialogue type : s^aa
+C :  yeah .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  I mean we have to fix the system on this d on this data , to choose the best
+
+dialogue type : %-
+C :  and these
+
+dialogue type : s
+C :  But we could
+
+dialogue type : %-
+C :  it d
+
+dialogue type : s
+C :  I think we fixed on Tuesday , yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Uh yeah well .
+
+dialogue type : s
+C :  Well basically it 's this with perhaps some kind of printing and some some other @ @ .
+
+dialogue type : fg
+C :  Yeah but
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^na
+C :  I think you we could we could start soon , yeah .
+
+dialogue type : s^na
+C :  Write up something .
+
+dialogue type : fh
+C :  Um yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : h|s^ar
+C :  Uh not really .
+
+dialogue type : fh|s
+C :  Um There is the format of the table which is quite impressive .
+
+dialogue type : h|s
+C :  Um it should be the the problem with the error channel error
+
+dialogue type : fh
+C :  or
+
+dialogue type : x
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qy^bu^d|qrr.%-
+C : 
+
+dialogue type : %-
+C :  it just
+
+dialogue type : s^bk
+C :  Oh yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bu
+C :  For TI - digits .
+
+dialogue type : s^aa
+C :  Yeah , actually yeah .
+
+dialogue type : s^rt
+C :  For the TI - digits they want to train on clean and on noisy
+
+dialogue type : fh
+C :  and yeah .
+
+dialogue type : h|s^aa
+C :  Uh yeah .
+
+dialogue type : fh|s.%--
+C : 
+
+dialogue type : qy^rt
+C :  do we have the features ?
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  For the clean TI - digits but we did not test it yet .
+
+dialogue type : s
+C :  Uh the clean training stuff .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah , well .
+
+dialogue type : s^arp
+C :  Except if if it 's the thirty - one at midnight
+
+dialogue type : s^bd^no
+C : 
+
+dialogue type : s^cs
+C :  we can still do some work on Wednesday morning .
+
+dialogue type : fh
+C :  Yeah , well .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : %-
+C :  It 's d
+
+dialogue type : s^ar
+C :  no .
+
+dialogue type : s^ng.%-
+C :  No , we are wondering about the the the hour that we have to
+
+dialogue type : s^no.%-
+C :  eh I don't know if it 's three PM it 's
+
+dialogue type : s^aa.%-
+C :  Yeah , it 's it 's midnight but
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s^bd
+C :  I 'm not sure these are great ideas .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C :  But
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  I think it 's OK
+
+dialogue type : fh
+C :  um . We
+
+dialogue type : s^cc
+C :  so basically we will I think we 'll try to to focus on these three architectures
+
+dialogue type : s^cs
+C :  and and perhaps I was thinking also a fourth one with just just a single KLT
+
+dialogue type : s^df
+C : 
+
+dialogue type : s^cs
+C :  removing all these KLT 's and putting one single KLT at the end .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+

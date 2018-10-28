@@ -1,0 +1,867 @@
+dialogue type : fg|qy.%--
+B :  Uh , Robert , do you uh have any way to turn off your uh screensaver on there so that it 's not going off every uh ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Got it .
+
+dialogue type : s^bk.x
+B :  Yeah , OK .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^j
+B :  This is a fictional system obviously ,
+
+dialogue type : qy^d^g
+B :  huh .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  like I I I guess we 're trying to limit the detail of our ontology or types of places that someone could go ,
+
+dialogue type : qy^d^g
+B :  right ?
+
+dialogue type : qw
+B :  But who is it that has to care about this ,
+
+dialogue type : qrr
+B :  or what component of the system ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^bu
+B :  So we would rather just ask uh have a bunch of people talk about the zoo ,
+
+dialogue type : s^bu
+B :  uh and assume that that will that the constructions that they use there will give us everything we need to know about these sort of zoo , castle , whatever type things , these bigger places .
+
+dialogue type : s
+B :  And that way you get the speech data of people saying " zoo " over and over again or whatever too .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : h|s.%--
+B : 
+
+dialogue type : s.%--
+B :  Yeah , I mean ,
+
+dialogue type : s
+B :  off the top of my head it kinda seems like you would probably just want , you know , richer data ,
+
+dialogue type : s
+B :  more complex stuff going on ,
+
+dialogue type : s
+B :  people trying to do more complex sets of things .
+
+dialogue type : s
+B :  I mean you know , if our goal is to really sort of be able to handle a whole bunch of different stuff , then throwing harder situations at people will get them to do more linguistic more interesting linguistic stuff .
+
+dialogue type : s^no
+B :  But I mean I 'm I 'm not really sure
+
+dialogue type : s
+B :  Uh , because I don't fully understand like what our choices are of ways to do this here yet .
+
+dialogue type : s
+B :  I started to listen to one and it was just like , um , uh , sort of depressing .
+
+dialogue type : s
+B :  I thought I 'd just sort of listen to the beginning part and the person was just sort of reading off her script or something .
+
+dialogue type : %--
+B :  And .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s
+B :  It In fact , um , I am just you know today , next couple days gonna start really diving into this data .
+
+dialogue type : s
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  l y y y you gave me those dozens of files
+
+dialogue type : s
+B :  and I looked at one of them which was about ten sentences , found fifteen , twenty different construction types that we would have to look for and so on
+
+dialogue type : s
+B :  and like , " alright , well , let 's start here . "
+
+dialogue type : s
+B :  Um . So I haven't really gone into the , you know looked at all of the stuff that 's going on .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Right , I mean , once I start doing that I 'll have more to say about this kind of thing .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah , Yeah .
+
+dialogue type : s^aap
+B :  I um I did sort of scan it at first and noticed that , and then looked in detail at one of them .
+
+dialogue type : s
+B :  But yeah , yeah I noticed that , too .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^e.%--
+B :  So rather than having zoo and castle .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : sj^ba^j
+B :  Good luck .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  That 's right .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qw
+B :  What 's this idea of " next tour " ?
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Or OK .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : s^bu
+B :  So so this tour is sort of just like th the idea of current s round of of touristness or whatever ,
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Got it .
+
+dialogue type : s^bk
+B :  Got it .
+
+dialogue type : s^aa
+B :  Sure , sure , sure .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  Just to be totally clear .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s
+B :  You just spend the whole time at U Fleku or something ,
+
+dialogue type : qy^d^g.%--
+B :  ri
+
+dialogue type : s^no
+B :  Keine Ahnung
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^ar
+B :  Not that I know of actually .
+
+dialogue type : qy^bu^d
+B :  So , business is supposed to uh , be sort of it like professional type stuff ,
+
+dialogue type : qy^d^g
+B :  right ,
+
+dialogue type : qrr
+B :  or something like that ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b.%--
+B :  Um .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Yeah , I mean like for example my my father is about to travel to Prague .
+
+dialogue type : s
+B :  He 'll be there for two weeks .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  He 's there to teach a course at the business school but he also is touring around
+
+dialogue type : s
+B :  and so he may have some mixture of these things .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy.%--
+B : 
+
+dialogue type : s^bu
+B :  " Exchange money " is an errand ,
+
+dialogue type : qy^d^g
+B :  right ?
+
+dialogue type : qw.%--
+B : 
+
+dialogue type : s
+B :  So , like " Go to a movie " is now entertainment ,
+
+dialogue type : qw.%--
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^e
+B :  " Tourist needs food , badly "
+
+dialogue type : qw
+B :  H How much of Heidelberg can you get around by public transport ?
+
+dialogue type : s^e
+B :  I mean in terms of the interesting bits .
+
+dialogue type : s.%--
+B :  There 's lots of bits where you don't really
+
+dialogue type : s^df.%--
+B :  I 've only ev was there ten years ago , for a day , so I don't remember , but .
+
+dialogue type : s^e.%--
+B : 
+
+dialogue type : qy.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^cs
+B :  I would I would lump it with " walk " because hills matter .
+
+dialogue type : qy^d^g
+B :  Right ?
+
+dialogue type : s^f
+B :  You know .
+
+dialogue type : s
+B :  Things like that .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^fe
+B : 
+
+dialogue type : sj^ba
+B :  It seems like this would be really hard to guess .
+
+dialogue type : s
+B :  I mean , on the part of the system .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qy^d^rt
+B :  I mean you 're you 're talking about rather than having the user decide this you 're supposed t we 're supposed to figure it out ?
+
+dialogue type : s
+B :  Overrider
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  You could say " some " in there .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^2
+B :  Dinner .
+
+dialogue type : fg
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^e
+B :  Money is no object .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%-
+B :  I mean y
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b.%
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  I mean th so there 's a couple of different ways you can interpret these things
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s
+B :  You know " I want to go there and I don't care if it 's really hard . "
+
+dialogue type : s.%--
+B :  Or if you 're an extreme sport person , you know .
+
+dialogue type : s
+B :  " I wanna go there and I insist on it being the hard way . "
+
+dialogue type : qy^d^g
+B :  Right ?
+
+dialogue type : s
+B :  you know , so I assume we 're going for the first interpretation ,
+
+dialogue type : qy^d^g
+B :  right ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  I 'll go th
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  I 'd li
+
+dialogue type : s^no
+B :  I dunno .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : qy^bh^rt
+B :  Yeah ?
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk^rt^tc
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^rt
+B :  D Do you mean Do you mean eliciting particular constructions ?
+
+dialogue type : qrr.%--
+B :  Or do you mean like what kinds of things we want to get people talking about ? Semantically speaking , eh ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^aa^m
+B :  Right .
+
+dialogue type : s^aa
+B :  Sure .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Right . OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^bk
+B :  Got it .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Uh Yeah . OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : qr.%-
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : %--
+B : 
+
+dialogue type : s^bk
+B :  OK , that .
+
+dialogue type : s^bk
+B :  Got it .
+
+dialogue type : qw
+B :  Like what What have I got now ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qy^bu^rt
+B :  Those files that you sent me are the user side of some interaction with Fey ?
+
+dialogue type : qr^g.%-
+B :  Is that what it is ? Or ?
+
+dialogue type : s^bu
+B :  Just talking into a box and not hearing anything back .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK . OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Right , Right .
+
+dialogue type : s^j
+B :  By the end of the summer , too .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^fe
+B :  Hmm .
+
+dialogue type : sj
+B :  Still , pretty formidable actually .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Right , Right .
+
+dialogue type : s^2
+B :  Existence proof , you know .
+
+dialogue type : s
+B :  Set up the infrastructure ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s^cs^tc
+B :  Um sometime , I have to talk to some subset of the people in this group , at least about um what sort of constructions I 'm looking for .
+
+dialogue type : s
+B :  I mean , you know obviously like just again , looking at this one uh thing , you know , I saw y things from sort of as general as argument structure constructions .
+
+dialogue type : s
+B :  Oh , you know , I have to do Verb Phrase .
+
+dialogue type : s
+B :  I have to do uh uh unbounded dependencies ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  instantiate that .
+
+dialogue type : s.%--
+B :  On the other hand I have to have , you know ,
+
+dialogue type : s:qh
+B :  there 's particular uh , fixed expressions , or semi - fixed expressions like " Get " plus path expression for , you know , " how d ho how do I get there ? " ,
+
+dialogue type : s:qh
+B :  " How do I get in ? " ,
+
+dialogue type : s:qh
+B :  " How do I get away ? "
+
+dialogue type : s
+B :  and all that kind of stuff .
+
+dialogue type : fh|s
+B :  Um , so there 's a variety of sort of different sorts of constructions
+
+dialogue type : s^bu^rt
+B :  and it you know it 's it 's sort of like anything goes .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s.%-
+B :  er that 's what
+
+dialogue type : s^bk
+B :  Yeah , yeah .
+
+dialogue type : s^aa
+B :  Of course .
+
+dialogue type : fg
+B :  Right , exactly .
+
+dialogue type : s
+B :  Now it w we talked about this before ,
+
+dialogue type : qy^d^f^g
+B :  right .
+
+dialogue type : s
+B :  And I I me it would it would be completely out of the question to really do more than , say , like , oh I don't know , ten , over the summer ,
+
+dialogue type : s
+B :  but uh , but you know obviously we need to get sort of a general view of what things look like ,
+
+dialogue type : s.%--
+B :  so
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Sure .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Sure .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s
+B :  But I mean in terms of the s th sort of level of uh of analysis ,
+
+dialogue type : s^bu
+B :  you know , these don't necessarily have to be more complex than like the " Out of " construction in the BCP paper where it 's just like , you know , half a page on each one or something .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s^2
+B :  For the first cut , that should be fine , yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s
+B :  That 's about six times in this little one here , so uh , yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : qw
+B :  How much does it cost ?
+
+dialogue type : s
+B :  I haven't planned to go .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : b
+B :  Sure .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^ft
+B :  Thanks .
+

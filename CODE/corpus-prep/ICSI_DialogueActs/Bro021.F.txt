@@ -1,0 +1,414 @@
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : qy^cs^rt
+F :  Should we take turns ?
+
+dialogue type : qy^cs^d^rt
+F :  You want me to run it today ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : fg
+F :  Um .
+
+dialogue type : s^cs
+F :  Let 's see , maybe we should just get a list of items
+
+dialogue type : s^e
+F :  things that we should talk about .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s
+F :  I guess there 's the usual updates ,
+
+dialogue type : s
+F :  everybody going around and saying , uh , you know , what they 're working on ,
+
+dialogue type : s
+F :  the things that happened the last week .
+
+dialogue type : qy^rt
+F :  But aside from that is there anything in particular that anybody wants to bring up
+
+dialogue type : s^e^rt
+F :  for today ?
+
+dialogue type : s^ar
+F :  No ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^co
+F :  So why don't we just around and people can give updates .
+
+dialogue type : qy^cs^rt
+F :  Uh , do you want to start , Stephane ?
+
+dialogue type : qw^rt
+F :  This is what what do you , uh what 's in the paper there ?
+
+dialogue type : qy^bu^d^rt
+F :  The one that we s we submitted the last round ?
+
+dialogue type : s^bk
+F :  Uh - huh .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : qw^rt
+F :  Where where 's it gonna be this year ?
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : qy^rt
+F :  Are the means pretty different for the two ?
+
+dialogue type : qy^bh
+F :  Hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : qy^rt
+F :  Wasn't there some experiment you were gonna try
+
+dialogue type : s^e.%--
+F :  where you did something differently for each , um , uh I don't know whether it was each mel band or each , uh , um , FFT bin or someth
+
+dialogue type : s^e
+F :  There was something you were gonna uh , some parameter you were gonna vary depending on the frequency .
+
+dialogue type : s^no.%--
+F : 
+
+dialogue type : s^2.%--
+F : 
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s
+F :  I I thought , Morgan , you brought it up a couple meetings ago .
+
+dialogue type : s.%--
+F :  And then it was something about , uh , some
+
+dialogue type : s.%--:s.%--
+F :  and then somebody said " yeah , it does seem like , you know , C - zero is the one that 's , you know , the major one " or , uh , s
+
+dialogue type : s^no
+F :  I can't remember exactly what it was now .
+
+dialogue type : qy^bh
+F :  Hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : qw
+F :  So why does that m smooth things out ?
+
+dialogue type : s^no
+F :  I don't I don't understand that .
+
+dialogue type : s^bk
+F :  Huh . Oh , OK .
+
+dialogue type : qy^bh
+F :  Hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy^bh
+F :  Hmm .
+
+dialogue type : qy^rt
+F :  So would that be similar to , like , doing the smoothing , then , over time
+
+dialogue type : qrr.%--
+F :  or ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+F :  So performance went down ?
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : qw
+F :  So what was the what was the threshold part of it ?
+
+dialogue type : qw^rt
+F :  Was the threshold , uh , how far down ?
+
+dialogue type : s^bk
+F :  Uh - huh .
+
+dialogue type : qw.%--
+F : 
+
+dialogue type : s^no
+F :  ho I don't understand .
+
+dialogue type : qw^rt
+F :  How does it go ?
+
+dialogue type : qy^bu^d^rt
+F :  If it if if the peak value 's above some threshold , then you add the noise ?
+
+dialogue type : qrr.%-
+F :  Or if it 's below s
+
+dialogue type : s^bk
+F :  Oh , oh . I see .
+
+dialogue type : s^bk^r
+F :  I see .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy^rt^tc
+F :  So do you have more , Stephane ,
+
+dialogue type : qrr.%--
+F :  or ?
+
+dialogue type : qy^rt^tc
+F :  Do you have anything , Morgan ,
+
+dialogue type : qrr.%--
+F :  or ?
+
+dialogue type : qo^tc
+F :  How about you , Barry ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy^bh
+F :  Hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy^rt
+F :  So do you just take the probabilities of the other ones and spread them out evenly among the the remaining ones ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s^ba
+F :  Cool .
+
+dialogue type : s^ba
+F :  That will be really interesting to see ,
+
+dialogue type : qy^d^f^g^rt
+F :  you know .
+
+dialogue type : qy^bu^d
+F :  So then you 're gonna feed the those into some standard recognizer .
+
+dialogue type : qy^rt
+F :  Uh , wh are you gonna do digits
+
+dialogue type : qrr.%--
+F :  or ?
+
+dialogue type : s^bk
+F :  With TIMIT . OK .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bu.%--
+F : 
+
+dialogue type : s^fa
+F :  Sorry .
+
+dialogue type : qw^rt
+F :  So where do the outputs of the net go into if you 're doing phone recognition ?
+
+dialogue type : qy^bu^d^rt
+F :  An - and you 're gonna the you 're gonna do phone recognition with that ?
+
+dialogue type : s^bk
+F :  OK , OK .
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^ba
+F :  Cool .
+
+dialogue type : s^ba
+F :  Great .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^tc
+F :  Let 's see , I haven't done a whole lot on anything related to this this week .
+
+dialogue type : s^df
+F :  I 've been focusing mainly on Meeting Recorder stuff .
+
+dialogue type : fh|s^cc^tc
+F :  So , um , I guess I 'll just pass it on to Dave .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy^bh
+F :  Hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : qo^rt^tc
+F :  How about you , Sunil ?
+
+dialogue type : qo^tc
+F :  Oh . How about you , Carmen ?
+
+dialogue type : qw^rt
+F :  What what is VTS again ?
+
+dialogue type : s^bk
+F :  Oh , yes .
+
+dialogue type : s^aa
+F :  Right , right .
+
+dialogue type : s
+F :  I think I ask you that every single meeting ,
+
+dialogue type : qy^g
+F :  don't I ?
+
+dialogue type : s
+F :  I ask you that question every meeting .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : qw^j
+F :  " What is VTS ? "
+
+dialogue type : s^ba
+F :  Great .
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : s^tc
+F :  Well , I guess we 're about done .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s
+F :  so some of the digit forms don't have digits .
+
+dialogue type : s^df
+F :  Uh , we ran out
+
+dialogue type : s^df
+F :  there were some blanks in there ,
+
+dialogue type : s
+F :  so not everybody will be reading digits .
+
+dialogue type : fh
+F :  But , um ,
+
+dialogue type : s^bu|qy^d^g^rt
+F :  I guess you 've got some . Right , Morgan ?
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : qw^cs
+F :  why don't you go ahead and start .
+
+dialogue type : s
+F :  And I think it 's just us down here at this end that have them .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s
+F :  Whenever you 're ready .
+
+dialogue type : s^co^nd
+F :  Uh , leave it on ,
+
+dialogue type : fh
+F :  uh ,
+
+dialogue type : %--
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : z
+F :  OK .
+

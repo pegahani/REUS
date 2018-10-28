@@ -1,0 +1,1296 @@
+dialogue type : fg
+B :  Uh .
+
+dialogue type : s^co
+B :  Somebody else should run this .
+
+dialogue type : s^df:qo
+B :  I 'm sick of being the one to sort of go through and say , " Well , what do you think about this ? "
+
+dialogue type : %-
+B :  You wanna ?
+
+dialogue type : s^co^na
+B :  Yeah . Why don't you run it today ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qy^rt
+B :  So do you maybe make errors in different places ?
+
+dialogue type : s^e
+B :  Different kinds of errors ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg
+B :  Um ,
+
+dialogue type : s^cs
+B :  I I really would like to suggest looking , um , a little bit at the kinds of errors .
+
+dialogue type : s^df
+B :  I know you can get lost in that and go forever and not see too much , but sometimes ,
+
+dialogue type : fh
+B :  but but , um ,
+
+dialogue type : s
+B :  just seeing that each of these things didn't make things better may not be enough .
+
+dialogue type : s^df
+B :  It may be that they 're making them better in some ways and worse in others ,
+
+dialogue type : s^df
+B :  or increasing insertions and decreasing deletions ,
+
+dialogue type : fh
+B : 
+
+dialogue type : fh
+B :  or , um ,
+
+dialogue type : fh
+B :  um ,
+
+dialogue type : s^df
+B :  you know , helping with noisy case
+
+dialogue type : s^df
+B :  but hurting in quiet case .
+
+dialogue type : s
+B :  And if you saw that then maybe you it would something would occur to you of how to deal with that .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s|qy^d^g
+B :  Well , there 's less difference . Right ?
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  So , I mean , again , if you trained in one kind of noise and tested in the same kind of noise , you 'd you know , given enough training data you don't do b do badly .
+
+dialogue type : s
+B :  The reason that we d that we have the problems we have is because it 's different in training and test .
+
+dialogue type : s^e
+B :  Even if the general kind is the same , the exact instances are different .
+
+dialogue type : fh
+B :  And and
+
+dialogue type : fh|s
+B :  so when you whiten it , then it 's like you the the only noise to to first order , the only th noise that you have is white noise
+
+dialogue type : s
+B :  and you 've added the same thing to training and test .
+
+dialogue type : s.%--
+B :  So it 's ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^na
+B :  Well , it 's a kind of smoothing ,
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk|s
+B :  Yeah , but you 're still getting more recognition errors ,
+
+dialogue type : s^e
+B :  which means that the differences , even though they look like they 're not so big , are are hurting your recognition .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s
+B :  Well , the other thing is that you just picked one particular way of doing it .
+
+dialogue type : fh|s
+B :  Uh , I mean , first place it 's fifteen DB , uh , down across the utterance .
+
+dialogue type : s^cs
+B :  And maybe you 'd want to have something that was a little more adaptive .
+
+dialogue type : s
+B :  Secondly , you happened to pick fifteen DB
+
+dialogue type : s^cs
+B :  and maybe twenty 'd be better ,
+
+dialogue type : s^cs
+B :  or or twelve .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^no
+B :  Well , he yeah , he had to figure out how much to add .
+
+dialogue type : s
+B :  So he was looking he was looking at the peak value .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  So then afterwards a log is taken ,
+
+dialogue type : s
+B :  and that 's so sort of why the the little variation tends to go away .
+
+dialogue type : s^cs
+B :  Or or not constant but but , uh , varying over time in fact is another way to go .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : qy^rt
+B :  Were you using the the normalization in addition to this ?
+
+dialogue type : qw
+B :  I mean , what was the rest of the system ?
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Sure .
+
+dialogue type : s^cs
+B :  But on the other hand if everybody is trying different kinds of noise suppression things and so forth , it might be good to standardize on the piece that we 're not changing .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : s^df.%--
+B :  So if there 's any particular reason to ha pick one or the other ,
+
+dialogue type : fh
+B : 
+
+dialogue type : qw
+B :  Which which one is closer to what the proposal was that was submitted to Aurora ?
+
+dialogue type : qy.%--
+B : 
+
+dialogue type : s.%--
+B :  they both ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Yeah , you 're trying to add in France Telecom .
+
+dialogue type : s^co
+B :  Tell them about the rest of it .
+
+dialogue type : s^e
+B :  Like you said the number of filters might be different or something .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : fh
+B : 
+
+dialogue type : %--
+B :  Cep
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s^cs
+B :  So , I mean , I think we 'd wanna standardize there ,
+
+dialogue type : qy^g^rt
+B :  wouldn't we ?
+
+dialogue type : fh|s^cs
+B :  So , sh you guys should pick something
+
+dialogue type : fh
+B : 
+
+dialogue type : s^e
+B :  Well , all th all three of you .
+
+dialogue type : s
+B :  I think as long as you guys agree on it , it doesn't matter .
+
+dialogue type : s^e
+B :  I think we have a maximum of sixty , uh , features that we 're allowed .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : h
+B :  Uh ,
+
+dialogue type : s^ar|s^j
+B :  no . I 'm just , you know , being a manager this week .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  The big one takes a while .
+
+dialogue type : s^bk|s^e
+B :  Yeah . That takes two , three weeks .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I don't know if you even want to run the big one , uh , um , in the in the final system ,
+
+dialogue type : s^df
+B :  cuz , you know , it takes a little while to run it .
+
+dialogue type : fh|s^cs.%--
+B : 
+
+dialogue type : s^fa
+B :  I 'm sorry ,
+
+dialogue type : s
+B :  it was two , three weeks for training up for the large Broadcast News test set training set .
+
+dialogue type : s
+B :  I don't know how much you 'd be training on .
+
+dialogue type : s
+B :  The full ?
+
+dialogue type : s
+B :  Uh , i so if you trained on half as much and made the net , uh , uh , half as big , then it would be one fourth the amount of time
+
+dialogue type : s
+B :  and it 'd be nearly as good .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  about about , uh uh , uh m other ways of taking care of the phase .
+
+dialogue type : fh|s
+B :  So , I mean , I I guess that was something I could say would be that we 've talked a little bit about
+
+dialogue type : s^e
+B :  you just doing it all with complex arithmetic
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  and not not , uh , doing the polar representation with magnitude and phase .
+
+dialogue type : s
+B :  But it looks like there 's ways that one could potentially just work with the complex numbers and and and in principle get rid of the effects of the average complex spectrum .
+
+dialogue type : %--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  P So .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I mean , we we don't even know if the phase is something the average phase is something that we do want to remove .
+
+dialogue type : s
+B :  I mean , maybe there 's some deeper reason why it isn't the right thing to do .
+
+dialogue type : fh
+B :  But , um ,
+
+dialogue type : s
+B :  at least in principle it looks like there 's there 's , uh , a couple potential ways to do it .
+
+dialogue type : s^e
+B :  One one being to just work with the complex numbers ,
+
+dialogue type : fh
+B :  um ,
+
+dialogue type : fh|s^e
+B :  and , uh in rectangular kind of coordinates .
+
+dialogue type : s^e
+B : 
+
+dialogue type : fh
+B :  Well .
+
+dialogue type : s^df
+B :  So you work with the complex numbers
+
+dialogue type : s^df
+B :  and then when you get the spectrum the average complex spectrum um , actually divide it out ,
+
+dialogue type : fh|s^e
+B :  um , as opposed to taking the log and subtracting .
+
+dialogue type : s.%--
+B :  So then ,
+
+dialogue type : fh
+B :  um ,
+
+dialogue type : fh
+B :  um ,
+
+dialogue type : s
+B :  you know , there might be some numerical issues .
+
+dialogue type : s^no
+B :  We don't really know that .
+
+dialogue type : s
+B :  The other thing we talked a little bit about was Taylor series expansion .
+
+dialogue type : fh
+B :  And , um ,
+
+dialogue type : fh|s
+B :  uh , actually I was talking to Dick Karp about it a little bit ,
+
+dialogue type : s^df
+B :  and and and , since I got thinking about it ,
+
+dialogue type : fh
+B :  and and , uh ,
+
+dialogue type : s^cs.%--
+B :  so one thing is that y you 'd have to do , I think ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  we may have to do this on a whiteboard ,
+
+dialogue type : s^cs
+B :  but I think you have to be a little careful about scaling the numbers that you 're taking the complex numbers that you 're taking the log of
+
+dialogue type : s^df
+B :  because the Taylor expansion for it has , you know , a square and a cube , and and so forth .
+
+dialogue type : s
+B :  And and so if if you have a a number that is modulus , you know , uh , very different from one It should be right around one ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^df
+B : 
+
+dialogue type : s^e
+B :  one minus epsilon
+
+dialogue type : s^e
+B :  or o is is one plus epsilon ,
+
+dialogue type : qy^bu.%--
+B :  or is it one plus ?
+
+dialogue type : s
+B :  Well , there 's an epsilon squared over two
+
+dialogue type : s
+B :  and an epsilon cubed over three ,
+
+dialogue type : s
+B :  and so forth .
+
+dialogue type : s
+B :  So if epsilon is bigger than one , then it diverges .
+
+dialogue type : s
+B :  So you have to do some scaling .
+
+dialogue type : s^bd
+B :  But that 's not a big deal
+
+dialogue type : s^df
+B :  cuz it 's the log of of K times a complex number ,
+
+dialogue type : s
+B :  then you can just that 's the same as log of K plus log of the complex number .
+
+dialogue type : fh
+B :  Uh ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  converges .
+
+dialogue type : fh
+B :  But .
+
+dialogue type : s.%--
+B :  I I missed the v
+
+dialogue type : s^fa
+B :  I 'm sorry ,
+
+dialogue type : s^df
+B :  I was I was distracted .
+
+dialogue type : s
+B :  I missed the very first sentence .
+
+dialogue type : s
+B :  So then , I 'm a little lost on the rest .
+
+dialogue type : qw.%-
+B :  What what what ?
+
+dialogue type : s^bk
+B :  Yeah , I see .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^j
+B :  As as he is wont to do .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^j
+B :  So , that 'd be good from for analysis .
+
+dialogue type : s^df^j
+B :  It 's good to have some , uh , cases of the same utterance at different different times .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qw^rt
+B :  Do you How much of that do you think is due to just the particular implementation and how much you 're adjusting it ?
+
+dialogue type : qw.%--
+B :  Or how much do you think is intrinsic to ?
+
+dialogue type : s
+B :  I have an idea .
+
+dialogue type : s.%--
+B :  If if , uh , uh ,
+
+dialogue type : s^aa
+B :  y you 're right .
+
+dialogue type : s
+B :  I mean , each of these require this .
+
+dialogue type : qw^cs
+B :  Um , given that we 're going to have for this test at least of uh , boundaries , what if initially we start off by using known sections of nonspeech for the estimation ?
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : fh
+B :  S so , e um ,
+
+dialogue type : s^df
+B :  first place , I mean even if ultimately we wouldn't be given the boundaries , uh , this would be a good initial experiment to separate out the effects of things .
+
+dialogue type : qw
+B :  I mean , how much is the poor you know , relatively , uh , unhelpful result that you 're getting in this or this or this
+
+dialogue type : qy
+B :  is due to some inherent limitation to the method for these tasks
+
+dialogue type : qw
+B :  and how much of it is just due to the fact that you 're not accurately finding enough regions that that are really n noise ?
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s^df
+B :  So maybe if you tested it using that , you 'd have more reliable stretches of nonspeech to do the estimation from
+
+dialogue type : s
+B :  and see if that helps .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s
+B :  I I 'm actually just confused about the equations you have up there .
+
+dialogue type : fh
+B :  So , uh ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : qw
+B :  Which is which is the log domain ?
+
+dialogue type : %--
+B : 
+
+dialogue type : qw^d
+B :  but Y is what ?
+
+dialogue type : qy^d^rt
+B :  Y of the spectrum
+
+dialogue type : qrr.%--
+B :  or ?
+
+dialogue type : s^ar
+B :  No , no .
+
+dialogue type : qw^d
+B :  The top Y is what ?
+
+dialogue type : qy^rt
+B :  Is that power spectrum ?
+
+dialogue type : qy^r^rt
+B :  No , is that power spectrum ?
+
+dialogue type : qy.%-
+B :  Is it ?
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Yeah ,
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bu
+B :  So this it 's the magnitude squared or something .
+
+dialogue type : s^bk|s
+B :  OK , so you have power spectrum added there
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  depends on T ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bu
+B :  you just mean the log of the of the one up above .
+
+dialogue type : fh|s^bu.%--
+B :  And , uh , so that is X times ,
+
+dialogue type : fh
+B :  uh ,
+
+dialogue type : %
+B :  o
+
+dialogue type : qy^bu^d^rt
+B :  X times one plus , uh , N uh , N N N minus X ?
+
+dialogue type : s.%--
+B :  And then ,
+
+dialogue type : fh|s.%--
+B : 
+
+dialogue type : fh
+B :  Well .
+
+dialogue type : qy^rt^t1
+B :  Is that right ?
+
+dialogue type : s^e^t1.%--
+B : 
+
+dialogue type : s^no
+B :  I actually don't see how you get that .
+
+dialogue type : fh
+B :  Uh .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : fg
+B : 
+
+dialogue type : s^ar^rt
+B :  No .
+
+dialogue type : s^nd
+B :  That doesn't follow .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s
+B :  I mean , just never mind what they are .
+
+dialogue type : fh|s
+B : 
+
+dialogue type : qy^d^f^g^rt
+B :  Right ?
+
+dialogue type : s
+B :  The the the log of X plus N is not the same as the log of E to the X plus E to the N .
+
+dialogue type : s^cs
+B :  Maybe we can take it off - line ,
+
+dialogue type : fh
+B :  but I I don't know .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : %-
+B :  I i
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : fg|s^df
+B :  Yeah . Cuz it doesn't just follow what 's there .
+
+dialogue type : s
+B : 
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s^nd
+B :  That doesn't follow .
+
+dialogue type : s^df^nd
+B :  That I mean , that the f top one does not imply the second one .
+
+dialogue type : s^df.%--
+B :  Because cuz the log of a sum is not the same as th
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^bk|s.%--
+B :  Right . So you could s
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^ar
+B :  N no ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s^no
+B :  I don't see how you get the second expression from the top one .
+
+dialogue type : s^df.%--
+B :  The I mean , just more generally here , if you say " log of , um , A plus B " ,
+
+dialogue type : s^df.%--
+B : 
+
+dialogue type : s^bsc^df
+B :  or A plus B is not the , um , log of E to the A plus E to the B .
+
+dialogue type : qy^d^f^g^rt
+B :  Right ?
+
+dialogue type : s^df
+B :  And that 's what you seem to be saying .
+
+dialogue type : qy^d^f^g^rt
+B :  Right ?
+
+dialogue type : s^df
+B : 
+
+dialogue type : s^2
+B :  Plus N .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : qw.%--
+B :  And then how do you go from there to the ?
+
+dialogue type : s^co
+B :  Look .
+
+dialogue type : fg
+B :  OK ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I mean , C equals A plus B ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^na
+B :  That one 's right .
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : s^bk^r
+B :  I see .
+
+dialogue type : s
+B :  OK , I understand now .
+
+dialogue type : s^ft
+B :  Alright , thanks .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : fh
+B :  So , yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  So , capital X is by definition the same as E to the little X
+
+dialogue type : s^df
+B :  because she 's saying that the little X is is the , uh is the log .
+
+dialogue type : s^bk
+B :  Alright .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Alright .
+
+dialogue type : s^cs
+B :  I think these things are a lot clearer when you can use fonts different fonts there
+
+dialogue type : s^df
+B :  so you know which is which .
+
+dialogue type : s
+B :  But I I under I understand what you mean now .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Sure .
+
+dialogue type : b
+B :  Oh .
+
+dialogue type : s^bk|s
+B :  Yes . I understand now .
+
+dialogue type : s
+B :  And that 's where it comes from .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^ft
+B :  Thanks .
+
+dialogue type : s^bk|s^co
+B :  OK . So now once you get that that one , then you then you do a first or second - order , or something , Taylor series expansion of this .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  So , um ,
+
+dialogue type : qw.%--
+B :  how h
+
+dialogue type : qw
+B :  how much in in the work they reported , how much noisy speech did you need to get , uh , good enough statistics
+
+dialogue type : s^e^rt
+B :  for the to get this mapping ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^df.%--
+B : 
+
+dialogue type : s^df
+B :  the training set may not be a a great estimator for the noise in the test set .
+
+dialogue type : s^e
+B :  Sometimes it is
+
+dialogue type : s^e
+B :  and sometimes it 's not .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : qw.%--
+B :  And what are you using for the noisy ?
+
+dialogue type : s^e.%-
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy^bu^d
+B :  And and you and you train it up entirely from , uh , nonspeech sections in the test ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : qw^rt
+B :  What is the first variable in that probability ?
+
+dialogue type : s^ar|s^fa
+B :  No , no . I 'm sorry .
+
+dialogue type : s^e
+B :  In in the one you pointed at .
+
+dialogue type : qw^rt
+B :  What 's that variable ?
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Yes .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : b
+B :  Yes .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  So , I 'm I 'm not following this perfectly
+
+dialogue type : fh
+B :  but , um ,
+
+dialogue type : %--
+B : 
+
+dialogue type : qy^bu^d^rt
+B :  Are you saying that all of these estimates are done using , um , estimates of the probability density for the noise that are calculated only from the first ten frames ?
+
+dialogue type : s^e
+B :  And never change throughout anything else ?
+
+dialogue type : qy^d^rt
+B :  Per per per utterance ,
+
+dialogue type : qrr.%--
+B :  or per ?
+
+dialogue type : s^bk^m
+B :  Per utterance .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bu
+B :  So it 's done it 's done new for each new utterance .
+
+dialogue type : s^bu
+B :  So this changes the whole mapping for every utterance .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : qy^bh^rt
+B :  Yeah ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy^d^rt
+B :  So you estimated , uh , f completely forgetting what you had before ?
+
+dialogue type : fh|qy
+B :  Uh , or is there some adaptation ?
+
+dialogue type : b
+B :  OK .
+
+dialogue type : qy^rt
+B :  Now do we know , either from their experience or from yours , that , uh , just having , uh , two parameters , the the mean and variance , is enough ?
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s
+B :  I mean , I know you don't have a lot of data to estimate with ,
+
+dialogue type : fh
+B :  but but , uh ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^ar|s^nd
+B :  No , I 'm talking about the noise .
+
+dialogue type : s^e
+B :  There 's only one Gaussian .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s.%--
+B :  And you and and it 's ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk
+B :  right ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^r.%--
+B : 
+
+dialogue type : s^co
+B :  Wait a minute .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qw^rt
+B :  what 's the dimensionality of the Gaussian ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qy^d
+B :  So this is twenty or something ?
+
+dialogue type : qy^bu^d^m
+B :  Twenty ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bk|s
+B :  Yeah . So it 's actually forty numbers that you 're getting .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^aa
+B :  Well , yeah .
+
+dialogue type : s^ng
+B :  But , I mean , no no paper is is a Bible ,
+
+dialogue type : qy^d^f^g
+B :  you know .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  This is almost cheating .
+
+dialogue type : s
+B :  It certainly isn't real - time .
+
+dialogue type : s
+B :  But if y suppose you use the real boundaries that that you were in fact were given by the VAD and so forth
+
+dialogue type : s
+B :  or I I guess we 're gonna be given even better boundaries than that .
+
+dialogue type : s
+B :  And you look you take all o all of the nonspeech components in an utterance ,
+
+dialogue type : s
+B :  so you have a fair amount .
+
+dialogue type : qy
+B :  Do you benefit from having a better model for the noise ?
+
+dialogue type : s
+B :  That would be another question .
+
+dialogue type : s
+B :  So first question would be to what extent i are the errors that you 're still seeing based on the fact that you have poor boundaries for the , uh , uh , nonspeech ?
+
+dialogue type : s
+B :  And the second question might be , given that you have good boundaries , could you do better if you used more parameters to characterize the noise ?
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh|qy^bu^d^rt
+B :  Um , they are doing they 're using first term only of the vector Taylor series ?
+
+dialogue type : fh|qy^rt
+B :  Um , if you do a second term does it get too complicated cuz of the nonlinearity ?
+
+dialogue type : s^bk
+B :  Yeah , OK .
+
+dialogue type : s^cc
+B :  No , I won't ask the next question then .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^ba
+B :  No , it 's interesting .
+
+dialogue type : s^df
+B :  Uh , w we haven't had anybody work with it before ,
+
+dialogue type : s
+B :  so it 's interesting to get your get your feedback about it .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^na
+B :  I have some .
+
+dialogue type : h|s^aa
+B :  Uh , OK .
+
+dialogue type : s
+B :  They prefer to have them on
+
+dialogue type : s^df
+B :  just so that they 're continuing to get the distant , uh , information .
+
+dialogue type : z
+B :  OK . S
+

@@ -1,0 +1,672 @@
+dialogue type : z
+A :  Alright , so I 'm - I should read all of these numbers ?
+
+dialogue type : z
+A :  Oh yeah .
+
+dialogue type : s
+A :  " Go there " .
+
+dialogue type : s^cs
+A :  I mean it seems that you could um uh it seems that those things would be logically independent
+
+dialogue type : s^cs^e
+A :  like you would wanna have them separate or binary ,
+
+dialogue type : s:s
+A :  Go - there and then the the possibilities of how to go there
+
+dialogue type : s^df.%-
+A : 
+
+dialogue type : s^df
+A :  because , you know it might be easy to figure out that this person is going to need more film eventually from their utterance
+
+dialogue type : s^df^e
+A :  but it 's much more complex to query when would be the most appropriate time .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^aa^rt
+A :  Think so .
+
+dialogue type : h|s^ar
+A :  Uh , no ,
+
+dialogue type : s^e^rt
+A :  but I think I 'm following it .
+
+dialogue type : s^e
+A :  So far .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^2
+A :  User thrift .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk^r
+A :  OK .
+
+dialogue type : s^fe^j
+A :  Wow , that is simple .
+
+dialogue type : s
+A :  Climb , rob .
+
+dialogue type : s
+A :  The Charles Bridge , you know .
+
+dialogue type : s
+A :  No , I mean , if you go to re you know if you go to Prague or whatever one of your your key points that you have to do is cross the Charles Bridge
+
+dialogue type : s
+A :  and doesn't really matter which way you cross
+
+dialogue type : s
+A :  which where you end up at the end
+
+dialogue type : s
+A :  but the part the good part is walking over it ,
+
+dialogue type : fh
+A :  so .
+
+dialogue type : b
+A :  mm - hmm
+
+dialogue type : b
+A :  mm - hmm
+
+dialogue type : fh
+A :  So
+
+dialogue type : qy^rt
+A :  Can I ask about " slurred " and " angry " as inputs to this ?
+
+dialogue type : qw^rt
+A :  What why ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^2
+A :  Drunk .
+
+dialogue type : s^2
+A :  Less likely to enter .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^aa
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy^bu^rt
+A :  So we 're deriving um this the this feature of whether the the main action at this place happens inside or outside or what we 're deriving that from what kind of activity is done there ?
+
+dialogue type : qy^cs^rt
+A :  Couldn't you have it as just a primitive feature of the entity ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^df
+A :  I mean it seems like that 's much more reliable
+
+dialogue type : s^df
+A :  cuz you could have outdoor places that sell things
+
+dialogue type : s^e
+A :  and you know indoor places that do something else
+
+dialogue type : fh
+A :  and
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk^r
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s
+A :  I 'm just thinking about how people , human beings who know about places and places to go and so on would store this
+
+dialogue type : s
+A :  and it would probably you wouldn't just sort of remember that they sell stuff and then deduce from that that it must be going on inside or something .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Huh .
+
+dialogue type : fg
+A : 
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s
+A :  User schedule .
+
+dialogue type : s^na:qr
+A :  " Do I have time to go in and climb all the way to the top of the Koelner Dome or do I just have to " " time to take a picture of the outside ? "
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^aa^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qo^rt
+A :  Well what about the Grand Canyon ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : s^bd
+A :  No , never mind .
+
+dialogue type : qy^rt
+A :  I mean are there are there large things that you would have to pay to get up close to
+
+dialogue type : s^e.%--
+A :  like , I mean
+
+dialogue type : s^bd
+A :  never mind ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Right , sure .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^fe^t1
+A :  Whoops .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s.%--
+A :  Also , that node , I mean the Go - there s S node would just be fed by separate ones for
+
+dialogue type : s^e.%-
+A :  you know , there 's different things , the strikes and the
+
+dialogue type : s^aa|s
+A :  Yeah , the time of day .
+
+dialogue type : fg
+A : 
+
+dialogue type : qy^rt
+A :  Um actually is this the the right way to have it
+
+dialogue type : s^e^rt
+A :  where um go there from the user and go there from the situation just sort of don't know about each other but they both feed the go there decision
+
+dialogue type : s^df.%--
+A :  because isn't the , I mean
+
+dialogue type : h
+A :  uh ,
+
+dialogue type : fh
+A :  hmm
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s:s
+A :  That all that that kind of decision making happens at the Go - there node .
+
+dialogue type : b
+A :  Uh .
+
+dialogue type : s^m^na
+A :  If you needed it to do that .
+
+dialogue type : s
+A :  But uh OK I was just thinking
+
+dialogue type : s
+A :  I guess maybe I 'm conflating that user node with possible possible asking of the user
+
+dialogue type : qy^d^f^g
+A :  you know
+
+dialogue type : s^e:qy
+A :  hey there 's a strike on , uh does that affect whether or not you wanna go or something
+
+dialogue type : fh
+A :  or
+
+dialogue type : s
+A :  Yeah , so that might not come out of a user model
+
+dialogue type : s^e
+A :  but , you know , directly out of interaction .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Right , right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Right , sure , OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Alright .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  Now .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^fe
+A :  Darn .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^aa
+A :  I think so , yeah .
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s
+A :  Point three .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s^bu
+A :  So so the function of the thing that comes out of H is very different from the function of the other inputs .
+
+dialogue type : s
+A :  It 's driving how the other four are interpreted .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bu
+A :  Well a vector with three zero 's and one one ,
+
+dialogue type : qy^d^g
+A :  right ?
+
+dialogue type : qr.%--
+A : 
+
+dialogue type : qy^bu^d^rt
+A :  that 's determined by what the experts are saying ,
+
+dialogue type : s^e.%-
+A :  like the type of situ
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b.%
+A :  Hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s.%--
+A :  I mean It it just seems that like without that that outside input that you 've got a situation where , you know , like if if uh X - one says no ,
+
+dialogue type : s.%--
+A :  you know , a low value coming out of X - on
+
+dialogue type : s
+A :  or i if X - one says no then ignore X - one ,
+
+dialogue type : qy^d^f^g
+A :  you know ,
+
+dialogue type : s^ba
+A :  I mean that seems like that 'd be weird ,
+
+dialogue type : qy^d^g
+A :  right ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Alright , right .
+
+dialogue type : s^aa
+A :  Right , right .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : qy^bu^d^rt
+A :  Like how thrifty the user is ,
+
+dialogue type : qrr
+A :  or do we have access to that ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Oh right .
+
+dialogue type : s^bk
+A :  Oh good .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk.%
+A :  OK .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : fh
+A :  So
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^tc.%--
+A :  By the way um uh just talking about uh about that general end of things
+
+dialogue type : fh|qy^rt
+A :  uh is there gonna be data soon from what people say when they 're interacting with the system and so on ?
+
+dialogue type : qw^e^rt
+A :  Like , I mean , what kind of questions are being given being asked ?
+
+dialogue type : s^df.%-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Yeah yeah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^bc
+A :  Fey , you mean .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  O OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s.%--
+A :  I 'm just wondering , because in terms of , you know ,
+
+dialogue type : %--
+A :  I mean
+
+dialogue type : fh
+A :  uh w
+
+dialogue type : s
+A :  the figure I was thinking about this figure that we talked about ,
+
+dialogue type : s
+A :  fifty constructions or whatever
+
+dialogue type : s^ba
+A :  that 's uh that 's a whole lot of constructions
+
+dialogue type : s
+A :  and um you know , I mean one might be f fairly pleased with getting a really good analysis of five maybe ten in a summer
+
+dialogue type : s
+A :  so , I mean I know we 're going for sort of a rough and ready .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  I mean , I I I I was uh I was talking about the , you know , if you wanted to do it really in detail
+
+dialogue type : s
+A :  and we don't really need all the detail for what we 're doing right now
+
+dialogue type : s.%--
+A :  but anyway in terms of just narrowing that task you know
+
+dialogue type : qh
+A :  which fifty do I do ,
+
+dialogue type : s^df
+A :  I wanna see what people are using ,
+
+dialogue type : fh
+A :  so
+
+dialogue type : s
+A :  Well , it will inspire me .
+
+dialogue type : b
+A :  Right , sure sure .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Yeah , sure .
+
+dialogue type : b
+A :  Sure .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^ba
+A :  Touche .
+
+dialogue type : s^ba
+A :  Good enough .
+

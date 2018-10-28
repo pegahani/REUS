@@ -1,0 +1,870 @@
+dialogue type : z
+A :  OK , we 're recording .
+
+dialogue type : qw
+A :  Well , you know what ?
+
+dialogue type : qy^rt
+A :  If you have an " if - then " phrase , do you know what the " then " phrase is called ?
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^ar|%-
+A :  No , but
+
+dialogue type : s^ar
+A :  No !
+
+dialogue type : s
+A :  Just , uh , as a sort of a mental bridge , I 'm not I 'm skipping fourth of July .
+
+dialogue type : s
+A :  So , uh , right afterwards I 'm back .
+
+dialogue type : s^bd^df
+A :  Uh , I 've had it often enough .
+
+dialogue type : qy^rt
+A :  Do you want to do the same for space ?
+
+dialogue type : s^r
+A :  Space ?
+
+dialogue type : s^e
+A :  Here ?
+
+dialogue type : s^e
+A :  Now ?
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Hmm ,
+
+dialogue type : s:s
+A : 
+
+dialogue type : s^e
+A :  you know , where where it 's contextually dependent ,
+
+dialogue type : qh
+A :  " what is now ,
+
+dialogue type : qh
+A :  what was past ,
+
+dialogue type : qh
+A :  what is in the future ,
+
+dialogue type : qh
+A :  where is this ,
+
+dialogue type : qh
+A :  what is here ,
+
+dialogue type : qh
+A :  what is there ,
+
+dialogue type : qh.%--
+A :  what is "
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s.%-
+A :  I can say two things about the f
+
+dialogue type : s^cs
+A :  Maybe you want to forget stress .
+
+dialogue type : s.%-
+A :  This my f
+
+dialogue type : s^ar|s^cs
+A :  No , as as Just don't don't think about it .
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  canonically speaking you can if you look at a a curve over sentence , you can find out where a certain stress is
+
+dialogue type : s
+A :  and say , " hey , that 's my focus exponent . "
+
+dialogue type : s
+A :  It doesn't tell you anything what the focus is .
+
+dialogue type : s.%-
+A :  If it 's just that thing ,
+
+dialogue type : s
+A :  a little bit more or the whole phrase .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^na
+A :  The form bit
+
+dialogue type : s^df
+A :  because , uh , as a form cue , um , not even trained experts can always well , they can tell you where the focus exponent is sometimes .
+
+dialogue type : s
+A :  And that 's also mostly true for read speech .
+
+dialogue type : s
+A :  In in real speech , um , people may put stress .
+
+dialogue type : s
+A :  It 's so d context dependent on what was there before , phrase ba breaks , um , restarts .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^ba
+A :  it 's absurd .
+
+dialogue type : s^e
+A :  It 's complicated .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bu
+A :  Or or map from the contour to to what the focus exponent is .
+
+dialogue type : s
+A :  But , uh , if you don't know what you 're what you 're focus is then you 're you 're hopeless - uh - ly lost anyways ,
+
+dialogue type : s
+A :  and the only way of figuring out what that is , is , um , by sort of generating all the possible alternatives to each focused element , decide which one in that context makes sense and which one doesn't .
+
+dialogue type : s
+A :  And then you 're left with a couple three .
+
+dialogue type : s
+A :  So , you know , again , that 's something that h humans can do ,
+
+dialogue type : s
+A :  um , but far outside the scope of of any anything .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : fh
+A :  You know .
+
+dialogue type : %--
+A : 
+
+dialogue type : %-
+A :  u u
+
+dialogue type : s
+A :  But it 's it 's what it uh , it 's pretty easy to put it in the formalism , though .
+
+dialogue type : s^df.%-
+A :  I mean , because
+
+dialogue type : s
+A :  you can just say whatever stuff , " i is the container being focused or the the entire whatever , both , and so forth . "
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  So we talked about that a little bit this morning .
+
+dialogue type : s:s
+A :  " John is on the bus ,
+
+dialogue type : s:s
+A :  not Nancy . "
+
+dialogue type : s
+A :  So that 's focuses on John .
+
+dialogue type : s:s
+A :  " John is on the bus and not on the train . "
+
+dialogue type : s:s
+A :  " John is on the bus " versus " John is on the train . "
+
+dialogue type : s.%-
+A :  And " John is on the bus " versus " was " , and e
+
+dialogue type : s.%-
+A :  " it 's the bu " so e
+
+dialogue type : s^m^na
+A :  All of these
+
+dialogue type : qy.%--
+A :  and will we have u
+
+dialogue type : qy^rt
+A :  is it all the same constructions ?
+
+dialogue type : s^e
+A :  Just with a different foc focus constituent ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : fh
+A :  So
+
+dialogue type : s^aa|s
+A :  Yeah , well the once you know what the focus is the everything else is background .
+
+dialogue type : qh
+A :  How about " topic - comment "
+
+dialogue type : s
+A :  that 's the other side of information .
+
+dialogue type : s^rt
+A :  Topic - comment .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Mm - hmm , hmm .
+
+dialogue type : s
+A :  But to make it m precise at least in my mind , uh , it 's not precise .
+
+dialogue type : qw^rt
+A :  So " house " is gender neuter ?
+
+dialogue type : qy^d^rt
+A :  In reality
+
+dialogue type : qrr.%-
+A : 
+
+dialogue type : s^bk^m
+A :  semantically .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^ar|s
+A :  No , just to make sure that we everybody that 's completely agreed that it it has nothing to do with , uh , form .
+
+dialogue type : s
+A :  Then " predications " makes sense to to have it open for something like , uh , accessibility or not .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy
+A :  Uh , i i i is there any meaning to when you have sort of parameters behind it and when you don't ?
+
+dialogue type : %-
+A : 
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  Uh , just just , uh , look read uh even sem semi formal Mats Rooth .
+
+dialogue type : s
+A :  If you haven't read it . It 's nice .
+
+dialogue type : s^cs
+A :  And just pick any paper on alternative semantics .
+
+dialogue type : s
+A :  So that 's his that 's the best way of talking about focus , is I think his way .
+
+dialogue type : s
+A :  Mats .
+
+dialogue type : s^rt
+A :  MATS .
+
+dialogue type : s
+A :  Rooth .
+
+dialogue type : s
+A :  I think two O 's ,
+
+dialogue type : s^aa|s
+A :  yes , TH .
+
+dialogue type : s
+A :  I never know how to pronounce his name
+
+dialogue type : s^df.%-
+A :  because he 's sort of ,
+
+dialogue type : s
+A :  uh , he is Dutch
+
+dialogue type : fh|s
+A :  and , um but very confused background I think .
+
+dialogue type : fh
+A :  So and , um ,
+
+dialogue type : s
+A :  And sadly enough he also just left the IMS in Stuttgart .
+
+dialogue type : s
+A :  So he 's not there anymore .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^no
+A :  I don't know where he is right now
+
+dialogue type : s
+A :  but alternative semantics is if you type that into an , uh , uh , browser or search engine you 'll get tons of stuff .
+
+dialogue type : s^tc
+A :  And what I 'm kind of confused about is is what the speaker and the hearer is is sort of doing there .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk|qy
+A :  Yeah , but you Don't we ultimately want to handle that analogously to the way we handle time and place ,
+
+dialogue type : s^df
+A :  because " you " , " me " , " he " , " they " ,
+
+dialogue type : s.%--
+A :  you know , " these guys " ,
+
+dialogue type : s
+A : 
+
+dialogue type : s^bk
+A :  Ah !
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^bu
+A :  That 's up at the reference part .
+
+dialogue type : qw^rt
+A :  And down there in the speaker - hearer part ?
+
+dialogue type : s:s
+A :  You know , uh , uh , it 's the speaker may in English is allowed to say " I . "
+
+dialogue type : s^e
+A :  Uh , among the twenty - five percent most used words .
+
+dialogue type : qh
+A : 
+
+dialogue type : s^e
+A :  that happens to be the speaker this time
+
+dialogue type : s^e
+A :  and not " they , " whoever they are .
+
+dialogue type : %--
+A : 
+
+dialogue type : s.%-
+A :  much like the " you " could n
+
+dialogue type : s^nd
+A :  Well , not not always .
+
+dialogue type : s.%-:s.%-
+A :  I mean , so there 's " and then he said , I w " Uh - huh .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Twhhh - whhh .
+
+dialogue type : fh
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^j
+A :  And I 'm sure gonna read the transcript of this one .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  But the , uh , But it 's too bad that we don't have a camera .
+
+dialogue type : s^df^e
+A :  You know , all the pointing is gonna be lost .
+
+dialogue type : fh
+A :  Uh .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^ba|s^tc
+A :  Mmm , isn't I mean , I 'm I was sort of dubious why why he even introduces this sort of reality , you know , as your basic mental space
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^df:s
+A :  d doesn't start with some because it 's so obvi it should be so obvious , at least it is to me , that whenever I say something I could preface that with " I think . "
+
+dialogue type : qy^d^f^g
+A :  Nuh ?
+
+dialogue type : s
+A :  So there should be no categorical difference between your base and all the others that ensue .
+
+dialogue type : s^aa|s^na
+A :  Yeah , it 's Absolutely .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : fg|s
+A :  Yeah , but about linguistic hedges ,
+
+dialogue type : s
+A :  I mean , those those tend to be , um , funky anyways
+
+dialogue type : s^df.%-
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^tc:s
+A :  Uh great word in the English language is called " about " .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  " about . "
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^ba
+A :  clever .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : %-
+A : 
+
+dialogue type : qy
+A :  i isn't that part easy though
+
+dialogue type : s^df
+A :  because in terms of the s simspec , it would just mean you put one more set of brack brackets around it ,
+
+dialogue type : s^e
+A :  and then just tell it to sort of negate whatever the content of that is in terms of irony
+
+dialogue type : %--
+A : 
+
+dialogue type : s^df
+A :  Well , I also think the detailed discussion will hit you know , bring us to problems that are of a general nature
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^e
+A :  even suggest some solutions .
+
+dialogue type : b.%
+A :  Yeah .
+
+dialogue type : b.%
+A :  Mmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^rt
+A :  We have a little bit of news , uh , just minor stuff .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : qw^br
+A :  Huh ?
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^bk|s^bd
+A :  Oh , just small stuff .
+
+dialogue type : fh|s^ft.%--
+A :  Um , thanks to Eva on our web site we can now ,
+
+dialogue type : s^rt
+A :  if you want to run JavaBayes , uh , you could see get download these classes .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  she modified the GUI so it has now a m a m a button menu item for saving it into the embedded JavaBayes format .
+
+dialogue type : s^ba^rt
+A :  So that 's wonderful .
+
+dialogue type : s
+A :  And , um and she , a You tested it out .
+
+dialogue type : qy
+A :  Do you want to say something about that , that it works , right ?
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : s^bk|s^ba
+A :  OK , that 's that 's a bit unfortunate
+
+dialogue type : fh
+A :  but
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  Well that 's probably maybe in the long term that 's good news
+
+dialogue type : s^df
+A :  because it forces us to think a little bit more carefully how how we want to get an out output .
+
+dialogue type : s
+A :  Um , but that 's a different discussion for a different time .
+
+dialogue type : fh
+A :  And , um ,
+
+dialogue type : s^no
+A :  I don't know .
+
+dialogue type : s
+A :  We 're really running late ,
+
+dialogue type : s
+A :  so I had , uh , an idea yesterday
+
+dialogue type : s^no
+A :  but , uh , I don't know whether we should even start discussing .
+
+dialogue type : h|s
+A :  Um , the construal bit that , um , has been pointed to but hasn't been , um , made precise by any means , um , may w may work as follows .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^df
+A :  that the following thing would be in incredibly nice
+
+dialogue type : s^df
+A :  and I have no clue whether it will work at all or nothing .
+
+dialogue type : s
+A :  So that 's just a tangent , a couple of mental disclaimers here .
+
+dialogue type : fh|s
+A :  Um , imagine you you write a Bayes - net ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s^m^na
+A :  Bayes - net ,
+
+dialogue type : s
+A :  um , completely from scratch every time you do construal .
+
+dialogue type : s
+A :  So you have nothing .
+
+dialogue type : s
+A :  Just a white piece of paper .
+
+dialogue type : s
+A :  You consult consult your ontology
+
+dialogue type : s.%-
+A :  which will tell you a bunch of stuff , and parts , and properties , uh - uh - uh
+
+dialogue type : s
+A :  then y you 'd simply write , uh , these into onto your your white piece of paper .
+
+dialogue type : s
+A :  And you will get a lot of notes and stuff out of there .
+
+dialogue type : s^df
+A :  You won't get you won't really get any C P
+
+dialogue type : s
+A :  T 's , therefore we need everything that that configures to what the situation is ,
+
+dialogue type : s
+A :  IE , the context dependent stuff .
+
+dialogue type : s^rt
+A :  So you get whatever comes from discourse
+
+dialogue type : s
+A :  but also filtered .
+
+dialogue type : s^rt
+A :  Uh , so only the ontology relevant stuff from the discourse
+
+dialogue type : s
+A :  plus the situation and the user model .
+
+dialogue type : s
+A :  And that fills in your CPT 's with which you can then query , um , the the net that you just wrote
+
+dialogue type : s:s
+A :  and find out how thing X is construed as an utterance U .
+
+dialogue type : s
+A :  And the embedded JavaBayes works exactly like that ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^rt
+A :  we have , you know , precise format in which to write it ,
+
+dialogue type : s
+A :  so we write it down .
+
+dialogue type : s
+A :  You query it .
+
+dialogue type : s
+A :  You get the result ,
+
+dialogue type : s
+A :  and you throw it away .
+
+dialogue type : s
+A :  And the the nice thing about this idea is that you don't ever have to sit down and think about it or write about it .
+
+dialogue type : s
+A :  You may have some general rules as to how things can be can be construed as what , so that will allow you to craft the the the initial notes .
+
+dialogue type : s
+A :  But it 's in that respect it 's completely scalable .
+
+dialogue type : s^df
+A :  Because it doesn't have any prior , um , configuration .
+
+dialogue type : s
+A :  It 's just you need an ontology of the domain
+
+dialogue type : s
+A :  and you need the context dependent modules .
+
+dialogue type : s
+A :  And if this can be made to work at all , that 'd be kind of funky .
+
+dialogue type : s.%--
+A :  P R Ms - uh , PRM
+
+dialogue type : s^df
+A : 
+
+dialogue type : s^2
+A :  Then you can .
+
+dialogue type : s^bk
+A :  Mm - hmm , yeah .
+
+dialogue type : s^ar|s^df
+A :  No , I was m using it generic .
+
+dialogue type : s.%--
+A :  So , uh , probabilistic , whatever , relational models .
+
+dialogue type : s.%--
+A :  Whatever you write it .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^2
+A :  And then then instantiate them .
+
+dialogue type : s^am
+A :  That 's ma maybe the the way the only way it works .
+
+dialogue type : %--
+A :  But , uh ,
+
+dialogue type : s^arp
+A :  Except there 's no no theorem prover involved .
+
+dialogue type : b
+A :  Mm - hmm , yeah .
+
+dialogue type : %
+A :  What 's it ?
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s^aap
+A :  In the process thereof , or whatever .
+
+dialogue type : s.%--
+A :  Fri - uh ,
+
+dialogue type : s
+A :  Thursday 's my last day here .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^cs
+A :  I would suggest as soon as possible .
+
+dialogue type : qy^rt
+A :  Do you mean by we , the whole ben gang ?
+
+dialogue type : s^cs
+A :  We can do it Th - Thursday again .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Sure .
+
+dialogue type : qy^bu^d
+A :  Thursday at one ?
+
+dialogue type : s^cs
+A :  I can also maybe then sort of run through the , uh the talk I have to give at EML
+
+dialogue type : s^cs^e
+A :  which highlights all of our work .
+
+dialogue type : s
+A :  And we can make some last minute changes on that .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s^cs^rt
+A :  But we can do four .
+
+dialogue type : s^cs
+A :  One or four .
+
+dialogue type : s^bd
+A :  I don't care .
+
+dialogue type : qy^bu^d^rt
+A :  If it 's equal for all ?
+
+dialogue type : qw
+A :  What should we do ?
+
+dialogue type : qy^d^rt
+A :  Four ?
+
+dialogue type : s^df
+A :  It 's equal to all of us ,
+
+dialogue type : s
+A :  so you can decide
+
+dialogue type : s^e
+A :  one or four .
+
+dialogue type : s
+A :  Liz actually said she likes four
+
+dialogue type : s^df
+A :  because it forces the Meeting Recorder people to cut , you know the discussions short .
+

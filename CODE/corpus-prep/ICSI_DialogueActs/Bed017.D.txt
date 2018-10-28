@@ -1,0 +1,378 @@
+dialogue type : z
+D :  Um .
+
+dialogue type : z
+D :  Wow .
+
+dialogue type : z
+D :  What is it ?
+
+dialogue type : z
+D :  Um ,
+
+dialogue type : z
+D :  there .
+
+dialogue type : z
+D :  Um , OK .
+
+dialogue type : z
+D :  The thing is I don't know how to get to the next page . Here .
+
+dialogue type : z
+D :  Actually I thought
+
+dialogue type : z
+D :  There .
+
+dialogue type : z
+D :  How weird .
+
+dialogue type : z
+D :  What ? !
+
+dialogue type : z
+D :  Oh .
+
+dialogue type : z
+D :  OK . I
+
+dialogue type : z
+D :  wasn't even doing anything . OK .
+
+dialogue type : z
+D :  That was r actually Robert 's idea . But anyhow .
+
+dialogue type : z
+D :  Um
+
+dialogue type : s
+D :  OK .
+
+dialogue type : h
+D :  Uh ,
+
+dialogue type : s^aa
+D :  yeah , sure .
+
+dialogue type : fg|s.%--
+D :  Um , so , I 've be just been looking at , um ,
+
+dialogue type : s^fe
+D :  Ack !
+
+dialogue type : qh
+D :  What are you doing ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fh
+D :  OK .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s
+D :  I 've been looking at the PRM stuff .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s
+D :  so , this is , sort of like the latest thing I have on it ,
+
+dialogue type : fh
+D :  and
+
+dialogue type : s
+D :  I sorta constructed a couple of classes .
+
+dialogue type : s^e
+D :  Like , a user class ,
+
+dialogue type : s
+D :  And I tried to simplify it down a little bit ,
+
+dialogue type : s^df
+D :  so that I can actually um , look at it more .
+
+dialogue type : s
+D :  It 's the same paper that I gave to Jerry last time .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s
+D :  so basically I took out a lot of stuff , a lot of the decision nodes ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  The red lines on the , um , graph are the um , relations between the different um , classes .
+
+dialogue type : s
+D :  Like , a user has like , a query ,
+
+dialogue type : s
+D :  and then , also has , you know um , reference slots to its preferences ,
+
+dialogue type : fh|s^e
+D :  um , the special needs and , you know , money , and the user interest .
+
+dialogue type : fh
+D :  And so
+
+dialogue type : s
+D :  this is more or less similar to the flat Bayes - net that I have , you know , with the input nodes and all that .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  So I tried to construct the dependency models ,
+
+dialogue type : fh
+D :  and
+
+dialogue type : s^rt
+D :  a lot of these stuff I got from the flat Bayes - net ,
+
+dialogue type : s^e^rt
+D :  and what they depend on ,
+
+dialogue type : s^df
+D :  and it turns out , you know , the CPT 's are really big , if I do that ,
+
+dialogue type : s
+D :  so I tried to see how I can do , um put in the computational nodes in between .
+
+dialogue type : s^e
+D :  And what that would look like in a PRM .
+
+dialogue type : s
+D : 
+
+dialogue type : s^bc
+D :  Actually , you know , a class of with different attributes that are the intermediate nodes ,
+
+dialogue type : s^e
+D :  and one of them is like , time affordability money affordability , site availability , and the travel compatibility .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^rt
+D :  s some of these attributes only depend on stuff from , say , the user ,
+
+dialogue type : s^e
+D :  or s f just from , I don't know , like the site .
+
+dialogue type : s
+D :  S like , um , these here ,
+
+dialogue type : s^e
+D :  it 's only like , user ,
+
+dialogue type : s
+D :  but , if you look at travel compatibility for each of these factors , you need to look at a pair of , you know , what the um , preference of the user is
+
+dialogue type : s^e
+D :  versus , you know , what type of an event it is ,
+
+dialogue type : s^e
+D :  or you know , which form of transportation the user has
+
+dialogue type : s^e
+D :  and whether , you know , the onsite parking matters to the user , in that case .
+
+dialogue type : fh|s
+D :  And that makes the scenario a little different in a PRM ,
+
+dialogue type : s^df
+D :  because , um , then you have one - user objects
+
+dialogue type : s
+D :  and potentially you can have many different sites in in mind .
+
+dialogue type : fh
+D :  And so
+
+dialogue type : s
+D :  for each of the site you 'll come up with this rating , of travel compatibility .
+
+dialogue type : fh|s
+D :  And , they all depend on the same users , but different sites ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I 'm tr I w I wa have been trying to see whether the PRM would make it more efficient if we do inferencing like that .
+
+dialogue type : fh
+D :  And so ,
+
+dialogue type : s
+D :  I guess you end up having fewer number of nodes than in a flat Bayes - net ,
+
+dialogue type : s^df.%--
+D :  cuz otherwise you would c
+
+dialogue type : s
+D :  well , it 's probably the same .
+
+dialogue type : fh
+D :  But um ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bc
+D :  be able to re - use , like , um , all the user stuff ,
+
+dialogue type : s
+D :  and not not having to recompute a lot of the stuff ,
+
+dialogue type : s^df
+D :  because it 's all from the user side .
+
+dialogue type : s
+D :  So if you changed sites , you you can , you know , save some work on that .
+
+dialogue type : fh
+D :  But ,
+
+dialogue type : s
+D :  you know , in the case where , it depends on both the user and the site , then I 'm still having a hard time trying to see how um , using the PRM will help .
+
+dialogue type : fh|s
+D :  Um , so anyhow , using those intermediate nodes then , this this would be the class that represent the intermediate nodes .
+
+dialogue type : s
+D :  And that would basically it 's just another class in the model ,
+
+dialogue type : s^e
+D :  with , you know , references to the user and the site and the time .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  no the dependencies would of the queries would be reduced to this .
+
+dialogue type : s
+D :  And so , you know , it 's easier to specify the CPT and all .
+
+dialogue type : fh|s
+D :  Um , so I think that 's about as far as I 've gone on the PRM stuff .
+
+dialogue type : qy^d^g^rt
+D :  Right .
+
+dialogue type : s^m
+D :  The output .
+
+dialogue type : fg|s
+D :  OK . So it only makes two decisions , in this model .
+
+dialogue type : s
+D :  And one is basically how desirable a site is
+
+dialogue type : s^e
+D :  meaning , um , how good it matches the needs of a user .
+
+dialogue type : s
+D :  And the other is the mode of the visit ,
+
+dialogue type : s^e
+D :  whether th It 's the EVA decision .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s^cc^rt
+D :  so , instead of um , doing a lot of , you know , computation about , you know , which one site it wants of the user wants to visit , I 'll come well , try to come up with like , sort of a list of sites .
+
+dialogue type : s
+D :  And for each site , you know , where h how how well it fits ,
+
+dialogue type : s
+D :  and basically a rating of how well it fits and what to do with it .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : qy^t
+D :  Anything else I missed ?
+
+dialogue type : s^aa
+D :  No , not yet ,
+
+dialogue type : fh
+D : 
+
+dialogue type : b^rt
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^t3
+D :  I can't really see the whole thing .
+
+dialogue type : s
+D :  Well I think I basically leave them to similar things .
+
+dialogue type : s
+D :  Some of the things might that might be different , maybe like are that the hours for the site .
+
+dialogue type : fh|s
+D :  And , eventually I meant that to mean whether they 're open at this hour or not .
+
+dialogue type : s:s
+D :  And status would be , you know , more or less like , whether they 're under construction ,
+
+dialogue type : fh|s
+D :  and and or stuff like that .
+
+dialogue type : qy^bu^rt
+D :  Which is the structural uncertainty ?
+
+dialogue type : s
+D :  I remember them learning when , you know , you don't know the structure for sure ,
+
+dialogue type : s^no
+D :  but I don't remember reading how you specify
+
+dialogue type : s^e
+D :  wh to start with .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  OK .
+
+dialogue type : s^ng
+D :  Actually I had to take out a lot of the complicated stuff ,
+
+dialogue type : s^df
+D :  cuz I I made it really complicated in the beginning ,
+
+dialogue type : fh|s:s
+D :  and Jerry was like , " this is just too much " .
+

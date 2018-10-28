@@ -1,0 +1,444 @@
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s.%-
+D :  You mean the
+
+dialogue type : s^bu|qy^d^g^rt
+D :  The whatever you , uh , tested with recently . Right ?
+
+dialogue type : qy^bh
+D :  Yeah ?
+
+dialogue type : qw^d
+D :  The number of cepstral coefficients is what ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s^bu
+D :  Uh , so the the right now , the the system that is there in the what we have in the repositories , with uses fifteen .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^aa^r
+D :  so Yeah ,
+
+dialogue type : s^aa^r
+D :  so Yep .
+
+dialogue type : b
+D :  Yeah , yeah .
+
+dialogue type : fg
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Well .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  So , we haven't w we have been always using , uh , fifteen coefficients ,
+
+dialogue type : s^e
+D :  not thirteen ?
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : %--
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : fh|s^cs.%--
+D :  Yeah . Ma - maybe we can I mean , at least ,
+
+dialogue type : fh|s^cc
+D :  um , I 'll t s run some experiments to see whether once I have this noise compensation to see whether thirteen and fifteen really matters or not .
+
+dialogue type : s^df
+D :  Never tested it with the compensation ,
+
+dialogue type : s^df
+D :  but without , uh , compensation it was like fifteen was s slightly better than thirteen ,
+
+dialogue type : s
+D :  so that 's why we stuck to thirteen .
+
+dialogue type : s^fa
+D :  Sorry ,
+
+dialogue type : s^bsc
+D :  fifteen .
+
+dialogue type : s^bk|s^m
+D :  Yeah , the log energy versus C - zero .
+
+dialogue type : s
+D :  Uh , that 's that 's the other thing .
+
+dialogue type : s
+D :  I mean , without noise compensation certainly C - zero is better than log energy .
+
+dialogue type : s^df
+D :  Be - I mean , because the there are more , uh , mismatched conditions than the matching conditions for testing .
+
+dialogue type : fh
+D :  You know ,
+
+dialogue type : s^df
+D :  always for the matched condition , you always get a slightly better performance for log energy than C - zero .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D : 
+
+dialogue type : s^df
+D :  I mean you get a better performance with log energy .
+
+dialogue type : fh|s^cs
+D :  Well , um , maybe once we have this noise compensation , I don't know , we have to try that also , whether we want to go for C - zero or log energy .
+
+dialogue type : s^cs
+D :  We can see that .
+
+dialogue type : fh
+D :  Hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : h|s
+D :  So , um , I 've been , uh , implementing this , uh , Wiener filtering for this Aurora task .
+
+dialogue type : fh
+D :  And , uh ,
+
+dialogue type : s
+D :  I I actually thought it was it was doing fine when I tested it once .
+
+dialogue type : s
+D :  I it 's , like , using a small section of the code .
+
+dialogue type : s
+D :  And then I ran the whole recognition experiment with Italian
+
+dialogue type : s
+D :  and I got , like , worse results than not using it .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  So , I 've been trying to find where the problem came from .
+
+dialogue type : s
+D : 
+
+dialogue type : s^df
+D :  there is some some very silly bug somewhere .
+
+dialogue type : s^fe
+D :  And , ugh !
+
+dialogue type : s
+D :  I I mean , i uh , it actually i it actually made the whole thing worse .
+
+dialogue type : s
+D :  I was looking at the spectrograms that I got
+
+dialogue type : s
+D :  and it 's , like w it 's it 's very horrible .
+
+dialogue type : s^e.%-
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk
+D :  Oh , yeah .
+
+dialogue type : s
+D :  I actually implemented the Wiener f f fil filtering as a module and then tested it out separately .
+
+dialogue type : s
+D :  And it it it gave , like I just got the signal out
+
+dialogue type : s
+D :  and it it was OK .
+
+dialogue type : s
+D :  So , I plugged it in somewhere
+
+dialogue type : s
+D :  and then I mean , it 's like I had to remove some part
+
+dialogue type : s
+D :  and then plugging it in somewhere .
+
+dialogue type : s
+D :  And then I in that process I messed it up somewhere .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s.%--
+D :  So , it was real
+
+dialogue type : s
+D :  I mean , I thought it was all fine
+
+dialogue type : s
+D :  and then I ran it , and I got something worse than not using it .
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : s
+D :  I was like I 'm trying to find where the m m problem came ,
+
+dialogue type : s
+D : 
+
+dialogue type : s^e
+D :  some silly stuff .
+
+dialogue type : fh|s^tc.%--
+D : 
+
+dialogue type : s
+D :  Well , Hynek showed up one suddenly on one day
+
+dialogue type : s.%--
+D :  and then I was t talking wi
+
+dialogue type : fg
+D :  Uh , yeah .
+
+dialogue type : s
+D :  So I was actually that day I was thinking about d doing something about the Wiener filtering , and then Carlos matter of stuff .
+
+dialogue type : s
+D :  And then he showed up
+
+dialogue type : s
+D :  and then I told him .
+
+dialogue type : s
+D : 
+
+dialogue type : s^e
+D :  what Carlos used for his , uh , uh , thesis
+
+dialogue type : s
+D :  and then that was something which came up .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  So , uh , I 'm actually , uh , thinking of using that also in this , uh , W Wiener filtering
+
+dialogue type : s^df
+D :  because that is a m modified Wiener filtering approach ,
+
+dialogue type : s^e
+D :  where instead of using the current frame , it uses adjacent frames also in designing the Wiener filter .
+
+dialogue type : s
+D :  So instead of designing our own new Wiener filters , I may just use one of those Carlos filters in in this implementation
+
+dialogue type : s
+D :  and see whether it it actually gives me something better
+
+dialogue type : s^e
+D :  than using just the current f current frame ,
+
+dialogue type : s^e
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : fh
+D :  S so , I don't know ,
+
+dialogue type : s.%--
+D :  I was h
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  that so that is the next thing . Once this I once I sort this pro uh , problem out maybe I 'll just go into that also .
+
+dialogue type : fh
+D :  And
+
+dialogue type : s^tc
+D :  the the other thing was about the subspace approach .
+
+dialogue type : fh
+D :  So , um ,
+
+dialogue type : s
+D :  I , like , plugged some groupings for computing this eigen uh , uh , uh , s values and eigenvectors .
+
+dialogue type : s
+D :  So just I just @ @ some small block of things which I needed to put together for the subspace approach .
+
+dialogue type : s
+D :  And I 'm in the process of , like , building up that stuff .
+
+dialogue type : fh
+D :  And , um ,
+
+dialogue type : fh
+D :  uh Yeah .
+
+dialogue type : s
+D :  I guess Yep . I guess that 's it .
+
+dialogue type : s
+D :  And , uh , th th that 's where I am right now .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s
+D :  One one plus N by X .
+
+dialogue type : s^t1
+D :  One plus N by X .
+
+dialogue type : %
+D : 
+
+dialogue type : s^t1.%--
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%-
+D :  It is y
+
+dialogue type : qw.%--
+D :  What is , uh ?
+
+dialogue type : s^2
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^na
+D :  Yeah , the first one .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D : 
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : b
+D :  Uh .
+
+dialogue type : s
+D :  X . X .
+
+dialogue type : s
+D :  This is X , inside .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^t1
+D :  X K C noise .
+
+dialogue type : s^t1
+D :  Weak .
+
+dialogue type : s^t1
+D :  So probably it it would do that .
+
+dialogue type : x
+D :  It 's overlapping .
+
+dialogue type : %-
+D :  S
+
+dialogue type : qy^d
+D :  S so , we switch off with this
+
+dialogue type : qrr.%--
+D :  or n ?
+
+dialogue type : s^aa
+D :  No . OK .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  OK .
+

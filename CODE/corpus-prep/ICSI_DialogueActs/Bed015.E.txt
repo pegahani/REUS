@@ -1,0 +1,1254 @@
+dialogue type : s^bu|qy^d^g
+E :  This is just one sheet , right ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Sure .
+
+dialogue type : s^na
+E :  Extremely .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^na
+E :  That 's the idea .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : %-
+E :  I
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah , yeah .
+
+dialogue type : s
+E :  It 's that now , um , I 'm mentioned this ,
+
+dialogue type : s^bd^df^no
+E :  I I don't know if I ever explained this
+
+dialogue type : s.%--
+E :  but the point of , um ,
+
+dialogue type : s.%--:s
+E :  I mentioned in the last meeting , the point of having something called " nominal expression " is , um ,
+
+dialogue type : s^rt
+E :  because it seems like having the verb subcategorize for , you know , like say taking as its object just some expression which , um , designates an object or designates a thing , or whatever , um , that leads to some syntactic problems basically ?
+
+dialogue type : s:s
+E :  So you wanna , you know you sort of have this problem like " OK , well , I 'll put the word " , uh , let 's say , the word " dog " ,
+
+dialogue type : s^f|s
+E :  you know . And that has to come right after the verb
+
+dialogue type : s^df
+E :  cuz we know verb meets its object .
+
+dialogue type : s:s
+E :  And then we have a construction that says , oh , you can have " the " preceding a noun .
+
+dialogue type : s
+E :  And so you 'd have this sort of problem that the verb has to meet the designatum .
+
+dialogue type : s:s
+E :  And you could get , you know , " the kicked dog " or something like that , meaning " kicked the dog " .
+
+dialogue type : s
+E :  Um , so you kind of have to let this phrase idea in there
+
+dialogue type : fh
+E : 
+
+dialogue type : %-
+E :  It - it
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s.%--
+E :  I mean , we we we sort of thought we were getting away with , uh with , a p
+
+dialogue type : s
+E :  I mean , this is not reverting to the X - bar theory of of phrase structure .
+
+dialogue type : fh
+E :  But , uh ,
+
+dialogue type : s
+E :  I just know that this is Like , we didn't originally have in mind that , uh that verbs would subcategorize for a particular sort of form .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : s^m^na
+E :  but they does .
+
+dialogue type : s^aap^e
+E :  At least in English .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qw
+E :  So what 's the what 's the time frame ?
+
+dialogue type : s.%--
+E :  I forgot again when
+
+dialogue type : qw
+E :  you 're going away for how long ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^aa
+E :  Yes .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : %-
+E :  N
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^no
+E :  I mean , I 'm not sure that the formalism , sort of the grammatical side of things , is gonna have that much going on in terms of the mental space stuff .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  assuming that at any point in discourse there 's the possibility that we could be sort of talking about a bunch of different world scenarios , whatever , and the speaker 's supposed to be keeping track of those . The , um the construction that you actually get is just gonna sort of give you a cue as to which one of those that you 've already got going , um , you 're supposed to add structure to .
+
+dialogue type : s:s
+E :  So " in France , uh , Watergate wouldn't have hurt Nixon " or something like that .
+
+dialogue type : s
+E :  Um , well , you say , " alright , I 'm supposed to add some structure to my model of this hypothetical past France universe " or something like that .
+
+dialogue type : s
+E :  The information in the sentence tells you that much
+
+dialogue type : s
+E :  but it doesn't tell you like exactly what it what the point of doing so is .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : qh
+E :  like the question is for example , what does " Watergate " refer to there ?
+
+dialogue type : qh.%--
+E : 
+
+dialogue type : s
+E :  if you just hear that sentence cold , the assumption is that when you say " Watergate " you 're referring to " a Watergate - like scandal as we might imagine it happening in France " .
+
+dialogue type : s:s
+E :  But in a different context , " oh , you know , if Nixon had apologized right away it wouldn't you know , Watergate wouldn't have hurt him so badly in the US
+
+dialogue type : s:s
+E :  and in France it wouldn't have hurt him at all " .
+
+dialogue type : s
+E :  Now we 're s now that " Watergate " we 're now talking about the real one ,
+
+dialogue type : s|qy^d^f^g
+E :  and the " would " sort of it 's a sort of different dimension of hypothe - theticality , right ?
+
+dialogue type : s^e:qw
+E :  We 're not saying What 's hypothetical about this world .
+
+dialogue type : s
+E :  In the first case , hypothetically we 're imagining that Watergate happened in France .
+
+dialogue type : s
+E :  In the second case we 're imagining hypothetically that Nixon had apologized right away
+
+dialogue type : s^e|qy^d^f^g
+E :  or something . Right ?
+
+dialogue type : s
+E :  So a lot of this isn't happening at the grammatical level .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^no
+E :  I don't know where that sits then ,
+
+dialogue type : s^e
+E :  sort of the idea of sorting out what the person meant .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  But the whole point of the whole point of what Fauconnier and Turner have to say about , uh , mental spaces , and blending , and all that stuff is that you don't really get that much out of the sentence .
+
+dialogue type : s
+E :  You know , there 's not that much information contained in the sentence .
+
+dialogue type : s:s
+E :  It just says , " Here .
+
+dialogue type : s:s
+E :  Add this structure to this space . "
+
+dialogue type : s
+E :  and exactly what that means for the overall ongoing interpretation is quite open .
+
+dialogue type : s:s
+E :  An individual sentence could mean a hundred different things depending on , quote , " what the space configuration is at the time of utterance " .
+
+dialogue type : s
+E :  And so somebody 's gonna have to be doing a whole lot of work but not me , I think .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^bk|qh^df
+E :  Sure , but like what what was the point of saying that sentence about Nixon and France ?
+
+dialogue type : s
+E :  That is not there is nothing about that in the in the sentence really .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Y yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah , yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Oh , yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : s^2|s^aa
+E :  Light up with focus , yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^ba
+E :  Oh , there 's a bunch .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fg|s^cs
+E :  Yeah , I mean , I I 'm sort of inclined to say let 's worry about specifying the information structure focus of the sentence
+
+dialogue type : s.%-
+E :  and then ,
+
+dialogue type : s
+E :  hhh , the phonology component can handle actually assigning an intonation contour to that .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa
+E :  y Yeah .
+
+dialogue type : s^aa
+E :  Exactly .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  Japanese has this though .
+
+dialogue type : s.%--
+E :  You know .
+
+dialogue type : s^aa|s:s
+E :  Yeah , that 's what " wa " is ,
+
+dialogue type : s^e
+E :  uh , just to mark which thing is the topic .
+
+dialogue type : s
+E :  It doesn't always have to be the subject .
+
+dialogue type : s^bk|s
+E :  OK , side one .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg|s:s
+E :  Right , " this guy I know from school came for dinner " does not mean , um , " there 's a guy , I know him from school ,
+
+dialogue type : s:s
+E :  and he came over for dinner " .
+
+dialogue type : s
+E :  That 's not the same effect .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Sure .
+
+dialogue type : b.%
+E :  Mmm .
+
+dialogue type : s^bu
+E :  So the difference is basically whether you thought it was obvious what the possible fillers were .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^fe
+E :  " Whee ! "
+
+dialogue type : s^bu|qy^d^g
+E :  That 's that one , right ?
+
+dialogue type : s^rt
+E :  So , I 'm still just really not clear on what I 'm looking at .
+
+dialogue type : s^rt
+E :  The " scenario " box ,
+
+dialogue type : qh
+E :  like , what does that look like for an example ?
+
+dialogue type : s^df
+E :  Like , not all of these things are gonna be here .
+
+dialogue type : s.%-
+E :  This is just basically says
+
+dialogue type : s
+E :  " part of what I 'm going to hand you is a whole bunch of s uh , schemas , image , and X - schemas .
+
+dialogue type : s
+E :  Here are some examples of the sorts of things you might have in there " .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qy.%--
+E : 
+
+dialogue type : qy^rt
+E :  is there a slot in here for that tells you how the bindings are done ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : fh|%--
+E :  Um . y
+
+dialogue type : s^aa|s^na
+E :  Right . That makes sense .
+
+dialogue type : s
+E :  So I mean , there 's this stuff in the off in the scenario ,
+
+dialogue type : s
+E :  which just tells you how various what schemas you 're using
+
+dialogue type : s
+E :  and they 're how they 're bound together .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : qy.%--
+E :  is that where you would sa
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bk|s
+E :  OK , that 's where the information structure is
+
+dialogue type : s
+E :  which sort of is a kind of profiling on different parts of , um , of this .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^ba
+E :  Hmm .
+
+dialogue type : s
+E :  There 's almost I mean , we keep coming back to how focus is like this this , uh , trajector - landmark thing .
+
+dialogue type : s:s
+E :  So if I say , um , You know , " In France it 's like this " .
+
+dialogue type : s
+E :  You know , great ,
+
+dialogue type : s^e
+E :  we 've learned something about France
+
+dialogue type : s
+E :  but the fact is that utterances of that sort are generally used to help you draw a conclusion also about some implicit contrast ,
+
+dialogue type : s:s
+E :  like " In France it 's like this " .
+
+dialogue type : s.%--:s
+E :  And therefore you 're supposed to say , " Boy , life sure "
+
+dialogue type : s
+E :  You know , " in France kids are allowed to drink at age three " .
+
+dialogue type : s
+E :  And w you 're that 's not just a fact about France .
+
+dialogue type : s|qy^d^f^g
+E :  You also conclude something about how boring it is here in the U S . Right ?
+
+dialogue type : fh
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  That comes in
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah , yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk|qw^rt
+E :  OK , what was the name ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s
+E :  Mats Gould .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk|s^ft
+E :  OK , thanks .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s.%--
+E :  There 's things like ther you know , there 's all kinds of stuff like , um , in I think I mentioned last time in Czech if you have a a verb of saying then
+
+dialogue type : s:s
+E :  um , you know , you say something like or or I was thinking you can say something like , " oh , I thought , uh , you are a republican " or something like that .
+
+dialogue type : s:s
+E :  Where as in English you would say , " I thought you were " .
+
+dialogue type : s
+E :  Um , you know , sort of the past tense being copied onto the lower verb doesn't happen there ,
+
+dialogue type : s
+E :  so you have to say something about , you know , tense is determined relative to current blah - blah - blah .
+
+dialogue type : s
+E :  Same things happens with pronouns .
+
+dialogue type : s.%--
+E :  There 's languages where , um ,
+
+dialogue type : s.%--
+E :  if you have a verb of saying then ,
+
+dialogue type : %--
+E :  ehhh ,
+
+dialogue type : %--
+E : 
+
+dialogue type : s
+E :  OK , so a situation like " Bob said he was going to the movies " , where that lower subject is the same as the person who was saying or thinking , you 're actually required to have " I " there .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  But it 's not perceived as a quotative construction .
+
+dialogue type : s
+E :  I mean , it 's been analyzed by the formalists as being a logophoric pronoun ,
+
+dialogue type : s^e|qy^d^f^g
+E :  um which means a pronoun which refers back to the person who is speaking or that sort of thing , right ?
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : s^rt:s^rt
+E :  but uh , that happens to sound like the word for " I "
+
+dialogue type : s^rt
+E :  but is actually semantically unrelated to it .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : s^aa
+E :  Yeah . Yeah .
+
+dialogue type : s
+E :  There 's a whole book which basically operates on this assumption .
+
+dialogue type : s^e
+E :  Uh , Mary Dalrymple ,
+
+dialogue type : s
+E :  uh , this book , a ninety - three book on , uh on pronoun stuff .
+
+dialogue type : fh|s
+E :  Well , yeah . And then the same thing for ASL
+
+dialogue type : s
+E :  where , you know , you 're signing
+
+dialogue type : s
+E :  and someone says something .
+
+dialogue type : s:s
+E :  And then , you know , so " he say " , and then you sort of do a role shift .
+
+dialogue type : s:s
+E :  And then you sign " I , this , that , and the other " .
+
+dialogue type : s:s
+E :  And you know , " I did this " .
+
+dialogue type : s:s
+E :  That 's also been analyzed as logophoric and having nothing to do with " I " .
+
+dialogue type : s
+E :  And the role shift thing is completely left out and so on .
+
+dialogue type : fh
+E :  So ,
+
+dialogue type : s
+E :  I mean , the point is that pronoun references , uh , you know , sort of ties in with all this mental space stuff and so on , and so forth .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s|qy^d^g
+E :  It 's like it 's like what 's happening that , yeah , what what 's happening , uh , there is that you 're moving the base space or something like that , right ?
+
+dialogue type : s
+E :  So that 's that 's how Fauconnier would talk about it .
+
+dialogue type : s
+E :  And it happens diff under different circumstances in different languages .
+
+dialogue type : fh
+E :  And so ,
+
+dialogue type : s
+E :  um , things like pronoun reference and tense which we 're thinking of as being these discourse - y things actually are relative to a Bayes space
+
+dialogue type : s^e
+E :  which can change .
+
+dialogue type : s^cs^e
+E :  And we need all the same machinery .
+
+dialogue type : s
+E :  Schade .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa|s.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : %-
+E :  Y
+
+dialogue type : s^aa|s
+E :  Yeah , it 's an it 's an evidential .
+
+dialogue type : s
+E :  It 's sort of semi - grammaticalized .
+
+dialogue type : s
+E :  People have talked about it this way .
+
+dialogue type : s
+E :  And you know , you can do sort of special things .
+
+dialogue type : s.%-
+E :  You can , th
+
+dialogue type : s:s
+E :  put just the phrase " I think " as a parenthetical in the middle of a sentence and so on , and so forth .
+
+dialogue type : fh
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ar
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg
+E :  Um .
+
+dialogue type : s|qy^d^g
+E :  Well we were just talking about this sort of evidentiality and stuff like that , right ?
+
+dialogue type : %-
+E :  I mean ,
+
+dialogue type : s:s
+E :  that 's what I think is ,
+
+dialogue type : s^e
+E :  um , sort of telling you what percent reality you should give this
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah ,
+
+dialogue type : s
+E :  and the fact that I 'm , you know the fact maybe if I think it versus he thinks that might , you know , depending on how much you trust the two of us or whatever ,
+
+dialogue type : fh
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  He wrote a paper about thirty - five years ago on that one .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : qy
+E :  Would you believe that that paper lead directly to the development of anti - lock brakes ?
+
+dialogue type : s^co
+E :  Ask me about it later
+
+dialogue type : s^cc
+E :  I 'll tell you how .
+
+dialogue type : s^e
+E :  When we 're not on tape .
+
+dialogue type : s^no.%--
+E : 
+
+dialogue type : s|qy^d^g
+E :  We we don't have to care too much about the speaker attitude , right ?
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh|s^no.%-
+E :  hhh , I don't know , m
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  There 's lots of different attitudes that that the speaker could have and that we can clearly identify , and so on , and so forth .
+
+dialogue type : qh
+E :  But like what are the distinctions among those that we actually care about for our current purposes ?
+
+dialogue type : s^ba
+E :  Oh , shoot .
+
+dialogue type : s
+E :  Here it is three - fifteen already .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^na
+E :  We have a theoretical model of sarcasm now .
+
+dialogue type : s^bk|%--
+E :  Yeah , right , I mean .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Yeah , OK .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bd^j
+E :  In case there 's any around .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^na
+E :  Basically .
+
+dialogue type : s^bk
+E :  Exactly .
+
+dialogue type : s^aa|s
+E :  Yeah , yeah , we 'll start with that ,
+
+dialogue type : s
+E :  just figuring out what needs to be done
+
+dialogue type : s
+E :  then actually the next step is to start trying to do it .
+
+dialogue type : s^bk
+E :  Got it .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  You ran out of power .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s
+E :  Um , yeah , there should be I I wanted to s find out someday if there was gonna be some way of dealing with , uh , if this is the right term , multiple inheritance ,
+
+dialogue type : s
+E :  where one construction is inheriting from , uh from both parents ,
+
+dialogue type : s^e
+E :  uh , or different ones ,
+
+dialogue type : s^e
+E :  or three or four different ones .
+
+dialogue type : s^df.%--
+E : 
+
+dialogue type : s^e
+E :  which of you know , which are how they 're getting bound together .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Yeah , yes .
+
+dialogue type : s^aa
+E :  That 's right .
+
+dialogue type : s^bd
+E :  But whatever .
+
+dialogue type : s^aa
+E :  Yeah , no , no , no no .
+
+dialogue type : s^aa|s^na
+E :  No , by all means ,
+
+dialogue type : s^bk
+E :  right . Uh , sure .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk|%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Connect the dots .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ba^na
+E :  Fine with me .
+
+dialogue type : qy^cs
+E :  Should we do the one PM time
+
+dialogue type : s^d^fe
+E :  for Thursday since we were on that before
+
+dialogue type : qrr.%--
+E :  or ?
+
+dialogue type : s^bk.%
+E :  OK .
+
+dialogue type : s^na
+E :  To me this is equal .
+
+dialogue type : s^bd
+E :  I don't care .
+
+dialogue type : s^ba^j
+E :  Well , if you insist , then .
+

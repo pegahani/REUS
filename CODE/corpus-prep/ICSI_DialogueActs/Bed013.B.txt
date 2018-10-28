@@ -1,0 +1,594 @@
+dialogue type : s^aa
+B :  Yes .
+
+dialogue type : %
+B :  Whew !
+
+dialogue type : s^rt
+B :  I almost forgot about the meeting .
+
+dialogue type : s:qw
+B :  I woke up twenty minutes ago , thinking , what did I forget ?
+
+dialogue type : s
+B :  Internal alarms .
+
+dialogue type : b
+B :  Yes .
+
+dialogue type : qw
+B :  Now what are y what are you doing there ?
+
+dialogue type : s
+B :  I forgot ?
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s
+B :  God bless America .
+
+dialogue type : qy^bu^rt
+B :  Wait , aren't you flying on Lufthansa though ?
+
+dialogue type : s^bk|s^ba^rt
+B :  Oh . Well then the you know , it 's not a big deal .
+
+dialogue type : s
+B :  Once you get to the United States it 'll be a problem ,
+
+dialogue type : fh
+B :  but
+
+dialogue type : qw^bu^d.%-
+B :  On ?
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  Well , like in AI they generally do the take in ,
+
+dialogue type : s
+B :  and then they also do the generation phase , like Nancy 's thing .
+
+dialogue type : fh
+B :  Or uh ,
+
+dialogue type : s
+B :  you remember , in the the hand thing in one - eighty - two , like not only was it able to recognize but it was also to generate based upon situations .
+
+dialogue type : qy^rt
+B :  You mean that sort of thing ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  Well then , he probably
+
+dialogue type : s^aap
+B :  Well , once the system understands things .
+
+dialogue type : s
+B :  I just don't think I think we 're probably a year away from getting the system to understand things .
+
+dialogue type : s^bu^rt
+B :  The basic idea I guess would be to give allow the system to have intentions , basically ?
+
+dialogue type : s^df
+B :  Cuz that 's basically what needs to be added to the system for it .
+
+dialogue type : s
+B :  Well we 'd have to seed that ,
+
+dialogue type : %--
+B :  I mean .
+
+dialogue type : s
+B :  It wouldn't know what to ask .
+
+dialogue type : %--
+B :  I mean .
+
+dialogue type : s
+B :  Unless it was in a situation .
+
+dialogue type : s
+B :  We 'd have to set up a situation where , it didn't know where something was and it wanted to go there .
+
+dialogue type : s^bu|qy^d^g^rt
+B :  Which means that we 'd need to set up an intention inside of the system . Right ?
+
+dialogue type : s^e:s
+B :  Which is basically , " I don't know where something is and I need to go there " .
+
+dialogue type : s^ar|s^nd
+B :  Well , no I guess not .
+
+dialogue type : %--
+B :  Excel
+
+dialogue type : s^aa
+B :  Sure .
+
+dialogue type : s^aap|s^aa
+B :  Well , it will d r assign values to all the nodes . Yes .
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  I guess what I 'm afraid of is if we don't , you know , set up a situation , we 'll just get a bunch of garbage out ,
+
+dialogue type : s
+B :  like you know , everything 's exactly thirty percent .
+
+dialogue type : s^na
+B :  Well that was that was absurdly low , in the last meeting ,
+
+dialogue type : s
+B :  cuz I went and looked at it
+
+dialogue type : s:s
+B :  cuz I was thinking , that could not be right ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk^m
+B :  thirty input nodes .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^rt
+B :  Let 's see , so it would be two to the thirty for every output node ?
+
+dialogue type : s
+B :  Which is very th very large .
+
+dialogue type : s.%--
+B :  Well , I 'm talking about
+
+dialogue type : s
+B :  Oh , I was gonna take a drink of my water .
+
+dialogue type : s.%--
+B :  I 'm talking about billions and billions and billions and
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  two to the thirty is like a
+
+dialogue type : s^rt
+B :  Bhaskara said , we had calculated out and Bhaskara believes that it 's larger than the number of particles in the universe .
+
+dialogue type : s.%--
+B :  And if i
+
+dialogue type : qy^bu^d^rt
+B :  Two to the thirty ?
+
+dialogue type : s
+B :  Well , two to the thirty is a billion ,
+
+dialogue type : s
+B :  but if we have to do it two to the twenty times , then that 's a very very large number .
+
+dialogue type : s
+B :  Cuz you have to query the node , for every a uh , or query the net two to the twenty times .
+
+dialogue type : s^bsc.%--
+B :  Or not two to th
+
+dialogue type : s^fa|s^bsc
+B :  excuse me , twenty times .
+
+dialogue type : s^aa
+B :  Yes .
+
+dialogue type : s^e.%-
+B : 
+
+dialogue type : s^m^na
+B :  That 's @ @ That 's big .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fg|s
+B :  Oh ! We calculated a different number before .
+
+dialogue type : qw
+B :  How did we do that ?
+
+dialogue type : s
+B :  If it takes us a second to do , for each one , and let 's say it 's twenty billion , then that 's twenty billion seconds ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^co
+B :  Eva , do the math .
+
+dialogue type : s
+B :  Hours and hours and hours and hours .
+
+dialogue type : s^df
+B :  But we can do randomized testing .
+
+dialogue type : s^e
+B :  Which probabilistically will be good enough .
+
+dialogue type : s^co|qw^rt
+B :  Wait , who ?
+
+dialogue type : s^bk|s
+B :  Oh ! My advisor !
+
+dialogue type : s
+B :  I 'm gonna work on that today and tomorrow .
+
+dialogue type : s
+B :  I 'm gonna finish it today , uh hopefully .
+
+dialogue type : s
+B :  I wanna do one of those things where I stay here .
+
+dialogue type : s^df
+B :  Cuz uh , if I go home , I can't finish it .
+
+dialogue type : s^df^e:s
+B :  I 've tried about five times so far , where I work for a while and then I 'm like , I 'm hungry .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s:s
+B :  Either that or I think to myself , I can work at home .
+
+dialogue type : s
+B :  And then I try to work at home , but I fail miserably .
+
+dialogue type : s^e
+B :  Like I ended up at Blakes last night .
+
+dialogue type : s^aa
+B :  No .
+
+dialogue type : s
+B :  I almost got into a brawl .
+
+dialogue type : s
+B :  But I did not finish the uh ,
+
+dialogue type : s
+B :  But I 've been looking into it .
+
+dialogue type : s
+B :  I th @ @ It 's not like it 's a blank slate .
+
+dialogue type : s
+B :  I found everything that I need
+
+dialogue type : s.%--
+B :  and stu and uh ,
+
+dialogue type : %--
+B :  At the b
+
+dialogue type : s
+B :  uh furthermore , I told Jerry that I was gonna finish it before he got back .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^co
+B :  Or , no , wait .
+
+dialogue type : s
+B :  The meetings are on Thursday .
+
+dialogue type : s^bk^m
+B :  Maybe .
+
+dialogue type : s
+B :  Well , we 'll see him next week .
+
+dialogue type : s
+B :  I was thinking about that .
+
+dialogue type : s.%--
+B :  I think
+
+dialogue type : s^rt
+B :  I will try to work on the SmartKom stuff
+
+dialogue type : s^rt
+B :  and I 'll if I can finish it today , I 'll help you with that tomorrow ,
+
+dialogue type : s^rt
+B :  if you work on it ?
+
+dialogue type : s
+B :  I don't have a problem with us working on it though ?
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  I mean we just I mean it wouldn't hurt to write up a paper ,
+
+dialogue type : s^df
+B :  cuz then , I mean , yeah I was talking with Nancy
+
+dialogue type : s^df^e:s
+B :  and Nancy said , you don't know whether you have a paper to write up until you write it up .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  And since Jerry 's coming back , we can run it by him too .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fg|qy^rt
+B :  Wait , is this a computer science conference
+
+dialogue type : qrr.%-
+B : 
+
+dialogue type : s
+B :  Well , I really can't keep a straight face doing anything .
+
+dialogue type : qy^rt
+B :  Did Ben harass you ?
+
+dialogue type : s^ba
+B :  Good .
+
+dialogue type : s^aa
+B :  Yes .
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s
+B :  No wait . You have to put it on exactly like that ,
+
+dialogue type : s^rt
+B :  so put that those things over your ears like that .
+
+dialogue type : qy^rt
+B :  See the p how the plastic things ar arch out like that ?
+
+dialogue type : s
+B :  There we go .
+
+dialogue type : s^m^na|s^e^na
+B :  It hurts . It hurts real bad .
+
+dialogue type : qy^rt
+B :  Is your mike on ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qy^rt
+B :  Will I ?
+
+dialogue type : s.%-
+B : 
+
+dialogue type : qy^bu^rt
+B :  don't they need to finish the formalism ?
+
+dialogue type : s^bu^rt
+B :  Well , you said it was four thousand lines ?
+
+dialogue type : qy^e.%-
+B :  Is that what you s
+
+dialogue type : s
+B :  I would say that 's closer to six pages actually .
+
+dialogue type : qy^bu^d^rt
+B :  Four thousand lines of ASCII ?
+
+dialogue type : qw^j^rt
+B :  How many characters are on a line ?
+
+dialogue type : s
+B :  I got an email .
+
+dialogue type : s:s
+B :  By the way , Keith is comfortable with us calling him " cool Keith " .
+
+dialogue type : s
+B :  And he 'll put us up , too .
+
+dialogue type : s^t3
+B :  Potatoes .
+
+dialogue type : s^fa
+B :  So . Sorry !
+
+dialogue type : s^ar|s^nd
+B :  No , y I don't think you got it .
+
+dialogue type : s
+B :  That 's the only That 's the question mark .
+
+dialogue type : qy^bu.%-
+B : 
+
+dialogue type : s^aa^j|s^j
+B :  Yeah , you might get blacklisted .
+
+dialogue type : qy
+B :  Remember I came in and I started asking you about how we were sor going to sort out the uh , decision nodes ?
+
+dialogue type : s:s
+B :  I remember you talking to me , just not what you said .
+
+dialogue type : s^rt
+B : 
+
+dialogue type : s^e^rt
+B :  You know , it was whether it was whether we would have a Bayes - net on the output and on the input ,
+
+dialogue type : s^e^rt
+B :  or whether the construction was gonna be in the Bayes - net ,
+
+dialogue type : s
+B :  a and outside of it ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  Well that was related to what we were talking about .
+
+dialogue type : s^aa
+B :  Yeah sure .
+
+dialogue type : qw^br^rt
+B :  What ?
+
+dialogue type : s^bk
+B :  Oh , oh , oh , oh .
+
+dialogue type : s
+B :  I 've blocked every aspect of Phil Collins out of my mind .
+
+dialogue type : qw
+B :  Wait , what are the dots ?
+
+dialogue type : s^df^no
+B :  I don't remember what the dots were .
+
+dialogue type : b
+B :  Oh , oh .
+
+dialogue type : s
+B :  I 'd I 'd never seen it before either .
+
+dialogue type : s|s^aa
+B :  You can dynamically look up keys , yeah .
+
+dialogue type : s^e
+B :  And then grep , basically .
+
+dialogue type : s^df|s^fa
+B :  Uh s I was just dancing , sorry .
+
+dialogue type : s^bk.%
+B : 
+
+dialogue type : %-
+B :  We
+
+dialogue type : s.%-
+B : 
+
+dialogue type : %
+B :  Hhh .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^nd^no
+B :  I don't see unde how we would be able to distinguish between the two intentions just from the g utterance , though .
+
+dialogue type : s^e
+B :  I mean , uh bef or , before we don't before we cranked it through the Bayes - net .
+
+dialogue type : fh
+B :  I mean .
+
+dialogue type : qy^bu^d^rt
+B :  We would ?
+
+dialogue type : s^bk
+B :  OK ,
+
+dialogue type : s^bu|qy^d^g
+B :  but then so basically it 's just a for every construction we have a node in the net , right ?
+
+dialogue type : s
+B :  And we turn on that node .
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  I d I just I don't like having characterizing the constructions with location and path ,
+
+dialogue type : s
+B :  or li characterizing them like that .
+
+dialogue type : s^df
+B :  Cuz you don't It seems like in the general case you wouldn't know how how to characterize them .
+
+dialogue type : s:qw
+B :  I mean or , for when .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^cs
+B :  I mean it just seems like @ @ has to have uh a node for the construction and then let the chips fall where they may .
+
+dialogue type : s
+B :  Versus uh , saying , this construction either can mean location or path .
+
+dialogue type : s
+B :  And , in this cas and since since it can mean either of those things , it would light both of those up .
+
+dialogue type : qo
+B :  Thoughts ?
+
+dialogue type : qo
+B :  Questions ?
+
+dialogue type : qo
+B :  Answers ?
+
+dialogue type : b
+B :  Mmm , yeah .
+
+dialogue type : s^aa
+B :  Yeah , sure .
+
+dialogue type : s
+B :  I change I changed my mind actually .
+
+dialogue type : s^j
+B :  I am great .
+
+dialogue type : qw^rt
+B :  When do you need to start wizarding ?
+
+dialogue type : b
+B :  Mmm .
+

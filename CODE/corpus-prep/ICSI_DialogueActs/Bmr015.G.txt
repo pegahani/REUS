@@ -1,0 +1,324 @@
+dialogue type : z
+G :  I do .
+
+dialogue type : z
+G :  I crashed when I started this morning .
+
+dialogue type : z
+G :  Really ?
+
+dialogue type : z
+G :  Yeah .
+
+dialogue type : z
+G :  Maybe , yeah .
+
+dialogue type : z
+G :  Or maybe it 's once you 've done enough meetings it won't crash on you anymore .
+
+dialogue type : z
+G :  It 's a matter of experience .
+
+dialogue type : z
+G :  Yeah .
+
+dialogue type : %-
+G :  Did
+
+dialogue type : qy^rt
+G :  Did they send , uh , the messages to you about the meeting today ?
+
+dialogue type : s^bk
+G :  Oh .
+
+dialogue type : s^bk
+G :  Oh .
+
+dialogue type : s^bk|s
+G :  OK , cuz I checked my mail . I didn't have anything .
+
+dialogue type : s^bu
+G :  Oh , you 're talking about where they completely read the wrong string and didn't correct it ?
+
+dialogue type : s^bk^fe
+G :  Ah .
+
+dialogue type : qw
+G :  Well how many are how how often does that happen ?
+
+dialogue type : s^bk|s^ba
+G :  Oh , so it 's not very much .
+
+dialogue type : s^cs
+G :  Seems like we should just change the transcripts
+
+dialogue type : s^e
+G :  to match .
+
+dialogue type : b
+G :  Yeah ,
+
+dialogue type : %--
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : fg|qw
+G :  So you um , how many digits have been transcribed now ?
+
+dialogue type : qh^bk^d
+G :  Four thousand lines ?
+
+dialogue type : s^ba
+G :  Wow .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk^fe
+G :  Mmm .
+
+dialogue type : s^aa
+G :  Mm - hmm .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : %-
+G :  u
+
+dialogue type : s
+G :  Tomorrow .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s
+G :  It 'll be interesting to see the reviewer 's comments .
+
+dialogue type : s
+G :  It 's just from his message it sounded like that .
+
+dialogue type : %--
+G : 
+
+dialogue type : s
+G :  there was a sentence at the end of one of his paragraphs
+
+dialogue type : %-
+G : 
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : s
+G :  He said the next phase 'll be very , competitive
+
+dialogue type : s
+G :  because we didn't want to weed out much in the first phase .
+
+dialogue type : s^no
+G :  I don't I don't know .
+
+dialogue type : %--
+G : 
+
+dialogue type : s^no
+G :  I don't remember .
+
+dialogue type : qo
+G :  If we end up getting this , um , what will it mean to ICSI in terms of , w wh where will the money go to ,
+
+dialogue type : qw^e
+G :  what would we be doing with it ?
+
+dialogue type : qw
+G :  I I mean uh which part is ICSI though .
+
+dialogue type : fh
+G : 
+
+dialogue type : s^ba^fe
+G :  Dang !
+
+dialogue type : s^bu
+G : 
+
+dialogue type : s^bu^rt
+G :  to continue the research on the Meeting Recorder stuff ?
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Right , right .
+
+dialogue type : qo^rt
+G :  So assuming everybody 's completely busy now , it means we 're gonna hafta , hire more students , or , something ?
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b.x
+G :  I see .
+
+dialogue type : qy^bu^d^rt
+G :  Cuz of digits .
+
+dialogue type : s^ba
+G :  That sounds good .
+
+dialogue type : qy
+G :  Is is this the algorithm where you hypothesize a fundamental , and then get the energy for all the harmonics of that fundamental ?
+
+dialogue type : s^e
+G : 
+
+dialogue type : qy^bu^rt
+G :  Do you hafta do some kind of , uh , low - pass filter before you do that ?
+
+dialogue type : qrr.%-
+G : 
+
+dialogue type : %-
+G :  But i
+
+dialogue type : s.%--
+G :  But the harmonics are gonna be ,
+
+dialogue type : fh
+G :  uh , uh ,
+
+dialogue type : s^no
+G :  I don't know what the right word is .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : s^bu
+G :  they 're gonna be dampened by the uh , vocal tract ,
+
+dialogue type : qy^d^g^rt
+G :  right ?
+
+dialogue type : s^e
+G :  The response of the vocal tract .
+
+dialogue type : qy.%-
+G :  And so just looking at the energy on those at the harmonics , is that gonna ?
+
+dialogue type : s^bu
+G :  I m what you 'd like to do is get rid of the effect of the vocal tract .
+
+dialogue type : qy^d^g^rt
+G :  Right ?
+
+dialogue type : s^e
+G :  And just look at the at at the signal coming out of the glottis .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^ar
+G :  Uh - uh .
+
+dialogue type : s^aap
+G :  An - any application may have to .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : %-
+G : 
+
+dialogue type : %-
+G : 
+
+dialogue type : s^aa|s.%--
+G :  Yeah , I I think , um , one possible way that we could handle it is that ,
+
+dialogue type : fh
+G :  um ,
+
+dialogue type : s.%--
+G :  you know , as the transcribers are going through , and if they get a hunk of speech that they 're gonna transcribe ,
+
+dialogue type : s
+G :  u th they 're gonna transcribe it because there 's words in there or whatnot .
+
+dialogue type : s
+G :  If there 's a breath in there , they could transcribe that .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : %-
+G : 
+
+dialogue type : fg|s^cs
+G :  Right . But if there 's a big hunk of speech , let 's say on Morgan 's mike where he 's not talking at all , um , don't don't worry about that .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  So for the chunks that are transcribed , everything 's transcribed .
+
+dialogue type : s
+G :  But outside of those boundaries , there could have been stuff that wasn't transcribed .
+
+dialogue type : s
+G :  So you just somebody can't rely on that data and say " that 's perfectly clean data " .
+
+dialogue type : qy
+G :  Uh do you see what I 'm saying ?
+
+dialogue type : s^cs
+G :  So I would say don't tell them to transcribe anything that 's outside of a grouping of words .
+
+dialogue type : %-
+G : 
+
+dialogue type : %--
+G : 
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  one of the ways that we will be able to get rid of breath is by having models for them .
+
+dialogue type : s
+G :  I mean , that 's what a lot of people do nowadays .
+
+dialogue type : s
+G :  And so in order to build the model you need to have some amount of it marked ,
+
+dialogue type : s^df
+G :  so that you know where the boundaries are .
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  I mean , I don't think we need to worry a lot about breaths that are happening outside of a , you know , conversation .
+
+dialogue type : s^cs
+G :  We don't have to go and search for them to to mark them at all ,
+
+dialogue type : s^cs
+G :  but , I mean , if they 're there while they 're transcribing some hunk of words , I 'd say put them in if possible .
+
+dialogue type : s^aa
+G :  Mm - hmm .
+

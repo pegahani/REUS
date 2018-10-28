@@ -1,0 +1,282 @@
+dialogue type : z
+C :  Well , it 's being recorded anyway , right ?
+
+dialogue type : z
+C :  Why listen to the guy ?
+
+dialogue type : z
+C :  If you need it you may record it . Then we can get Liz 's X marks later to see if there are any important things .
+
+dialogue type : z
+C :  Mine is on .
+
+dialogue type : z
+C :  Where am I ?
+
+dialogue type : z
+C :  Which one ?
+
+dialogue type : z
+C :  Which one ?
+
+dialogue type : z
+C :  Channel
+
+dialogue type : z
+C :  Oh , I 'm on two .
+
+dialogue type : z
+C :  Good .
+
+dialogue type : z
+C :  You are on zero .
+
+dialogue type : z
+C :  Oh , they 're already labeled ?
+
+dialogue type : z
+C :  Yeah ,
+
+dialogue type : z
+C :  that 's what I figured out .
+
+dialogue type : z
+C :  No ?
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  Well , I mean , you 're counting maybe from one instead of zero ,
+
+dialogue type : z
+C :  so .
+
+dialogue type : z
+C :  Right .
+
+dialogue type : z
+C :  Right .
+
+dialogue type : z
+C :  So , yeah .
+
+dialogue type : z
+C :  No !
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  So , Harry , we should maybe record some of your clicks and , you know .
+
+dialogue type : s
+C :  Actually I think this thing is really cutting the blood flow .
+
+dialogue type : s
+C :  I 'm gonna pass out .
+
+dialogue type : s
+C :  This is a very sensual thing .
+
+dialogue type : s
+C :  Maybe this is a little better .
+
+dialogue type : s^fe
+C :  Boy !
+
+dialogue type : s^aa|s
+C : 
+
+dialogue type : s^fe
+C :  Ouch .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^co
+C :  go to that .
+
+dialogue type : qw^t3
+C :  What are you doing ?
+
+dialogue type : s
+C :  Actually , I use something like this on on the telephone and it 's very comfortable .
+
+dialogue type : s^na
+C :  Not for this , for sure .
+
+dialogue type : s^aa
+C :  No .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk|s
+C :  Well , yeah , I mean , that 's really like having one of these almost ,
+
+dialogue type : fh
+C :  so .
+
+dialogue type : s^j
+C :  I think he 's about to pass out .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qy^bh
+C :  Really ?
+
+dialogue type : qy^d
+C :  So you could actually produce like code
+
+dialogue type : qrr.%--
+C :  or ?
+
+dialogue type : qy^bh
+C :  Yeah ?
+
+dialogue type : s^ba^fe
+C :  Wow .
+
+dialogue type : %
+C :  Uh .
+
+dialogue type : b
+C :  Huh .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk|s
+C :  Yeah , for example , when you go to your PDA system it 's , uh , really an awful open problem to determine how many speakers there are and where they change turns ,
+
+dialogue type : fh
+C :  uh .
+
+dialogue type : s^e
+C :  That 's actually being ad That 's one of the problems that 's being addressed at this year 's evaluation ,
+
+dialogue type : %
+C :  uh ,
+
+dialogue type : s^e
+C :  which is taking place right now , actually .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  You you do need to figure out the number of speakers in the waveform .
+
+dialogue type : s^rt
+C :  This is a NIST evaluation .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^aa|s^na
+C :  Eh , right , speaker verification .
+
+dialogue type : s
+C :  Uh , Switchboard .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : %--
+C : 
+
+dialogue type : %--
+C : 
+
+dialogue type : %--
+C : 
+
+dialogue type : s^df
+C :  We will also run so some part of that , uh , evaluation too
+
+dialogue type : s^df
+C :  but probably not that segmentation part .
+
+dialogue type : s^no
+C :  But I don't know if they are using a different data for that .
+
+dialogue type : s^df
+C :  But I mean , it 's s While I say " Switchboard " , s eh , of course there 's only two speakers .
+
+dialogue type : fh|s^no
+C :  But , um , I don't know how they , uh , actually went about .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : s^am
+C :  maybe some other data for that part ,
+
+dialogue type : s^aa
+C :  you 're right .
+
+dialogue type : s^aa
+C :  No , no .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : fg
+C :  No .
+
+dialogue type : s.%--
+C :  We 've also , uh , s done some of that as , uh , eh ,
+
+dialogue type : fh|s
+C :  um , I mean , I have a so small , uh , hacked up system which sort of , for for the Broadcast News determines the approximate number of speakers and actually assigns some names to them .
+
+dialogue type : s^df
+C :  This is something we did for the MAESTRO project , uh , for for Rick .
+
+dialogue type : fh
+C :  But , um , uh ,
+
+dialogue type : s^bk|s
+C :  yeah , uh , for for Broadcast News it works much better actually .
+
+dialogue type : %--
+C :  It 's , uh ,
+
+dialogue type : s^df
+C :  you do get eh , like in an interview , uh , nice long segments
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  Well , there can be like a problem solution kind of thing where they would actually , you know they have to come to one solution .
+
+dialogue type : s^j^nd
+C :  Not with these around .
+
+dialogue type : s
+C :  You - you 're encouraged to , you know , just utter digits once in a while .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  One two three four .
+

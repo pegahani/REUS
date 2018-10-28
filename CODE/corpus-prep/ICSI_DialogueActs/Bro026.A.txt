@@ -1,0 +1,390 @@
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  You probably received the mail .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : qy^bu^m^rt
+A :  What was the update ?
+
+dialogue type : s
+A :  So there is th then the all the new features that go in .
+
+dialogue type : s
+A :  The , um , noise suppression , the re - synthesis of speech after suppression .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : sj^m^ng^rt
+A :  I don't know if they use it ,
+
+dialogue type : fh
+A :  but .
+
+dialogue type : h|s^no.%-
+A :  Um , I don't know if Hari did that or You d
+
+dialogue type : s
+A :  Actually I I tried wh while when I installed the repository , I tried from Belgium .
+
+dialogue type : s
+A : 
+
+dialogue type : s^aa
+A :  Yeah , it works .
+
+dialogue type : s
+A :  But it 's So , right now it 's the mechanism with SSH .
+
+dialogue type : s
+A :  I don't s I didn't set up You can also set up a CVS server on a new port .
+
+dialogue type : s^rt
+A :  It 's like well uh , a main server , or d You can do a CVS server .
+
+dialogue type : %-
+A :  But .
+
+dialogue type : s^aa
+A :  Yeah , right .
+
+dialogue type : s^df
+A :  But I didn't do that because I was not sure about security problems .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^aa|s
+A :  Yeah , you ha in this way you ca you have to set up a CVS server but then , yeah , you can access it .
+
+dialogue type : s
+A :  you you can set up priorities .
+
+dialogue type : s
+A :  You can access them and mostly if you if y the set the server is set up like this .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : h|s^m.%--
+A :  Mmm , since the meeting ,
+
+dialogue type : s^rt
+A :  well , I I 've been I 've been train training a new VAD and a new feature net .
+
+dialogue type : s^rt
+A :  So they should be ready .
+
+dialogue type : h
+A :  Um .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : fh|s
+A :  Well . So we 've been working like six weeks on on the noise compensation and we end up with something that seems reasonable .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s
+A :  So finally it 's it 's , um , Wiener filtering on FFT bins .
+
+dialogue type : s^e
+A :  And it uses , uh , two steps , smoothing of the transfer function ,
+
+dialogue type : s^e
+A :  the first step , that 's along time , which use recursion .
+
+dialogue type : s^e
+A :  And after this step there is a further smoothing along frequency , which use a sliding window of twenty FFT bins .
+
+dialogue type : h
+A :  Mmm .
+
+dialogue type : h
+A : 
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s^aa^r
+A :  yeah .
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : h|s
+A :  Uh , it 's on the transfer function .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : fg|s
+A :  Yeah , so basically we tried different configuration within this idea .
+
+dialogue type : s
+A :  We tried u u applying this on mel bands , having spectral subtraction instead of wiener filtering .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s^rt
+A :  Well , finally we end up with this configuration that works , uh , quite well .
+
+dialogue type : s^cc
+A :  So we are going to fix this for the moment and work on the other aspects of the whole system .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : s^aa.%-
+A :  We we do not fo
+
+dialogue type : s^arp
+A :  Well well , we do , but we don't don't re - synthesize .
+
+dialogue type : s^df
+A :  In in the program we don't re - synthesize and then re - analyze once again .
+
+dialogue type : s
+A :  We just use the clean FFT bins .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : fg|s
+A :  Yeah , well , the , um , the other parts of the system are the the blocks that were already present before and that we did not modify a lot .
+
+dialogue type : s^aa|s^rt
+A :  Yeah , th then the mel filter bank ,
+
+dialogue type : s^rt
+A :  then the log operation ,
+
+dialogue type : h
+A :  Mmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^2
+A :  Then the LDA filter ,
+
+dialogue type : h|s^2
+A :  mmm , then the downsampling ,
+
+dialogue type : s
+A :  DCT ,
+
+dialogue type : s
+A :  then , um , on - line normalization ,
+
+dialogue type : s
+A :  followed by upsampling .
+
+dialogue type : s
+A :  Then finally , we compute delta and we put the neural network also .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  And finally frame dropping , which um , would be a neural network also , used for estimated silence probabilities .
+
+dialogue type : s
+A :  And the input of this neural network would be somewhere between log mel bands or one of the earlier stages of the processing .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : %-
+A :  It , uh ,
+
+dialogue type : s
+A :  Ri - right now it 's second .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s^aa
+A :  No , we didn't .
+
+dialogue type : s^aa.%
+A :  No ,
+
+dialogue type : fh.%
+A :  um .
+
+dialogue type : s^aa
+A :  Yeah , yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : fg|s^nd
+A :  Uh , we are between their two systems .
+
+dialogue type : fh
+A :  So
+
+dialogue type : s
+A :  I It is a triumph .
+
+dialogue type : s
+A :  But everything is within the range of one one percent .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : b.%
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : h|s
+A :  Um Yeah , not better , not worse .
+
+dialogue type : qw^rt
+A :  What about norm normalizing also ?
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  And there is also the idea of using TRAPS , maybe , for the VAD ,
+
+dialogue type : %--
+A : 
+
+dialogue type : fg|s
+A :  Well , Pratibha apparently showed , when , she was at IBM , that it 's a good idea .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^no
+A :  I have no idea .
+
+dialogue type : s^aap
+A :  It would have to fit
+
+dialogue type : fh
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : h|s^aa
+A :  Uh , yeah .
+
+dialogue type : s
+A :  I I 've a new feature net ready also .
+
+dialogue type : s^ar|s
+A :  No , uh . Well p two network , one VAD and one feature net .
+
+dialogue type : s^aa.%
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : sj
+A :  But , yeah , I think there are plenty of issues to work on for the feature net @ @ .
+
+dialogue type : s^fa
+A :  Sorry .
+
+dialogue type : s^ar
+A :  Apparently , no .
+
+dialogue type : s
+A :  It 's training on a range between ten and twenty DB , I think , and testing between five and fifteen .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : fg|s
+A :  and So the noise is There is a range of different noises also um which are selected randomly and added randomly , uh , to the files .
+
+dialogue type : s
+A :  And there are noises that are different from the noises used on TI - digits .
+
+dialogue type : s^no
+A :  I don't know ,
+
+dialogue type : fh
+A :  uh .
+
+dialogue type : s^cs
+A :  We can For September , we can set up a work schedule and we can maybe work independently .
+
+dialogue type : s^cs
+A :  And then at some point it maybe be better to work together again .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^am
+A :  Maybe , yeah .
+
+dialogue type : %-
+A :  But , uh Huh .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm
+
+dialogue type : b
+A :  Right .
+

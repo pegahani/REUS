@@ -1,0 +1,378 @@
+dialogue type : s
+A :  OK , we 're on .
+
+dialogue type : s^cs^rt
+A :  So just make sure that th your wireless mike is on , if you 're wearing a wireless .
+
+dialogue type : s
+A :  And you should be able to see which one which one you 're on by , uh , watching the little bars change .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A :  So , actually , if you guys wanna go ahead and read digits now , as long as you 've signed the consent form , that 's alright .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s^ar^r
+A :  No .
+
+dialogue type : s^e
+A :  Each individually .
+
+dialogue type : s
+A :  We 're talking about doing all at the same time
+
+dialogue type : s
+A :  but I think cognitively that would be really difficult . To try to read them while everyone else is .
+
+dialogue type : s
+A :  So , when you 're reading the digit strings , the first thing to do is just say which transcript you 're on .
+
+dialogue type : fg|s
+A :  Um . So the first thing you 'd wanna do is just say which transcript you 're on .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  You can see the transcript ?
+
+dialogue type : s
+A :  There 's two large number strings on the digits ?
+
+dialogue type : s
+A :  So you would just read that one .
+
+dialogue type : s
+A :  And then you read each line with a small pause between the lines .
+
+dialogue type : s
+A :  And the pause is just so the person transcribing it can tell where one line ends and the other begins .
+
+dialogue type : s
+A :  And I 'll give I 'll read the digit strings first , so can see how that goes .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s
+A :  Again , I 'm not sure how much I should talk about stuff before everyone 's here .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qh^cs
+A :  Well , why don't I go ahead and read digit strings
+
+dialogue type : s^cs^e
+A :  and then we can go on from there .
+
+dialogue type : s^ft
+A :  Thanks .
+
+dialogue type : s
+A :  So , uh , just also a note on wearing the microphones .
+
+dialogue type : s
+A :  All of you look like you 're doing it reasonably correctly ,
+
+dialogue type : s
+A :  but you want it about two thumb widths away from your mouth ,
+
+dialogue type : s^e
+A :  and then , at the corner .
+
+dialogue type : s^df
+A :  And that 's so that you minimize breath sounds ,
+
+dialogue type : s^df
+A :  so that when you 're breathing , you don't breathe into the mike .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s^ba
+A :  Yeah , that 's good .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  So , everyone needs to fill out , only once , the speaker form and the consent form .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I mean , you should read the consent form ,
+
+dialogue type : s
+A :  but uh , the thing to notice is that we will give you an opportunity to edit a all the transcripts .
+
+dialogue type : s
+A :  So , if you say things and you don't want them to be released to the general public , which , these will be available at some point to anyone who wants them , uh , you 'll be given an opportunity by email , uh , to bleep
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s
+A :  On the speaker form just fill out as much of the information as you can .
+
+dialogue type : s.%--
+A :  If you 're not exactly sure about the region ,
+
+dialogue type : s^bd^df
+A :  we 're not exactly sure either .
+
+dialogue type : s
+A :  So , don't worry too much about it .
+
+dialogue type : s
+A :  The It 's just self rating .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s
+A :  And I think that 's about it .
+
+dialogue type : qy^rt
+A :  I mean , should I Do you want me to talk at all about why we 're doing this and what this project is ?
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : s
+A :  Well , what we 're gonna we 'll anonymize it in the transcript .
+
+dialogue type : s^e
+A :  Um , but not in the audio .
+
+dialogue type : s.%-
+A :  So the
+
+dialogue type : s^aa|s:qw
+A :  Right , so if I said , " Oh , hi Jerry , how are you ? " , we 're not gonna go through and cancel out the " Jerry "s .
+
+dialogue type : s
+A :  Um , so we will go through and , in the speaker ID tags there 'll be , you know , M - one O seven , M - one O eight .
+
+dialogue type : fh
+A :  Um , but uh ,
+
+dialogue type : fh
+A :  um , it w uh ,
+
+dialogue type : s^no
+A :  I don't know a good way of doing it on the audio , and still have people who are doing discourse research be able to use the data .
+
+dialogue type : s^bk
+A :  Yep .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : fg|s^na
+A :  Yeah , I mean , whatever you wanna do is fine ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  We want the meeting to be as natural as possible .
+
+dialogue type : s^df
+A :  So , we 're trying to do real meetings .
+
+dialogue type : s
+A :  And so we don't wanna have to do aliases
+
+dialogue type : s
+A :  and we don't want people to be editing what they say .
+
+dialogue type : s
+A :  So I think that it 's better just as a pro post - process to edit out every time you bash Microsoft .
+
+dialogue type : s^f
+A :  You know ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : %-
+A :  So th
+
+dialogue type : s
+A :  Um . So this is The project is called Meeting Recorder
+
+dialogue type : s
+A :  and there are lots of different aspects of the project .
+
+dialogue type : s
+A :  Um . So my particular interest is in the PDA of the future .
+
+dialogue type : s
+A :  This is a mock - up of one .
+
+dialogue type : s
+A :  Yes , we do believe the PDA of the future will be made of wood .
+
+dialogue type : fh|s
+A :  Um . The idea is that you 'd be able to put a PDA at the table at an impromptu meeting ,
+
+dialogue type : s
+A :  and record it ,
+
+dialogue type : s
+A :  and then be able to do querying and retrieval later on , on the meeting .
+
+dialogue type : s
+A :  So that 's my particular interest ,
+
+dialogue type : s
+A :  is a portable device to do m uh , information retrieval on meetings .
+
+dialogue type : s
+A :  Other people are interested in other aspects of meetings .
+
+dialogue type : s
+A :  Um . So the first step on that , in any of these , is to collect some data .
+
+dialogue type : s
+A :  And so what we wanted is a room that 's instrumented with both the table top microphones ,
+
+dialogue type : s
+A :  and these are very high quality pressure zone mikes ,
+
+dialogue type : s
+A :  as well as the close talking mikes .
+
+dialogue type : s
+A :  What the close talk ng talking mikes gives us is some ground truth ,
+
+dialogue type : s
+A :  gives us , um , high quality audio ,
+
+dialogue type : s
+A :  um , especially for people who aren't interested in the acoustic parts of this corpus .
+
+dialogue type : s
+A :  So , for people who are more interested in language , we didn't want to penalize them by having only the far field mikes available .
+
+dialogue type : s
+A :  And then also , um , it 's a very , very hard task in terms of speech recognition .
+
+dialogue type : s
+A :  Um . And so , uh , on the far field mikes we can expect very low recognition results .
+
+dialogue type : s
+A :  So we wanted the near field mikes to at least isolate the difference between the two .
+
+dialogue type : s^df
+A :  So that 's why we 're recording in parallel with the close talking and the far field at the same time .
+
+dialogue type : s
+A :  And then , all these channels are recorded simultaneously and framed synchronously
+
+dialogue type : s^df
+A :  so that you can also do things like , um , beam - forming on all the microphones
+
+dialogue type : s
+A :  and do research like that .
+
+dialogue type : s
+A :  Our intention is to release this data to the public , um , probably through f through a body like the LDC .
+
+dialogue type : s
+A :  And , uh , just make it as a generally available corpus .
+
+dialogue type : fh|s
+A :  Um . There 's other work going on in meeting recording .
+
+dialogue type : s
+A :  So , we 're we 're working with SRI ,
+
+dialogue type : s^e
+A :  with UW ,
+
+dialogue type : h|s^e
+A :  Um . NIST has started an effort which will include video .
+
+dialogue type : s
+A :  We 're not including video , obviously .
+
+dialogue type : s
+A :  And uh and then also , um , a small amount of assistance from IBM .
+
+dialogue type : s^e
+A :  Is also involved .
+
+dialogue type : s
+A :  Um . Oh , and the digit strings , this is just a more constrained task .
+
+dialogue type : s
+A :  Um . So because the general environment is so challenging , we decided to to do at least one set of digit strings
+
+dialogue type : s^e
+A :  to give ourselves something easier .
+
+dialogue type : s
+A :  And it 's exactly the same digit strings as in TI - digits ,
+
+dialogue type : s
+A :  which is a common connected digits corpus .
+
+dialogue type : s
+A :  So we 'll have some , um , comparison to be able to be made .
+
+dialogue type : qo^rt^t^tc
+A :  Anything else ?
+
+dialogue type : s^bk|s^co
+A :  OK , so when the l last person comes in , just have them wear a wireless .
+
+dialogue type : s
+A :  It should be on already .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s
+A :  Either one of those .
+
+dialogue type : s
+A :  And uh , read the digit strings and and fill out the forms .
+
+dialogue type : s
+A :  So , the most important form is the consent form ,
+
+dialogue type : s
+A :  so just be s be sure everyone signs that , if they consent .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  And uh , just give me a call ,
+
+dialogue type : s
+A :  which , my number 's up there when your meeting is over .
+
+dialogue type : s
+A :  And I 'm going to leave the mike here
+
+dialogue type : s
+A :  but it 's n Uh , but I 'm not gonna be on
+
+dialogue type : s
+A :  so don't have them use this one .
+
+dialogue type : s
+A :  It 'll just be sitting here .
+

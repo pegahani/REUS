@@ -1,0 +1,768 @@
+dialogue type : z
+H :  Yeah , so if uh So if anyone hasn't signed the consent form , please do so .
+
+dialogue type : z
+H :  The new consent form .
+
+dialogue type : z
+H :  The new and improved consent form .
+
+dialogue type : qy^rt
+H :  And uh , shall I go ahead and do some digits ?
+
+dialogue type : s^bk|s
+H :  OK , whatever you want .
+
+dialogue type : s^bd
+H :  It 's uh Yeah , it doesn't matter .
+
+dialogue type : s^aa
+H :  OK .
+
+dialogue type : s
+H :  So we all forgot .
+
+dialogue type : s
+H :  And I have some short research issues .
+
+dialogue type : qy^rt
+H :  Do you want me to be there for that ?
+
+dialogue type : s
+H :  I noticed you C C ' ed me , but I wasn't actually a recipient .
+
+dialogue type : s
+H :  I didn't quite know what to make of that .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : qr
+H :  Is this the same as the email or different ?
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : qr.%-
+H : 
+
+dialogue type : s
+H :  So it would be interesting to see how much each person spoke .
+
+dialogue type : s^t1.%-
+H : 
+
+dialogue type : s^ar|s^nd
+H :  No no actually , that would be actually statistically correct ,
+
+dialogue type : %--
+H :  but
+
+dialogue type : s^aa|s
+H :  Yes , that 's right , so you don't nee OK .
+
+dialogue type : s
+H :  Yeah , when this is what This is actually when Jane sent this email first , is what caused me to start thinking about anonymizing the data .
+
+dialogue type : b
+H :  Uh - huh .
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : s^t3
+H :  Hundred ninety - seven .
+
+dialogue type : %-
+H : 
+
+dialogue type : s
+H :  Statistical .
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^cc
+H :  I want to go back and listen to minute forty - one .
+
+dialogue type : s
+H :  Cuz i i I find it interesting that there were a large number of overlaps and they were all two - speaker .
+
+dialogue type : s
+H :  I mean what I thought what I would have thought in is that when there were a large number of overlaps , it was because everyone was talking at once , but uh apparently not .
+
+dialogue type : sj
+H :  That 's really neat .
+
+dialogue type : sj
+H :  This is really interesting data .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s
+H :  Though it wasn't in the design .
+
+dialogue type : b
+H :  Right .
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : s
+H :  I could certainly see it going either way .
+
+dialogue type : b
+H :  Um .
+
+dialogue type : s^cs
+H :  Yep , we need to put trackers on it .
+
+dialogue type : s^na
+H :  Yeah , you don't have it .
+
+dialogue type : s^t3.%--
+H : 
+
+dialogue type : s^co^t3
+H :  That is an earphone , so if you just put it so it 's on your ear .
+
+dialogue type : s^t3
+H :  There you go .
+
+dialogue type : s^ft^t3
+H :  Thank you .
+
+dialogue type : sj^cs
+H :  It 'd be interesting if we could do prediction .
+
+dialogue type : sj
+H :  Language model prediction of overlap , that would be really interesting .
+
+dialogue type : s^bk
+H :  Right .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^j^t3
+H :  Let 's pick a different word .
+
+dialogue type : s^2
+H :  Trying to get the floor .
+
+dialogue type : s
+H :  It 's been studied a lot .
+
+dialogue type : b
+H :  Ach .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s
+H :  Well , but from the acoustic point of view , it 's all good .
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : s^na
+H :  Well , that 's the that was my my status report ,
+
+dialogue type : s
+H :  so Once we 're done with this stuff discussing ,
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^2
+H :  Can .
+
+dialogue type : s^bk
+H :  Right .
+
+dialogue type : s
+H :  Yeah , we talked about this repeatedly .
+
+dialogue type : s^ng
+H :  It just seems like that 's a very different thing than what we 're doing .
+
+dialogue type : s^fe^t3
+H :  Barriers !
+
+dialogue type : s^co^j
+H :  OK , we can record , but no one can look at each other .
+
+dialogue type : s^co^j
+H :  Close your eyes .
+
+dialogue type : s^co^j
+H :  Turn off the lights .
+
+dialogue type : h|s^nd
+H :  Um , what I had thought we were gonna do is just take pictures of the whiteboards . rather than take pictures of the meeting .
+
+dialogue type : fh
+H : 
+
+dialogue type : sj
+H :  Seat number , that 's a good idea .
+
+dialogue type : s^cc
+H :  I 'll do that .
+
+dialogue type : s^cc
+H :  I 'll do that on the next set of forms .
+
+dialogue type : s
+H :  I finally remembered to put , uh put native language on the newer forms .
+
+dialogue type : s^ar
+H :  No .
+
+dialogue type : s
+H :  The wireless ones .
+
+dialogue type : s
+H :  And even the jacks , I mean , I 'm sitting here and the jack is over in front of you .
+
+dialogue type : s^ng
+H :  It would be another task .
+
+dialogue type : s
+H :  Having having ground tu truth would be nice , so seat number would be good .
+
+dialogue type : s^cc
+H :  So I 'm gonna put little labels on all the chairs with the seat number .
+
+dialogue type : sj
+H :  That 's a good idea .
+
+dialogue type : fh
+H : 
+
+dialogue type : s^bk
+H :  Yep .
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : b
+H :  Hmm .
+
+dialogue type : s
+H :  Of course , the where we sit at the table , I find is very interesting , that we do tend to cong to gravitate to the same place each time .
+
+dialogue type : s
+H :  and it 's somewhat coincidental .
+
+dialogue type : s
+H :  I 'm sitting here so that I can run into the room if the hardware starts , you know , catching fire or something .
+
+dialogue type : s^j
+H :  I just want to be at the head of the table .
+
+dialogue type : s^j
+H :  Take control .
+
+dialogue type : s
+H :  Yeah , I 've been playing with , um uh , using the close - talking mike to do to try to figure out who 's speaking .
+
+dialogue type : s
+H :  So my first attempt was just using thresholding and filtering , that we talked about about two weeks ago ,
+
+dialogue type : s
+H :  and so I played with that a little bit , and it works O K , except that it 's very sensitive to your choice of your filter width and your threshold .
+
+dialogue type : s
+H :  So if you fiddle around with it a little bit and you get good numbers you can actually do a pretty good job of segmenting when someone 's talking and when they 're not .
+
+dialogue type : s
+H :  But if you try to use the same paramenters on another speaker , it doesn't work anymore ,
+
+dialogue type : s
+H :  even if you normalize it based on the absolute loudness .
+
+dialogue type : s^na
+H :  It does work for the one speaker throughout the whole meeting .
+
+dialogue type : fh|s^na
+H :  Um Pretty well .
+
+dialogue type : s^na^r
+H :  Pretty well .
+
+dialogue type : qw^bu^rt
+H :  How did I do it ?
+
+dialogue type : qw^bu
+H :  What do you mean ?
+
+dialogue type : s
+H :  The algorithm was , uh take o every frame that 's over the threshold , and then median - filter it , and then look for runs .
+
+dialogue type : s
+H :  So there was a minimum run length ,
+
+dialogue type : %-
+H : 
+
+dialogue type : s
+H :  A threshold that you pick .
+
+dialogue type : s^aa
+H :  Yeah .
+
+dialogue type : s
+H :  So you take a each frame , and you compute the energy
+
+dialogue type : s
+H :  and if it 's over the threshold you set it to one , and if it 's under the threshold you set it to zero , so now you have a bit stream of zeros and ones .
+
+dialogue type : s
+H :  And then I median - filtered that using , um a fairly long filter length .
+
+dialogue type : fh|s
+H :  Uh well , actually I guess depends on what you mean by long , you know , tenth of a second sorts of numbers .
+
+dialogue type : fh|s
+H :  Um and that 's to average out you know , pitch , you know , the pitch contours , and things like that .
+
+dialogue type : s
+H :  And then , uh looked for long runs .
+
+dialogue type : s
+H :  And that works O K , if you fil if you tune the filter parameters , if you tune how long your median filter is and how high you 're looking for your thresholds .
+
+dialogue type : s^ar
+H :  No .
+
+dialogue type : s
+H :  I certainly could though .
+
+dialogue type : s
+H :  But this was just I had the program mostly written already so it was easy to do .
+
+dialogue type : s
+H :  OK and then the other thing I did , was I took Javier 's speaker - change detector acoustic - change detector , and I implemented that with the close - talking mikes ,
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s
+H :  the problem is he does it in two passes ,
+
+dialogue type : s
+H :  the first pass is to find candidate places to do a break .
+
+dialogue type : s
+H :  And he does that using a neural net doing broad phone classification and he has the the , uh one of the phone classes is silence .
+
+dialogue type : s
+H :  And so the possible breaks are where silence starts and ends .
+
+dialogue type : s
+H :  And then he has a second pass which is a modeling a Gaussian mixture model .
+
+dialogue type : fh|s
+H :  Um looking for uh whether it improves or or degrades to split at one of those particular places .
+
+dialogue type : s
+H :  And what looks like it 's happening is that the even on the close - talking mike the broad phone class classifier 's doing a really bad job .
+
+dialogue type : h|s^no
+H :  Uh , I have no idea .
+
+dialogue type : s^no
+H :  I don't remember .
+
+dialogue type : qy^rt
+H :  Does an do you remember , Morgan ,
+
+dialogue type : qy^rt
+H :  was it Broadcast News ?
+
+dialogue type : fg|s
+H :  Um So , at any rate , my next attempt , which I 'm in the midst of and haven't quite finished yet was actually using the uh , thresholding as the way of generating the candidates .
+
+dialogue type : s
+H :  Because one of the things that definitely happens is if you put the threshold low you get lots of breaks .
+
+dialogue type : s
+H :  All of which are definitely acoustic events .
+
+dialogue type : s
+H :  They 're definitely someone talking .
+
+dialogue type : s
+H :  But , like , it could be someone who isn't the person here , but the person over there or it can be the person breathing .
+
+dialogue type : s
+H :  And then feeding that into the acoustic change detector .
+
+dialogue type : s
+H :  And so I think that might work .
+
+dialogue type : s
+H :  But , I haven't gotten very far on that .
+
+dialogue type : s
+H :  But all of this is close - talking mike ,
+
+dialogue type : fh
+H :  so
+
+dialogue type : s
+H :  it 's , uh just just trying to get some ground truth .
+
+dialogue type : s^aa
+H :  Oh , absolutely .
+
+dialogue type : s
+H :  So s my intention for this is is as an aide for ground truth .
+
+dialogue type : %-
+H : 
+
+dialogue type : qy^br^d^rt
+H :  Say it again ?
+
+dialogue type : s^br
+H :  I 'm I 'm not sure what you 're saying ,
+
+dialogue type : qy.%-
+H : 
+
+dialogue type : s^bk
+H :  Onset detector , OK .
+
+dialogue type : s^bk
+H :  Right .
+
+dialogue type : s^bk
+H :  Right .
+
+dialogue type : s
+H :  But different speakers .
+
+dialogue type : qy^bu^d
+H :  Ah , in the clo in the P D A , you mean ?
+
+dialogue type : s^aa
+H :  Absolutely .
+
+dialogue type : s^aa
+H :  Yeah , no question .
+
+dialogue type : s^na
+H :  It 'll be much harder .
+
+dialogue type : s^na
+H :  Much harder .
+
+dialogue type : b
+H :  Right .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s
+H :  Yeah , when a phone changes .
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : s^2
+H :  Do something .
+
+dialogue type : s^aa
+H :  Right .
+
+dialogue type : s^aa
+H :  Absolutely .
+
+dialogue type : s^aa
+H :  Right .
+
+dialogue type : qw^br^d^rt
+H :  With the what file ?
+
+dialogue type : qy^br^d^rt
+H :  " Mixed ? "
+
+dialogue type : s^aa
+H :  Oh , absolutely .
+
+dialogue type : s^na
+H :  This is this is not what I was suggesting to do .
+
+dialogue type : fg|s
+H :  Well , also what I 'm doing right now is not intended to be an acoustic change detector for far - field mikes .
+
+dialogue type : s
+H :  What I 'm doing is trying to use the close - talking mike and just use Can - and just generate candidate and just try to get a first pass at something that sort of works .
+
+dialogue type : s
+H :  and I haven't spent a lot of time on it and I 'm not intending to spend a lot of time on it .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : s^bk
+H :  Yep .
+
+dialogue type : s^2
+H :  Everyone else .
+
+dialogue type : s^2|s^aa
+H :  All the Yep .
+
+dialogue type : s
+H :  It 's a little big .
+
+dialogue type : s^df^nd
+H :  Two to the N .
+
+dialogue type : s^df^nd
+H :  Two to the number of people in the meeting .
+
+dialogue type : fh
+H :  Anyway .
+
+dialogue type : s^na
+H :  I was thinking about doing that originally to find out who 's the loudest ,
+
+dialogue type : s^e^rt
+H :  and that person is certainly talking .
+
+dialogue type : s
+H :  But I also wanted to find threshold uh , excuse me , mol overlap .
+
+dialogue type : s
+H :  So , not just just the loudest .
+
+dialogue type : s^bk^t3
+H :  OK .
+
+dialogue type : qy^cs^t3
+H :  Could you fill that out anyway ?
+
+dialogue type : s^co^t3
+H :  Just , put your name in .
+
+dialogue type : qy^d^rt^t3
+H :  Are y you want me to do it ?
+
+dialogue type : s^cc^t3
+H :  I 'll do it .
+
+dialogue type : s^na^t3
+H :  I know .
+
+dialogue type : s^2
+H :  And everyone else is low , yeah .
+
+dialogue type : s^j
+H :  Ding , ding , ding , ding .
+
+dialogue type : s^rt
+H :  Nodding with blindfolds ,
+
+dialogue type : qw^j
+H :  " what are you nodding about ? "
+
+dialogue type : s^fa^j
+H :  " Sorry , I 'm just I 'm just going to sleep . "
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : fg|s^cs
+H :  Well , we could just turn out the lights .
+
+dialogue type : s^2
+H :  The acoustics .
+
+dialogue type : s^cs^na
+H :  I think , blindfolds .
+
+dialogue type : s
+H :  Yeah , that 's right , we didn't tell them we would be blindfolding .
+
+dialogue type : s
+H :  Hasn't been sent yet , but It 's getting ready .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s
+H :  I I did a bunch of stuff for supporting of digits .
+
+dialogue type : qy^bu^cc^d^rt
+H :  So , OK , I 'll send you a sentence that doesn't just say " a bunch of " ?
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : s^na
+H :  " Stuff " is not very technical .
+
+dialogue type : s^cc
+H :  I 'll try to phrase it in passive voice .
+
+dialogue type : s
+H :  It 's just , uh beeping out parts that you don't want included in the meeting
+
+dialogue type : s
+H :  so , you know you can say things like , " Well , this should probably not be on the record , but beep "
+
+dialogue type : s
+H :  Yeah , you can either beep or it can be silence .
+
+dialogue type : s^no
+H :  I I couldn't decide . which was the right way to do it .
+
+dialogue type : s
+H :  Beep is good auditorily ,
+
+dialogue type : s
+H :  if someone is listening to it , there 's no mistake that it 's been beeped out ,
+
+dialogue type : s^cs
+H :  but for software it 's probably better for it to be silence .
+
+dialogue type : s^bk
+H :  Yep .
+
+dialogue type : s
+H :  And I use it 's it 's , uh it 's an A below middle C beep ,
+
+dialogue type : fh
+H :  so
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : s^aa
+H :  Of course .
+
+dialogue type : s
+H :  Yeah you have to do it on all channels because it 's , uh audible .
+
+dialogue type : s
+H :  Uh , it 's it 's potentially audible , you could potentially recover it .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : s
+H :  Well , I I haven't thrown away any of the meetings that I beeped .
+
+dialogue type : s
+H :  Actually yours is the only one that I beeped and then , uh the ar DARPA meeting .
+
+dialogue type : s^fa
+H :  Sorry ,
+
+dialogue type : s
+H :  and then the DARPA meeting I just excised completely ,
+
+dialogue type : s
+H :  so it 's in a private directory .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : s^bk
+H :  Right .
+
+dialogue type : s^tc
+H :  Yeah , since we wanna possibly synchronize these things as well .
+
+dialogue type : s
+H :  Oh , I should have done that .
+
+dialogue type : sj^fe
+H :  Shoot .
+
+dialogue type : s
+H :  Oh well .
+
+dialogue type : s
+H :  You 'll lose it .
+
+dialogue type : s
+H :  There 's no way around that .
+
+dialogue type : qy^2^d^rt
+H :  Agenda ?
+
+dialogue type : s
+H :  Thursday crept up on me this week .
+
+dialogue type : s^na
+H :  It 's cool stuff , definitely .
+
+dialogue type : s^j
+H :  I was gonna say " can you do that for the other meetings ,
+
+dialogue type : qy^j
+H :  can you do it for them ? "
+
+dialogue type : s^ar^j
+H :  And , no actually , you can't .
+
+dialogue type : sj^fe
+H :  " Ooo , cool ! "
+
+dialogue type : s
+H :  It 's As soon as we get labels , yep .
+
+dialogue type : s
+H :  If it works well enough .
+
+dialogue type : s
+H :  Right now it 's not . Not quite to the point where it works .
+
+dialogue type : s^rt
+H :  Yeah , my my algorithm worked great actually on these ,
+
+dialogue type : s
+H :  but when you wear it like that or with the uh , lapel or if you have it very far from your face , that 's when it starts failing .
+
+dialogue type : s^aap
+H :  It doesn't matter .
+
+dialogue type : s^df
+H :  I mean , we want it to work ,
+
+dialogue type : qy^d^f^g^rt
+H :  right ?
+
+dialogue type : s^df
+H :  I I don't want to change the way we do the meeting .
+
+dialogue type : s^df
+H :  It 's uh so , it was just a comment on the software , not a comment on prescriptions on how you wear microphones .
+
+dialogue type : s
+H :  Get the bolts , " whh whh "
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : z
+H :  OK , thank you .
+

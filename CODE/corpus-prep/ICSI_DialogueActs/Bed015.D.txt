@@ -1,0 +1,60 @@
+dialogue type : z
+D :  Uh , yeah .
+
+dialogue type : %-
+D :  Um
+
+dialogue type : %-
+D : 
+
+dialogue type : s^co
+D :  wait .
+
+dialogue type : s^bk
+D :  Ah !
+
+dialogue type : s^na
+D :  Just one sheet .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  Front , back .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^rt
+D :  I was just checking like , when we wanna , um , get the posterior probability of , like , variables .
+
+dialogue type : qy^d
+D :  You know how you asked whether we can , like , just observe all the variables like in the same list ?
+
+dialogue type : s
+D :  You can't .
+
+dialogue type : s^df
+D :  You have to make separate queries every time .
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  You just have to have a long list of , you know , all the variables .
+
+dialogue type : s^e
+D :  Basically .
+
+dialogue type : s^aa
+D :  Yeah , yeah .
+
+dialogue type : %-
+D :  Fri
+
+dialogue type : b
+D :  Hmm .
+

@@ -1,0 +1,135 @@
+dialogue type : s^e
+E :  Wants to conserve .
+
+dialogue type : b
+E :  m Yes .
+
+dialogue type : s^j
+E :  I 've I understand everything .
+
+dialogue type : s^aa
+E :  Yes I do .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  And more and more every day .
+
+dialogue type : s^rt.%--
+E :  Tomorrow ,
+
+dialogue type : s^no
+E :  well we don't know for sure .
+
+dialogue type : s^e
+E :  Because we don't know whether that person is coming or not ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s^2^bu^rt
+E :  They 're redundant .
+
+dialogue type : %-
+E : 
+
+dialogue type : h|s
+E :  Um I can Yeah , I mean I s I think can probably schedule ten people , uh , whenever .
+
+dialogue type : qw^bs
+E :  How long will it be ?
+
+dialogue type : h|s
+E :  Um I I would say maybe two weeks .
+
+dialogue type : s^m
+E :  Take care of him .
+
+dialogue type : h|s^am
+E :  Well , I guess .
+
+dialogue type : s^no
+E :  I 'm not sure how long it 's actually going to take .
+
+dialogue type : s^aap
+E :  It feels like a long time
+
+dialogue type : fh
+E :  but .
+
+dialogue type : qy^bu.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qy^bu^d^rt
+E :  That w maybe one thing we should do is go through this list and sort of select things that are categories and then o offer only one member of that category ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bu
+E :  And then , I mean , they could be alternate versions of the same If you wanted data on different constructions .
+
+dialogue type : s^e.%-
+E : 
+
+dialogue type : s^aa^df
+E :  Well no , they could still choose .
+
+dialogue type : s^e
+E :  They just wouldn't be able to choose both zoo and say , touring the castle .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^j
+E :  He was vicious .
+
+dialogue type : s^ng.%--
+E :  I mean there they are significantly different , but .
+
+dialogue type : s^am
+E :  Yeah , I guess so .
+
+dialogue type : s
+E :  That means that one hundred people have to be interested .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^na
+E :  That 's enough .
+
+dialogue type : s^e
+E :  Never .
+
+dialogue type : sj^ba
+E :  Mmm g that 's good .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  Still wrong .
+
+dialogue type : s
+E :  Then you can go .
+

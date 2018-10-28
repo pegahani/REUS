@@ -1,0 +1,729 @@
+dialogue type : z
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^2
+C :  Is the question .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b.%
+C :  Ah . Yeah .
+
+dialogue type : b.%
+C :  Yeah .
+
+dialogue type : s.%
+C :  DTD .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b.%
+C :  Yeah .
+
+dialogue type : s
+C :  It 's possible .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah . Sure .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa^m
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : sj.%-
+C :  I
+
+dialogue type : sj
+C :  I think it 's not necessary to put uh " Optional " .
+
+dialogue type : sj
+C :  I think people decide uh , in that moment .
+
+dialogue type : s^df.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b.%
+C :  OK . OK .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b.%
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : sj^ba
+C :  Is better .
+
+dialogue type : sj^ba^r
+C :  I think it 's better .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^rt
+C :  Not the year .
+
+dialogue type : s^bk^fe^m
+C :  The PIN !
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : sj^ba
+C :  Interesting .
+
+dialogue type : s^bk^m
+C :  Role , yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Ah , yeah yeah .
+
+dialogue type : s
+C :  I I found the error , and I repeated the experiments
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah , yeah .
+
+dialogue type : qy^d^rt.%
+C :  OK ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^2
+C :  Another side .
+
+dialogue type : s^2
+C :  an alteration in th in the tracking way .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I understand that eh you you mean eh to to study the alteration between the the tracking of the pitch eh if we compare the overlapping zone with a speaker zone .
+
+dialogue type : s
+C :  in the co in the context .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  I don't normalicized eh in these er experiments . by the moment .
+
+dialogue type : s^r
+C :  I don't normalicize .
+
+dialogue type : b
+C :  Yeah ?
+
+dialogue type : b
+C :  Nnn .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^2
+C :  The different zone .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  The product of the deviation is the vari is the variance .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s
+C :  It 's a pu pure overlapping zone .
+
+dialogue type : s
+C :  I mean that eh overlapping between two , three , four eh eh speaker .
+
+dialogue type : %-
+C :  Th
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qw^br^rt
+C :  Sorry ?
+
+dialogue type : qy^cs^d^rt
+C :  Say this graphic ?
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s
+C :  I use the mixed signal without normalization without normalization ,
+
+dialogue type : fg
+C :  but but
+
+dialogue type : s^bk
+C :  Ah .
+
+dialogue type : s
+C :  I I don't study the single channel yet
+
+dialogue type : s^ba
+C :  but eh is eh is an idea .
+
+dialogue type : s
+C :  to to begin to work with the eh with the one single channel . Now .
+
+dialogue type : b.x
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Ah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Here in the yeah it it 's a new new a new diapositive with information about the context for overlapping zone .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : qw
+C :  How define ?
+
+dialogue type : %-
+C : 
+
+dialogue type : qw^br.%-
+C :  j my ?
+
+dialogue type : s
+C :  eh , I I 'm working now with pitch detector .
+
+dialogue type : s
+C :  I 'm working now , but eh I haven't eh results yet .
+
+dialogue type : s
+C :  But eh at this moment I I I prepare , I am I am preparing the the pitch eh eh tracking . pitch tracker eh algorithm that I have
+
+dialogue type : %-
+C :  but eh
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  It 's based on uh a correlation between frame the utterance
+
+dialogue type : s^no.%--
+C : 
+
+dialogue type : s^df
+C :  because it 's no my my algorithm .
+
+dialogue type : %--
+C : 
+
+dialogue type : s^bk
+C :  Uh - huh .
+
+dialogue type : s^bk
+C :  Uh - huh .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s.%
+C :  For most @ @ .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : qy^bu^d
+C :  For b for both , for eh the frame energy and eh residular LPC eh energy too .
+
+dialogue type : s^bk^m
+C :  For both .
+
+dialogue type : s
+C :  but eh I test different normalization
+
+dialogue type : %--
+C :  I eh
+
+dialogue type : qw
+C :  What kind of normalization ?
+
+dialogue type : %--
+C : 
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ng
+C :  But this is very short .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Is a problem to detect .
+
+dialogue type : s
+C :  But It 's a problem to It 's a problem to identify and to detect , too , with eh the Javier system , for example .
+
+dialogue type : s^bk^m
+C :  For example .
+
+dialogue type : s^ba
+C :  It 's a problem .
+
+dialogue type : fh
+C :  Uh
+
+dialogue type : qw.%-
+C : 
+
+dialogue type : s^fa
+C :  sorry .
+
+dialogue type : qw
+C :  What what happened with the different contexts
+
+dialogue type : s
+C :  because eh eh you are talking about eh the period or the the duration of the the window to eh the the long of the window to to consider normalization
+
+dialogue type : qy^d^f^g
+C :  no ?
+
+dialogue type : s
+C :  But eh we have different contexts .
+
+dialogue type : qy^bu^d^rt
+C :  The the the the period the the the length of the window to to normalize eh the energy is eh in the context of the overlapping zone ?
+
+dialogue type : qy^bu^d^rt
+C :  Is eh in the in the left context as in th in the right context , considering eh the these frames ?
+
+dialogue type : qy^d^g^rt
+C :  You mean ?
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  Because because the the the problem is that we have different contexts .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qw^br.%--
+C :  What the bu
+
+dialogue type : s^bk|s
+C :  Ah , the bug .
+
+dialogue type : s^rt
+C :  The bug of was the the F - seek function in C .
+
+dialogue type : s.%--
+C :  because doesn't work uh when you eh you try to to to ass n n to do an a dated access to to a file , a big file , eh eh moving the the head of the in the hard disk , eh e forward and backward a lot of time
+
+dialogue type : s^rt
+C :  eh in a moment F - seek function doesn't work .
+
+dialogue type : s
+C :  and I had an problem .
+
+dialogue type : s
+C :  Yes , this is this is it 's incredible .
+
+dialogue type : s
+C :  I I I do the same in in another in another way
+
+dialogue type : s
+C :  and I haven't problem .
+
+dialogue type : s^no
+C :  I I I don't know ,
+
+dialogue type : s
+C :  but uh I I think the the position in the file eh doesn't work eh eh in long file ,
+
+dialogue type : s
+C :  a very long file .
+
+dialogue type : qy^bu^d^rt
+C :  The typecast .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ng
+C :  eh it 's ehm No , no , it 's unsigned .
+
+dialogue type : s
+C :  Signed .
+
+dialogue type : s
+C :  I I I don't know
+
+dialogue type : s^no
+C :  I don't know
+
+dialogue type : s
+C :  but eh I I solved the problem with eh a similar way and I haven't problem
+
+dialogue type : s
+C :  but eh I I I don't know because eh eh it doesn't eh happen to me before .
+
+dialogue type : s
+C :  but eh I I I have the same codes in different parts ,
+
+dialogue type : s
+C :  and uh I I had to to to change all all the points in the in the code , eh to substitute eh for another way ,
+
+dialogue type : %-
+C :  but eh is
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : s^fa
+C :  Sorry .
+
+dialogue type : b
+C :  OK .
+

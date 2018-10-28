@@ -1,0 +1,237 @@
+dialogue type : s
+A :  Yeah , I think I got my mike on .
+
+dialogue type : s^bk^rt
+A :  OK .
+
+dialogue type : s
+A :  Let 's see .
+
+dialogue type : s
+A :  Mmm Doesn't , uh It should be the other way .
+
+dialogue type : s
+A :  Yeah , now it 's on .
+
+dialogue type : s^na|s^aa
+A :  We are all switched on , yeah .
+
+dialogue type : b.%
+A :  Hmm .
+
+dialogue type : s^aa|qw
+A :  Yeah , where are those constructors defined ?
+
+dialogue type : qy^bu^cs^d^rt
+A :  Grep for it ?
+
+dialogue type : s^bu
+A :  That function automatically generates an initialized XML structure ?
+
+dialogue type : s^j
+A :  It 's mystery functions .
+
+dialogue type : s^bu|qy^d^g
+A :  Well , it just automatically initializes things that are common , right ?
+
+dialogue type : s
+A :  So it 's just a shorthand .
+
+dialogue type : s|s^ba
+A :  A " not a number " is a value . Awesome .
+
+dialogue type : s^bu
+A :  So then , whatever takes this M - three - L is what actually changes the state ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bk
+A :  Yeah , OK .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^2
+A :  With sugge yeah , suggested improvements
+
+dialogue type : %--
+A : 
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  Then the scope of this is beyond Approach and Vis - or Vista .
+
+dialogue type : s^bk
+A :  Yeah , yeah .
+
+dialogue type : b
+A :  Yeah , yeah .
+
+dialogue type : s^bu.%--
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Uh , yeah .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : s^bk
+A :  Yeah , OK .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  this XML stuff here just has to do with Source - Path - Goal type stuff ,
+
+dialogue type : s
+A :  in terms of traveling through Heidelberg .
+
+dialogue type : s^e
+A :  Or travel , specifically .
+
+dialogue type : qy
+A :  So , but this O Is the domain greater than that ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : qy
+A :  Could you give me an example of a reference problem ?
+
+dialogue type : s^df^e
+A :  so so l I can make it more concrete ?
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^bu
+A :  Or the re the restaurant where they wear lederhosen ?
+
+dialogue type : qr.%-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk
+A :  Yeah , yeah .
+
+dialogue type : s^cs
+A :  You can put the microphone in your pocket .
+
+dialogue type : s
+A :  I was envying you and your pocket
+
+dialogue type : s^df
+A :  cause I don't have one .
+
+dialogue type : s^aa
+A :  exactly
+
+dialogue type : s^bk
+A :  OK
+
+dialogue type : s^2
+A :  Asymptotically .
+
+dialogue type : %--
+A :  U
+
+dialogue type : s^aa
+A :  yeah , yeah .
+
+dialogue type : s
+A :  So , really , i What a A Noisy - OR seems to kind of " neural - net - acize " these Bayes - nets ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : s
+A :  With the neural net , right , eh , things come in , you have a function that combines them
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : fg|s
+A :  Yeah , hash on object name to , you know , uh , the probabilities or whatever .
+
+dialogue type : s^cs
+A :  We could just steal the classes in JavaBayes and then interface to them with our own code .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^df.%--
+A :  Well , I was j
+
+dialogue type : s^bk
+A :  OK . Yeah .
+
+dialogue type : s
+A :  Well , no , but that just means there 's a protocol ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^ar|s^df.%--
+A : 
+
+dialogue type : s
+A :  So you could have four different Bayes - nets that you 're running ,
+
+dialogue type : s^e
+A :  and then run your own write your own function that would take the output of those four ,
+
+dialogue type : s^e
+A :  and make your own " G function " , is what I was saying .
+
+dialogue type : s
+A :  Well , then you 'd have to break all of your Bayes - nets into smaller Bayes - nets ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^bk|s^df.%-
+A : 
+
+dialogue type : s^j
+A :  I was thinking maybe we should just cough into the microphone and see if they can't th see if they can handle it .
+

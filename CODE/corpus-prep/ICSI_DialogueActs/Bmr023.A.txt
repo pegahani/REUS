@@ -1,0 +1,381 @@
+dialogue type : b
+A :  OK .
+
+dialogue type : s^ba
+A :  They sound really good .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^ba
+A :  It sounds like a radio announcer 's voice . Really .
+
+dialogue type : b
+A :  Yeah , yeah .
+
+dialogue type : s^aa
+A :  Oh that 's right .
+
+dialogue type : %-
+A :  Now actually ,
+
+dialogue type : qy.%-
+A :  we 're Are we handling ?
+
+dialogue type : fg|s
+A :  OK . So , um , we Uh , the transcribers have continued to work past what I 'm calling " set one " ,
+
+dialogue type : s^e
+A :  which was the s the set that I 've been , uh OK , talking about up to this point ,
+
+dialogue type : s
+A :  but , uh , they 've gotten five meetings done in that set .
+
+dialogue type : s
+A :  Right now they 're in the process of being edited .
+
+dialogue type : fh|%--
+A : 
+
+dialogue type : s^co
+A :  Let 's see ,
+
+dialogue type : s
+A :  I hired two transcribers today . I 'm thinking of hiring another one ,
+
+dialogue type : s^df^e
+A :  which will because we 've had a lot of attrition .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^df
+A :  Well , you know , it 's it 's various things .
+
+dialogue type : s^df.%-
+A : 
+
+dialogue type : s^df
+A :  Eh , one of them , um , had never planned to work past January .
+
+dialogue type : s
+A :  I mean , it 's th all these various things ,
+
+dialogue type : s^df
+A :  cuz we , you know , we presented it as possibly a month project back in January
+
+dialogue type : fh
+A :  and and and and Um ,
+
+dialogue type : s
+A :  so it makes sense .
+
+dialogue type : s
+A :  Uh , through attrition we we 've we 're down to to two , but they 're really solid .
+
+dialogue type : s^ba
+A :  We 're really lucky the two that we kept .
+
+dialogue type : s^bd
+A : 
+
+dialogue type : s.%-
+A :  Yeah , but still . I mean , I d it 's just a matter of we w we 're we 've got , uh ,
+
+dialogue type : s
+A :  two of the ones who who , um , ha had been putting in a lot of hours up to this point and they 're continuing to put in a a lot of hours ,
+
+dialogue type : s^ba
+A :  which is wonderful , and excellent work .
+
+dialogue type : s^cc
+A :  And so , then , in addition , um , I hired two more today and I 'm planning to h hire a third one with this within this coming week ,
+
+dialogue type : s
+A :  but but the plan is just as , uh , Morgan was saying we discussed this , and the plan right now is to keep the staff on the on the leaner side ,
+
+dialogue type : qy^d^g^rt
+A :  you know ,
+
+dialogue type : s^e
+A :  rather than hiring , like , eight to ten right now ,
+
+dialogue type : s^df
+A :  because if the IBM thing comes through really quickly , then , um , we wouldn't wanna have to , uh , you know , lay people off and stuff .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^df
+A :  And this way it 'll I mean , I got really a lot of response for for my notice
+
+dialogue type : s
+A :  and I think I could hire additional people if I wish to .
+
+dialogue type : s^aa
+A :  Oh , yes .
+
+dialogue type : s^ba
+A :  Good .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^ba^tc
+A :  The the the pre - segmentations are so much are s so extremely helpful .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A : 
+
+dialogue type : s
+A :  f for just very few days you were away .
+
+dialogue type : s
+A :  But it happened to be during that time I needed one ,
+
+dialogue type : s
+A :  so I so I started them on the non - pre - segmented and then switched them over to yours
+
+dialogue type : fh|s
+A :  and , um , they , um you know , they always appreciate that when they have that available .
+
+dialogue type : s.%--
+A :  And he 's , uh , usually , eh , uh , um Um .
+
+dialogue type : s
+A :  So they really appreciate it .
+
+dialogue type : s
+A :  But I was gonna say that they do adjust it once in a while .
+
+dialogue type : s.%--
+A :  You know , once in a while there 's something like ,
+
+dialogue type : s^bu
+A :  um , and e Actually you talked to them .
+
+dialogue type : qy^g
+A :  Didn't you ?
+
+dialogue type : qy.%-
+A :  Did you ? Have you ?
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I mean , They 're very perceptive .
+
+dialogue type : s
+A :  I really want to have this meeting of the transcribers .
+
+dialogue type : s^cc
+A :  I haven't done it yet , but I wanna do that
+
+dialogue type : s^cc
+A :  and she 's out of town , um , for a couple of weeks , but I wanna do that when she returns .
+
+dialogue type : fh|s^df
+A :  Um , cuz she was saying , you know , in a in a span of very short period we asked It seems like the ones that need to be adjusted are these these these things ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  you know , I mean , you 're You 're aware of this .
+
+dialogue type : s^ba
+A :  But but actually i it 's so correct for so much of the time , that it 's an enormous time saver
+
+dialogue type : s
+A :  and it just gets tweaked a little around the boundaries .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : fh|s^cs
+A :  Um . Yeah . I think it 'd be interesting to combine these .
+
+dialogue type : s^na
+A :  You could do it .
+
+dialogue type : s.%--
+A :  It 's it 's complicated in that um , hhh , i hhh , i
+
+dialogue type : s
+A :  There is a there is one problem with that and that is when they start part way through then what I do is I merge what they 've done with the pre - segmented version .
+
+dialogue type : s
+A :  So it 's not a pure it 's not a pure condition .
+
+dialogue type : s^cs
+A :  Wha - what you 'd really like is that they started with pre - segmented and were pre - segmented all the way through .
+
+dialogue type : %--
+A : 
+
+dialogue type : s
+A :  it wasn't possible for about four of the recent ones .
+
+dialogue type : s^cc
+A :  But , it will be possible in the future
+
+dialogue type : s^df.%--
+A :  because we we 're , um .
+
+dialogue type : s^ft.%
+A :  Thank you .
+
+dialogue type : s^ba
+A :  Um , interesting idea .
+
+dialogue type : s^aap
+A :  In principle , I I would say yes , although I still am doing some the final - pass editing ,
+
+dialogue type : s
+A :  trying to convert it over to the master file as the being the channelized version
+
+dialogue type : s^bd
+A :  and it 's Yeah , it seems like I get into that a certain way and then something else intervenes and I have to stop .
+
+dialogue type : s
+A :  Cleaning up the things like the , uh , uh , places where the transcriber was uncertain ,
+
+dialogue type : s
+A :  and and doing spot - checking here and there .
+
+dialogue type : fh|s^cs
+A :  So , um , uh , I guess it would make sense to wait until th that 's done ,
+
+dialogue type : fh|%-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : s
+A :  It 'll certainly be done by then . Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  That 's right .
+
+dialogue type : b
+A :  That 's right .
+
+dialogue type : s^aa|%-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : fg
+A : 
+
+dialogue type : s
+A :  Well , see , this is the this is the issue . Subtleties .
+
+dialogue type : s
+A :  The other thing , too , is there can be subtleties where a person uses this word instead of that word , which @ @ could 've been transcribed in the other way .
+
+dialogue type : s
+A :  And no and they wouldn't have been slanderous if it had been this other word .
+
+dialogue type : qy^d^f^g^rt
+A :  You know ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa^rt
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  I agree .
+
+dialogue type : s^aa^r
+A :  Mmm . I totally agree .
+
+dialogue type : s^cs
+A :  It 's just , uh , a question of , uh , if if the person is using the transcript as the way of them judging what they said and whether it was slanderous , then it seems like it 's it 's i it needs to be more correct than if we could count on them re - listening to the meeting .
+
+dialogue type : s^df
+A :  Because it becomes , eh , in a way a a f uh , a legal document
+
+dialogue type : s^e
+A :  i if they 've agreed to that .
+
+dialogue type : s^ng.%-
+A :  Well , if it 's only the transcript , though I mean , th this this is my point , that that
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^ng.%--
+A : 
+
+dialogue type : fg
+A :  Well .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^na
+A :  That would be simpler ,
+
+dialogue type : s^e
+A :  if we could count on them listening .
+
+dialogue type : s^ng
+A :  Unfortunately , uh , in in the sign thing that they signed , it says " transcripts " .
+
+dialogue type : s^e:s
+A :  " You 'll be you 'll be provided the transcripts when they 're available . "
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : b
+A :  Yes .
+
+dialogue type : s^2
+A :  It 's done , ready , available .
+
+dialogue type : b
+A :  Good .
+
+dialogue type : s^bu
+A :  Mine 's identical to yours .
+
+dialogue type : qy^g^rt
+A :  Is that correct ?
+
+dialogue type : s^bk
+A :  Oh . I see .
+
+dialogue type : s^bk
+A :  Oh . I see .
+
+dialogue type : b.%
+A :  Yeah .
+

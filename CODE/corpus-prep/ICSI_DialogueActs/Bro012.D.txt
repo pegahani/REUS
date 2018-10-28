@@ -1,0 +1,54 @@
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s.%
+D :  You can @ @ .
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : s^no
+D :  I don't @ @ .
+
+dialogue type : s
+D :  He Actually , I think that he say with the good VAD of from OGI
+
+dialogue type : s
+D :  and with the Alcatel VAD .
+
+dialogue type : s
+D :  And the experiment was sometime better , sometime worse .
+
+dialogue type : s^no
+D :  I don't remember .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^tc.%--
+D : 
+
+dialogue type : s
+D :  to work uh here in voiced - unvoiced detection .
+
+dialogue type : s
+D :  And we are looking in the uh signal .
+
+dialogue type : s^e
+D :  Not for foreigners .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Mm - hmm .
+

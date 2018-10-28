@@ -1,0 +1,645 @@
+dialogue type : z
+B :  OK we 're on
+
+dialogue type : z
+B :  and we seem to be working .
+
+dialogue type : z
+B :  We didn't crash we 're not crashing anymore
+
+dialogue type : z
+B :  and it really bothers me .
+
+dialogue type : z
+B :  You crashed crashed this morning ?
+
+dialogue type : z
+B :  I did not crash this morning .
+
+dialogue type : s^na
+B :  I do .
+
+dialogue type : s^r
+B :  I have agenda
+
+dialogue type : s
+B :  and it 's all me .
+
+dialogue type : s^df
+B :  Cuz no one sent me anything else .
+
+dialogue type : s^no
+B :  I have no idea
+
+dialogue type : s^df
+B :  but I just got it a few minutes ago .
+
+dialogue type : s^e
+B :  Right when you were in my office it arrived .
+
+dialogue type : qy
+B :  So , does anyone have any a agenda items other than me ?
+
+dialogue type : s
+B :  I actually have one more also which is to talk about the digits .
+
+dialogue type : s^ba
+B :  Oh , great .
+
+dialogue type : s^na
+B :  I have a short thing about digits
+
+dialogue type : s
+B :  and then uh I wanna talk a little bit about naming conventions ,
+
+dialogue type : s^df
+B :  although it 's unclear whether this is the right place to talk about it .
+
+dialogue type : s^cs
+B :  So maybe just talk about it very briefly
+
+dialogue type : s^e
+B :  and take the details to the people who for whom it 's relevant .
+
+dialogue type : s^t^tc
+B :  So the only thing I wanna say about digits is , we are pretty much done with the first test set .
+
+dialogue type : s
+B :  There are probably forms here and there that are marked as having been read that weren't really read .
+
+dialogue type : s
+B :  So I won't really know until I go through all the transcriber forms
+
+dialogue type : s
+B :  and extract out pieces that are in error .
+
+dialogue type : s
+B :  So I wa Uh . Two things .
+
+dialogue type : qw
+B :  The first is what should we do about digits that were misread ?
+
+dialogue type : s^cs
+B :  My opinion is , um , we should just throw them out completely ,
+
+dialogue type : s^cs^e
+B :  and have them read again by someone else .
+
+dialogue type : s
+B :  You know , the grouping is completely random ,
+
+dialogue type : s
+B :  so it it 's perfectly fine to put a a group together again
+
+dialogue type : s^e
+B :  of errors
+
+dialogue type : s^cs.%--
+B :  and have them re - read ,
+
+dialogue type : s
+B :  just to finish out the test set .
+
+dialogue type : s^cs
+B :  Um , the other thing you could do is change the transcript to match what they really said .
+
+dialogue type : s
+B :  So those are those are the two options .
+
+dialogue type : s
+B :  What the transcribers did with that is if they did a correction , and they eventually did read the right string , you extract the right string .
+
+dialogue type : s^aa|s^e
+B :  Yeah . And didn't notice .
+
+dialogue type : s^e
+B :  Which happens in a few places .
+
+dialogue type : fg
+B : 
+
+dialogue type : s^aa
+B :  Correct .
+
+dialogue type : s^rt
+B :  And so the the two options are change the transcript to match what they really said ,
+
+dialogue type : s^df
+B :  but then but then the transcript isn't the Aurora test set anymore .
+
+dialogue type : s
+B :  I don't think that really matters
+
+dialogue type : s^df
+B :  because the conditions are so different .
+
+dialogue type : s^ba
+B :  And that would be a little easier .
+
+dialogue type : s^rt
+B :  Mmm , five or six times .
+
+dialogue type : s^aa|s^na
+B :  No , it 's not much at all .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bc
+B :  Four thousand .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  Four thousand lines .
+
+dialogue type : s
+B :  And each line is between one and about ten digits .
+
+dialogue type : s
+B :  I didn't I didn't compute the average .
+
+dialogue type : s
+B :  I think the average was around four or five .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : b
+B :  Yep .
+
+dialogue type : s
+B :  And , Jane , I do have a set of forms which I think you have copies of somewhere .
+
+dialogue type : s^bk|qy^bu^d
+B :  Oh you do ?
+
+dialogue type : s^bk|s^ba
+B :  Oh OK , good , good .
+
+dialogue type : s^df.%--
+B :  Yeah , I was just wond
+
+dialogue type : s
+B :  I thought I had had all of them back from you .
+
+dialogue type : s
+B :  And then the other thing is that , uh , the forms in front of us here that we 're gonna read later , were suggested by Liz
+
+dialogue type : s^df
+B :  because she wanted to elicit some different prosodics from digits .
+
+dialogue type : s^co
+B :  And so , uh , I just wanted people to , take a quick look at the instructions
+
+dialogue type : s
+B :  and the way it wa worked and see if it makes sense
+
+dialogue type : s
+B :  and if anyone has any comments on it .
+
+dialogue type : h|s^aa^rt
+B :  Uh , yes ,
+
+dialogue type : s^cs
+B :  although we could switch it back .
+
+dialogue type : s
+B :  The problem was O and zero .
+
+dialogue type : s^cs
+B :  Although we could switch it back and tell them always to say " zero " or always to say " O " .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Sure .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s
+B :  The the problem also is she did want to stick with digits .
+
+dialogue type : s^df
+B :  I mean I 'm speaking for her since she 's not here .
+
+dialogue type : s
+B :  But , um , the other problem we were thinking about is if you just put the numerals , they might say forty - three instead of four three .
+
+dialogue type : s
+B :  Well , she and I were talking about it ,
+
+dialogue type : s
+B :  and she felt that it 's very , very natural to do that sort of chunking .
+
+dialogue type : s^na
+B :  Not very frequently
+
+dialogue type : s^df
+B :  but , they certainly could .
+
+dialogue type : fg|s
+B :  So . I mean , this is something that Liz and I spoke about
+
+dialogue type : s^cs
+B :  and , since this was something that Liz asked for specifically , I think we need to defer to her .
+
+dialogue type : s^2
+B :  Do something different ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s
+B :  It was .
+
+dialogue type : s^2
+B :  Joint .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  that 's not on our side , that 's on the U - dub side .
+
+dialogue type : s
+B :  And so U - UW set it up as a moderated list .
+
+dialogue type : s^no
+B :  And , I have no idea whether it actually ever goes to anyone
+
+dialogue type : s^cs
+B :  so you might just wanna mail to Mari
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bk|s^ba
+B :  OK , good .
+
+dialogue type : s
+B :  So the moderator actually did repost it .
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  Actually the same thing happened to me I had sent one earlier .
+
+dialogue type : s:s
+B :  The message says , " You 'll be informed "
+
+dialogue type : s
+B :  and then I was never informed
+
+dialogue type : s
+B :  but I got replies from people indicating that they had gotten it ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : s
+B :  It 's just to prevent spam .
+
+dialogue type : qw^rt
+B :  When 's when 's the full proposal due ?
+
+dialogue type : s^bk
+B :  Yep .
+
+dialogue type : s^rt
+B :  And they said end of business day you could check on the reviewer forms ,
+
+dialogue type : qy.%-
+B : 
+
+dialogue type : s
+B :  I 've been a day off all week .
+
+dialogue type : s^ba
+B :  I guess that 's a good thing
+
+dialogue type : s^df
+B :  cuz that way I got my papers done early .
+
+dialogue type : s^na
+B :  It is . It is actually quite amazing .
+
+dialogue type : b
+B :  Yep .
+
+dialogue type : s
+B :  Or " this is way too general " ,
+
+dialogue type : s
+B :  and the other reviewer says , " this is way too specific " .
+
+dialogue type : s
+B :  " This is way too hard " ,
+
+dialogue type : s
+B :  " way too easy " .
+
+dialogue type : s^bu^rt
+B :  Well it sounded like they they the first gate was pretty easy .
+
+dialogue type : qy^g^rt
+B :  Is that right ?
+
+dialogue type : s^e^rt
+B :  That they didn't reject a lot of the pre - proposals ?
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : %-
+B :  Just just th
+
+dialogue type : b
+B :  Yeah , OK .
+
+dialogue type : s
+B :  Or something like that ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : qw^rt
+B :  How how many awards are there ,
+
+dialogue type : qy^e^rt
+B :  do you know ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  I thought it was smaller ,
+
+dialogue type : s
+B :  that it was like four or five ,
+
+dialogue type : qy
+B :  wasn't it ?
+
+dialogue type : s^ba
+B :  Uh it doesn't matter ,
+
+dialogue type : s^df
+B :  we 'll find out one way or another .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  Exactly what we say in the proposal .
+
+dialogue type : fg|s
+B :  Yeah it 's go higher level stuff than we 've been talking about for Meeting Recorder .
+
+dialogue type : b
+B :  Yep .
+
+dialogue type : qy^rt
+B :  Are there any students in your class who are expressing interest ?
+
+dialogue type : s^e
+B :  Other than the one who 's already here .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yep .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : s
+B :  It just , uh we 've been cutting up sound files , in for ba both digits and for , uh , doing recognition .
+
+dialogue type : s
+B :  And Liz had some suggestions on naming
+
+dialogue type : s
+B :  and it just brought up the whole issue that hasn't really been resolved about naming .
+
+dialogue type : s
+B :  So , uh , one thing she would like to have is for all the names to be the same length
+
+dialogue type : s^df
+B :  so that sorting is easier .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s^e
+B :  same number of characters
+
+dialogue type : s^df
+B :  so that when you 're sorting filenames you can easily extract out bits and pieces that you want .
+
+dialogue type : s^ba
+B :  And that 's easy enough to do .
+
+dialogue type : s
+B :  And I don't think we have so many meetings that that 's a big deal just to change the names .
+
+dialogue type : s
+B :  So that means , uh , instead of calling it " MR one " , " MR two " , you 'd call it " MRM zero zero one " ,
+
+dialogue type : s
+B :  " MRM zero zero two " , things like that .
+
+dialogue type : s
+B :  Just so that they 're they 're all the same length .
+
+dialogue type : s
+B :  The problem is that they 're a lot of fields .
+
+dialogue type : s^f
+B :  Alright ,
+
+dialogue type : s^df^e
+B :  so we we have th we 're gonna have the speaker ID ,
+
+dialogue type : s
+B :  the session ,
+
+dialogue type : fh
+B :  uh uh ,
+
+dialogue type : s
+B :  information on the microphones ,
+
+dialogue type : s
+B :  information on the speak on the channels and all that .
+
+dialogue type : s^ba
+B :  And so if each one of those is a fixed length , the sorting becomes a lot easier .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : s^ba
+B :  And as I said , the it 's we just don't have that many that that 's a big deal .
+
+dialogue type : s^cs.%--
+B :  And so , uh , um , at some point we have to sort of take a few days off ,
+
+dialogue type : s^cs^e
+B :  let the transcribers have a few days off ,
+
+dialogue type : s^cs^e
+B :  make sure no one 's touching the data
+
+dialogue type : s^cs^e
+B :  and reorganize the file structures .
+
+dialogue type : s
+B :  And when we do that we can also rationalize some of the naming .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : fg|s
+B :  Right . So the only thing that would change with that is just the directory names ,
+
+dialogue type : s
+B :  I would change them to match .
+
+dialogue type : s
+B :  So instead of being MR one it would be MRM zero zero one .
+
+dialogue type : s^ba
+B :  But I don't think that 's a big deal .
+
+dialogue type : s
+B :  So for for m the meetings we were thinking about three letters and three numbers
+
+dialogue type : s
+B :  for meeting I Ds .
+
+dialogue type : s
+B :  Uh , for speakers , M or F and then three numbers ,
+
+dialogue type : fh
+B :  For , uh and , uh ,
+
+dialogue type : s^cs
+B :  that also brings up the point that we have to start assembling a speaker database so that we get those links back and forth
+
+dialogue type : s
+B :  and keep it consistent .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s
+B :  and then , uh , the microphone issues .
+
+dialogue type : s
+B :  We want some way of specifying , more than looking in the " key " file , what channel and what mike . What channel , what mike , and what broadcaster .
+
+dialogue type : s^df^no
+B :  Or I don't know how to s say it .
+
+dialogue type : s
+B :  So I mean with this one it 's this particular headset with this particular transmitter w as a wireless .
+
+dialogue type : s
+B :  And you know that one is a different headset and different channel .
+
+dialogue type : s
+B :  And so we just need some naming conventions on that .
+
+dialogue type : fh
+B :  And , uh ,
+
+dialogue type : s^ba
+B :  that 's gonna become especially important once we start changing the microphone set - up .
+
+dialogue type : s
+B :  We have some new microphones that I 'd like to start trying out ,
+
+dialogue type : fh
+B :  um ,
+
+dialogue type : s
+B :  once I test them .
+
+dialogue type : s
+B :  And then we 'll we 'll need to specify that somewhere .
+
+dialogue type : s
+B :  So I was just gonna do a fixed list of , uh , microphones and types .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^co^fe^j
+B :  Open wide !
+
+dialogue type : s^fa^t3
+B :  Sorry .
+
+dialogue type : s^t1
+B :  Keep forgetting .
+
+dialogue type : %-
+B :  Well
+
+dialogue type : s^nd
+B :  The P D A might not have to ,
+
+dialogue type : s^df
+B :  but more people than just PDA users are interested in this corpus .
+
+dialogue type : s
+B :  So so mean you 're right
+
+dialogue type : s
+B :  we could remove it ,
+
+dialogue type : s^cs
+B :  but I I think we don't wanna w remove it from the corpus , in terms of delivering it
+
+dialogue type : s^df
+B :  because the people will want it in there .
+
+dialogue type : s^bk|s^bu
+B :  Oh , just to save the transcribers time .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy^bu^d^j^rt
+B :  They have lots of experience with breathing ?
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : z
+B :  OK .
+

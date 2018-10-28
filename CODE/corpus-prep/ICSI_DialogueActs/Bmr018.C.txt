@@ -1,0 +1,993 @@
+dialogue type : z
+C :  Yeah , go ahead .
+
+dialogue type : z
+C :  Alright , and no crash .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Hmm , no connection .
+
+dialogue type : z
+C :  I don't know when would be a good excuse for it ,
+
+dialogue type : z
+C :  but I just can't wait to be giving a talk t and and and use the example from last week with everybody t doing the digits at once .
+
+dialogue type : z
+C :  I 'd love to play somebody that .
+
+dialogue type : z
+C :  It was .
+
+dialogue type : z
+C :  It was really efficient .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Everybody give the reports about what they were doing at exactly the same time ,
+
+dialogue type : z
+C :  yeah .
+
+dialogue type : z
+C :  Actually isn't that what we have been doing ?
+
+dialogue type : qw^t^tc
+C :  What are we doing ?
+
+dialogue type : fg|s.%-
+C : 
+
+dialogue type : qw^bu^j
+C :  What conference ?
+
+dialogue type : s^aa
+C :  That is right .
+
+dialogue type : s
+C :  The next weekend .
+
+dialogue type : s
+C :  That 's when they 're coming .
+
+dialogue type : s^aa
+C :  That 's correct .
+
+dialogue type : s^ar|sj^ba
+C :  No , but that would be a good idea .
+
+dialogue type : s^cs.%-
+C :  Why don't we w
+
+dialogue type : s
+C :  They 're not even gonna be here until eleven or so .
+
+dialogue type : s^e
+C :  Cuz they 're flying up that day .
+
+dialogue type : s^ng
+C :  Saturday .
+
+dialogue type : s^r
+C :  Saturday .
+
+dialogue type : s^bu^r
+C :  S Saturday .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bsc
+C :  down from Seattle .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s
+C :  and they 'll end up here .
+
+dialogue type : s
+C :  So b and also Brian Kingsbury is actually flying from , uh , the east coast on that that morning .
+
+dialogue type : s
+C :  So , i I I will be I mean , he 's taking a very early flight
+
+dialogue type : s
+C :  and we do have the time work difference running the right way ,
+
+dialogue type : sj
+C :  but I still think that there 's no way we could start before eleven .
+
+dialogue type : s
+C :  It might end up really being twelve .
+
+dialogue type : s^rt
+C :  So when we get closer we 'll find people 's plane schedules , and let everybody know .
+
+dialogue type : fh|sj^ba
+C :  Uh , So . That 's good .
+
+dialogue type : s^cs
+C :  Well we can start gathering those those ideas ,
+
+dialogue type : s^co
+C :  but then we we should firm it up by next next Thursday 's meeting .
+
+dialogue type : s^arp
+C :  Yes
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^am
+C :  Yeah .
+
+dialogue type : qy^rt
+C :  Can we pipeline it so that say there 's , uh , the transcriber gets done with a quarter of the meeting and then we you run it through this other other stuff ?
+
+dialogue type : fh
+C :  Uh ,
+
+dialogue type : fg
+C :  OK , so .
+
+dialogue type : s^aa
+C :  Oh , that 's right .
+
+dialogue type : s^bu
+C :  So the first thing is the automatic thing ,
+
+dialogue type : s^e
+C :  and then it 's then it 's then it 's the transcribers tightening stuff up ,
+
+dialogue type : s^e
+C :  and then it 's IBM .
+
+dialogue type : s^cs
+C :  OK , so you might as well ha run the automatic thing over the entire meeting ,
+
+dialogue type : s
+C :  and then and then , uh , you would give IBM whatever was fixed .
+
+dialogue type : s^aap
+C :  Well , yeah , but start from the beginning and go to the end ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s
+C :  So if they were only half way through then that 's what you 'd give IBM .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : qw.%-
+C :  Why wouldn't we s @ @ w
+
+dialogue type : qw.%--
+C : 
+
+dialogue type : qy
+C :  I mean i are we trying to get something done by the time Brian comes ?
+
+dialogue type : sj
+C :  So if we if we were , then it seems like giving them something , whatever they had gotten up to , would be better than nothing .
+
+dialogue type : s^bu
+C :  So you 're talking about tightening up time boundaries ?
+
+dialogue type : qw.%-
+C : 
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  I 'm I 'm now entirely confused about what they do .
+
+dialogue type : fh|qy^bu^d^rt
+C :  So , they 're they 're looking at a mixed signal ,
+
+dialogue type : qrr^rt.%--
+C : 
+
+dialogue type : qw
+C :  what what are they looking at visually ?
+
+dialogue type : s^bu
+C :  But the procedure that you 're imagining , I mean , people vary from this , is that they have the mixed signal wave form in front of them ,
+
+dialogue type : s.%--
+C :  and they have multiple ,
+
+dialogue type : fh|s
+C :  uh , well , let 's see , there isn't we don't have transcription yet .
+
+dialogue type : fh|s^bu
+C :  So but there 's markers of some sort that have been happening automatically ,
+
+dialogue type : qy^bu^d^rt
+C :  and those show up on the mixed signal ?
+
+dialogue type : qy^rt
+C :  There 's a @ @ clicks ?
+
+dialogue type : s^bk^m
+C :  There 're separate ribbons .
+
+dialogue type : qy^rt
+C :  And is there a line moving across the waveform as it goes ?
+
+dialogue type : s^bk|s^bu
+C :  OK , so The way you 're imaging is they kind of play it ,
+
+dialogue type : s^bu
+C :  and they see oh this happened , then this happened , then and if it 's about right , they just sort of let it slide ,
+
+dialogue type : s^bu
+C :  and if it if it there 's a question on something , they stop and maybe look at the individual wave form .
+
+dialogue type : s
+C :  They they might look at it ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s^bk
+C :  Uh - huh .
+
+dialogue type : fg
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^bs
+C :  But right now , to do this limitation , the switching is going to be switching of the audio ? Is what she 's saying .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bu
+C :  so they 're using their ears to do these markings anyway .
+
+dialogue type : fg|qy^d^rt^tc
+C :  So , um , Done with that ?
+
+dialogue type : s^df
+C :  Does any I forget ,
+
+dialogue type : qy^rt
+C :  does anybody , uh , working on any any Eurospeech submission related to this ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s.%--
+C :  Yeah there was that we
+
+dialogue type : s^bk
+C :  that 's right ,
+
+dialogue type : s
+C :  we had that one conversation about , uh , what what what did it mean for , uh , one of those speakers to be pathological ,
+
+dialogue type : qy.%-
+C : 
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  There 's zero , a little bit , and a lot .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Y yeah .
+
+dialogue type : qy^bu
+C :  Oh was it fifteen ?
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s.%-
+C :  What we 're calling .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ar
+C :  No , but there 's a little difference ,
+
+dialogue type : s
+C :  and we haven't looked at it for digits ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : fh
+C :  And so ,
+
+dialogue type : s
+C :  cuz because what he was what I was saying when I looked at those things is it it I was almost gonna call it quadrimodal because because there was a whole lot of cases where it was zero percent .
+
+dialogue type : s
+C :  They just plain got it all right .
+
+dialogue type : s
+C :  And then there and then there was another bunch that were couple percent or something .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : b
+C :  yeah .
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : b^rt
+C :  Yeah .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : qy^bu^d^rt
+C :  Unless maybe we do this , uh , um , cancellation business .
+
+dialogue type : s|s^bk
+C :  Oh , the short amount of time thing , right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Well
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  that you 're not gonna miss something ,
+
+dialogue type : s^bk
+C :  yeah .
+
+dialogue type : s^aa
+C :  That 's what he just said .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s
+C :  Well I know what we 're not turning in to Eurospeech ,
+
+dialogue type : s
+C :  a redo of the HLT paper .
+
+dialogue type : s
+C :  That I don't wanna do that ,
+
+dialogue type : fh
+C :  but .
+
+dialogue type : s^j
+C :  Bleep .
+
+dialogue type : s
+C :  You know , that wa that was the battery meter saying that it was fully charged ,
+
+dialogue type : fh
+C :  yeah .
+
+dialogue type : b^rt
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah , yeah , yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s.%--
+C : 
+
+dialogue type : s
+C :  these are conferences that have d really different emphases .
+
+dialogue type : s
+C :  Whereas HLT and and Eurospeech , pretty pretty pretty similar , so I I I can't see really just putting in the same thing ,
+
+dialogue type : fg
+C : 
+
+dialogue type : b^rt
+C :  Yeah .
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  I mean , I would see Eurospeech if we have some Eurospeech papers , these will be paper p p uh , submissions .
+
+dialogue type : s
+C :  These will be things that are particular things ,
+
+dialogue type : s
+C :  aspects of it that we 're looking at , rather than , you know , attempt at a global paper about it .
+
+dialogue type : b
+C :  Well .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  See ya .
+
+dialogue type : s
+C :  I don't think we 'll go much longer .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : s
+C :  see ya .
+
+dialogue type : h|s
+C :  Well , but I had it on I had it on this morning and it was fine .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^cs^j.%--
+C : 
+
+dialogue type : s^aa^j
+C :  Yeah
+
+dialogue type : sj^ba^j
+C :  that 's good !
+
+dialogue type : s^j^m
+C :  Hang a five pound weight off the off the back .
+
+dialogue type : s^r
+C :  Weight .
+
+dialogue type : s^cs
+C :  Or maybe this could be helpful just for evening the conversation between people .
+
+dialogue type : s^cs^j
+C :  If people those who talk a lot have to wear heavier weights or something ,
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  and um ,
+
+dialogue type : fg|qw
+C :  um , so , uh , what was I gonna say ?
+
+dialogue type : s
+C :  Oh , yeah , I was gonna say , uh , I had these , uh , conversations with NIST folks also while I was there
+
+dialogue type : s
+C :  and and , uh , um , so they they have their their plan for a room , uh , with , um , mikes in the middle of the table , and , uh , close - mounted mikes ,
+
+dialogue type : s.%--
+C :  and they 're talking about close - mounted and lapels , just cuz
+
+dialogue type : s^aa^m
+C :  sort of and the array .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  And yeah , like multiple multiple video cameras coverin covering every everybody every place in the room ,
+
+dialogue type : fh|s.%--
+C : 
+
+dialogue type : s
+C :  well , there 's some discussion of fifty - nine ,
+
+dialogue type : s
+C :  they might go down to fifty - seven
+
+dialogue type : s^df
+C :  Because , uh , there is , uh , some pressure from a couple people at the meeting for them to use a KEMAR head .
+
+dialogue type : s
+C :  I forget what KEMAR , uh , stands for ,
+
+dialogue type : s
+C :  but what it is is it 's dummy head that is very specially designed ,
+
+dialogue type : s
+C :  and and and , so what they 're actually doing is they 're really there 's really two recording systems .
+
+dialogue type : s
+C :  So they may not be precisely synchronous , but the but there 's two two recording systems ,
+
+dialogue type : s^e
+C :  one with , I think , twenty - four channels , and one with sixty - four channels .
+
+dialogue type : s^e
+C :  And the sixty - four channel one is for the array ,
+
+dialogue type : s
+C :  but they 've got some empty channels there ,
+
+dialogue type : fh|s
+C :  and anyway they like they 're saying they may give up a couple or something if for for the KEMAR head if they go go with that .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Yeah , I 'm not too worried about that .
+
+dialogue type : s
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  No , we just had some discussions , various discussions with them .
+
+dialogue type : h|s
+C :  Um , yeah , we sh we should just have you have you read it , but , I mea ba i i uh , we 've all got these little proceedings ,
+
+dialogue type : fh|s
+C :  but , um , basically , it was about , um , uh , going to a new task where you have insufficient data and using using data from something else , and adapting , and how well that works .
+
+dialogue type : fh|s.%--
+C :  Uh , so in in fact it was pretty related to what Liz and Andreas did , uh , except that this was not with meeting stuff , it was with
+
+dialogue type : fh|qy^rt
+C :  uh , like I think they s didn't they start off with Broadcast News system ?
+
+dialogue type : s^rt.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^rt
+C :  TI - digits was one of them , and , uh , Wall Street Journal .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah , yeah .
+
+dialogue type : s^am
+C :  Probably .
+
+dialogue type : sj
+C :  That might be hard .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : b
+C :  sure .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Yeah , and they have I mean they have better adaptation than we had than that that system ,
+
+dialogue type : %-
+C : 
+
+dialogue type : h
+C :  um ,
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : s
+C :  actually what we should do , uh , I haven't said anything about this ,
+
+dialogue type : s^cs^e
+C :  but probably the five of us should pick out a paper or two that that , uh , you know , got our interest ,
+
+dialogue type : s^cc
+C :  and we should go around the room at one of the Tuesday lunch meetings and say , you know , what what was good about the conference ,
+
+dialogue type : s^aa^rt
+C :  yeah .
+
+dialogue type : qy^d^rt
+C :  Columbia have anything ?
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : sj^ba
+C :  Yeah , that was an interesting discussion ,
+
+dialogue type : fh|%-
+C :  uh , I
+
+dialogue type : s^ng
+C :  Well , I didn't have as much disagreement as I would have liked ,
+
+dialogue type : s^e
+C :  but I didn't wanna I wouldn I didn't wanna get into it because , uh , you know , it was the application was one I didn't know anything about ,
+
+dialogue type : fh|s
+C :  uh , it just would have been , you know , me getting up to be argumentative ,
+
+dialogue type : fh
+C :  but but , uh ,
+
+dialogue type : s.%--
+C :  I mean , the missing thi
+
+dialogue type : fh|s
+C : 
+
+dialogue type : s
+C :  But I mea i wh it @ @ that 's that 's dissing it , uh , improperly ,
+
+dialogue type : s
+C :  I mean , it was a nice study .
+
+dialogue type : fh|s.%-
+C : 
+
+dialogue type : qy^rt
+C :  was it w was it word - sense ?
+
+dialogue type : s^bk
+C :  Yes .
+
+dialogue type : fg
+C :  Yeah , yeah .
+
+dialogue type : fg
+C :  OK .
+
+dialogue type : fg
+C :  Right .
+
+dialogue type : fg|s
+C :  And so , what they did was they had these different kinds of learning machines , and they had different amounts of data ,
+
+dialogue type : s
+C :  and so they did like , you know , eight different methods that everybody , you know , uh , argues about about , " Oh my my kind of learning machine is better than your kind of learning machine . "
+
+dialogue type : fh|s
+C :  And , uh , they were started off with a million words that they used ,
+
+dialogue type : s^e
+C :  which was evidently a number that a lot of people doing that particular kind of task had been using .
+
+dialogue type : s
+C :  So they went up , being Microsoft , they went up to a billion .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh|s.%-
+C : 
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  well , it 's a big company ,
+
+dialogue type : s
+C :  I didn't I didn't mean it as a ne anything negative ,
+
+dialogue type : %--
+C :  but i i i
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  But , I mean , yes .
+
+dialogue type : s
+C :  Of course there was the kind of effect that , you know , one would expect that uh that you got better and better performance with more and more data .
+
+dialogue type : fh|s
+C :  Um , but the the real point was that the the different learning machines are sort of all over the place ,
+
+dialogue type : s
+C :  and and by by going up significantly in data you can have much bigger effect then by switching learning machines
+
+dialogue type : s
+C :  and furthermore which learning machine was on top kind of depended on where you were in this picture ,
+
+dialogue type : fh
+C :  so ,
+
+dialogue type : fh
+C :  uh ,
+
+dialogue type : qw^d.%--
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Yeah ,
+
+dialogue type : s^am
+C :  could well be .
+
+dialogue type : fh|s
+C :  So so , I mean , that was that was kind of , you know , it 's a good point ,
+
+dialogue type : sj
+C :  but the problem I had with it was that the implications out of this was that , uh , the kind of choices you make about learning machines were therefore irrelevant
+
+dialogue type : s
+C :  which is not at n t as for as I know in in tasks I 'm more familiar with @ @ is not at all true .
+
+dialogue type : s
+C :  What i what is is true is that different learning machines have different properties ,
+
+dialogue type : s
+C :  and you wanna know what those properties are .
+
+dialogue type : s
+C :  And someone else sort of implied that well we s you know , a all the study of learning machine we still don't know what those properties are .
+
+dialogue type : s^rt
+C :  We don't know them perfectly , but we know that some kinds use more memory and and some other kinds use more computation
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : %-
+C :  It w
+
+dialogue type : s^am
+C :  Yeah .
+
+dialogue type : s
+C :  Eventually .
+
+dialogue type : s.%-
+C :  O one would
+
+dialogue type : h
+C : 
+
+dialogue type : s.%--
+C :  well that 's getting cl
+
+dialogue type : fh
+C :  I mean ,
+
+dialogue type : s^aap
+C :  yeah , the spread was still pretty wide that 's th that 's true ,
+
+dialogue type : s^df
+C :  but but , uh , I think it would be irntu intu intuition that this would be the case ,
+
+dialogue type : s
+C :  but , uh , to really see it and to have the intuition is quite different ,
+
+dialogue type : fh|s^rt
+C :  I mean , I think somebody w w let 's see who was talking about earlier that the effect of having a lot more data is quite different in Switchboard than it is in in Broadcast News ,
+
+dialogue type : b
+C :  yeah .
+
+dialogue type : b^rt
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^tc.x
+C :  But anyway , I I I think it 's it 's just the the i it 's it 's it 's not really the conclusion they came to so much , as the conclusion that some of the , uh , uh , commenters in the crowd came up with
+
+dialogue type : s
+C :  that , uh , you know , this therefore is further evidence that , you know , more data is really all you should care about ,
+
+dialogue type : sj
+C :  and that I thought was just kind of going too far the other way ,
+
+dialogue type : %--
+C :  and and the the , uh ,
+
+dialogue type : s
+C :  one one person ga g g got up and made a a brief defense ,
+
+dialogue type : fh|s
+C :  uh , but it was a different kind of grounds ,
+
+dialogue type : s
+C :  it was that that , uh , i w the reason people were not using so much data before was not because they were stupid or didn't realize data was important , but in fact th they didn't have it available .
+
+dialogue type : fh|s
+C :  Um , but the other point to make a again is that , uh , machine learning still does matter ,
+
+dialogue type : s^rt
+C :  but it it matters more in some situations than in others ,
+
+dialogue type : s
+C :  and it and also there 's there 's not just mattering or not mattering , but there 's mattering in different ways .
+
+dialogue type : s
+C :  I mean , you might be in some situation where you care how much memory you 're using ,
+
+dialogue type : s
+C :  or you care , you know , what recall time is ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  And there 's cost !
+
+dialogue type : s^r
+C :  There 's just plain cost ,
+
+dialogue type : qh
+C :  you know ,
+
+dialogue type : fh|s.%--
+C : 
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  one person has a system that requires ten thousand hours to train on , and the other only requires a hundred ,
+
+dialogue type : s
+C :  and they both do about the same because the hundred hour one was smarter ,
+
+dialogue type : sj^ba
+C :  that 's that 's gonna be better .
+
+dialogue type : s^df
+C :  because people , I mean , there isn't gonna be just one system that people train on
+
+dialogue type : s
+C :  and then that 's it for the r for all of time .
+
+dialogue type : s
+C :  I mean , people are gonna be doing other different things , and so it these these things matters matter .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fh
+C :  Anyway ,
+
+dialogue type : s
+C :  tea is tea is , uh , starting .
+
+dialogue type : s^cc
+C :  Let 's do it all at once .
+
+dialogue type : s^cc
+C :  We @ @ let 's try that again .
+
+dialogue type : z
+C :  Boy , is that ever efficient .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Yeah .
+

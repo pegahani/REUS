@@ -1,0 +1,369 @@
+dialogue type : z
+E :  Is it on ?
+
+dialogue type : qw^rt
+E :  What meeting ?
+
+dialogue type : qw^rt
+E :  Who 's coming ?
+
+dialogue type : %-
+E :  Wha
+
+dialogue type : qy^rt
+E :  What about , uh , is there anything new with the speech , nonspeech stuff ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^rt
+E :  Can we get these , wireless ?
+
+dialogue type : qy.%-
+E :  Is it because
+
+dialogue type : qy^bu^d^rt
+E :  You you 're saying the for dialogue purposes ,
+
+dialogue type : qy^bu^rt
+E :  so that means that the transcribers are having trouble with those mikes ?
+
+dialogue type : qy^rt
+E :  Is that what you mean ?
+
+dialogue type : qrr.%--
+E :  Or ?
+
+dialogue type : s^2^j
+E :  Especially for people with big heads .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ba
+E :  That would be cool .
+
+dialogue type : s^ba^m
+E :  That would be really neat .
+
+dialogue type : s^cs^tc
+E :  That that reminds me , I had a a thought of an interesting project that somebody could try to do with the data from here ,
+
+dialogue type : s^cs^e
+E :  either using , you know , the the mikes on the table or using signal energies from the head worn mikes ,
+
+dialogue type : s^cs^e
+E :  and that is to try to construct a map of where people were sitting ,
+
+dialogue type : fh|s.%-
+E : 
+
+dialogue type : qy^bu^rt
+E :  Oh , did he ?
+
+dialogue type : s^ba
+E :  Oh , that 's interesting .
+
+dialogue type : s^bu
+E :  And so you could plot out who was sitting next to who
+
+dialogue type : fh
+E : 
+
+dialogue type : s^bk
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s
+E :  Well I was just thinking , you know , as I was sitting here next to Thilo that um , when he 's talking , my mike probably picks it up better than your guys 's mikes .
+
+dialogue type : s^cs.%-
+E : 
+
+dialogue type : fg|s
+E :  yeah , looked at the energy on my mike and you could get an idea about who 's closest to who .
+
+dialogue type : fh
+E : 
+
+dialogue type : qy^rt
+E :  Are they going to do video as well ?
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qy^bu^rt
+E :  So there 's no like portable array of mikes ?
+
+dialogue type : s^fe
+E :  Wow .
+
+dialogue type : s
+E :  I 've seen demonstrations of the microphone arrays . It 's amazing how how they can cut out noise .
+
+dialogue type : b
+E :  Huh .
+
+dialogue type : qy^bu^d^rt
+E :  So to save that data you You have to have one channel recording per mike in the array ?
+
+dialogue type : qy.%-
+E : 
+
+dialogue type : s^e
+E :  What you save , I mean , if you 're going to do research with it . yeah
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^bk
+E :  Uh , oh , OK , I see .
+
+dialogue type : s^bs
+E :  Sort of saving the result of the beam - forming .
+
+dialogue type : qy^rt
+E :  Is there an interest in getting video recordings for these meetings ?
+
+dialogue type : s.%--
+E :  I mean
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^bs.%-
+E : 
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^bu
+E :  You were here at a meeting before .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^2^j
+E :  Usually .
+
+dialogue type : qw^rt
+E :  How big is the data set ?
+
+dialogue type : s^bk
+E :  Ah , OK .
+
+dialogue type : b^rt
+E :  Uh - huh .
+
+dialogue type : s^ba^fe
+E :  Wow .
+
+dialogue type : qy^rt
+E :  Is this the project that 's sort of , uh , between , uh , NIST and and , uh , a couple of other places ?
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa
+E :  Yeah ,
+
+dialogue type : s^aa
+E :  y right ,
+
+dialogue type : b
+E :  OK .
+
+dialogue type : %-
+E : 
+
+dialogue type : qy^rt
+E :  The the folks that they 're , uh , subcontracting out the transcription to , are they like court reporters
+
+dialogue type : qrr.%--
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qy^bu^d^rt
+E : 
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^bu
+E :  Oh , so they 're hiring them , they 're coming . It 's not a service they send the tapes out to .
+
+dialogue type : s^fe
+E :  Ah !
+
+dialogue type : s^bk
+E :  Oh . OK .
+
+dialogue type : s^bk
+E :  I gotcha .
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^fe
+E :  Oh .
+
+dialogue type : s^bu
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qy^d
+E :  But there could be problems , right ? with that .
+
+dialogue type : s^cs.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah ,
+
+dialogue type : %--
+E : 
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : qw
+E :  Given all of the effort that is going on here in transcribing why do we have I B M doing it ?
+
+dialogue type : qw
+E :  Why not just do it all ourselves ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^r.%-
+E : 
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^bu
+E :  Well you would need to like a forced alignment before you did the chopping ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : qw
+E :  Why not do a a a forced alignment ?
+
+dialogue type : s
+E :  That would be really valuable I think .
+
+dialogue type : s^bu
+E :  You 're saying r sort of remove the high level constraints
+
+dialogue type : s^bu^e
+E :  and go bottom - up .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  Acoustic features versus psychological categories .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm . Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+E :  Just a source of data ?
+
+dialogue type : qy^bu^d^rt
+E :  You mean in terms of the topic topics ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^rt
+E :  Does does John Ohala have weekly phonetics lab meetings ?
+
+dialogue type : s
+E :  Well , and and the other thing too is when they originally said " no " they didn't know about this post - editing capability thing .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : qy^bu^rt
+E :  Did he mean , uh did he mean and non - British ?
+
+dialogue type : qy^bu^d^rt
+E :  He said British was OK ?
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s.%-
+E :  A any department that calls itself science
+
+dialogue type : qy^bu^rt
+E :  So the problem is like , uh , on the microphone of somebody who 's not talking they 're picking up signals from other people and that 's causing problems ?
+
+dialogue type : s^bk
+E :  Mm - hmm .
+
+dialogue type : qw^cs
+E :  What about increasing the flexibility of the alignment ?
+
+dialogue type : qy^rt
+E :  Do you remember that thing that Michael Finka did ?
+
+dialogue type : qy^e^rt
+E :  that experiment he did a while back ?
+
+dialogue type : s^bu
+E :  Oh , so that 's the problem , is the the signal - to - noise ratio .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^2
+E :  Or even words inserted that weren't weren't there .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Mm - hmm .
+

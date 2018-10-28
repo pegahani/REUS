@@ -1,0 +1,669 @@
+dialogue type : fg|s
+B :  Uh , so uh , so I c I definitely have to leave at three - thirty today
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk|s
+B :  Yeah , they 're they 're having birthday cake and such
+
+dialogue type : s
+B :  and so I can't miss that .
+
+dialogue type : s|s^aa
+B :  I 'm a May birthday , yeah ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : %-
+B : 
+
+dialogue type : qy^bu^d^rt
+B :  this is one it 's one hour of of of speech ?
+
+dialogue type : s^bu
+B :  And it took you a few hours to to do it .
+
+dialogue type : qy^bu^d^rt
+B :  He said that ?
+
+dialogue type : s^bk
+B :  Oh , oh , OK .
+
+dialogue type : b
+B :  Hunh .
+
+dialogue type : qy.%-
+B : 
+
+dialogue type : qw
+B :  How - how many how many beeps are there , and how many do we were they d were were off ?
+
+dialogue type : s^bk
+B :  Alright .
+
+dialogue type : qy.%-
+B : 
+
+dialogue type : fg|s
+B :  Yeah , and it was a hundred - ish .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^fa
+B :  uh , uh , excuse me .
+
+dialogue type : s^bu
+B :  If you get one off , it t everything is off cuz of the alignment
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^bu
+B :  Uh , and this is all in one file that 's continuous .
+
+dialogue type : qh^cs
+B :  So why don't you make it multiple files ?
+
+dialogue type : s^df
+B :  Because then if they have one off , then
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  I mean , it seems now , if you just ha make one mistake then everything is off .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa^rt|s.%--
+B :  Yeah , just say , " OK , is " ten minutes is "
+
+dialogue type : s^bd
+B :  I mean , maybe there 's other things to do that are more clever ,
+
+dialogue type : s^df
+B :  but this just seemed to be the sort of the obvious thing
+
+dialogue type : s^df
+B :  because , again , if you make one mistake , then everything after that mistake is off .
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ba
+B :  Oh . Kind of low variance ,
+
+dialogue type : qy^g^rt
+B :  wouldn't that be ?
+
+dialogue type : s
+B :  You sort of might end up with some infinities there ,
+
+dialogue type : fh
+B : 
+
+dialogue type : qy^rt^t3
+B :  Can I see that ?
+
+dialogue type : qw^t3
+B :  Where 's the case ?
+
+dialogue type : s.%--
+B :  So is this a
+
+dialogue type : qy^rt^t3
+B :  seven or something ?
+
+dialogue type : qrr.%--
+B : 
+
+dialogue type : qw^t3
+B :  What is it ?
+
+dialogue type : s^bk^m
+B :  M - one - hundred .
+
+dialogue type : s^cs
+B :  Or you could you could have ascending tones , or something .
+
+dialogue type : h|%-
+B : 
+
+dialogue type : s^cs
+B :  No , I just thi I don't know . If you have a hundred or something just just sort of move them up i mu up a a half tone or something for for each one ,
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bk|qy^bh^rt
+B :  Oh was it ?
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s^cc^j
+B :  See , I should listen .
+
+dialogue type : qy^d^f^g
+B :  Yeah ?
+
+dialogue type : s^bk|s.%--
+B : 
+
+dialogue type : s^am^ba
+B :  That might work too .
+
+dialogue type : fh|s.%--
+B :  Yeah , I was just thinking that actually temporally just , uh , uh , uh , an increasing tones so that
+
+dialogue type : s
+B :  they would really have a sense of whether they were going , you know , forward or backward
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bd^df
+B :  Well , it 's a thought .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^am
+B :  Yeah , maybe .
+
+dialogue type : s^ba
+B :  That 's probably better ,
+
+dialogue type : s^bk
+B :  yeah .
+
+dialogue type : s^co
+B :  S scratch my other idea .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ba
+B :  Great idea ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s^aa|s
+B :  No , two is probably better than what I was suggesting ,
+
+dialogue type : s^df
+B :  because what I was suggesting , in order to make it through a reasonable range for the whole thing , you 'd have to have the the tonal differences between the two kind of small ,
+
+dialogue type : s^e
+B :  and actually you want them large .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^am
+B :  Yeah .
+
+dialogue type : qw
+B :  I mean , what 's going wrong on the other end ?
+
+dialogue type : qw
+B :  What are they doing ?
+
+dialogue type : qw.%-
+B : 
+
+dialogue type : b
+B :  OK ,
+
+dialogue type : %-
+B :  s
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  that 's your indicator there , and twenty - three that somebody happens to say in a meeting .
+
+dialogue type : s^bu^ng
+B :  But they might miss that ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^na
+B :  I think having a beep too is good .
+
+dialogue type : s:s
+B :  W we 're saying " beep " . Yeah for instance .
+
+dialogue type : s^cs
+B :  But it sounds like a k a a a short conversation with Brian might be might be helpful to get a sense of what 's going on .
+
+dialogue type : %--
+B : 
+
+dialogue type : s^bu
+B :  You 're saying i it 's it 's about an hour meeting ,
+
+dialogue type : s^bu.%-
+B : 
+
+dialogue type : qw^br
+B :  Hmm ?
+
+dialogue type : s
+B :  Well , I was just wondering what the average length thing was .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fh
+B :  Uh
+
+dialogue type : fg|%-
+B :  So , right . So i
+
+dialogue type : %-
+B : 
+
+dialogue type : fg|s
+B :  Right , but my point was , you know , if It 's a big difference to me if there 's a thousand or there 's a hundred .
+
+dialogue type : s
+B :  If there 's a thousand , then that means that this is only happening three times out of a thousand .
+
+dialogue type : s
+B :  Which means , you know , even just splitting it up into a few files would probably take You know , nearly all the time ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  W if it 's a hundred , then you know , that 's not the issue ,
+
+dialogue type : s
+B :  but if it 's a hundred , then , the average length of each one is pretty pretty long
+
+dialogue type : s
+B :  and so having a little thing at the front of it is no big deal .
+
+dialogue type : s
+B :  So , that 's why I was curious .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s.%-
+B :  Yeah , you 're still talking a forced al
+
+dialogue type : s
+B :  Well , with the beep models , is what 's really you 'd have really g it would be really good though .
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  OK .
+
+dialogue type : fg|s
+B :  Uh uh , again , especially if there 's hundred many hundreds or thousands I still think it would it would cut the incidence of this a lot if it was possible to break it into a couple files .
+
+dialogue type : s^df.%-
+B :  Yeah . Cuz it , you know , it 's r r
+
+dialogue type : s^df
+B :  I mean , you 've already broken them into chunks ,
+
+dialogue type : s
+B :  so if you have if you have a th if you have a thousand chunks then make ten things of a hundred , or or you know .
+
+dialogue type : s
+B :  And then it will be , you know , this Eve - every now and then there 'll be a a beep missing .
+
+dialogue type : qw^rt
+B :  Which one is these ?
+
+dialogue type : s^bu.%-
+B : 
+
+dialogue type : s^bk
+B :  Uh - huh .
+
+dialogue type : s
+B :  You know , there are so many things about this that are non - uniform that I think having having some modicum of uniformity is a good thing ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh
+B : 
+
+dialogue type : s^df
+B :  For instance , jus just the fact that people sit in different positions , different times ,
+
+dialogue type : s^df^e
+B :  the exactly where they put it with respect to their mouth is different each time .
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I mean , I think we we 're we 're getting rid of major differences
+
+dialogue type : s
+B :  like we 're not using the lapel anymore , an and so forth .
+
+dialogue type : fh
+B :  But
+
+dialogue type : s
+B :  the other stuff is just gonna some variability we 're gonna have to accept .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : fg|s^ba
+B :  Yeah , see I I happen to like the old one better .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  And some people do ,
+
+dialogue type : fh
+B : 
+
+dialogue type : fg|s
+B :  You know . I mean , here 's another argument against worrying too much about uniformity .
+
+dialogue type : s
+B :  We have something like forty - five hours of data collected .
+
+dialogue type : s
+B :  And , uh , we 're also gonna be integrating in this corpus stuff that 's that 's being done at UW , uh , with entirely different microphones .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^ba
+B :  I think that 's sort of the big deal .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk^m
+B :  Uh , another wireless system .
+
+dialogue type : qy^bu^d^rt
+B :  You mean , another transmitter ?
+
+dialogue type : qrr.%-
+B : 
+
+dialogue type : s^bk|s
+B :  Oh , to get r to get rid of the wired things .
+
+dialogue type : s^aa
+B :  Yes , absolutely .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^df
+B :  Uh , because cuz we 've had With the exception of forgetting to change the batteries from time to time , uh , we 've really had no tr no trouble with this at all ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s.%--
+B :  And and the wired stuff is just gonna continue to degrade as , you know ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : fg|s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Whoever will pay ,
+
+dialogue type : s^bk
+B :  yeah .
+
+dialogue type : s^bk
+B :  Yeah , yeah .
+
+dialogue type : qy^bu^rt
+B :  Do you mean the kind that hang from the ear , sort of thing ,
+
+dialogue type : qrr.%--
+B : 
+
+dialogue type : s^bk|s
+B :  Yeah , but I don't know that one .
+
+dialogue type : qw
+B :  So what 's that mean ?
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bk|qy^bu^d^rt
+B :  Oh they they have little headsets ?
+
+dialogue type : qrr.%--
+B : 
+
+dialogue type : s
+B :  Oh you 've you 've got one .
+
+dialogue type : qw
+B :  So where where does how do you wear that ?
+
+dialogue type : qw^e.%--
+B : 
+
+dialogue type : s^bk|s^bk^m
+B : 
+
+dialogue type : x
+B :  Huh .
+
+dialogue type : fg|s
+B :  Yeah , that I 've seen .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %-
+B : 
+
+dialogue type : qw^rt
+B :  Why would it be cool ?
+
+dialogue type : s^bk|s^fa
+B :  Oh , I 'm sorry .
+
+dialogue type : s^bu
+B :  You 're talking about that as a possible thing to plug into the Sonys .
+
+dialogue type : qy^d^g^rt
+B :  No ?
+
+dialogue type : s^aap|s^aa
+B :  Well , some people will , yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s.%-
+B :  Well , I mean , another s
+
+dialogue type : s
+B :  An - another side to that is that , um , in principle , uh , if it all comes together , supposedly we 're gonna get two um , IRAM boards .
+
+dialogue type : s^e
+B :  Uh , little later on in the year .
+
+dialogue type : s
+B :  And so , we 're gonna wanna be thinking in terms of some wireless connection to it .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s
+B :  so we have , you know , some kind of little something ,
+
+dialogue type : s
+B :  and , uh , we have a wireless connection , this board , that 's doing the computation for the f the , uh the recognition .
+
+dialogue type : s
+B :  And so , you know , we wanna be able to show off to somebody ,
+
+dialogue type : s
+B :  you know , we have a base station somewhere ,
+
+dialogue type : s^e
+B :  and you 're wandering around , uh , hands free ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^ar|s
+B :  No , no , what I 'm saying is that we 're gonna have to put together some kind of a little superstructure , d some sort of demo box that it that doesn't do a whole lot ,
+
+dialogue type : s
+B :  but it somehow connects to uh , remotely to this IRAM board
+
+dialogue type : s
+B :  which will be doing the real computation .
+
+dialogue type : s
+B :  In other words , we 're we 're not gonna attempt to build , uh , it do the real work of building a portable device that 's little , that is doing all the computation we wanna do for the recognition and the far - field mike , uh , compensation and all that stuff .
+
+dialogue type : s
+B :  So we 're gonna do all that on this powerful board ,
+
+dialogue type : s
+B :  and , uh , have some wireless connection to it .
+
+dialogue type : qh
+B :  And then the question is what is what does it look like ,
+
+dialogue type : qh
+B :  does it look like something that you you hold like this ,
+
+dialogue type : qh
+B :  or do we make a big deal out of it that you hold it arm at arm 's length th so that you can see some display ,
+
+dialogue type : fh
+B :  or , uh ,
+
+dialogue type : qh.%--
+B : 
+
+dialogue type : s^bd^no
+B :  You know . I don't know .
+
+dialogue type : s
+B :  So , it th these are all possibilities .
+
+dialogue type : s^bk|qy.%-
+B : 
+
+dialogue type : b.%
+B :  Hmm .
+
+dialogue type : s^df
+B :  Who Well , we 're s talking about a fairly limited group ,
+
+dialogue type : qy
+B :  are are is it a small enough group that they would could just have accounts ?
+
+dialogue type : qy^e
+B :  Does that solve anything ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s^nd.%-
+B : 
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah
+
+dialogue type : qw
+B :  What - what does CVS do if they if they do overlap ?
+
+dialogue type : %-
+B :  Oh , I
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b.%
+B :  Hmm .
+
+dialogue type : s.%
+B :  Gotta go .
+

@@ -1,0 +1,144 @@
+dialogue type : qw^rt
+C :  How much how much better was the best system than ours ?
+
+dialogue type : s^bk
+C :  Mmm .
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : s^bk
+C :  Oh ,
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : sj^fe
+C :  Oh , wow .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qy.%--
+C : 
+
+dialogue type : qw^rt
+C :  who who 's was it that had the lowest on the dev set ?
+
+dialogue type : s^bk
+C :  Uh - huh .
+
+dialogue type : qy^bu^d^rt
+C :  And they used the main thing that that they used was spectral subtraction ?
+
+dialogue type : qrr.%--
+C :  Or
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qy^rt
+C :  Did anybody , uh , do anything with the models as a an experiment ?
+
+dialogue type : qrr.%--
+C :  Or
+
+dialogue type : qy^bu^d^rt
+C :  N nobody reported it ?
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : b^rt
+C :  Mm - hmm .
+
+dialogue type : fg
+C :  Right .
+
+dialogue type : s^bu
+C :  So you could 've had a repeat count in there or something .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : qw
+C :  When is the development set I mean , the , uh , uh , test set results due ?
+
+dialogue type : qr^d^rt
+C :  Like the day before you leave or something ?
+
+dialogue type : s^bk
+C :  Huh .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : qo.%--
+C :  About
+
+dialogue type : qy^d^g^rt
+C :  About other experiments ?
+
+dialogue type : s
+C :  Uh , now , I 'm interested in , um , uh looking at the experiments where you use , um uh , data from multiple languages to train the neural net .
+
+dialogue type : s^no
+C :  And I don't know how far , or if you guys even had a chance to try that , but that would be some it 'd be interesting to me .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : b
+C :  yeah .
+
+dialogue type : qw^rt
+C :  Where where 's the meeting ?
+
+dialogue type : s^bk
+C :  Uh - huh .
+
+dialogue type : qy^rt^t
+C :  Should we do digits first ?
+
+dialogue type : s
+C :  OK .
+
+dialogue type : z
+C :  OK .
+

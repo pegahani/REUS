@@ -1,0 +1,1020 @@
+dialogue type : z
+D :  This is three .
+
+dialogue type : z
+D :  Yep .
+
+dialogue type : z
+D :  Yep .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : %
+D :  k
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : s^2
+D :  S sixty - four .
+
+dialogue type : s^nd^r
+D :  S sixty - four .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s
+D :  if you 're using the baseline .
+
+dialogue type : s^ar
+D :  No ,
+
+dialogue type : s^nd
+D :  the edge .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  So the , uh , center would be somewhere around like hundred
+
+dialogue type : s
+D :  and hundred and hundred hundred and maybe it 's like fi hundred hertz .
+
+dialogue type : qy^bu^d^rt
+D :  At twenty hertz .
+
+dialogue type : s
+D : 
+
+dialogue type : s|qy^d^g^rt
+D :  Oh , it 's it 's zero at twenty hertz , right ?
+
+dialogue type : s^e
+D :  The filter ?
+
+dialogue type : s^bk^m
+D :  Sixt - s sixty - four .
+
+dialogue type : s
+D :  So anything less than sixty - four is zero .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah ,
+
+dialogue type : s^aa
+D :  yeah .
+
+dialogue type : s
+D :  So it 's it 's a weight on the ball spectrum .
+
+dialogue type : s^e
+D :  Triangular weighting .
+
+dialogue type : qy^bu^d^rt
+D :  Uh , throwing away the first ?
+
+dialogue type : h
+D :  Um ,
+
+dialogue type : s^bk|s
+D :  yeah , we we 've tried including the full full bank .
+
+dialogue type : qy^d^g^rt
+D :  Right ?
+
+dialogue type : s^e
+D :  From zero to four K .
+
+dialogue type : s
+D :  And that 's always worse than using sixty - four hertz .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : qy^bu^d^rt
+D :  I mean , make it a hundred or so ?
+
+dialogue type : s
+D :  I t I think I 've tried a hundred and it was more or less the same , or slightly worse .
+
+dialogue type : s
+D :  On the same , uh , SpeechDat - Car ,
+
+dialogue type : s
+D :  Aurora .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  So I tried a hundred to four K .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^ar
+D :  No , no , no .
+
+dialogue type : s^df^nd
+D :  I think I just tried it on SpeechDat - Car .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mmm , yeah .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^bk
+D :  Oh ,
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s^ba
+D :  great .
+
+dialogue type : s^ba
+D :  Eight .
+
+dialogue type : s^ba
+D :  Oh , eh , great .
+
+dialogue type : s^bu|qy^d^g^rt
+D :  That sample was released only yesterday or the day before , right ?
+
+dialogue type : s^bk
+D : 
+
+dialogue type : s
+D :  o o sample .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : s^bk
+D :  F Yeah , OK .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  Cuz they have , uh , already frozen those in i insertion penalties and all those stuff is what I feel .
+
+dialogue type : s^df
+D :  Because they have this document explaining the recognizer .
+
+dialogue type : s
+D :  And they have these tables with , uh , various language model weights , insertion penalties .
+
+dialogue type : %-
+D :  u
+
+dialogue type : s
+D :  Uh , it 's th it 's there on that web .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa|s.%--
+D :  Yeah , I think they pi p
+
+dialogue type : s^aa|s.%--
+D : 
+
+dialogue type : h|s
+D :  Uh , p the one that they have reported is a NIST evaluation , Wall Street Journal .
+
+dialogue type : fh
+D :  You know .
+
+dialogue type : s^aa
+D :  No .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  So they are actually trying to , uh , fix that those values using the clean , uh , training part of the Wall Street Journal .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bsc
+D :  I mean , the Aurora .
+
+dialogue type : s
+D :  Aurora has a clean subset .
+
+dialogue type : s
+D :  I mean , they want to train it
+
+dialogue type : s
+D :  and then this they 're going to run some evaluations .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Oh .
+
+dialogue type : qy^d^rt
+D :  So this is now it 's it 's compiled under Solaris ?
+
+dialogue type : s^bk
+D :  Yeah , OK .
+
+dialogue type : s
+D :  Because he there was some mail r saying that it 's may not be stable for Linux and all those .
+
+dialogue type : s
+D :  SUSI
+
+dialogue type : fh
+D :  yeah .
+
+dialogue type : b
+D :  Yeah , yeah .
+
+dialogue type : b
+D :  Yeah , OK .
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s^ba
+D :  that 's fine .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^ba
+D :  That 's good .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^bk|s.%--
+D : 
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D :  I mean , it was just the noisy features I guess .
+
+dialogue type : fh
+D :  Yeah , yeah , yeah ,
+
+dialogue type : s
+D :  not compensated .
+
+dialogue type : s
+D :  Two outputs .
+
+dialogue type : s
+D :  Plus there is a delta at the input .
+
+dialogue type : s^t1.%--
+D : 
+
+dialogue type : s
+D :  So it 's two hundred actually .
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  If you are phrasing f using three frames , it is thirty here for delta .
+
+dialogue type : s
+D :  So five frames , that 's twenty .
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s
+D :  so it 's who un two hundred and ten .
+
+dialogue type : s
+D :  At th At the input .
+
+dialogue type : s
+D :  I mean , that 's at the input to the net .
+
+dialogue type : %-
+D :  And there i
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  So it 's like s five , six cepstrum plus delta
+
+dialogue type : s^e.%--
+D : 
+
+dialogue type : s
+D :  Fi - There 's an LDA filter .
+
+dialogue type : %
+D : 
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : s^bu|qy^d^g^rt
+D :  Yeah , the LDA LDA we don't know , is , like is it very crucial for the features , right ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : %--
+D :  S s h
+
+dialogue type : b
+D :  Yeah ,
+
+dialogue type : %--
+D :  l
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^2.%-
+D : 
+
+dialogue type : s^aa|s
+D :  Yeah , just the static , no delta .
+
+dialogue type : %-
+D :  Point s
+
+dialogue type : b
+D :  Yeah ,
+
+dialogue type : s
+D :  so this is this is like the first proposal .
+
+dialogue type : s^e
+D :  The proposal - one .
+
+dialogue type : s^e
+D :  It was forty - four , actually .
+
+dialogue type : s^aa|s^aap
+D :  Yeah , it 's almost that .
+
+dialogue type : s
+D :  It 's almost an average
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : %
+D :  o o
+
+dialogue type : s^2
+D :  Or the best we can get .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qy^rt
+D :  So , was the training set same as the p the February proposal ?
+
+dialogue type : %
+D :  OK .
+
+dialogue type : qw^rt
+D :  What are the S N Rs in the training set , TIMIT ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qy^rt
+D :  So is it is it though the performance , big relation in the high ma high mismatch has something to do with the , uh , cleaning up that you that is done on the TIMIT after adding noise ?
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bu
+D :  it 's i All the noises are from the TI - digits ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : %--
+D :  So you i
+
+dialogue type : s
+D :  Well , it it 's like the high mismatch of the SpeechDat - Car
+
+dialogue type : s
+D :  after cleaning up , maybe having more noise than the the training set of TIMIT after clean s after you do the noise clean - up .
+
+dialogue type : s
+D :  I mean , earlier you never had any compensation ,
+
+dialogue type : s
+D :  you just trained it straight away .
+
+dialogue type : s
+D :  So it had like all these different conditions of S N Rs , actually in their training set of neural net .
+
+dialogue type : s^bu|qy^d^g
+D :  But after cleaning up you have now a different set of S N Rs , right ?
+
+dialogue type : s^e
+D :  For the training of the neural net .
+
+dialogue type : fh
+D : 
+
+dialogue type : qy
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D :  I mean , the SNR after the noise compensation of the SpeechDat - Car .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk|s
+D :  Yeah , so now the after - noise compensation the neural net is seeing a different set of S N Rs than that was originally there in the training set . Of TIMIT .
+
+dialogue type : s^df
+D :  Because in the TIMIT it was zero to some clean .
+
+dialogue type : s^df
+D :  So the net saw all the SNR @ @ conditions .
+
+dialogue type : s
+D :  Now after cleaning up it 's a different set of SNR .
+
+dialogue type : s
+D :  And that SNR may not be , like , com covering the whole set of S N Rs that you 're getting in the SpeechDat - Car .
+
+dialogue type : s^aa
+D :  Yeah , yeah , yeah ,
+
+dialogue type : s^aa
+D :  yeah , it is .
+
+dialogue type : s^df
+D : 
+
+dialogue type : s^t1
+D :  On the test set , yeah .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg
+D : 
+
+dialogue type : fg
+D :  I don't know .
+
+dialogue type : s
+D :  I I just that could be seen from the TI - digits , uh , testing condition
+
+dialogue type : s^df|qy^d^g^rt
+D :  because , um , the noises are from the TI - digits , right ?
+
+dialogue type : s^e
+D : 
+
+dialogue type : s
+D :  So cleaning up the TI - digits
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^na
+D :  on a clean training , or zero DB testing .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  Then it 's something to do .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s
+D :  " Babble . "
+
+dialogue type : s
+D :  " Street " or " Airport " or something .
+
+dialogue type : s
+D :  Or " Train station " .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Well , it will overall it will be still better
+
+dialogue type : s^e
+D :  even if it is fifteen percent worse ,
+
+dialogue type : s^df
+D :  because the fifteen percent worse is given like f w twenty - five point two five eight .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^na
+D :  Yeah , so it 's four .
+
+dialogue type : %
+D :  Is i
+
+dialogue type : s
+D :  So either it 'll get cancelled out , or you 'll get , like , almost the same .
+
+dialogue type : s^2
+D :  Slightly bad .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^ng
+D :  Uh , this LDA is different from the LDA that you are talking about .
+
+dialogue type : s^df
+D :  The LDA that you saying is , like , you take a block of features , like nine frames or something , and then do an LDA on it ,
+
+dialogue type : s^df
+D :  and then reduce the dimensionality to something like twenty - four or something like that .
+
+dialogue type : s^df
+D :  And then feed it to HMM .
+
+dialogue type : fg|s
+D :  Yeah , so this is like a two d two dimensional tile .
+
+dialogue type : s^r
+D :  So this is a two dimensional tile .
+
+dialogue type : s
+D :  And the LDA that we are f applying is only in time ,
+
+dialogue type : s^e
+D : 
+
+dialogue type : s^e
+D :  high cost frequency .
+
+dialogue type : s
+D :  So it 's like more like a filtering in time ,
+
+dialogue type : s^e.%-
+D :  rather than doing a r
+
+dialogue type : %
+D : 
+
+dialogue type : %
+D :  m
+
+dialogue type : fg
+D :  So , yeah ,
+
+dialogue type : s^tc
+D :  I 've been exploring a parallel VAD without neural network
+
+dialogue type : s^e
+D :  with , like , less latency using SNR and energy , um , after the cleaning up .
+
+dialogue type : s.%--
+D :  So what I 'd been trying was , um ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  After the b after the noise compensation , n I was trying t to f find a f feature based on the ratio of the energies , that is , cl after clean and before clean .
+
+dialogue type : s
+D :  So that if if they are , like , pretty c close to one , which means it 's speech .
+
+dialogue type : s
+D :  And if it is n if it is close to zero , which is So it 's like a scale @ @ probability value .
+
+dialogue type : s
+D :  So I was trying , uh , with full band and multiple bands ,
+
+dialogue type : s
+D :  m ps uh separating them to different frequency bands
+
+dialogue type : s
+D :  and deriving separate decisions on each bands , and trying to combine them .
+
+dialogue type : fh
+D :  Uh ,
+
+dialogue type : s
+D :  the advantage being like it doesn't have the latency of the neural net if it if it can
+
+dialogue type : s
+D :  g And it gave me like , uh , one point One more than one percent relative improvement .
+
+dialogue type : s^e
+D :  So , from fifty - three point six it went to fifty f four point eight .
+
+dialogue type : s
+D :  So it 's , like , only slightly more than a percent improvement ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^e
+D :  Which means that it 's it 's doing a slightly better job than the previous VAD ,
+
+dialogue type : fh|s^e
+D :  uh , at a l lower delay .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : fh
+D : 
+
+dialogue type : fh
+D :  so u
+
+dialogue type : s^ba
+D :  It still has the median filter .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s
+D :  so d with the delay , that 's gone is the input , which is the sixty millisecond .
+
+dialogue type : s^e
+D :  The forty plus twenty .
+
+dialogue type : s
+D :  At the input of the neural net you have this , uh , f nine frames of context plus the delta .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  So that delay , plus the LDA .
+
+dialogue type : s
+D :  Uh , so the delay is only the forty millisecond of the noise cleaning , plus the hundred millisecond smoothing at the output .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : fh
+D :  So . Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  The problem f for me was to find a consistent threshold that works well across the different databases ,
+
+dialogue type : s^df
+D :  because I t I try to make it work on tr SpeechDat - Car
+
+dialogue type : s^df
+D :  and it fails on TI - digits ,
+
+dialogue type : s^df
+D :  or if I try to make it work on that it 's just the Italian or something , it doesn't work on the Finnish .
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : fh
+D :  um .
+
+dialogue type : s
+D :  So there are there was , like , some problem in balancing the deletions and insertions when I try different thresholds .
+
+dialogue type : fh
+D : 
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D : 
+
+dialogue type : s^e
+D :  maybe , some , uh , correlation auto - correlation or some s additional features of to mainly the improvement of the VAD . I 've been trying .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^aa
+D :  so Yeah ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^na
+D :  So we 've been thinking about putting it into the neural net also .
+
+dialogue type : s^df
+D : 
+
+dialogue type : s^na
+D :  There 's a threshold
+
+dialogue type : fh
+D :  and Yeah .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^na
+D :  Oh , I just I just h put the second stream in place and , uh ran one experiment ,
+
+dialogue type : s^df
+D :  but just like just to know that everything is fine .
+
+dialogue type : s
+D :  So it was like , uh , forty - five cepstrum plus twenty - three mel log mel .
+
+dialogue type : s
+D :  And and , just , like , it gave me the baseline performance of the Aurora ,
+
+dialogue type : s^e
+D :  which is like zero improvement .
+
+dialogue type : s^df
+D : 
+
+dialogue type : s
+D :  But I I didn't export anything out of it
+
+dialogue type : s^df
+D :  because it was , like , a weird feature set .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^bk
+D :  Yeah , yeah , yeah , yeah .
+
+dialogue type : s
+D :  The uh , other thing I was wondering was , um , if the neural net , um , has any because of the different noise con unseen noise conditions for the neural net ,
+
+dialogue type : s^e
+D :  where , like , you train it on those four noise conditions , while you are feeding it with , like , a additional some four plus some f few more conditions which it hasn't seen , actually ,
+
+dialogue type : s^e
+D :  from the f f while testing .
+
+dialogue type : fh
+D : 
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : s
+D :  We have the VAD flag .
+
+dialogue type : qy
+D :  I mean , should we f feed the VAD flag , also , at the input so that it it has some additional discriminating information at the input ?
+
+dialogue type : s
+D :  We have the VAD information also available at the back - end .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : s^df.%--
+D :  Because most of it is sil
+
+dialogue type : s
+D :  I mean , we have dropped some silence f We have dropped so silence frames ?
+
+dialogue type : s
+D :  No , we haven't dropped silence frames still .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  the b b biggest classification would be the speech and silence .
+
+dialogue type : s
+D :  So , by having an additional , uh , feature which says " this is speech and this is nonspeech " , I mean , it certainly helps in some unseen noise conditions for the neural net .
+
+dialogue type : s
+D : 
+
+dialogue type : s^e
+D :  feature to the back - end .
+
+dialogue type : s^df
+D :  Because we are dropping it at the back - end after everything all the features are computed .
+
+dialogue type : fh
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  so that is coming from a separate neural net or some VAD .
+
+dialogue type : s^e.%-
+D :  Which is which is certainly giving a
+
+dialogue type : %
+D : 
+
+dialogue type : s
+D :  Yeah . So it it 's an additional discriminating information .
+
+dialogue type : %--
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^t1
+D :  Through t to the soft max .
+
+dialogue type : s^t1
+D :  Speech .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s
+D :  it it may be too it 's too high in a sense , like , everything is more like a , um , flat probability .
+
+dialogue type : s
+D : 
+
+dialogue type : s^bsc
+D :  or , I mean , different among classes .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : h
+D :  Um ,
+
+dialogue type : h|s^ng
+D :  well . We w we don't have it , actually ,
+
+dialogue type : s^df
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^aap
+D :  Somewhere around sixty , must be .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Thirty - first , August .
+
+dialogue type : s
+D :  p s It 's like Yeah , it 's tentatively all full .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Uh , that 's a proposed date , I guess .
+

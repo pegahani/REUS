@@ -1,0 +1,993 @@
+dialogue type : z
+F :  And there is a problem that you can hear it come and go ,
+
+dialogue type : z
+F :  cuz when you turn your head , then you drift away from the microphone .
+
+dialogue type : b
+F :  Yes .
+
+dialogue type : s
+F :  That 's it .
+
+dialogue type : fg|s^e
+F :  Well and it 's also relevant to status .
+
+dialogue type : s^cc
+F :  I c I can insert that .
+
+dialogue type : s
+F :  Which might in af affect the discourse aspects .
+
+dialogue type : s^co
+F :  So , go ahead .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^bk
+F :  Uh - huh . Yeah .
+
+dialogue type : s^2^t1
+F :  Categories .
+
+dialogue type : s^nd
+F :  Oh I think undergrad is useful .
+
+dialogue type : b.%
+F :  Yeah .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : qy^rt
+F :  so Uh did are were you suggesting that it should be more fine grained than this ?
+
+dialogue type : qy^bu^m^rt
+F :  Less ?
+
+dialogue type : qw
+F :  What would you suggest as a as a change ?
+
+dialogue type : s^aa^rt
+F :  Mm - hmm . Mm - hmm .
+
+dialogue type : s^df
+F :  I do , and the reason is because I think that um , well having been a grad student as , yeah , a as others here , at at Berkeley , that , um , I think there 's almost like a quantum leap from undergrad to grad in terms of like the status .
+
+dialogue type : s^e
+F :  I mean , I mean you notice it in various ways , like simply trying to meet with a professor during office hours .
+
+dialogue type : s
+F :  You know , in in my department it was always the case grad students had a huge amount of different priority ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : sj
+F :  In terms of like the s the social dynamics of interactions , I would expect them to be less deferent .
+
+dialogue type : sj
+F :  and um maybe less assertive of their own views and things like that .
+
+dialogue type : sj
+F :  I don't think that we 're going to have a lot of undergrads ,
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : s
+F :  This is the dimension .
+
+dialogue type : s^r
+F :  Well , this is the dimension .
+
+dialogue type : s^aap
+F :  Yeah , but One one dimension .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  And it 's non - threatening ,
+
+dialogue type : s^e.%-
+F : 
+
+dialogue type : s^df^nd
+F :  Well , I agree with him , though .
+
+dialogue type : %--
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  But I I agree that this is that w the rea the motivation was things that could affect social dynamics in ways that are relevant to the research without being threatening to the person .
+
+dialogue type : s
+F :  well , and we also discussed the idea of having the separate D T Ds would handle maybe , s specific meeting - specific things that might be relevant .
+
+dialogue type : s.%--
+F :  uh , the data , so that ,
+
+dialogue type : qy^d^rt
+F :  you know , his XML thing ?
+
+dialogue type : s
+F :  You got the Data Type Definition the Document Type Definition p part that it 's can s be used for relational things ,
+
+dialogue type : b
+F :  yeah .
+
+dialogue type : s
+F :  Where 'd This is just Well , you know , we 're we 're talking at at a general level of description .
+
+dialogue type : s
+F :  You can always get more specific .
+
+dialogue type : %-
+F : 
+
+dialogue type : qy^rt
+F :  So , change Would we change " Post - doc " to " Post - PHD Researcher " ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  That 's true .
+
+dialogue type : s
+F :  It 's just to allow .
+
+dialogue type : s^aa
+F :  It could be st It could be That 's true .
+
+dialogue type : qy^d
+F :  Well , one thing , so you understand he he d he wants you to do this only once for each person ?
+
+dialogue type : s^bk
+F :  OK , OK .
+
+dialogue type : %
+F :  So .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : %-
+F : 
+
+dialogue type : s
+F :  In in like the London - Lund they they the researchers themselves estimate the age afterw after the fact .
+
+dialogue type : s
+F :  So they say , you know , uh middle thirties , you know fifties or sixties ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^2^aa.%-
+F :  And it isn't it isn't that boldf
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^2^e
+F :  And it 's and it isn't really that prominent .
+
+dialogue type : s^df.%-
+F : 
+
+dialogue type : s^fe^j
+F :  Please , please !
+
+dialogue type : qw^br^rt
+F :  Actually , " approximate " ?
+
+dialogue type : s^bk
+F :  That 's right .
+
+dialogue type : s
+F :  Well , the thing abou the reason , uh , one reason for putting " Optional " might be if it uh , made the form seem gentler and k and not as intrusive kind of thing .
+
+dialogue type : s
+F :  Yeah , I noticed , I was afraid you 'd I shouldn't say that .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  if people who get nervous about the age question then they realize that " Oh well , but they 're not trying to ask me lots of things . "
+
+dialogue type : sj^ba
+F :  I like it .
+
+dialogue type : sj^ba^e
+F :  I think it 's softening .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^t1.%
+F :  Let 's see .
+
+dialogue type : s
+F :  That 's the only other one .
+
+dialogue type : s^r
+F :  That 's the only one .
+
+dialogue type : s
+F :  Well also , you you you he has a sep separate subject for Region .
+
+dialogue type : s
+F :  and so it 's a self - assessment of what you think your closest variety is of English .
+
+dialogue type : s
+F :  And then following that , a characterization of of region .
+
+dialogue type : s
+F :  Now , we discussed maybe indicating a t a time frame .
+
+dialogue type : s^e:qw
+F :  So , " Where did you live during your , you know , childhood and adolescence ? "
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  Yes . Mm - hmm .
+
+dialogue type : s
+F :  Although you know I mean a lot of people there won't be , e much difference ,
+
+dialogue type : fh
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  S Mm - hmm
+
+dialogue type : s
+F :  Well , we When we when we discussed it it was it was where where you lived during your childhood and adolescence .
+
+dialogue type : s
+F :  Well It 's W it 's where you lived .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg
+F : 
+
+dialogue type : fg
+F : 
+
+dialogue type : s
+F :  I haven't seen what what they did in TIMIT .
+
+dialogue type : qy.%--
+F : 
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : b.%
+F :  OK .
+
+dialogue type : sj^ba
+F :  Well , that 's the concept ,
+
+dialogue type : b
+F :  yeah .
+
+dialogue type : %-
+F : 
+
+dialogue type : sj^ba
+F :  That 's right .
+
+dialogue type : s
+F :  Well that you know that was the concept of having the region thing ,
+
+dialogue type : s
+F :  I It would be no problem to change it to options if um if that were desirable .
+
+dialogue type : s.%-
+F :  Although for different
+
+dialogue type : s^aa
+F :  Well , that 's true .
+
+dialogue type : s.%--
+F :  I mean , Indian English I wouldn't know f
+
+dialogue type : qw.%-
+F :  what
+
+dialogue type : sj^ba
+F :  That is kind of nice .
+
+dialogue type : s
+F :  That was the concept of region .
+
+dialogue type : s
+F :  and It 's just the wording of it .
+
+dialogue type : s.%-
+F :  I guess there 's a
+
+dialogue type : s
+F :  There is another problem .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^e^na
+F :  Or someone could in Geor - in in New York and have , I mean , any number of different types of speech patterns .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  So . He hasn't given you the overview ,
+
+dialogue type : s
+F :  but you have , like , the Native Speaker category , the Non - native Speaker category ,
+
+dialogue type : s
+F :  and then you have Other Language Influences , for example bilingual dialects , th things like that .
+
+dialogue type : s
+F :  Now there 's this issue of not wa like you 're saying , you don't want the forms to be hugely complicated and take half the meeting to complete .
+
+dialogue type : s^rt
+F :  So , it 's trying to e there 's this trying to trying to hold this balance between the amount of information needed
+
+dialogue type : s^rt
+F :  and uh , you know , not taking too much meeting time ,
+
+dialogue type : s
+F :  and then in addition , add to it the third level of the balance , uh , um this this issue of not being too intrusive , asking in a way that they don't mind .
+
+dialogue type : s^ng
+F :  Well , I think rea I think that we need to remember that we have First of all , it 's not all free form .
+
+dialogue type : s^df
+F :  We have several categories that are specifically constrained ,
+
+dialogue type : s^df
+F :  And in terms of the more open ones , we have the we 're in the enviable position of having the contact information and also knowing most of the people who will be participating in the meeting data .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  That 's it .
+
+dialogue type : s
+F :  Well - Isn't it I mean , I think that we 're going a little bit in a circle , because I like the TIMIT suggestion very much ,
+
+dialogue type : s
+F :  and I think it 's a question of how to ge incorporate it ,
+
+dialogue type : s^cs
+F :  and and we 've already suggested I mean , it 's come up in this discussion , that the suggestion that we could have um the TIMIT categories for the American ,
+
+dialogue type : s^cs
+F :  and and then make the choice or not , as to whether we do it for British ,
+
+dialogue type : s
+F :  I mean , w we sort of discussed one way or the other ,
+
+dialogue type : s
+F :  and it doesn't matter to me .
+
+dialogue type : s
+F :  I don't know if Adam has has a preference ,
+
+dialogue type : s^cs^rt
+F :  but we could have you know , a sub a sub - categorization for American ,
+
+dialogue type : s
+F :  We could even use the TIMIT subcategorization .
+
+dialogue type : s^no
+F :  I don't know if it has one for British , or whatever ,
+
+dialogue type : s
+F :  But you know , just have it you know , a short simple form that you can categorize yourself in a in a systematic way .
+
+dialogue type : sj^ba
+F :  It 's a good idea .
+
+dialogue type : s^e
+F :  And the peers .
+
+dialogue type : s
+F :  That 's one part though .
+
+dialogue type : s^nd
+F :  Well , It 's that 's not a problem though ,
+
+dialogue type : sj^ba
+F :  I mean . That would be a good question to ask ,
+
+dialogue type : s^cs
+F :  and then you could add a question .
+
+dialogue type : s^cs
+F :  You know , would uh " among your peers " .
+
+dialogue type : s^f
+F :  You know .
+
+dialogue type : s^e
+F :  Specify the age range .
+
+dialogue type : s^aa
+F :  Yeah , that 's right .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  and then we like I said , we have the enviable benefit of knowing most of these people .
+
+dialogue type : s
+F :  and being able to ask them follow - ups if we need to .
+
+dialogue type : s^bk^m
+F :  For now .
+
+dialogue type : s^aa
+F :  That 's true .
+
+dialogue type : s
+F :  Washington and stuff , yeah .
+
+dialogue type : s^bk
+F :  That 's true .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s.%--
+F :  Well , I you know , I w I was thinking of it as e
+
+dialogue type : sj^ba
+F :  that 's a good point ,
+
+dialogue type : s.%--
+F :  but I was thinking uh , you know , with reference to the language model issue , which uh
+
+dialogue type : s
+F :  and I guess it could be done inductively ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : sj^ba^t1
+F :  Interesting .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  But you have a lot of stratification in any region .
+
+dialogue type : b
+F :  Interesting .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^df
+F :  Well that 's what the final the fin the third category was designed to do ,
+
+dialogue type : s^df^e
+F :  because I mean , you have a bunch of different types of accents in New York
+
+dialogue type : s^f
+F :  You know .
+
+dialogue type : s^e
+F :  Native - speaking New Yorkers , as a as a function of their social uh groups and their ethnic identifications and their You know .
+
+dialogue type : s
+F :  There are lots of things that are very identifiable as um you know , other other aspects , which is why we have this third category .
+
+dialogue type : s^rt
+F :  So we wanted to certainly distinguish American versus British , and other types at that level ,
+
+dialogue type : s
+F :  and then allow people to self - identify if there are other specific things ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^f
+F :  You know .
+
+dialogue type : s^cs
+F :  So , region with respect to a time frame is what I would suggest .
+
+dialogue type : s^cs:qw
+F :  " Where did you live ? "
+
+dialogue type : s
+F :  I mean . What you said .
+
+dialogue type : s^cs^r:qw
+F :  you know , " where where wh where did you live ? " ,
+
+dialogue type : s^cs
+F :  or uh , what you were saying , " Languages in the home " .
+
+dialogue type : sj
+F :  But I think that uh a time frame on the region would be useful
+
+dialogue type : s^cs
+F :  instead of " Region now " , say . It 's a little bit unbounded .
+
+dialogue type : s
+F :  well , you know , there 's this issue of of what age is relevant for the formation of your speech patterns , whatever they are .
+
+dialogue type : sj^ba
+F :  And Oh , that 's interesting .
+
+dialogue type : sj^ba
+F :  Oh that 's interesting .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b^rt
+F :  Mm - hmm .
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : fg|s.%-
+F :  Well I I g
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : s^no
+F :  I don't think it was ever the intent to talk about the region now ,
+
+dialogue type : s^df.%--
+F :  because
+
+dialogue type : s
+F :  It 's It 's a sub - categorization .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  That 's to handle that unusual percent or two .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : sj^ba
+F :  It 's very efficient .
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  Well , y you didn't really talk about the non - English speaker categories .
+
+dialogue type : s
+F :  Because it used to be that Germans would learn British English , and now I think there 's , you know , is a certain percentage of them who who 've @ @ to tend toward American English .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^aa
+F :  I agree .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : sj^cs
+F :  I 'd have to I I 'd wanna relate it back to training .
+
+dialogue type : s^cs:qw
+F :  " How many years did you study English " ,
+
+dialogue type : s^cs:qrr
+F :  or , you know , " have you lived in the America in a c an English country before " .
+
+dialogue type : sj.%--
+F : 
+
+dialogue type : sj.%-
+F : 
+
+dialogue type : sj^ba
+F :  That 'd be OK .
+
+dialogue type : sj^ba
+F :  Yeah , I like that .
+
+dialogue type : sj^ba^r
+F :  I like that .
+
+dialogue type : sj^ba
+F :  That 's that 's non - threatening , and it 's also an i a good indicator .
+
+dialogue type : s^arp^rt
+F :  And there are people who haven't ever lived in an English speaking country and who are superb .
+
+dialogue type : sj^aap^ba
+F :  However , um , that 's you know I do think it 's a pretty good indicator .
+
+dialogue type : s^aa^rt
+F :  That 's true too .
+
+dialogue type : fg|s.%--
+F : 
+
+dialogue type : s^arp
+F :  Except that you have some many biasing factors ,
+
+dialogue type : s^rt
+F :  you have you have people who are highly confident when they really should be a little bit less confident ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  And also we wanna keep it simple and non - evaluative .
+
+dialogue type : qw
+F :  Why do we need that much information ,
+
+dialogue type : qw^e
+F :  why do we need the email address , for example ?
+
+dialogue type : s^bk
+F :  Oh , I see .
+
+dialogue type : qw
+F :  How often would that happen ?
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : %-
+F : 
+
+dialogue type : sj^ba^nd
+F :  Well , it 's an it 's an interesting identifier , I I now that I realize the und the reason for it .
+
+dialogue type : s^aa^rt
+F :  The That 's true too .
+
+dialogue type : b.%
+F :  Yeah .
+
+dialogue type : sj^ba
+F :  That 's interesting .
+
+dialogue type : sj^ba
+F :  Good idea .
+
+dialogue type : s^ng
+F :  It 's the age question again .
+
+dialogue type : s^aa^j
+F :  Yeah , that 's right .
+
+dialogue type : s^cs.%--
+F :  And a bank where you frequent .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b.%
+F :  Yeah .
+
+dialogue type : sj^ba
+F :  I like that .
+
+dialogue type : sj^ba
+F :  I never thought of that as an identifier .
+
+dialogue type : sj^ba
+F :  That makes sense .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^cs
+F :  Well , that I think , someone internal to the meeting could do after the fact .
+
+dialogue type : s
+F :  And this would and and we discussed this ,
+
+dialogue type : s
+F :  this is with reference to like the DTD ,
+
+dialogue type : qh
+F :  what you would put in the DTD that 's meeting - specific .
+
+dialogue type : s^cs^e.%--
+F :  So . And it could be something like , " oh by the way , the guy giving the presentation today is the student of the professor who you know ,
+
+dialogue type : s
+F :  whatever " .
+
+dialogue type : s^e
+F :  So , speaker A is his professor and they and he 's preparing for his quals or some such thing like that .
+
+dialogue type : s^e
+F :  Or it could be you know , " so - and - so and so - and - so are married " .
+
+dialogue type : s
+F :  We this wouldn't be relevant all the time
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^no
+F :  I I don't mean , uh , you know .
+
+dialogue type : s
+F :  I would tend to leave that e spontaneous ,
+
+dialogue type : sj
+F :  I think that e at the stage of uh Uh , sc scanning the transcripts after they 've been produced by by our by IBM , At that point , I think that some of these dynamics will appear to be important ,
+
+dialogue type : sj
+F :  and you could you could spend a lot of time enumerating all the different relationships that people have .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  Without being exhaustive , by any means ,
+
+dialogue type : s^e.%--
+F : 
+
+dialogue type : s^e
+F :  So , I mean , a person is asked a whole bunch of questions , more than you 'd usually think they 'd be asked ,
+
+dialogue type : s^e
+F :  and it turns out it 's because he 's being prepared for a job interview or something like that , then it 's useful to know that that relationship .
+
+dialogue type : s^r
+F :  But , not to be exhaustive .
+
+dialogue type : sj^ba
+F :  Interesting .
+
+dialogue type : s^aa^rt|s.%-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  Well , realize , w this was the idea was that this would be meeting specific .
+
+dialogue type : s
+F :  Otherwise , they would it would be possible to have a higher level thing .
+
+dialogue type : s^aa
+F :  That 's true . That 's true .
+
+dialogue type : s.%
+F :  Well , the there 's @ @ I mean .
+
+dialogue type : s
+F :  I g you You 're the expert on the D T
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : %-
+F : 
+
+dialogue type : s
+F :  And so , you know , in discourse analysis you get things like @ @ the role .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  You know , and so there are various things you negotiate .
+
+dialogue type : s
+F :  And I 'm I 'm wondering if we might be able to do it s in sort of a loose way , but e with by having a searchable field like " role "
+
+dialogue type : s^cs
+F :  and then you know " within this context this person has the following roles " , and it could be very loose ,
+
+dialogue type : s^cs
+F :  but then it would be possible to do something as simple as a grep across a database
+
+dialogue type : s
+F :  and if you 're interested in you know which which which ones this person serves as an advisor in and versus you know a l uh s uh whatever , a leader , speaker , whatever , you could just grep for " role " and and you know , some some particular value .
+
+dialogue type : %-
+F : 
+
+dialogue type : fg
+F :  Interesting . Good .
+
+dialogue type : s
+F :  And systematize also maybe the encoding of it if as we find some are useful and some are not so useful .
+
+dialogue type : s^nd
+F :  I think you don't need to have that much structure built in , and that would be less time - consuming to do it this way first , and then find out what structure 's needed .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Oh .
+
+dialogue type : qw
+F :  What about doing it with just the single channels ?
+
+dialogue type : qw.%--
+F :  What about ,
+
+dialogue type : fh
+F :  uh
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s.%-
+F :  I I 'm wo
+
+dialogue type : s^aa
+F :  Exactly .
+
+dialogue type : s
+F :  So what I 'm wondering is what about doing some of this with the single channel recordings .
+
+dialogue type : s^ba
+F :  Interesting .
+
+dialogue type : s
+F :  That 'll also lessen the standard deviation .
+
+dialogue type : qy^d^rt
+F :  Pitch .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I suppose this is still just that one that one data sample ,
+
+dialogue type : qy^d^g
+F :  right ,
+
+dialogue type : qy^bu^rt
+F :  that one meeting ?
+
+dialogue type : s
+F :  But it seems like to have it it seems like a very hard test to have it be looking at the energy of all the speakers combined rather than taking s you know , maybe two extreme speakers out of the mix and seeing if if it 's promising with respect to that type of analysis .
+
+dialogue type : s^cs.%--
+F :  If you take like a target speaker , and maybe
+
+dialogue type : s^cs
+F : 
+
+dialogue type : s
+F :  two target speakers
+
+dialogue type : s^cs
+F :  and then compare that to the mixture of all the speakers .
+
+dialogue type : s^ba.%
+F :  That 's hard .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^aa
+F :  That 's true .
+
+dialogue type : s^ba
+F :  That 's complicated .
+
+dialogue type : s^ba
+F :  Ah , that 's interesting ,
+
+dialogue type : s
+F :  and it didn't give you good error messages .
+
+dialogue type : b
+F :  Huh .
+
+dialogue type : s^bk
+F :  Oh , digits .
+
+dialogue type : s^bk
+F :  OK .
+

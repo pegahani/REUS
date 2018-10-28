@@ -1,0 +1,1467 @@
+dialogue type : z
+D :  Well
+
+dialogue type : z
+D :  Write down that poem .
+
+dialogue type : z
+D :  Let us know when you 're done , though
+
+dialogue type : z
+D :  cuz we want to start the meeting .
+
+dialogue type : z
+D :  Now , how do you do the mike ?
+
+dialogue type : z
+D :  I keep getting it in my nose .
+
+dialogue type : z
+D :  Oh !
+
+dialogue type : z
+D :  Oh ! This is good .
+
+dialogue type : z
+D :  Oh ! I like this .
+
+dialogue type : z
+D :  I like this .
+
+dialogue type : z
+D :  I like this ,
+
+dialogue type : z
+D :  this is much more comfortable .
+
+dialogue type : z
+D :  I could have it more at the midline .
+
+dialogue type : z
+D :  Boy ! It 's very adjustable now .
+
+dialogue type : z
+D :  I 'm on number four .
+
+dialogue type : z
+D :  May I pass the folder to Dan ?
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  I 'm mike I 'm on mike four .
+
+dialogue type : z
+D :  and it 's a very nice microphone ,
+
+dialogue type : z
+D :  very modern .
+
+dialogue type : z
+D :  I like it very much .
+
+dialogue type : z
+D :  You didn't get the s head restraint with your system ?
+
+dialogue type : z
+D :  I did modify my my mike uh distance from my speaking apparatus .
+
+dialogue type : z
+D :  Slightly .
+
+dialogue type : z
+D :  That 's a good way .
+
+dialogue type : z
+D :  Should I draw a map ?
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  He 's labelling he 's labelling right now .
+
+dialogue type : z
+D :  Now .
+
+dialogue type : z
+D :  OK .
+
+dialogue type : qw^rt
+D :  We have what ? What do we have ?
+
+dialogue type : s^ba
+D :  Well done .
+
+dialogue type : s^ba^r
+D :  Well done .
+
+dialogue type : s^tc
+D :  You 're probably wondering why I brought you all here today .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Good .
+
+dialogue type : qy.%-
+D :  Shall I n
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  Yeah , I 'd like to hear one more .
+
+dialogue type : qy^co^rt^t
+D :  Could I hear you next ?
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : s
+D :  So , basically they 're kind of like sentences but with n numbers instead of words .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^rt
+D :  So , I 'm I 'm on uh number four with the microphone around my neck
+
+dialogue type : s^cc^rt
+D :  and I will read these .
+
+dialogue type : s^bk^rt
+D :  OK .
+
+dialogue type : s
+D :  It really sounds like sentences .
+
+dialogue type : s
+D :  Your intonation sounds like somewhat like sentence intonation .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : qy^d^rt
+D :  Yeah ?
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s^df
+D :  If I were to be dictating a phone number , I would have done that more slowly ,
+
+dialogue type : fh|s^df
+D :  but uh which would have been easier for the of course , for the machine .
+
+dialogue type : fh|qy^rt
+D :  But . Was that an OK pace ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  Just as long as it 's with you know , uh within the constraints .
+
+dialogue type : s
+D :  Number four .
+
+dialogue type : s^fa^t3
+D :  Oh , Sorry .
+
+dialogue type : s^2^j^rt
+D :  and the voice .
+
+dialogue type : s^j
+D :  Just no way .
+
+dialogue type : s^aa
+D :  Yes .
+
+dialogue type : s^bk
+D :  Oh , you did .
+
+dialogue type : fg
+D :  Oh .
+
+dialogue type : h|s
+D :  Um , because my name was was mentioned when I wasn't around ,
+
+dialogue type : s
+D :  but I 'm most happy .
+
+dialogue type : s^aa
+D :  Oh , uh he did .
+
+dialogue type : s
+D :  and and I approved .
+
+dialogue type : s^rt
+D :  but I think that I was uh proposed before I was asked ?
+
+dialogue type : s
+D :  And that doesn't matter
+
+dialogue type : s
+D :  cuz I think there was probably an a uh y an indication that that I was interested in advance
+
+dialogue type : s^ft
+D :  and , in which case , I thank you .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^cc.%--
+D : 
+
+dialogue type : s^cc
+D :  once I 'm given the data , I will provide w word - level transcripts with uh indication of speakers ,
+
+dialogue type : fh
+D :  and um
+
+dialogue type : s^e
+D :  I guess speaker change in any case ,
+
+dialogue type : s^e
+D :  so speaker ID ,
+
+dialogue type : s^e
+D :  and words .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : fg
+D :  Well
+
+dialogue type : s^na
+D :  I 've transcribed a lot .
+
+dialogue type : fh|s^rt
+D :  But um e you know , the I mean , there are always ways of doing things more efficiently or more uh in a more technical technically sophisticated way ?
+
+dialogue type : qy^j^rt
+D :  Do you have to speak true English sentences when you do this ?
+
+dialogue type : s^j:s
+D :  " She can't speak ! "
+
+dialogue type : s^j:s^ba
+D :  " It 's terrible ! "
+
+dialogue type : fg
+D :  OK , So um
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^j
+D :  " No one told me that . "
+
+dialogue type : qh^j
+D :  " This microphone , what 's this doing around my neck ? "
+
+dialogue type : fg|s^rt^tc
+D :  OK , so um typically , what I w you know I in uh i what I 've done before is I have a uh tape recorder , with a reverse button .
+
+dialogue type : s
+D :  And you just , you know , if it 's word level e you know , you do a e a r I just hit the r re the rewind button every couple of words
+
+dialogue type : s^e
+D :  and type what I know
+
+dialogue type : s
+D :  and then and then at the end do a breeze through to be sure that everything 's correct .
+
+dialogue type : s
+D :  However , they do have software these days which with a digitized uh record you can have control over replay through some sort of an interface .
+
+dialogue type : fh|s
+D :  Um . I 've never used one of those .
+
+dialogue type : s^ba
+D :  I know it would be an a wonderful idea .
+
+dialogue type : s
+D :  It 's just I haven't transcribed in in awhile .
+
+dialogue type : fg
+D : 
+
+dialogue type : fg|s^rt
+D :  Foot pedals ? I 've used transcribing machines .
+
+dialogue type : s^ba^rt
+D :  That 's fine .
+
+dialogue type : fh|s
+D :  um But I frankly didn't find it any more use to me than my hand - held taperecorder .
+
+dialogue type : s^cs
+D :  However , if we have a transcribing machine I would accept it .
+
+dialogue type : s
+D :  The other thing is , you know , having getting hold of a transcriber .
+
+dialogue type : s
+D :  I think that CogSci has one .
+
+dialogue type : s^cs
+D :  And I could probably borrow one .
+
+dialogue type : qy^bu^d^rt
+D :  You have one yourself ?
+
+dialogue type : s^bk
+D :  Oh , I see !
+
+dialogue type : s^ba
+D :  Oh , super !
+
+dialogue type : s^bk
+D :  Oh , I see .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : %-
+D :  I kn
+
+dialogue type : s^ba
+D :  Oh , that 'd be super .
+
+dialogue type : s^ba
+D :  This is great .
+
+dialogue type : s^ba
+D :  This sounds wonderful .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa^rt
+D :  Yeah , that 's true .
+
+dialogue type : fg|s.%-
+D : 
+
+dialogue type : s
+D :  Now , we 're at a pilot phase right now ,
+
+dialogue type : s.%-
+D :  and what I was told is that beginning ,
+
+dialogue type : s
+D :  you know , that the the pilot data would be something like half hour of uh or f you know half hour to forty minutes of running text .
+
+dialogue type : fh|s^cs
+D :  And so , for the pilot thing , you know , of course this would be useful .
+
+dialogue type : s
+D :  And I w I wou I 'm assu I 'm assuming that I would not be uh you know e eh uh transcribing all of it .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  No .
+
+dialogue type : s^aa^r
+D :  No , no .
+
+dialogue type : s^aa
+D :  Yes .
+
+dialogue type : fg|s
+D :  Mm - hmm , yeah , OK , so now I 've I 've been involved with some of that . At at CogSci ,
+
+dialogue type : h|s^e
+D :  um So , Susan E Susan Ervin - Tripp , who you know um would typically , and I 've done this too , supervise undergrads to do this kind of thing
+
+dialogue type : s^cs.%--
+D : 
+
+dialogue type : s^cs.%--
+D :  if you give them a little bit of instruction and and make it interesting for them they can do it as a two ninety - eight or s
+
+dialogue type : s^bsc
+D :  or , not two ninety - eight , what is it , one whatever , undergraduate research credit .
+
+dialogue type : s^cs.%-
+D : 
+
+dialogue type : h|s^nd
+D :  Well uh , you have to be sure you give them compensation for you know . of some of some sort .
+
+dialogue type : s^ng
+D :  What I mean is it 's not necessarily monetary .
+
+dialogue type : s^cs
+D :  But if they feel like they 're getting something out of it , sometimes you can do it that way .
+
+dialogue type : s^cs
+D :  And otherwise , as part of a grant , you can you can do it .
+
+dialogue type : s
+D :  some sort of minimal wage .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : fg|s
+D :  OK . Well , you also want to get quality .
+
+dialogue type : s^df
+D :  I mean , someone 's going to have to pass through Either a higher level person will have to pass through , or you have to be sure you get good quality to begin with .
+
+dialogue type : fh|s
+D :  But um , yeah , that 's quite you know we 've That 's been done .
+
+dialogue type : s^cc
+D :  I can ask Susan Ervin - Tripp what she would recommend on that .
+
+dialogue type : s
+D :  She 's really She 's done Of the people that I know , she 's the one who 's supervised the most of those things locally .
+
+dialogue type : h|s^rt
+D :  Uh uh Doctor Susan Ervin - Tripp .
+
+dialogue type : s^e^rt
+D :  faculty member in Psychology , recently retired ,
+
+dialogue type : fh|s^e
+D :  and very well known in discourse analysis .
+
+dialogue type : s^na
+D :  Oh , it 's very common .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^rt
+D :  I think there 's always this question of the trade - off between uh paying more for the first pass , and then h and then editing less later .
+
+dialogue type : s^e
+D :  or paying less the first pass and editing more later .
+
+dialogue type : fh
+D :  So
+
+dialogue type : fg|s.%-
+D :  Oh , But that 's a s
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Yes .
+
+dialogue type : qy^rt
+D :  Are you speaking about Mississippi State per se ?
+
+dialogue type : qrr.%-
+D :  or are y
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Actually , I wanted to mention There are two projects , which are international , huge projects focused on this kind of thing , actually .
+
+dialogue type : s^e
+D :  One of them 's MATE ,
+
+dialogue type : s^e
+D :  one of them 's EAGLES .
+
+dialogue type : fh|s.%-
+D : 
+
+dialogue type : s
+D :  You know , I saw I know you know about the big book .
+
+dialogue type : s
+D :  I think you got it as a prize or something .
+
+dialogue type : s
+D :  Got a surprise .
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s
+D :  and MATE is a project which is being run out of Denmark
+
+dialogue type : fh|s.%--
+D :  and um they have a lot uh big uh , e
+
+dialogue type : s
+D :  you know , they 're trying to set up a a work bench or something or other .
+
+dialogue type : s
+D :  And they have a whole bunch of tools that are associated with them .
+
+dialogue type : s.%--
+D :  So , I mean , there are things that in terms of like the time alignment issue
+
+dialogue type : s
+D :  I mean , you guys are more expert on that , I mean , than I am ,
+
+dialogue type : s
+D :  but I want to say that I know for a fact , I keep running across these ,
+
+dialogue type : s
+D :  and those would be my first two choices of looking at . EAGLES and MATE .
+
+dialogue type : s
+D :  And I have the documentation downstairs .
+
+dialogue type : s
+D :  I didn't think to bring it .
+
+dialogue type : s^aa
+D :  Oh , I have ,
+
+dialogue type : s
+D :  but I wasn't interested in that particular issue .
+
+dialogue type : s
+D :  So , we 're talking now , once you have words you know , how do you time align it .
+
+dialogue type : s.%-
+D :  and that 's .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  So , MATE and EAGLES are both within the so - called uh Language Engineering branch ,
+
+dialogue type : fh|s
+D :  and um so they 're intended for this kind of a comp compu s computer science application type of approach .
+
+dialogue type : s
+D :  These are not discourse types of tools .
+
+dialogue type : fh|%-
+D : 
+
+dialogue type : qy^rt
+D :  Can I be excused ,
+
+dialogue type : s^cc^e^rt
+D :  and I 'll go down and get my stuff ?
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : qy^rt
+D :  Are you serious ?
+
+dialogue type : %--
+D : 
+
+dialogue type : qy.%-
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^cc
+D :  And I go get my books and I 'll be right back .
+
+dialogue type : s^t1
+D :  I didn't think of bringing this .
+
+dialogue type : qy^rt
+D :  Do I need this ?
+
+dialogue type : s^rt^t1
+D :  I need my keys .
+
+dialogue type : fh
+D :  OK .
+
+dialogue type : s^fe
+D :  Oops !
+
+dialogue type : s^r^t1
+D :  I need my card key .
+
+dialogue type : s^cc:s^fe
+D :  I 'll try not to say , " So , Oh dear , Boy ! That 's itching there ! "
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : s^fe^t1
+D :  Oops .
+
+dialogue type : s^t1
+D :  OK
+
+dialogue type : s
+D :  " Specification of uh Coding workbench " ,
+
+dialogue type : s
+D :  That 's one o thing ,
+
+dialogue type : s.%-
+D :  and then , back in here
+
+dialogue type : s^t1
+D :  " KCM file formats " ,
+
+dialogue type : s.%--
+D :  This is the
+
+dialogue type : s^na
+D :  Yeah , it is European .
+
+dialogue type : s
+D :  Both of these are Eur - European ,
+
+dialogue type : s^e
+D :  but they have you know , American contributions , and stuff .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Well i but you see they have a whole bunch of things .
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  and they rate things .
+
+dialogue type : s
+D :  I wasn't focused on that
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^co.%--
+D :  Let me show y
+
+dialogue type : qy^rt
+D :  Have you seen this one , Dan ?
+
+dialogue type : s^cc
+D :  And I 'll try to get one for you , too .
+
+dialogue type : s
+D :  Oh , you 've got one .
+
+dialogue type : qw
+D :  What are you looking at here ?
+
+dialogue type : s
+D :  He 's got the Mark - up Framework .
+
+dialogue type : s^bk
+D :  Oh , yeah .
+
+dialogue type : s
+D :  Different coding schemes .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  What they 're doing is they 're comp comparing all these existing things that have been submitted
+
+dialogue type : fh|s
+D :  and And it includes , this one includes the TEI
+
+dialogue type : fh
+D :  and uh
+
+dialogue type : s
+D :  so it 's it 's um pretty broad - based .
+
+dialogue type : s
+D : 
+
+dialogue type : s^rt
+D :  That 's the Text Encoding Initiative .
+
+dialogue type : s
+D :  That 's a way of marking mark - up .
+
+dialogue type : s
+D :  so , you know , but focus on tools to do this stuff
+
+dialogue type : fh|s
+D :  um , I do have a file also in addition to those things ,
+
+dialogue type : fh
+D :  but
+
+dialogue type : s
+D :  it 'll take me just a second here
+
+dialogue type : s^aa
+D :  Well , yeah ,
+
+dialogue type : s^cs.%--
+D : 
+
+dialogue type : s
+D :  I mean , that 's sort of my feeling about it ,
+
+dialogue type : s^cs
+D :  that you should be you should be able to translate between an XML and non - XML version
+
+dialogue type : s
+D :  cuz most at least , you know , with a focus on discourse , mostly .
+
+dialogue type : fh|s.%--
+D :  Oh ! I wanted to
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  is um a query language for research in phonetics where he wants to build in ToBI tags
+
+dialogue type : s.%--
+D :  and so you can determine
+
+dialogue type : fh|s
+D :  um I wanted to mention this to you .
+
+dialogue type : s
+D :  I was going to come by and ask you about this .
+
+dialogue type : qy^rt
+D :  Do you know about the Stuttgart um people ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  He says that uh in German " selbst " is used in two different ways
+
+dialogue type : s:s
+D :  so you have It either means uh " himself " or it means " even "
+
+dialogue type : s
+D :  and you can tell the difference in terms of uh intonation .
+
+dialogue type : fh|s
+D :  So , they have the recordings such that they can locate things uh with by searching for part of speech and also intonational tags .
+
+dialogue type : fg|s^tc
+D :  Anyway , that 's that .
+
+dialogue type : s^aa
+D :  This is true .
+
+dialogue type : s^aa^r
+D :  This is true .
+
+dialogue type : s^e
+D :  Which of course is another issue .
+
+dialogue type : s^aa
+D :  Exactly so .
+
+dialogue type : fh|s
+D :  and then I have one more thing I need to find .
+
+dialogue type : s^t1.%--
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yes .
+
+dialogue type : s^bk
+D :  Oh . OK .
+
+dialogue type : s^aa
+D :  OK .
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^na
+D :  Well that 's what Morgan mentioned to me , too .
+
+dialogue type : s^e
+D : 
+
+dialogue type : s
+D :  But you asked me about uh tools and things
+
+dialogue type : fh|s
+D :  and um There 's this one
+
+dialogue type : fh|s
+D :  um This is called " Transcriber " .
+
+dialogue type : fh|s:s
+D :  um " binary distribution for for uh Linux and Solaris and SGI and Windows " .
+
+dialogue type : s:s
+D :  " Transcriber is a tool for assisting creation of speech corpora . "
+
+dialogue type : s^rt:s
+D :  " It allows to manually segment , label and transcribe speech signals "
+
+dialogue type : fh
+D :  And ,
+
+dialogue type : h|s
+D :  uh , let 's see ,
+
+dialogue type : qh
+D :  where did I get this ?
+
+dialogue type : s
+D :  I got this from U Penn .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^am
+D :  It is possible .
+
+dialogue type : s^am
+D :  It could be French .
+
+dialogue type : s^no
+D :  I can't really tell .
+
+dialogue type : s
+D :  I 've never used any of them .
+
+dialogue type : fh|s.%-
+D : 
+
+dialogue type : s
+D :  Here 's another thing I got .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^ba^fe
+D :  Oh !
+
+dialogue type : s^ba
+D :  Good idea .
+
+dialogue type : s^ba
+D :  Great idea .
+
+dialogue type : s^ba
+D :  Excellent idea .
+
+dialogue type : s:s
+D :  " Automatic annotation of prosody in Verbmobil . "
+
+dialogue type : s
+D :  This is the other think that um This is part of EAGLES ,
+
+dialogue type : fh
+D :  but um ,
+
+dialogue type : s
+D :  but here again , it 's focusing on representation rather than the tools to do this .
+
+dialogue type : qy
+D :  Why do I feel like I 'm whispering ?
+
+dialogue type : s^fe
+D :  Oh !
+
+dialogue type : s^ba^na
+D :  I think that would be lovely .
+
+dialogue type : qy^rt
+D :  Now , so , are we talking about the stage of uh simply the word stage ?
+
+dialogue type : qrr
+D :  or are you talking about tools that would allow the time alignment as well ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  Absolutely .
+
+dialogue type : b
+D :  Yeah ,
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Good .
+
+dialogue type : s^ba^r
+D :  Oh good , OK .
+
+dialogue type : b.%
+D :  Fine .
+
+dialogue type : s^ba
+D :  Oh , cool .
+
+dialogue type : b
+D :  Very cool .
+
+dialogue type : b
+D :  Cool .
+
+dialogue type : b
+D :  Cool .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^ba
+D :  Cool .
+
+dialogue type : s^ba
+D :  Oh , cool !
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  There .
+
+dialogue type : s^e
+D :  There you go .
+
+dialogue type : s.%-
+D :  I I love it when they
+
+dialogue type : %
+D :  c
+
+dialogue type : qy^rt
+D :  Did you see this one ?
+
+dialogue type : qy^r^rt
+D :  The - , Did you see this one here ?
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s^fe
+D :  Whoa !
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  you know , I roam around on on topics like this
+
+dialogue type : s^rt
+D :  And I think I got this off the U Penn
+
+dialogue type : s^e
+D :  and it does in fact cite a French site ,
+
+dialogue type : fh|s
+D :  so um they have some sort of an arrangement .
+
+dialogue type : b
+D :  Good .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I can't remember which aspect of U of U Penn I was following ,
+
+dialogue type : s
+D :  but It must have been the LDC .
+
+dialogue type : s
+D :  I I I bet you anything .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^aa
+D :  Yes .
+
+dialogue type : s
+D :  Well there 's They have a special project , as I 'm remembering ,
+
+dialogue type : fh|s
+D :  and um , usually it doesn't deal with much that has to do with discourse ,
+
+dialogue type : s
+D :  but they uh they show up in resources .
+
+dialogue type : s^ba
+D :  I like that very much ,
+
+dialogue type : s
+D :  and I and I like the idea of also doing one that 's tied in with these larger corp corpus projects .
+
+dialogue type : s
+D :  So that , you know , the fact that , yeah , it 's U Penn and all that .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s^ba
+D :  Oh , good idea .
+
+dialogue type : s
+D :  It 's like the PDA thing .
+
+dialogue type : s:qy
+D :  So , like " did the French system use Tcl ? "
+
+dialogue type : s^2
+D :  if anyone wants to know .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Yes !
+
+dialogue type : s^na
+D :  Yeah , there you go .
+
+dialogue type : s^aa
+D :  Exactly .
+
+dialogue type : s.%--
+D :  Well , my my impression
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s:qw
+D :  you know , What would you need to indicate
+
+dialogue type : s:qy
+D :  and were there tools for that
+
+dialogue type : s^df
+D :  because um I suspect that would be uh pretty time intensive .
+
+dialogue type : s
+D :  I also wanted to say , in terms of like disc you know , if there are discussions about intonation contours I do have a certain amount of background in that
+
+dialogue type : s
+D :  and I really would be I 'd like to be involved in that .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bd
+D :  Oh , not right now ,
+
+dialogue type : s
+D :  but I mean in the future .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I I do I 'd like to I like that stuff .
+
+dialogue type : qy^bu^rt
+D :  So these are near near field ?
+
+dialogue type : %--
+D :  there
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^cs
+D :  You know , if if we were to add in addition , and I 'm offering this , um to the word level , also the uh , so , stressed words , within utterances
+
+dialogue type : s^cs^e
+D :  I do think that that would help the information retrieval .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^aa
+D :  Oh , good point .
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : qy^rt
+D :  So , are are you familiar with this the MARS the MARSEC project ?
+
+dialogue type : fh|s^cc
+D :  Um , So , I 'll put this over here ,
+
+dialogue type : s^df
+D :  cuz he seems to be the chairman .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s^bk|qy^bu^d^rt
+D :  Oh , he 's not ?
+
+dialogue type : fg
+D :  Well
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : %--
+D : 
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : s.%-
+D :  Well , he can y y
+
+dialogue type : s^co
+D :  discuss discuss among yourselves .
+
+dialogue type : s
+D :  So , this is a project that um has time - aligned spoken data
+
+dialogue type : s
+D :  which is um I see it as sort of in - between um these fields
+
+dialogue type : s
+D :  because a lot of the time when people do rich um intonational and and stress - oriented transcription they don't have the digital record at the same time
+
+dialogue type : s
+D :  and the don't have it time - aligned .
+
+dialogue type : s^no
+D :  I don't know how large this is , actually .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  and it 's British
+
+dialogue type : s.%-
+D :  And you know
+
+dialogue type : fh
+D :  So .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : %-
+D :  I 'm d
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  One thing about that is that is that um in the process of of doing the word level ? it really is just as easy to put the stress in at that point .
+
+dialogue type : s^e.%-
+D : 
+
+dialogue type : s^fe
+D :  Oh , oh ,
+
+dialogue type : s.%--
+D :  well , see in my pilot stuff ,
+
+dialogue type : s^na
+D :  so in the half hour or so that I 'm doing . I 'd just as soon put it in ,
+
+dialogue type : s^df.%--
+D : 
+
+dialogue type : s
+D :  I mean You know of course , Rosaria 's pursuing this this area
+
+dialogue type : s
+D :  but I really do think from everything that I 've run across that um you you should get gain in terms of the uh uh what you were saying ,
+
+dialogue type : s^e
+D :  the information retrieval aspects from that .
+
+dialogue type : s
+D : 
+
+dialogue type : s.%--
+D :  I mean , it 's it 's like uh
+
+dialogue type : s^no
+D :  I mean I don't know how how reliable Lea is ,
+
+dialogue type : s
+D :  but if this idea of islands of of um for di whatever they are .
+
+dialogue type : s
+D :  r r islands of reliability or whatever it is .
+
+dialogue type : s
+D :  The stressed w stressed words .
+
+dialogue type : qy^rt
+D :  Is that it ?
+
+dialogue type : b
+D :  OK .
+
+dialogue type : %-
+D :  I mean
+
+dialogue type : s
+D :  The claim that uh words that get stressed are easier to recognize .
+
+dialogue type : fh|s
+D :  So , I mean , I I think it c there 's be sort of a benefit with very minimal input .
+
+dialogue type : s^df
+D :  Cuz when you listen to a sentence , you can tell If it 's contrastive stress
+
+dialogue type : s:s
+D :  you say " Oh ! that word was stressed "
+
+dialogue type : qh
+D :  and why the heck not put it in at the word level ?
+
+dialogue type : fh|s^cs.%--
+D : 
+
+dialogue type : s
+D :  cuz it it 's just it 's there .
+
+dialogue type : s^na
+D :  It 's not it doesn't take any thinking .
+
+dialogue type : s
+D :  I 'm not going to talk about , you know uh , trying grade them in any kind of careful way ,
+
+dialogue type : s^e
+D :  but just indicate if th if there 's a prominent word , to indicate it .
+
+dialogue type : s^aa^r
+D :  Whatever .
+
+dialogue type : s^aa^r
+D :  Whatever .
+
+dialogue type : %-
+D : 
+
+dialogue type : s
+D :  Yeah , people do different different ways ,
+
+dialogue type : s
+D :  a and so just as long as it 's systematic in my view , you can always filter it into some other format .
+
+dialogue type : qw
+D :  How many of these do you have ,
+
+dialogue type : s^e
+D :  these near mikes ?
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Oh .
+
+dialogue type : s^bk
+D :  Oh , I see .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : b
+D :  Interesting .
+
+dialogue type : b
+D :  Very interesting .
+
+dialogue type : s^fe
+D :  Wow ,
+
+dialogue type : s^ba
+D :  I 'm just really impressed by this ,
+
+dialogue type : fh
+D :  um , yeah .
+
+dialogue type : s^rt
+D :  Well , this is , I mean , compared to the way people normally do , like , discourse stuff ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I mean they 've gotten away from w reel - to - reel tapes ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  and they do have DAT recorders ,
+
+dialogue type : s
+D : 
+
+dialogue type : s^ba
+D :  but I mean this is just wonderful , the uh added level of yeah , compactness in the channels .
+
+dialogue type : s
+D :  I do find myself whispering .
+
+dialogue type : s.%-
+D :  I mean , I suspect My normal s .
+
+dialogue type : s^no
+D :  I don't know why .
+
+dialogue type : s
+D :  It 's bizarre .
+
+dialogue type : s
+D :  yeah , this is not really my normal pattern .
+
+dialogue type : s
+D :  I think the problem is that I 'm afraid that I 'm talking into someone 's ear .
+
+dialogue type : s
+D :  I really do .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  And I realize now that you have volume uh control .
+
+dialogue type : fh
+D :  But uh
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Oh good .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Good .
+
+dialogue type : s^bk
+D :  I 'm glad .
+
+dialogue type : b
+D :  Good .
+
+dialogue type : s^ba
+D :  That 's great .
+
+dialogue type : qy
+D :  Are these more expensive or less expensive than this kind ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  It would be like the television . effect or something , maybe .
+
+dialogue type : s
+D :  That 's probably why I thought he was the chairman .
+
+dialogue type : s^aa
+D :  Oh good .
+
+dialogue type : b
+D :  Good .
+
+dialogue type : b
+D :  Good .
+
+dialogue type : z
+D :  Here , here !
+
+dialogue type : z
+D :  OK , this is Jane .
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  Alrighty .
+

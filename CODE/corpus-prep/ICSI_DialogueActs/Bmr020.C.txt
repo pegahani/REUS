@@ -1,0 +1,1308 @@
+dialogue type : z
+C :  Cur - curly brackets .
+
+dialogue type : z
+C :  Channel two .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Uh
+
+dialogue type : z
+C :  Not ri not right now .
+
+dialogue type : z
+C :  I mean No .
+
+dialogue type : z
+C :  That 's interesting .
+
+dialogue type : z
+C :  Hmm .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^na
+C :  I think so too .
+
+dialogue type : h|s^nd
+C :  Um , I haven't gotten over to there yet ,
+
+dialogue type : s
+C :  but what our discussion yesterday , I really I I wanna submit one .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  And , you offered to to join me , if you want me to .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s^bk|s^aa
+C :  Yeah , that 's right .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : qw^br^d^rt
+C :  In in terms of what ?
+
+dialogue type : %-
+C :  In term
+
+dialogue type : %--
+C :  One ?
+
+dialogue type : s^fe
+C :  Wow !
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qy^bu.%-
+C :  Do you mean ,
+
+dialogue type : %
+C : 
+
+dialogue type : qy
+C :  is it partly , eh , c correctly identified words ?
+
+dialogue type : qrr.%--
+C : 
+
+dialogue type : qrr
+C :  or just overall volume ?
+
+dialogue type : s^bk
+C :  Oh . OK .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Oh ,
+
+dialogue type : s^ba
+C :  that 's interesting .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  Well , of course , no , it doesn't necessarily go against what he said ,
+
+dialogue type : s^df
+C :  cuz he said " generally speaking " . In order to to go against that kind of a claim you 'd have to big canvassing .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Exactly .
+
+dialogue type : s^df
+C :  It 's i it 's not against his conclusion ,
+
+dialogue type : s^df
+C :  it just says that it 's a bi bell curve , and that , you have something that has a nice range , in your sampling .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Yeah ,
+
+dialogue type : s^ba
+C :  that 's a good point .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^ba
+C :  Good idea .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s^aa|s^na
+C :  Yes , that 's right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : qy
+C :  Di - did you use upper - lower case also , or not ?
+
+dialogue type : s.%-
+C :  U upper lower case or no ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bd
+C :  That 's OK
+
+dialogue type : %--
+C : 
+
+dialogue type : qy^d
+C :  Comma also or not ?
+
+dialogue type : s
+C :  I have a reference for that though .
+
+dialogue type : s^aa
+C :  Uh - huh .
+
+dialogue type : h|s^no
+C :  Well , I didn't know about Liz 's finding on that ,
+
+dialogue type : s
+C :  but I know of another paper that talks about something
+
+dialogue type : %--
+C : 
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s
+C :  He still has his Unix account here , you know .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  I 'd hafta add him to Meeting Recorder , I guess ,
+
+dialogue type : %--
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ba
+C :  That 's good .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : h|qy^d^rt
+C :  So , um you know that Adam created um , a b a script to generate the beep file ?
+
+dialogue type : s^e
+C :  To then create something to send to IBM .
+
+dialogue type : fh
+C :  And , um ,
+
+dialogue type : s^cs
+C :  you you should probably talk about that .
+
+dialogue type : s
+C :  But but you were gonna to use the originally transcribed file
+
+dialogue type : s^df
+C :  because I tightened the time bins
+
+dialogue type : s^e
+C :  and that 's also the one that they had already in trying to debug the first stage of this .
+
+dialogue type : fh
+C :  And uh ,
+
+dialogue type : s.%--
+C :  my understanding was that ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  I haven't I haven't listened to it yet ,
+
+dialogue type : s^ba
+C :  but it sounded very good
+
+dialogue type : s^bu
+C :  and and I understand that you guys were going to have a meeting today , before this meeting .
+
+dialogue type : s^ba
+C :  Excellent .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Oh !
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ba
+C :  Ah , interesting .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Oh , sure .
+
+dialogue type : s^aa
+C :  Yeah , sure .
+
+dialogue type : s^na
+C :  Makes sense .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Ah !
+
+dialogue type : s^ba
+C :  Clever .
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s^ba
+C :  Clever .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^ba
+C :  Excellent .
+
+dialogue type : s
+C :  And that 's the purpose .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ba
+C :  Great idea !
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^aa
+C :  Exactly .
+
+dialogue type : s^m^na
+C : 
+
+dialogue type : s^bu
+C :  So that is the training meeting .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s^ba
+C :  Oh , interesting .
+
+dialogue type : s^bk
+C :  Ah !
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ba
+C :  Interesting idea .
+
+dialogue type : s^ba
+C :  Great .
+
+dialogue type : s^na
+C :  I went back and hand - marked the ba the bins ,
+
+dialogue type : s
+C :  I ment I mentioned that last week .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Sure .
+
+dialogue type : b
+C :  Sure .
+
+dialogue type : s^bk
+C :  Yeah ,
+
+dialogue type : s^na
+C : 
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  They were , um , reasonably tight , but not excruciatingly tight .
+
+dialogue type : s^df
+C :  That would 've taken more time .
+
+dialogue type : s^df.%-
+C : 
+
+dialogue type : s^no
+C :  I can't answer that ,
+
+dialogue type : s
+C :  but but my main goal was um , in these areas where you have a three - way overlap and one of the overlaps involves " yeah " , and it 's swimming in this huge bin , I wanted to get it so that it was clo more closely localized .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I wanted it to be able to l he be heard normally ,
+
+dialogue type : s^e
+C :  so that if you if you play back that bin and have it in the mode where it stops at the boundary , it sounds like a normal word .
+
+dialogue type : s^e
+C : 
+
+dialogue type : s^e
+C :  i it sounds normal .
+
+dialogue type : s^e
+C :  It 's as if the person could 've stopped there .
+
+dialogue type : s^e
+C :  And it wouldn't have been an awkward place to stop .
+
+dialogue type : s
+C :  Now sometimes you know , it 's these are involved in places where there was no time .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I mean some cases , there 're some people um , who who have very long segments of discourse where , you know , they 'll they 'll breath and then I put a break .
+
+dialogue type : s
+C :  But other than that , it 's really pretty continuous
+
+dialogue type : s^e
+C :  and this includes things like going from one sentence into the u one utterance into the next , one sentence into the next ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : s^e
+C :  w without really stopping .
+
+dialogue type : s.%--
+C :  I mean i they , i
+
+dialogue type : s
+C :  you know in writing you have this two spaces and a big gap
+
+dialogue type : qy^d^f^g
+C :  you know .
+
+dialogue type : s.%--
+C :  But but uh i some people are planning
+
+dialogue type : s
+C :  and , you know , I mean , a lot we always are planning what we 're going to say next .
+
+dialogue type : s
+C :  But uh , in which case , the gap between these two complete syntactic units , um , which of course n spoken things are not always complete syntactically ,
+
+dialogue type : s
+C :  but but it would be a shorter p shorter break than maybe you might like .
+
+dialogue type : s
+C :  But the goal there was to not have the text be so so crudely parsed in a time bin .
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : s
+C :  and also you know , from a speech recognition purpose my impression is that if you have too long a unit , it 's it doesn't help you very much either ,
+
+dialogue type : s^e
+C :  cuz of the memory .
+
+dialogue type : s
+C :  So , that means that the amount of time after something is variable depending partly on context ,
+
+dialogue type : s
+C :  but my general goal when there was sufficient space , room , pause after it to have it be kind of a natural feeling gap .
+
+dialogue type : s^no
+C :  Which I c I don't know what it would be quantified as .
+
+dialogue type : s
+C :  You know , Wally Chafe says that um , in producing narratives , the spurts that people use tend to be , uh , that the the what would be a pause might be something like two two seconds .
+
+dialogue type : s^e
+C :  And um , that would be , you know one speaker .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I was interested that you chose uh , you know um , the you know that you use
+
+dialogue type : s^df
+C :  cuz I think that 's a unit that would be more consistent with sociolinguistics .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I I hand - adjusted two of them
+
+dialogue type : s
+C :  I mentioned before ,
+
+dialogue type : s
+C :  and I sent I sent email ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  And I sent the path .
+
+dialogue type : s
+C :  But I like this idea of uh , for our purposes for the for the IBM preparation , uh , n having these joined together ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  It makes a lot of sense .
+
+dialogue type : s^cs
+C :  And in terms of transcription , it would be easy to do it that way .
+
+dialogue type : s^e
+C :  The way that they have with the longer units ,
+
+dialogue type : s^e
+C :  not having to fuss with adding these units at this time .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : fg
+C :  Well ,
+
+dialogue type : s^aa
+C :  that 's that 's right ,
+
+dialogue type : s
+C :  but you know , thi this brings me to the other f stage of this which I discussed with you earlier today ,
+
+dialogue type : s
+C :  which is the second stage is um , w what to do in terms of the transcribers adjustment of these data .
+
+dialogue type : s
+C :  I discussed this with you too .
+
+dialogue type : fh|s.%--
+C :  Um , the tr
+
+dialogue type : s
+C :  so the idea initially was , we would get uh , for the new meetings ,
+
+dialogue type : s^e
+C :  so the e EDU meetings , that Thilo ha has now presegmented all of them for us , on a channel by channel basis .
+
+dialogue type : fh
+C :  And um ,
+
+dialogue type : s
+C :  so , I 've assigned I 've I 've assigned them to our transcribers
+
+dialogue type : fh
+C :  and um ,
+
+dialogue type : s
+C :  so far I 've discussed it with one ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  And I had a about an hour discussion with her about this yesterday ,
+
+dialogue type : s
+C :  we went through uh EDU - one , at some extent .
+
+dialogue type : s
+C :  And it occurred to me that um that basically what we have in this kind of a format is you could consider it as a staggered mixed file ,
+
+dialogue type : s
+C : 
+
+dialogue type : fh|s^e
+C :  um , about whether the tran the IBM transcribers should hear a single channel audio , or a mixed channel audio .
+
+dialogue type : fh|s
+C :  And um , in in a way , by by having this this chunk and then the backchannel after it , it 's like a stagal staggered mixed channel .
+
+dialogue type : fh|s.%--
+C :  And um , it occurred to me in my discussion with her yesterday that um ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : s
+C :  the the the maximal gain , it 's from the IBM people , may be in long stretches of connected speech .
+
+dialogue type : s^df
+C :  So it 's basically a whole bunch of words which they can really do , because of the continuity within that person 's turn .
+
+dialogue type : fh|s^cs
+C :  So , what I 'm thinking , and it may be that not all meetings will be good for this , but but what I 'm thinking is that in the EDU meetings , they tend to be driven by a couple of dominant speakers .
+
+dialogue type : s^cs
+C :  And , if the chunked files focused on the dominant speakers , then , when when it got s patched together when it comes back from IBM , we can add the backchannels .
+
+dialogue type : s^ba
+C :  It seems to me that um , you know , the backchannels per - se wouldn't be so hard ,
+
+dialogue type : s.%--
+C :  but then there 's this question of the time @ @ uh , marking , and whether the beeps would be uh y y y
+
+dialogue type : s^no
+C :  And I 'm not exactly sure how that how that would work with the with the backchannels .
+
+dialogue type : fh
+C :  And ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^ba
+C :  And certainly things that are intrusions of multiple words , taken out of context and displaced in time from where they occurred , that would be hard .
+
+dialogue type : s
+C :  So , m my thought is i I 'm having this transcriber go through the EDU - one meeting , and indicate a start time f for each dominant speaker , endpoi end time for each dominant speaker ,
+
+dialogue type : s
+C :  and the idea that these units would be generated for the dominant speakers , and maybe not for the other channels .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  I think I I think um , you know , the original plan was that the transcriber would adjust the t the boundaries , and all that for all the channels
+
+dialogue type : s
+C :  but , you know , that is so time - consuming ,
+
+dialogue type : s^df
+C :  and since we have a bottleneck here , we want to get IBM things that are usable s as soon as possible ,
+
+dialogue type : s^df
+C :  then this seemed to me it 'd be a way of gett to get them a flood of data ,
+
+dialogue type : s^e
+C :  which would be useful when it comes back to us .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C : 
+
+dialogue type : s^e
+C :  w uh , so you know , so that that bin would be marked as it as double dots
+
+dialogue type : s^e
+C :  and she 'll just add an S .
+
+dialogue type : s^e
+C :  And in the other in the other case , if it 's marked as speech , and really there 's nothing transcribable in it , then she 's going to put a s dash ,
+
+dialogue type : s^cc
+C :  and I 'll go through and it and um , you know , with a with a substitution command , get it so that it 's clear that those are the other category .
+
+dialogue type : s^cc
+C :  I 'll just , you know , recode them .
+
+dialogue type : fh|s
+C :  But um , um , the transcribable events that um , I 'm considering in this , uh , continue to be laugh , as well as speech , and cough and things like that ,
+
+dialogue type : s
+C :  so I 'm not stripping out anything ,
+
+dialogue type : s^e
+C :  just just you know , being very lenient in what 's considered speech .
+
+dialogue type : qw^d
+C :  Yeah ?
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : s
+C :  So what it what it what it involves is is really a s uh , uh , the original pr procedure ,
+
+dialogue type : s^e
+C :  but only applied to uh , a certain strategically chosen s aspect of the data .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^na
+C :  You got it .
+
+dialogue type : s^ar
+C :  Yes !
+
+dialogue type : s^ar^r
+C :  Yes !
+
+dialogue type : s^aa^fe
+C :  Oh yeah !
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  And then um , the transcriber , instead of going painstakingly through all the channels and moving the boundaries around , and deciding if it 's speech or not , but not transcribing anything .
+
+dialogue type : s^bk
+C :  OK ?
+
+dialogue type : s
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  So what they do is they identify who 's the di dominant speaker , and when the speaker starts .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  It 's based on your se presegmentation ,
+
+dialogue type : s
+C :  that 's the basic thing .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Exactly .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^ar
+C :  Uh No . No , no .
+
+dialogue type : s^ar
+C :  Huh - uh .
+
+dialogue type : %-
+C :  S
+
+dialogue type : s^df
+C :  That 's that 's why she 's notating the start and end points of the dominant speakers .
+
+dialogue type : s^e
+C :  So , on a you know , so i in EDU - one , i as far as I listened to it , you start off with a a s section by Jerry .
+
+dialogue type : s^e
+C :  So Jerry starts at minute so - and - so ,
+
+dialogue type : s^e
+C :  and goes until minute so - and - so .
+
+dialogue type : s^e
+C :  And then Mark Paskin comes in .
+
+dialogue type : s^e
+C :  And he starts at minute such - and - such ,
+
+dialogue type : s^e
+C :  and goes on till minute so - and - so .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  And then meanwhile , she 's listening to both of these guys ' channels ,
+
+dialogue type : s
+C :  determining if there 're any cases of misclassification of speech as nothing , and nothing as speech ,
+
+dialogue type : s
+C :  and a and adding a tag if that happens .
+
+dialogue type : s
+C :  But you know , I wanted to say , his segmentation is so good , that um , the part that I listened to with her yesterday didn't need any adjustments of the bins .
+
+dialogue type : s
+C :  So far we haven't .
+
+dialogue type : s
+C :  So this is not gonna be a major part of the process ,
+
+dialogue type : s^e.%-
+C : 
+
+dialogue type : b
+C :  Mm - hmm ?
+
+dialogue type : s.%--
+C : 
+
+dialogue type : h
+C :  Well , OK .
+
+dialogue type : s
+C :  She i It 's a question of how much time we want our transcriber to invest here when she 's gonna have to invest that when it comes back from IBM anyway .
+
+dialogue type : qy
+C :  So if it 's only inserting " mm - hmm "s here and there , then , wouldn't that be something that would be just as efficient to do at this end , instead of having it go through I B M , then be patched together , then be double checked here .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^na
+C :  I 'm I 'm open to that ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fg
+C :  Well yea
+
+dialogue type : s^bk|s^ba
+C :  OK , good .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bu
+C :  Now , you were saying that they they differ in how well they work depending on channel s sys systems and stuff .
+
+dialogue type : s^ba
+C :  But EDU is great .
+
+dialogue type : s^ba
+C :  How interesting .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qy^bh
+C :  Yeah ?
+
+dialogue type : qy^bh
+C :  Yeah ?
+
+dialogue type : s^2
+C :  Is intelligible .
+
+dialogue type : s^ba
+C :  That 's interesting !
+
+dialogue type : s^df
+C :  Cuz that 's that 's directly related to the e end task .
+
+dialogue type : s^ba^fe
+C :  How interesting !
+
+dialogue type : s^nd
+C :  Well , eh , listening does take time too .
+
+dialogue type : s^ba
+C :  How interesting !
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  So I was gonna say , EDU - one is good enough ,
+
+dialogue type : s^cs
+C :  maybe we could include it in this in this set of uh , this stuff we send .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : s^bk
+C :  Oh , I see .
+
+dialogue type : s
+C :  Know what numbers .
+
+dialogue type : s^ba
+C :  Oh , that 'd be great .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  They do already .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Well , we have the unintelligibility convention .
+
+dialogue type : s
+C :  And actually they have one also ,
+
+dialogue type : s^e.%--
+C : 
+
+dialogue type : s^t3
+C :  Certainty .
+
+dialogue type : qw.%-
+C :  Was is it in a in a what what is the t
+
+dialogue type : s^bu
+C :  In a good meeting ,
+
+dialogue type : qw.%-
+C :  what ?
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Oh I see ,
+
+dialogue type : s
+C :  the characteristics .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : %
+C :  Just
+
+dialogue type : b
+C :  Hmm !
+
+dialogue type : s
+C :  The other problem is , that when it when it uh d i on the breathy ones , where you get breathing , uh , inti indicated as speech .
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : s^cs
+C :  We could still do the beep file .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^ba
+C :  That would be great .
+
+dialogue type : s^ba^na
+C :  Wow , that 's a great idea .
+
+dialogue type : s^ba
+C :  Excellent .
+
+dialogue type : s^na
+C :  Oh , I 'd be delighted with that ,
+
+dialogue type : s
+C :  I I was very impressed with the with the result .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Oh yeah ,
+
+dialogue type : s^ba
+C :  interesting .
+
+dialogue type : s^bk
+C :  Oh yeah .
+
+dialogue type : s^bk
+C :  Oh yeah ,
+
+dialogue type : s^na
+C :  I pr I much prefer this ,
+
+dialogue type : s^na.%--
+C : 
+
+dialogue type : s^df
+C :  Cuz I I don't think the staggered mixed channel is awfully good as a way of handling overlaps .
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Oh , I 'd be delighted .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Well you were suggesting You suggested maybe just not sending that part of the meeting .
+
+dialogue type : %--
+C : 
+
+dialogue type : qy.%-
+C : 
+
+dialogue type : qy.%-
+C : 
+
+dialogue type : s^co
+C :  Yeah , go ahead .
+
+dialogue type : fg
+C :  Well ,
+
+dialogue type : fg
+C : 
+
+dialogue type : fg
+C : 
+
+dialogue type : s
+C :  So my standard approach has been if it 's not someone close - miked , then , they don't end up on one of the close - miked channels .
+
+dialogue type : s^e
+C :  They end up on a different channel .
+
+dialogue type : s^e
+C :  And we have any number of channels available ,
+
+dialogue type : s^e
+C :  I mean it 's an infinite number of channels .
+
+dialogue type : s^cs
+C :  So just put them on some other channel .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^aa
+C :  that 's right .
+
+dialogue type : s
+C :  Well , they have a convention , in their own procedures , which is for a background sound .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^cs^nd
+C :  Oh , I think I think it 'd be easy to to say " background laptop " .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk.%--
+C :  Oh , I s
+
+dialogue type : s
+C :  background laptop or , background LT wouldn't take any time .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^nd
+C :  Oh , you can tell .
+
+dialogue type : qy^nd
+C :  Acoustically , can't you tell ?
+
+dialogue type : qy^bh
+C :  Oh is it ?
+
+dialogue type : s^bk^fe
+C :  Oh !
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ba^na
+C :  That sounds good .
+
+dialogue type : s^ba^na
+C :  That sounds good .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : %-
+C :  s a
+
+dialogue type : s
+C :  Well , as it comes back , we have a uh when we can use the channelized interface for encoding it , then it 'll be easy for us to handle .
+
+dialogue type : s
+C :  But but if if out of context , they can't tell if it 's a channeled speak uh , you know , a close - miked speaker or not , then that would be confusing to them .
+
+dialogue type : fh
+C :  I don't know ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Either way would be fine with me ,
+
+dialogue type : s
+C :  I don't really care .
+
+dialogue type : s^ng^tc
+C :  I have o I have one question .
+
+dialogue type : qy^cs^rt
+C :  Do you think we should send the um that whole meeting to them and not worry about pre - processing it ?
+
+dialogue type : qrr.%--
+C : 
+
+dialogue type : s^cs
+C :  Uh , what I mean is we we should leave the part with the audio in the uh , beep file that we send to IBM for that one ,
+
+dialogue type : qy^cs
+C :  or should we start after the that part of the meeting is over
+
+dialogue type : s^e
+C :  in what we send .
+
+dialogue type : s
+C :  So , the part where they 're using sounds from their from their laptops .
+
+dialogue type : qy
+C :  w If we have speech from the laptop should we just uh , excise that from what we send to IBM ,
+
+dialogue type : qrr
+C :  or should we i give it to them and let them do with it what they can ?
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : s^cs
+C :  that 'd be nice to have a a uniform procedure .
+
+dialogue type : s^aa
+C :  Good .
+
+dialogue type : s
+C :  And see how well they do .
+
+dialogue type : s^cs
+C :  And give them freedom to to indicate if it 's just not workable .
+
+dialogue type : s^bk
+C :  Yeah ,
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : s^ba
+C :  excellent .
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : b
+C :  yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Alright .
+
+dialogue type : s^ba
+C :  That 's great .
+
+dialogue type : s^ba
+C :  Oh , interesting .
+
+dialogue type : fg
+C :  OK ,
+
+dialogue type : fg
+C :  alright .
+
+dialogue type : s
+C :  Digits .
+
+dialogue type : s^bk|s
+C :  OK , so we read the transcript number first ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s
+C :  Uh , quarter to four .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : z
+C :  It 's kind of interesting if there 're any more errors in these , than we had the first set .
+
+dialogue type : z
+C :  I usually do .
+
+dialogue type : z
+C :  I didn't this time .
+

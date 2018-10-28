@@ -1,0 +1,1614 @@
+dialogue type : z
+D :  OK ,
+
+dialogue type : z
+D :  we can start ?
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  Thank you , Adam .
+
+dialogue type : z
+D :  I will call you then when we are ready .
+
+dialogue type : z
+D :  I believe , maybe one hour , in that sense .
+
+dialogue type : fg
+D :  OK ,
+
+dialogue type : s^rt
+D :  welcome to our next meeting .
+
+dialogue type : fh|s
+D :  Um I have couple of points we should discussed .
+
+dialogue type : s^rt
+D :  One is related to the proposal ,
+
+dialogue type : qy^co
+D :  Michael , please can you close the door ?
+
+dialogue type : s^ft
+D :  Thank you .
+
+dialogue type : fh
+D :  And , um
+
+dialogue type : s^rt
+D :  furthermore , as most of you know I will leave in tenth of December ,
+
+dialogue type : s^rt^t
+D :  I think we should discuss how we proceed in the meantime ,
+
+dialogue type : s^rt
+D :  because I get , I would like to say , different signals from Siemens ,
+
+dialogue type : s
+D :  I believe , in the meantime it 's a higher probability that I will return ,
+
+dialogue type : s^df^rt
+D :  but based on the pro uh , procedure to get a J - one visa and the IP six six it will be I would like to say , earliest stage will be end of January ,
+
+dialogue type : s
+D :  so that means we have to get over six weeks
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  Then furthermore I would like to know the status of everybody .
+
+dialogue type : s
+D :  I know for sure , OK , um Miguel , you will have your plans for this , uh , ongoing process , uh , concerning your work .
+
+dialogue type : s
+D :  OK , from you it 's definitely clear , in principle .
+
+dialogue type : qw^rt
+D :  OK , for Michael , what are your current plans
+
+dialogue type : s
+D :  and Dietmar , maybe you then , also .
+
+dialogue type : s^rt
+D :  What we have discussed , in principle , concerning the ongoing process with U USAIA and also this , uh , your current work ,
+
+dialogue type : s^rt
+D :  and from my point , it seems to be clear that I will go back
+
+dialogue type : s
+D :  definitely at tenth of December ,
+
+dialogue type : s
+D :  and , as I mentioned before , probably will be more than fifty percent , I would like to say , that I will be come back to get the freedom to launch here the project in the sense in whatever kind of form and get , in principle , paid by another project within Siemens .
+
+dialogue type : fh|s
+D :  So the point is how long I will stay .
+
+dialogue type : s
+D :  I believe , a couple of months definitely
+
+dialogue type : s
+D :  and based on the success , I think that 's always an ongoing process to go back to uh , to Germany for a couple of weeks
+
+dialogue type : s
+D :  and then come here and and go on with with this work
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  so that is my current opinion , concerning how Siemens deal with with my , uh , ongoing effort .
+
+dialogue type : s^ft
+D :  And , furthermore , I would like to First of all , thanks to uh Dietmar
+
+dialogue type : s^df
+D :  because he started to use a testbed .
+
+dialogue type : fh
+D :  Eh
+
+dialogue type : s^rt
+D :  in principle , in his spare time .
+
+dialogue type : s^aa
+D :  Yeah !
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  So so the first , uh uh , box , this morning .
+
+dialogue type : s^cc
+D :  I will set up , definitely , in my spare time , in the evenings and the weekends the second box ,
+
+dialogue type : s
+D :  and I 'm looking for two other volunteers who are setting the third and the fourth box .
+
+dialogue type : s
+D :  A box is a s P C .
+
+dialogue type : s^cs
+D :  Equipped with with we should equipped it with with Linux
+
+dialogue type : s^cs^rt
+D :  or maybe too with Free BSD ,
+
+dialogue type : s^no
+D :  I doubt I don't know
+
+dialogue type : %-
+D : 
+
+dialogue type : s^j
+D :  And now we have an expert .
+
+dialogue type : s.%-
+D :  Yeah , to remov
+
+dialogue type : s
+D :  So that you can pull eh the plug in the removable hard disk to the ID bus
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Uh - huh ,
+
+dialogue type : fh
+D : 
+
+dialogue type : qw
+D :  Why you are laughing ?
+
+dialogue type : %--
+D :  I ju
+
+dialogue type : s^no
+D :  I don't know ,
+
+dialogue type : s
+D :  I cou I s I didn't see him ,
+
+dialogue type : s^no
+D :  so I don't know what he did .
+
+dialogue type : s
+D :  I know in the meantime it 's running ,
+
+dialogue type : s^cc
+D :  and I will definitely set up the next one .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s.%--
+D :  though my idea maybe you eh can equip it with a
+
+dialogue type : s^no
+D :  I don't know what your time constrain whether the time constraint allows you to set up one with with Free BSD , for instance .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : b
+D :  uh - huh .
+
+dialogue type : qy^rt
+D :  Do you find the time ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : qy^bu^d^m
+D :  No promises ?
+
+dialogue type : s
+D :  and even maybe to to , uh put your I G M P stuff on it .
+
+dialogue type : fh
+D :  Eh
+
+dialogue type : s^bk^m
+D :  No promises .
+
+dialogue type : s^ba
+D :  Ah , he 's very hard to sell .
+
+dialogue type : s
+D :  Nee , because
+
+dialogue type : qy^rt
+D :  Could we wait until the network is running ?
+
+dialogue type : s^df
+D :  Because currently it 's not possible , uh , based on certain fire wall constraints .
+
+dialogue type : s^df
+D :  I believe David is , uh , currently working on that . to set up the fire wall ,
+
+dialogue type : s^df
+D :  and he 's not an expert for that
+
+dialogue type : s^cc
+D :  and when I get the signal I will ask one more time .
+
+dialogue type : s^ft
+D :  Nah , but nevertheless thanks to Dietmar that he @ @ .
+
+dialogue type : s^aa
+D :  Yes ,
+
+dialogue type : s^df
+D :  we have , eh , for for secure socket ,
+
+dialogue type : s^df
+D :  and , uh for web access , the fire wall is open .
+
+dialogue type : s
+D :  That 's all .
+
+dialogue type : s|qy^d^g^rt
+D :  And But currently it 's not working , right ?
+
+dialogue type : s.%--
+D :  But then ,
+
+dialogue type : fh
+D :  uh
+
+dialogue type : s^aa
+D :  Yes .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^na
+D :  You have internet outside access ,
+
+dialogue type : s
+D :  but no telnet and not R - login or whatever kind of things , you know .
+
+dialogue type : s^nd
+D :  Yeah , FTP yes .
+
+dialogue type : s
+D :  But no telnet .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  The the the point is that we will use it , as it is uh described several times , that we will use it as a local network , in principle ,
+
+dialogue type : s
+D :  but it doesn't make sense to use certain kinds of uh , media transportation f to put some stuff you need from your PC or your LS to this , uh uh , uh , to this testbed ,
+
+dialogue type : fh
+D :  you know .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  you download it , if that s must be possible from the network ,
+
+dialogue type : s
+D :  but normally it should be used as um uh for demonstrations or to figure out if you have a scenario where you have to use more than , uh , one box which you have on your desktop ,
+
+dialogue type : s^df
+D :  cuz that is the primary , uh uh reason for this testbed .
+
+dialogue type : s
+D :  So , definitely you have to have web access to download the necessary files .
+
+dialogue type : s^ft^rt
+D :  So and then furthermore , one more thanks to Claudia .
+
+dialogue type : s^df
+D :  He did a lot of work
+
+dialogue type : s^df
+D :  and I could only pass her some advices and some discussions with her concerning the web pages .
+
+dialogue type : s^rt
+D :  And now we are , in principle , in the state we have to do it with a project area .
+
+dialogue type : s
+D :  But they 're also some contributions from you guys requested .
+
+dialogue type : fh
+D :  Um
+
+dialogue type : s.%--
+D :  and the alumni page , in principle , we have to ,
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  alumnis ,
+
+dialogue type : s^aa
+D :  yeah .
+
+dialogue type : qr^bu^rt
+D :  Is it " alumni " " alumni " ?
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk^m
+D :  " Alumni " .
+
+dialogue type : s^df
+D :  I 'm not sure how to pronounce this word .
+
+dialogue type : qw^rt
+D :  Huh ?
+
+dialogue type : fh
+D : 
+
+dialogue type : fh
+D :  But , um
+
+dialogue type : s^co
+D :  I think everybody should take a look to the web pages , and inform Claudia if something , uh , has to be improved or if there 's some comments
+
+dialogue type : fh
+D :  or
+
+dialogue type : fh
+D :  uh
+
+dialogue type : s^j
+D :  He 's laughing all the time .
+
+dialogue type : qw
+D :  Why ?
+
+dialogue type : s^df
+D :  Uh because it is you know , that 's very important
+
+dialogue type : s^am^df
+D :  maybe now not for us
+
+dialogue type : s^am^df
+D :  but maybe for our successors
+
+dialogue type : s^am^df
+D :  and maybe somebody will come back once a day or send some students or some colleagues or whatever .
+
+dialogue type : s^cc
+D :  So , my point of view I will doc I will documented everything when I will leave here in the sense that potential successor as a group leader can hook in with these things and that these web pages will be updated every time when it is necessary .
+
+dialogue type : s^df
+D :  We tried to do it , so that it must be at least updated only when really major changes happen .
+
+dialogue type : s^e
+D :  So that means somebody 's leaving the group ,
+
+dialogue type : s^e
+D :  uh , somebody is joining the group ,
+
+dialogue type : s^e
+D :  a new project is started ,
+
+dialogue type : fh|s^cs
+D :  but , uh , the effort should be minimized as possible .
+
+dialogue type : fh|s^co^rt
+D :  And , so please take a look to the web pages
+
+dialogue type : fh
+D :  and
+
+dialogue type : s
+D :  I have announced in the project area the major headlines .
+
+dialogue type : qy^co^d^rt
+D :  And especially , Wilbert , maybe you can write something about yours ?
+
+dialogue type : s.%--
+D :  I call it , I believe , " Multicast " and then " Development deployment " , eh , for for source specific multicas
+
+dialogue type : s^cs
+D :  maybe a few lines ,
+
+dialogue type : s^cs
+D :  maybe a picture .
+
+dialogue type : s^co
+D :  And something like that should be added to USAIA ?
+
+dialogue type : s^bk|s
+D :  OK , that 's my stuff .
+
+dialogue type : fh
+D :  And
+
+dialogue type : fh
+D :  um
+
+dialogue type : s^rt^tc
+D :  then the next point is then this active routing stuff ?
+
+dialogue type : fh
+D :  Um
+
+dialogue type : s
+D :  I would like to discuss it before ,
+
+dialogue type : s^df
+D :  but you were busy .
+
+dialogue type : fh
+D : 
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s^cs
+D :  I believe , it must be adjusted to the current activities a little bit more .
+
+dialogue type : fh
+D :  And , um
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  It is not worth to discuss it now
+
+dialogue type : s^df
+D :  because nobody raised it before .
+
+dialogue type : fh|s^co
+D :  And , uh , so l let us have a bilateral discussion afterwards .
+
+dialogue type : s^cs
+D :  I would what I would like to have is that um , your contributions is related to certain kind of things happened here .
+
+dialogue type : s
+D :  And that means really to the project proposal itself and also maybe to the USAIA architecture ,
+
+dialogue type : s
+D :  in that sense , that at certain stages , cuz it 's a general architecture , certain stages maybe to future mobile core networks , that it is related to these kind of things .
+
+dialogue type : fh|s^co
+D :  Um , having uh , I what I have in mind is that things should not be started from the end system .
+
+dialogue type : s
+D :  That 's my principle concern ,
+
+dialogue type : s
+D :  because that will never be happen , from my point of view .
+
+dialogue type : s^co
+D :  It should be started as the edge device ,
+
+dialogue type : s
+D :  so that it cu certain kind of mechanism , whatever , is enabled between the ingress edge device and the outgress a edge device ,
+
+dialogue type : s^df
+D :  because it will be at the certain stage IP based in the future generation telecommunication networks before its goal .
+
+dialogue type : s
+D :  Fuel it to the over the internet ,
+
+dialogue type : s
+D :  and b between these both boxes , I can assume uh because the mobility happens there as a normal natural thing
+
+dialogue type : s
+D :  and the forwarding process and the routing process should be no more separated , from my point of view .
+
+dialogue type : s
+D :  And to have there a certain kind of intelligent mechanism , that the packets can be used to set up the routes because they have all the information .
+
+dialogue type : s
+D :  They know where they have to go because IP addresses are still there and within the packet .
+
+dialogue type : qw
+D :  I mean , how can this use , uh , within this area , and how this area is then aligned to the more traditional routing within the internet backbone itself .
+
+dialogue type : s
+D :  That 's my question .
+
+dialogue type : s^ba
+D :  And I think that is good a research area ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^df
+D :  I 'm not a e xpert at all for this .
+
+dialogue type : s^ba
+D :  But I I I believe , there 's a lot of potential for that .
+
+dialogue type : s^cs
+D :  And we should discuss it maybe bilateral afterwards .
+
+dialogue type : qy^d^f^g^rt
+D :  Yeah ?
+
+dialogue type : s^bs^co
+D :  So , one more time , everybody should take a look to the web pages
+
+dialogue type : s^bs^co
+D :  and from Claudia , at the general remarks
+
+dialogue type : s^bs^co
+D :  and should write based on the , uh , headlines in the project proposal the um things what still happened , the things what they have still in mind
+
+dialogue type : fh|s^df
+D :  uh so that we can update these last @ @ you know @ @ present the last major part of the web pages .
+
+dialogue type : s^aa
+D :  Yes ,
+
+dialogue type : s^df
+D :  you can now access it normally with maybe WWW ICSI Berkeley EDU ,
+
+dialogue type : fh
+D :  and
+
+dialogue type : fh
+D :  so .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^na
+D :  You are definitely right .
+
+dialogue type : s^df
+D :  It was in a good shape , but it , uh , then we disturbed .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s^cc
+D :  I will send you some because I have something in mind .
+
+dialogue type : s
+D :  Yeah , but nobody do that , you know .
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : s
+D :  that 's the point .
+
+dialogue type : s
+D :  We discussed it still a couple of weeks or months ago .
+
+dialogue type : s
+D :  Uh , the point is normally it is an ICSI task anyway .
+
+dialogue type : fh
+D :  But
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^bk|s
+D :  Yeah , that is from nineteen ninety - one or nineteen ninety - two , you know . A
+
+dialogue type : %
+D :  A
+
+dialogue type : s^bk^m
+D :  And this is not on the web ,
+
+dialogue type : %--
+D : 
+
+dialogue type : %--
+D :  people
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s
+D :  We can do that .
+
+dialogue type : s^ng
+D :  Yeah , but the point is that nobody feel responsible for that .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk
+D :  Yes ,
+
+dialogue type : s^bk
+D :  Uh , yes ,
+
+dialogue type : s^bk
+D :  I see there your point .
+
+dialogue type : s^aa
+D :  That 's right .
+
+dialogue type : s^df
+D :  But if it is under the networking points , the group leader is responsible to get up to date information .
+
+dialogue type : s^df
+D :  I believe , we are the group , where the people are , uh , changing much more faster to join the group and to leave the group as other groups .
+
+dialogue type : fh|s
+D :  And , so , the most problem as as of , uh , it 's likely that uh , the people here in this group needs this information um , much more f uh , often as as other groups .
+
+dialogue type : s^bk
+D :  Yes ,
+
+dialogue type : s^bk.%-
+D :  I see th
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s
+D :  but we we can do that .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk
+D :  yeah ,
+
+dialogue type : %-
+D : 
+
+dialogue type : s
+D :  We have the we have the directory structure , of the real UNIX tree . in compliance and in accordance with what you with the structure of the web pages .
+
+dialogue type : fh|s
+D :  And , um , that means , uh , the group leader normally do not have access to the general web pages .
+
+dialogue type : s
+D :  He has access to the N S A pages .
+
+dialogue type : fh
+D :  And , um ,
+
+dialogue type : s
+D :  but I think that 's an administration problem and that everybody agrees that the information page must be on the general , on the highest level .
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s
+D :  I have no problem with that .
+
+dialogue type : fh
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  You know how it you know the process here within the NSA group .
+
+dialogue type : fh
+D :  You know
+
+dialogue type : s^df
+D :  And and that was a reason I we finally decided here that we put it information on the N S
+
+dialogue type : s
+D :  A page , we have discuss dis this discussed still a couple of months ago ago .
+
+dialogue type : s
+D :  In our directory .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa|s^na
+D :  Yeah , we can do that .
+
+dialogue type : s^co
+D :  We then create a link and then we have to ask with Jane ,
+
+dialogue type : s^bk
+D :  OK ?
+
+dialogue type : s
+D :  Of course that is a living thing .
+
+dialogue type : s^ba
+D :  I think it 's a good idea ,
+
+dialogue type : s
+D :  not only that the workshop was a talk announce because they are still announce it is a broader sense .
+
+dialogue type : fh|s^ba^df
+D :  Eh , but I think the idea from Claudia is very good , that the slides from the talks here , if it 's worth to have it on the web , anyway um , should be published in that way that the people can access it .
+
+dialogue type : s^e
+D :  For instance I have my USAIA slides .
+
+dialogue type : s^cs^e
+D :  maybe if some things and is going on maybe you have some Multicast slides concerning your work at IGMP
+
+dialogue type : fh
+D :  and uh
+
+dialogue type : s^cs
+D : 
+
+dialogue type : s^df
+D :  because then they 're still cau still a growing context for us , opportunity for the people you know there ,
+
+dialogue type : s:s^bk
+D :  " Oh ,
+
+dialogue type : s:s
+D :  this guy did something there ,
+
+dialogue type : s:s
+D :  maybe I can contact him and ask him would you like to do something , contribute , whatever . "
+
+dialogue type : fh
+D :  Uh , so
+
+dialogue type : s^ba
+D :  that 's and I think it 's a great idea from Claudia to to have this event page
+
+dialogue type : s^df
+D :  because it 's not a big deal ,
+
+dialogue type : fh
+D :  you know .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fg
+D :  Nah , OK .
+
+dialogue type : s
+D :  If there are no events , then there are no events .
+
+dialogue type : s^rt
+D :  But we still have a few which happened in the last year
+
+dialogue type : fh|s^bk
+D :  and OK ,
+
+dialogue type : s
+D :  then it is a growing thing
+
+dialogue type : s
+D :  but it 's done automatically that the group leader or the group , uh , put some things eh , also on the web .
+
+dialogue type : s^e
+D :  Something in the center pipe .
+
+dialogue type : qy^d^f^g^rt
+D :  Yeah ?
+
+dialogue type : qy^d^rt
+D :  Everybody agree ?
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk|s^cs^rt
+D :  Yeah , maybe we can have " updated on " , you know the button itself ?
+
+dialogue type : s^cs
+D :  And then , " updated " and the current date , when when something happened .
+
+dialogue type : s^no
+D :  I don't know how we deal with that .
+
+dialogue type : qy^rt
+D :  Is it another thing we have to ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk|%--
+D :  OK you
+
+dialogue type : fh
+D :  Well .
+
+dialogue type : s^t1
+D :  Let 's consider " update event button " .
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : s^tc
+D :  So , and then the next point and , I believe , yeah , So , not the last one , @ @ is one that I would like to know the status as far it is possible from everybody concerning his future intention here at ICSI or whether e when he will leave whether he can contri or will he consider currently , uh , contribute here to the proposal
+
+dialogue type : s^df
+D :  because you know , I 've I 'm facing the problem , if I go back to Siemens
+
+dialogue type : s:s^bk
+D :  and I say " OK ,
+
+dialogue type : s:s
+D :  there 's a potential . "
+
+dialogue type : s:s
+D :  " There are potential contacts . "
+
+dialogue type : s
+D :  currently , maybe no money ,
+
+dialogue type : s
+D :  but if we go in one direction it it is worth to know if people can still go on in that area of that kind of work then they are back in their university or their company or whatever .
+
+dialogue type : s^cs
+D :  and even if it 's nur unschl part - time jobs and and if it 's come to a real proposal , that maybe the people can hook in , uh , one more time
+
+dialogue type : s^df
+D :  because I need this information definitely t uh , to inform the uh , the Siemens management that it 's worth to send me back here .
+
+dialogue type : s^co
+D :  So maybe Wilbert you can start .
+
+dialogue type : s
+D :  You will leave end of January definitely .
+
+dialogue type : fh|s^rt
+D :  And currently you see no chance , as far as I know , uh , to stay longer here
+
+dialogue type : s^bu
+D :  and either you will go back to KPN or you will stay here and find then a job opportunity another company ,
+
+dialogue type : qy^g^rt
+D :  is that right ?
+
+dialogue type : qy^rt
+D :  Can you give us more details of concerning the status ?
+
+dialogue type : qy^bu^d^m^rt
+D :  No ?
+
+dialogue type : s^bk^m
+D :  Pending .
+
+dialogue type : s^bk
+D :  Yes ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  yeah ?
+
+dialogue type : s
+D :  So you are looking for a job .
+
+dialogue type : s
+D :  That 's probably then OK .
+
+dialogue type : s
+D :  in principle , I would like to say you are lost for the NSA group ,
+
+dialogue type : s^df
+D :  because ffft that 's uh , it would be a a wonder if , uh , it hook in at the same area , you know .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^na
+D :  I think so , yeah .
+
+dialogue type : s^aa
+D :  Ja
+
+dialogue type : s
+D :  from the work contributions , you know .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qy.%-
+D : 
+
+dialogue type : fg|s^bu
+D :  Um , so from your side the statement is , um , that , uh , independently of your person uh , the KPN is not they 're not willing to send us another guy here to ICSI anyway .
+
+dialogue type : fh|s^bu
+D :  And , if they are interested in uh , a certain kind of project then it must be related to a certain kind of really service or a certain kind of end system or real product or whatever kind of thing with respect to UMTS ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : s^bk
+D :  Mmm .
+
+dialogue type : fg
+D :  So ,
+
+dialogue type : s^bs
+D :  KPN and and ICSI in principle .
+
+dialogue type : s^bs^e
+D :  After you will leave here that is .
+
+dialogue type : s^tc.%-
+D :  Yeah , and then what do you intend to do in the last two months beside of course , looking for ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : s^bu|qy^d^g^rt
+D :  This is that from from Mark , right ?
+
+dialogue type : qy^bu^d
+D :  Not ?
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : qy^rt
+D :  Yeah , do you finish that and do you believe that you can finish that until end of January ?
+
+dialogue type : s|qy^d^g^rt
+D :  It sounded sounded to me a little bit little bit , hard t hard hard time constraint , right ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s^co^tc
+D :  Mi - Miguel , maybe you can say also .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Mm - hmm ,
+
+dialogue type : fh|qy.%--
+D : 
+
+dialogue type : s
+D :  I assume there is a certain activity .
+
+dialogue type : s.%-
+D :  Maybe i if you will leave in July
+
+dialogue type : qw^br^rt
+D :  What ?
+
+dialogue type : qy^d.%--
+D : 
+
+dialogue type : qw^br
+D :  sorry ?
+
+dialogue type : qy^bu^d^rt
+D :  They are not involved in in research ?
+
+dialogue type : qw
+D :  What they are doing then ?
+
+dialogue type : s^fa
+D :  I 'm sorry .
+
+dialogue type : qw^br^rt
+D :  Huh ?
+
+dialogue type : %
+D :  Ach so , ach so ,
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qw^j^rt
+D :  Why I didn't study in Spain ?
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qy^rt
+D :  Are certain tasks
+
+dialogue type : %-
+D :  and so ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^ar^t3
+D :  Hmm ? No ,
+
+dialogue type : s^t3
+D :  there .
+
+dialogue type : s
+D :  We 're not talking about to send the students here to I C
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s^ft.%
+D :  Thank you .
+
+dialogue type : qy^rt
+D :  Claudia , I still mentioned , Have you other things ?
+
+dialogue type : s
+D :  For me , as I said before I will be funded by a d uh by the ministry of , uh , the German government for research in the project so - called Invinet
+
+dialogue type : s
+D :  That seems to be sure .
+
+dialogue type : s
+D :  And I got absolutely freedom to do what I would like to do ,
+
+dialogue type : s
+D :  and I would like to go on with the QS in advance mechanism
+
+dialogue type : fh
+D :  and , uh ,
+
+dialogue type : s
+D :  in the relation of USAIA I also have the activities with Georgia Tech .
+
+dialogue type : s
+D :  They have now a PHD .
+
+dialogue type : s
+D :  It is settled ,
+
+dialogue type : s
+D :  and my other next , uh , generation of contract is also going in that sense so the topic is still going go going on .
+
+dialogue type : s
+D :  and when I will come back here , I would like to use these things too to maybe come to a closer , a bigger project um , outside of this goal , with contributions here from , uh first of all from the NSA group and then from from other partners .
+
+dialogue type : s^rt
+D :  But this I have definitely ou uh discussed with my management
+
+dialogue type : s
+D :  and this will happened , I believe , in December ,
+
+dialogue type : s
+D :  maybe , and in the beginning of January .
+
+dialogue type : s^cc
+D :  and I will keep informed to the management of ICSI anyway ,
+
+dialogue type : s^cs
+D :  but also , I assume that my suggestions that we have a weekly phone conference and email exchange during that time
+
+dialogue type : s^df
+D :  so that we can inform each other concerning what are the questions , what are the problems , what is the status and so on .
+
+dialogue type : fh
+D :  Uh ?
+
+dialogue type : s
+D :  But I think we will uh detail these things then in one of the last meetings .
+
+dialogue type : fh
+D :  So
+
+dialogue type : qw.%--
+D : 
+
+dialogue type : s^j
+D :  You 're addicted to the testbeds you run on the hour ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s^ba
+D :  sounded good to me .
+
+dialogue type : qy^co^d^rt
+D :  And Michael ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk|qw^rt
+D :  Yeah , then , what is the current status anyway ?
+
+dialogue type : s
+D :  this is .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^ba
+D :  Now as I see , in principle , uh fff that 's a really raw view .
+
+dialogue type : s
+D :  MPLS offers certain kind of success of active routing ,
+
+dialogue type : s^df
+D :  because in principle , the forwarding pass is a little bit decoupled from this from the routing pass ,
+
+dialogue type : s^df
+D : 
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s
+D :  it 's it 's not really the subject
+
+dialogue type : s
+D :  but in a broader sense it could be seen in that sense .
+
+dialogue type : s
+D :  I think uh , there are in a certain degree some alignment with with both of you guys ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s
+D :  maybe it 's a separation , in principle , that I do not use the normal traditional , uh , data forwarding pass and update , in principle , only the routing information uh , to to to use it .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s
+D :  so what I mean is at a certain degree , yeah , that has to be figured out .
+
+dialogue type : s^na
+D :  There is , uh , there are some linkage between them . @ @ in both of your your work .
+
+dialogue type : fg
+D :  So ,
+
+dialogue type : s^tc
+D :  my last point , uh , in principle , is the proposal itself .
+
+dialogue type : fh
+D :  Um
+
+dialogue type : s
+D :  I know , in the past it was always if I 'm not writing something nothing gonna happen .
+
+dialogue type : s
+D :  So , I believe , Wilbert , you are going out of these activity .
+
+dialogue type : s^co
+D :  You have to use your time to finish your work as you uh , have in mind until your end of February ,
+
+dialogue type : qy^g
+D :  or is that right ?
+
+dialogue type : s^bk
+D :  End of January ,
+
+dialogue type : s^fa
+D :  sorry ,
+
+dialogue type : s^bu
+D :  so you will not y you will not find any time to contribute anymore to this activity .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^co^rt^tc
+D :  Then from Miguel 's side I expect more detailed vision .
+
+dialogue type : s^cs
+D :  We can do it , as I mentioned before , bilateral afterwards , uh , concerning your work and how you think it could be beneficial contribution to the activity maybe based on the generic uh , uh , USAIA architecture .
+
+dialogue type : s^cc^rt
+D :  I will write as long as I have time here , uh , on the proposal itself
+
+dialogue type : s^cc^rt
+D :  and in the near - term future , I will distribute a list of the small cluster of people .
+
+dialogue type : s
+D :  I tried to access Juan Peire several times ,
+
+dialogue type : s
+D :  he didn't answer , because he still had mentioned that there 's some minor funding , that I think would help ,
+
+dialogue type : s^e
+D :  for instance , to have initial meeting either here or in Europe or or wherever .
+
+dialogue type : s
+D :  I 've , uh , contact one more time the professor ,
+
+dialogue type : qw
+D :  what is his name ?
+
+dialogue type : qy^d
+D :  Rao ?
+
+dialogue type : qrr.%--
+D :  or ?
+
+dialogue type : fh|s.%-
+D :  uh , L Landay mentioned , uh ,
+
+dialogue type : s|qy^d^g^rt
+D :  Rao , right ?
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  because he 's a professor in uh , responsible for the infrastructure at UCB and he has some projects which are related to um , these these , uh , activities
+
+dialogue type : s
+D :  I would c c name it cor intelligent classroom .
+
+dialogue type : s^no
+D :  I don't know whether I can succeed to get an appointment then
+
+dialogue type : s^cc
+D :  but I will distribute a list contact list and @ @ the interests of each partner
+
+dialogue type : s^df
+D :  so that everybody can see and everybody knows , yeah , I have in mind
+
+dialogue type : s^am
+D :  maybe it 's a small NSA group activity itself , with no linkage to the outer world
+
+dialogue type : s^am
+D :  maybe it 's a NSA group activity with a linkage to the outer world based on the uh universities at home or the companies at home
+
+dialogue type : s
+D :  there 's some linkage
+
+dialogue type : s
+D :  and the third stage is , let 's say there 's a NSA group activity in this area , uh , with the supported , um , home entities and with certain kind of linkage here to the companies or u or universities here in this area .
+
+dialogue type : s^ba
+D :  The last one , I think it 's , uh , the best one .
+
+dialogue type : s
+D :  But , you see the question is always " Where 's the money ? "
+
+dialogue type : s:s^fe
+D :  and I say " Oh poo ,
+
+dialogue type : s:s^no
+D :  currently I don't know . "
+
+dialogue type : s
+D :  The second question is how long I stay here
+
+dialogue type : s:s^no
+D :  and say ooo , I don't know " ,
+
+dialogue type : fh
+D :  so
+
+dialogue type : s
+D :  everybody 's waiting .
+
+dialogue type : qy^d^f^g
+D :  Yeah ,
+
+dialogue type : s
+D :  and the only rea um , activity could come from the NSA group itself ,
+
+dialogue type : s
+D :  but I think it 's a a work in process and that it will take some time and , uh , everything must be just settled a little bit more .
+
+dialogue type : fg|s^cs
+D :  So , but anyway , I would like to get contributions from the people here of the NSA group concerning proposals ,
+
+dialogue type : s^df
+D :  this is a living thing
+
+dialogue type : fh
+D :  and
+
+dialogue type : s^ba
+D :  it 's a pity that Multicast is , in principle , removed
+
+dialogue type : s
+D :  and we do not have any expert from Multicast anymore .
+
+dialogue type : fh|s
+D :  And , uh , that 's makes very hard , I believe .
+
+dialogue type : s^df
+D :  Because that is a major @ @ , at least twenty - five percent of the whole network uh , stuff
+
+dialogue type : fh
+D :  and , um ,
+
+dialogue type : s
+D :  but neverless we have to live with this situation .
+
+dialogue type : fh
+D :  Right .
+
+dialogue type : qy^bu^d
+D :  You are laughing , again ?
+
+dialogue type : s^cs
+D :  So maybe we have to rewrite something ,
+
+dialogue type : s^cs^rt
+D :  have new ideas going forward more in certain kind of really telecommunication network and the routing and QS stuff ,
+
+dialogue type : s^rt
+D :  and remove , in principle , the Multicast stuff
+
+dialogue type : s^ba^e
+D :  which , in principle , a pity because I think that 's a really really good eh uh mmm source of research work for the future telecommunication core networks
+
+dialogue type : s^df
+D :  because they are still not able to deal with Multicast ,
+
+dialogue type : s^df
+D :  they still have there that tunnel generations and all those kind of things
+
+dialogue type : fh|s^ba^df
+D :  and I I believe that would be very beneficial to use it for the really uh , mobile scenarios in in that network ,
+
+dialogue type : s
+D :  so but anyway we have to live with a real situation
+
+dialogue type : s
+D :  and that means we have to drop Multicast from the proposal .
+
+dialogue type : qy^d^rt
+D :  Any comments ?
+
+dialogue type : s
+D :  Then we can extend the proposal one more time with Multicast .
+
+dialogue type : s^ng
+D :  Oh , maybe you understand me in the wrong way .
+
+dialogue type : fh
+D :  Uh ,
+
+dialogue type : s^df
+D :  I do not mean to drop it , to remove the text from the proposal .
+
+dialogue type : s^df
+D :  I mean , activities , planning activities .
+
+dialogue type : s
+D :  Work packages .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : fg
+D :  so
+
+dialogue type : s^ar
+D :  no , no ,
+
+dialogue type : s
+D :  because that 's , uh , that 's why I mentioned that it is important thing .
+
+dialogue type : fh|s
+D :  But , currently there 's only one new group member , Sven Buchholz , who will figure out the thing , hmm how to say , um , the taking into account the end system , or the limited end system capabilities with respect to mobility and the network itself .
+
+dialogue type : qw
+D :  Where it should be ada @ @ where should be , uh , the adaptation process performed to deal with the different devices , for ubiquitous access to the network ?
+
+dialogue type : qy^rt
+D :  Should it be in the end system itself ?
+
+dialogue type : qy
+D :  Should be in the edge device ?
+
+dialogue type : qy^d
+D :  It should it be in the core ?
+
+dialogue type : qy
+D :  should it be on the server ?
+
+dialogue type : s
+D :  These are the questions he would like to figure out .
+
+dialogue type : s
+D :  And to p uh , to have , in principle , the pro and cons of , uh , different of all these different approaches .
+
+dialogue type : s
+D :  So that 's the only new member .
+
+dialogue type : s
+D :  Sven Buchholz .
+
+dialogue type : s^e
+D :  He was here .
+
+dialogue type : s^e
+D :  I invited him and discussed with him his potential work , I @ @ .
+
+dialogue type : s
+D :  quite sure
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^e
+D :  But he showed up the next day
+
+dialogue type : s^e
+D :  but only for administration stuff ,
+
+dialogue type : s^e
+D :  but for the technical discussion he was here one day .
+
+dialogue type : s^no.%-
+D : 
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : s^bk|s
+D :  Yeah , he will come mid of January , I believe ,
+
+dialogue type : s^aa
+D :  yeah ,
+
+dialogue type : s^df
+D :  as far as I know .
+
+dialogue type : s
+D :  So , but this is the only guy , you know ,
+
+dialogue type : s
+D :  but that is not reflected in that sense that we remove the text .
+
+dialogue type : s
+D :  what I mean is is , uh , the that we what 's kind of activity we are going more in detail in describing , the network packages and and detailed , uh , uh , descriptions more detailed descriptions .
+
+dialogue type : fh
+D :  So
+
+dialogue type : qy^d^rt
+D :  Any other question ?
+
+dialogue type : qy^d
+D :  Any other comment ?
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^co^tc
+D :  Then we pu should start with reading the numbers
+
+dialogue type : s
+D :  one more time .
+
+dialogue type : s^aa
+D :  Yes ,
+
+dialogue type : s^na
+D :  we have to do it ,
+
+dialogue type : s
+D :  so that means we have to read the transcript script number and then the numbers ,
+
+dialogue type : s
+D :  and if there 's a new line , a short break .
+
+dialogue type : fh|s.%--
+D :  And , afterwards we have to ,
+
+dialogue type : fh|s
+D :  uh , that device is switched on ,
+
+dialogue type : s^cs
+D :  so please do not switch off the devices .
+
+dialogue type : s
+D :  And I will call Herr Janin and that Adam @ @ .
+
+dialogue type : s^cc
+D :  So I will start .
+
+dialogue type : z
+D :  one OK ,
+
+dialogue type : z
+D :  Oh . Yeah , yeah . Fine .
+
+dialogue type : z
+D :  He 's laughing all the time .
+
+dialogue type : z
+D :  OK , Michael please .
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  Thank you .
+
+dialogue type : z
+D :  OK ,
+
+dialogue type : z
+D :  then I will call Adam .
+
+dialogue type : z
+D :  Adam ?
+

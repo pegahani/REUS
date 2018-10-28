@@ -1,0 +1,1368 @@
+dialogue type : z
+E :  Hello .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Yeah , if we look at the figures on the right , we see that the reference system is very bad .
+
+dialogue type : s^e
+E :  Like for clean clean training condition .
+
+dialogue type : fh
+E :  Nnn .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  I also have the feeling that um , the reason ye why it doesn't work is yeah , that the models are much are t um , not complex enough .
+
+dialogue type : s^df
+E :  Because I actually I als always had a good experience with spectral subtraction ,
+
+dialogue type : s^e
+E :  just a straight spectral subtraction algorithm when I was using neural networks , big neural networks , which maybe are more able to model strange distributions
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : s^rt
+E :  Then I tried the same exactly the same spectral subtraction algorithm on these Aurora tasks
+
+dialogue type : s
+E :  and it simply doesn't work .
+
+dialogue type : s
+E :  It 's even it , uh , hurts even .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  If we look at the France Telecom proposal , they use some kind of noise addition .
+
+dialogue type : s|qy^d^g^rt
+E :  They have a random number generator , right ?
+
+dialogue type : s|qy^d^g
+E :  And they add noise on the trajectory of , uh , the log energy only , right ?
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : s^no
+E :  But I don't know how much effect it this have ,
+
+dialogue type : s
+E :  but they do that .
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : s^df^na^rt
+E :  I think because they have th log energy ,
+
+dialogue type : s^aa
+E :  yeah ,
+
+dialogue type : s^df
+E :  and then just generate random number .
+
+dialogue type : s^df
+E :  They have some kind of mean and variance ,
+
+dialogue type : s^df
+E :  and they add this number to to the log energy simply .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : %--
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  Maybe it 's just a way to decrease the importance of this particular parameter in the in the world feature vector
+
+dialogue type : s^df
+E :  cu if you add noise to one of the parameters , you widen the distributions
+
+dialogue type : %-
+E : 
+
+dialogue type : %
+E :  Eee - sss - uh .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : qw^rt
+E :  Where does the comprish compression in decoding delay comes from ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^na
+E :  I can go next .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fh
+E :  Mmm .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bk
+E :  Yeah ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fg
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  So you have w w one sheet ?
+
+dialogue type : s
+E :  This one is you don't need it ,
+
+dialogue type : s^bk
+E :  alright .
+
+dialogue type : s
+E :  So you have to take the whole the five .
+
+dialogue type : s
+E :  There should be five sheets .
+
+dialogue type : s^bk|s
+E :  OK , maybe there 's not enough for everybody .
+
+dialogue type : fh
+E : 
+
+dialogue type : qy^cs^rt
+E :  Can we look at this ?
+
+dialogue type : fg
+E :  So ,
+
+dialogue type : s^bk|s^rt^tc
+E :  yeah , there are two figures showing actually the , mmm , um , performance of the current VAD .
+
+dialogue type : s
+E :  So it 's a n neural network based on PLP parameters ,
+
+dialogue type : s^e
+E :  uh , which estimate silence probabilities ,
+
+dialogue type : s
+E :  and then I just put a median filtering on this
+
+dialogue type : s^e|qy^d^g^rt
+E :  to smooth the probabilities , right ?
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  I didn't use the the scheme that 's currently in the proposal
+
+dialogue type : s^df
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^df
+E :  Well , in in the system we want to add like speech frame before every word and a little bit of of , uh , s a couple of frames after also .
+
+dialogue type : s
+E :  Uh , but to estimate the performance of the VAD , we don't want to do that ,
+
+dialogue type : s^df
+E :  because it would artificially increase the um the false alarm rate of speech detection .
+
+dialogue type : qy^d^f^g
+E :  Right ?
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : fh
+E :  so ,
+
+dialogue type : s
+E :  there is u normally a figure for the Finnish and one for Italian .
+
+dialogue type : s
+E :  And maybe someone has two for the Italian
+
+dialogue type : s^df
+E :  because I 'm missing one figure here .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^ng
+E :  Well , whatever .
+
+dialogue type : s^bk|s
+E :  Uh Yeah , so one surprising thing that we can notice first is that apparently the speech miss rate is uh , higher than the false alarm rate .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^bk
+E :  Mm - hmm .
+
+dialogue type : s^bk|s
+E :  Yeah , there are two curves .
+
+dialogue type : s
+E :  One curve 's for the close - talking microphone , which is the lower curve .
+
+dialogue type : s
+E :  And the other one is for the distant microphone
+
+dialogue type : s^e
+E :  which has more noise
+
+dialogue type : fh
+E :  so ,
+
+dialogue type : s^df
+E :  it 's logical that it performs worse .
+
+dialogue type : s^rt
+E :  So as I was saying , the miss rate is quite important
+
+dialogue type : s^e
+E :  uh , which means that we tend to label speech as as a silence .
+
+dialogue type : fh
+E :  And ,
+
+dialogue type : s
+E :  uh , I didn't analyze further yet ,
+
+dialogue type : s^df
+E :  but I think it 's it may be due to the fricative sounds
+
+dialogue type : s^e
+E :  which may be in noisy condition maybe label labelled as silence .
+
+dialogue type : s^df
+E :  And it may also be due to the alignment
+
+dialogue type : %--
+E : 
+
+dialogue type : s^e
+E :  well , the reference alignment .
+
+dialogue type : s^df
+E :  Because right now I just use an alignment obtained from from a system trained on channel zero .
+
+dialogue type : fh
+E :  And
+
+dialogue type : s
+E :  I checked it a little bit
+
+dialogue type : s
+E :  but there might be alignment errors .
+
+dialogue type : fh
+E :  Um , yeah ,
+
+dialogue type : %
+E :  e
+
+dialogue type : s^e
+E :  like the fact that the the models tend to align their first state on silence and their last state o on silence also .
+
+dialogue type : s^df
+E :  So the reference reference alignment would label as speech some silence frame before speech and after speech .
+
+dialogue type : s
+E :  This is something that we already noticed before
+
+dialogue type : %--
+E : 
+
+dialogue type : fh
+E :  mmm ,
+
+dialogue type : s^am
+E :  So this cus this could also explain , uh , the high miss rate maybe .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^bk
+E :  Yeah ,
+
+dialogue type : s
+E :  and the different points of the curves are for five uh , thresholds on the probability uh from point three to point seven .
+
+dialogue type : fh
+E :  Mm - hmm .
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : fg|%-
+E :  So the v
+
+dialogue type : qy^d^rt
+E :  The VAD ?
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  There first , a threshold on the probability @ @ That puts all the values to zero or one .
+
+dialogue type : s
+E :  And then the median filtering .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^na
+E :  It 's fixed ,
+
+dialogue type : s^aa
+E :  yeah .
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : s^rt
+E :  So , going from channel zero to channel one , uh , almost double the error rate .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : s
+E :  Well , so it 's a reference performance that we can you know , if we want to to work on the VAD , we can work on this basis
+
+dialogue type : fh
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  It 's a very big one .
+
+dialogue type : s^no
+E :  I don't remember .
+
+dialogue type : %-
+E :  m
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : fh
+E :  Uh , ppp .
+
+dialogue type : qy^d^rt
+E :  I don't know , you have questions about that , or suggestions ?
+
+dialogue type : s
+E :  It seems the performance seems worse in Finnish ,
+
+dialogue type : %--
+E : 
+
+dialogue type : fh
+E : 
+
+dialogue type : s^na
+E :  It 's not trained on Finnish ,
+
+dialogue type : s^aa
+E :  yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : %
+E : 
+
+dialogue type : s
+E :  And also there are like funny noises on Finnish
+
+dialogue type : s^e
+E :  more than on Italian .
+
+dialogue type : s^e
+E :  I mean , like music
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E :  So , yeah ,
+
+dialogue type : s
+E :  we were looking at this .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh
+E :  um ,
+
+dialogue type : s^no
+E :  I don't know if we want to talk about that .
+
+dialogue type : fh
+E :  But ,
+
+dialogue type : s
+E :  well , the the " Car " noises are below like five hundred hertz .
+
+dialogue type : s
+E :  And we were looking at the " Music " utterances
+
+dialogue type : s
+E :  and in this case the noise is more about two thousand hertz .
+
+dialogue type : s^e
+E :  Well , the music energy 's very low apparently .
+
+dialogue type : fh
+E :  Uh ,
+
+dialogue type : s^e
+E :  uh , from zero to two two thousand hertz .
+
+dialogue type : s^cs
+E :  So maybe just looking at this frequency range for from five hundred to two thousand would improve somewhat the VAD
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E :  Yeah ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s^bk
+E :  Yes .
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : s^tc.%--
+E :  Uh , the next ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  Oh , it 's there .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^nd
+E :  It 's not .
+
+dialogue type : s.%--
+E :  It 's it was trained on some alignment obtained
+
+dialogue type : fh
+E :  um ,
+
+dialogue type : s
+E :  uh For the Italian data , I think we trained the neural network on with embedded training .
+
+dialogue type : s^df
+E :  So re - estimation of the alignment using the neural network , I guess .
+
+dialogue type : qy^d^rt
+E :  That 's right ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bu
+E :  So it was a f f a phonetic classification system for the Italian Aurora data .
+
+dialogue type : s
+E :  For the Aurora data that it was trained on , it was different .
+
+dialogue type : s^e
+E :  Like , for TI - digits you used a a previous system that you had , I guess .
+
+dialogue type : s
+E :  So the alignments from the different database that are used for training came from different system .
+
+dialogue type : s
+E :  Then we put them tog together .
+
+dialogue type : s
+E :  Well , you put them together and trained the VAD on them .
+
+dialogue type : fh
+E :  Mmm .
+
+dialogue type : fh
+E :  Uh ,
+
+dialogue type : qy
+E :  But did you use channel did you align channel one also ?
+
+dialogue type : qrr.%--
+E : 
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : %-
+E :  So di
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bu|qy^d^g^rt
+E :  So the alignments might be wrong then on channel one , right ?
+
+dialogue type : s.%--
+E :  So we might ,
+
+dialogue type : fh
+E :  yeah ,
+
+dialogue type : s^cs
+E :  at least want to retrain on these alignments ,
+
+dialogue type : s^e
+E :  which should be better because they come from close - talking microphone .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : fg
+E :  Um .
+
+dialogue type : fg
+E :  And eh , hhh
+
+dialogue type : s
+E :  actually when we look at at the VAD , for some utterances it 's almost perfect ,
+
+dialogue type : s^e
+E :  I mean , it just dropped one frame ,
+
+dialogue type : s^e
+E :  the first frame of speech
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  So there are some utterances where it 's almost one hundred percent VAD performance .
+
+dialogue type : fh
+E :  Uh ,
+
+dialogue type : fh
+E :  but Yeah .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^bk
+E :  Yep .
+
+dialogue type : s^rt^tc
+E :  So the next thing is um , I have the spreadsheet for three different system .
+
+dialogue type : s
+E :  But for this you only have to look right now on the SpeechDat - Car performance
+
+dialogue type : s^df.%--
+E : 
+
+dialogue type : fh|s^df
+E :  so I didn't test the spectral subtraction on TI - digits yet .
+
+dialogue type : fh|s^rt
+E :  Uh , so you have three she sheets .
+
+dialogue type : s^e
+E :  One is the um proposal - one system .
+
+dialogue type : s
+E :  Actually , it 's not exe exactly proposal - one .
+
+dialogue type : s
+E :  It 's the system that Sunil just described .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : s^rt
+E :  but with uh , Wiener filtering from um , France Telecom included .
+
+dialogue type : s
+E :  Um , so this gives like fifty - seven point seven percent , uh , s uh , error rate reduction on the SpeechDat - Car data .
+
+dialogue type : fh
+E :  Mmm ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh
+E :  uh ,
+
+dialogue type : s
+E :  so it 's again the same system .
+
+dialogue type : s
+E :  But in this case we have spectral subtraction
+
+dialogue type : s^e
+E :  with a maximum overestimation factor of two point five .
+
+dialogue type : s
+E :  Uh , there is smoothing of the gain trajectory with some kind of uh , low - pass filter ,
+
+dialogue type : s^e^rt
+E :  which has forty milliseconds latency .
+
+dialogue type : s
+E :  And then , after subtraction um , I add a constant to the energies
+
+dialogue type : s^rt
+E :  and I have two cases d where The first case is where the constant is twenty - five DB below the mean speech energy
+
+dialogue type : s
+E :  and the other is thirty DB below .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : s
+E :  and for these s two system we have like fifty - five point , uh , five - percent improvement ,
+
+dialogue type : s
+E :  and fifty - eight point one .
+
+dialogue type : s
+E :  So again , it 's around fifty - six , fifty - seven .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^aa|s^df.%--
+E : 
+
+dialogue type : s^df
+E :  For the France Telecom uh , spectral subtraction included in the our system , the TI - digits number are the right one ,
+
+dialogue type : s^df
+E :  but not for the other system
+
+dialogue type : s^df
+E :  because I didn't test it yet this system , including with spectral subtraction on the TI - digits data .
+
+dialogue type : s^df
+E :  I just tested it on SpeechDat - Car .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yes .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^aa^r.%
+E :  Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^na
+E :  The floor is lower .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : fh
+E :  mm - hmm .
+
+dialogue type : s
+E :  To the average um , speech energy
+
+dialogue type : s^e
+E :  which is estimated on the world database .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^nd
+E :  But , it 's after the thresholding .
+
+dialogue type : fh
+E :  So ,
+
+dialogue type : %-
+E : 
+
+dialogue type : s^am
+E :  maybe we might do it before ,
+
+dialogue type : s^aa
+E :  yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : fg|s
+E :  But still , when you do this and you take the log after that , it it reduce the the variance .
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E :  Mmm ,
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : %--
+E : 
+
+dialogue type : s^bk
+E :  Mm - hmm .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  Oh , it 's clear .
+
+dialogue type : s
+E :  I should have gi given other results .
+
+dialogue type : s
+E :  Also it 's clear when you don't add noise , it 's much worse .
+
+dialogue type : s^e
+E :  Like , around five percent worse I guess .
+
+dialogue type : s
+E :  And if you add too much noise it get worse also .
+
+dialogue type : s
+E :  And it seems that right now this this is c a constant that does not depend on on anything that you can learn from the utterance .
+
+dialogue type : s^e
+E :  It 's just a constant noise addition .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s.%--
+E :  And I I think w w
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bk
+E :  Yeah ,
+
+dialogue type : s^df^rt
+E :  so the way I did that , i I just measured the average speech energy of the all the Italian data .
+
+dialogue type : s^df
+E :  And then I I have I used this as mean speech energy .
+
+dialogue type : fh
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg
+E : 
+
+dialogue type : s
+E :  wha what I observed is that for Italian and Spanish , when you go to thirty and twenty - five DB , uh it it 's good .
+
+dialogue type : s
+E :  It stays In this range ,
+
+dialogue type : s.%--
+E :  it 's , uh , the p u
+
+dialogue type : s
+E :  well , the performance of the this algorithm is quite good .
+
+dialogue type : s
+E :  But for Finnish , you have a degradation already when you go from thirty - five to thirty
+
+dialogue type : s
+E :  and then from thirty to twenty - five .
+
+dialogue type : s^df
+E :  And I have the feeling that maybe it 's because just Finnish has a mean energy that 's lower than than the other databases .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bsc
+E :  the the a the noise addition should be lower
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^na
+E :  It 's not .
+
+dialogue type : s^df
+E :  It 's just something that 's fixed .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Mm - hmm .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^bk|%-
+E :  Yeah , so I g
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^ar^r
+E :  It No .
+
+dialogue type : s^df^rt
+E :  Because I did it I started working on Italian .
+
+dialogue type : s^df
+E :  I obtained this average energy
+
+dialogue type : s^df
+E :  and then I used this one .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : fg
+E :  Um ,
+
+dialogue type : fg|s
+E :  yeah , so the next thing is to use this as as maybe initialization
+
+dialogue type : s
+E :  and then use something on - line .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh
+E :  Well ,
+
+dialogue type : fh
+E :  um ,
+
+dialogue type : s
+E :  for Italian and Spanish it 's th this value works good but not necessarily for Finnish .
+
+dialogue type : fh
+E :  Mmm .
+
+dialogue type : s
+E :  But unfortunately there is , like , this forty millisecond latency
+
+dialogue type : fh
+E :  and ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s^bk|s^cc
+E :  Yeah , so I would try to somewhat reduce this @ @ .
+
+dialogue type : s
+E :  I already know that if I completely remove this latency , so . um , it um there is a three percent hit on Italian .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  It 's a smoothing over the the gain of the subtraction algorithm .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s
+E :  So , to smooth this thing .
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : fh
+E : 
+
+dialogue type : h
+E :  Um ,
+
+dialogue type : s^ar
+E :  no ,
+
+dialogue type : s^nd
+E :  I did not .
+
+dialogue type : fh
+E :  Mmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E : 
+
+dialogue type : h|s^ar
+E :  Uh , no ,
+
+dialogue type : s^nd
+E :  it 's it 's just the gain that 's smoothed actually
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^aa
+E :  Uh Yeah .
+
+dialogue type : s^aa^r
+E :  Yeah .
+
+dialogue type : fg|s^rt
+E :  No , in this case it 's just the gain .
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  But the way it 's done is that um , for low gain , there is this non nonlinear smoothing actually .
+
+dialogue type : s
+E :  For low gains um , I use the smoothed sm uh , smoothed version
+
+dialogue type : s
+E :  but for high gain @ @ it 's I don't smooth .
+
+dialogue type : s^bk
+E :  Uh - huh .
+
+dialogue type : s^bk
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  Uh , yeah ,
+
+dialogue type : s^na
+E :  I could try this .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg
+E : 
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : s^rt
+E :  Then I I would need to find a way to like smooth less also when there is high energy .
+
+dialogue type : s^df
+E :  Cuz I noticed that it it helps a little bit to s like smooth more during low energy portions and less during speech ,
+
+dialogue type : s^df
+E :  because if you smooth then y you kind of distort the speech .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : fh
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : h
+E :  Um ,
+
+dialogue type : s^aa
+E :  yeah ,
+
+dialogue type : s^ng
+E :  but I don't trust the current VAD .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s^am
+E :  Well , maybe .
+
+dialogue type : s^am
+E :  Maybe .
+
+dialogue type : h|s^na
+E :  Uh , fff I think that 's it .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fh
+E :  Uh .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg
+E :  And , yeah ,
+
+dialogue type : s
+E :  i i i the condition where it 's better than your approach , it 's it just because maybe it 's better on well matched and that the weight on well matched is is bigger ,
+
+dialogue type : %-
+E : 
+
+dialogue type : s^df
+E :  if you don't weigh differently the different condition , you can see that your well , the win the two - stage Wiener filtering is maybe better
+
+dialogue type : fh
+E : 
+
+dialogue type : s|qy^d^g^rt
+E :  It 's better for high mismatch , right ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  But a little bit worse for well matched .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s^bk
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : %-
+E : 
+
+dialogue type : h
+E :  Um ,
+
+dialogue type : s^na
+E :  yeah , I did that
+
+dialogue type : s^rt
+E :  but it doesn't matter on SpeechDat - Car ,
+
+dialogue type : s
+E :  but , it matters , uh , a lot on TI - digits .
+
+dialogue type : s^aa
+E :  Yeah ,
+
+dialogue type : s^na
+E :  d uh , it 's much better when you we used the clean derived LDA filter .
+
+dialogue type : fh
+E :  Uh ,
+
+dialogue type : fh
+E :  but , yeah ,
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^bk
+E :  It 's with the noisy one .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  It 's with the clean LDA .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  And in your case it 's all all noisy ,
+
+dialogue type : s^aa
+E :  yeah .
+
+dialogue type : fg
+E : 
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : s
+E :  But I observe my case it 's in , uh , uh , at least on SpeechDat - Car it doesn't matter
+
+dialogue type : s
+E :  but TI - digits it 's like two or three percent absolute , uh , better .
+
+dialogue type : %-
+E : 
+
+dialogue type : z
+E :  Dave ?
+
+dialogue type : z
+E :  Is it the channel , or the mike ?
+
+dialogue type : z
+E :  I don't remember .
+
+dialogue type : z
+E :  It 's the mike ?
+
+dialogue type : z
+E :  It 's not four .
+

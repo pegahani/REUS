@@ -1,0 +1,1011 @@
+dialogue type : z
+E :  Oh there we go .
+
+dialogue type : z
+E :  This looks good .
+
+dialogue type : z
+E :  Was it a pause , or ?
+
+dialogue type : z
+E :  OK .
+
+dialogue type : z
+E :  Was it on " pause " or something ?
+
+dialogue type : z
+E :  OK .
+
+dialogue type : z
+E :  Don't know .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  Can I can I say about that that the the issues that I think Adam and I raised were more a matter of advertising so that you get more native speakers .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  an And in particular , my suggestion was to advertise to linguistics grad students because there you 'd have so people who 'd have proficiency enough in English that that uh , it would be useful for for purposes You know .
+
+dialogue type : s
+E :  But you know , I think I 've been I 've I I 've gathered data from undergrads at on campus
+
+dialogue type : s
+E :  and if you just post randomly to undergrads I think you 'd get such a mixed bag that it would be hard to know how much conversation you 'd have at all . And and the English you 'd have The language models would be really hard to build
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : sj^ba^fe
+E :  Oh , interesting !
+
+dialogue type : s^bk
+E :  Oh , I see .
+
+dialogue type : sj^ba^fe
+E :  Oh , interesting !
+
+dialogue type : fg|s^ng
+E :  Oh , oh . I 'm not saying accents .
+
+dialogue type : s^nd
+E :  u The accent 's not the problem .
+
+dialogue type : s^ar|s
+E :  No , it 's more a matter of uh , proficiency ,
+
+dialogue type : s
+E :  e e just simply fluency .
+
+dialogue type : s
+E :  I mean , I deal with people on on campus who I think sometimes people , undergraduates um in computer science uh , have language skills that make , you know that their their fluency and writing skills are not so strong .
+
+dialogue type : fg|s.%--
+E :  Well , e I just think ,
+
+dialogue type : s
+E :  but you know , it 's like when you get into the graduate level , uh , no problem .
+
+dialogue type : s^df
+E :  I mean , I 'm not saying accents .
+
+dialogue type : s^df
+E :  I 'm say I 'm saying fluency .
+
+dialogue type : b
+E :  Well , yeah .
+
+dialogue type : s^df^r
+E :  I 'm just saying fluency .
+
+dialogue type : s^cs
+E :  OK , now can I can I say the other aspect of this from my perspective
+
+dialogue type : s^cs
+E :  which is that um , there 's there 's this this issue , you have a corpus out there , it should be used for for multiple things
+
+dialogue type : s^df
+E :  cuz it 's so expensive to put together .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  The idea of computational linguistics and probabilistic grammars and all may not be the focus of this group ,
+
+dialogue type : s
+E :  but the idea of language models , which are fund you know generally speaking uh , you know , t t terms of like the amount of benefit per dollar spent or an hour invested in preparing the data ,
+
+dialogue type : s
+E :  if you have a choice between people who are pr more proficient in um , i more fluent , more more close to being academic English , then it would seem to me to be a good thing .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  Uh , so if if you have a bunch of idiolects that 's the worst possible case .
+
+dialogue type : s
+E :  If you have people who are using English as a as an interlanguage because they they don't uh , they can't speak in their native languages and but their interlanguage isn't really a match to any existing , uh , language model ,
+
+dialogue type : s
+E :  this is the worst case scenario .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : fg
+E :  Well
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : s^df.%--
+E : 
+
+dialogue type : s^df
+E :  And I 'm not objecting to accents .
+
+dialogue type : s^cs
+E :  I I 'm I 'm just thinking that we have to think at a at a higher level view , could we have a language model , a a grammar a grammar , basically , that um , wo would be a a possibility .
+
+dialogue type : s
+E : 
+
+dialogue type : s^cs
+E :  I 'm I what I think is that why not have the corpus , since it 's so expensive to put together , uh , useful for the widest range of of central corp things that people generally use corpora for and which are , you know , used in computational linguistics .
+
+dialogue type : s^bs
+E :  That 's that 's my point . Which which includes both top - down and bottom - up .
+
+dialogue type : s^aa
+E :  Yes , that 's fine .
+
+dialogue type : s^aa
+E :  That 's fine .
+
+dialogue type : s^aa
+E :  Exactly .
+
+dialogue type : s
+E :  And my point in m in my note to Liz was I think that undergrads are an iff iffy population .
+
+dialogue type : s
+E :  Grads and professors , fine .
+
+dialogue type : s
+E :  Age - ist .
+
+dialogue type : s^aa
+E :  Yeah , that 's true .
+
+dialogue type : qw
+E :  Which one did you mean ?
+
+dialogue type : b
+E :  Oh .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : sj
+E :  I thought the free lunch idea was a great idea .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %-
+E :  Alth
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  I hav I have to uh raise a little eensy - weensy concern about doing th giving them the CD immediately , because of these issues of , you know , this kind of stuff , where maybe You know ?
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s^cs
+E :  We could burn it after it 's been cleared with the transcript stage .
+
+dialogue type : s^cs
+E :  And then they they get a CD , but just not the same day .
+
+dialogue type : s
+E :  There we go .
+
+dialogue type : sj^ba
+E :  Oh , I like that .
+
+dialogue type : sj^ba
+E :  Well put . Well put .
+
+dialogue type : s^cs
+E :  So , after the transcript screening phase .
+
+dialogue type : s
+E :  Things have been weeded out .
+
+dialogue type : s^j.%--
+E :  Yeah , that 's right , say " Yeah , well , I got this CD , and , Your Honor , I "
+
+dialogue type : s
+E :  Yeah , the archiving m program does take a long time .
+
+dialogue type : s
+E :  One thing The good news about that that is that once once it 's archived , it 's pretty quick to get back .
+
+dialogue type : s
+E :  I mean , it it it The other direction is fast , but this direction is really slow .
+
+dialogue type : s^bk
+E :  Yeah , OK .
+
+dialogue type : sj^ba
+E :  Yeah , that 's a good point .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qy^d^rt
+E :  Now , what will uh Is the plan to g to So stuff will be saved , it 's just that you 're relocating it ?
+
+dialogue type : qy^d^rt
+E :  I mean , so we 're gonna get more disk space ?
+
+dialogue type : qrr.%-
+E :  Or did I ?
+
+dialogue type : b
+E :  OK .
+
+dialogue type : sj^ba
+E :  Oh , good .
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : sj^fe
+E :  Wow .
+
+dialogue type : sj^fe
+E :  Wow .
+
+dialogue type : sj^ba
+E :  Wonderful .
+
+dialogue type : b
+E :  Wow .
+
+dialogue type : sj^ba
+E :  I 'm glad to hear it . Glad to hear it .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^2
+E :  Duration .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^ba
+E :  Yeah . That 's interesting .
+
+dialogue type : s
+E :  This is like a ground level , with It 's not it 's not total silence .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : sj^ba
+E :  Great . Great .
+
+dialogue type : sj^ba
+E :  Excellent .
+
+dialogue type : sj^ba
+E :  Glad to hear it .
+
+dialogue type : sj^ba
+E :  Good .
+
+dialogue type : s.%--
+E :  I 've gotta ask you . So , uh , the difference between the top two , i
+
+dialogue type : s
+E :  So so I start at the bottom , so " silence " is clear .
+
+dialogue type : qy^rt
+E :  By " speech " do you mean speech by one sp by one person only ?
+
+dialogue type : s
+E :  So this is un OK , and then and then the top includes people speaking at the same time , or or a speaker and a breath overlapping , someone else 's breath , or or clicking , overlapping with speech So , that that 's all those possibilities in the top one .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bu
+E :  So it 's basi it 's basically speech wi som with with something overlapping , which could be speech but doesn't need to be .
+
+dialogue type : s^na
+E :  Yeah , that 's right . That 's my question .
+
+dialogue type : sj^fe
+E :  Oh !
+
+dialogue type : s.%-
+E :  Like a c
+
+dialogue type : b
+E :  Oh .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^bu
+E :  So you 're ignoring overlapping events unless they 're speech with speech .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s.%-
+E :  We 're just
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Yeah cuz you 've talked about other overlapping events in the past .
+
+dialogue type : s
+E :  So , this is this is a subset .
+
+dialogue type : %-
+E :  OK .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^na
+E :  Yeah , we just wanted to know what the category was here .
+
+dialogue type : s^bs
+E :  So it 's like a signal - noise situation .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^t1
+E :  Well , steady state .
+
+dialogue type : s
+E :  Well , we needed to get the categories , yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^cs^rt
+E :  Can I ask ?
+
+dialogue type : s
+E :  It strikes me that there 's another piece of information um , that might be useful and that 's simply the transition .
+
+dialogue type : s
+E :  So , w if you go from a transition of silence to overlap versus a transition from silence to speech , there 's gonna be a b a big informative area there , it seems to me .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : x
+E :  OK .
+
+dialogue type : x
+E :  Clustering .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : %
+E :  So p
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : sj^ba
+E :  Interesting .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qw^br^bu^d^rt
+E :  With what ?
+
+dialogue type : qw^br^bu^d^r^rt
+E :  With what ?
+
+dialogue type : s^bk|s^ft
+E :  " Mixed " . Thank you .
+
+dialogue type : s^bu
+E :  So it 's messier .
+
+dialogue type : s^bu
+E :  The the PDA is messier .
+
+dialogue type : sj^ba
+E :  That 's good .
+
+dialogue type : s
+E :  There there is a complication though , and that is if a person turns their back to the to the PDA , then some of the positional information goes away ?
+
+dialogue type : s
+E :  And then , And if they 're on the access on the axis of it , that was the other thing I was thinking .
+
+dialogue type : s
+E :  He You mentioned this last time , that that if if you 're straight down the midline , then then the r the left - right 's gonna be different ,
+
+dialogue type : s
+E :  and and and in his case , I mean , he 's closer to it anyway .
+
+dialogue type : s
+E :  It seems to me that that it 's not a p uh , you know , it 's this the topograph the topology of it is is a little bit complicated .
+
+dialogue type : s^na
+E :  Oh yeah ! Oh I agree ! And we use it ourselves .
+
+dialogue type : s
+E :  I mean , I know I n I know that 's a very important cue .
+
+dialogue type : s
+E :  But I 'm just I 'm just saying that the way we 're seated around a table , is not the same with respect to each to each person with respect to the PDA ,
+
+dialogue type : s
+E :  so we 're gonna have a lot of differences with ref respect to the speaker .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : fg|s
+E :  Yeah . OK , it just it just seemed to me that uh , that this isn't the ideal type of separation .
+
+dialogue type : s.%-
+E :  I mean , I I think it 's I can see the value o
+
+dialogue type : s^bk
+E :  Yeah , OK .
+
+dialogue type : s^bk
+E :  Oh yeah yeah . OK .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Uh , his a web page .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bu
+E :  Well , let me ask you , if if both people were over there , it would be less effective than if one was there and one was across , catty - corner ?
+
+dialogue type : qy^d^g^rt
+E :  No ?
+
+dialogue type : s
+E :  Next next one over n over on this side of the P PDA .
+
+dialogue type : s^na
+E :  There we go .
+
+dialogue type : sj^ba
+E :  Good example , the same one I 'm asking .
+
+dialogue type : s
+E :  Versus you versus you know , and we 're catty - corner across the table , and I 'm farther away from this one and you 're farther away from that one .
+
+dialogue type : s
+E :  It seems like that would be pretty strong .
+
+dialogue type : s
+E :  Across the same axis , you don't have as much to differentiate .
+
+dialogue type : s^bs
+E :  And so my point was just that it 's it 's gonna be differentially differentially varia valuable .
+
+dialogue type : s
+E :  I mean , it 's not to say I mean , I certainly think it 's extremely val And we we humans n n depend on you know , these these binaural cues .
+
+dialogue type : %
+E :  But .
+
+dialogue type : b
+E :  Yes . Yeah .
+
+dialogue type : fg
+E :  OK .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Yeah yeah , OK . Yeah .
+
+dialogue type : s^df
+E :  Oh I 'm not I 'm not trying to argue against using it , by any means . I just wanted to point out that that weakness , that it 's topo topologically impossible to get it perfect for everybody .
+
+dialogue type : sj^ba
+E :  Great .
+
+dialogue type : s^df
+E :  No , I don't mean to discourage that at all .
+
+dialogue type : sj^ba
+E :  Interesting .
+
+dialogue type : sj^ba
+E :  Interesting .
+
+dialogue type : sj^ba
+E :  Interesting .
+
+dialogue type : sj^ba
+E :  Interesting .
+
+dialogue type : sj^ba
+E :  Interesting .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Ah !
+
+dialogue type : s^cs
+E :  Well , you could have strips that you stick to your clothing .
+
+dialogue type : s^na
+E :  Well , it 's slightly different . So I I would say it would be a good idea .
+
+dialogue type : s
+E :  Cuz it it 's slightly different .
+
+dialogue type : s^na
+E :  It 's slightly different .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s
+E :  Well , should I I mean I have some results to present , but I mean I guess we won't have time to do that this time .
+
+dialogue type : s^cs^na
+E :  But it seems like um the anonymization is uh , is also something that we might wanna discuss in greater length .
+
+dialogue type : s^cs
+E :  If if we 're about to wind down , I think what I would prefer is that we uh , delay the anonymization thing till next week ,
+
+dialogue type : s^cc
+E :  and I would like to present the results that I have on the overlaps .
+
+dialogue type : s^nd
+E :  I 'd Oh , I 'd prefer to have more time for my results .
+
+dialogue type : qy^cs^rt
+E :  e Could I do that next week maybe ?
+
+dialogue type : s^df
+E :  OK , that 's what I 'm asking .
+
+dialogue type : s^cs^nd
+E :  And I think the anonymization , if y if you want to proceed with that now , I just think that that 's that 's a discussion which also n really deserves a lo a you know , more that just a minute .
+
+dialogue type : sj
+E :  I really do think that ,
+
+dialogue type : s
+E :  because you raised a couple of possibilities yourself ,
+
+dialogue type : s
+E :  you and I have discussed it previously ,
+
+dialogue type : s^cs.%-
+E : 
+
+dialogue type : fg
+E :  Well , OK .
+
+dialogue type : %--
+E : 
+
+dialogue type : s^cc^df
+E :  Yeah . OK . I I 'll give you the short version ,
+
+dialogue type : s^nd
+E :  but I do think it 's an issue that we can't resolve in five minutes .
+
+dialogue type : h|s
+E :  OK , so the the short thing is um , we have uh , tape recording uh , uh , sorry , digitized recor recordings .
+
+dialogue type : s
+E :  Those we won't be able to change .
+
+dialogue type : s
+E :  If someone says " Hey , Roger so - and - so " .
+
+dialogue type : s
+E :  So that 's gonna stay that person 's name .
+
+dialogue type : s
+E :  Now , in terms of like the transcript ,
+
+dialogue type : qw
+E :  the question becomes what symbol are you gonna put in there for everybody 's name ,
+
+dialogue type : qr
+E :  and whether you 're gonna put it in the text where he says " Hey Roger " or are we gonna put that person 's anonymized name in instead ?
+
+dialogue type : s^co
+E :  OK , so first decision is , we 're gonna anonymize the same name for the speaker identifier and also in the text whenever the speaker 's name is mentioned .
+
+dialogue type : s^ng
+E :  I I don't think you understood what I what I said .
+
+dialogue type : fh|s
+E :  So uh , so in within the context of an utterance , someone says " So , Roger , what do you think ? "
+
+dialogue type : fh
+E :  OK .
+
+dialogue type : s
+E :  Then , uh , it seems to me that Well , maybe I uh it seems to me that if you change the name , the transcript 's gonna disagree with the audio , and you won't be able to use that .
+
+dialogue type : fg|s^df^ng
+E :  OK , well , but then there 's this issue of if we 're gonna use this for a discourse type of thing , then and , you know , Liz was mentioning stuff in a previous meeting about gaze direction and who 's who 's the addressee and all , then to have " Roger " be the thing in the utterance and then actually have the speaker identifier who was " Roger " be " Frank " , that 's going to be really confusing and make it pretty much useless for discourse analysis .
+
+dialogue type : s.%
+E :  Now , if you want to , you know , I mean , in some cases , I I I know that Susan Ervin - Tripp in some of hers , uh , actually did do uh , um , a filter of the s signal where the person 's name was mentioned , except
+
+dialogue type : s
+E :  And and I cer and I So , I mean , the question then becomes one level back .
+
+dialogue type : qw
+E :  Um , how important is it for a person to be identified by first name versus full name ?
+
+dialogue type : fh|s
+E :  Well , on the one hand , uh , it 's not a full identity ,
+
+dialogue type : s
+E :  we 're taking all these precautions , um and they 'll be taking precautions , which are probably even the more important ones , to they 'll be reviewing the transcripts , to see if there 's something they don't like OK .
+
+dialogue type : s
+E :  So , maybe , uh , maybe that 's enough protection .
+
+dialogue type : s
+E :  On the other hand , this is a small this is a small pool , and people who say things about topic X e who are researchers and well - known in the field , they 'll be identifiable and simply from the from the first name .
+
+dialogue type : s
+E :  However , taking one step further back , they 'd be identifiable anyway , even if we changed all the names .
+
+dialogue type : qy.%--
+E :  So , is it really , um You know ?
+
+dialogue type : fh|s^cc
+E :  Now , in terms of like so I I did some results , which I 'll report on n next time , which do mention individual speakers by name .
+
+dialogue type : s
+E :  Now , there , the Human Subjects Committee is very precise .
+
+dialogue type : s
+E :  You don't wanna mention subjects by name in published reports .
+
+dialogue type : s
+E :  Now , it would be very possible for me to take those data put them in a in a study , and just change everybody 's name for the purpose of the publication .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah , exactly .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s
+E :  That 's the same thing you saw .
+
+dialogue type : s^aa|s^df
+E :  Yeah , and and in the form that they sign , it does say " your first name may arise in the course of the meetings " .
+
+dialogue type : s
+E :  Or " your name " .
+
+dialogue type : s
+E :  Yeah , and and you know , even more i i uh , immediate than that just being able to , uh Well , it just seems like to track track from one utterance to the next utterance who 's speaking and who 's speaking to whom , cuz that can be important .
+
+dialogue type : s
+E :  S i You know , " You raised the point , So - and - so " , it 's be kind of nice to be able to know who " you " was .
+
+dialogue type : s
+E :  And ac and actually you remember furthermore , you remember last time we had this discussion of how you know , I was sort of avoiding mentioning people 's names ,
+
+dialogue type : s
+E :  and and it was and we made the decision that was kind of artificial .
+
+dialogue type : s
+E :  Well , I mean , if we 're going to step in after the fact and change people 's names in the transcript , we 've basically done something one step worse .
+
+dialogue type : s
+E :  Misleading .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Sure .
+
+dialogue type : s^bk
+E :  Oh , it 's not a problem . Not a problem . Yeah .
+
+dialogue type : s^df
+E :  I just I just couldn't do it in two minutes .
+
+dialogue type : qw^bu
+E :  How do you mean , who what they 're who they 're talking about ?
+
+dialogue type : qw^r
+E :  How do you mean ?
+
+dialogue type : s
+E :  They won't be able to change it themselves .
+
+dialogue type : s
+E :  Well , I I 'm betting we 're gonna have huge chunks that are just totally un untranscribable by them .
+
+dialogue type : fg|s.%--
+E :  Oh . I think that My understanding from Yen
+
+dialogue type : qy^rt
+E :  Is it Yen - Ching ?
+
+dialogue type : qy
+E :  Is that how you pronounce her name ?
+
+dialogue type : qy^bu^d
+E :  Oh , uh Yu - Ching ?
+
+dialogue type : qy^bu^d
+E :  Yu - Ching ?
+
+dialogue type : s
+E :  was that um , they will that they will adopt the part of the conventions that that we discussed , where they put speaker identifier down .
+
+dialogue type : s
+E :  But , you know , h they won't know these people ,
+
+dialogue type : s
+E :  so I think it 's Well , they 'll they 'll adopt some convention
+
+dialogue type : s
+E : 
+
+dialogue type : s
+E :  So they 'll do something like speaker - one , speaker - two , is what
+
+dialogue type : sj
+E :  I bet , but I 'm betting there 'll be huge variations in the accuracy of of their labeling the speakers .
+
+dialogue type : s^co
+E :  We 'll have to review the transcripts in any case .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : sj
+E :  You know , that would be a very practical solution on their part .
+
+dialogue type : s
+E :  And and but then we would need to label it .
+
+dialogue type : s
+E :  And that 's OK .
+
+dialogue type : s
+E :  Yes , I was thinking , the temp the time values of when it changes .
+
+dialogue type : s
+E :  That 'd be very efficient .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^cs
+E :  Unless we adopt a different set of norms which is to not id to make a point of not identifying people by name , which then leads you to be more contextually ex explicit .
+
+dialogue type : s^df
+E :  Well , people are very flexible . You know ? I mean , so when we did this las last week , I felt that you know , now , Andreas may , uh , @ @ uh , he he i sometimes people think of something else at the same time and they miss a sentence or something , and and because he missed something , then he missed the r the initial introduction of who we were talking about , and was was unable to do the tracking .
+
+dialogue type : s^df
+E :  But I felt like most of us were doing the tracking and knew who we were talking about and we just weren't mentioning the name .
+
+dialogue type : s^bs
+E :  So , people are really flexible .
+
+dialogue type : s^bk
+E :  Yeah ?
+
+dialogue type : s.%-
+E :  Well , it
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^na
+E :  That 's that 's the issue .
+
+dialogue type : %
+E :  Well .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Now , I I think that we have these two phases in the in the data , which is the one which is o our use , University of Washington 's use , IBM , SRI .
+
+dialogue type : s^cs
+E :  And within that , it may be that it 's sufficient to not uh change the to not incorporate anonymization yet , but always , always in the publications we have to .
+
+dialogue type : s^co
+E :  And I think also , when we take it that next step and distribute it to the world , we have to .
+
+dialogue type : s
+E : 
+
+dialogue type : s^cs
+E :  i i it You know , it may be s that we we 'll need to do something like actually X out that part of the um the audio , and just put in brackets " speaker - one " .
+
+dialogue type : qy^d^f^g
+E :  You know .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s^nd
+E :  I think that 's risky . I think that the public should be the same .
+
+dialogue type : s^cs^nd
+E :  I think that when we do that world release , it should be the same .
+
+dialogue type : s
+E :  For a bunch of reasons , legal .
+
+dialogue type : s^cs
+E :  But I also think a consistent licensing policy is important .
+
+dialogue type : s^nd
+E :  Excuse me . We we do need audio for discourse .
+
+dialogue type : s^bk|s.%-
+E : 
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : sj^ba
+E :  Yeah . That 's good .
+
+dialogue type : s
+E :  Well , you see ? So , it 's complicated .
+
+dialogue type : b
+E :  Mm - hmm . Yeah .
+
+dialogue type : s
+E :  I think we have to think about w @ @ how . I think that this can't be decided today .
+
+dialogue type : s^cs
+E :  But it 's g but I think it was good to introduce the thing and we can do it next time .
+
+dialogue type : s
+E :  Well it Discourse , you know Also I wanted to make the point that that discourse is gonna be more than just looking at a transcript .
+
+dialogue type : s
+E :  It 's gonna be looking at a t You know , and prosod prosodic stuff is involved ,
+
+dialogue type : s
+E :  and that means you 're going to be listening to the audio ,
+
+dialogue type : s
+E :  and then you come directly into this confronting this problem .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s^cs^j
+E :  Yeah , we should just market it to non - English speaking countries .
+
+dialogue type : s^cs^j
+E :  We could have little labels .
+
+dialogue type : s^cs^j
+E :  I I I wanna introduce my Reservoir Dogs solution again , which is everyone has like " Mister White " , " Mister Pink " , " Mister Blue " .
+
+dialogue type : qr^bu.%--
+E :  Oh , do we do digits ? Or ?
+
+dialogue type : qw
+E :  What do we do ?
+
+dialogue type : qy^bu
+E :  Or do we just quit ?
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : z
+E :  Well , you know , in the in the one I transcribed , I did find a couple instances I found one instance of contrastive stress , where it was like the string had a li So it was like " nine eight two four , nine nine two four " .
+
+dialogue type : z
+E : 
+
+dialogue type : z
+E :  Well , they differed .
+
+dialogue type : z
+E :  I mean , at that that session I did feel like they did it more as sentences .
+
+dialogue type : z
+E :  But , um , sometimes people do it as phone numbers . I mean , I 've I am sort of interested in in And sometimes , you know , I s And I I never know . When I do it , I I ask myself what I 'm doing each time .
+
+dialogue type : z
+E : 
+
+dialogue type : z
+E :  I like your question intonation .
+
+dialogue type : z
+E :  That 's very funny .
+
+dialogue type : z
+E :  I haven't heard that one .
+

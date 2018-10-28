@@ -1,0 +1,258 @@
+dialogue type : z
+B :  Chuck was telling too many jokes , or something ?
+
+dialogue type : b.%
+B :  Hmm .
+
+dialogue type : qy^rt
+B :  Since , uh since I have to leave as usual at three - thirty , can we do the interesting stuff first ?
+
+dialogue type : h|s^t
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : qw.%-
+B :  W What ?
+
+dialogue type : qw
+B :  What kind of , uh , front - end processing did you do ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : %-
+B :  But you s
+
+dialogue type : s
+B :  But about the need for transcription ,
+
+dialogue type : qy^bu^df^rt
+B :  I mean , don't we didn't we previously decide that the IBM transcripts would have to be checked anyway and possibly augmented ?
+
+dialogue type : s^cs
+B :  So , I think having a good tool is worth something no matter what .
+
+dialogue type : qw
+B :  So who 's gonna do that ?
+
+dialogue type : qw^e
+B :  Who 's gonna do forced alignment ?
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^j
+B :  He asked for more work .
+
+dialogue type : sj^ba
+B :  It 's interesting ,
+
+dialogue type : fh
+B :  uh ,
+
+dialogue type : s
+B :  I talked to some IBM guys , uh , last January , I think , I was there .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^e
+B :  so people who were working on the on their ViaVoice dictation product .
+
+dialogue type : s
+B :  And they said , uh , the breathing is really a a terrible problem for them ,
+
+dialogue type : s^e
+B :  to to not recognize breathing as speech .
+
+dialogue type : s
+B :  So , anything to reduce breathing is is is a good thing .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg|%--
+B : 
+
+dialogue type : s^t
+B :  One more remark , uh , concerning the SRI recognizer .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s
+B :  It is useful to transcribe and then ultimately train models for things like breath ,
+
+dialogue type : s
+B :  and also laughter is very , very frequent and important to to model .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s^cs.%-
+B : 
+
+dialogue type : s^cs
+B :  mark very audible breaths and laughter especially ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^nd.%-
+B : 
+
+dialogue type : s
+B :  As as long as there is an indication that there was laughter somewhere between two words I think that 's sufficient ,
+
+dialogue type : %-
+B :  because
+
+dialogue type : s
+B :  actually the recognition of laughter once you kn um you know , is pretty good .
+
+dialogue type : s
+B :  So as long as you can stick a you know , a t a tag in there that that indicates that there was laughter ,
+
+dialogue type : s
+B :  that would probably be , uh , sufficient to train models .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b^rt
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s
+B :  Well , the thing that you is hard to deal with is whe when they speak while laughing .
+
+dialogue type : s
+B :  Um , and that 's , uh I don't think that we can do very well with that .
+
+dialogue type : fh
+B : 
+
+dialogue type : fh|s
+B :  But , um , that 's not as frequent as just laughing between speaking ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  We tried both .
+
+dialogue type : fh|s
+B :  Uh , currently , um , we use special words .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^m
+B :  uh , mouth mouth stuff .
+
+dialogue type : s
+B :  And then laughter is a is a special word .
+
+dialogue type : qy^bu^d^rt
+B :  Same thing ?
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa|s
+B :  Yeah . You ha Oh . And each of these words has a dedicated phone .
+
+dialogue type : s^df
+B :  So the so the the mouth noise , uh , word has just a single phone ,
+
+dialogue type : fh|s
+B :  um , that is for that .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  And the the pronun the pronunciations the pronunciations are l are somewhat non - standard .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh|s
+B :  uh , it 's just a single , s uh , you know , a single phone in the pronunciation ,
+
+dialogue type : s
+B :  but it has a self - loop on it ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa^m
+B :  r can go on forever .
+
+dialogue type : s
+B :  It 's just a it 's just a word .
+
+dialogue type : s
+B :  We train it like any other word .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s
+B :  We also tried , um , absorbing these uh , both laughter and and actually also noise ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^t3
+B :  Yes .
+
+dialogue type : s^bk^t3
+B :  OK .
+
+dialogue type : s
+B : 
+
+dialogue type : s^e
+B :  I mean , the the the model that that matches the stuff between words .
+
+dialogue type : fh
+B :  And , um ,
+
+dialogue type : s
+B :  it didn't work as well . So .
+
+dialogue type : s^fa
+B :  Sorry .
+

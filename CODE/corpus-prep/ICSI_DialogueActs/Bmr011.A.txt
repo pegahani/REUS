@@ -1,0 +1,1218 @@
+dialogue type : qw
+A :  Why is it so cold in here ?
+
+dialogue type : fg|s
+A :  Well , I had a just a quick question
+
+dialogue type : s
+A :  but I know there was discussion of it at a previous meeting that I missed ,
+
+dialogue type : s
+A :  but just about the the wish list item of getting good quality close - talking mikes on every speaker .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  Uh , we started running recognition on one conversation
+
+dialogue type : s
+A :  but it 's the r isn't working yet .
+
+dialogue type : fh
+A :  So ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  uh , the main thing would be if anyone has , um , knowledge about ways to , uh , post - process the wave forms that would give us better recognition ,
+
+dialogue type : s
+A :  that would be helpful to know about .
+
+dialogue type : h
+A :  Ri - um ,
+
+dialogue type : s^aa|%--
+A : 
+
+dialogue type : s
+A :  And actually in addition to that , that the the close talking mikes are worn in such a way as to best capture the signal .
+
+dialogue type : s.%--
+A :  And the reason here is just that for the people doing work
+
+dialogue type : s.%--
+A :  not on microphones but on sort of like dialogue and so forth ,
+
+dialogue type : h|s.%--
+A :  uh or and even on prosody ,
+
+dialogue type : s^rt
+A :  which Don is gonna be working on soon ,
+
+dialogue type : s
+A :  it adds this extra , you know , vari variable for each speaker to to deal with when the microphones aren't similar .
+
+dialogue type : fh|s
+A :  So And I also talked to Mari this morning
+
+dialogue type : s
+A :  and she also had a strong preference for doing that .
+
+dialogue type : s
+A :  And in fact she said that that 's useful for them to know in starting to collect their data too .
+
+dialogue type : b.%
+A :  Mm - hmm .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^cs
+A :  But if we could actually standardize , you know , the the microphones , uh , as much as possible that would be really helpful .
+
+dialogue type : s
+A :  But y we could just record these signals separately and time align them with the start of the meeting .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^df.%--
+A :  Well , for short term research it 's just there 's just so much effort that would have to be done up front n uh ,
+
+dialogue type : s
+A :  so yeah , uniformity would be great .
+
+dialogue type : s
+A :  Well Jane would know more about the transcribers .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  So does the recognizer .
+
+dialogue type : s.%--
+A :  Even if if you 're talking on someone else 's mike it 's still you w
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^ba
+A :  That 's OK .
+
+dialogue type : s^ba
+A :  Great , great .
+
+dialogue type : s^ba|s^ft
+A :  Great , thank you very much .
+
+dialogue type : s
+A :  It 's makes our job a lot easier .
+
+dialogue type : s^j
+A :  You just search for Adam 's voice on each individual microphone , you pretty much know where everybody 's sitting .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Right ,
+
+dialogue type : s^aa^r
+A :  right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  it seems to me that there 's you know , there are good political reasons for for doing this ,
+
+dialogue type : s^e
+A :  just getting the data ,
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : s^df
+A :  like right now SRI is probably gonna invest a lot of internal funding into recording meetings also , which is good ,
+
+dialogue type : fh|s
+A :  um , but they 'll be recording with video
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^cs
+A :  You know , it 'd be nice if we can have at least , uh , make use of the data that we 're recording as we go
+
+dialogue type : s^df
+A :  since it 's sort of this is the first site that has really collected these really impromptu meetings ,
+
+dialogue type : s
+A :  um , and just have this other information available .
+
+dialogue type : s^cs.%--
+A :  So , if we can get the investment in just for the infra infrastructure
+
+dialogue type : %--
+A :  and then ,
+
+dialogue type : s^bd
+A :  I don't know ,
+
+dialogue type : s^cs.%--
+A :  save it out
+
+dialogue type : s^cs.%--
+A :  or have whoever 's interested
+
+dialogue type : s^cs
+A :  save that data out ,
+
+dialogue type : s^cs
+A :  transfer it there ,
+
+dialogue type : s
+A :  it 'd be g it 'd be good to have have the recording . I think .
+
+dialogue type : %-
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : s^no^rt
+A :  I 'm not sure about video .
+
+dialogue type : s^df.%--
+A :  That 's sort of an video has a little different nature since
+
+dialogue type : s
+A :  right n right now we 're all being recorded but we 're not being taped .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^cs.%--
+A : 
+
+dialogue type : s
+A :  So suppose you can get an array in because there 's some person at Berkeley who 's interested and has some equipment ,
+
+dialogue type : s
+A :  uh , and suppose we can as we save it we can , you know , transfer it off to some other place that that holds this this data ,
+
+dialogue type : s
+A :  who 's interested ,
+
+dialogue type : s
+A :  and even if ICSI it itself isn't .
+
+dialogue type : qy^rt
+A :  Um , and it it seems like as long as we can time align the beginning , do we need to mix it with the rest ?
+
+dialogue type : s^no^rt
+A :  I don't know .
+
+dialogue type : %--
+A :  You know ? The
+
+dialogue type : fh
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^cs.%--
+A :  I mean it 's just it 's worth considering as sort of
+
+dialogue type : s
+A :  once you make the up front investment and can sort of save it out each time , and and not have to worry about the disk space factor , then it mi it might be worth having the data .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^bk|s^aap
+A :  Right , I mean at least they 'd have the data and the transcripts ,
+
+dialogue type : fh
+A : 
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : fg|s
+A :  Right , I mean , just it 'd be nice if we have more information on the same data .
+
+dialogue type : qy^d^f^g
+A :  You know ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  But it 's if it 's impossible or if it 's a lot of effort then you have to just balance the two ,
+
+dialogue type : fh
+A : 
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^aa|s
+A :  Right . Internally ,
+
+dialogue type : s
+A :  but I know there is interest from other places that are interested in looking at meeting data and having the video .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^bk|s^na
+A :  Right , that 's true .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  You 're on recor you 're being recorded
+
+dialogue type : fh
+A : 
+
+dialogue type : fg
+A :  Sorry ,
+
+dialogue type : qy^rt.%--
+A : 
+
+dialogue type : s^rt
+A :  I 'm not familiar with this ATLAS system .
+
+dialogue type : s^bk
+A :  Oh . Oh .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  I I think it 's sort of hard just playing the you know , just having played the individual files .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A :  Uh , it 's pretty hard to follow , especially
+
+dialogue type : s
+A :  there are a lot of words that are so reduced phonetically that make sense when you know what the person was saying before .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^rt
+A :  Actually , are th so are they giving any time markings ?
+
+dialogue type : s.%-
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : %-
+A :  Actu
+
+dialogue type : s.%-
+A : 
+
+dialogue type : fh|%--
+A :  um , you know ,
+
+dialogue type : s^bk
+A :  yeah ,
+
+dialogue type : %-
+A : 
+
+dialogue type : h|s.%-
+A :  OK , so this is a , um ,
+
+dialogue type : s
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fh|s
+A :  um , I mean , for the SRI front - end , we really need to chop things up into pieces that are f not too huge .
+
+dialogue type : fh|s
+A :  Um , but second of all , uh in general because some of these channels ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : %--
+A :  have a lot of cross - ta
+
+dialogue type : s^bsc
+A :  sorry , some of the segments have a lot of cross - talk .
+
+dialogue type : fh|s
+A :  Um , it 's good to get sort of short segments if you 're gonna do recognition ,
+
+dialogue type : s^e
+A :  especially forced alignment .
+
+dialogue type : fh
+A :  So ,
+
+dialogue type : s
+A :  uh , Don has been taking a first stab actually using Jane 's first the fir the meeting that Jane transcribed
+
+dialogue type : s
+A :  which we did have some problems with ,
+
+dialogue type : s
+A :  and Thilo , uh , I think told me why this was ,
+
+dialogue type : s^rt
+A :  but that people were switching microphones around in the very beginning ,
+
+dialogue type : fh
+A : 
+
+dialogue type : %-
+A :  the SRI re
+
+dialogue type : %-
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : fg|s
+A :  So we have to sort of normalize the front - end and so forth , and have these small segments .
+
+dialogue type : s
+A :  So we 've taken that and chopped it into pieces based always on your your , um , cuts that you made on the mixed signal .
+
+dialogue type : s
+A :  And so that every every speaker has the same cuts .
+
+dialogue type : s
+A :  And if they have speech in it we run it through .
+
+dialogue type : s
+A :  And if they don't have speech in it we don't run it through .
+
+dialogue type : s
+A :  And we base that knowledge on the transcription .
+
+dialogue type : fh|s.%--
+A :  Um , the problem is if we have no time marks ,
+
+dialogue type : s
+A :  then for forced alignment we actually don't know where you know , in the signal the transcriber heard that word .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  I mean , if if it 's a whole conversation and we get a long , uh , you know , par paragraph of of talk ,
+
+dialogue type : s^no
+A :  uh , I don't know how they do this .
+
+dialogue type : fh|s^no
+A :  Um , we actually don't know which piece goes where .
+
+dialogue type : fh|s.%-
+A : 
+
+dialogue type : s^ar|s^ng.%--
+A : 
+
+dialogue type : s
+A :  So when Jane transcribes them the way she has transcribers doing this ,
+
+dialogue type : s
+A :  whether it 's with the pre - segmentation or not ,
+
+dialogue type : s
+A :  they have a chunk and then they transcribes the words in the chunk .
+
+dialogue type : s
+A :  And maybe they choose the chunk or now they use a pre - segmentation and then correct it if necessary .
+
+dialogue type : s
+A :  But there 's first a chunk and then a transcription .
+
+dialogue type : s
+A :  Then a chunk , then a transcription .
+
+dialogue type : s^ba
+A :  That 's great ,
+
+dialogue type : s^df.%-
+A : 
+
+dialogue type : s^aa|s
+A :  Right , and it it helps that it 's made based on sort of heuristics and human ear I think .
+
+dialogue type : s
+A :  Th - but there 's going to be a real problem ,
+
+dialogue type : s
+A :  uh , even if we chop up based on speech silence these , uh , the transcripts from I B M , we don't actually know where the words were ,
+
+dialogue type : s^e
+A :  which segment they belonged to .
+
+dialogue type : s
+A :  So that 's sort of what I 'm worried about right now .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  you can always chop it up
+
+dialogue type : s
+A :  but you need to have a reference of which words went with which , uh , chop .
+
+dialogue type : fh
+A : 
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fh|s
+A :  uh , I don't know , maybe it 's saved out in pieces or or something . That would help .
+
+dialogue type : fh
+A :  But ,
+
+dialogue type : s^no
+A :  uh , it 's just an unknown right now .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : fg|s
+A :  Right . But the it is true that the segments I haven't tried the segments that Thilo gave you
+
+dialogue type : s^ba
+A :  but the segments that in your first meeting are great .
+
+dialogue type : s^ba^e
+A :  I mean , that 's that 's a good length .
+
+dialogue type : fg|%-
+A : 
+
+dialogue type : b
+A :  y yeah .
+
+dialogue type : s^cs.%--
+A : 
+
+dialogue type : fh|s
+A :  I mean , the the more data we have to try the the alignments on , um , the better .
+
+dialogue type : s
+A :  So it 'd be good for just to know as transcriptions are coming through the pipeline from the transcribers ,
+
+dialogue type : s^cs
+A :  just to sort of we 're playing around with sort of uh , parameters f on the recognizer ,
+
+dialogue type : s^ba
+A :  cuz that would be helpful .
+
+dialogue type : s
+A :  Especially as you get , en more voices .
+
+dialogue type : s^e
+A :  The first meeting had I think just four people ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : s^bk
+A :  Oh , great ,
+
+dialogue type : s^bk^r
+A :  great .
+
+dialogue type : b
+A :  So .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^bu.%--
+A :  So this is like gestural uh , these g
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : fg
+A :  Right .
+
+dialogue type : qy^rt.%--
+A :  But is is the goal there to have this on meeting data ,
+
+dialogue type : %--
+A :  like
+
+dialogue type : qy^bu^rt
+A :  so that you can do far field studies of those gestures
+
+dialogue type : fh
+A :  or um ,
+
+dialogue type : qrr^rt
+A :  or is it because you think there 's a different kind of actual production in meetings that people use ?
+
+dialogue type : qrr.%--
+A :  Or ?
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg|s^ba
+A :  Right . Yeah , that would be good .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^ba
+A :  That 's true .
+
+dialogue type : s^rt^tc
+A :  I guess I wanted to , um , sort of make a pitch for trying to collect more meetings .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s
+A :  I actually I talked to Chuck Fillmore
+
+dialogue type : s^rt
+A :  and I think they 've what , vehemently said no before
+
+dialogue type : s:s^co
+A :  but this time he wasn't vehement and he said you know , " well , Liz , come to the meeting tomorrow
+
+dialogue type : s
+A :  and try to convince people " .
+
+dialogue type : s
+A :  So I 'm gonna try . Go to their meeting tomorrow
+
+dialogue type : s
+A :  and see if we can try , uh , to convince them
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  And they have very interesting meetings from the point of view of a very different type of of talk than we have here
+
+dialogue type : s
+A :  and definitely than the front end meeting , probably .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^aap|s^rt
+A :  Well , yes and in terms of the the fact that they 're describing abstract things
+
+dialogue type : s
+A :  and , uh , just dialogue - wise ,
+
+dialogue type : s^f
+A :  right .
+
+dialogue type : s^rt
+A :  Um , so I 'll try .
+
+dialogue type : s.%--
+A :  And then the other thing is ,
+
+dialogue type : s^bd
+A :  I don't know if this is at all useful ,
+
+dialogue type : s^rt
+A :  but I asked Lila if I can maybe go around and talk to the different departments in this building
+
+dialogue type : s.%--
+A :  to see if there 's any groups that , for a free lunch ,
+
+dialogue type : s
+A :  if we can still offer that ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^m^na
+A :  non - ICSI , non - academic ,
+
+dialogue type : s^rt
+A :  you know , like government people ,
+
+dialogue type : s^bd
+A :  I don't know .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : qy^bu^d^rt
+A :  Is is it in these departments ?
+
+dialogue type : fg|s^cs
+A :  Right , and then we could also we might try advertising again
+
+dialogue type : s^df
+A :  because I think it 'd be good if if we can get a few different sort of non - internal types of meetings
+
+dialogue type : s^e
+A :  and just also more data .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  So I actually wrote to him and he answered , " great , that sounds really interesting " .
+
+dialogue type : s
+A :  But I never heard back
+
+dialogue type : s
+A :  because we didn't actually advertise openly .
+
+dialogue type : s.%--
+A :  We a I mean w
+
+dialogue type : s
+A :  I told I d asked him privately .
+
+dialogue type : s
+A :  Um , and it is a little bit of a trek for campus folks .
+
+dialogue type : fh|s.%-
+A :  Um , so it 's still worthwhile .
+
+dialogue type : fg
+A : 
+
+dialogue type : s^aa
+A :  Exactly ,
+
+dialogue type : %-
+A : 
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa^rt
+A :  Yeah .
+
+dialogue type : s^cs^rt
+A :  Plus we could also get you know , a s a student .
+
+dialogue type : s^cs^rt
+A :  And I 'm willing to try to learn .
+
+dialogue type : s^bd
+A :  I mean , I 'm I would do my best .
+
+dialogue type : s
+A :  Um , the other thing is that there was a number of things at the transcription side that , um , transcribers can do , like dialogue act tagging ,
+
+dialogue type : s
+A :  disfluency tagging ,
+
+dialogue type : s
+A :  um , things that are in the speech that are actually something we 're y working on for language modeling .
+
+dialogue type : s
+A :  And Mari 's also interested in it ,
+
+dialogue type : s
+A :  Andreas as well .
+
+dialogue type : s
+A :  So if you wanna process a utterance and the first thing they say is , " well " , and that " well " is coded as some kind of interrupt u tag .
+
+dialogue type : s
+A :  Uh , and things like that ,
+
+dialogue type : fh
+A :  um ,
+
+dialogue type : %-
+A :  th
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^ba|s.%--
+A : 
+
+dialogue type : s
+A :  I think there 's a second pass
+
+dialogue type : s
+A :  and I don't really know what would exist in it .
+
+dialogue type : s^cs
+A :  But there 's definitely a second pass worth doing to maybe encode some kinds of , you know , is it a question or not ,
+
+dialogue type : %--
+A : 
+
+dialogue type : s^cs
+A :  um , that maybe these transcribers could do .
+
+dialogue type : fh
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^ba
+A :  That 'd be great .
+
+dialogue type : s^bk
+A :  Oh , yeah .
+
+dialogue type : s^bk|s^bk^m
+A :  Oh , that we could .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^df
+A :  I thought that all these people had sort of said " no " twice already .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : fg|s
+A :  Right . That was a big fear .
+
+dialogue type : s^bk^rt
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg|s^cs
+A :  Yeah , I mean , it One thing that would be nice
+
+dialogue type : s^bd^df
+A :  and this it sounds bizarre
+
+dialogue type : s^cs
+A :  but , I 'd really like to look at to get some meetings where there 's a little bit of heated discussion ,
+
+dialogue type : s^e^rt
+A :  like ar arguments and or emotion , and things like that .
+
+dialogue type : s
+A :  And so I was thinking if there 's any like Berkeley political groups or something .
+
+dialogue type : s^ba
+A :  I mean , that 'd be perfect .
+
+dialogue type : s:s
+A :  Some group , " yes , we must "
+
+dialogue type : s^nd.%-
+A : 
+
+dialogue type : fh
+A : 
+
+dialogue type : fg
+A :  Well , OK .
+
+dialogue type : s^cs^nd
+A :  No , but maybe stu student , uh , groups or , um , film - makers , or som Something a little bit colorful .
+
+dialogue type : s
+A :  And I don't mean that they 're angry
+
+dialogue type : s^ba^cs
+A :  but just something with some more variation in prosodic contours and so forth would be neat .
+
+dialogue type : s
+A :  So if anyone has ideas ,
+
+dialogue type : s^cc
+A :  I 'm willing to do the leg work to go try to talk to people
+
+dialogue type : s
+A :  but I don't really know which groups are worth pursuing .
+
+dialogue type : fg
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^am
+A :  Yeah ,
+
+dialogue type : b
+A :  mm - hmm .
+
+dialogue type : s^aa|s.%--
+A : 
+
+dialogue type : s^cs^rt
+A :  something where there there is actually discussion where there 's no right or wrong answer but but it 's a matter of opinion kind of thing .
+
+dialogue type : fh|s^t
+A : 
+
+dialogue type : s^aa|s^cs.%-
+A : 
+
+dialogue type : s
+A :  I 'm I 'm actually serious
+
+dialogue type : s^df
+A :  because , uh , you know , we have the set up here
+
+dialogue type : s
+A :  and and that that has a chance to give us some very interesting fun data .
+
+dialogue type : fh
+A :  So
+
+dialogue type : s
+A :  if anyone has ideas ,
+
+dialogue type : s.%--
+A :  if you know any groups that are m you know ,
+
+dialogue type : s
+A :  student groups c like clubs , things like that .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^cs^j:s
+A :  " If you 're really angry at someone use our conference room . "
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : qh
+A :  Really .
+
+dialogue type : s^2.%-
+A :  Or people who are really h
+
+dialogue type : s^j^ng
+A :  Well , far field mikes can pick up where they threw stuff on the wall .
+
+dialogue type : s^aa
+A :  Oh . Yeah , right .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I I already asked Thilo
+
+dialogue type : s^cs
+A :  but that , um , it would be helpful if I can stay in the loop somehow with , um , people who are doing any kind of post - processing ,
+
+dialogue type : s^e
+A :  whether it 's to separate speakers or to improve the signal - to - noise ratio , or both ,
+
+dialogue type : s^e
+A :  um , that we can sort of try out as we 're running recognition .
+
+dialogue type : fh|s.%--
+A :  Um , so , i is that Who else is work
+
+dialogue type : s^bu.%-
+A :  I guess Dan Ellis and you
+
+dialogue type : s^bk^m
+A :  and Dave .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^no
+A :  I don't know .
+
+dialogue type : s
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  It doesn't seem like big room acoustics problems to my ear
+
+dialogue type : s^df
+A :  but I 'm not an expert .
+
+dialogue type : s
+A :  It seems like a problem with cross - talk .
+
+dialogue type : s^na
+A :  That that may be true .
+
+dialogue type : s^no
+A : 
+
+dialogue type : s^aa
+A :  That 's true .
+
+dialogue type : s^no
+A :  Oh , I don't know .
+
+dialogue type : s^bs
+A :  All I meant is just that as sort of as this pipeline of research is going on we 're also experimenting with different ASR , uh , techniques .
+
+dialogue type : s^ba
+A :  And so it 'd be w good to know about it .
+
+dialogue type : s^aa|s
+A :  R right , although if they 're not talking , using the the inhouse transcriptions , were sort of O K
+
+dialogue type : s^df
+A :  because the t no one transcribed any words there
+
+dialogue type : s
+A :  and we throw it out .
+
+dialogue type : s.%--
+A :  But if they 're talking at all and they 're not talking the whole time ,
+
+dialogue type : s:s
+A :  so you get some speech and then a " mm - hmm " , and some more speech ,
+
+dialogue type : s^e
+A :  so that whole thing is one chunk .
+
+dialogue type : s
+A :  And the person in the middle who said only a little bit is picking up the speech around it ,
+
+dialogue type : s
+A :  that 's where it 's a big problem .
+
+dialogue type : s^2
+A :  The energy ,
+
+dialogue type : s^aa
+A :  right . Exactly .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  Well we try to find as close of start and end time of as we can to the speech from an individual speaker ,
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : s
+A :  for the forced alignment which is just to give us the time boundaries ,
+
+dialogue type : s
+A :  because from those time boundaries then the plan is to compute prosodic features .
+
+dialogue type : s
+A :  And the sort of more space you have that isn't the thing you 're trying to align the more errors we have .
+
+dialogue type : fh|s.%--
+A :  Um , so , you know , that that it would help to have either pre - processing of a signal that creates very good signal - to - noise ratio ,
+
+dialogue type : s^no
+A :  which I don't know how possible this is for the lapel ,
+
+dialogue type : fh|s
+A :  um , or to have very to have closer , um , time you know , synch times , basically , around the speech
+
+dialogue type : s
+A :  that gets transcribed in it , or both .
+
+dialogue type : s
+A :  And it 's just sort of a open world right now of exploring that .
+
+dialogue type : s^ba
+A :  So I just wanted to see , you know , on the transcribing end from here things look good .
+
+dialogue type : fh|s
+A :  Uh , the IBM one is more it 's an open question right now .
+
+dialogue type : s
+A :  And then the issue of like global processing of some signal
+
+dialogue type : s
+A :  and then , you know , before we chop it up is is yet another way we can improve things in that .
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : fg|s^cs.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  when the signal - to - noise ratio is too low , um , you you 'll get , a uh an alignment with the wrong duration pattern
+
+dialogue type : %-
+A : 
+
+dialogue type : s^na.%--
+A : 
+
+dialogue type : s
+A :  I mean , what he did is allow you to have , uh , words that were in another segment move over to the at the edges of of segmentations .
+
+dialogue type : s^aa|s.%--
+A : 
+
+dialogue type : s
+A :  cuz what they had done there is align and then chop .
+
+dialogue type : fh|s
+A :  Um , and this problem is a little bit j more global .
+
+dialogue type : s^e
+A :  It 's that there are problems even in inside the alignments ,
+
+dialogue type : fh|s
+A :  uh , because of the fact that there 's enough acoustic signal there t for the recognizer to to eat , as part of a word .
+
+dialogue type : s
+A :  And it tends to do that .
+
+dialogue type : %-
+A :  S
+
+dialogue type : fh
+A :  So , uh ,
+
+dialogue type : s
+A :  but we probably will have to do something like that in addition .
+
+dialogue type : fh|s^bs
+A :  Anyway . So , yeah , bottom bottom line is just I wanted to make sure I can be aware of whoever 's working on these signal - processing techniques for , uh , detecting energies ,
+
+dialogue type : s^df
+A :  because that that 'll really help us .
+

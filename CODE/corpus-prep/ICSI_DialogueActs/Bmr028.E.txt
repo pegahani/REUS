@@ -1,0 +1,156 @@
+dialogue type : s^ba
+E :  Yeah . It 's slow .
+
+dialogue type : s^aa|s
+E :  Yeah . The linear fit .
+
+dialogue type : s
+E :  That 's just background speech .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s^t3
+E :  We 're talking about We 're talking about that demo .
+
+dialogue type : s^bk|qy^bu^d
+E :  Yeah . Did it ?
+
+dialogue type : fg|%-
+E :  Yeah . It migh
+
+dialogue type : s^cs
+E :  It 'd be nice if we can do , like , a quick hack ,
+
+dialogue type : s^df
+E :  just so we can play the audio file , too .
+
+dialogue type : s^cs^e
+E :  Um , with th with the display .
+
+dialogue type : s^ba^cs
+E :  Like , even if we I think that even if we didn't display the waveform , it might be better to , rather , play the waveform than display it .
+
+dialogue type : s^cs
+E :  I mean , like , if we were to choose I don't know , if I were to choose between one or the other , I 'd rather have it played .
+
+dialogue type : s^e
+E :  And then displayed .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg|s
+E :  Yeah . So , it 's coming along .
+
+dialogue type : fh
+E :  Um
+
+dialogue type : s
+E :  Just hacking Dan 's code and m stepping through it .
+
+dialogue type : s^ba
+E :  But , I think it 's close .
+
+dialogue type : s
+E :  And we should be there pretty soon ,
+
+dialogue type : s^bd
+E :  with at least , like at least with , you know , being able to search over c certain amount of meetings ,
+
+dialogue type : s^bd
+E :  just , like , really basic stuff .
+
+dialogue type : s^e
+E :  Just asking fo looking for a word , and looking through a bunch of different meetings .
+
+dialogue type : s
+E :  And if we have time , I 'll also add , you know , like , choosing which speakers you wanna include , and stuff .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^bu.%-
+E :  So , is the end of the month still the the d ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qw^rt^t^tc
+E :  Morgan , when 's the demo ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qy^2^bu^d^j^rt
+E :  For realizing we don't ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  Sure .
+
+dialogue type : s
+E :  I still have , like , probably six , seven , eight gig on my disk .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^fe
+E :  Whoa !
+
+dialogue type : b
+E :  Yea
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s
+E :  Well , and then you have the gender detection
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^am
+E :  The b for the f ? It was m m March , probably .
+
+dialogue type : s^aa|s
+E :  Yeah . Something around there .
+
+dialogue type : qw^rt
+E :  What are the nature of most of the changes ?
+
+dialogue type : s^ft
+E :  Thank you , Andreas .
+
+dialogue type : qy^bh
+E :  Really ?
+
+dialogue type : s^bu
+E :  It 's just the noise from the connections and the everything .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^cs
+E :  You could put them at the back of the queue or something .
+
+dialogue type : b
+E :  Yeah .
+

@@ -1,0 +1,567 @@
+dialogue type : s
+A :  OK , we 're on .
+
+dialogue type : s.%-
+A :  Oh , this was the , uh , talk where they were supposed to try to decide
+
+dialogue type : b
+A :  Ah , right .
+
+dialogue type : qw^rt
+A :  What 's the allowable ?
+
+dialogue type : qw
+A :  What were they thinking of changing it to ?
+
+dialogue type : b
+A :  Huh .
+
+dialogue type : s^bk
+A :  Ah !
+
+dialogue type : qw^br^d^rt
+A :  Think of it as what ?
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^na
+A :  And I don't think anybody 's gonna notice the difference between a quarter of a second of latency and thirty milliseconds of latency .
+
+dialogue type : h|s
+A :  Um , we had a silence detector ,
+
+dialogue type : fh
+A :  so
+
+dialogue type : s
+A :  we would look for the end of an utterance based on the silence detector .
+
+dialogue type : s^no
+A :  And I I can't remember now off the top of my head how many frames of silence we had to detect before we would declare it to be the end of an utterance .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s.%--
+A :  but it was ,
+
+dialogue type : fh
+A :  uh ,
+
+dialogue type : s
+A :  I would say it was probably around the order of two hundred and fifty milliseconds .
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s
+A :  we did the back trace at that point
+
+dialogue type : s^e
+A :  to get the answer .
+
+dialogue type : s^aa
+A :  No ,
+
+dialogue type : s^na
+A :  no it was pretty quick .
+
+dialogue type : fh
+A : 
+
+dialogue type : %-
+A :  this w
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  And it felt to , uh , the users that it was instantaneous .
+
+dialogue type : s^e
+A :  I mean , as fast as talking to a person .
+
+dialogue type : s^df
+A :  It th I don't think anybody ever complained about the delay .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  I don't remember the exact numbers
+
+dialogue type : %--
+A :  but
+
+dialogue type : s
+A :  it was something like that .
+
+dialogue type : s
+A :  I don't think you can really tell .
+
+dialogue type : s
+A :  A person I don't think a person can tell the difference between , uh , you know , a quarter of a second and a hundred milliseconds ,
+
+dialogue type : %--
+A : 
+
+dialogue type : s
+A :  I 'm not even sure if we can tell the difference between a quarter of a second and half a second .
+
+dialogue type : s^df
+A :  I mean it just it feels so quick .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  I mean , it may feel different than talking to a person
+
+dialogue type : s^df^rt
+A :  because when we talk to each other we tend to step on each other 's utterances .
+
+dialogue type : s^e
+A :  So like if I 'm asking you a question , you may start answering before I 'm even done .
+
+dialogue type : s
+A :  So it it would probably feel different
+
+dialogue type : s^nd
+A :  but I don't think it would feel slow .
+
+dialogue type : qy^rt
+A :  So is the latency from the neural net caused by how far ahead you 're looking ?
+
+dialogue type : qy.%--
+A : 
+
+dialogue type : qy^rt
+A :  Was it in the , uh , recurrent neural nets where they weren't looking ahead at all ?
+
+dialogue type : s^bk^m
+A :  A little bit .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  We 've always had usually we used the symmetric windows
+
+dialogue type : fh
+A :  but
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qw^br^d^rt
+A :  Change the what ?
+
+dialogue type : s^br
+A :  I 'm missing that last word .
+
+dialogue type : s^e.%-
+A :  Context
+
+dialogue type : s^bk^m
+A :  KLT .
+
+dialogue type : s^bk^m^r
+A :  Oh , KLT .
+
+dialogue type : s^bk
+A :  Uh - huh .
+
+dialogue type : qw^rt
+A :  What is the advantage of that ?
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : qy^bh^d
+A :  Really ?
+
+dialogue type : s^bk^fe
+A :  Huh !
+
+dialogue type : s^bk^fe
+A :  Hmm !
+
+dialogue type : s^bk^fe
+A :  Oh !
+
+dialogue type : s^bk
+A :  Uh - huh .
+
+dialogue type : s^bk^fe
+A :  Hmm !
+
+dialogue type : s^bk^fe
+A :  Hmm !
+
+dialogue type : qy^rt
+A :  Is the estimate of the noise spectrum a running estimate ?
+
+dialogue type : qrr.%--
+A : 
+
+dialogue type : b
+A :  Hmm !
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^rt
+A :  So do you is there some long window that extends into the past over which you calculate the average ?
+
+dialogue type : qy^bu^d^rt
+A :  A couple seconds ?
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : qy^rt
+A :  But wh don't they overlap sometimes ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw.%--
+A : 
+
+dialogue type : s
+A :  it seems like this kind of thing could add to the latency .
+
+dialogue type : s^df
+A :  I mean , depending on where the window was that you used to calculate the signal - to - noise ratio .
+
+dialogue type : s^bk
+A :  OK ,
+
+dialogue type : s
+A :  well that I guess that was my question ,
+
+dialogue type : fh
+A :  yeah .
+
+dialogue type : s^2
+A :  Guess .
+
+dialogue type : qy^rt.%--
+A : 
+
+dialogue type : s^cs
+A :  We could probably get a really good estimate of the noise if we just went to the noise files ,
+
+dialogue type : s^cs^e
+A :  and built the averages from them .
+
+dialogue type : s
+A :  Very slow adaptation .
+
+dialogue type : %-
+A :  th
+
+dialogue type : qy^rt
+A :  If they 're going to provide a , uh , voice activity detector that will tell you the boundaries of the speech , then , couldn't you just go outside those boundaries and do your estimate there ?
+
+dialogue type : qw^rt
+A :  What are what are some of the low level detectors that they use ?
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : qy.%--
+A :  And so are each of these , low level detectors are they ,
+
+dialogue type : fh
+A : 
+
+dialogue type : qy
+A :  are these something that you decide ahead of time ,
+
+dialogue type : qy^d^e
+A :  like " I 'm going to look for this particular feature
+
+dialogue type : qrr^d^e^rt
+A :  or I 'm going to look at this frequency , "
+
+dialogue type : qrr.%--
+A : 
+
+dialogue type : qw
+A :  What what what are they looking at ?
+
+dialogue type : qw
+A :  What are their inputs ?
+
+dialogue type : s^bk
+A :  Ah ,
+
+dialogue type : s^bk
+A :  OK ,
+
+dialogue type : s^bk^r
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^ba
+A :  Cool .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw^rt
+A :  How did they measure the performance of their detector ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : qy.%-
+A : 
+
+dialogue type : qy^rt
+A :  Didn't they also do some kind of an oracle experiment
+
+dialogue type : qy^d^e^rt
+A :  where they said " if we could detect the sonorants perfectly and then show how it would improve speech recognition ?
+
+dialogue type : s^df
+A :  I thought I remember hearing about an experiment like that .
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s.%--
+A :  When we when we talked with John Ohala the other day we made a list of some of the things that w
+
+dialogue type : s^e
+A :  like frication ,
+
+dialogue type : s^e
+A :  abrupt closure ,
+
+dialogue type : s^e
+A :  R - coloring ,
+
+dialogue type : s^e
+A :  nasality ,
+
+dialogue type : s^e
+A : 
+
+dialogue type : fh
+A :  Uh .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^cs^rt
+A :  There 's also things like stress .
+
+dialogue type : s^cs
+A :  You can look at stress .
+
+dialogue type : s^bk
+A :  Yeah ,
+
+dialogue type : s
+A :  there 's a few cases where it can like permit and permit .
+
+dialogue type : s^e
+A :  But that 's not very common in English .
+
+dialogue type : s^e
+A :  In other languages it 's more uh , important .
+
+dialogue type : s^ar|s
+A :  No , I 'm saying , i i e I thought you were saying that stress doesn't help you distinguish between words .
+
+dialogue type : s^bk
+A :  Oh , I see what you 're saying .
+
+dialogue type : s^bu
+A :  As long as you get The sequence ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah , yeah , yeah . Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  So where it could help is maybe at a higher level .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^m^na
+A :  Understanding ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : b
+A :  Exactly .
+
+dialogue type : h
+A :  Uh ,
+
+dialogue type : s^no
+A :  well I don't know .
+
+dialogue type : s^df
+A :  We d we sort of didn't get that far .
+
+dialogue type : fh|s
+A :  Um , we just talked about some possible features that could be marked by humans
+
+dialogue type : fh
+A :  and , um ,
+
+dialogue type : s
+A :  because of having maybe some extra transcriber time we thought we could go through and mark some portion of the data for that .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^bk
+A :  Yeah ,
+
+dialogue type : s^bk
+A :  right .
+
+dialogue type : s
+A :  I 'm definitely interested in this area , too ,
+
+dialogue type : s^e
+A :  f uh , acoustic feature stuff .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  That could help though .
+
+dialogue type : qy^bu^d^m^rt
+A :  That 's what the head 's for ?
+
+dialogue type : qy^2^d^rt
+A :  To separate the ears ?
+
+dialogue type : s
+A :  Actually the , um For some reason the digit forms are blank .
+
+dialogue type : s^df
+A :  Uh , I think th that may be due to the fact that Adam ran out of digits , uh , and didn't have time to regenerate any .
+
+dialogue type : b
+A :  Yeah ,
+
+dialogue type : s^j.%--
+A : 
+
+dialogue type : s^aa
+A :  Uh , yeah ,
+
+dialogue type : s^na
+A :  I do need your names and and the time , and all that ,
+
+dialogue type : s^df
+A :  cuz we put that into the " key " files .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : %--
+A :  But w
+
+dialogue type : s^df
+A :  That 's why we have the forms ,
+
+dialogue type : s^e
+A :  uh , even if there are no digits .
+
+dialogue type : s
+A :  So I guess we 're we 're done .
+

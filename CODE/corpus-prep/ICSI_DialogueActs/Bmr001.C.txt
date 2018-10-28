@@ -1,0 +1,1050 @@
+dialogue type : fg|s^tc.%--
+C :  OK , so that 's
+
+dialogue type : s^co
+C :  Wait .
+
+dialogue type : qy^rt
+C :  You 're going to sit there ?
+
+dialogue type : s^aa
+C :  Yeah , OK ,
+
+dialogue type : s^cc
+C :  maybe I 'll put this thing here then .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Yeah , that 's that 's the dummy dummy PDA .
+
+dialogue type : s^aa
+C :  Yeah , it is .
+
+dialogue type : s^co
+C :  Oh , hang on .
+
+dialogue type : s^aa
+C :  Yeah , it is at the moment .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s^co|s^cs
+C :  Hang on , let 's let 's OK let 's just let 's just name the microphones .
+
+dialogue type : s
+C :  So I 'm speaking on the ear mounted uh wired headset thing .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  You 're on one .
+
+dialogue type : s^bk^j
+C :  Absolutely .
+
+dialogue type : b
+C :  Yes .
+
+dialogue type : s
+C :  OK so this is this is the PZM nearest the eh eh the machine room end of the table .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk
+C :  I know , but yeah .
+
+dialogue type : s
+C :  It 's number three , it says , but we 'll be able to figure it out .
+
+dialogue type : s
+C :  This is at the middle of the table
+
+dialogue type : s
+C :  This further down the table .
+
+dialogue type : s
+C :  And this this one is right at the end of the table ,
+
+dialogue type : qy^d^f^g
+C :  OK ?
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  This is the left side of the dummy PDA and this would be the right side .
+
+dialogue type : sj^ba
+C :  Very exciting .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^co
+C :  Just write it down .
+
+dialogue type : fg
+C :  OK .
+
+dialogue type : s^cs
+C :  Well , how about you give me one of those
+
+dialogue type : s^cs
+C :  and we can fill it out
+
+dialogue type : s^cs
+C :  and Morgan can read
+
+dialogue type : s
+C :  and then we can do it like that .
+
+dialogue type : b
+C :  Yeah , yeah , yeah .
+
+dialogue type : s^by
+C :  This is these are things we will find out .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : qy^rt
+C :  Can I
+
+dialogue type : s^ft
+C :  Thanks .
+
+dialogue type : s^fe
+C :  Oh !
+
+dialogue type : s
+C :  It didn't doesn't take Well , I mean as you see we haven't really set it up that well , but it doesn't it doesn't take long to set up .
+
+dialogue type : h|s
+C :  I mean , We just came up here one night after recording so it took like twenty minutes something like that .
+
+dialogue type : fh
+C : 
+
+dialogue type : fg|s.%-
+C : 
+
+dialogue type : fg
+C :  Right .
+
+dialogue type : s
+C :  The equip Me and Adam went through it yesterday , just looked at everything .
+
+dialogue type : s
+C :  But it 's all kind of here and set up , so it 's just a question of turning it all on .
+
+dialogue type : s
+C :  And , um running the program .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : h|s
+C :  Um , it 's it 's gonna b it 's for reasons because of the microphones runs we want that chunk there .
+
+dialogue type : s
+C :  There 's more equipment in there .
+
+dialogue type : s
+C :  But there 's the idea is that there are these microphones on the table ,
+
+dialogue type : s
+C :  there are some cables coming down sort of under a nice mat ,
+
+dialogue type : s
+C :  and then that 's they a bunch of them get sort of converged with digital there .
+
+dialogue type : s
+C :  And the idea is that this gets replaced by a cabinet with doors , so that so that it 's not open to fiddling .
+
+dialogue type : %-
+C :  That 's
+
+dialogue type : s
+C :  We need to do that .
+
+dialogue type : s
+C :  It 's on a list of things to do .
+
+dialogue type : s
+C :  I keep on hoping that they 're gonna get done but they don't .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah !
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : h|s^no
+C :  Um . I don't know .
+
+dialogue type : s
+C :  A cabinet is probably going to cost a hundred dollars , two hundred dollars something like that .
+
+dialogue type : fh
+C :  I mean .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  But , well we should get to a a nice kind of working state of our set up as quickly as possible .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  I mean there 's one big issue with the equipment still , which is um ultimately we 're gonna well the idea is to have any number of these wired headsets ,
+
+dialogue type : s^rt
+C :  but there 's this amplification problem .
+
+dialogue type : s
+C :  I built this thing , it 's that 's it 's very noisy .
+
+dialogue type : s
+C :  We 're actually recording I 'm I 'm going through it at the moment , but it 's so noisy that I am not using for this .
+
+dialogue type : s
+C :  it 's it 's designed to be used for the for the desktop meeting as well .
+
+dialogue type : s
+C :  But I 'm using running that through my uh damp machine as a pre - amp as an alternative .
+
+dialogue type : s^am
+C :  Yeah .
+
+dialogue type : s.%--
+C :  It 's just it eh
+
+dialogue type : s^nd
+C :  You see how clumsy this is
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s
+C :  I have to use these batteries to bias them .
+
+dialogue type : s
+C :  And I 'm only get two channels and there 're a bunch of There are like three connectors in the circuit .
+
+dialogue type : s
+C :  The thing is , like , it 's it 's not s it 's not that the thing doesn't exist commercially , but there isn't one unit which does the whole thing in one in one swoop .
+
+dialogue type : s
+C :  So it seemed like it was a good idea to make one .
+
+dialogue type : fh|s
+C :  um And I 'm still not sure .
+
+dialogue type : s
+C :  I mean , I think I probably know how to fix this .
+
+dialogue type : s
+C :  I can probably build it better so it doesn't have such noise , but it 's kind of a buy .
+
+dialogue type : s^nd.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^ar^bsc.%--
+C :  Well n
+
+dialogue type : s^aa^r
+C :  Yeah .
+
+dialogue type : s
+C :  Jim is busy at the moment .
+
+dialogue type : s
+C :  That 's the problem .
+
+dialogue type : s
+C :  I was kind of hoping that Jim was going to build this box .
+
+dialogue type : s
+C :  But um but he hasn't had time .
+
+dialogue type : sj
+C :  Well , I think I think he is quite interested in doing it .
+
+dialogue type : fh
+C :  But .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk^fe
+C :  Oh !
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : sj^bd
+C :  This happened .
+
+dialogue type : sj
+C :  I think uh , I mean , uh my guess is that means it 's just that if it 's if it 's near field , the mathematics of beam beam steering is different .
+
+dialogue type : s
+C :  If the f if the wavefronts are not approximately planar then you can't just do delay and sum and expect it to work .
+
+dialogue type : s^aa
+C :  I guess .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah , yeah .
+
+dialogue type : s^bk
+C :  Right , right , right .
+
+dialogue type : s^ng
+C :  I mean the um The the weird thing is that actually delay in some beam - forming is not is not the clever thing to do .
+
+dialogue type : s
+C :  The the the underwater guys do this stuff which is different .
+
+dialogue type : s
+C :  And it actually means that you should get the microphones as close together as possible .
+
+dialogue type : s
+C :  Rather than trying to get them far apart so you can get separation , you sort of you want them very close .
+
+dialogue type : s
+C :  And And the math is too difficult for me to understand but it 's but it 's there .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%--
+C :  Well we could I mean .
+
+dialogue type : s
+C :  By the time We 'll have we 'll have data so we can actually you know , demonstrate that .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : %-
+C :  But I mean .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Yep , yep .
+
+dialogue type : s^cs
+C :  For those those we can make several several more of these and then we can have actual recording with you know three P D
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right , right .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s.%--
+C :  And that that seems very uh easy to believe scenario , I mean , given the number of palm pilots we 've got on the table right now , so .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s.%--
+C :  Yeah , but But that it 's
+
+dialogue type : s
+C :  We 're not , even , you know It 's we 're just It 's not like we We we may be technical , but we 're not particularly PDA people .
+
+dialogue type : s
+C :  So it 's That 's just how it is .
+
+dialogue type : s^bk
+C :  Well , I know .
+
+dialogue type : s^aa
+C :  Well , that 's true .
+
+dialogue type : fh
+C :  I mean .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  Well we 've got we 've got Right now we could have two more people on wireless ,
+
+dialogue type : s
+C :  with a trip to Leo 's Audio we could get a third extra person on wireless ,
+
+dialogue type : s
+C :  and uh right now we could have three more three more people wearing mikes like this , and that would just work .
+
+dialogue type : s
+C :  I mean I 'm not sure how how good the quality is on this mike but I think it 's going to be OK .
+
+dialogue type : s
+C :  So we could actually have eight people with with headset mikes with , I mean , basically no extra effort .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^bc
+C :  Nine .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s^nd
+C :  We have the um the ones we 've been using , the ones we got for the PC .
+
+dialogue type : s^bk
+C :  Yeah , yeah .
+
+dialogue type : s
+C :  I think we have three of those .
+
+dialogue type : s.%-
+C :  So , and the h
+
+dialogue type : b
+C :  Right , right .
+
+dialogue type : s
+C :  They don't all work , but the nice ones , the um Plan - Plantronic ones work .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah , yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qr^rt.%--
+C :  Per channel , or ?
+
+dialogue type : s^bu^rt
+C :  We figured out that it was t twelve gig twelve gigabytes an hour ?
+
+dialogue type : s^bu^rt
+C :  For for all the channels ?
+
+dialogue type : qr.%--
+C : 
+
+dialogue type : s^nd.%--
+C :  Cuz no , we 've only no , I mean we 've only got four gigabytes and that
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s
+C :  And then we then we cut it in half .
+
+dialogue type : s
+C :  But By s saving sixteen bits on instead of thirty instead of thirty - two .
+
+dialogue type : s^ar|s^bc
+C :  Well no I mean it 's uh four gigabytes for forty minutes .
+
+dialogue type : s
+C :  Forty - eight kilohertz , yeah .
+
+dialogue type : s
+C :  So we can actually triple that .
+
+dialogue type : s^co
+C : 
+
+dialogue type : s.%--
+C :  so that would OK
+
+dialogue type : s^ar
+C :  Well I think it 's I think it 's two gig an hour .
+
+dialogue type : s
+C :  Cuz like , we don't Maybe we don't We don't need to save all channels ,
+
+dialogue type : qy^d^g
+C :  right ?
+
+dialogue type : s
+C :  So , on average . We could we don't we we wouldn't use all the channels , necessarily .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  I 'm sure .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  It 's a pain .
+
+dialogue type : s:s
+C :  I mean , you know , because cuz we 've got data on " user " ,
+
+dialogue type : qy^d^f^g
+C :  right ?
+
+dialogue type : s^e
+C :  And then we 'd have to back it all up and copy it back on again .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^aa
+C :  No .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  We don't need all we don't necessarily need it all on - line .
+
+dialogue type : s
+C :  I mean it will be different subsets .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  You typically train I mean you 'd have fi you 'd have fifty hours
+
+dialogue type : s^e
+C :  we 'd only use one of the PZM channels ,
+
+dialogue type : s
+C :  something like this ,
+
+dialogue type : s
+C :  and so that would you wouldn't have to use all sixteen channels at once .
+
+dialogue type : s^e
+C :  But it 's kind of painful for because basically , if we put them on C Ds then each CD will have all the channels for one recording ,
+
+dialogue type : s^e
+C :  and then when you want to build the P - files , you just want to get one of those files off each of the sessions
+
+dialogue type : fh
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  Well , maybe two of them , but I mean we wouldn't use we 'd only use the distant mikes ,
+
+dialogue type : qy^d^g
+C :  right ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s.%-
+C :  Right if if we if we burn it all on CD - ROM , then , um ,
+
+dialogue type : s^cs
+C :  in fact , we could you know we could throw away the Broadcast News stuff and put it on there or something like that .
+
+dialogue type : s
+C :  Somebody used it recently .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  It 's uh twenty C Ds ,
+
+dialogue type : s
+C :  so that 's twelve gigabytes .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : h
+C :  Yeah .
+
+dialogue type : sj^cs
+C :  Probably , we could we could probably just run Shorten on them or something and it will get a big win .
+
+dialogue type : sj.%-
+C : 
+
+dialogue type : s
+C :  Shorten .
+
+dialogue type : s^e
+C :  Tony Robinson 's uh lossless compression thing .
+
+dialogue type : h|s.%--
+C :  Um , it it does AR modeling
+
+dialogue type : s
+C :  and so it looks at a section , it runs an AR model to sort of r w to whiten it and then quantizes the residual with a nice with the three bits it can get away with .
+
+dialogue type : s
+C :  Something like that .
+
+dialogue type : s
+C :  So I think it On on each block it 'll it 'll compress you know if there 's load on in any range it 'll use ratio bits .
+
+dialogue type : s
+C :  I think it does that .
+
+dialogue type : s^df.%--
+C :  Yeah , well .
+
+dialogue type : fg|s
+C :  Well , it 's OK ,
+
+dialogue type : s^df
+C :  it 's only the first try .
+
+dialogue type : s
+C :  I what I 'm thinking is um obviously we can do the we can we can choose any sixteen bits from the twenty four , so we can just have different gain things that we use you know per channel .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : sj
+C :  I think probably the bottom four bits are not any good ,
+
+dialogue type : qy^d^g
+C :  Right ?
+
+dialogue type : s
+C :  Although you know it claims they are .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : sj^ba
+C :  Oh , yeah !
+
+dialogue type : sj^ba^r
+C :  Oh yeah !
+
+dialogue type : sj^ba
+C :  These theories things are pretty amazing .
+
+dialogue type : sj.%-
+C :  And And there 's help help they seem they seem good though they seem to be
+
+dialogue type : s^no.%
+C :  Oh , God knows .
+
+dialogue type : b
+C :  Yeah , yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  That that card that machine 's got sound They 've got a sound blaster built into it .
+
+dialogue type : s
+C :  I just I just disabled it cuz I wanted to find out how well the sound infrastructure would deal with both at once
+
+dialogue type : s
+C :  but I think yeah , that 's , uh probably it will be fine .
+
+dialogue type : %-
+C :  There 's no ,
+
+dialogue type : s^df
+C :  For a couple of reasons .
+
+dialogue type : s
+C :  Well , but the @ @ There are two ways we could listen to it .
+
+dialogue type : s
+C :  There 's a sound there 's actually sound output built into this thing .
+
+dialogue type : s
+C :  But the driver I haven't the driver may not support it yet .
+
+dialogue type : s
+C :  And then there 's also the sound or the sound card built in .
+
+dialogue type : s
+C :  But I don't know how to I don't know how the operating system would like having two sound cards .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s^ar|s
+C :  Well no , OK , the question I still have about what we 're going to do is what is what eh OK , so we can get the equipment set up so that basically we 're in a situation where we can with , you know , ten minutes of preparation , we can bring nine people in here and do a multi channel recording .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : qy^rt
+C :  What are wh When are we Are we going to do that ?
+
+dialogue type : qw
+C :  Who are they going to be ?
+
+dialogue type : qw
+C :  What meetings are we going to record ?
+
+dialogue type : qw
+C :  So which which meetings What meetings do we have ?
+
+dialogue type : qr
+C :  I mean like " us " being the Meeting Recorder people or " us " being anything that speech local does .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^cs
+C :  And we should have like we should have Decoder meetings and stuff .
+
+dialogue type : fg|s
+C :  Yeah , I mean that 's the thing .
+
+dialogue type : %-
+C :  It 's OK to g
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  Well , we 've got to make it really really easy to start it going then in that case .
+
+dialogue type : s
+C :  Cuz that that 's the real goal .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  But I mean if we if we want Jerry 's group to use it then we probably @ @ won't ask them to read any numbers ,
+
+dialogue type : qy^d^g
+C :  right ?
+
+dialogue type : %
+C :  Cuz .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : sj^ba
+C :  That 's great .
+
+dialogue type : b.%
+C :  I know .
+
+dialogue type : s.%
+C :  I know , it 's a disaster .
+
+dialogue type : s^bd
+C :  It 's alright
+
+dialogue type : s
+C :  she doesn't mind as long as we don't video her ,
+
+dialogue type : qy^d^g
+C :  right ?
+
+dialogue type : s^aa^rt
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^cs
+C :  We could we could have the reading group in here .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %--
+C :  I mean .
+
+dialogue type : s^aa
+C :  Yeah , it 's great .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^arp
+C :  Well , Except that you wouldn't transcribe them all individually ,
+
+dialogue type : qy^d^g
+C :  right ?
+
+dialogue type : s
+C :  You would send I mean , uh a transcriber is used I mean , I don't know , assume presumably a transcriber transcribes a single meeting ,
+
+dialogue type : qy^d^g
+C :  right ?
+
+dialogue type : s
+C :  And so they they just have to indicate that the speaker changes .
+
+dialogue type : qy^d^g
+C :  Right ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  So so they they 're gonna they 're gonna have to make speaker assignments or something like this .
+
+dialogue type : s
+C :  For one of one of @ @ .
+
+dialogue type : s^cs
+C : 
+
+dialogue type : s^cs
+C :  and we could do and we could do all kinds of weird things like having you know squelch so that you only , you know you only you cut it out when there 's no energy .
+
+dialogue type : s
+C :  So you don't @ @ noise .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : sj
+C :  I mean there 's it 's If we if we do something which is have a little bit of human input to get the words then we can leverage that a lot by some clever cross thing to figure out which channel they really belong to and stuff like this , probably .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  And Yeah .
+
+dialogue type : s
+C :  As much work as you want .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^fe
+C :  Wow .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %--
+C :  I have just because it 's such an un
+
+dialogue type : s
+C :  The transcribing is sort of something I can imagine doing , whereas having this distraction of having sort of something that looks like it might be right but has got some very wrong bits in is sort of a less less easy thing to do .
+
+dialogue type : sj.%--
+C : 
+
+dialogue type : s^aa
+C :  Yeah Yeah , that 's true ,
+
+dialogue type : s^aa^r
+C :  that 's true .
+
+dialogue type : b|s^e
+C :  Yeah , by fixing up transcripts .
+
+dialogue type : b
+C :  Yeah , but Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  They should all be in India right now .
+
+dialogue type : s
+C :  That 's where the good , but the cheap English speakers are .
+
+dialogue type : s^fa
+C :  I 'm sorry , yeah .
+
+dialogue type : sj^rt
+C :  Well they don't speak such clear English
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^ba^fe
+C :  Wow .
+
+dialogue type : sj^j
+C :  What fun it is .
+
+dialogue type : sj
+C :  It 's interesting that um it m it 's not clear whether it 's better to have them written as as words or or figures .
+
+dialogue type : s
+C :  But , of course , to get zero and " O "s distinguished we you have to do it .
+
+dialogue type : sj
+C :  But it 's kind of weird to read .
+
+dialogue type : z
+C :  Thanks .
+
+dialogue type : z
+C :  OK .
+
+dialogue type : z
+C :  Oh , I wonder I wonder if we ran out of disk space yet .
+

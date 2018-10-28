@@ -1,0 +1,651 @@
+dialogue type : z
+C :  Yes .
+
+dialogue type : z
+C :  One , two , three , four , f
+
+dialogue type : z
+C :  No crashing .
+
+dialogue type : z
+C :  Yeah ?
+
+dialogue type : z
+C :  No ?
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm . Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bc
+C :  Four thous Ah ! Four thousand .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Tomorrow .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Is true .
+
+dialogue type : s
+C :  I haven't results , eh , yet
+
+dialogue type : %--
+C :  but , eh ,
+
+dialogue type : s
+C :  I I 'm continue working with the mixed signal now , after the the last experience .
+
+dialogue type : s
+C :  And and I 'm tried to to , uh , adjust the to to improve , eh , an harmonicity , eh , detector that , eh , I I implement .
+
+dialogue type : s
+C :  But I have problem
+
+dialogue type : s.%--
+C :  because , eh , I get , eh ,
+
+dialogue type : fh
+C :  eh ,
+
+dialogue type : s
+C :  very much harmonics now .
+
+dialogue type : s
+C :  Um , harmonic possi possible harmonics ,
+
+dialogue type : fh
+C :  uh ,
+
+dialogue type : s
+C :  eh , and now I 'm I 'm I 'm trying to to find , eh , some kind of a , um of h of help , eh , using the energy to to distinguish between possible harmonics , and and other fre frequency peaks , that , eh , corres not harmonics .
+
+dialogue type : fh
+C :  And ,
+
+dialogue type : s
+C :  eh , I have to to talk with y with you , with the group , eh , about the instantaneous frequency ,
+
+dialogue type : s^df^rt
+C :  because I have , eh , an algorithm ,
+
+dialogue type : s.%--
+C :  and , I get ,
+
+dialogue type : fh
+C :  mmm , eh ,
+
+dialogue type : s
+C :  t t results similar results , like , eh , the paper , eh , that I I am following .
+
+dialogue type : s^df
+C :  But , eh , the the rules , eh , that , eh , people used in the paper to to distinguish the harmonics , is doesn't work well .
+
+dialogue type : s^no
+C :  And I I I I not sure that i eh , the the way o to ob the way to obtain the the instantaneous frequency is right ,
+
+dialogue type : s^bsc
+C :  or it 's it 's not right .
+
+dialogue type : fh
+C :  Eh ,
+
+dialogue type : s
+C :  I haven't enough file feeling to to to distinguish what happened .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  I talked with Stephane and and Thilo
+
+dialogue type : fh
+C :  and ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^ar|%-
+C : 
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^ar|s
+C :  No . I I I I don't proth process the the fundamental .
+
+dialogue type : s
+C :  I I , ehm I calculate the the phase derivate using the FFT .
+
+dialogue type : fh
+C : 
+
+dialogue type : s.%--
+C :  The algorithm said that , eh , if you if you change the the the ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^rt
+C :  the X - the frequency " X " , eh , using the in the instantaneous frequency ,
+
+dialogue type : s.%--
+C :  you can find , eh , how , eh , in several frequencies that proba probably the the harmonics , eh ,
+
+dialogue type : s
+C : 
+
+dialogue type : s^bsc
+C :  the frequency of the harmonic .
+
+dialogue type : fh|s.%--
+C :  And , eh , if you if you compare the the instantaneous frequency , eh , of the of the , eh , continuous , eh , eh , filters , that , eh that , eh , they used eh , to to to get , eh , the the instantaneous frequency ,
+
+dialogue type : s^cs
+C :  it probably too , you can find , eh , that the instantaneous frequency for the continuous , eh , eh the output of the continuous filters are very near .
+
+dialogue type : s
+C :  And in my case i in equal with our signal , it doesn't happened .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bu
+C :  Using the energy of the of the multiple of the frequency .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^nd
+C :  I don't use .
+
+dialogue type : s^df
+C :  But , I I know many people use , eh , low - pass filter to to to get , eh , the pitch .
+
+dialogue type : s^nd^r
+C :  I don't use .
+
+dialogue type : s^m^na|s^aap
+C :  To get the pitch , yes .
+
+dialogue type : s^df|s^ar
+C :  But the harmonic , no .
+
+dialogue type : b
+C :  Yeah ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^cc
+C :  I will prepare for the next week eh , all my results about the harmonicity
+
+dialogue type : s^e.%--
+C :  and will will try to come in
+
+dialogue type : s^e.%--
+C :  and to discuss here ,
+
+dialogue type : s^df
+C :  because , eh , I haven't enough feeling to to u many time to to understand what happened with the with , eh , so many peaks ,
+
+dialogue type : fh
+C :  eh , eh ,
+
+dialogue type : s
+C :  and I I see the harmonics there many time
+
+dialogue type : s^df
+C :  but , eh , there are a lot of peaks ,
+
+dialogue type : s
+C :  eh , that , eh , they are not harmonics .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s
+C :  I have to discover what what is the the w the best way to to to c to use them
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^2
+C :  Is height .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  This this is the idea the idea I I I had
+
+dialogue type : s
+C :  to to compare the the ratio of the the energy of the harmonics with the eh , with the , eh , total energy in the spectrum
+
+dialogue type : s
+C :  and try to get a ratio to to distinguish between overlapping and speech .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^ar
+C :  No , no , no .
+
+dialogue type : %-
+C :  It 's a it 's a o
+
+dialogue type : s
+C :  i w the band the band is , eh , from zero to to four kilohertz .
+
+dialogue type : %-
+C : 
+
+dialogue type : z
+C :  Yeah . I u m t I I used two m two method two methods .
+
+dialogue type : z
+C :  Eh , one , eh , based on the F eh , FTT .
+
+dialogue type : z
+C :  to FFT
+
+dialogue type : z
+C :  to to obtain the or to study the harmonics
+
+dialogue type : z
+C :  from from the spectrum directly ,
+
+dialogue type : z
+C :  and to study the energy and the multiples of
+
+dialogue type : z
+C :  frequency .
+
+dialogue type : z
+C :  And another another algorithm I have
+
+dialogue type : z
+C :  is the in the instantaneous frequency ,
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  to to calculate the the phase derivate
+
+dialogue type : z
+C :  in the time .
+
+dialogue type : z
+C :  Eh , uh n the d
+
+dialogue type : z
+C :  I mean I I have two two algorithms .
+
+dialogue type : z
+C :  But , eh , in m i in my opinion the the the instantaneous frequency ,
+
+dialogue type : z
+C :  the the the behavior ,
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  th it was very interesting .
+
+dialogue type : z
+C :  Because I I saw eh , how the spectrum concentrate , eh ,
+
+dialogue type : z
+C :  around the the harmonic .
+
+dialogue type : z
+C :  But then
+
+dialogue type : z
+C :  when I apply the the rule ,
+
+dialogue type : z
+C :  eh , of the in the the instantaneous frequency of the ne of the continuous filter in the the near filter ,
+
+dialogue type : z
+C :  the the rule that , eh , people propose in the paper
+
+dialogue type : z
+C :  doesn't work .
+
+dialogue type : z
+C :  And I don't know
+
+dialogue type : z
+C :  why .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  I I I not sure .
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  When first I I calculate , eh , using the FFT ,
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  I get the the spectrum ,
+
+dialogue type : z
+C :  and I represent
+
+dialogue type : z
+C :  all the frequency .
+
+dialogue type : z
+C :  And when ou
+
+dialogue type : z
+C :  I obtained the instantaneous frequency .
+
+dialogue type : z
+C :  And I change the the the @ @ ,
+
+dialogue type : z
+C :  using the
+
+dialogue type : z
+C :  instantaneous frequency , here .
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  eh , when i
+
+dialogue type : z
+C :  I I use these these frequency ,
+
+dialogue type : z
+C :  eh , the range is different , and the resolution is different .
+
+dialogue type : z
+C :  And
+
+dialogue type : z
+C :  I observe
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  more or less ,
+
+dialogue type : z
+C :  thing like this .
+
+dialogue type : z
+C :  And
+
+dialogue type : z
+C :  the paper said that , eh ,
+
+dialogue type : z
+C :  these frequencies
+
+dialogue type : z
+C :  are probably ,
+
+dialogue type : z
+C :  eh , harmonics .
+
+dialogue type : z
+C :  But , eh , they used ,
+
+dialogue type : z
+C :  eh , a rule ,
+
+dialogue type : z
+C :  eh ,
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  because
+
+dialogue type : z
+C :  to to calculate the
+
+dialogue type : z
+C :  instantaneous frequency ,
+
+dialogue type : z
+C :  they use a Hanning window .
+
+dialogue type : z
+C :  And , they said that , eh ,
+
+dialogue type : z
+C :  if these peak are , eh , harmonics ,
+
+dialogue type : z
+C :  the
+
+dialogue type : z
+C :  f
+
+dialogue type : z
+C :  instantaneous frequency ,
+
+dialogue type : z
+C :  of the
+
+dialogue type : z
+C :  contiguous ,
+
+dialogue type : z
+C :  eh w eh
+
+dialogue type : z
+C :  eh , filters
+
+dialogue type : z
+C :  are very near ,
+
+dialogue type : z
+C :  or have to be very near .
+
+dialogue type : z
+C :  But , eh , phh !
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  I I I I don I
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  what is the distance .
+
+dialogue type : z
+C :  And I tried to to put different distance ,
+
+dialogue type : z
+C :  eh ,
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  eh , length of the window ,
+
+dialogue type : z
+C :  eh , different front sieve ,
+
+dialogue type : z
+C :  Pfff !
+
+dialogue type : z
+C :  and I I not sure what happened .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Hmm .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  OK .
+

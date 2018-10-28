@@ -1,0 +1,318 @@
+dialogue type : qy^bu^d^rt
+C :  Nancy 's still stick ?
+
+dialogue type : qy^rt
+C :  Is your mike on ?
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : qw^rt
+C :  What 's the difference between mode and endpoint ?
+
+dialogue type : fg
+C :  Uh
+
+dialogue type : qy^rt
+C :  Would it be an endpoint if you were crossing over it ?
+
+dialogue type : %-
+C :  Well I eh
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  If the if the person talking is angry or slurs their speech they might be tired or , you know
+
+dialogue type : h|s.%-
+C :  And , you know , possibly uh
+
+dialogue type : %-
+C :  some ,
+
+dialogue type : s^aa
+C :  yeah .
+
+dialogue type : %-
+C :  Basic
+
+dialogue type : qy^bu^d^rt
+C :  you 're basically just merging those for just the sake of endpoint decision ?
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : qw^rt
+C :  What would a hotel fall under ?
+
+dialogue type : qo^e^rt
+C :  Well I mean in terms of entity type ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^cs:s
+C :  Just as a suggestion maybe you could " save as " to keep your old one nice and clean
+
+dialogue type : s^df
+C :  and so you can mess with this one .
+
+dialogue type : s^bk|s^bd
+C :  OK , well , not a big deal then .
+
+dialogue type : %--
+C : 
+
+dialogue type : qy^bu^rt:s
+C :  Isn't there a " save as " inside of java base ?
+
+dialogue type : s^bk^rt
+C :  OK .
+
+dialogue type : s^2
+C :  As related from the user model .
+
+dialogue type : s^ng.%--
+C :  I think you have to be in move mode before
+
+dialogue type : s
+C :  The user thrift ,
+
+dialogue type : s^e
+C :  the user budget .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^ba.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  Cuz if the , I mean , and if the user is tired , the user state ,
+
+dialogue type : qy^d^g^rt
+C :  right ,
+
+dialogue type : s^e
+C :  it would affect stuff ,
+
+dialogue type : s.%-
+C :  but I can't see why e anything w everything in the model wouldn't be
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ng
+C :  Yeah , just seems like it 'd push the problem back a level .
+
+dialogue type : s^bk|%-
+C :  Yeah , but
+
+dialogue type : %-
+C :  Sh - sh
+
+dialogue type : fg
+C : 
+
+dialogue type : qy^bu^d^rt
+C :  S so we 'd basically be doing subgrouping ?
+
+dialogue type : qy^bu^d^rt
+C :  Subgrouping , basically
+
+dialogue type : s^e.%--
+C :  into mo
+
+dialogue type : qy^bu^d^rt
+C :  so basically make it more tree like going backwards ?
+
+dialogue type : s.%--
+C :  I guess the the question uh is
+
+dialogue type : s
+C :  It 's hard for me to imagine how everything wouldn't just contribute to user state again .
+
+dialogue type : s^e
+C :  Or user compatibility .
+
+dialogue type : s^aap|s^bu^df
+C :  Sure , but other I thought though the node we 're creating right now is user compatibility to the current action ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s
+C :  Seems like everything in the user model would contribute to whether or not the user was compatible with something .
+
+dialogue type : s^na
+C :  Well , with the way we 're defining it I think yeah .
+
+dialogue type : s^cs:s
+C :  So you can save this one as and open up the old one ,
+
+dialogue type : qy^d^g^rt
+C :  right
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  and then everything would be clean .
+
+dialogue type : s^cs
+C :  You could do it again .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bu
+C :  It does matter though if there 's like a strike or riot or something .
+
+dialogue type : fg
+C :  Wh - ah .
+
+dialogue type : qy^bu^d^rt
+C :  Two fifty - six ,
+
+dialogue type : qy.%-
+C :  is that what that
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : fg|s
+C :  Uh d I would almost say the other way to do that would be to open u or make you know N - many belief - nets
+
+dialogue type : s
+C :  and then open them every time you wanted to look at a different one
+
+dialogue type : s.%-
+C :  vers
+
+dialogue type : s^df.%-
+C :  cuz uh
+
+dialogue type : s^bk|%-
+C :  Yeah , but
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  I don't , yeah I just don't think this has been designed to support something like that .
+
+dialogue type : s
+C :  You can technically wear that as you 're talking .
+
+dialogue type : s^2.%-
+C :  X - one matters more i than X - two or
+
+dialogue type : qy^bu^d^rt
+C :  So I jus just to make sure I understand this , so in this case um we would still compute the average ?
+
+dialogue type : s^bk|%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  let 's see ,
+
+dialogue type : s
+C :  one full quarter times point one
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qy^bu^d^rt
+C :  So H passes a vector on to the next node ?
+
+dialogue type : qw^br^rt
+C :  It could ?
+
+dialogue type : s.%--
+C :  A vector of the weights as the se
+
+dialogue type : s^bk
+C :  oh .
+
+dialogue type : s^bk|qy^bu^d^rt
+C :  Oh it 's basically to tell the bottom node which one of the situations that it 's in
+
+dialogue type : qrr.%-
+C :  or which one of the weighting systems
+
+dialogue type : s
+C :  W I was just , if you wanted to pay attention to more than one you could pass a w a weighting s system though too ,
+
+dialogue type : qy^g^rt
+C :  couldn't you ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qy^bu^d^rt
+C :  Oh The situations that H has , are they built into the net
+
+dialogue type : qrr.%--
+C :  or
+
+dialogue type : s^bk|s^bu.%--
+C :  OK , so they they could either be hand coded or learned or
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  Based on training data ,
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bu
+C :  So you specify one of these things for every one of those possi possible situations .
+
+dialogue type : s^bk
+C :  Oh yeah .
+
+dialogue type : s
+C :  Well , basically you would say , based on in this dialogue that we have which one of the things that they said eh whether it was the entity relations or whatever was the thing that determined what mode it was ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s
+C :  That 's on the added variable ,
+
+dialogue type : qy^g
+C :  isn't it ?
+
+dialogue type : b
+C :  Ah .
+
+dialogue type : s.%--
+C :  Well in terms of java base I think it 's basically what you see is what you get in
+
+dialogue type : s.%--
+C :  I don't
+
+dialogue type : fh
+C :  yeah ,
+
+dialogue type : s
+C :  I would be surprised if it supports anything more than what we have right here .
+

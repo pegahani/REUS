@@ -1,0 +1,1230 @@
+dialogue type : z
+C :  Now can you give me the uh remote T ?
+
+dialogue type : b
+C :  Alright .
+
+dialogue type : fg|s
+C :  Yeah , I 've I uh it 's not that I didn't try .
+
+dialogue type : s
+C :  and um I I told it to stay on forever and ever , but if it 's not plugged in it just doesn't obey my commands .
+
+dialogue type : s
+C :  It has a mind .
+
+dialogue type : s
+C :  But I I just You know , sort of keep on wiggling .
+
+dialogue type : s
+C :  But uh we 'll just be m m working on it at intensity so it doesn't happen .
+
+dialogue type : b
+C :  We 'll see .
+
+dialogue type : qy^rt
+C :  Should we plunge right into it ?
+
+dialogue type : qy.%--
+C : 
+
+dialogue type : s
+C :  So what I 've tried to do here is list all the decision nodes that we have identified on this side .
+
+dialogue type : s
+C :  Commented and what they 're about and sort of the properties we may um give them .
+
+dialogue type : s
+C :  And here are the uh tasks to be implemented via our data collection .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  The reading is out of these tasks more or less imply that the user wants to go there , sometime or the other .
+
+dialogue type : s
+C :  And analogously for example , here we have our EVA um intention .
+
+dialogue type : s
+C :  And these are the data tasks where w we can assume the person would like to enter , view or just approach the thing .
+
+dialogue type : s
+C :  Analogously the same on the object information
+
+dialogue type : s
+C :  we can see that , you know , we have sort of created these tasks before we came up with our decision nodes
+
+dialogue type : s
+C :  so there 's a lot of things where we have no analogous tasks , and that may or may not be a problem .
+
+dialogue type : s
+C :  We can change the tasks slightly if we feel that we should have data for e sort of for every decision node
+
+dialogue type : s
+C :  so trying to im um implant the intention of going to a place now , going to a place later on the same tour ,
+
+dialogue type : s
+C :  or trying to plant the intention of going sometime on the next tour , or the next day or whenever .
+
+dialogue type : s
+C :  But I think that might be overdoing it a little .
+
+dialogue type : s^bu
+C :  Well how people phrase different intentions more or less ,
+
+dialogue type : qy^d^g
+C :  huh ?
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s
+C :  Maybe it was too fast plunging in there , because j we have two updates .
+
+dialogue type : s
+C :  Um you can look at this if you want ,
+
+dialogue type : s
+C :  these are what our subject 's going to have to fill out .
+
+dialogue type : s
+C :  Any comments I can can still be made and the changes will be put in correspondingly .
+
+dialogue type : s
+C :  Let me summarize in two sentences ,
+
+dialogue type : s.x
+C :  mainly for Eva 's benefit , who probably has not heard about the data collection , at all .
+
+dialogue type : qy^bu^rt
+C :  Or have you heard about it ?
+
+dialogue type : s^bk^m
+C :  No .
+
+dialogue type : s
+C :  OK . We were gonna put this in front of people .
+
+dialogue type : s
+C :  They give us some information on themselves .
+
+dialogue type : s
+C :  Then then they will read uh a task where lots of German words are sort of thrown in between .
+
+dialogue type : s
+C :  And um and they have to read isolated proper names
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  No , this is not the release form .
+
+dialogue type : s^e
+C :  This is the speaker information form .
+
+dialogue type : s
+C :  The release form is over there in that box .
+
+dialogue type : s
+C :  And um And then they gonna have to f um um choose from one of these tasks , which are listed here .
+
+dialogue type : s
+C :  They they pick a couple ,
+
+dialogue type : s
+C :  say three uh uh six as a matter of fact .
+
+dialogue type : s
+C : 
+
+dialogue type : h|s
+C :  and um and they have a map .
+
+dialogue type : s
+C :  Like this .
+
+dialogue type : s
+C :  Very sketchy , simplified map .
+
+dialogue type : s
+C :  And they can take notes on that map .
+
+dialogue type : s^j
+C :  And then they call this computer system that works perfectly , and understands everything .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  The comp Yeah , the computer system sits right in front of you ,
+
+dialogue type : s^e
+C :  that 's Fey .
+
+dialogue type : s
+C :  And she has a way of making this machine talk .
+
+dialogue type : s
+C :  So she can copy sentences into a window , or type really fast
+
+dialogue type : s
+C :  and this machine will use speech synthesis to produce that .
+
+dialogue type : s.%--
+C :  So if you ask " How do I get to the castle " then a m s several seconds later it 'll come out of here " In order to get to the castle you do "
+
+dialogue type : qy^f^rt
+C :  OK ?
+
+dialogue type : s
+C :  And um And then after three tasks the system breaks down .
+
+dialogue type : s
+C :  And Fey comes on the phone as a human operator .
+
+dialogue type : s
+C :  And says " Sorry the system broke down but let 's continue . "
+
+dialogue type : s
+C :  And we sort of get the idea what people do when they s think they speak to a machine and what people say when they think they speak to a human , or know , or assume they speak to a human .
+
+dialogue type : s^bs
+C :  That 's the data collection .
+
+dialogue type : qy^bu^d^rt
+C :  And um And Fey has some thirty subjects lined up ?
+
+dialogue type : %-
+C :  Something ?
+
+dialogue type : s
+C :  And um And they 're r ready uh to roll .
+
+dialogue type : qy^bu^d^rt
+C :  And we 're gonna start tomorrow at three ?
+
+dialogue type : qy^bu^d^rt
+C :  four ?
+
+dialogue type : qy^bu^d^rt
+C :  one ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  Around four - ish .
+
+dialogue type : s
+C :  And um we 're still l looking for a room on the sixth floor because they stole away that conference room . Um behind our backs .
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  Yeah , but I i i it 's happening .
+
+dialogue type : s
+C :  David and and Jane and and Lila are working on that as we speak .
+
+dialogue type : s
+C :  OK .
+
+dialogue type : s^bs
+C :  That was the uh the data collection in a nutshell .
+
+dialogue type : h|s.%--
+C : 
+
+dialogue type : s^t1.%--
+C :  so if I click on here ,
+
+dialogue type : qy^t1
+C :  Isn't this wonderful ?
+
+dialogue type : s
+C :  we get to the uh uh belief - net just focusing on on the g Go - there node .
+
+dialogue type : s
+C :  uh Analogously this would be sort of the reason node and the timing node and so forth .
+
+dialogue type : s
+C :  And what w what happened is that um design - wise I 'd sort of n noticed that we can we still get a lot of errors from a lot of points to one of these sub Go - there User Go - there Situation nodes .
+
+dialogue type : s.%--
+C :  So I came up with a couple of additional nodes here where um
+
+dialogue type : s
+C :  whether the user is thrifty or not , and what his budget is currently like , is going to result in some financial state of the user .
+
+dialogue type : qh
+C :  How much will he is he willing to spend ?
+
+dialogue type : s^bsc
+C :  Or can spend .
+
+dialogue type : s
+C :  Being the same at this just the money available , which may influence us , whether he wants to go there
+
+dialogue type : s^e.%--
+C :  if it is you know charging tons of dollars for admission or its gonna g cost a lot of t e
+
+dialogue type : s
+C :  whatever .
+
+dialogue type : s^j
+C :  Twenty - two million to fly to International Space Station , you know .
+
+dialogue type : s
+C :  just Not all people can do that .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^t1
+C :  let 's go to our favorite endpoint one
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  then the situation nodes contributing to the the endpoint situation node , which contributes to the endpoint and so forth .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  everything that comes from situation , everything that comes from user goes with the sub - U ,
+
+dialogue type : s
+C :  and whatever we specify for the so - called " Keith node " , or the discourse , what comes from the um parser , construction parser , um will contribute to the D and the ontology to the sub - O node .
+
+dialogue type : fh|s
+C :  And um one just s sort of has to watch which also final decision node so it doesn't make sense t to figure out whether he wants to enter , view or approach an object if he never wants to go there in the first place .
+
+dialogue type : s
+C :  But this makes the design thing fairly simple .
+
+dialogue type : fh|s
+C :  And um now all w that 's left to do then is the CPG 's , the conditional probabilities , for the likelihood of a person having enough money , actually wanting to go a place if it costs , you know this or that .
+
+dialogue type : fh|s
+C :  And um OK .
+
+dialogue type : s
+C :  and once um Bhaskara has finished his classwork that 's where we 're gonna end up doing .
+
+dialogue type : s
+C :  You get involved in that process too .
+
+dialogue type : fh|qh
+C :  And um And for now uh the the question is " How much of these decisions do we want to build in explicitly into our data collection ? "
+
+dialogue type : fh|s.%--
+C : 
+
+dialogue type : s
+C :  you know we could call the z see or you know , people who visit the zoo
+
+dialogue type : s
+C :  we could s call it " Visit the zoo tomorrow " ,
+
+dialogue type : s
+C :  so we have an intention of seeing something , but not now but later .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Hmm , hmm .
+
+dialogue type : fg|s^df
+C :  Yeah The the reason why we did it that way , as a as a reminder , is uh no person is gonna do all of them .
+
+dialogue type : s
+C :  They 're just gonna select u um , according to their preferences .
+
+dialogue type : s.%--
+C :  " Ah , yeah , I usually visit zoos , or I usually visit castles , or I usually "
+
+dialogue type : s
+C :  And then you pick that one .
+
+dialogue type : s
+C :  Yeah , the this was sort of these are all different sort of activities .
+
+dialogue type : s
+C :  Um But I think y I I got the point and I think I like it .
+
+dialogue type : s
+C :  We can do put them in a more hierarchical fashion .
+
+dialogue type : s
+C :  So , " Go to place " and then give them a choice ,
+
+dialogue type : s
+C :  you know either they 're the symphony type or opera type or the tourist site guide type or the nightclub disco type person and they say " yeah this is on that " go to big - ish place " ,
+
+dialogue type : s
+C :  this is what I would do . "
+
+dialogue type : s
+C :  And then we have the " Fix " thing , and then maybe " Do something the other day " thing ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I guess , to some extent , we should y we just have to try it out and see if it works .
+
+dialogue type : s.%--
+C :  It would be challenging , in in a sense , to try to make it so so complex that they even really should schedule , or to plan it , uh , a more complex thing in terms of
+
+dialogue type : h
+C :  OK ,
+
+dialogue type : s
+C :  you know , they should get the feeling that there are these s six things they have to do
+
+dialogue type : s
+C :  and they sh can be done maybe in two days .
+
+dialogue type : s
+C :  So they make these decisions ,
+
+dialogue type : qh
+C :  " Can I go there tomorrow ? "
+
+dialogue type : s
+C :  or you know influences
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^arp
+C :  Yeah , but I think this is part of the instructor 's job .
+
+dialogue type : s
+C :  And that can be done , sort of to say , " OK now we 've picked these six tasks . "
+
+dialogue type : s
+C :  " Now you have you can call the system and you have two days . "
+
+dialogue type : s.%--
+C :  And th w
+
+dialogue type : b
+C :  Yep , yep .
+
+dialogue type : s^aap|s^ng
+C :  Yeah , but th the I don't I 'm not really interested in sort of " Phase planning " capabilities .
+
+dialogue type : qh
+C :  But it 's more the how do people phrase these planning requests ?
+
+dialogue type : qy
+C :  So are we gonna masquerade the system as this as you said simple response system ,
+
+dialogue type : s^e
+C :  " I have one question I get one response " ,
+
+dialogue type : qrr
+C :  or should we allow for a certain level of complexity .
+
+dialogue type : s
+C :  And a I w think the data would be nicer if we get temporal references .
+
+dialogue type : s.%--
+C :  I mean w we have tested this and a y
+
+dialogue type : qy^rt.%--
+C :  have you heard listen to the f first two or th
+
+dialogue type : s
+C :  as a matter of fact the second person is uh is was faced with exactly this kind of setup .
+
+dialogue type : %--
+C : 
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : s
+C :  That was the first subject .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Um , it is already with this it got pretty with this setup and that particular subject it got pretty complex .
+
+dialogue type : s^cs
+C :  Maybe I suggest we make some fine tuning of these , get sort of run through ten or so subjects
+
+dialogue type : s
+C :  and then take a breather ,
+
+dialogue type : s
+C :  and see whether we wanna make it more complex or not , depending on what what sort of results we 're getting .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  And with this we 're getting more .
+
+dialogue type : s
+C :  No question .
+
+dialogue type : qy.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  no transcriptions of course ,
+
+dialogue type : b
+C :  yeah .
+
+dialogue type : s^na
+C :  Until we reach the gigabyte thing and David Johnson s ki kills me . And we 're gonna put it on the web site . Yeah .
+
+dialogue type : s^ng
+C :  No , he uh , he he has been solving all our problems or is wonderful ,
+
+dialogue type : %--
+C :  so s
+
+dialogue type : s
+C :  The reading task is a lot shorter .
+
+dialogue type : s
+C :  That was cut by fifty percent .
+
+dialogue type : s.%--
+C :  And the reading ,
+
+dialogue type : s
+C :  nobody 's interested in that except for the speech people .
+
+dialogue type : %--
+C :  So .
+
+dialogue type : s
+C :  It 's actually like five minutes dialogue .
+
+dialogue type : s^ng
+C :  Ten minutes is long .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^na
+C :  It feels like forever when you 're doing it ,
+
+dialogue type : s
+C :  but then it turns out to be three minutes and forty five seconds .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  And it 's fun .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  I need those back by the way .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : %-
+C :  And
+
+dialogue type : s^ar.%--
+C :  no , th the per
+
+dialogue type : s^nd
+C :  the person don't get it .
+
+dialogue type : s.%-
+C :  I mean , this is why we did it , because when we gave them just three tasks for w part - A and three tasks for part - B a
+
+dialogue type : s^aa
+C :  Exactly .
+
+dialogue type : s^bs
+C :  This is limiting the choices , but yeah .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^fa
+C :  OK , sorry .
+
+dialogue type : s
+C :  But um I I think this approach will very well work ,
+
+dialogue type : s
+C :  but the person was able to look at it and say " OK , This is what I would actually do . "
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^cs.%-
+C : 
+
+dialogue type : s^nd.%--
+C :  But no , they 're I mean they 're sort of this is where tour becomes you know
+
+dialogue type : s
+C :  tourists maybe a bit different
+
+dialogue type : s
+C :  and , um , these are just places where you you enter um , much like here .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  mm - hmm Yeah .
+
+dialogue type : s^2
+C :  Attend ,
+
+dialogue type : s^bk
+C :  yeah .
+
+dialogue type : b
+C :  Hmm , mm - hmm .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fg
+C : 
+
+dialogue type : s
+C :  th the function stuff is definitely different and the getting information or g stuff yeah .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s
+C :  But this is open .
+
+dialogue type : s
+C :  So since people gonna still pick something , we we 're not gonna get any significant amount of redundancy .
+
+dialogue type : s
+C :  And for reasons , we don't want it , really , in that sense .
+
+dialogue type : s
+C :  And um we would be ultimately more interested in getting all the possible ways of people asking , oh , for different things with or with a computer .
+
+dialogue type : s^co
+C :  And so if you can think of any other sort of high level tasks a tourist may do just always just m mail them to us and we 'll sneak them into the collection .
+
+dialogue type : s
+C :  We 're not gonna do much statistical stuff with it .
+
+dialogue type : s^aa
+C :  No .
+
+dialogue type : s^ng
+C :  But it seems like since we since we are getting towards uh subject uh fifty subjects
+
+dialogue type : s
+C :  and if we can keep it up um to a uh sort of five four - ish per week rate , we may even reach the one hundred before Fey t takes off to Chicago .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s^bk|qy^bu^d^rt
+C :  Okay , in terms of decision nodes ?
+
+dialogue type : s
+C :  I mean , Go - there is is a yes or no .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : s
+C :  I 'm also interested in th in this " property " uh line here ,
+
+dialogue type : s.%--
+C :  so if you look at sorry , look at that
+
+dialogue type : s
+C :  um , timing was um I have these three .
+
+dialogue type : qy^rt
+C :  Do we need a final differentiation there ?
+
+dialogue type : qy^d^rt
+C :  Now , later on the same tour , sometimes on the next tour .
+
+dialogue type : s
+C :  It 's sort of next day ,
+
+dialogue type : s
+C :  so you 're doing something now and you have planned to do these three four things ,
+
+dialogue type : s^rt
+C :  and you can do something immediately ,
+
+dialogue type : s
+C :  you could sort of tag it on to that tour
+
+dialogue type : s
+C :  or you can say this is something I would do s I wanna do sometime l in my life , basically .
+
+dialogue type : s^ng
+C :  Well , my visit to Prague there were some nights where I never went back to the hotel ,
+
+dialogue type : s
+C :  so whether that counts as a two - day tour or not we 'll have to think .
+
+dialogue type : s^no
+C :  I don't know .
+
+dialogue type : qw
+C :  What is the uh the the English co uh um cognate if you want , for " Sankt Nimmerlandstag " ?
+
+dialogue type : s
+C :  Sort of " We 'll do it on when you say on that d day it means it 'll never happen .
+
+dialogue type : qy^rt
+C :  Do you have an expression ?
+
+dialogue type : s^rt.%--
+C :  Probably you sh
+
+dialogue type : s^aa|s^m
+C :  Yeah , when hell Yep , we 'll do it when hell freezes over .
+
+dialogue type : s^cs
+C :  So maybe that should be another property in there .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s.%--
+C :  Um , the reason why why do we go there in the first place
+
+dialogue type : s
+C :  IE uh it 's either uh for sightseeing , for meeting people , for running errands , or doing business .
+
+dialogue type : sj^ba
+C :  Entertainment is a good one in there , I think .
+
+dialogue type : sj^ba
+C :  I agree .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : s
+C :  I mean this w this is uh an old uh Johno thing .
+
+dialogue type : s
+C :  He sort of had it in there .
+
+dialogue type : qh
+C :  " Who is the the tour is the person ? "
+
+dialogue type : s
+C :  So it might be a tourist ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  Eh , just meeting people , basically .
+
+dialogue type : s
+C :  " I want to meet someone somewhere " , which be puts a very heavy constraint on the " EVA "
+
+dialogue type : s
+C :  you know , because then if you 're meeting somebody at the town hall , you 're not entering it usually ,
+
+dialogue type : s
+C :  you 're just want to approach it .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : s
+C :  That goes with the " energy depletion " function , blech .
+
+dialogue type : s^tc.%-
+C :  OK , " endpoint " .
+
+dialogue type : s
+C :  " Endpoint " is pretty clear .
+
+dialogue type : fh|s^rt
+C :  Um , " mode " ,
+
+dialogue type : s^rt
+C :  uh , I have found three ,
+
+dialogue type : s
+C :  " drive there " , " walk there " uh or " be driven " , which means bus , taxi , BART .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : s.%--
+C :  So this granularity would suffice , I think w if we say the person
+
+dialogue type : s.%--
+C :  probably , based on the utterance we on the situation we can conclude
+
+dialogue type : s
+C :  wants to drive there , walk there , or use some other form of transportation .
+
+dialogue type : s
+C :  Everywhere .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Yeah , um we actually biking should be should be a separate point because we have a very strong bicycle planning component .
+
+dialogue type : s.%--
+C :  So .
+
+dialogue type : %-
+C :  Um .
+
+dialogue type : s^bk
+C :  Bicycles c should be in there ,
+
+dialogue type : %--
+C :  but ,
+
+dialogue type : qy^rt.%--
+C :  will we have bic
+
+dialogue type : qh^rt
+C :  I mean is this realistic ?
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b.x
+C :  Yeah .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s^bk|s^rt
+C :  OK , " Length " is um , you wanna get this over with as fast as possible ,
+
+dialogue type : s^rt
+C :  you wanna use some part of what of the time you have .
+
+dialogue type : h|s^aa^rt
+C :  Um , they can .
+
+dialogue type : s^arp^cs^df
+C :  But we should just make a decision whether we feel that they want to use some substantial or some fraction of their time .
+
+dialogue type : s^e
+C :  You know , they wanna do it so badly that they are willing to spend uh you know the necessary and plus time .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^cs
+C :  And y you know , if we feel that they wanna do nothing but that thing then , you know , we should point out that to the planner , that they probably want to use all the time they have .
+
+dialogue type : s^co
+C :  So , stretch out that visit for that .
+
+dialogue type : s
+C :  Th - the user can always s say it , but it 's just sort of we we hand over these parameters if we make if we have a feeling that they are important .
+
+dialogue type : s
+C :  And that we can actually infer them to a significant de degree , or we ask .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^e
+C :  And if no no part of the system ever comes up with the idea that this could be important , no planner is ever gonna ask for it .
+
+dialogue type : sj^ba.%--
+C : 
+
+dialogue type : s.%--
+C :  Jerry pushed this idea from the very beginning , that it 's part of the understanding business to sort of make a good question of what 's s sort of important in this general picture , what you need t
+
+dialogue type : qh
+C :  If you wanna simulate it , for example , what parameters would you need for the simulation ?
+
+dialogue type : s
+C :  And , Timing , uh , uh , Length would definitely be part of it ,
+
+dialogue type : qh^rt
+C :  " Costs " ,
+
+dialogue type : qo^rt
+C :  " Little money , some money , lots of money " ?
+
+dialogue type : s.%--
+C :  Actually , maybe uh F uh so , F
+
+dialogue type : s^bk
+C :  Yeah , OK .
+
+dialogue type : qw^br
+C :  Hmm ?
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Well , I I once had to write a a a a charter , a carter for a a student organization .
+
+dialogue type : s^rt
+C :  And they had wanted me to define what the quorum is going to be .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  And I wrote in there " En - Enough " people have to be there .
+
+dialogue type : s
+C :  And it was hotly debated , but people agreed with me that everybody probably has a good feeling whether it was a farce , a joke , or whether there were enough people .
+
+dialogue type : s:qw
+C :  And if you go to Turkey , you will find when people go shopping , they will say " How much cheese do you want ? "
+
+dialogue type : s
+C :  and they say " Ah , enough . "
+
+dialogue type : s
+C :  And the and the this used all over the place .
+
+dialogue type : s
+C :  Because the person selling the cheese knows , you know , that person has two kids and you know , a husband that dislikes cheese , so this is enough .
+
+dialogue type : s
+C :  And um so the middle part is always sort of the the golden way ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s
+C :  So you can s you can be really make it as cheap as possible , or you can say " I want , er , you know , I don't care "
+
+dialogue type : s^aa^m
+C :  Money is no object ,
+
+dialogue type : s
+C :  or you say " I just want to spend enough " .
+
+dialogue type : s
+C :  Or the sufficient , or the the appropriate amount .
+
+dialogue type : s
+C :  But , Then again , this may turn out to be insufficient for our purposes .
+
+dialogue type : s
+C :  But well , this is my first guess ,
+
+dialogue type : qh
+C :  in much the same way as how how d you know should the route be ?
+
+dialogue type : qh^rt
+C :  Should it be the easiest route , even if it 's a b little bit longer ?
+
+dialogue type : qh^d^rt
+C :  No steep inclinations ?
+
+dialogue type : qh^d^rt
+C :  Go the normal way ?
+
+dialogue type : qy
+C :  Whatever that again means , er or do you does the person wanna rough it ?
+
+dialogue type : s
+C :  Well , this is all sort of um , top of my head .
+
+dialogue type : s
+C :  No no research behind that .
+
+dialogue type : s^rt^tc
+C :  Um " Object information " ,
+
+dialogue type : s:qh^rt
+C :  " Do I do I wanna know anything about that object ? "
+
+dialogue type : s^rt
+C :  is either true or false .
+
+dialogue type : s
+C :  And . if I care about it being open , accessible or not , I don't think there 's any middle ground there .
+
+dialogue type : s^rt
+C :  Um , either I wanna know where it is or not ,
+
+dialogue type : s^rt
+C :  I wanna know about it 's history or not ,
+
+dialogue type : s
+C :  or , um I wanna know about what it 's good for or not .
+
+dialogue type : s^cs
+C :  Maybe one could put scales in there , too .
+
+dialogue type : s^e
+C :  So I wanna know a l lot about it .
+
+dialogue type : s
+C :  One could put scales in there .
+
+dialogue type : s
+C :  So I wanna know a lot about the history ,
+
+dialogue type : s.%-
+C :  just a bit .
+
+dialogue type : s^aa
+C :  Yep , that 's true .
+
+dialogue type : s^bk
+C :  Yep .
+
+dialogue type : s
+C :  That was the wrong shortcut anyhow .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : %--
+C :  What ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  this is the part that needs the work .
+
+dialogue type : s^cs
+C :  Well , I will tell you the German tourist data .
+
+dialogue type : s
+C :  Because I have not been able to dig out all the stuff out of the m ta thirty D V
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^ar
+C :  No , not at all .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  SmartKom Human .
+
+dialogue type : s
+C :  Wizard of Oz .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^2
+C :  With nothing .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : s^bk
+C :  Yep .
+
+dialogue type : s
+C :  Some data I collected in a couple weeks for training recognizers and email way back when .
+
+dialogue type : s
+C :  Nothing to write home about .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  see this this this uh ontology node is probably something that I will try to expand .
+
+dialogue type : qh
+C :  Once we have the full ontology API , what can we expect to get from the ontology ?
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : s^bsc.%--
+C :  not the discourse , the utterance as it were , uh ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^aa
+C :  No , no , no , no , no .
+
+dialogue type : s^aa
+C :  Uh , this is Yes .
+
+dialogue type : s^ar^m
+C :  No .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^cs
+C :  We could sit down and think of sort of the the ideal speaker utterances ,
+
+dialogue type : s
+C :  and I mean two or three that follow each other ,
+
+dialogue type : s^j
+C :  so , where we can also sort of , once we have everything up and running , show the tremendous , insane inferencing capabilities of our system .
+
+dialogue type : s
+C :  So , you know , as as the SmartKom people have .
+
+dialogue type : s
+C :  This is sort of their standard demo dialogue , which is , you know , what the system survives and nothing but that .
+
+dialogue type : s
+C :  Um , we could also sor sort of have the analogen of o our sample sentences ,
+
+dialogue type : s
+C :  the ideal sentences where we have complete construction coverage and , sort of , they match nicely .
+
+dialogue type : qh
+C :  So the the " How do I get to X ? " ,
+
+dialogue type : s
+C :  you know , that 's definitely gonna be uh , a major one .
+
+dialogue type : b.x
+C :  Yep .
+
+dialogue type : qh^cs
+C :  " Where is X ? "
+
+dialogue type : s
+C :  might be another one which is not too complicated .
+
+dialogue type : s^cs
+C :  And um " Tell me something about X . "
+
+dialogue type : s
+C :  And hey , that 's that 's already covering eighty percent of the system 's functionality .
+
+dialogue type : s^ar|s^cs
+C :  No , we can w throw in an " Out of Film " construction if you want to ,
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^rt^tc
+C :  I have one bit of news .
+
+dialogue type : h|s
+C :  Um , the action planner guy has wrote has written a a p lengthy proposal on how he wants to do the action planning .
+
+dialogue type : s
+C :  And I responded to him , also rather lengthy , how he should do the action planning .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s
+C :  And I tacked on a little paragraph about the fact that the whole world calls that module a dis disc dialogue manager ,
+
+dialogue type : qh
+C :  and wouldn't it make sense to do this here too ?
+
+dialogue type : s^rt
+C :  And also Rainer M Malaka is going to be visiting us shortly ,
+
+dialogue type : s
+C :  most likely in the beginning of June .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  He - he 's just in a conference somewhere and he is just swinging through town .
+
+dialogue type : s
+C :  And um m making me incapable of going to NAACL , for which I had funding .
+
+dialogue type : s
+C :  But . No , no Pittsburg this year .
+
+dialogue type : qw.%--
+C :  When is the uh Santa Barbara ?
+
+dialogue type : qw.%--
+C :  Who is going to ?
+
+dialogue type : s.%--
+C :  uh should a lot of people .
+
+dialogue type : s
+C :  That 's something I will would sort of enjoy .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : %-
+C :  There 's
+

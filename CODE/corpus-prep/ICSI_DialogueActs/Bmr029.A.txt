@@ -1,0 +1,600 @@
+dialogue type : s^bk^rt^t^tc
+A :  OK .
+
+dialogue type : s^aa
+A :  That 's true .
+
+dialogue type : s^r
+A :  Hub - five .
+
+dialogue type : s
+A :  Well , that 's only male .
+
+dialogue type : s^cs
+A :  We could only jus just do the male only
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : qrr^bu.%-
+A :  Or will we run into trouble when we g ?
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s
+A :  That 's what I was thinking .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : %-
+A :  S
+
+dialogue type : qr
+A :  So We - Yo - So , one thing I was wondering is , did you already do that middle one or should we re - do that one , too ?
+
+dialogue type : s^bk^m|s^bk
+A :  You didn't do that . OK .
+
+dialogue type : s^aa|s
+A :  Yeah . That 's what I was gonna say next .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : qy
+A :  W s so is Morgan , is the plan to just pick one of the far - field mikes ?
+
+dialogue type : fh
+A : 
+
+dialogue type : qy^rt
+A :  Do you know when he 'll have the the comparison ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s
+A :  So cuz I don't think the new data will be ready , uh , for a couple days may probably .
+
+dialogue type : fh
+A :  So ,
+
+dialogue type : s^m^na
+A :  the training .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  I think it 's that one .
+
+dialogue type : qy^d^g^rt
+A :  Right ? F .
+
+dialogue type : s
+A :  F .
+
+dialogue type : s^aa|s
+A :  Yeah , that 's it .
+
+dialogue type : s^m^na
+A :  That 's F .
+
+dialogue type : s
+A :  It 's the second nearest the machine room .
+
+dialogue type : fg|s
+A :  OK . So , uh , I just want to make sure I understand what we need to run .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^t1
+A :  Let 's see .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^co
+A :  Let 's let 's assume that we 're gonna use the new segmentations .
+
+dialogue type : s
+A :  We need to , um , run recognition o just looking at the no overlap column .
+
+dialogue type : s^bu
+A :  Basically , we have to d r do recognitions for all three of those cases .
+
+dialogue type : qy^d^g^rt
+A :  Right ?
+
+dialogue type : s^df
+A : 
+
+dialogue type : s
+A :  short training set for the male .
+
+dialogue type : s^cs
+A :  So we need to have results for all three of those ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bu
+A :  And if we 're re - doing the baseline anyways , it it it would be OK .
+
+dialogue type : s^e.%--
+A : 
+
+dialogue type : qw
+A :  How long would it take to run recognition , if we did that ?
+
+dialogue type : qo.%--
+A : 
+
+dialogue type : s^e
+A :  roughly ?
+
+dialogue type : %--
+A : 
+
+dialogue type : s^aa|s
+A :  yeah , let 's say we just did the Meeting Recorder meetings for our test set .
+
+dialogue type : qy^bh
+A :  Oh , really .
+
+dialogue type : s^no
+A :  I didn't realize each test took that long .
+
+dialogue type : s^bk^m
+A :  Four hours per meeting .
+
+dialogue type : s^fe
+A :  Wow .
+
+dialogue type : s^m^t1
+A :  S six hour test set .
+
+dialogue type : s|s^aa
+A :  Six meetings . OK .
+
+dialogue type : fg|s
+A :  OK . So Alright . So if we got a list of the , uh , segmentations for these five Meeting Recorder meetings , we could start , uh , the first two experiments going right away , using the short male models .
+
+dialogue type : s^cs^r
+A :  So , you could get those going while Dave is , um , creating waveforms for the r retraining the short male models .
+
+dialogue type : s^aa|s^bk
+A :  Right . OK . OK .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bk|qy^bu^rt
+A :  OK . So , do we w also want to run that bottom experiment without retraining the short male models on his thing ?
+
+dialogue type : qy
+A :  Did you want that ?
+
+dialogue type : qrr.%--
+A :  Or ?
+
+dialogue type : s^bk|s
+A :  OK . So , we 'll save that .
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  Well , on a more basic level , also , it means that that third experiment , there are actually two differences between the other experiments ,
+
+dialogue type : s^e
+A :  not one .
+
+dialogue type : s^ba.%-
+A : 
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+A :  On the far - field ?
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : qy^rt
+A :  So when you said you were gonna start that top one , were you gonna use the new segmentations ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Right . OK .
+
+dialogue type : qy.%-
+A :  Can we ?
+
+dialogue type : fg|qr.%-
+A :  So , does that mean you turn off speaker normalization when you run it ? Or you just let it do what it would do , an ?
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : qy^bu^d^j
+A :  You 'll have email .
+
+dialogue type : qy^d^g^rt
+A :  Right ?
+
+dialogue type : fh
+A :  So ?
+
+dialogue type : s^2
+A :  Segmentation ?
+
+dialogue type : fh
+A :  S So , um .
+
+dialogue type : s
+A :  I don't want you to have to be burdened with doing a lot of stuff .
+
+dialogue type : qw.%--
+A :  What what can I do to ?
+
+dialogue type : s^rt
+A :  Y y you said it would be easy for you to do that top one there ,
+
+dialogue type : s^rt
+A :  and I guess Don can do the segmentations of the , uh , channel F ?
+
+dialogue type : s^cs
+A :  I mean , I can certainly help with , uh , retraining the short male models ,
+
+dialogue type : s
+A :  uh , once we have the new data .
+
+dialogue type : s^2.%-
+A :  The top one is done . I c
+
+dialogue type : s^cs
+A :  I can re - do the next one .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Yeah . Sure .
+
+dialogue type : fg|s
+A :  Yeah , the the bottom one would b just be a matter of pointing it at a new set of files and kicking it off ,
+
+dialogue type : s^ba.%--
+A :  so that would be re
+
+dialogue type : s^bsc
+A :  I mean , th not the bottom one ,
+
+dialogue type : s^bsc.%--
+A :  but the middle one
+
+dialogue type : s^ba
+A :  would be really easy once you 've got the top one going .
+
+dialogue type : s^cs
+A :  I could do that .
+
+dialogue type : s^bk|s.%--
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+A :  To keep it the same but j just change them all to channel F ?
+
+dialogue type : b
+A :  Right . Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bu
+A : 
+
+dialogue type : qy^d^g^rt
+A : 
+
+dialogue type : s^e
+A :  when he creates these .
+
+dialogue type : s^bk
+A :  OK . OK .
+
+dialogue type : qy^rt
+A :  So will you talk to him about that ,
+
+dialogue type : qrr
+A :  or do you want me to talk to him ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s.%--
+A :  And then the bottom one in terms of the test will be ?
+
+dialogue type : fh
+A : 
+
+dialogue type : s^bu
+A :  That will just be a copy of the one above it , except for different models from training .
+
+dialogue type : s^bk
+A :  Ah . OK .
+
+dialogue type : s^t1.%--
+A :  So , we need to run ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  Well , once I do that , uh , second experiment , we 'll have the , um , files ,
+
+dialogue type : s
+A :  and I can give you those to to process .
+
+dialogue type : qy^rt
+A :  So , do you create this continuous stream from the individual utterance files ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk|s^cc
+A :  OK . I 'm gonna I 'll check with , um , Markham ,
+
+dialogue type : s^e
+A :  and see what happened with the the disks .
+
+dialogue type : s
+A :  He went to put those on a couple of weeks ago
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk|s
+A :  Oh , OK . I 'll ask David , then .
+
+dialogue type : qy^bu^d
+A :  You haven't seen new disks pop up ,
+
+dialogue type : qy^g^rt
+A :  have you ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^j.%-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  He went to put them on and then something happened .
+
+dialogue type : s:s
+A :  And he sent around a note saying " Oh , uh , it didn't work , and we 'll have to schedule another time . "
+
+dialogue type : %-
+A :  And then ,
+
+dialogue type : %-
+A : 
+
+dialogue type : s^m^na
+A :  nothing happened .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  I 'll check with David about that .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^bu.%--
+A :  So , basically , Dave , so y for you to get your processing going , you need the list of the , uh , wave
+
+dialogue type : s.%--
+A :  Well , I guess it 'll dep
+
+dialogue type : s^bu
+A :  you 'll you 'll we 'll need to get the segmentations .
+
+dialogue type : s
+A :  Figure out whether we 're using the new or the old from Don .
+
+dialogue type : %--
+A :  And then ,
+
+dialogue type : fh
+A :  uh ,
+
+dialogue type : s
+A :  from that you need the from the segmentations you 'll have the list of wavefiles that the short , uh , set is trained on .
+
+dialogue type : s
+A :  And then you 'll need disk space .
+
+dialogue type : s^bu
+A :  And once you 've got those things , then you can start your processing .
+
+dialogue type : qy^d^g^rt
+A :  Right ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qy.%-
+A :  Do you have this , uh ?
+
+dialogue type : fg|s
+A :  Oh , there 's there 's one other issue ,
+
+dialogue type : s
+A :  uh , and that is that Dave throws out speakers that have less than twelve seconds of training data .
+
+dialogue type : s
+A :  And he said there were a few in the Macrophone set like that .
+
+dialogue type : qy
+A :  So , do we need to wait to find out who he 's gonna throw out ,
+
+dialogue type : s^e^rt
+A :  so that we create a new set of short models that don't include those speakers ?
+
+dialogue type : s
+A :  So i in Th - the problem is that if we proceed like we just described , um , when he goes to m um , create the new s training data with his processing , he throws out some speakers .
+
+dialogue type : s
+A :  So the t two training sets won't be identical .
+
+dialogue type : s^aa|s
+A :  Yeah . Have just a little bit .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy^bu^d
+A :  So you think it 's OK , then ?
+
+dialogue type : s^2^bu^rt
+A :  It 's read .
+
+dialogue type : %-
+A :  We sh M
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s^bu
+A :  A actually you should be able to figure out , Dave ,
+
+dialogue type : qy^d^f^g
+A :  right ,
+
+dialogue type : s^bu
+A :  once you know the segmentations , uh , who you 're going to which speakers will get left out , even before you run your processing .
+
+dialogue type : qy^d^g^rt
+A :  Right ?
+
+dialogue type : s^aa|s^rt
+A :  Yeah . The segmentations from Don ?
+
+dialogue type : %-
+A :  Once we ?
+
+dialogue type : s^bk
+A :  Ah . Right , right , right , right , right .
+
+dialogue type : fg|s
+A :  Right . But I 'm just wondering how long it will take to get that information .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^fa|qw^br^d^rt
+A :  Sorry , Robert did what ?
+
+dialogue type : qw^br^d^rt
+A :  Robert took what ?
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : b
+A :  Oh .
+
+dialogue type : qy^rt
+A :  Is he gone now ?
+
+dialogue type : s^bk
+A :  Oh . Oh , oh . Oh , OK .
+
+dialogue type : qy^rt
+A :  Are you are you interfacing to that thing with the C - plus - plus
+
+dialogue type : qrr^rt
+A :  Or are you is there another interface that you use ?
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Oh .
+
+dialogue type : s^2.%-
+A : 
+
+dialogue type : b
+A :  I see .
+
+dialogue type : s^ba
+A :  Oh , that 's neat .
+
+dialogue type : s^bk
+A :  Ah . OK .
+

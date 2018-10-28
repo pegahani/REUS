@@ -1,0 +1,1125 @@
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  So .
+
+dialogue type : z
+B :  OK , I 'm on I 'm talking on mike two .
+
+dialogue type : z
+B :  So ,
+
+dialogue type : z
+B :  Which channel is that ?
+
+dialogue type : z
+B :  Mike number two , I 'm talking right now on ?
+
+dialogue type : z
+B :  Mike number two ?
+
+dialogue type : z
+B :  Channel one ?
+
+dialogue type : z
+B :  Is that channel one or channel zero ?
+
+dialogue type : z
+B :  which is zero - based or one - based ?
+
+dialogue type : z
+B :  OK , So we 're not going to do that .
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  Wh - that 's why I wanted to write it down ,
+
+dialogue type : z
+B :  but
+
+dialogue type : z
+B :  Dan just doesn't want to do that .
+
+dialogue type : z
+B :  Thank you .
+
+dialogue type : z
+B :  OK , now , that means if I 'm going to be standing in there looking , then someone else has to write them down .
+
+dialogue type : z
+B :  because I won
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  Fine .
+
+dialogue type : z
+B :  Let 's not try to do anything too easy .
+
+dialogue type : z
+B :  Testing .
+
+dialogue type : z
+B :  Yep .
+
+dialogue type : z
+B :  They 're in the folder right there .
+
+dialogue type : z
+B :  You may .
+
+dialogue type : z
+B :  So , Jane , can you talk into your mike ?
+
+dialogue type : z
+B :  You said it 's mike four ?
+
+dialogue type : z
+B :  Well , hmm , I 'm glad you like it .
+
+dialogue type : z
+B :  Uh Eric , what mike are you ?
+
+dialogue type : z
+B : 
+
+dialogue type : z
+B :  Looks like it . S
+
+dialogue type : z
+B :  talk again ?
+
+dialogue type : z
+B :  Thank you .
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  Um , can you do taps on the P D
+
+dialogue type : z
+B :  and the P Z
+
+dialogue type : z
+B :  And you have to actually check what the nu
+
+dialogue type : z
+B :  The - Start with P Z
+
+dialogue type : z
+B :  Thank you .
+
+dialogue type : z
+B :  I can't tell .
+
+dialogue type : z
+B :  Yep .
+
+dialogue type : z
+B :  Thanks .
+
+dialogue type : z
+B :  F Thank you .
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  And PDA ,
+
+dialogue type : z
+B :  left , right ?
+
+dialogue type : z
+B :  I don't see anything .
+
+dialogue type : z
+B :  Ah .
+
+dialogue type : z
+B :  Yep .
+
+dialogue type : z
+B :  All OK .
+
+dialogue type : z
+B :  Thank you .
+
+dialogue type : z
+B :  Did we just record all that ?
+
+dialogue type : z
+B :  Should we start it over ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^co
+B :  The ones that aren't filled out are the ones you want to hand out .
+
+dialogue type : s
+B :  I threw the ones out , that we already recorded
+
+dialogue type : s^e
+B :  but we didn't record .
+
+dialogue type : fg|s^co^t
+B :  Right . So the first task is to read some digits .
+
+dialogue type : s^cc
+B :  So I 'll go ahead and start .
+
+dialogue type : fh|s^rt
+B :  And This is Adam on mike number two ,
+
+dialogue type : fh|s^co
+B :  So . If you could just fill out the form ,
+
+dialogue type : s^co
+B :  and then later on we 'll read it , with pauses between .
+
+dialogue type : s^e
+B :  And we 're session two .
+
+dialogue type : s^co
+B :  Let her fill it out and go ahead and read .
+
+dialogue type : s^co
+B :  So you wanna pause briefly between each one
+
+dialogue type : s^df
+B :  so that the person transcribing can tell where one ends and one begins .
+
+dialogue type : s
+B :  So , a short sentence between each line .
+
+dialogue type : s^co
+B :  Well , you can intone it however you want .
+
+dialogue type : s^co
+B :  Imagine that you 're reading a number phone number to someone .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : fg
+B :  OK . Good .
+
+dialogue type : s^ft
+B :  Thanks .
+
+dialogue type : s^t
+B :  So we 'll probably do another one at the end of the meeting .
+
+dialogue type : s^df
+B :  just to get some more digits .
+
+dialogue type : fh
+B :  And , uh
+
+dialogue type : s^ft^rt
+B :  Thank you .
+
+dialogue type : qw^rt
+B :  What - what 's your mike number , Jane ?
+
+dialogue type : qy^d^j^rt
+B :  Dan doesn't remember what sex he is .
+
+dialogue type : s^ba^j
+B :  That 's true , it 's it 's really difficult .
+
+dialogue type : qy^rt.%--
+B : 
+
+dialogue type : s
+B :  I I wrote a scanner program that scans these forms in .
+
+dialogue type : fh|qh^tc
+B :  Anyway . So , why did I call you all here ?
+
+dialogue type : fh|s^cs^t
+B :  Um , what I 'd like to talk about is , um the transcription .
+
+dialogue type : s^co
+B :  So , as part of this um project , we need to transcribe these meetings .
+
+dialogue type : fh|s^df
+B :  um , to do training and test and so on .
+
+dialogue type : fh|s
+B :  and , uh , so we need word transcripts and , uh , speaker change identification .
+
+dialogue type : s^e
+B :  So , speaker ID .
+
+dialogue type : fh|s^co^t
+B :  And , uh so I 'd sort of like to know who 's going to do that ,
+
+dialogue type : s
+B :  hi Jane ,
+
+dialogue type : fh|s^e
+B :  and uh what tools to use ,
+
+dialogue type : s^e
+B :  what other resources you might need ,
+
+dialogue type : s^e.%--
+B : 
+
+dialogue type : s^e
+B :  things like just the data format and how we 're going to do it .
+
+dialogue type : qh^bk^d
+B :  Oh really ?
+
+dialogue type : s^df
+B :  Cuz Morgan said he asked you .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s:qy
+B :  And so , one of the first questions is , " do you need help ? "
+
+dialogue type : s
+B :  That 's not the first question .
+
+dialogue type : s^bk
+B :  Ah right .
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  I I was saying before we don't really have to worry about people being surprised by it .
+
+dialogue type : s^2
+B :  Play .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg|s
+B :  Oh , I actually have some foot pedals for the P C .
+
+dialogue type : h|s
+B :  Uh , keyboard .
+
+dialogue type : s^e
+B :  and they generate keystrokes .
+
+dialogue type : h|s
+B :  Um There 's a little program that downloads into it .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s^na
+B :  But the program probably only runs in Windows ,
+
+dialogue type : s^cs
+B :  although I bet we could program it once
+
+dialogue type : s
+B :  And and then put it on another machine and it would work .
+
+dialogue type : s
+B :  I haven't used them .
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : s^am
+B :  I don't think it does .
+
+dialogue type : s^na
+B :  I 'm not using them anymore .
+
+dialogue type : s^e
+B :  I used to use them .
+
+dialogue type : s
+B :  So they 're currently set up for Shift , Control , and Alt .
+
+dialogue type : s
+B :  But I r I don't use them .
+
+dialogue type : s
+B :  They 're not even plugged in .
+
+dialogue type : s^cs
+B :  And so tha uh if that would help , uh I 'm certainly willing to donate them .
+
+dialogue type : s
+B :  And it it is a PC connection ,
+
+dialogue type : s^df
+B :  so it would have to go on a P C somewhere .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  Yeah , yeah , you are generating it .
+
+dialogue type : s
+B :  Well , that that was part of the question ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^co
+B :  Imagine we 're doing a couple of hours a week of transcripts
+
+dialogue type : fh|s^bsc
+B :  um , of recording ,
+
+dialogue type : fh|s
+B :  uh , I wouldn't expect you to do it all .
+
+dialogue type : qy:qy^rt
+B :  So the question is do you know of resources that we could use .
+
+dialogue type : qy
+B :  So are there grad students or undergrads or just commercial services ?
+
+dialogue type : qh.%
+B :  Oh , really ?
+
+dialogue type : s^bu
+B :  So we only have to give them credits ,
+
+dialogue type : qy^d^rt
+B :  We don't have to give them money ?
+
+dialogue type : s^bu
+B :  Oh , you do have to pay them .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^co
+B :  Well , we we need to We need to find out how much that will cost , so I can pass that on to Morgan ,
+
+dialogue type : s^df
+B :  cuz right now we have almost no money .
+
+dialogue type : s
+B :  So so the cheaper we can do it , the better .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aap
+B :  Well , if in terms of transcripts , sure ,
+
+dialogue type : s^arp
+B :  but in terms of speaker change it might be nice to get the actual time .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : fg|qw
+B :  Oh , in terms of data format , what are we going to do about that ?
+
+dialogue type : s
+B :  I mean , you have the S T M format , where you have you know , every phrase , every utterance is is a single speaker .
+
+dialogue type : qy^rt
+B :  I mean , is that the right way to do it ?
+
+dialogue type : qrr.%--
+B : 
+
+dialogue type : qy^rt
+B :  Is that the right way to do it ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bu
+B :  OK . So that means that for each utterance , we 'll need the time marks ,
+
+dialogue type : s^e
+B :  the start and end of each utterance .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s
+B :  Well , X Waves have some as well ,
+
+dialogue type : s
+B :  but they 're pretty low level .
+
+dialogue type : s
+B :  They 're designed for um for phoneme - level
+
+dialogue type : s
+B :  Although , they actually have a nice tool for that could be used for speaker change marking .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qy^rt
+B :  Ha - Have you looked at it already ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy.%-
+B : 
+
+dialogue type : qy^bu^d
+B :  Oh . So , these are p particularly for time alignment ?
+
+dialogue type : fg|qr
+B :  Right . are they just for time alignment or are they for transcription as well ?
+
+dialogue type : s
+B :  Th - i It 's wireless .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Sure .
+
+dialogue type : s^co
+B :  Yeah , don't talk to yourself too much .
+
+dialogue type : fg|s.%-
+B :  So , For the digits For the d
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^nd
+B :  Well , I 'm not sure if we can do automated alignment or not .
+
+dialogue type : s^df
+B :  I mean , e especially in e with speaker change in a meeting like this , where we 're overlapping so much ,
+
+dialogue type : s
+B :  I don't think we 're gonna have a a prayer .
+
+dialogue type : s^aa
+B :  Oh , that 's true .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s
+B :  We could just do it through these .
+
+dialogue type : s
+B :  I hadn't even thought about that .
+
+dialogue type : s^bk
+B :  Sure .
+
+dialogue type : fh|s^t
+B :  Um . In terms of data formats , uh what I did for the Digits stuff was just to hand - rolled my own . That looks like this form .
+
+dialogue type : s^df
+B :  You know , it 's just uh something that 's easy to parse in Perl .
+
+dialogue type : fh|s^cs
+B :  Um . Probably for the full one , we 'll want to do something like S T
+
+dialogue type : s
+B :  I mean , some format that our tools already work with .
+
+dialogue type : s^am
+B :  Yeah , presumably .
+
+dialogue type : s^na
+B :  Yeah , I guess that 's true .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  OK . " MATE Mark - up Framework " .
+
+dialogue type : s^bk^rt
+B :  OK ?
+
+dialogue type : s^fe
+B :  Oh , no !
+
+dialogue type : s
+B :  It has the word " X M L " in it !
+
+dialogue type : qy^rt
+B :  Is that free ?
+
+dialogue type : s
+B :  But it doesn't have enough pictures .
+
+dialogue type : s
+B :  So , I think it will require too much reading to understand whether this is anything that we can easily use .
+
+dialogue type : qy^d.%--
+B :  " TEI " is ?
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s^cs
+B :  Well , I guess XML makes some amount of sense .
+
+dialogue type : s
+B :  I 'm not actually familiar with it
+
+dialogue type : fh|s
+B :  but it seems to be the sort of thing that this would be good for .
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^arp
+B :  Right , but it 's I think for the initial task , just getting the word transcripts and speaker change is highest on my list .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  It sounds like you 're at least a little familiar with these tools , Jane ,
+
+dialogue type : fh|qy^rt
+B :  so Are y Do you feel comfortable just picking one ?
+
+dialogue type : fh|%-
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  Signed language is interesting .
+
+dialogue type : qw^t
+B :  Well , so , how should we proceed on picking a tool ?
+
+dialogue type : qy^co^rt
+B :  Jane , do you want to pick a few
+
+dialogue type : s^cc^e^rt
+B :  and we 'll download them and try them out ?
+
+dialogue type : qy^rt
+B :  Is that the right thing to do ?
+
+dialogue type : s^ar|s^df
+B :  No , we 're not going to do time alignment .
+
+dialogue type : fg|s
+B :  Right , and so but , in terms of what the transcriber needs to do , they 're not going to have to do time alignment .
+
+dialogue type : s^e
+B :  Except maybe for word speaker change ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^co
+B :  OK , then we 'll have to use it .
+
+dialogue type : s
+B :  No no question .
+
+dialogue type : s
+B :  Boy , the recognition on what you just mumbled is going to be really horrible .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^bu^d^rt
+B :  OK , So , so , it 's called " Transcriber " you said ?
+
+dialogue type : s:s
+B :  gacks
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : fg|%-
+B : 
+
+dialogue type : s
+B :  Well , I just wrote down the French site
+
+dialogue type : s^cc
+B :  and I will check it and try to download it
+
+dialogue type : s^e
+B :  And uh see what it looks like .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I vaguely recall that they have a pages uh tools page somewhere ,
+
+dialogue type : s^e
+B :  with like lists and lists and lists of uh various and assorted tools .
+
+dialogue type : b.%
+B :  Mm - hmm .
+
+dialogue type : fg|s^cc
+B :  So , Um , we 'll start with " Transcriber "
+
+dialogue type : s^cc
+B :  and if it looks like that 's not gonna do what we need , we 'll move on to the Mississippi State
+
+dialogue type : s^cc
+B :  and if it doesn't look like that 's going to work , we 'll look at something else .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^co
+B :  Also , I wanted to mention just in passing that uh another thing that we 're going to want to start collecting is queries for the meetings .
+
+dialogue type : s^co
+B :  So if over the next couple of days you find yourself wondering what we talked about in the meeting , write down the sort of query you 'd like to make .
+
+dialogue type : qy^rt
+B :  Do you understand what I mean ?
+
+dialogue type : fh|s
+B :  So , imagine that we had Meeting Recorder all done , and you had one ,
+
+dialogue type : qh
+B :  what might you do with it ?
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s^e
+B :  if they occur to you .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^ba
+B :  That 's a good one .
+
+dialogue type : s^co
+B :  Send m So , if you could just email me them .
+
+dialogue type : s
+B :  Yeah , except we didn't record .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  It 's WWW dot ETCA dot FR .
+
+dialogue type : s^e
+B :  s l slash lots of other stuff , yeah .
+
+dialogue type : qw^rt
+B :  So , when is she showing up ?
+
+dialogue type : s^m
+B :  April .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s^aa|s.%--
+B :  Right , since we have almost none right now , let 's
+
+dialogue type : s^cs
+B :  We need to move forward from there .
+
+dialogue type : fh|s^ba
+B :  But uh , yeah , I guess it 's O K .
+
+dialogue type : s.%--:qy.%--
+B : 
+
+dialogue type : s
+B :  Dan and I spoke about this briefly ,
+
+dialogue type : qy
+B :  do we want to try to combine channels somehow to make the transcriber 's job easier ?
+
+dialogue type : s
+B :  I was listening to some of it
+
+dialogue type : fh
+B :  and uh
+
+dialogue type : s
+B :  like , if you just listen to the far P Z M the person sitting at this end of the table you can hardly hear at all .
+
+dialogue type : s^e
+B :  on on the transcript ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^cs
+B :  it may be worthwhile to at least try a little bit to combine the channels .
+
+dialogue type : b
+B :  Huh .
+
+dialogue type : b
+B :  Neat !
+
+dialogue type : s^ba
+B :  Oh , so , that would be interesting as well to do that .
+
+dialogue type : s^cs.%--
+B :  Well , I bet if you used this one the two s most separated P Z
+
+dialogue type : s^am
+B :  Well , maybe , maybe not .
+
+dialogue type : s^2
+B :  Big ears .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^bk
+B :  OK ,
+
+dialogue type : qy^rt^t^tc
+B :  do we have anything else to talk about with transcribes ?
+
+dialogue type : s^2
+B :  And we 'll run a train a neural net
+
+dialogue type : s^e
+B :  and create a recognizer
+
+dialogue type : s^e
+B :  and do information retrieval
+
+dialogue type : fh
+B : 
+
+dialogue type : s^arp
+B :  Well , that 's my interest .
+
+dialogue type : s
+B :  I mean , other people have different interests ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : s
+B :  That 's what I want .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^df
+B :  Well , what the so , the reason we 're doing near field as well is if that doesn't work we wanna back we want some something that will work .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qw
+B :  Why ?
+
+dialogue type : %-
+B :  Y
+
+dialogue type : s:qy
+B :  The question is , " is it will it work well enough to do information retrieval ? "
+
+dialogue type : qy
+B :  So , w will the application the Meeting Recorder application , work ?
+
+dialogue type : fh|s:qy
+B :  So , Is Part of the research is um " is fifty percent accuracy enough to do an useful information retrieval ? "
+
+dialogue type : s^am^e
+B :  It might be .
+
+dialogue type : s^aa
+B :  That 's right ,
+
+dialogue type : s^co
+B :  Well , but you know we have to try .
+
+dialogue type : s^cs
+B :  We we we could simply not do the project .
+
+dialogue type : s^ba
+B :  But I think that 's a bad solution .
+
+dialogue type : s
+B :  Oh , I didn't know that .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : s^j
+B :  He has he has the open piece of paper .
+
+dialogue type : s^rt
+B :  So , open notebook .
+
+dialogue type : s^j
+B :  I have one
+
+dialogue type : s^e^j.%--
+B : 
+
+dialogue type : s
+B :  Well , I think to some extent with things like the stress and the other prosodic things
+
+dialogue type : s
+B :  an and tighter time alignments that we can do
+
+dialogue type : s^cs
+B :  I think we should probably do those
+
+dialogue type : s^cs^e
+B :  but only once we have a consumer of that data
+
+dialogue type : s
+B :  ' You know , so right now we have a consumer of the word transcripts and the speaker change .
+
+dialogue type : s^e
+B :  Me .
+
+dialogue type : s
+B :  I want those things to work .
+
+dialogue type : s
+B :  And so I would like to get that done as quickly as possible .
+
+dialogue type : s
+B :  And so , if if Liz or someone else wants to do some work on uh prosody and on stress and so on then we can go back to the data and generate the uh the transcripts that we need .
+
+dialogue type : qy^bu^d^rt
+B :  Even for an undergrad ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : qy^2^rt
+B :  Accuracy ?
+
+dialogue type : s^2
+B :  Certainty ,
+
+dialogue type : s^2^r
+B :  islands of certainty .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  No .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Sure .
+
+dialogue type : s
+B :  All caps .
+
+dialogue type : qy^rt^t^tc
+B :  Anything else ?
+
+dialogue type : s^cc
+B :  I 'm gonna go download " Transcriber "
+
+dialogue type : s^cc
+B :  and Jane and I will look at it
+
+dialogue type : s^fe
+B :  Oh
+
+dialogue type : s^cs
+B :  Well I think the answer is we need to record as many as we can .
+
+dialogue type : s^cs
+B :  Right ? I don't see any reason not to try to record a meeting or two a week .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s^cs
+B :  I mean , more if we can .
+
+dialogue type : fh|s^cs
+B :  And uh so I wanna um I wanna start by in the next couple weeks just doing the Speech group
+
+dialogue type : s^e
+B :  until we get to the point where we 're fairly comfortable with the hardware and the software and everything works .
+
+dialogue type : s^cc.%--
+B : 
+
+dialogue type : s
+B :  also uh a Jerry volunteered to have his group do a few .
+
+dialogue type : s^cc
+B :  So , I 'll uh try to get those as well .
+
+dialogue type : s
+B :  We have five of the wireless .
+
+dialogue type : s
+B :  And then we were going to be getting a bunch of wired ones as well .
+
+dialogue type : s.%--
+B :  I mean notice that n
+
+dialogue type : s
+B :  your you you stood up and walked around .
+
+dialogue type : s
+B :  None of the rest of us have .
+
+dialogue type : s^df
+B :  And so we could have wired mikes and I wouldn't be a big deal .
+
+dialogue type : s^e
+B :  for bigger meetings .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  It really makes you feel like you 're doing real work
+
+dialogue type : s
+B :  when you get all this hardware .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : qw
+B :  Why ?
+
+dialogue type : s
+B :  I had noticed that you were talking quietly ,
+
+dialogue type : s^e
+B :  and I was actually going to ask you .
+
+dialogue type : s^r
+B :  I was going to ask you to speak up .
+
+dialogue type : s^df
+B :  But I didn't want you to feel self - conscious .
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s
+B :  I 've been trying to rotate it through .
+
+dialogue type : s
+B :  So , Dan will get it next time .
+
+dialogue type : qy^j^rt
+B :  Do you feel like a television star ?
+
+dialogue type : s^na
+B :  That that makes sense ,
+
+dialogue type : qh
+B :  right ?
+
+dialogue type : s^df
+B : 
+
+dialogue type : s^co^j
+B :  N You should have run it under your sweater , though .
+
+dialogue type : s^na
+B :  I think we 're there .
+
+dialogue type : h
+B :  uh
+
+dialogue type : s
+B :  He he he changed the downsampling .
+
+dialogue type : z
+B :  OK , so this is Adam , on uh
+
+dialogue type : z
+B :  mike number two , wireless headset
+
+dialogue type : z
+B :  OK ?
+
+dialogue type : z
+B :  Thanks very much .
+
+dialogue type : z
+B :  Just control - C , Dan ?
+

@@ -1,0 +1,1320 @@
+dialogue type : s^t3
+C :  Other way .
+
+dialogue type : s
+C :  We m We may wind up with ver We we may need versions of all this garbage .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b.%
+C :  Mmm .
+
+dialogue type : s
+C :  Well , we have one more coming .
+
+dialogue type : z
+C :  OK .
+
+dialogue type : z
+C :  Well , we can start doing it .
+
+dialogue type : h|s^aa
+C :  Um , yeah .
+
+dialogue type : s^ar|s
+C :  No . There was there was Let 's see .
+
+dialogue type : %--
+C : 
+
+dialogue type : s^na
+C :  She got an emai she was notified .
+
+dialogue type : s
+C :  Whether she knows is another question .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : qy^rt
+C :  So are the people going to be identified by name ?
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  So , then in terms of people worrying about , uh , excising things from the transcript , it 's unlikely .
+
+dialogue type : s^df
+C :  Since it it does isn't attributed .
+
+dialogue type : s^bk
+C :  Oh , I see ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Sure .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^df
+C :  No , I I wasn't complaining ,
+
+dialogue type : s^df
+C :  I just wanted to understand .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b.%
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : fg|qh^cs^tc.%--
+C :  Um , OK . So why don't you tell us briefly
+
+dialogue type : s^tc
+C :  your give give your e normal schpiel .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^bk
+C :  Yep .
+
+dialogue type : s
+C :  By the way , Adam , we will be using the , uh , screen as well .
+
+dialogue type : s
+C :  So , you know .
+
+dialogue type : s^ba^fe
+C :  Wow !
+
+dialogue type : s^t^tc
+C :  Organization .
+
+dialogue type : s^bu
+C :  So you guys who got email about this oh f uh , Friday or something about what we 're up to .
+
+dialogue type : s
+C :  Oh , this was about um , inferring intentions from features in context , and the words ,
+
+dialogue type : s^e.%-
+C :  like " s go to see " , or " visit " , or some
+
+dialogue type : qy^bu^d
+C :  You didn't get it ?
+
+dialogue type : s
+C :  I guess these g have got better filters .
+
+dialogue type : s^df
+C :  Cuz I sent it to everybody .
+
+dialogue type : s
+C :  You just blew it off .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk|s^co
+C :  No , OK come in , sit down .
+
+dialogue type : s^co
+C :  If you grab yourself a microphone .
+
+dialogue type : s
+C :  Well , you can sign afterwards .
+
+dialogue type : s
+C :  Afterwards .
+
+dialogue type : s
+C :  And it it it it it also has to be switched on , Nance .
+
+dialogue type : qy^bu^d^rt
+C :  It 's on ?
+
+dialogue type : s^bk|s^ba
+C :  OK , good .
+
+dialogue type : qw^br
+C :  What ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ba^bd
+C :  Not important .
+
+dialogue type : s
+C :  So , what is important is that we understand what the proposed task is .
+
+dialogue type : s
+C :  And , the the i uh , Robert and I talked about this some on Friday .
+
+dialogue type : fh|s
+C :  And we think it 's well - formed .
+
+dialogue type : s
+C :  So we think it 's a well - formed , uh , starter task for this , uh , deeper understanding in the tourist domain .
+
+dialogue type : s
+C :  Well , it 's the it 's it 's always all of it .
+
+dialogue type : s
+C :  So , in general it 's always going to be , the answer is , everywhere .
+
+dialogue type : s
+C :  Uh , so the notion is that , uh , this isn't real deep .
+
+dialogue type : s
+C :  But it 's deep enough that you can distinguish between these th three quite different kinds of , uh , going to see some tourist thing .
+
+dialogue type : s
+C :  And , so that 's that 's the quote " deep " that we 're trying to get at .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Not only doesn't it do it , but it also doesn't give you enough information to do it .
+
+dialogue type : s
+C :  It isn't like , if you just took what the front - end gives you , and used some clever inference algorithm on it , you would be able to figure out which of these is going on .
+
+dialogue type : fh
+C :  So , uh ,
+
+dialogue type : s
+C :  and this is Bu - I in general it 's gonna be true of any kind of deep understanding ,
+
+dialogue type : s
+C :  there 's gonna be contextual things ,
+
+dialogue type : s
+C :  there 're gonna be linguistic things ,
+
+dialogue type : s
+C :  there 're gonna be discourse things ,
+
+dialogue type : s
+C :  and they gotta be combined .
+
+dialogue type : s
+C :  And , my idea on how to combine them is with a belief - net ,
+
+dialogue type : s^bd^df
+C :  although it may turn out that t some totally different thing is gonna work better .
+
+dialogue type : fh|s.%--
+C : 
+
+dialogue type : qy^bu^d^rt
+C :  You 're editing your slide ?
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^bk|s^fa
+C :  Oh . I 'm sorry .
+
+dialogue type : fg|s
+C :  OK . So . This is minutes taking minutes as we go ,
+
+dialogue type : s^e
+C :  in his in his own way .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fg|s
+C :  Anyway . So the thing is , i uh , d naively speaking , you 've you 've got a for this little task , a belief - net ,
+
+dialogue type : s
+C :  which is going to have as output , the conditional pr probability of one of three things ,
+
+dialogue type : s:s
+C :  that the person wants to uh , to View it , to Enter it , or to Tango with it .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s
+C :  So that the the output of the belief - net is pretty well formed .
+
+dialogue type : s
+C :  And , then the inputs are going to be these kinds of things .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C : 
+
+dialogue type : qh
+C :  is , uh , one , where do you get this i information from ,
+
+dialogue type : qh
+C :  and two , what 's the structure of the belief - net ?
+
+dialogue type : qh^e
+C :  So what are the conditional probabilities of this , that , and the other , given these things ?
+
+dialogue type : s
+C :  And you probably need intermediate nodes .
+
+dialogue type : s^no
+C :  I we don't know what they are yet .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Oh , another thing you want is some information abou I think , about the time of day .
+
+dialogue type : s
+C :  Now , they may wanna call that part of context .
+
+dialogue type : s
+C :  But the time of day matters a lot .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^m^na
+C :  Pe - people don't wanna enter them .
+
+dialogue type : s
+C :  And , if it 's not obvious , you may want to actually uh , point out to people that it 's closed you know , what they 're g going to is closed and they don't have the option of entering it .
+
+dialogue type : s
+C :  So another thing that can come up , and will come up as soon as you get serious about this is , that another option of course is to have a more of a dialogue .
+
+dialogue type : s
+C :  So if someone says something you could ask them .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  And Now , one thing you could do is always ask them ,
+
+dialogue type : s^bd^df
+C :  but that 's boring .
+
+dialogue type : s
+C :  And it also w it also be a pain for the person using it .
+
+dialogue type : s
+C :  So one thing you could do is build a little system that , said , " whenever you got a question like that I 've got one of three answers .
+
+dialogue type : s
+C :  Ask them which one you want . "
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  But that 's , um , not what we 're gonna do .
+
+dialogue type : s^aa
+C :  Oh yeah .
+
+dialogue type : s
+C :  You want the you want the ability to a You want the ability to ask ,
+
+dialogue type : s
+C :  but what you don't wanna do is onl build a system that always asks every time ,
+
+dialogue type : s.%--
+C :  and i
+
+dialogue type : s^df
+C :  That 's not getting at the scientific problem ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  In general you 're you know , it 's gonna be much more complex than that .
+
+dialogue type : s
+C :  a This is purposely a really simple case .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : fg|qh
+C :  Yeah . S so so the way that might come up , if you wanna Suppose you wanted to do that , you might say , " Um , as an intermediate step in your belief - net , is there a Source - Path - Goal schema involved ? "
+
+dialogue type : qy^d^f^g
+C :  OK ?
+
+dialogue type : qh
+C :  And if so , uh , is there a focus on the goal ?
+
+dialogue type : qh
+C :  Or is there a focus on the path ?
+
+dialogue type : s
+C :  or something .
+
+dialogue type : s.%--
+C :  And that could be , uh , one of the conditiona
+
+dialogue type : s
+C :  you know , th the In some piece of the belief - net , that could be the the appropriate thing to enter .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^ar^r|s^df.%--
+C :  No . See , the M - three - L is not gonna give th
+
+dialogue type : s
+C :  What he was saying is , the M - three - L does not have any of that .
+
+dialogue type : s:s
+C :  All it has is some really crude stuff saying , " A person wants to go to a place . "
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  M - three well , M - three - L itself refers to Multimedia Mark - up Language .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^am
+C :  Well , OK .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  Is - i but they c they call it intention lattice ,
+
+dialogue type : %-
+C :  but tha
+
+dialogue type : fg
+C :  Anyway .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s
+C :  So , th they 're gonna give us some cr uh or We can assume that y you get this crude information .
+
+dialogue type : s^e
+C :  About intention ,
+
+dialogue type : s
+C :  and that 's all they 're going to provide .
+
+dialogue type : s
+C :  And they don't give you the kind of object ,
+
+dialogue type : s
+C :  they don't give you any discourse history ,
+
+dialogue type : s
+C :  if you want to keep that you have to keep it somewhere else .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  Well , they they kee they keep it by their lights .
+
+dialogue type : s
+C :  It may it may or may not be what what we want .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^na|s^aa
+C :  If i if Yeah , if it got as simple as that , yeah .
+
+dialogue type : s^df
+C :  But it wouldn't .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C : 
+
+dialogue type : s.%--
+C :  i Go go back to the the uh , th
+
+dialogue type : s^aa|s
+C :  Yeah , that slide .
+
+dialogue type : fg|s
+C :  Yeah , well I think we ought to d a As we have all along , d We we 've been distu distinguishing between situational context ,
+
+dialogue type : s
+C :  which is what you have as context ,
+
+dialogue type : s
+C :  and discourse context ,
+
+dialogue type : s
+C :  which you have as DH ,
+
+dialogue type : s^no
+C :  I don't know what the H means .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bd
+C :  Whatever .
+
+dialogue type : s^cs
+C :  So we can work out terminology later .
+
+dialogue type : s
+C :  So , they 're they 're quite distinct .
+
+dialogue type : s^df
+C :  I mean , you need them both ,
+
+dialogue type : s
+C :  but they 're quite distinct .
+
+dialogue type : s
+C :  And , so what we were talking about doing , a a as a first shot , is not doing any of the linguistics .
+
+dialogue type : s
+C :  Except to find out what seems to be useful .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bd^df
+C :  Uh , this may be a bad dis bad idea ,
+
+dialogue type : s^rt
+C :  but the idea is to take as a first goal , see if we could actually build a belief - net that would make this three way distinction uh , in a plausible way ,
+
+dialogue type : s.%--
+C :  given
+
+dialogue type : s
+C :  these We have all these transcripts
+
+dialogue type : s
+C :  and we 're able to , by hand , extract the features to put in the belief - net .
+
+dialogue type : s:s^bk
+C :  Saying , " Aha !
+
+dialogue type : s^e:s
+C :  here 're the things which , if you get them out of out of the language and discourse , and put them into the belief - net , it would tell you which of these three uh , intentions is most likely . "
+
+dialogue type : s
+C :  And if to actually do that , build it , um you know , run it y y run it on the data where you hand - transcribe the parameters .
+
+dialogue type : s
+C :  And see how that goes .
+
+dialogue type : s
+C :  If that goes well , then we can start worrying about how we would extract them .
+
+dialogue type : qh
+C :  So where would you get this information ?
+
+dialogue type : s
+C :  And , expand it to to other things like this .
+
+dialogue type : s
+C :  But if we can't do that , then we 're in trouble .
+
+dialogue type : s.%--
+C :  I mean th th i i if you can't do this task ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^aa|s
+C :  Uh , uh , yeah , or something .
+
+dialogue type : s
+C :  Well it i I if it if it 's the belief - nets , we we 'll switch to you know , logic or some terrible thing ,
+
+dialogue type : s
+C :  but I don't think that 's gonna be the case .
+
+dialogue type : s
+C :  I think that , uh , if we can get the information , a belief - net is a perfectly good way of doing the inferential combination of it .
+
+dialogue type : qh
+C :  The real issue is , do what are the factors involved in determining this ?
+
+dialogue type : s^no^rt
+C :  And I don't know .
+
+dialogue type : s^co
+C :  Hold on a s Hold on a second .
+
+dialogue type : s
+C :  So , I know .
+
+dialogue type : qy^rt
+C :  Uh , uh , is it clear what 's going on here ?
+
+dialogue type : s
+C :  Take them into account .
+
+dialogue type : s.%-
+C :  But but you don't worry about h
+
+dialogue type : s^m^na
+C :  how to extract them .
+
+dialogue type : s
+C :  So , f let 's find out which ones we need first ,
+
+dialogue type : %-
+C : 
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^cs
+C :  Let 's go back to th Let 's go back to the the the slide of data .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^2|s^aa
+C :  From that task , yeah .
+
+dialogue type : fg|s
+C :  So , uh , I think you all know this , but we are going to actually use this little room
+
+dialogue type : s
+C :  and start recording subjects probably within a month or something .
+
+dialogue type : s
+C :  So , this is not any lo any of you guys ' worry ,
+
+dialogue type : s
+C :  except that we may want to push that effort to get information we need .
+
+dialogue type : s
+C :  So our job is to figure out how to solve these problems .
+
+dialogue type : s
+C :  If it turns out that we need data of a certain sort , then the sort of data collection branch can be , uh , asked to do that .
+
+dialogue type : s
+C :  And one of the reasons why we 're recording the meeting for these guys is cuz we want their help when we d we start doing uh , recording of subjects .
+
+dialogue type : s^ba
+C :  So , yeah y you 're absolutely right , though .
+
+dialogue type : s.%--
+C :  No , you you will not have ,
+
+dialogue type : s
+C :  and there it is ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s.%--
+C :  But you know , y y
+
+dialogue type : fh
+C : 
+
+dialogue type : fg|s
+C :  Oh yeah , but to some extent this is a different discussion .
+
+dialogue type : qy^d^f^g
+C :  OK ?
+
+dialogue type : s
+C :  So . Uh , we we have to have this discussion of th the experiment , and the data collection , and all that sorta stuff
+
+dialogue type : s
+C :  and we do have , um , a student who is a candidate for wizard .
+
+dialogue type : s
+C :  Uh , she 's gonna get in touch with me .
+
+dialogue type : s
+C :  It 's a student of Eve 's .
+
+dialogue type : s
+C :  FEY ,
+
+dialogue type : qy^bu^d^rt
+C :  Fey ?
+
+dialogue type : s^e^rt
+C :  Spelled FEY .
+
+dialogue type : qy.%-
+C : 
+
+dialogue type : qy^bu^d
+C :  You know her ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qy.%-
+C :  Sh - Is sh
+
+dialogue type : s
+C :  She 's graduated .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fg|s
+C :  So , anyway , she 's looking for some more part time work w while she 's waiting actually for graduate school .
+
+dialogue type : s
+C :  And she 'll be in touch .
+
+dialogue type : s
+C :  So we may have someone , uh , to do this ,
+
+dialogue type : s
+C :  and she 's got you know , some background in in all this stuff .
+
+dialogue type : s.%--
+C :  And is a linguist st
+
+dialogue type : fh
+C :  and , so
+
+dialogue type : fg|s
+C :  So . That 's So , Nancy , we 'll have an At some point we 'll have another discussion on exactly wha t t you know , how that 's gonna go .
+
+dialogue type : s
+C :  And um , Jane , but also , uh , Liz have offered to help us do this , uh , data collection and design and stuff .
+
+dialogue type : s
+C :  So , when we get to that we 'll have some people doing it that know what they 're doing .
+
+dialogue type : s
+C :  So , we that 's part of what we 'll have to figure out .
+
+dialogue type : fh
+C :  But , uh ,
+
+dialogue type : s^t^tc
+C :  the The problem that I was tr gonna try to focus on today was , let 's suppose by magic you could collect dialogues in which , one way or the other , you were able to , uh , figure out both the intention ,
+
+dialogue type : s^e
+C :  and set the context ,
+
+dialogue type : s^e
+C :  and know what language was used .
+
+dialogue type : s
+C :  So let 's suppose that we can get that kind of data .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : qh
+C :  The issue is , can we find a way to , basically , featurize it
+
+dialogue type : s
+C :  so that we get some discrete number of features so that , uh , when we know the values to all those features , or as many as possible , we can w come up with the best estimate of which of the , in this case three little intentions , are most likely .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^co
+C :  Go back .
+
+dialogue type : %-
+C :  To v
+
+dialogue type : s
+C :  to View it .
+
+dialogue type : s^f
+C :  OK ?
+
+dialogue type : s
+C :  To Enter it .
+
+dialogue type : s
+C :  Now those It seems to me those are cl you c you have no trouble with those being distinct .
+
+dialogue type : s
+C :  " Take a picture of it "
+
+dialogue type : s
+C :  you you might well want to be a really rather different place than entering it .
+
+dialogue type : s
+C :  And , for an object that 's at all big , uh , sort of getting to the nearest part of it uh , could be quite different than either of those .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : %-
+C :  Well .
+
+dialogue type : fg
+C :  Well , anyway .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : qh
+C :  Is there a construction , or the kind of object ,
+
+dialogue type : s^e
+C :  or w uh , anything else that 's in the si It 's either in the in the s the discourse itself or in the context .
+
+dialogue type : s
+C :  So if it turns out that , whatever it is , you want to know whether the person 's uh , a tourist or not , OK ? that becomes a feature .
+
+dialogue type : s
+C :  Now , how you determine that is another issue .
+
+dialogue type : s:s
+C :  But fo for the current problem , it would just be , " OK , if you can be sure that it 's a tourist , versus a businessman , versus a native , " or something , uh , that would give you a lot of discriminatory power
+
+dialogue type : s:s^fe
+C :  and then just have a little section in your belief - net that said , " pppt ! "
+
+dialogue type : s
+C :  Though sin f in the short run , you 'd set them ,
+
+dialogue type : s
+C :  and see ho how it worked ,
+
+dialogue type : s
+C :  and then in the longer run , you would figure out how you could derive them . From previous discourse or w any anything else you knew .
+
+dialogue type : s^bk|s.%--
+C :  OK . So , first of all is ,
+
+dialogue type : fh|qy
+C :  uh , do e either of you guys , you got a favorite belief - net that you 've , you know , played with ?
+
+dialogue type : s^e
+C :  JavaBayes or something ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fg|s^co
+C :  Well , anyway . f Get one .
+
+dialogue type : s^bk|s
+C :  OK ? So y so one of th one of the things we wanna do is actually , uh , pick a package ,
+
+dialogue type : s
+C :  doesn't matter which one ,
+
+dialogue type : s
+C :  uh , presumably one that 's got good interactive abilities ,
+
+dialogue type : s^df.%--
+C :  cuz a lot of what we 're gonna be d
+
+dialogue type : s
+C :  You know , we don't need the one that 'll solve massive , uh , belief - nets quickly .
+
+dialogue type : %--
+C :  d w
+
+dialogue type : s
+C :  These are not gonna get big in in the foreseeable future .
+
+dialogue type : s
+C :  But we do want one in which it 's easy to interact with and , uh , modify .
+
+dialogue type : s^df
+C :  Because i that 's A lot of what it 's gonna be , is , um , playing with this .
+
+dialogue type : s
+C :  And probably one in which it 's easy to have , um , what amounts to transcript files .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^f
+C :  OK ?
+
+dialogue type : s
+C :  So we make up cases that have these features ,
+
+dialogue type : s.%--:s
+C : 
+
+dialogue type : s
+C :  There 're even ones tha that you can do learning
+
+dialogue type : s
+C :  OK ? So you have all their cases and and their results
+
+dialogue type : s
+C :  and you have a algorithms to go through and run around trying to set the the probabilities for you .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s
+C :  probably that 's not worth it .
+
+dialogue type : s^df
+C :  I mean , my guess is we aren't gonna have enough data that 's good enough to make the these data fitting ones worth it ,
+
+dialogue type : s^df^no
+C :  but I don't know .
+
+dialogue type : s
+C :  So I would say you guy the first task for you two guys is to um , pick a package .
+
+dialogue type : s
+C :  OK , and you wanna it s You know , the standard things
+
+dialogue type : s^e.%--
+C : 
+
+dialogue type : %
+C :  yeah , @ @ .
+
+dialogue type : s
+C :  And , as soon as we have one , we can start trying to , uh , make a first cut at what 's going on .
+
+dialogue type : s
+C :  But it what I like about it is it 's very concrete .
+
+dialogue type : s
+C :  OK ? We we have a we know what the outcomes are gonna be ,
+
+dialogue type : s
+C :  and we have some some data that 's loose ,
+
+dialogue type : s
+C :  we can use our own intuition ,
+
+dialogue type : s
+C :  and see how hard it is ,
+
+dialogue type : s
+C :  and , importantly , what intermediate nodes we think we need .
+
+dialogue type : s
+C :  So it if it turns out that just , thinking about the problem , you come up with things you really need to You know , this is the kind of thing that is , you know , an intermediate little piece in your belief - net . That 'd be really interesting .
+
+dialogue type : s^ar|s
+C :  No , th It turns out that there is a , uh The new end of Java libraries .
+
+dialogue type : s
+C :  OK , and it turns out one called
+
+dialogue type : s
+C :  Which is one that fair people around here use a fair amount .
+
+dialogue type : s^no.%--
+C : 
+
+dialogue type : s
+C :  The obvious advantage of that is that you can then , relatively easily , get all the other Java packages for GUIs or whatever else you might want to do .
+
+dialogue type : s
+C :  So that i that 's I think why a lot of people doing research use that .
+
+dialogue type : s^bd
+C : 
+
+dialogue type : s^no
+C :  I have no idea whether that 's the best choice
+
+dialogue type : s
+C :  an and there 're plenty of people around , students in the department who , you know , live and breathe Bayes - nets .
+
+dialogue type : fh
+C :  So , uh ,
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^ba
+C :  It 's OK .
+
+dialogue type : s
+C :  So , yeah , Kevin would be a good person to start with .
+
+dialogue type : s
+C :  Nancy knows him well .
+
+dialogue type : s^no
+C :  I don't know I don't know whether you guys have met Kevin yet or not ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  So , yeah , we 're sort of committed to XML as the kind of , uh , interchange .
+
+dialogue type : s
+C :  But that 's , you know , not a big deal .
+
+dialogue type : s
+C :  So , in terms of of interchanging in and out of any module we build , It 'll be XML .
+
+dialogue type : s
+C :  And if you 're going off to queries to the ontology , for example , you 'll have to deal with its interface .
+
+dialogue type : s
+C :  But that 's that 's fine
+
+dialogue type : fh
+C :  an and um ,
+
+dialogue type : s
+C :  all of these things have been built with much bigger projects than this in mind .
+
+dialogue type : s
+C :  So they they have worked very hard .
+
+dialogue type : s^e
+C :  It 's kind of blackboards and multi - wave blackboards
+
+dialogue type : s^e.%--
+C :  and ways of interchanging and registering your
+
+dialogue type : s^e
+C :  a And so forth .
+
+dialogue type : %--
+C :  So ,
+
+dialogue type : s
+C :  that I don't think is even worth us worrying about just yet .
+
+dialogue type : s
+C :  I mean if we can get the core of the thing to work , in a way that we 're comfortable with , then we ca we can get in and out of it with , uh , XML , um , little descriptors .
+
+dialogue type : s^e
+C :  I believe .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^na|s^aa
+C :  Uh , you could have an X yeah , you could make and XML format for that . Sure .
+
+dialogue type : %--
+C : 
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : s
+C :  you know , feature value XML format is probably as good a way as any .
+
+dialogue type : s
+C :  So it 's als Yeah , I guess it 's also worth , um , while you 're poking around , poke around for XML packages that um , do things you 'd like .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s.%--
+C :  And the question is , d you c you you 'll have to l We 'll have to l
+
+dialogue type : s^rt
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^na|s^nd
+C :  It 'd be nice , but but I I I do I don't wanna count on it .
+
+dialogue type : s^df
+C :  I mean , you can't you can't run your project based on the speculation that that the data will come ,
+
+dialogue type : s^df^e
+C :  and you don't have to actually design the nets .
+
+dialogue type : s^am
+C :  Could happen .
+
+dialogue type : fg|s
+C :  Yeah . So in terms of of the , um the what the SmartKom gives us for M - three - L packages , it could be that they 're fine , or it could be eeh .
+
+dialogue type : s
+C :  You don't You know , you don't really like it .
+
+dialogue type : s
+C :  So we 're not we 're not abs we 're not required to use their packages .
+
+dialogue type : s.x
+C :  We are required at the end to give them stuff in their format ,
+
+dialogue type : s
+C :  but hey .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  It doesn't control what you do in you know , internally .
+
+dialogue type : qw^br
+C :  Huh ?
+
+dialogue type : s^aa|s
+C :  Yeah bu w I 'd like that this y yeah , this week , to ha to n to have y guys , uh , you know , pick the y you know , belief - net package
+
+dialogue type : s^e
+C :  and tell us what it is , and give us a pointer so we can play with it or something .
+
+dialogue type : s
+C :  And , then as soon as we have it , I think we should start trying to populate it for this problem .
+
+dialogue type : s
+C :  Make a first cut at , you know , what 's going on ,
+
+dialogue type : s
+C :  and probably the ea easiest way to do that is some on - line way .
+
+dialogue type : s
+C :  I mean , you can f figure out whether you wanna make it a web site
+
+dialogue type : s.%-
+C :  or You know , how
+
+dialogue type : s^bk|s
+C :  OK , I wasn't .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^aap^cs.x
+C :  Well , y Well , or both of them speak .
+
+dialogue type : s^no
+C :  We don't care .
+
+dialogue type : s^aap^cs
+C :  Well , I 'd like to also , though , uh , ha have a first cut at what the belief - net looks like .
+
+dialogue type : s^e
+C :  Even if it 's really crude .
+
+dialogue type : qy^d^f^g
+C :  OK ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Right . Yeah .
+
+dialogue type : s.%--
+C :  And , as I said , what I 'd like to do is ,
+
+dialogue type : s:s
+C :  I mean , what would be really great is you bring it in If if if we could , uh , in the meeting , say , you know , " Here 's the package ,
+
+dialogue type : s:s
+C :  here 's the current one we have , "
+
+dialogue type : s:qw
+C :  uh , you know , " What other ideas do you have ? "
+
+dialogue type : s
+C :  and then we can think about this idea of making up the data file .
+
+dialogue type : %--
+C :  Of ,
+
+dialogue type : s
+C :  uh , you know , get a t a p tentative format for it ,
+
+dialogue type : s
+C :  let 's say XML , that says , l you know , " These are the various scenarios we 've experienced . "
+
+dialogue type : s.x
+C :  We can just add to that
+
+dialogue type : s.x
+C :  and there 'll be this this file of them
+
+dialogue type : s
+C :  and when you think you 've got a better belief - net , You just run it against this , um this data file .
+
+dialogue type : s^aa|s
+C :  Oh , yeah , unt until we know more .
+
+dialogue type : b.%
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Yeah . So the answer , Johno , is that these are , at the moment , separate .
+
+dialogue type : s
+C :  Uh , what one hopes is that when we understand how the analyzer works , we can both worry about converting it to English and worry about how it could ex extract the parameters we need for the belief - net .
+
+dialogue type : s^bk|s^no
+C :  Oh , yeah . I don't know .
+
+dialogue type : s
+C :  n None of this is i n Neither of these projects has got a real tight time - line ,
+
+dialogue type : s
+C :  in the sense that over the next month there 's a there 's a deliverable .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  S so uh , it 's opportu in that sense it 's opportunistic .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  You know , just pppt !
+
+dialogue type : s
+C :  go on and do other things .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s
+C :  Probably not then ,
+
+dialogue type : s^df
+C :  cuz y you probably can't drop the mail there anyway .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : qy^d^rt
+C :  Clear ?
+
+dialogue type : s^na
+C :  Of course they use the sample data .
+
+dialogue type : fg|s^t^tc
+C :  OK . We can end the meeting
+
+dialogue type : s
+C :  and call Adam ,
+
+dialogue type : s
+C :  and then we wanna s look at some filthy pictures of Heidelberg .
+
+dialogue type : s
+C :  We can do that as well .
+
+dialogue type : qy^rt
+C :  Uh , is that OK ?
+
+dialogue type : s^bk
+C :  Alright .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : %-
+C :  Ni
+

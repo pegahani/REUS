@@ -1,0 +1,270 @@
+dialogue type : %--
+A :  Uh
+
+dialogue type : s^bk
+A :  Oh OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk.%
+A :  OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  Overlapping digits !
+
+dialogue type : s^bk.%
+A :  Oh !
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^j
+A :  The Aurora theater .
+
+dialogue type : s
+A :  So pairwise .
+
+dialogue type : s^bk|s
+A :  Yeah , just pairwise ,
+
+dialogue type : %--
+A :  or
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : s.%
+A :  That 's German , yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Yeah , yeah .
+
+dialogue type : s^bu
+A :  So , your your ASR results were run on the channels synchronized ,
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yeah sure .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  There were several speakers in it ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^aa|qy.%-
+A : 
+
+dialogue type : s
+A :  Uh , I 've actually done some experiments with cross - correlation
+
+dialogue type : s
+A :  and it seems to work pretty well to to get rid of those those overlaps ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yeah , sure .
+
+dialogue type : s^aa|s^na
+A :  Yeah , in another way ,
+
+dialogue type : s^aa
+A :  yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk|s^cc
+A :  Yeah I 'm working on it .
+
+dialogue type : s^ar|s
+A :  No , with the Transcriber tool , it 's no problem .
+
+dialogue type : s
+A :  Yeah just to load a transcription
+
+dialogue type : s
+A :  takes a long time ,
+
+dialogue type : s
+A :  but not for the wavefile .
+
+dialogue type : s
+A :  The wavefile is there immediately .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  Oh , I 'm tr talking about Transcriber .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^ba
+A :  Whew !
+
+dialogue type : s:s
+A :  It 's the Castle of Ah !
+
+dialogue type : %-
+A :  H
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^ar
+A :  Ooo no .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^m|s^aa
+A :  The question marks , yeah .
+
+dialogue type : qw
+A :  What are those ?
+
+dialogue type : s^bk
+A :  Ah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qw^rt
+A :  So what is the difference between " papers rustling " and " rustling papers " ?
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^na
+A :  Seems so .
+
+dialogue type : s^na|s^aa
+A :  Now it 's at least six times , yeah .
+
+dialogue type : s
+A :  Seven hundred eighty - five instances .
+
+dialogue type : s
+A :  Tickle ?
+
+dialogue type : s
+A :  To the language model model .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qw^br^m
+A :  " tickle " is pronounced " tickle " ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%
+A :  To head .
+
+dialogue type : s^aa|s^na
+A :  Yeah , that 's the training data .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^ba
+A :  Oh great .
+
+dialogue type : s^ba
+A :  Oh great .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^cs
+A :  So I I thought we we sh we sh perhaps we should try to to start with those channelized versions
+
+dialogue type : s^e
+A :  just to just to try it .
+
+dialogue type : s^cs
+A :  Give it Give one tr transcriber the the channelized version of of my speech - nonspeech detection
+
+dialogue type : s
+A :  and look if if that 's helpful for them ,
+
+dialogue type : s
+A :  or just let them try if if that 's better
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Yeah . Yeah .
+
+dialogue type : b
+A :  Yeah .
+

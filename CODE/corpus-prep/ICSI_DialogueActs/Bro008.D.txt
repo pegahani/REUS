@@ -1,0 +1,1113 @@
+dialogue type : s^tc
+D :  OK .
+
+dialogue type : fh
+D :  So , uh
+
+dialogue type : s^co
+D :  You can fill those out , uh after , actually ,
+
+dialogue type : fh
+D :  so
+
+dialogue type : s^rt^tc
+D :  So , I got , uh these results from , uh , Stephane .
+
+dialogue type : s^t
+D :  Also , um , I think that , uh um we might hear later today , about other results .
+
+dialogue type : s.x
+D :  I think s that , uh , there were some other very good results that we 're gonna wanna compare to .
+
+dialogue type : fh|s
+D :  But , r our results from other other places ,
+
+dialogue type : fh
+D :  yeah .
+
+dialogue type : fh|s.x
+D :  Um , I got this from you
+
+dialogue type : s
+D :  and then I sent a note to Sunil about the cuz he has been running some other systems
+
+dialogue type : s^e
+D :  other than the the ICSI OGI one .
+
+dialogue type : fh|s.x
+D :  So um , I wan wanna wanna see what that is .
+
+dialogue type : fh|s.x
+D :  But , uh , you know , so we 'll see what it is comparatively later .
+
+dialogue type : fh|s.%--
+D :  But it looks like , um
+
+dialogue type : s
+D :  You know most of the time , even I mean even though it 's true that the overall number for Danish we didn't improve it
+
+dialogue type : s.%--
+D :  If you look at it individually , what it really says is that there 's , um , uh
+
+dialogue type : s
+D :  Looks like out of the six cases , between the different kinds of , uh , matching conditions out of the six cases , there 's basically , um , a couple where it stays about the same ,
+
+dialogue type : fh|s
+D :  uh , three where it gets better , and one where it gets worse .
+
+dialogue type : fh|s^co^rt
+D :  Uh , go ahead .
+
+dialogue type : s^bk
+D :  Oh ,
+
+dialogue type : s.%--
+D :  and and we have a little time on that and actually
+
+dialogue type : fh
+D :  so
+
+dialogue type : s^r
+D :  We have a little bit of time on that , actually .
+
+dialogue type : s^e
+D :  We have a day or so ,
+
+dialogue type : fh
+D :  so
+
+dialogue type : qw^rt
+D :  When when when do you folks leave ?
+
+dialogue type : s^m^rt
+D :  Sunday ?
+
+dialogue type : fh
+D :  So
+
+dialogue type : fh
+D :  So , uh
+
+dialogue type : fh
+D :  Yeah ,
+
+dialogue type : s.%--
+D :  until Saturday midnight , or something , we have
+
+dialogue type : s
+D :  W we we have time ,
+
+dialogue type : fh
+D :  yeah .
+
+dialogue type : sj^ba
+D :  Well , that would be good .
+
+dialogue type : sj^ba^r
+D :  That 'd be good .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fh|s
+D :  Uh , and , you know , i u when whenever anybody figures it out they should also , for sure , email Hynek
+
+dialogue type : s^df
+D :  because Hynek will be over there telling people what we did ,
+
+dialogue type : s^df
+D :  so he should know .
+
+dialogue type : fh
+D :  Good ,
+
+dialogue type : fh
+D :  OK .
+
+dialogue type : fh
+D :  So , um
+
+dialogue type : s^cc
+D :  So , we 'll we 'll hold off on that a little bit .
+
+dialogue type : sj^ba
+D :  I mean , even with these results as they are , it 's it 's it 's really not that bad .
+
+dialogue type : fh
+D :  But but , uh , um
+
+dialogue type : s
+D :  And it looks like the overall result as they are now , even without , you know , any any bugs being fixed is that , uh , on the the other tasks , we had this average of , uh , forty uh nine percent , or so , improvement .
+
+dialogue type : s
+D :  And here we have somewhat better than that than the Danish , and somewhat worse than that on the German ,
+
+dialogue type : fh|s
+D :  but I mean , it sounds like , uh , one way or another , the methods that we 're doing can reduce the error rate from from mel ceptrum down by , you know a fourth of them to , uh , a half of them .
+
+dialogue type : s
+D :  Somewhere in there , depending on the exact case .
+
+dialogue type : fh
+D :  So
+
+dialogue type : sj^ba
+D :  So that 's good .
+
+dialogue type : s
+D :  I mean , I think that , uh , one of the things that Hynek was talking about was understanding what was in the other really good proposals
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  and trying to see if what should ultimately be proposed is some , uh , combination of things .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  Cuz there 's things that they are doing there that we certainly are not doing .
+
+dialogue type : s
+D :  And there 's things that we 're doing that they 're not doing .
+
+dialogue type : s.x
+D :  And and they all seem like good things .
+
+dialogue type : fh
+D :  So
+
+dialogue type : fh
+D :  So
+
+dialogue type : s^no
+D :  Well , we don't know yet .
+
+dialogue type : fh|s
+D :  Uh , I mean , first place , there 's still this thing to to work out ,
+
+dialogue type : s
+D :  and second place second thing is that the only results that we have so far from before were really development set results .
+
+dialogue type : sj
+D :  So , I think in this community that 's of interest .
+
+dialogue type : s
+D :  It 's not like everything is being pinned on the evaluation set .
+
+dialogue type : fh|s
+D :  But , um , for the development set , our best result was a little bit short of fifty percent .
+
+dialogue type : s
+D :  And the best result of any system was about fifty - four ,
+
+dialogue type : s^e
+D :  where these numbers are the , uh , relative , uh , reduction in , uh , word error rate .
+
+dialogue type : fh|s
+D :  And , um , the other systems were , uh , somewhat lower than that .
+
+dialogue type : s
+D :  There was actually there was much less of a huge range than there was in Aurora one .
+
+dialogue type : s
+D :  In Aurora one there were there were systems that
+
+dialogue type : s
+D :  And here the the worst system still reduced the error rate by thirty - three percent , or something , in development set .
+
+dialogue type : fh|s.x
+D :  So so , you know , sort of everybody is doing things between , well , roughly a third of the errors , and half the errors being eliminated , uh , and varying on different test sets and so forth .
+
+dialogue type : s.%--
+D :  So I think
+
+dialogue type : fh|s
+D :  Um It 's probably a good time to look at what 's really going on and seeing if there 's a there 's a way to combine the best ideas
+
+dialogue type : s
+D :  while at the same time not blowing up the amount of , uh , resources used ,
+
+dialogue type : s
+D :  cuz that 's that 's critical for this this test .
+
+dialogue type : h|s
+D :  Um , uh , the , uh , the there were two systems that were put forth by a combination of of , uh , French Telecom and Alcatel .
+
+dialogue type : fh|s
+D :  And , um they they differed in some respects ,
+
+dialogue type : s.x
+D :  but they e em one was called the French Telecom Alcatel System the other was called the Alcatel French Telecom System , uh , which is the biggest difference , I think .
+
+dialogue type : s
+D :  But but there 're there 're there 're some other differences , too .
+
+dialogue type : fh|s
+D :  Uh , and and , uh , they both did very well ,
+
+dialogue type : fh
+D :  you know ?
+
+dialogue type : fh|s
+D :  So , um , my impression is they also did very well on on the the , uh , evaluation set ,
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s
+D :  you 've - you haven't seen any final results for that
+
+dialogue type : qy^d^g^rt
+D :  yeah .
+
+dialogue type : s.x
+D :  There is a couple pieces to it .
+
+dialogue type : s^e
+D :  There 's a spectral subtraction style piece it was basically , you know , Wiener filtering .
+
+dialogue type : s^e.%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  But some people have done exactly that sort of thing ,
+
+dialogue type : s
+D :  of of and the I mean it 's not To to look in speech only , to try to m to measure these things during speech ,
+
+dialogue type : s
+D :  that 's p that 's not that uncommon .
+
+dialogue type : s
+D :  But i it it so it looks like they did some some , uh , reasonable things ,
+
+dialogue type : fh|s
+D :  uh , and they 're not things that we did , precisely .
+
+dialogue type : s
+D :  We did unreasonable things , which because we like to try strange things ,
+
+dialogue type : s
+D :  and and , uh , and our things worked too .
+
+dialogue type : fh
+D :  And so , um ,
+
+dialogue type : fh|s^cs
+D :  uh , it 's possible that some combination of these different things that were done would be the best thing to do .
+
+dialogue type : s
+D :  But the only caveat to that is that everybody 's being real conscious of how much memory and how much CPU they 're using
+
+dialogue type : s
+D :  because these , uh , standards are supposed to go on cell phones with m moderate resources in both respects .
+
+dialogue type : h|s^nd
+D :  Uh , they didn't report it , if they did .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^df
+D :  I think everybody was focused elsewhere .
+
+dialogue type : fh|s
+D :  Um , now , one of the things that 's nice about what we did is , we do have a a , uh a filtering , which leads to a a , uh a reduction in the bandwidth in the modulation spectrum , which allows us to downsample .
+
+dialogue type : fh|s
+D :  So , uh , as a result of that we have a reduced , um , transmission rate for the bits .
+
+dialogue type : s
+D :  That was misreported the first time out .
+
+dialogue type : s
+D :  It it said the same amount because for convenience sake in the particular way that this is being tested , uh , they were repeating the packets .
+
+dialogue type : s
+D :  So it was they were s they they had twenty - four hundred bits per second , but they were literally creating forty - eight hundred bits per second , um , even though y it was just repeated .
+
+dialogue type : fh|s.%-
+D :  So , uh , in practice
+
+dialogue type : s
+D :  Well , n I mean , this was just a ph phoney thing just to to fit into the the software that was testing the errors channel errors and so on .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  so in reality , if you put this this system in into , uh , the field , it would be twenty - four hundred bits per second , not forty - eight hundred .
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : fh|s
+D :  um , so that 's a nice feature of what what we did .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : fh|s
+D :  but , um , well , we still have to see how it all comes out .
+
+dialogue type : fh|s
+D :  Um , and then there 's the whole standards process , which is another thing altogether .
+
+dialogue type : s
+D :  Uh , probably the day after they leave ,
+
+dialogue type : s
+D :  but we 'll have to we 'll have to stop it the day before we leave .
+
+dialogue type : s^am^rt
+D :  I think tha I think the the meeting is on the thirteenth or something .
+
+dialogue type : fh
+D :  And , uh ,
+
+dialogue type : s.%--
+D :  they , uh
+
+dialogue type : fh
+D :  Right .
+
+dialogue type : fh|s
+D :  And the the , uh , results are due like the day before the meeting or something .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  I th I think I I think they are ,
+
+dialogue type : fg
+D :  yeah .
+
+dialogue type : fh|s^co.x
+D :  So um , since we have a bit farther to travel than some of the others , uh , we 'll have to get done a little quicker .
+
+dialogue type : fh|s
+D :  But , um , I mean , it 's just tracing down these bugs .
+
+dialogue type : s
+D :  I mean , just exactly this sort of thing of , you know , why why these features seem to be behaving differently , uh , in California than in Oregon .
+
+dialogue type : sj^j
+D :  Might have something to do with electricity shortage .
+
+dialogue type : fh|s^j.x
+D :  Uh , we didn't we didn't have enough electrons here
+
+dialogue type : %--
+D :  and
+
+dialogue type : fh
+D :  Uh , but , um
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s
+D :  I mean , it only takes w to run the the two test sets in just in computer time is just a day or so ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : fh
+D :  So
+
+dialogue type : s^bk
+D :  yeah .
+
+dialogue type : s
+D :  So , I think the who the whole reason for having as long as we have , which was like a week and a half , is is because of bugs like that .
+
+dialogue type : fh
+D :  So
+
+dialogue type : fh
+D :  Huh
+
+dialogue type : fh|qy^bu.%--
+D : 
+
+dialogue type : s^bu
+D :  Oh , I guess it 's the same sheets ,
+
+dialogue type : s^bk
+D :  yeah ,
+
+dialogue type : s^bk^r
+D : 
+
+dialogue type : s
+D :  just with the missing columns filled in .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : sj^ba
+D :  Well , that 'll be good .
+
+dialogue type : s^cc
+D :  So , I 'll dis I 'll disregard these numbers .
+
+dialogue type : sj^ba
+D :  That 's that 's that 's good .
+
+dialogue type : h|s.%--
+D :  Uh , well that 's um
+
+dialogue type : h
+D :  yeah
+
+dialogue type : s^cs:qy
+D :  I mean , I think the question is " Is there is there some advantage ? "
+
+dialogue type : s^cs
+D :  I mean , you could just take the best system and say that 's the standard .
+
+dialogue type : s
+D :  But the thing is that if different systems are getting at good things , um , a again within the constraint of the resources , if there 's something simple that you can do
+
+dialogue type : sj^cs
+D :  Now for instance , uh , it 's , I think , very reasonable to have a standard for the terminal 's side and then for the server 's side say , " Here 's a number of things that could be done . "
+
+dialogue type : fh|sj
+D :  So , um , everything that we did could probably just be added on to what Alcatel did ,
+
+dialogue type : sj
+D :  and i it 'd probably work pretty well with them , too .
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : fh|s^rt
+D :  um , uh , that 's one one aspect of it .
+
+dialogue type : s.%--
+D :  And then on the terminal 's side , I don't know how much , um , memory and and CPU it takes , but it seems like the filtering Uh ,
+
+dialogue type : s
+D :  I mean , the VAD stuff they both had ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : fh|s
+D :  And , um , so and they both had some kind of on - line normalization ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s^e
+D :  Of sorts ,
+
+dialogue type : qy^bu^d^rt
+D :  yeah ?
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  so , it seems like the main different there is the is the , uh , filtering .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  shouldn't take a lot of memory to do that Uh , and I also wouldn't think the CPU , uh , would be much either for that part .
+
+dialogue type : s
+D :  So , if you can if you can add those in um then , uh , you can cut the data rate in half .
+
+dialogue type : s
+D :  So it seems like the right thing to do is to on the on the terminal 's side , take what they did , if it if it does seem to generalize well to German and Danish ,
+
+dialogue type : fh|s
+D :  uh , take what they did add in a filter , and add in some stuff on the server 's side
+
+dialogue type : s
+D :  and and and that 's probably a reasonable standard .
+
+dialogue type : fh
+D :  Um Uh
+
+dialogue type : s^aa|s.%-
+D :  Yeah , so that 's that 's that 's what
+
+dialogue type : s
+D :  That would be ideal would be is that they could , you know , they could actually show that , in fact , a combination of some sort , uh , would work even better than what what any of the systems had .
+
+dialogue type : fh|s
+D :  And , um , then it would it would , uh be something to to discuss in the meeting .
+
+dialogue type : fh|s
+D :  But , uh , not clear what will go on .
+
+dialogue type : fh|s
+D :  Um , I mean , on the one hand , um , sometimes people are just anxious to get a standard out there .
+
+dialogue type : s
+D :  I mean , you can always have another standard after that ,
+
+dialogue type : s
+D :  but this process has gone on for a while on already
+
+dialogue type : s
+D :  and and people might just wanna pick something and say , " OK , this is it . "
+
+dialogue type : s
+D :  And then , that 's a standard .
+
+dialogue type : fh|s
+D :  Uh , standards are always optional .
+
+dialogue type : s
+D :  It 's just that , uh , if you disobey them , then you risk not being able to sell your product ,
+
+dialogue type : fh
+D :  or Uh um
+
+dialogue type : s
+D :  And people often work on new standards while an old standard is in place and so on .
+
+dialogue type : s
+D :  So it 's not final even if they declared a standard .
+
+dialogue type : s
+D :  The other hand , they might just say they just don't know enough yet to to declare a standard .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  you you you will be you will become experts on this and know more far more than me about the tha this particular standards process once you you go to this meeting .
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : s
+D :  be interested in hearing .
+
+dialogue type : fh|s^r^tc
+D :  So , uh , I 'd be , uh , interested in hearing , uh , your thoughts now
+
+dialogue type : s^df
+D :  I mean you 're almost done .
+
+dialogue type : s
+D :  I mean , you 're done in the sense that , um , you may be able to get some new features from Sunil , and we 'll re - run it .
+
+dialogue type : fh|s
+D :  Uh , but other than that , you 're you 're basically done ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : fh|s^t
+D :  So , uh , I 'm interested in hearing hearing your thoughts about where you think we should go from this .
+
+dialogue type : s
+D :  I mean , we tried a lot of things in a hurry ,
+
+dialogue type : fh|s
+D :  and , uh , if we can back off from this now and sort of take our time with something , and not have doing things quickly be quite so much the constraint , what what you think would be the best thing to do .
+
+dialogue type : s^bk^rt
+D :  OK .
+
+dialogue type : s
+D :  It 's a novel idea .
+
+dialogue type : s
+D :  Look at the data .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^e
+D :  Or more generally , I guess , what what is causing the degradation .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : s
+D :  The other thing that strikes me , just looking at these numbers is , just taking the best cases ,
+
+dialogue type : s
+D :  I mean , some of these , of course , even with all of our our wonderful processing , still are horrible kinds of numbers .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  the kind of numbers we 're getting are about eight or nine uh p percent error per digit .
+
+dialogue type : s
+D :  This is obviously not usable ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s.x
+D :  I mean , if you have ten digits for a phone number I mean , every now and then you 'll get it right .
+
+dialogue type : s.%--
+D :  I mean , it 's it 's , uh , um
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s
+D :  And and a and and also , um part of what 's nice about this is that this is , uh , um a realistic almost realistic database .
+
+dialogue type : s
+D :  I mean , it 's still not people who are really trying to accomplish something ,
+
+dialogue type : s
+D :  but but , uh , within the artificial setup , it isn't noise artificially added , you know , simulated , uh , additive noise .
+
+dialogue type : s
+D :  It 's real noise condition .
+
+dialogue type : fh|qy^bu^d^rt
+D :  And , um , the the training the training , I guess , is always done on the close talking
+
+dialogue type : qy^d^m
+D :  No ?
+
+dialogue type : b^rt
+D :  Yeah .
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : s^bk
+D :  Oh , OK ,
+
+dialogue type : s
+D :  that explains it partially .
+
+dialogue type : qw.%--
+D :  Wha - what about
+
+dialogue type : %-
+D : 
+
+dialogue type : s^co
+D :  go ahead .
+
+dialogue type : h|s^bk
+D :  Uh , OK ,
+
+dialogue type : fh
+D :  so
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : fh
+D :  So , yeah ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh|s
+D :  And so and i i k it does correspond to a realistic situation in the sense that , um , people might really be trying to , uh , call out telephone numbers or some or something like that , in in their cars
+
+dialogue type : s^e
+D :  and they 're trying to connect to something .
+
+dialogue type : fh
+D :  Um
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^cs
+D :  And the well - matched condition is what you might imagine that you might be able to approach , if you know that this is the application .
+
+dialogue type : s
+D :  You 're gonna record a bunch on people in cars and so forth , and do these training .
+
+dialogue type : s
+D :  And then , uh , when y you sell it to somebody , they will be a different person with a different car , and so on .
+
+dialogue type : sj
+D :  So it 's this is a an optim somewhat optimistic view on it ,
+
+dialogue type : fh|sj
+D :  uh , so , you know , the real thing is somewhere in between the two .
+
+dialogue type : fh
+D :  Uh ,
+
+dialogue type : fh|%-
+D :  uh , but
+
+dialogue type : s.%-
+D :  Even the optimistic one is
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^aa
+D :  right .
+
+dialogue type : fg
+D :  Right ,
+
+dialogue type : s^m
+D :  it doesn't work .
+
+dialogue type : s
+D :  So , in a way , that 's , you know , that 's sort of the dominant thing
+
+dialogue type : s
+D :  is that even , say on the development set stuff that we saw , the , uh , the numbers that , uh , that Alcatel was getting when choosing out the best single numbers , it was just you know , it wasn't good enough for for a a for a real system .
+
+dialogue type : %--
+D : 
+
+dialogue type : fh
+D :  you , um
+
+dialogue type : fh|s^cc
+D :  So , uh , we still have stuff to do .
+
+dialogue type : fh
+D :  Uh , and , uh
+
+dialogue type : s^no
+D :  I don't know
+
+dialogue type : fh|s
+D :  So , looking at the data , where , you know what 's the what 's what 's th what 's characteristic
+
+dialogue type : sj^ba
+D :  i e yeah , I think that 's that 's a good thing .
+
+dialogue type : qy^rt
+D :  Does a any you have any thoughts about what else y you 're thinking that you didn't get to that you would like to do if you had more time ?
+
+dialogue type : fh.%
+D :  Uh
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^na
+D :  Yeah , cuz a lot of time it 's true ,
+
+dialogue type : s^df
+D :  there were a lot of times when we 've tried something and it didn't work right away , even though we had an intuition that there should be something there .
+
+dialogue type : s
+D :  And so then we would just stop it .
+
+dialogue type : fh
+D :  Um
+
+dialogue type : fh|s.%-
+D : 
+
+dialogue type : s^na
+D :  Well , but it was an MSG - like thing , but it wasn't MSG ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : fh|sj
+D :  Uh , you y I think in some case you got some little improvement ,
+
+dialogue type : s
+D :  but it was , you know , sort of a small improvement ,
+
+dialogue type : s
+D :  and it was a a big added complication , so you dropped it .
+
+dialogue type : fh|s
+D :  But , um , that was just sort of one try ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : s
+D :  You just took one filter , threw it there ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s
+D :  And it seems to me that , um , if that is an important idea , which , you know , might be , that one could work at it for a while , as you 're saying .
+
+dialogue type : fh
+D :  And , uh
+
+dialogue type : fh|s^tc
+D :  Uh , and you had , you know , you had the multi - band things also , and , you know , there was issue of that .
+
+dialogue type : fh|s
+D :  Um , Barry 's going to be , uh , continuing working on multi - band things as well .
+
+dialogue type : s
+D :  We were just talking about , um , some , uh , some work that we 're interested in .
+
+dialogue type : s^e
+D :  Kind of inspired by the stuff by Larry Saul with the , uh uh , learning articulatory feature in I think , in the case of his paper with sonorance based on , uh , multi - band information where you have a a combination of gradient learning an and , uh , EM .
+
+dialogue type : fh
+D :  Um , and Um ,
+
+dialogue type : fh|s
+D :  so , I think that , you know , this is a , uh this is a neat data set .
+
+dialogue type : fh|s
+D :  Um , and then , uh , as we mentioned before , we also have the the new , uh , digit set coming up from recordings in this room .
+
+dialogue type : fh|s
+D :  So , there 's a lot of things to work with .
+
+dialogue type : fh
+D :  Um
+
+dialogue type : fh
+D :  and , uh
+
+dialogue type : s^j
+D :  what I like about it , in a way , is that , uh , the results are still so terrible .
+
+dialogue type : fh|s^df.x
+D :  Uh Uh I mean , they 're much better than they were , you know .
+
+dialogue type : s
+D :  We 're talking about thirty to sixty percent , uh , error rate reduction .
+
+dialogue type : sj^ba
+D :  That 's that 's really great stuff to to do that in relatively short time .
+
+dialogue type : s
+D :  But even after that it 's still , you know , so poor that that , uh , no one could really use it .
+
+dialogue type : fh
+D :  So , um
+
+dialogue type : sj^df.%--
+D : 
+
+dialogue type : s
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh|s
+D :  Uh , at one point , uh , Brian and I went downstairs into the the basement where it was it was in a hallway where it was very reverberant
+
+dialogue type : s
+D :  and we we made some recordings there .
+
+dialogue type : s
+D :  And then we we , uh uh , made a simulation of the of the room acoustics there and and applied it to other things ,
+
+dialogue type : fh
+D :  and uh
+
+dialogue type : s
+D :  But it was all pretty artificial ,
+
+dialogue type : s
+D :  and and , you know , how often would you really try to have your most crucial conversations in this very reverberant hallway ?
+
+dialogue type : fh
+D :  Um So ,
+
+dialogue type : fh|s
+D :  uh This is what 's nice about the Aurora data and the data here , is that is that it 's sort of a realistic room situation uh , acoustics acoustic situation , both terms in noise and reflections , and so on
+
+dialogue type : fh
+D :  and n n And , uh ,
+
+dialogue type : fh|s
+D :  uh , with something that 's still relatively realistic , it 's still very very hard to do very well .
+
+dialogue type : fh
+D :  So
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : sj
+D :  No , I I think there 's lots of lots of good things to do with this .
+
+dialogue type : fh
+D :  So
+
+dialogue type : fh
+D :  Um
+
+dialogue type : s^co.%--
+D : 
+
+dialogue type : qy^d^rt
+D :  I guess You were gonna say something else ?
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : qw
+D :  What do you think ?
+
+dialogue type : s^j
+D :  Anything
+
+dialogue type : %
+D :  S b
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s
+D :  Also , uh , I mean , there was just the whole notion of having multiple nets that were trained on different data .
+
+dialogue type : s.%--
+D :  So one form of different data was is from different languages , but the other
+
+dialogue type : fh|s.%--
+D :  Well , i in fact , uh , m in those experiments it wasn't so much combining multiple nets , it was a single net that had different
+
+dialogue type : s:qw
+D :  So , first thing is would it be better if they were multiple nets , for some reason ?
+
+dialogue type : s
+D :  Second thing is , never mind the different languages , just having acoustic conditions rather than training them all up in one ,
+
+dialogue type : qw
+D :  would it be helpful to have different ones ?
+
+dialogue type : fh
+D :  So , um
+
+dialogue type : s
+D :  That was a question that was kind of raised by Mike Shire 's thesis , and on in that case in terms of reverberation .
+
+dialogue type : qy^d^g^rt
+D :  Right ?
+
+dialogue type : s.x
+D :  That that sometimes it might be better to do that .
+
+dialogue type : fh|sj^no
+D :  But , um , I don't think we know for sure .
+
+dialogue type : fh
+D :  So , um
+
+dialogue type : fh
+D :  Right .
+
+dialogue type : s^t
+D :  So , next week , we , uh , won't meet because you 'll be in Europe .
+
+dialogue type : qw^rt
+D :  Whe - when are you two getting back ?
+
+dialogue type : s^aa
+D :  Yeah , that 's right .
+
+dialogue type : s^df
+D :  You 've gotta S have a Saturday overnight ,
+
+dialogue type : qy^bu^d^rt
+D :  right ?
+
+dialogue type : s^bk^m
+D :  Tuesday .
+
+dialogue type : h|sj
+D :  Uh , Amsterdam , I think ,
+
+dialogue type : s^aa
+D :  yeah ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah , yeah .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : fh|s^co^t
+D :  Um So , we 'll skip next week , and we 'll meet two weeks from now .
+
+dialogue type : fh|s^t
+D :  And , uh , I guess the main topic will be , uh , you telling us what happened .
+
+dialogue type : fh
+D :  Uh , so
+
+dialogue type : fh
+D :  Yeah ,
+
+dialogue type : fh|s^t
+D :  well , if we don't have an anything else to discuss , we should , uh , turn off the machine and then say the real nasty things .
+
+dialogue type : s^aa
+D :  Oh yeah , digits !
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : sj^ba
+D :  Good point .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : sj^ba
+D :  good thinking .
+
+dialogue type : qh^co
+D :  Why don't you go ahead .
+

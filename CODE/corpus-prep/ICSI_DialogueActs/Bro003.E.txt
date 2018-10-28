@@ -1,0 +1,441 @@
+dialogue type : z
+E :  Hello .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^m
+E :  At six .
+
+dialogue type : s^co
+E :  Fill in the cube .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bsc
+E :  To fill in the cube .
+
+dialogue type : %
+E :  Oh .
+
+dialogue type : s^t3
+E :  Sixty - one .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^rt
+E :  I th I looks the SAMPA SAMPA phone .
+
+dialogue type : s
+E :  SAMPA phone ? For English uh American English , and the the the language who have more phone are the English .
+
+dialogue type : s^e
+E :  Of the these language .
+
+dialogue type : s
+E :  But n for example , in Spain , the Spanish have several phone that d doesn't appear in the E English and we thought to complete .
+
+dialogue type : s
+E :  But for that , it needs we must r h do a lot of work because we need to generate new tran transcription for the database that we have .
+
+dialogue type : s^aa
+E :  Yeah . Yeah .
+
+dialogue type : s^aa
+E :  Yeah databases .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^2.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  And Italian .
+
+dialogue type : s^ar
+E :  Uh , no , Italian no .
+
+dialogue type : s^ar
+E :  Italian no .
+
+dialogue type : s^aa
+E :  I Italian yes .
+
+dialogue type : s
+E :  Italian ?
+
+dialogue type : s^j
+E :  Like Mexican Spain and Spain .
+
+dialogue type : s
+E :  I think that is more important ,
+
+dialogue type : s
+E :  Mexican Spain .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^rt
+E :  And Spanish too .
+
+dialogue type : s
+E :  Albayzin is the name .
+
+dialogue type : qy^bu^d^rt
+E :  Spanish stories ?
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s.%--
+E :  No . Albayz
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ar
+E :  No no no no .
+
+dialogue type : s^ar^r
+E :  No no no no .
+
+dialogue type : s
+E :  Spanish from Spain .
+
+dialogue type : s^2
+E :  Finnish .
+
+dialogue type : s^aa
+E :  Yeah ,
+
+dialogue type : s
+E :  it 's preparing .
+
+dialogue type : s
+E :  They are preparing .
+
+dialogue type : s.%--
+E :  Also , we can clean that .
+
+dialogue type : s^bk^rt
+E :  Yeah .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s.%
+E :  Here .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  Necessary to put in .
+
+dialogue type : s
+E :  Database three .
+
+dialogue type : s^2
+E : 
+
+dialogue type : s^2
+E :  the HTK model .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^nd
+E :  More than six hours .
+
+dialogue type : s^e
+E :  For the Italian ,
+
+dialogue type : s^aa
+E :  yes .
+
+dialogue type : s
+E :  Maybe one day .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Well .
+
+dialogue type : s^rt
+E :  Uh , M MFCC .
+
+dialogue type : s
+E :  Uh , Ravioli .
+
+dialogue type : b
+E :  mmm
+
+dialogue type : qw
+E :  Um . Who is that ?
+
+dialogue type : s^no
+E :  I don't know .
+
+dialogue type : s^no^r
+E :  I don't know .
+
+dialogue type : s^arp
+E :  It depends .
+
+dialogue type : s^arp
+E :  Depends on the corpus .
+
+dialogue type : s
+E :  For Albayzin I trained on neural network ,
+
+dialogue type : s
+E :  uh , was , um , one day also .
+
+dialogue type : h
+E :  Uh .
+
+dialogue type : s
+E :  I I think the neural net SPERT .
+
+dialogue type : s^aa
+E :  Yes .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  D I begin to work with the Italian database to nnn , to with the f front - end and with the HTK program and the @ @ .
+
+dialogue type : s
+E :  And I trained eh , with the Spanish two neural network with PLP and with LogRASTA PLP .
+
+dialogue type : s^no
+E :  I don't know exactly what is better if if LogRASTA or JRASTA .
+
+dialogue type : b
+E :  Hm - hmm .
+
+dialogue type : b
+E :  Hm - hmm .
+
+dialogue type : s^m
+E :  It 's a bit I 'll do better .
+
+dialogue type : fg|s^cs
+E :  Um , and I think to to to recognize the Italian digits with the neural netw Spanish neural network ,
+
+dialogue type : s^cs
+E :  and also to train another neural network with the Spanish digits ,
+
+dialogue type : s^bsc
+E :  the database of Spanish digits .
+
+dialogue type : s
+E :  And I working that .
+
+dialogue type : s
+E :  But prepa to prepare the the database are difficult .
+
+dialogue type : s
+E :  Was for me , n it was a difficult work last week with the labels
+
+dialogue type : s^df
+E :  because the the program with the label obtained that I have , the Albayzin , is different w to the label to train the neural network .
+
+dialogue type : s^cs
+E :  And that is another work that we must to do , to to change .
+
+dialogue type : s
+E :  Uh , for example Albayzin database was labeled automatically with HTK .
+
+dialogue type : s^df
+E : 
+
+dialogue type : s^df
+E :  it 's not labels by hand .
+
+dialogue type : s^bk^m
+E :  Labels .
+
+dialogue type : s^fa
+E :  I 'm sorry ,
+
+dialogue type : s^fa^r
+E :  I 'm sorry .
+
+dialogue type : s^bk^m
+E :  The labels .
+
+dialogue type : s^fa
+E :  I 'm sorry .
+
+dialogue type : s^bk^m
+E :  The labels .
+
+dialogue type : %--
+E : 
+
+dialogue type : s^aa
+E :  Yes .
+
+dialogue type : s
+E :  The Spanish labels ?
+
+dialogue type : s
+E :  That was in different format ,
+
+dialogue type : s^e
+E :  that the format for the em the program to train the neural network .
+
+dialogue type : s
+E :  I necessary to convert .
+
+dialogue type : %--
+E :  And someti
+
+dialogue type : fh
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah ,
+
+dialogue type : %--
+E :  but n
+
+dialogue type : s^aa
+E :  yes ,
+
+dialogue type : s^df
+E :  because they have one program , Feacalc ,
+
+dialogue type : s^ar
+E :  but no , l LabeCut ,
+
+dialogue type : s^df
+E :  l LabeCut , but don't doesn't , eh , include the HTK format to convert .
+
+dialogue type : fh
+E :  And ,
+
+dialogue type : s^no
+E :  I don't know what .
+
+dialogue type : s
+E :  I ask e even I ask to Dan Ellis what I can do that ,
+
+dialogue type : s
+E :  and h they he say me that h he does doesn't any any s any form to to do that .
+
+dialogue type : s^cc
+E :  And at the end , I think that with LabeCut I can transfer to ASCII format ,
+
+dialogue type : s^e
+E :  and HTK is an ASCII format .
+
+dialogue type : s^cc
+E :  And I m do another , uh , one program to put ASCII format of HTK to ase ay ac ASCII format to Exceed
+
+dialogue type : s
+E :  and they used LabCut to to pass .
+
+dialogue type : s
+E :  Actually that was complicated ,
+
+dialogue type : s
+E :  but well , I know how we can did that do that .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yes ,
+
+dialogue type : s^cs^na
+E :  maybe to , mmm , put together the the label the labels between TIMIT and Spanish or something like that .
+
+dialogue type : b
+E :  Yes .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^nd
+E :  The multiple language .
+
+dialogue type : s^cs
+E :  Maybe for the other language
+
+dialogue type : s^df
+E :  because TIMIT have more phone .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah ,
+
+dialogue type : s
+E :  the tr the transcription , though , for Albayzin is n the transcription are of SAMPA the same , uh , how you say , symbol that SAMPA appear .
+
+dialogue type : s^no
+E :  But I don't know if TIMIT o how is TIMIT .
+
+dialogue type : b
+E :  Yeah .
+

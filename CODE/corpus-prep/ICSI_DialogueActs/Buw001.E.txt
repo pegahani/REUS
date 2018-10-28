@@ -1,0 +1,600 @@
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ba
+E :  It 's a good idea .
+
+dialogue type : qw.%-
+E :  Which way is
+
+dialogue type : s.%
+E :  Mari ?
+
+dialogue type : s
+E :  Y I think your your your thing may be pointing in a funny direction .
+
+dialogue type : s^cs
+E :  Sort of it 's it helps if it points sort of upwards .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^f
+E :  you know .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  So that thing the little th that part should be pointing upwards .
+
+dialogue type : s^na
+E :  That 's it .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ba
+E :  That 's good .
+
+dialogue type : s^ba
+E :  That kind of thing is good .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Oh , yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^ba
+E :  It 's working .
+
+dialogue type : s^aa|s
+E :  Right . I mean , we because you 'd have several people with these pads , you could collect different things .
+
+dialogue type : s^df
+E :  I mean , cuz I tend to take notes which are summaries .
+
+dialogue type : %--
+E : 
+
+dialogue type : s
+E :  I 'm Dan Ellis .
+
+dialogue type : s^cc
+E :  Let me , uh , turn that off .
+
+dialogue type : s^bk|s
+E :  Oh . PZM nearest , nearest , next nearest .
+
+dialogue type : s
+E :  Next one .
+
+dialogue type : s
+E :  Furthest .
+
+dialogue type : s
+E :  PDM - right ,
+
+dialogue type : s
+E : 
+
+dialogue type : s
+E :  PDA - right ,
+
+dialogue type : s
+E :  PDA - left .
+
+dialogue type : s^ft.%
+E :  Thanks .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  Well . But , I mean , maybe a summary is one of the things we 'd want from the output of the system .
+
+dialogue type : qy^d^f^g
+E :  Right ?
+
+dialogue type : s^df
+E :  I mean , they 're something .
+
+dialogue type : s
+E :  It 's a a kind of output you 'd like .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^2
+E :  Activity .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s.%-
+E :  Well , see , there are th
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  But th there is this , um There is this class of queries , which are the things that you didn't realize were important at the time
+
+dialogue type : s^df^e:qy
+E :  but some in retrospect you think " oh , hang on , didn't we talk about that ? "
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  And that 's kind of what this kind of , uh , complete data capture is kind of nicest for .
+
+dialogue type : s^df
+E :  Cuz it 's the things that you wouldn't have bothered to make an effort to record but they get recorded .
+
+dialogue type : s
+E :  So , I mean And th there 's no way of generating those , u u until we just until they actually occur .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa
+E :  Right , right . Exactly .
+
+dialogue type : s:qw
+E :  But I mean , it 's difficult to sort of say " and if I was gonna ask four questions about this , what would they be ? "
+
+dialogue type : s
+E :  Those aren't the kind of things that come up .
+
+dialogue type : s^aa
+E :  Oh , yeah .
+
+dialogue type : s^aa
+E :  Yeah , sure .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  I 've d When we when we have other meetings .
+
+dialogue type : s
+E :  When I have meetings on the European projects , we have someone taking notes .
+
+dialogue type : s^na
+E :  In fact , I often do it .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : qw
+E :  How many people are those meetings ?
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^bd^no
+E :  Well , I don't know .
+
+dialogue type : %--
+E :  f u
+
+dialogue type : s
+E :  I think for this data capture , it would be nice to have a digital camera
+
+dialogue type : s
+E :  just to take pictures of who 's there ,
+
+dialogue type : s
+E :  where the microphones are ,
+
+dialogue type : s
+E :  and then we could also put in what 's on the board .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^e
+E :  for every meeting .
+
+dialogue type : s^ar|s
+E :  Well , no . I mean , I I just think I mean , I think that right now we don't make a record of where people are sitting on the tables .
+
+dialogue type : s
+E :  And that the at some point that might be awfully useful .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %-
+E :  We
+
+dialogue type : %-
+E :  n uh ,
+
+dialogue type : s^df
+E :  Not not as part of the not as a part of the data that you have to recover .
+
+dialogue type : s^df^e.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fh
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  People with radio mikes can go into separate rooms and continue recording without hearing each other .
+
+dialogue type : s^ba
+E :  That 's the nice thing .
+
+dialogue type : s^j^na
+E :  That 's right .
+
+dialogue type : s^ba
+E :  Well , that 's the interesting thing , though .
+
+dialogue type : s
+E :  If we do if we collect four different summaries , you know , we 're gonna get all this weird data about how people perceive things differently .
+
+dialogue type : s
+E :  It 's like this is not what we meant to research .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^ba^na
+E :  It 's kind of nice .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^t3
+E :  Hello .
+
+dialogue type : s^t3
+E :  Dan here .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^t3
+E :  Mari ?
+
+dialogue type : s
+E :  Someone wants to know when you 're getting picked up .
+
+dialogue type : qy^rt
+E :  Is someone picking you up ?
+
+dialogue type : s^bk|s
+E :  OK , five - thirty .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bk^t3
+E :  OK .
+
+dialogue type : s^ft^t3|s^t3
+E :  h Thanks , bye .
+
+dialogue type : s
+E :  That 's that .
+
+dialogue type : s^j^na
+E :  Yeah , really .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^t3
+E :  You you can keep it on .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^df|qy^d^f^g
+E :  Cuz you 'll get cuz you 'll get very different answers from everybody , right ?
+
+dialogue type : fh
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s|qy^d^g
+E :  On the other hand people might try and come up with different ones , right ?
+
+dialogue type : s:s
+E :  They might say " oh , I was gonna say that one
+
+dialogue type : s^e:s
+E :  but now I have to think of something else " .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b.%
+E :  Hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^e
+E :  And " interesting " is more interesting than " important " .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  I mean , there is still this hope that people might actually think of real queries they really want to ask at some point .
+
+dialogue type : s
+E :  And that if if that ever should happen , then we should try and write them down .
+
+dialogue type : s^aa^j|s^j^na
+E :  Yeah , really .
+
+dialogue type : s^e^j
+E :  If they 're real queries .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^2|s^aa
+E :  Research , yeah .
+
+dialogue type : s
+E :  We 'd have to listen to all the data .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^cs
+E :  Get people to ask questions that they def the machine definitely can't answer at the moment ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yes .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa|s^2
+E :  Yeah . Then we 'll know .
+
+dialogue type : fg|%-
+E : 
+
+dialogue type : s
+E :  we need to look at our web page
+
+dialogue type : s^e.%-
+E : 
+
+dialogue type : %-
+E :  that 's p
+
+dialogue type : s^cs
+E :  PDA - free .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  uh , yeah .
+
+dialogue type : b.%
+E :  Right .
+
+dialogue type : s^aa^j
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s.%-
+E :  I mean ,
+
+dialogue type : s^cs
+E :  we should talk about it ,
+
+dialogue type : fh
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg|s
+E :  Yeah , that was uh , that was What he was saying was this he this thing that , uh , Jason had been working on finds web pages that are thematically related to what you 're talking about .
+
+dialogue type : s
+E :  Well , that 's the idea .
+
+dialogue type : s
+E :  So that that that would be a source of text which is supposedly got the right vocabulary .
+
+dialogue type : s
+E :  But it 's obviously very different material .
+
+dialogue type : s^e
+E :  It 's not spoken material , for instance ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Sure .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s|s^aa
+E :  We can do that . Yeah .
+
+dialogue type : s^t1.%
+E :  turn off
+
+dialogue type : qy^bh
+E :  Oh , really ?
+
+dialogue type : s
+E :  It 's those guys .
+
+dialogue type : s^2^j
+E :  Who specifically ask not to be .
+
+dialogue type : s^j:s
+E :  " Hey , look what we found ! "
+
+dialogue type : s^j:s
+E :  " I found this great corpora . "
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^cs.%-
+E :  So we should go go around and s
+
+dialogue type : qy^bu^d^rt
+E :  We should go around and say something interesting that happened at the meeting ?
+
+dialogue type : s
+E :  I had a real revelation about taking pictures .
+
+dialogue type : s^no
+E :  I don't know why
+
+dialogue type : s
+E :  I didn't do this before and I regret it .
+
+dialogue type : s
+E :  So that was very interesting for me .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^ng
+E :  The boards aren't really related to this meeting .
+
+dialogue type : s^df
+E :  I mean , I will take pictures of them ,
+
+dialogue type : fh
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  Well , that 's why I 'll take pictures of them , then .
+
+dialogue type : s^m
+E :  For the moment .
+
+dialogue type : qw
+E :  How are we gonna find that in the data ?
+
+dialogue type : s^bk^j
+E :  Oh , yeah .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : qh^na
+E :  How happy were they ?
+
+dialogue type : s^ba
+E :  That 's great .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^ba
+E :  Perfect .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^ba
+E :  Great .
+

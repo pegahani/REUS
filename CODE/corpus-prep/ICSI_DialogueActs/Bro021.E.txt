@@ -1,0 +1,861 @@
+dialogue type : b
+E :  Oh .
+
+dialogue type : s
+E :  Mmm . I 'm working with VTS .
+
+dialogue type : fh|s
+E :  Um , I do several experiment with the Spanish database first ,
+
+dialogue type : s^e
+E :  only with VTS and nothing more .
+
+dialogue type : s^e
+E :  Not VAD ,
+
+dialogue type : s^e
+E :  no LDA ,
+
+dialogue type : s^e
+E :  nothing more .
+
+dialogue type : s
+E :  Eh , Vectorial Taylor Series .
+
+dialogue type : s
+E :  To remove the noise too .
+
+dialogue type : qw^br
+E :  What ?
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : %-
+E :  If
+
+dialogue type : s^m
+E :  VTS .
+
+dialogue type : s.%--
+E :  I 'm sor
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh
+E :  Well .
+
+dialogue type : s
+E :  Remove some noise but not too much .
+
+dialogue type : fh|s
+E :  And when we put the m m the , em , VAD , the result is better .
+
+dialogue type : s
+E :  And we put everything , the result is better ,
+
+dialogue type : s
+E :  but it 's not better than the result that we have without VTS .
+
+dialogue type : s^ar
+E :  No , no .
+
+dialogue type : s^na
+E :  Is not .
+
+dialogue type : s^no
+E :  Pfft . I don't know
+
+dialogue type : s^df.%--
+E : 
+
+dialogue type : fh
+E :  Hhh ,
+
+dialogue type : h|s^rt
+E :  Uh , I do the experiment using only the f onl eh , to use on only one fair estimation of the noise .
+
+dialogue type : s
+E :  And also I did some experiment , uh , doing , um , a lying estimation of the noise .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : x
+E :  n
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^ar|s
+E :  No , I do that two t did two time .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^tc
+E :  Another thing is the , em the codebook ,
+
+dialogue type : s^bsc
+E :  the initial codebook .
+
+dialogue type : s.%--
+E :  That maybe ,
+
+dialogue type : s
+E :  well , it 's too clean
+
+dialogue type : fh
+E : 
+
+dialogue type : s^df.%--
+E : 
+
+dialogue type : fh
+E :  I don't know .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^cs
+E :  If you want , you c I can say something about the method .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^df
+E :  Because it 's a little bit different of the other method .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  If this if this is the noise signal , uh , in the log domain , we have something like this .
+
+dialogue type : s
+E :  Now , we have something like this .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : qw
+E :  How do you say ?
+
+dialogue type : s
+E :  I will read because it 's better for my English .
+
+dialogue type : %--
+E :  I i given
+
+dialogue type : s
+E :  is the estimate of the PDF of the noise signal
+
+dialogue type : s
+E :  when we have a , um , a statistic of the clean speech and an statistic of the noisy speech .
+
+dialogue type : s
+E :  And the clean speech the statistic of the clean speech is from a codebook .
+
+dialogue type : s
+E :  Mmm ? This is the idea .
+
+dialogue type : s
+E :  Well , like , this relation is not linear .
+
+dialogue type : s
+E :  The methods propose to develop this in a vectorial Taylor series approximation .
+
+dialogue type : s
+E :  No , this in the it 's this is the log domain .
+
+dialogue type : s
+E :  I I must to say that .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  Uh , this this is this
+
+dialogue type : s
+E :  and this is this .
+
+dialogue type : s^bk
+E :  Mm - hmm .
+
+dialogue type : s
+E :  Uh , this is the noisy speech .
+
+dialogue type : s^na
+E :  Yeah . It 's the power spectrum .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : %-
+E :  w o
+
+dialogue type : s
+E :  Yeah . It 's the same .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fg
+E : 
+
+dialogue type : fg
+E :  But , n
+
+dialogue type : fg|s.%-
+E : 
+
+dialogue type : %--
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  And the noise signal .
+
+dialogue type : fg
+E : 
+
+dialogue type : s.%--
+E :  Well , if we apply the log , we have E is n
+
+dialogue type : s
+E :  uh , log E is equal , oh , to log of X plus N .
+
+dialogue type : fh
+E :  And , well ,
+
+dialogue type : s
+E :  uh , we can say that E is equal to log of , um , exponential of X plus exponential of N .
+
+dialogue type : s
+E :  Well , this is this is in the ti the time domain .
+
+dialogue type : s.%--
+E :  Well , we have that ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s.%--
+E :  We have first that , for example , X is equal ,
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E :  Well .
+
+dialogue type : s
+E :  This is the frequency domain
+
+dialogue type : s
+E : 
+
+dialogue type : s^e
+E :  log of X omega ,
+
+dialogue type : s
+E :  but , well , in the time domain we have an exponential .
+
+dialogue type : qy^d^f^g^rt
+E :  No ?
+
+dialogue type : qy^d^f^g^r^rt
+E :  No ?
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I 'm problem .
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s.%--
+E :  But this i
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh
+E :  Well , uh ,
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^ng
+E :  I I can do this incorrectly .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^arp
+E :  Not exactly .
+
+dialogue type : s^ar
+E :  No , no , no .
+
+dialogue type : s^nd
+E :  It 's not the first space .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E :  Well , we can put that X is equal I is equal to log of , uh ,
+
+dialogue type : fh
+E : 
+
+dialogue type : qy^d^rt
+E :  Well , we can put , uh , this ?
+
+dialogue type : qy^bu^d^m^rt
+E :  The top ?
+
+dialogue type : s^bk
+E :  Yeah , yeah , yeah , yeah , yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  uh , we we know that , for example , the log of E plus B is equal to log of E plus log to B .
+
+dialogue type : s.%-
+E :  And we can say here , it i
+
+dialogue type : s^rt
+E :  And we can , uh , put this inside .
+
+dialogue type : s.%--
+E :  And then we can ,
+
+dialogue type : fh
+E :  uh ,
+
+dialogue type : qy^d^f^g
+E : 
+
+dialogue type : s^nd
+E :  Yeah .
+
+dialogue type : s^ar
+E :  No , no , no , no , no , no , no .
+
+dialogue type : s^nd
+E :  This not .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bk
+E :  oh .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^df
+E :  I say if I apply log , I have , uh , log of E is equal to log of , uh in this side , is equal to log of X
+
+dialogue type : s^e
+E :  plus N .
+
+dialogue type : qy^d^g^rt
+E :  No ?
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s
+E :  This is right .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^bu
+E :  We have this ,
+
+dialogue type : qy^d^g^rt
+E :  no ?
+
+dialogue type : s^bk
+E :  Mm - hmm .
+
+dialogue type : s
+E :  S uh , i th we can put here the set transformation .
+
+dialogue type : qy^d^g^rt
+E :  No ?
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s
+E :  In this case , well , we can put here a Y .
+
+dialogue type : s
+E :  Now we can put this .
+
+dialogue type : qy^d^g^rt
+E :  No ?
+
+dialogue type : s
+E :  And here we can multiply by X .
+
+dialogue type : s^aa
+E :  Oh , yes .
+
+dialogue type : s^aa
+E :  Yeah , yeah .
+
+dialogue type : s^na
+E :  That 's true .
+
+dialogue type : s^na^r
+E :  That 's true .
+
+dialogue type : s
+E :  But this this is correct ?
+
+dialogue type : s.%--
+E :  And now I can do it ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s^fe
+E :  pfff !
+
+dialogue type : s
+E : 
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s
+E :  Now it 's correct .
+
+dialogue type : fg|s.%--
+E : 
+
+dialogue type : fh
+E :  Well ,
+
+dialogue type : qy^bu^d.%--
+E :  we have fixed this equa
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s
+E :  This is another linear relation that this to develop this in vector s Taylor series .
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : s^rt
+E :  And for that , well , the goal is to obtain , um est estimate a PDF for the noisy speech
+
+dialogue type : s^e
+E :  when we have a a statistic for clean speech and for the noisy speech .
+
+dialogue type : qy^d^g^rt
+E :  Mmm ?
+
+dialogue type : fh|%--
+E :  And when w
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  well , we know this statistic
+
+dialogue type : s.%--
+E :  and we know the noisy st
+
+dialogue type : s^cs
+E :  well , we can apply first order of the vector st Taylor series of the of the of well , the order that we want , increase the complexity of the problem .
+
+dialogue type : s
+E :  And then when we have a expression , uh , for the mean and variance of the noisy speech , we apply a technique of minimum mean - square estimation
+
+dialogue type : s^e
+E : 
+
+dialogue type : s
+E :  the statistic for clean speech and the statistic of the noisy speech .
+
+dialogue type : s
+E :  This only that .
+
+dialogue type : s
+E : 
+
+dialogue type : %-
+E :  u
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  We have our codebook with different density Gaussian .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^no
+E :  I don't know exactly .
+
+dialogue type : s.%--
+E :  I I need to s
+
+dialogue type : s^no^r
+E :  I don't know exactly .
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s
+E :  I the clean speech the codebook for clean speech , I am using TIMIT .
+
+dialogue type : s
+E :  And I have now , uh , sixty - four Gaus - Gaussian .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E :  I estimate the noises wi
+
+dialogue type : s
+E :  Well , for the noises I only use one Gaussian .
+
+dialogue type : h|s^aa
+E :  Uh , yes .
+
+dialogue type : s^df
+E : 
+
+dialogue type : fh|s^df
+E :  uh , the compensation of the dictionary o one time
+
+dialogue type : s^e
+E :  using the the noise at the f beginning of the sentence .
+
+dialogue type : s
+E :  This is the first experiment .
+
+dialogue type : s
+E :  And I fix this for all the all the sentences .
+
+dialogue type : fh|%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E : 
+
+dialogue type : s^e
+E :  probability e expression of of E .
+
+dialogue type : s^df.%--
+E :  That mean that the VTS mmm , with the VTS we obtain ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  well , we we obtain the means for each Gaussian and the variance .
+
+dialogue type : s
+E :  This is one .
+
+dialogue type : s
+E :  Eh , this is the composition of the dictionary .
+
+dialogue type : s
+E :  This one thing .
+
+dialogue type : s
+E :  And the other thing that this with these methods is to , uh , obtain to calculate this value .
+
+dialogue type : s^df.%--
+E : 
+
+dialogue type : s^r
+E :  uh , we can write that the estimation of the clean speech is equal at an expected value of the clean speech conditional to , uh , the noise signal the probability f of the the statistic of the clean speech and the statistic of the noise .
+
+dialogue type : s
+E :  This is the methods that say that we 're going obtain this .
+
+dialogue type : s
+E :  And we can put that this is equal to the estimated value of E minus a function that conditional to E to the T to the noise signal .
+
+dialogue type : s
+E :  Well , this is this function is the the term after develop this , the term that we we take .
+
+dialogue type : s
+E :  Give PX and , uh , P the noise .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E :  Well , I put before this name ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s^rt
+E :  And I can calculate this .
+
+dialogue type : s
+E :  Uh , this is the Gaussian .
+
+dialogue type : %-
+E :  v
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^rt
+E :  like this ,
+
+dialogue type : s
+E :  but conditional .
+
+dialogue type : s^ar|s^nd.%-
+E :  No , it 's condition
+
+dialogue type : s^nd
+E :  it 's not exactly this .
+
+dialogue type : s
+E :  It 's modify .
+
+dialogue type : fh|s
+E :  Uh , if we have clean speech we have the dictionary for the clean speech , we have a probability f of our our weight for each Gaussian .
+
+dialogue type : qy^d^f^g
+E :  No .
+
+dialogue type : s
+E :  And now , this weight is different now
+
+dialogue type : s^df
+E :  because it 's conditional .
+
+dialogue type : s.%--
+E :  And this I need to to calcu
+
+dialogue type : s^rt
+E :  I know this
+
+dialogue type : s
+E :  and I know this
+
+dialogue type : s^df
+E :  because this is from the dictionary that you have .
+
+dialogue type : s
+E :  I need to calculate this .
+
+dialogue type : s.%--
+E :  And for calculate this , I have an I I can develop an expression that is
+
+dialogue type : s
+E :  that .
+
+dialogue type : s^rt
+E :  I can calculate I can I calculated this value , uh , with the statistic of the noisy speech that I calculated before with the VTS approximation .
+
+dialogue type : s
+E :  And well , normalizing .
+
+dialogue type : s
+E :  And I know everything .
+
+dialogue type : s.%--
+E :  Uh , with the ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  when I develop this in s Taylor Taylor series , I can't , um , calculate the mean and the variance of the for each of the Gaussian of the dictionary for the noisy speech .
+
+dialogue type : x
+E :  Now .
+
+dialogue type : s
+E :  And this is fixed .
+
+dialogue type : s
+E :  If I never do an estimat a newer estimation of the noise , this mean as mean and the variance are fixed .
+
+dialogue type : s
+E :  And for each s uh , frame of the speech the only thing that I need to do is to calculate this
+
+dialogue type : s^e
+E :  in order to calculate the estimation of the clean speech given our noisy speech .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^m^na.%--
+E :  Never cha
+
+dialogue type : s
+E :  This is one of the approximations that I am doing .
+
+dialogue type : s^m^na|s^aa
+E :  Per utterance . Yes .
+
+dialogue type : s^na^r|s^aa^r
+E :  Per utterance . Yes .
+
+dialogue type : %-
+E :  And th
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa^r
+E :  Yeah .
+
+dialogue type : s^df
+E :  It 's fixed , the dictionary .
+
+dialogue type : s^rt
+E :  And the other estimation is when I do the uh on - line estimation , I change the means and variance of th for the noisy speech
+
+dialogue type : s^e
+E :  each time that I detect noise .
+
+dialogue type : s
+E :  I do it uh again this
+
+dialogue type : s^rt
+E :  develop .
+
+dialogue type : s^rt
+E :  Estimate the new mean and the variance of the noisy speech .
+
+dialogue type : s
+E :  And with th with this new s new mean and variance I estimate again this .
+
+dialogue type : h
+E :  Um ,
+
+dialogue type : s^ar|s^nd
+E : 
+
+dialogue type : s^df
+E :  No , it 's I am doing something like an adaptation of the noise .
+
+dialogue type : s
+E :  I estimate mean and variance for each one of the Gaussian of the codebook .
+
+dialogue type : s^bk
+E :  Oh ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I am only using only one .
+
+dialogue type : s^no.%--
+E :  I don't know i
+
+dialogue type : h|s^rt
+E :  Uh , it 's in after the mel filter bank .
+
+dialogue type : s
+E :  Twenty - three .
+
+dialogue type : s
+E :  Uh , the original paper say that only one Gaussian for the noise .
+
+dialogue type : s
+E :  Yeah , maybe isn't the right thing .
+
+dialogue type : b
+E :  Yeah , yeah , yeah .
+
+dialogue type : s^am
+E :  Maybe .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa|s^na
+E :  Yeah . It 's quite complicated .
+
+dialogue type : s
+E :  Oh , it 's it 's the for me it 's the first time that I am working with VTS .
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  It 's another type of approximation because i because it 's a statistic statistic approximation to remove the noise .
+
+dialogue type : s^no
+E :  I don't know .
+
+dialogue type : x
+E :  um
+

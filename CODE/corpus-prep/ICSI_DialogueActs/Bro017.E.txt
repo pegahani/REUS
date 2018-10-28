@@ -1,0 +1,1212 @@
+dialogue type : z
+E :  Yep .
+
+dialogue type : z
+E :  That 's right .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah , that 's usually what we do .
+
+dialogue type : s^df.%--:qw.%--
+E :  We just sorta go around and people say what 's going on , what 's the latest uh
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : sj^ba
+E :  That would be great .
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : sj
+E :  It seemed like there were still some issues ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s^rt
+E :  that they were trying to decide ?
+
+dialogue type : s.%-
+E :  Like the voice activity detector ,
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  Ah .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s^co
+E :  But wait a minute ,
+
+dialogue type : sj
+E :  I thought the endpointing really only helped in the noisy cases .
+
+dialogue type : s^bu
+E :  Oh , but you still have that with the MFCC .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qo^tc
+E :  So what about the issue of um the weights on the for the different systems ,
+
+dialogue type : s^e.%-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^d^rt
+E :  And they 're the staying the same ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qy^d^rt
+E :  You haven't tried that yet ?
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm !
+
+dialogue type : s^fe
+E :  Oh !
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s.%-
+E :  Well you 're you 're basically y
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bs
+E :  So you 're making all your training data more uniform .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^no^rt
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm !
+
+dialogue type : qw^rt
+E :  What is that ?
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b^rt
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^ng
+E :  But you have many of those vectors per phoneme ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s^bk
+E :  Uh - huh .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qw
+E :  How wide are the uh frequency bands ?
+
+dialogue type : qw
+E :  Well how do you how do you uh convert this uh energy over time in a particular frequency band into a vector of numbers ?
+
+dialogue type : qw
+E :  Yeah but what 's the number ?
+
+dialogue type : qy.%-
+E : 
+
+dialogue type : s^bu
+E :  it 's just the amount of energy in that band from f in that time interval .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^bu.%--
+E :  So it 's really w
+
+dialogue type : s^bu
+E :  It 's sort of like saying that what 's happening at one kilohertz depends on what 's happening around it .
+
+dialogue type : s
+E :  It 's sort of relative to it .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s
+E :  Hey Stephane .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : s^aa
+E :  Sure .
+
+dialogue type : s^co
+E :  Go ahead .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : sj
+E :  But you probably won't have anything before the next time we have to evaluate ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Ah .
+
+dialogue type : s^2
+E :  Latency and things .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^fe
+E :  Wow .
+
+dialogue type : qy^rt
+E :  Is he getting married or something ?
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  Well , I mean , I 've known other friends who they they go to Ind - they go back home to India for a month , they come back married ,
+
+dialogue type : qy^d^g
+E :  you know , huh .
+
+dialogue type : s^j
+E :  So he finally had some incentive to finish ,
+
+dialogue type : qy^d^g^rt
+E :  huh ?
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : s^j
+E :  When he knew you were happy ,
+
+dialogue type : qy^d^g^rt
+E :  huh ?
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qy.%--
+E : 
+
+dialogue type : qw^rt
+E :  when is the next uh evaluation ?
+
+dialogue type : qr^d^rt
+E :  June or something ?
+
+dialogue type : s^ar^rt
+E :  No , for uh Aurora ?
+
+dialogue type : s^bk
+E :  Hmm .
+
+dialogue type : s^bk
+E :  Oh , OK .
+
+dialogue type : qy^rt
+E :  Are people supposed to rerun their systems ,
+
+dialogue type : qrr.%-
+E :  or ?
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^bk
+E :  Wow .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qy^rt
+E :  Do you know what the new baseline is ?
+
+dialogue type : sj.%-
+E : 
+
+dialogue type : qy^bu^d^rt
+E :  Using your uh voice activity detector ?
+
+dialogue type : s^aa^m
+E :  Similar , yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Oh , OK .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^fe
+E :  Wow .
+
+dialogue type : qw
+E :  Where 's uh Guenter going ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^fe
+E :  Hmm !
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm !
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^fe
+E :  Wow !
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qw.%--
+E :  How 's your documentation or whatever
+
+dialogue type : qw
+E :  it w what was it you guys were working on last week ?
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qw^rt
+E :  So have you been running some new experiments ?
+
+dialogue type : s
+E : 
+
+dialogue type : qh
+E :  Really ? !
+
+dialogue type : qy^d^rt
+E :  That has no effect ?
+
+dialogue type : qy^rt
+E :  Eh Is this in the baseline ?
+
+dialogue type : qrr.%--
+E : 
+
+dialogue type : s^m.%--
+E : 
+
+dialogue type : s^bk
+E :  uh - huh , uh - huh .
+
+dialogue type : qw^rt
+E :  In some what ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  You 're compressing the range ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa^rt
+E :  Uh - huh .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qy^2^d^rt
+E :  Insertions .
+
+dialogue type : b
+E :  Oh .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s^cs.%-
+E : 
+
+dialogue type : s^cs
+E :  You need to have a genetic algorithm , that basically tries random permutations of these things .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : sj^ba
+E :  You know actually , I don't know that this wouldn't be all that bad .
+
+dialogue type : s
+E :  I mean you you compute the features once ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s
+E : 
+
+dialogue type : fg
+E :  So .
+
+dialogue type : qy^rt
+E :  And is this something that you would adjust for training ?
+
+dialogue type : qrr
+E :  or only recognition ?
+
+dialogue type : s^bu^m
+E :  You would do it on both .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bu
+E :  So for each uh set of exponents that you would try , it would require a training and a recognition ?
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : %--
+E : 
+
+dialogue type : s^bu
+E :  Instead of altering the feature vectors themselves , you you modify the the the Gaussians in the models .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : qw
+E :  But why if you 're if you 're multi if you 're altering the model , why w in the test data , why would you have to muck with the uh cepstral coefficients ?
+
+dialogue type : s^nd
+E :  No . But you 're running your data through that same model .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  All of the all of the mean and variances that correspond to C - one , you put them to zero .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : qy
+E :  But what are you multiplying ?
+
+dialogue type : s
+E :  Cuz those are means ,
+
+dialogue type : qy^d^rt
+E :  right ?
+
+dialogue type : %-
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s^cs
+E :  Yeah , I think you 'd have to modify the standard deviation or something , so that you make it wider or narrower .
+
+dialogue type : b
+E :  Oop .
+
+dialogue type : s^fa
+E :  Sorry .
+
+dialogue type : fg
+E :  So .
+
+dialogue type : s^bu.%--
+E : 
+
+dialogue type : s^bu
+E :  unless it 's exactly right on the mean .
+
+dialogue type : qy^d^g^rt
+E :  Right ?
+
+dialogue type : s
+E :  I mean there 's you 're you 're allowing for less variance .
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^rt
+E :  Couldn't you just do that to the test data and not do anything with your training data ?
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy.%--
+E : 
+
+dialogue type : qy^rt
+E :  if you wanted to try an experiment uh by leaving out say , C - one , couldn't you , in your test data , uh modify the all of the C - one values to be um way outside of the normal range of the Gaussian for C - one that was trained in the model ?
+
+dialogue type : qy^d^rt
+E :  So that effectively , the C - one never really contributes to the score ?
+
+dialogue type : qy.%-
+E :  Do you know what I 'm say
+
+dialogue type : s^aa
+E :  Yeah ,
+
+dialogue type : %-
+E :  someth
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : qw
+E :  But what if you set if to the mean of the model , then ?
+
+dialogue type : s
+E :  And it was a cons you set all C - ones coming in through your test data , you you change whatever value that was there to the mean that your model had .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Oh , that 's true ,
+
+dialogue type : qy^d^g^rt
+E :  right ,
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm . Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b^rt
+E :  Mm - hmm .
+
+dialogue type : qy^d^rt
+E :  You 're talking about the standard deviation ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^rt
+E :  But don't you have to do something to the mean , also ?
+
+dialogue type : %--
+E : 
+
+dialogue type : s
+E :  If your um original data for C - one had a mean of two .
+
+dialogue type : s
+E :  And now you 're you 're you 're changing that by squaring it .
+
+dialogue type : s
+E :  Now your mean of your C - one original data has is four .
+
+dialogue type : s
+E :  But your model still has a mean of two .
+
+dialogue type : s
+E :  So even though you 've expended the range , your mean doesn't match anymore .
+
+dialogue type : qy^rt
+E :  Do you see what I mean ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : fg
+E :  Yeah , so y
+
+dialogue type : s^aa^m
+E :  It 's predictable , yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^cs
+E :  But as a simple thing , you could just just muck with the variance .
+
+dialogue type : s^df
+E :  to get uh this uh this the effect I think that you 're talking about ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s
+E :  Could increase the variance to decrease the importance .
+
+dialogue type : fg|s
+E :  Yeah , because if you had a huge variance , you 're dividing by a large number , you get a very small contribution .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : fg|s
+E :  Yeah , you know actually , this reminds me of something that happened uh when I was at BBN .
+
+dialogue type : s
+E :  We were playing with putting um pitch into the Mandarin recognizer .
+
+dialogue type : s
+E :  And this particular pitch algorithm um when it didn't think there was any voicing , was spitting out zeros .
+
+dialogue type : s.%-
+E :  So we were getting uh when we did clustering , we were getting groups uh of features
+
+dialogue type : fg|s
+E :  yeah , with with a mean of zero and basically zero variance .
+
+dialogue type : fh|s
+E :  So , when ener when anytime any one of those vectors came in that had a zero in it , we got a great score .
+
+dialogue type : s
+E :  I mean it was just , you know , incredibly high score , and so that was throwing everything off .
+
+dialogue type : fh|s
+E :  So if you have very small variance you get really good scores when you get something that matches .
+
+dialogue type : fh|s.%--
+E : 
+
+dialogue type : s.%--
+E :  That 's a way to increase the yeah , n
+
+dialogue type : sj^ba
+E :  That 's interesting .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bu
+E :  That doesn't require any retraining .
+
+dialogue type : s.%-
+E :  So that means it 's just
+
+dialogue type : s
+E :  recognitions .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  You you have a step where you you modify the models , make a d copy of your models with whatever variance modifications you make , and rerun recognition .
+
+dialogue type : s^rt
+E :  And then do a whole bunch of those .
+
+dialogue type : sj
+E :  That could be set up fairly easily I think ,
+
+dialogue type : s.%--
+E :  and you have a whole bunch of
+
+dialogue type : fh
+E : 
+
+dialogue type : sj^ba
+E :  That 's an interesting idea , actually .
+
+dialogue type : %--
+E : 
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : fh
+E :  Huh !
+
+dialogue type : s^aa
+E :  That 's right .
+
+dialogue type : s
+E :  In fact , and and they 're just t right now they 're installing uh increasing the memory on that uh the Linux box .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  Absinthe .
+
+dialogue type : s^m
+E :  Absinthe .
+
+dialogue type : s
+E :  We 've got five processors on that .
+
+dialogue type : s^e
+E :  And two gigs of memory .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Exactly .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qy^d^rt
+E :  See how many cycles we used ?
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s^fe
+E :  Oh , my gosh !
+
+dialogue type : s^bu.%--
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^m.%-
+E : 
+
+dialogue type : s^2
+E :  Idle time .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qy.%--
+E :  Have you ever seen those little
+
+dialogue type : h
+E : 
+
+dialogue type : s^rt
+E :  It 's it 's this thing that 's the shape of a bird and it has a red ball and its beak dips into the water ?
+
+dialogue type : s^j.%--
+E : 
+
+dialogue type : sj^ba
+E :  That 's an interesting experiment .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Ugh !
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : qy^d^rt
+E :  And there wasn't ?
+
+dialogue type : s^fe
+E :  Huh !
+
+dialogue type : s.%-
+E :  Well that 's that 's a really i
+
+dialogue type : sj
+E :  That wouldn't be too difficult to try .
+
+dialogue type : s^cc
+E :  Maybe I could set that up .
+
+dialogue type : %-
+E : 
+
+dialogue type : fg|s
+E :  Yeah , so the first set of uh variance weighting vectors would be just you know one modifying one and leaving the others the same .
+
+dialogue type : s
+E :  And and do that for each one .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa.%--
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  But there could just naturally be low variance .
+
+dialogue type : s^df
+E :  Because I Like , I 've noticed in the higher cepstral coefficients , the numbers seem to get smaller ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : %--
+E :  So d
+
+dialogue type : s
+E :  I mean , just naturally .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Exactly .
+
+dialogue type : sj
+E :  And so it seems like they 're already sort of compressed .
+
+dialogue type : s^e
+E :  The range of values .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qy.%--
+E : 
+
+dialogue type : qy^rt
+E :  if we mail to " Aurora - inhouse " , does that go up to you guys also ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qw.%-
+E : 
+
+dialogue type : s^aa^m.%--
+E :  Yeah we sh
+
+dialogue type : qy^rt
+E :  Do we have a mailing list that includes uh the OGI people ?
+
+dialogue type : s^fe
+E :  Oh !
+
+dialogue type : s^cs
+E :  Maybe we should set that up .
+
+dialogue type : s^df
+E :  That would make it much easier .
+
+dialogue type : s^cs.%--
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^cs
+E :  Maybe we can set that up .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm !
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^fe
+E :  Wow !
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^fe
+E :  Wow !
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qy^rt^t
+E :  Does anybody have anything else ?
+
+dialogue type : %--
+E : 
+
+dialogue type : qy^rt
+E :  Shall we read some digits ?
+
+dialogue type : fg
+E :  So .
+
+dialogue type : s
+E :  Hynek , I don't know if you 've ever done this .
+
+dialogue type : s
+E :  The way that it works is each person goes around in turn , and uh you say the transcript number and then you read the digits , the the strings of numbers as individual digits .
+
+dialogue type : s
+E :  So you don't say " eight hundred and fifty " , you say " eight five oh " , and so forth .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s^aa
+E :  Sure .
+

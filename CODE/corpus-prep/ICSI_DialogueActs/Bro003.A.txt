@@ -1,0 +1,681 @@
+dialogue type : z
+A :  Uh - oh .
+
+dialogue type : s^j
+A :  I 've got to move a bunch of furniture .
+
+dialogue type : s^co
+A :  Let me see .
+
+dialogue type : s
+A :  Yeah , that 's good .
+
+dialogue type : s
+A :  You 're alright ?
+
+dialogue type : qy^rt
+A :  Will that be enough time ?
+
+dialogue type : s
+A :  I guess once you get past the bridge that that would be the worst .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s
+A :  Once you get past the turnoff to the Bay Bridge .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Oh , I
+
+dialogue type : qy^rt
+A :  Did you happen to find out anything about the OGI multilingual database ?
+
+dialogue type : qy^bh^rt
+A :  Oh , they are ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^cs
+A :  And so , ideally , what you 'd wanna do is you 'd wanna run it with and without the target language and the training set for a wide range of languages .
+
+dialogue type : s
+A :  And that way you can say , " Well , " you know , " we 're gonna build it for what we think are the most common ones " ,
+
+dialogue type : s
+A :  but if that somebody uses it with a different language , you know , " here 's what 's you 're l here 's what 's likely to happen . "
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s^no
+A :  I don't know anything about Finnish .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^j
+A :  Resistance is futile .
+
+dialogue type : qw
+A :  So , when you said that you were getting the labels for TIMIT , um , are y what do you mean by that ?
+
+dialogue type : s^bk
+A :  Mmm .
+
+dialogue type : qy^rt
+A :  Were the digits , um , hand - labeled for phones ?
+
+dialogue type : qrr
+A :  Or were they those labels automatically derived ?
+
+dialogue type : s^bk
+A :  Mmm .
+
+dialogue type : s.%--
+A :  I was just wondering because that test you 're t
+
+dialogue type : s
+A :  I I think you 're doing this test because you want to determine whether or not , uh , having s general speech performs as well as having specific speech .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bk
+A :  yeah ,
+
+dialogue type : s
+A :  so I was just wondering if the fact that TIMIT you 're using the hand - labeled stuff from TIMIT might be confuse the results that you get .
+
+dialogue type : s^bk|s^df
+A :  Right , but if it 's better , it may be better because it was hand - labeled .
+
+dialogue type : b.%
+A :  Yeah . OK .
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : qw
+A :  What about the differences in the phone sets ?
+
+dialogue type : s^ar|s^nd
+A :  No , between TIMIT and the the digits .
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : qy^bu^d^rt
+A :  Out of that fifty - six ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Mmm .
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s
+A :  and I think some of them , they were making distinctions between silence at the end and silence at the beginning ,
+
+dialogue type : s
+A :  when really they 're both silence .
+
+dialogue type : s
+A :  I th I think it was things like that that got it mapped down to fifty - six .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  There 's not much difference , really .
+
+dialogue type : s
+A :  And the ones that are gone , I think are I think there was they also in TIMIT had like a glottal stop ,
+
+dialogue type : s^e
+A :  which was basically a short period of silence ,
+
+dialogue type : fh
+A :  and so .
+
+dialogue type : s^no
+A :  I don't know .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : qw
+A :  What about mel cepstrum ?
+
+dialogue type : qy.%--
+A : 
+
+dialogue type : qy^bu^d^rt
+A :  you don't include that because it 's part of the base or something ?
+
+dialogue type : s^cs
+A :  It 'd be an interesting test just to have just to do MFCC with the neural net
+
+dialogue type : s^e
+A :  and everything else the same .
+
+dialogue type : s^cs^e
+A :  Compare that with just M - MFCC without the the net .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : qw^rt
+A :  Where did th where did that come from ?
+
+dialogue type : qy^bu^d^rt
+A :  Digits ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : qy^rt
+A :  Is that Was that distributed with Aurora ,
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : qw.%-
+A :  Where did that ?
+
+dialogue type : qw
+A :  What about TI - digits ?
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : s^bk
+A :  Oh . Oh OK .
+
+dialogue type : b
+A :  Ah .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : qw^cs
+A :  What about combinations of things ?
+
+dialogue type : s^nd
+A :  Well , you just select multiple things on the one dimension .
+
+dialogue type : s^rt
+A :  When you do that , you 're increasing the size of the inputs to the net .
+
+dialogue type : qy
+A :  Do you have to reduce the hidden layer , or something ?
+
+dialogue type : s^ar
+A :  No , no ,
+
+dialogue type : s^bu
+A :  I 'm I 'm just wondering about number of parameters in the net .
+
+dialogue type : qy^bu^rt
+A :  Do you have to worry about keeping that the same ,
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : qw
+A :  But wh what about a net that 's trained on multiple languages , though ?
+
+dialogue type : qy^bu^rt
+A :  Is that just separate nets for each language then combined ,
+
+dialogue type : qrr
+A :  or is that actually one net trained on ?
+
+dialogue type : s^2^bu
+A :  In one net .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^no
+A :  I don't know .
+
+dialogue type : s^arp^bu|qy^d^g^rt
+A :  Depends on the corpuses , right ?
+
+dialogue type : qy^rt
+A :  Is it faster to do it on the SPERT ,
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : qh^bk^rt
+A :  Is it ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bs
+A :  So you 're just having a problem converting the labels .
+
+dialogue type : s^ar
+A :  Nuh - uh .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^bk|s^no.%--
+A : 
+
+dialogue type : qy.%--
+A : 
+
+dialogue type : s^bs
+A :  you said Nutmeg
+
+dialogue type : qw^bu^rt
+A :  and what was the other one ?
+
+dialogue type : s^bk^m
+A :  Mustard .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Right , right .
+
+dialogue type : s^cc
+A :  Well , I 'll check on that .
+
+dialogue type : s^cs
+A :  What you can do , when you 're on that machine , is , uh , just go to the slash - scratch directory , and do a DF minus K ,
+
+dialogue type : s
+A :  and it 'll tell you if there 's space available .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s
+A :  So there 's the slash - X - whatever disks , and then there 's slash - scratch .
+
+dialogue type : s^e
+A :  And both of those two kinds are not backed up .
+
+dialogue type : s^e
+A :  And if it 's called " slash - scratch " , it means it 's probably an internal disk to the machine .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s^e
+A :  And so that 's the kind of thing where , like if um , OK , if you don't have an NT , but you have a a a Unix workstation , and they attach an external disk , it 'll be called " slash - X - something " uh , if it 's not backed up
+
+dialogue type : s^e
+A :  and it 'll be " slash - D - something " if it is backed up .
+
+dialogue type : s^e
+A :  And if it 's inside the machine on the desk , it 's called " slash - scratch " .
+
+dialogue type : s
+A :  But the problem is , if you ever get a new machine , they take your machine away .
+
+dialogue type : s
+A :  It 's easy to unhook the external disks ,
+
+dialogue type : s
+A :  put them back on the new machine ,
+
+dialogue type : s
+A :  but then your slash - scratch is gone .
+
+dialogue type : s
+A :  So , you don't wanna put anything in slash - scratch that you wanna keep around for a long period of time .
+
+dialogue type : s
+A :  But if it 's a copy of , say , some data that 's on a server , you can put it on slash - scratch
+
+dialogue type : s^df
+A :  because , um , first of all it 's not backed up ,
+
+dialogue type : s^df
+A :  and second it doesn't matter if that machine disappears and you get a new machine
+
+dialogue type : s^df
+A :  because you just recopy it to slash - scratch .
+
+dialogue type : s^df
+A :  So tha that 's why I was saying you could check slash - scratch on those on on , um , Mustard and and Nutmeg to see if if there 's space that you could use there .
+
+dialogue type : s^cs
+A :  You could also use slash - X - whatever disks on Mustard and Nutmeg .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s^bk
+A :  Yeah ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : %--
+A :  I mean ,
+
+dialogue type : s^bk
+A :  yeah ,
+
+dialogue type : %--
+A : 
+
+dialogue type : s^cs
+A :  yeah , it 's better to have things local if you 're gonna run over them lots of times so you don't have to go to the network .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg|s.%--
+A : 
+
+dialogue type : qy^rt
+A :  Uh , is this the appropriate time to talk about the disk space stuff ?
+
+dialogue type : s
+A :  I 've started looking at , um , disk space .
+
+dialogue type : s
+A :  Dan David , um , put a new , um , drive onto Abbott , that 's an X disk ,
+
+dialogue type : s^e
+A :  which means it 's not backed up .
+
+dialogue type : fh
+A :  So ,
+
+dialogue type : fh|s
+A :  um , I 've been going through and copying data that is , you know , some kind of corpus stuff usually , that that we 've got on a CD - ROM or something , onto that new disk to free up space on other disks .
+
+dialogue type : s
+A :  And , um , so far , um , I 've copied a couple of Carmen 's , um , databases over there .
+
+dialogue type : s
+A :  We haven't deleted them off of the slash - DC disk that they 're on right now in Abbott ,
+
+dialogue type : fh
+A :  um ,
+
+dialogue type : s^cs
+A :  uh , but we I would like to go through sit down with you about some of these other ones and see if we can move them onto , um , this new disk also .
+
+dialogue type : s^df
+A :  There 's there 's a lot more space there ,
+
+dialogue type : s^df
+A :  and it 'll free up more space for doing the experiments and things .
+
+dialogue type : s
+A :  So , anything that that you don't need backed up , we can put on this new disk .
+
+dialogue type : s^cs
+A :  Um , but if it 's experiments and you 're creating files and things that you 're gonna need , you probably wanna have those on a disk that 's backed up , just in case something goes wrong .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : fh
+A :  Um
+
+dialogue type : s
+A :  So far I 've I 've copied a couple of things ,
+
+dialogue type : s
+A :  but I haven't deleted anything off of the old disk to make room yet .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s
+A :  and I haven't looked at the any of the Aurora stuff ,
+
+dialogue type : s^e
+A :  except for the Spanish .
+
+dialogue type : s^cs
+A :  So I I guess I 'll need to get together with you and see what data we can move onto the new disk .
+
+dialogue type : s
+A :  I think that would be a I think that 's a big big deal .
+
+dialogue type : s^df
+A :  Because the you know , the thing that Sunil was talking about , uh , with the labels , uh , labeling the database when it got to the noisy stuff ?
+
+dialogue type : s^df
+A :  The That that really throws things off .
+
+dialogue type : s
+A :  You know , having the noise all of a sudden , your your , um , speech detector ,
+
+dialogue type : s^bsc.%--
+A : 
+
+dialogue type : qw
+A :  What was it ?
+
+dialogue type : qw^rt
+A :  What was happening with his thing ?
+
+dialogue type : s
+A :  He was running through these models very quickly .
+
+dialogue type : s
+A :  He was getting lots of , uh , uh insertions , is what it was ,
+
+dialogue type : s^e
+A :  in his recognitions .
+
+dialogue type : qo^cs^rt
+A :  What about training up a , um , a multilingual net ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  Another year .
+
+dialogue type : s
+A :  So you 'd have to create a mapping from each language to the superset .
+
+dialogue type : s^ng
+A :  It uses special diacritics and stuff , which you can't do with ASCII characters .
+
+dialogue type : s
+A :  So the SAMPA 's just mapping those .
+
+dialogue type : s^bu
+A :  So they just throw the speech from all different languages together ,
+
+dialogue type : qy^bu^d^rt
+A :  then cluster it into sixty or fifty or whatever clusters ?
+
+dialogue type : s^2
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qr^d.%-
+A :  Automatically derived broad classes , or ?
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : qy^bu^d^rt
+A :  So you 're saying that there may not be enough information coming out of the net to help you discriminate the words ?
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : qy^bu.%--
+A :  So the targets of the net are these ?
+
+dialogue type : qy^bu^d^m^na
+A :  Articulatory features .
+
+dialogue type : qy^bu^d^rt
+A :  But that implies that you can have more than one on at a time ?
+
+dialogue type : fh
+A :  Ah .
+
+dialogue type : fh
+A :  OK .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s^cs
+A :  We could do an interesting cheating experiment with that too .
+
+dialogue type : s^cs^e
+A :  We could I don't know , if you had uh the phone labels , you could replace them by their articulatory features
+
+dialogue type : s^cs^e
+A :  and then feed in a vector with those uh , things turned on based on what they 're supposed to be for each phone
+
+dialogue type : s^e
+A :  to see if it if you get a big win .
+
+dialogue type : qy^f^rt
+A :  Do you know what I 'm saying ?
+
+dialogue type : h
+A :  So ,
+
+dialogue type : fh
+A :  um ,
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : s^e
+A :  well , it 's gonna have probabilities ,
+
+dialogue type : s
+A :  but let 's say that they were ones and zeros ,
+
+dialogue type : s.%--
+A :  then y and you know for each ,
+
+dialogue type : fh
+A :  um ,
+
+dialogue type : s^no
+A :  I don't know if you know this for your testing data ,
+
+dialogue type : s^df
+A :  but if you know for your test data , you know , what the string of phones is and and you have them aligned , then you can just instead of going through the net , just create the vector for each phone and feed that in
+
+dialogue type : s^e
+A :  to see if that data helps .
+
+dialogue type : s
+A :  Eh , eh , what made me think about this is , I was talking with Hynek and he said that there was a guy at A T - andT who spent eighteen months working on a single feature .
+
+dialogue type : s^e.%-
+A : 
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s^aa
+A :  Right ,
+
+dialogue type : s^bk
+A :  OK ,
+
+dialogue type : b
+A :  right .
+
+dialogue type : s^bu|qy^d^g^rt
+A :  And they they had done a cheating experiment or something , right ?
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^df
+A :  Well , Hynek said that that , I guess before they had him work on this , they had done some experiment where if they could get that one feature right , it dramatically improved the result .
+
+dialogue type : s^df
+A :  So I was thinking , you know it made me think about this ,
+
+dialogue type : s^e
+A :  that if it 'd be an interesting experiment just to see , you know , if you did get all of those right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  And then you also don't know what error they 've got on the HTK side .
+
+dialogue type : qy^d^f^g^rt
+A :  You know ?
+
+dialogue type : s
+A :  It sort of gives you your the best you could hope for , kind of .
+

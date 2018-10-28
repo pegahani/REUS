@@ -1,0 +1,42 @@
+dialogue type : z
+E :  Hello ?
+
+dialogue type : h|s^cs^no^rt
+E :  Um . I could go check .
+
+dialogue type : s^bk
+E :  That 's right .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : %-
+E :  We 're
+
+dialogue type : s^ng
+E :  We need labels .
+
+dialogue type : s
+E :  we don't have frame frame level transcriptions .
+
+dialogue type : s^cs
+E :  S But we could use uh the the noisy version that TIMIT ,
+
+dialogue type : s
+E :  which you know , is similar to the the noises found in the TI - digits um portion of Aurora .
+
+dialogue type : s^t1.%
+E :  Another person 's voice .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+

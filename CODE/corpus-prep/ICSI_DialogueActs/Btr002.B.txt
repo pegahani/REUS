@@ -1,0 +1,327 @@
+dialogue type : z
+B :  Hello ?
+
+dialogue type : z
+B :  Hmm .
+
+dialogue type : z
+B :  Hello ?
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  Hello ?
+
+dialogue type : s^t1
+B :  Oh , there 's Hold on .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s.%-
+B :  And now they have those strange computerized voices that n
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^aa
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s
+B :  I didn't n even even know you could do that .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : %-
+B :  Ni
+
+dialogue type : s^na
+B :  Oh , that 'd be good . That would be good .
+
+dialogue type : s
+B :  The little accent thingy .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^2|s^aa
+B :  By the light switch , yeah .
+
+dialogue type : s
+B :  Ready .
+
+dialogue type : s^aa|s
+B :  Yeah , it doesn't really matter .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  Or in the beginning ,
+
+dialogue type : s^e
+B :  the very beginning .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s
+B :  I wonder if like Microsoft has a word for it .
+
+dialogue type : s
+B :  Bling .
+
+dialogue type : s
+B :  Let 's not make things hard on ourselves later .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Huh .
+
+dialogue type : qw.%
+B :  What ?
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^na
+B :  I can stay .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : fh
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ba
+B :  Oh , god !
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s.%-
+B :  No , I don't
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Right . It 's something you 're not interacting with ,
+
+dialogue type : s^e
+B :  you 're just listening .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s
+B :  Unless you 're on , uh , talking on the phone ,
+
+dialogue type : s
+B :  and the phone is the levels are funny .
+
+dialogue type : s
+B :  Then you hear it .
+
+dialogue type : s
+B :  So , th it 's kind of like that .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^bk
+B :  Ah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm !
+
+dialogue type : %-
+B : 
+
+dialogue type : s^ba
+B :  " Hmm !
+
+dialogue type : s
+B :  I hadn't thought of that . "
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Hhh .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm . OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm !
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm !
+
+dialogue type : b.%
+B :  Oh .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm .
+

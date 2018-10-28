@@ -1,0 +1,393 @@
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : sj
+C :  I guess it could be even better ,
+
+dialogue type : s^df
+C :  because the voice activity detector that I choosed is something that cheating , it 's using the alignment of the speech recognition system ,
+
+dialogue type : s^e
+C :  and only the alignment on the clean channel , and then mapped this alignment to the noisy channel .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  But maybe I I mean we are not too far from from fifty percent , from the new baseline .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fg
+C :  Well .
+
+dialogue type : s
+C :  We are around fifty , fifty - five .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : h
+C :  Yeah .
+
+dialogue type : s^no.%-
+C : 
+
+dialogue type : s
+C :  Yeah , because it de it depends on the weightings
+
+dialogue type : %--
+C : 
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : fh
+C :  But .
+
+dialogue type : fh
+C :  Mm - hmm .
+
+dialogue type : h
+C :  Yeah ,
+
+dialogue type : s^rt
+C :  finally we we 've not finished with this .
+
+dialogue type : s
+C :  We stopped .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  Well , we have a document that explain a big part of the experiments ,
+
+dialogue type : %--
+C :  but
+
+dialogue type : s
+C :  it 's not , yeah , finished yet .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^rt
+C :  We 've fff done some strange things like removing C - zero or C - one from the the vector of parameters ,
+
+dialogue type : s
+C :  and we noticed that C - one is almost not useful at all .
+
+dialogue type : s^rt
+C :  You can remove it from the vector , it doesn't hurt .
+
+dialogue type : h
+C :  Um .
+
+dialogue type : s^m.%--
+C : 
+
+dialogue type : s^ar
+C :  No ,
+
+dialogue type : s^rt
+C :  in the proposal .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b.%
+C :  Mm - hmm .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^aap
+C :  Well , yeah , but we have several means .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : %
+C :  Right ?
+
+dialogue type : s^co.%
+C :  Wait .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : %-
+C : 
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s
+C :  But I think it 's uh the The variance is on on the denominator in the in the Gaussian equation .
+
+dialogue type : sj
+C :  So . I think it 's maybe it 's the contrary .
+
+dialogue type : s.x
+C :  If you want to decrease the importance of a c parameter , you have to increase it 's variance .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^aa
+C :  That 's right .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^cs^rt
+C :  I think What I see What could be done is you don't change your features , which are computed once for all ,
+
+dialogue type : s
+C :  but you just tune the model .
+
+dialogue type : s^rt
+C :  So . You have your features .
+
+dialogue type : s^rt
+C :  You train your your model on these features .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fg
+C :  Well .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^2
+C :  Just adjust the model ,
+
+dialogue type : b
+C :  yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : s
+C :  it becomes more flat
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  No ,
+
+dialogue type : s^aa
+C :  that 's right .
+
+dialogue type : s.%-
+C :  So it 's
+
+dialogue type : s
+C :  just tuning the models and testing , actually .
+
+dialogue type : s
+C :  It would be quick .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^am
+C :  Maybe .
+
+dialogue type : %-
+C :  They t
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  They have smaller means , also .
+
+dialogue type : h
+C :  Uh .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^cs
+C :  We can set up a webcam maybe .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : h|s^ar
+C :  Uh no .
+
+dialogue type : s^ar
+C :  We don't have .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qo
+C :  What about Harry ?
+
+dialogue type : fh|s^rt
+C :  Uh . We received a mail last week and you are starting to to do some experiments .
+
+dialogue type : s
+C :  And use this Intel version .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Well , the the only thing I would check is if he does he use Intel math libraries ,
+
+dialogue type : s
+C :  because if it 's the case , it 's maybe not so easy to use it on another architecture .
+
+dialogue type : s^bk
+C :  Ah yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^2
+C :  On Intel architecture maybe .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C :  Well .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s
+C :  Well there are at least there are optimized version for their architecture .
+
+dialogue type : s^no
+C :  I don't know .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+

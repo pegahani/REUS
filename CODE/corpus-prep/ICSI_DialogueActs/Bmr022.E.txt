@@ -1,0 +1,675 @@
+dialogue type : qy^rt
+E :  Is it on ?
+
+dialogue type : s^cs
+E :  One of the things that Adam said that I thought would be a good idea would be , um , if we g used different beeps .
+
+dialogue type : s
+E :  So for example if we alternated between two beeps , a high and a low .
+
+dialogue type : %-
+E :  th
+
+dialogue type : s
+E :  Uh , well in in some email that , uh , we had .
+
+dialogue type : s^bk|s^df.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Sort of a text template ,
+
+dialogue type : s^df^no
+E :  but I don't know how we can do that .
+
+dialogue type : s^ng
+E :  Well , l I I thought it was a lot more than that .
+
+dialogue type : s
+E :  They were three off , basically .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  Well the only the only question about that that I have is , um , I think Brian has to put all this stuff onto a tape .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.x
+E :  Can he send them I guess he could send them multiple tapes
+
+dialogue type : fh
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  Well , the only other issue is we 'd have to worry about reassembling them in the proper order .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^2
+E :  Individual channels .
+
+dialogue type : fg|s.%-
+E : 
+
+dialogue type : s
+E :  We have the original wavefile with all the beeps .
+
+dialogue type : s^ba
+E :  It would be very good .
+
+dialogue type : s^aa
+E :  Yeah , very low .
+
+dialogue type : s^cs
+E :  It could t it could There could be some missing ones .
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  Increasingly high higher frequencies .
+
+dialogue type : s^df^na.%-
+E : 
+
+dialogue type : s^df
+E :  And it would it seems like it would help them ,
+
+dialogue type : s^e
+E :  you know , if they just finished a long passage and they heard one beep and then they hear it again , they know it 's the same beep .
+
+dialogue type : s^e
+E :  Versus if they heard a slightly different one .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^cs
+E :  Maybe I should write to Brian and tell him what the problem was
+
+dialogue type : s^e
+E :  and what our proposed solutions are .
+
+dialogue type : s^e
+E :  See what he thinks would work best with them .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s
+E :  And there are some cases where there 's , um , very little speech before you hear a beep .
+
+dialogue type : s
+E :  So you hear a little bit of speech , beep ,
+
+dialogue type : s
+E :  a little bit of speech , beep .
+
+dialogue type : s
+E :  Maybe three of those in a row ,
+
+dialogue type : qh
+E :  and was that three beeps ,
+
+dialogue type : qh^e
+E :  was that two beeps ?
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  They 've got headphones
+
+dialogue type : s
+E :  and then I guess they have a computer ,
+
+dialogue type : s
+E :  and they have a foot pedal
+
+dialogue type : s^e
+E :  which lets them quickly scan back and forth through the tape .
+
+dialogue type : %--
+E :  I i t i s
+
+dialogue type : s^e
+E :  makes the tape go real fast forward or fast backward .
+
+dialogue type : s
+E :  And so they can hear something , then step on the pedal and quickly rewind and go back and hear it again .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I think they 're probably going over and over f sections .
+
+dialogue type : s
+E :  And then they get confused about whether they 've already put that beep ,
+
+dialogue type : qh
+E :  or if they heard , you know , three beeps in a row , was that three or two ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s^ba^rt
+E :  Oh , that 's an interesting idea .
+
+dialogue type : s^cs
+E :  No , no , no . But wait , maybe maybe what we have instead of a beep is a , uh , synthesized number .
+
+dialogue type : s^cs
+E :  And they put the number in when they hear it .
+
+dialogue type : s.%--
+E :  So , inst replacing the beep with " twenty - three " ,
+
+dialogue type : s.%--
+E :  " twenty - four " ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  And then they have to transcribe what that number is each time .
+
+dialogue type : s^aa|s.%-
+E : 
+
+dialogue type : s
+E :  There 'd be some kind of mark in front of it .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^cs
+E :  Or a beep and the number .
+
+dialogue type : b
+E :  Uh , right .
+
+dialogue type : s^cs
+E :  In fact , we could put it at the beginning of each utterance .
+
+dialogue type : s
+E :  We could say " beep one " .
+
+dialogue type : s
+E :  And then they 'll hear the speech .
+
+dialogue type : s^cs.%-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa|s
+E :  Yeah , and u I think it would I Actually , I thi I like that .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Keep things from getting out of sequence .
+
+dialogue type : s
+E :  If they heard it over again they would know . It would be obvious from their transcript whether they did that one or not .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  And we have plenty of digits data ,
+
+dialogue type : fh
+E :  so .
+
+dialogue type : %-
+E :  We
+
+dialogue type : s^aa|s^cc.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^cc.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  I was thinking there was on the order of fifteen hundred segments ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bk|qy^bu^d^rt
+E :  Oh , of a of a segment that they 're hearing ?
+
+dialogue type : s^no
+E :  I don't know .
+
+dialogue type : s^no^r
+E :  I don't know .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg|s^cs.%-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s.%-
+E :  You know , Liz , all we would re
+
+dialogue type : s
+E :  I mean if in terms of the alignment , actually , all we would need is we wouldn't even need words .
+
+dialogue type : s
+E :  We would need a general speech model and a beep model .
+
+dialogue type : s^df
+E :  Cuz all we 're really concerned about is missing beeps or too many beeps .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg|s
+E :  Well l I guess what I 'm thinking of is that w that a lot of times there will be they 'll put in question marks , that represent some unknown amount of speech ,
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Right ,
+
+dialogue type : %-
+E :  h
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg|s^cs
+E :  Right . Well , what I was thinking is , map all the speech to the reject model .
+
+dialogue type : s^cs^e
+E :  And then you have a beep model .
+
+dialogue type : s
+E :  The beep model is is gonna match , like , really well .
+
+dialogue type : s^df
+E :  No , I 'm not sug I 'm not suggesting that we don't have anything between the beeps .
+
+dialogue type : s^df
+E :  But I what I 'm saying is , what 's between the beeps we don't really care about .
+
+dialogue type : qy^rt
+E :  So do you get a score for each alignment ?
+
+dialogue type : qy^e^rt
+E :  Is that what you get ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  I 'm just wondering when wha what it means to fail .
+
+dialogue type : qy.%-
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : qy^bu^d^rt
+E :  Just accumulate it till you get twenty minutes worth ?
+
+dialogue type : s
+E :  There 's one file .
+
+dialogue type : s^aa|%-
+E : 
+
+dialogue type : s
+E :  I 'll talk to him .
+
+dialogue type : qy^bh^t3
+E :  Really ?
+
+dialogue type : s^nd
+E :  Oh , yeah , you do .
+
+dialogue type : s
+E :  There 's another kind which s goes in your ear
+
+dialogue type : s
+E :  and it hangs down .
+
+dialogue type : s.%-
+E :  There 's a little b bulb
+
+dialogue type : s
+E :  that hangs has the mike on it .
+
+dialogue type : qw^t3
+E :  How standard are these ?
+
+dialogue type : s^ba
+E :  It is an interesting idea .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^df
+E :  cuz I think mine looks like this too .
+
+dialogue type : s^cs
+E :  If we had this style plug that went to that , then we 'd just have adaptors
+
+dialogue type : s^cs^e
+E :  and people would plug them in .
+
+dialogue type : s
+E :  You could use they could use their own .
+
+dialogue type : s
+E :  I don't understand .
+
+dialogue type : s^bu.%--
+E : 
+
+dialogue type : qy^bu^d^rt
+E :  You 're saying there 's a mike that plugs in to the IRAM board ?
+
+dialogue type : qrr.%--
+E : 
+
+dialogue type : s^bk
+E :  Oh , I see .
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  I was reading through some of the CVS documentation
+
+dialogue type : s
+E :  and you can just substitute CVS for your R S H command .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b.%
+E :  Hmm .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^e
+E :  If they use SSH they have to have an account anyways .
+
+dialogue type : s^bu
+E :  That 's what we do with doctor - speech though ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s^bu
+E :  But there is a user doctor - speech .
+
+dialogue type : qy^d^g^rt
+E :  Right ?
+
+dialogue type : s^df.%-
+E : 
+
+dialogue type : s
+E :  Well , with CVS , though , you don't actually have to do it that way .
+
+dialogue type : s^df
+E :  What I 'm saying is that it can be the case that people can do it themselves and it can be reviewed .
+
+dialogue type : qy^d^f^g^rt
+E :  Right ?
+
+dialogue type : s
+E :  I mean , it 's not like it 's one or the other .
+
+dialogue type : s
+E :  We can do both .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^ar|s^nd^rt
+E :  No , it does not the CVS doesn't work that way .
+
+dialogue type : s
+E :  There 's no there 's no lock when you check something out ,
+
+dialogue type : s^e
+E :  not like RCS .
+
+dialogue type : s^e
+E :  In other words , everybody can check out anything .
+
+dialogue type : s:s^rt
+E :  The C stands for " concurrent " .
+
+dialogue type : s
+E :  But typically a person has to , uh , mediate you know , which changes actually get go through .
+
+dialogue type : s^ba
+E :  CVS is pretty good .
+
+dialogue type : fg|s.%-
+E :  Yeah , so the w
+
+dialogue type : %-
+E :  In
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  It 's a little bit different in CVS .
+
+dialogue type : s
+E :  When you check something out , you actually create your own directory with copies of everything in it ,
+
+dialogue type : s
+E :  and that 's what you work on .
+
+dialogue type : s
+E :  So , until you 're ready to check it in , nobody sees anything you 've done .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : fg|s
+E :  Well yeah , there would there would have to be somebody to enforce the consistency .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : fg|s
+E :  yeah , I think there are probably ways that you can say that , you know , only certain users are allowed to change things .
+
+dialogue type : s^cs.%--
+E : 
+
+dialogue type : s^cs
+E :  You know , f casual users who are just browsing can just r get it read - only ,
+
+dialogue type : s^cs^e
+E :  can't check in to the archive .
+
+dialogue type : s^cs
+E :  Whereas we could say " other people " , you know , " these people are allowed to actually submit changes " .
+
+dialogue type : s^df
+E :  I mean , I I think one thing that 's probably everybody would agree on is that there will never be a point where you know , we can say that for sure there 's no problems with any of the transcripts .
+
+dialogue type : s.%--
+E :  I mean there 's ,
+
+dialogue type : s^df^e
+E :  uh f You know , something 's going to get overlooked at some point ,
+
+dialogue type : s^df^e
+E :  or somebody 's gonna wanna make a change somehow .
+
+dialogue type : s^cs
+E :  So we need to have some mechanism for , um , handling changes in the future .
+
+dialogue type : s^aa
+E :  Yeah . Exactly .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ba
+E :  Good point .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa|s^ba
+E :  Yeah , that 's a good point .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg|s
+E :  Yeah I mean a lot of the open source pro projects face this same problem .
+
+dialogue type : s
+E :  You know , p anybody can check out the code ,
+
+dialogue type : s
+E :  but not everybody can check it in .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s
+E :  Then There is also the possibility Remember , in CVS , when we talk about making changes , there 's sort of two types that can be made .
+
+dialogue type : s
+E :  To your local , or to the global .
+
+dialogue type : s
+E :  And so people can make changes to their local
+
+dialogue type : s
+E :  and if they screw those up , that 's , you know , in their that 's only on them .
+
+dialogue type : s
+E :  It 's w it 's the checking in part that r we really care about ,
+
+dialogue type : s
+E :  and that we can control with , you know , who can check things in and stuff .
+
+dialogue type : s
+E :  So we can I think we can do this .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg|s.%-
+E : 
+
+dialogue type : fg|s^df
+E :  Yeah , cuz they can still check out full copies and make whatever changes they want to their local copies .
+
+dialogue type : s
+E :  And it won't affect the the g the global , official , ones at all .
+
+dialogue type : s^bk
+E :  Yes .
+
+dialogue type : s^aa.%
+E :  Definitely .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : %--
+E :  Lee , you liked that l
+
+dialogue type : qy^d^g.%
+E :  huh ?
+

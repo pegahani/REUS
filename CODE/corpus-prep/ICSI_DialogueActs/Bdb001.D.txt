@@ -1,0 +1,222 @@
+dialogue type : z
+D :  It
+
+dialogue type : z
+D :  It didn't move yesterday either when I started it .
+
+dialogue type : z
+D : 
+
+dialogue type : z
+D :  You know , I discovered something yesterday on these , um , wireless ones .
+
+dialogue type : z
+D :  You can tell if it 's picking up breath noise and stuff .
+
+dialogue type : z
+D :  Mm - hmm .
+
+dialogue type : z
+D : 
+
+dialogue type : z
+D :  yeah , if you breathe under breathe and then you see AF go off , then you know it 's p picking up your mouth noise .
+
+dialogue type : qy^rt^t3
+D :  Can I see it ?
+
+dialogue type : s
+D :  Lattices are big , too .
+
+dialogue type : qw^rt
+D :  But what what 's the advantage of doing that versus just putting it into this format ?
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : fg|s.%--
+D :  Yeah , I was thi
+
+dialogue type : s
+D :  I was thinking the advantage is that we can share this with other people .
+
+dialogue type : s^co
+D :  But , wait a minute ,
+
+dialogue type : s^bu
+D :  P - file for each frame is storing a vector of cepstral or PLP values ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s^bu|qy^d^g^rt
+D :  I mean , it must be the equivalent of whatever you guys used to store feat your computed features in , right ?
+
+dialogue type : s^bk
+D :  Mmm .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^bu|qy^d^g^rt
+D :  But , I mean , people don't typically share this kind of stuff , right ?
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : qy^rt
+D :  Is is the sharing part of this a pretty important consideration
+
+dialogue type : qrr
+D :  or does that just sort of , uh a nice thing to have ?
+
+dialogue type : s
+D :  You could probably translate between them .
+
+dialogue type : s^ng
+D :  It probably wouldn't be a waste .
+
+dialogue type : s^df
+D :  It would mean that at some point if we wanted to switch , we 'd just have to translate everything .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^ba
+D :  I don't think that 's a big deal .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  See , that 's the question .
+
+dialogue type : qw.%--
+D : 
+
+dialogue type : qy^rt
+D :  Are they ready to go ,
+
+dialogue type : qrr.%--
+D :  or ?
+
+dialogue type : s^bk
+D :  Hmm .
+
+dialogue type : s^bu
+D :  So each thing refers to the utterance that it belongs to .
+
+dialogue type : s^bu
+D :  So it 's it 's not hi it 's sort of bottom - up .
+
+dialogue type : s.%-
+D :  You would just have a r
+
+dialogue type : s
+D :  You would refer up to the sentence .
+
+dialogue type : qw.%--
+D : 
+
+dialogue type : qo^r
+D :  what about , um , the idea of using a relational database to , uh , store the information from the XML ?
+
+dialogue type : s^df.%--
+D : 
+
+dialogue type : s^df.%--
+D : 
+
+dialogue type : fh
+D :  Uh ,
+
+dialogue type : s^df
+D :  you you could use the XML to put the data in ,
+
+dialogue type : s^df
+D :  and then when you get data out , you put it back in XML .
+
+dialogue type : s^df
+D :  So use XML as sort of the the transfer format ,
+
+dialogue type : s^df
+D :  uh , but then you store the data in the database ,
+
+dialogue type : s^e
+D :  which allows you to do all kinds of good search things in there .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : s^no
+D :  I don't remember what the " P " is , though .
+
+dialogue type : s
+D :  Probably stands for " Phil " .
+
+dialogue type : s^e
+D :  Phil Kohn .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^na
+D :  That 's my guess .
+
+dialogue type : s^no
+D :  I I just I don't quite understand what these things are .
+
+dialogue type : fh
+D :  Uh .
+
+dialogue type : s
+D :  Well , th overlap codes .
+
+dialogue type : s^no.%-
+D : 
+
+dialogue type : s
+D :  It probably doesn't matter .
+
+dialogue type : %-
+D :  No , I d
+
+dialogue type : qw^rt
+D :  What 's what 's wrong with doing times ?
+
+dialogue type : %-
+D : 
+
+dialogue type : qy^rt
+D :  But can they change the words without changing the time of the word ?
+
+dialogue type : z
+D :  Scratch that .
+

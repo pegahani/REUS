@@ -1,0 +1,21 @@
+dialogue type : s^na
+B :  Well um . One thing in in the paper Avendano and his collaborators wrote is that is that um they tried doing channel normalization on the reverberant in speech by um subtracting the mean of the log spectral magnitude over a two second window .
+
+dialogue type : s
+B :  But they didn't do anything with the phase , and they said perhaps that limited their approach that it did not try to normalize the phase in any way .
+
+dialogue type : s^cc
+B :  So I 'm I 'm going to start thinking about um ways that the ph that the phase could be used .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s
+B :  Si - if if the um channel and the reverberation is multiplicative in the frequency domain with the speech spectrum then the phases should be additive .
+
+dialogue type : fh|s
+B :  So um perhaps just subtracting the mean of the phase would would help .
+
+dialogue type : s
+B :  Um but I don't know I th I get the impression that they tried to do some things with the phase and they weren't successful .
+

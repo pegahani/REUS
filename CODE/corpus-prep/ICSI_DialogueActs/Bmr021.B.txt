@@ -1,0 +1,1008 @@
+dialogue type : qw
+B :  Who does ?
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : s^ba
+B :  They don't work for me very well .
+
+dialogue type : s^ba
+B :  I much prefer these .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  L Liz Liz said something that leaves me believing that nobody likes them .
+
+dialogue type : s.%-
+B :  They are ver
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s.%
+B :  Ah , come on .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^cs
+B :  Get a special phone for that .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ar|s^cs
+B :  No , we could add one .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^rt
+B :  Can I can I just mention something ?
+
+dialogue type : h|s^bu
+B :  Um , uh , I think the file regards reorganization . Also , um , another issue there is disk space probably ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : fh
+B :  Um , so
+
+dialogue type : s^rt.%--
+B :  I know that the files that you 've been cutting up for us f for the recognition experiments ,
+
+dialogue type : s^cs
+B :  uh , one way one really brain uh , brain - dead way of of of not causing any trouble , but saving disk space is to , uh , use the s the Sphere , the NIST , uh , W - encode program . to to encode , you know , to compress them .
+
+dialogue type : s^aa|s
+B :  Uh , yeah , but it does it s it happens so that the program that reads the waveforms does the unshortening transparently .
+
+dialogue type : s^am
+B :  Y uh , I guess ,
+
+dialogue type : %--
+B :  but it
+
+dialogue type : fh
+B :  um ,
+
+dialogue type : s
+B :  Well , it 's It 's actually built into the Sphere library that NIST delivers ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^m^na
+B :  At least Feacalc doesn't .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s.%--
+B :  But since since these files are made to be used with the SRI recognizer ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^ng
+B :  But that 's gonna be only temporary .
+
+dialogue type : s^bd^cs
+B :  I mean , you should do that too , probably ,
+
+dialogue type : s^cs.%-
+B : 
+
+dialogue type : s^cs.%--
+B : 
+
+dialogue type : s^t1.%--
+B : 
+
+dialogue type : s.%--
+B :  The way I recently used it ,
+
+dialogue type : s^bd
+B : 
+
+dialogue type : s^rt
+B :  So the program 's called W - encode .
+
+dialogue type : s^rt
+B :  And I think the type , y you say um I think dash T
+
+dialogue type : s
+B :  and then there are different different encoding methods ,
+
+dialogue type : s
+B :  but if you wanna use the shorten one , you say d " minus T shorten " ,
+
+dialogue type : s
+B :  and then the old uh wavefile and the new wavefile ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^fe
+B :  Oops !
+
+dialogue type : s.%--
+B :  And then I check , you know , if this works ,
+
+dialogue type : s
+B :  so , you can use the the shell " AND " operator or something .
+
+dialogue type : s
+B :  Then I just move the new wavefile to the , you know , to the old wavefile ,
+
+dialogue type : s
+B :  and then you have replaced the old one with one that behaves identically as long as your programs that use it know how to decode it on the fly .
+
+dialogue type : s^ba
+B :  And that that just saved my butt
+
+dialogue type : s^df
+B :  because I actually was running On a different experiment ,
+
+dialogue type : s
+B :  I had segmented I was processing the whole Switchboard - two corpus ,
+
+dialogue type : s
+B :  which is two hundred eighty hours of speech ,
+
+dialogue type : s
+B :  and I was noticing , as I was almost finishing the processing , that I was running out of disk space .
+
+dialogue type : fh
+B :  And and so
+
+dialogue type : s.%--
+B :  I uh had this flash of inspiration of just
+
+dialogue type : s
+B :  uh the same the same disk had the segmented waveforms on them ,
+
+dialogue type : s
+B :  so I while this other thing was still going on , I was run I was running this this thing .
+
+dialogue type : s
+B :  And low and behold I gained three g three gig of space
+
+dialogue type : %-
+B : 
+
+dialogue type : s^ar|s^nd
+B :  No , no . Actually it was fast enough .
+
+dialogue type : s^ba
+B :  This is very fast . This this really runs quickly .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^ba^m^na
+B :  That was very suspenseful .
+
+dialogue type : s^ba
+B :  That was that was the most excitement I had all weekend .
+
+dialogue type : s^fe
+B :  Uh , uh boy ,
+
+dialogue type : s^ba
+B :  it uh came out just fine .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fg|s
+B :  Right , the the only reason we do this is because the the SRI front - end doesn't have a way to to um go into a l a longer file with indices .
+
+dialogue type : s^cs.%-
+B : 
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^aa
+B :  That 's true .
+
+dialogue type : s
+B :  Exactly . Right right right right right .
+
+dialogue type : s^no
+B :  I don't think so .
+
+dialogue type : s^ar|s.%--
+B : 
+
+dialogue type : %--
+B : 
+
+dialogue type : s^cs.%--
+B : 
+
+dialogue type : s
+B :  If you don't have to segment it , then there would be less of a reason to do the compression ,
+
+dialogue type : s^df
+B :  because you don't have that wasted that extra copy .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s
+B :  I mean , the segmentation also saves you space in the sense that you cut out all the nonspeech regions .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : fg|s
+B :  Uh , I don't know about the naming ,
+
+dialogue type : s.%--
+B :  I mean , Th - so these names that we 've been using so far are with
+
+dialogue type : fh
+B :  uh uh uh
+
+dialogue type : s
+B :  I wouldn't just wanna change them you know , without some advance notice .
+
+dialogue type : s.%--
+B :  I mean , th that 's all these segment names that we we 've been using .
+
+dialogue type : s
+B :  I would rather not mess with them until we have some closure on some of the things we are currently dealing with ,
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^ba^fe
+B :  Oh great .
+
+dialogue type : s.%-
+B :  Actually someone I just got an email this week from someone as
+
+dialogue type : qy^bu^d^rt
+B :  To Anant ?
+
+dialogue type : s^fa
+B :  Oh , I 'm sorry ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qw^rt
+B :  So , who did you talk to ?
+
+dialogue type : qy^bu^d^rt
+B :  Anant ?
+
+dialogue type : qy^bu^d^e^rt
+B :  Anant Venkataraman ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah , OK . Great .
+
+dialogue type : b
+B :  Yeah , OK .
+
+dialogue type : s^ba|s^ft
+B :  Great . Great . Thanks . Thanks .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ba
+B :  Cool .
+
+dialogue type : b
+B :  Uh
+
+dialogue type : s^aa|s^no
+B :  Oh , well , yeah I I I actually wasn't sure whether this is the right meeting for it ,
+
+dialogue type : s^df
+B :  because it has uh very little to do with with meeting recordings ,
+
+dialogue type : s
+B :  but @ @ you know , I did uh run um some recognition experiments with ICSI front - end .
+
+dialogue type : fh
+B :  Um Uh ,
+
+dialogue type : s
+B :  and and you know , this is the j joint work with Chuck ,
+
+dialogue type : fh
+B :  and uh , um .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  and and Chuck wrote this really nice little script Perl script that takes a uh waveform , runs the feature calculation and then dumps it out into the into um a f c so - called uh cepstra file ,
+
+dialogue type : s
+B :  which is what the SRI system uses to read features .
+
+dialogue type : s
+B :  It 's essentially uh uh NIST headered uh waveform .
+
+dialogue type : s
+B :  You know , it looks like a waveform except instead of samples you have feature vectors following the header .
+
+dialogue type : s^rt
+B :  And um that 's all done um by the script ,
+
+dialogue type : s
+B :  and it works great .
+
+dialogue type : s
+B :  And uh I first trained up two systems ,
+
+dialogue type : s^df
+B :  because it 's gender - dep you know , the SRI system is gender - dependent
+
+dialogue type : s
+B :  so to be comparable , I trained uh um on a sh on a so - called short training set
+
+dialogue type : fh|s.%--
+B :  um a male system and a female system ,
+
+dialogue type : fh
+B :  and uh
+
+dialogue type : s
+B :  also for debugging purposes , and for the heck of it , I trained um trained uh on the same training set uh a standard system with the SRI front - end from scratch ,
+
+dialogue type : s^rt
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa^m
+B :  Just PLP
+
+dialogue type : s
+B :  and actually that uh , one of the questions I had was what the RASTA would possibly buy us .
+
+dialogue type : s
+B :  But um , we 'll talk about that later .
+
+dialogue type : s^rt
+B :  So , the uh so the baseline system w the SRI system was uh used uh also uh uh used t twelve uh mel uh mel cepstra um based on a twenty - four filter bank um analysis .
+
+dialogue type : fh
+B :  Um
+
+dialogue type : s^no.%--
+B : 
+
+dialogue type : s.%-
+B :  So the f the bandwidth of the um SRI front - end is from hundreds hertz to th th thirty - se
+
+dialogue type : s^aa^m
+B :  thirty - seven fifty or something like that .
+
+dialogue type : s
+B :  And I do not know what the um ICSI um front - end would do .
+
+dialogue type : s
+B :  I mean , what the bandwidth is .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s.%--
+B :  but the results are such that
+
+dialogue type : s^t1
+B : 
+
+dialogue type : s^aa
+B :  Oh yeah .
+
+dialogue type : s
+B :  So the SRI system also does um vocal tract length normalization
+
+dialogue type : s
+B :  and we couldn't figure out how to do that yet with the ICSI features .
+
+dialogue type : s
+B :  So that 's one difference .
+
+dialogue type : s
+B :  And the other difference is that in the , uh in the SRI system , the uh th the first the C - zero , the energy uh feature is normalized slightly differently from the rest .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  For each waveform segment they subtract the maximum of of th over that waveform segment from from the values of for that waveform .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Right , right , right .
+
+dialogue type : s
+B :  Um , and then , after But after they done this waveform based normalization , they then do a conversation length normalization just like all the other features .
+
+dialogue type : s
+B :  So it 's their kind of two stage normalization .
+
+dialogue type : s
+B :  Um now , I understand that the common practice here has been to just do c standard uh mean subtraction , um on the waveform .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s^aa|s.%--
+B :  Right . But in what we 've done so far , because we didn't have any special provision for C - zero , we just treat it as as any of the other features ,
+
+dialogue type : s
+B :  we 've done standard mean subtraction over the whole conversation side .
+
+dialogue type : s
+B :  So um since both SRI and ICSI use this sort of local normalization for C - zero that 's presumably , you know , someone has done some experiments to and found out that that works better .
+
+dialogue type : s
+B :  Um , so that 's another difference ,
+
+dialogue type : s
+B :  and that might account for some of the discrepancies in the results .
+
+dialogue type : s.%--
+B :  Um , but you know . So the the results are
+
+dialogue type : fh
+B :  um
+
+dialogue type : qw^t1
+B :  Where should I start ?
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  Oh . I tried it with and without .
+
+dialogue type : fh
+B :  Uh .
+
+dialogue type : s
+B :  So without and with adaptation .
+
+dialogue type : qy^bu^d^rt
+B :  For the adaptation ?
+
+dialogue type : s.%-
+B :  Well , y we always do three EM iterations to
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  the phone loop adaptation which doesn't actually require prior recognition paths
+
+dialogue type : s^ba
+B :  and and so this is not the best you can do with adaptation ,
+
+dialogue type : s
+B :  but it gives you sort of a first idea of what you could gain with it .
+
+dialogue type : s
+B :  And then , you know , so we have the the SRI front - end
+
+dialogue type : s
+B :  and the ICSI front - end
+
+dialogue type : s
+B :  and other than that the system configuration was identical .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  They came up with um you know , same number of uh Gaussians per state cluster
+
+dialogue type : s
+B :  Um , same The clustering used the same information loss threshold ,
+
+dialogue type : s
+B :  which actually led to roughly the same number of Gaussians overall .
+
+dialogue type : s
+B :  So that the system configuration is is comparable .
+
+dialogue type : fh
+B :  Um , and the Uh ,
+
+dialogue type : s.%--
+B :  so without adaptation ,
+
+dialogue type : %-
+B :  you had forty - nine p
+
+dialogue type : s
+B :  This is error rate
+
+dialogue type : s^e
+B :  in percent .
+
+dialogue type : s^rt
+B :  And with adaptation it 's forty - seven point one
+
+dialogue type : s
+B :  and this this was fifty - two point six .
+
+dialogue type : s^rt
+B :  and fifty - one point three
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I can actually combine them with something like ROVER .
+
+dialogue type : s
+B :  It 's actually more sophisticated than ROVER
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Um , here I got forty - eight point five
+
+dialogue type : s
+B :  and here I got forty - six point five .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s^m^na|s^aa
+B :  At the utterance level , right .
+
+dialogue type : s^ba
+B :  Good question .
+
+dialogue type : s^ba
+B :  That 's fine .
+
+dialogue type : s
+B :  Um , so , one percent I would attribute to the lack of VTL ,
+
+dialogue type : s^e
+B :  about one percent .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^no
+B :  I don't know how much the C - zero normalization business really matters
+
+dialogue type : s.%-
+B :  I can't it see , I mean can't see it the
+
+dialogue type : s^na|s^aa
+B :  I could . Yeah .
+
+dialogue type : s^na^r|s^aa
+B :  I could certainly do that . Yeah .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s^cs
+B :  We could also do the vocal tract length normalization with the ICSI features .
+
+dialogue type : s
+B : 
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : s^cs
+B :  We could I was actually thinking we could use the warping factors that we compute for the MFCC 's and just try them with the ICSI uh front - end .
+
+dialogue type : s.%-
+B :  Because we already have the capability to apply the warping to the um to the PLP c
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^aa|s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Anyway . But I can certainly try the SRI front - end without uh VTL .
+
+dialogue type : s
+B :  That sh that 's that 's certainly quick to do .
+
+dialogue type : fh
+B : 
+
+dialogue type : fg|s.%--
+B :  Yeah , and and then there 's all these
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  You know , this front - end u had a fair amount of experimentation going into it .
+
+dialogue type : qh
+B :  You know , how many filter banks do you use ,
+
+dialogue type : qh
+B :  what what bandwidth do you use , and stuff like that .
+
+dialogue type : s^cs
+B :  And uh we could play the same kind of games with the ICSI front - end .
+
+dialogue type : s^ba
+B :  Uh , actually , the analysis bandwidth played a very crucial role .
+
+dialogue type : s
+B :  We used to use a narrow bandwidth
+
+dialogue type : fh
+B :  and uh
+
+dialogue type : s^ba
+B :  uh that hurt us .
+
+dialogue type : s
+B :  So this is , um And this is We 've now used roughly what everybody else is using .
+
+dialogue type : fh
+B :  So
+
+dialogue type : s^cs
+B :  um , there 's some room for improvements , I figure , in this in the ICSI front - end .
+
+dialogue type : fh
+B :  Um . So .
+
+dialogue type : s
+B :  But the good news is that even with this with the ICSI system being that much worse , you still get a win out of combining the two .
+
+dialogue type : s
+B :  So that gives some hope for the future .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s
+B :  Unfortunately however this seems to be reduced with adaptation ,
+
+dialogue type : fh
+B :  so . Um .
+
+dialogue type : s^ba
+B :  Also interestingly the Um , the difference actually widens .
+
+dialogue type : s^rt
+B :  I would actually expect it or or hope that the adaptation reduces the difference
+
+dialogue type : s^df.%--
+B :  because it might um , for instance , um remove some of the
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%--
+B :  You know , som If you if you have some some difference in the front - end processing that uh is suboptimal , but can be possibly remedied by you know moving the um moving the models around .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^ba
+B :  actually the difference becomes larger ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Uh well , there 's several things going on .
+
+dialogue type : s
+B :  One is that Chuck is working on uh getting the tandem features um into a form that we can train the tandem the system on the tandem features .
+
+dialogue type : s^ba
+B :  So that would actually be the more interesting experiment .
+
+dialogue type : s
+B :  Um , the other thing is I 'm training uh retraining the models on the large training set that we usually use to build our evaluation models
+
+dialogue type : s^cs.%--
+B : 
+
+dialogue type : s
+B :  And I actually want to do the system combination um with our eval system um , on some subset of the data at least ,
+
+dialogue type : s
+B :  probably only for the males ,
+
+dialogue type : s^df
+B :  because I don't have time to train both males and females ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^m^na|s^aa
+B :  It does get pretty big . Yeah .
+
+dialogue type : s^bk|qy^bu^d^rt
+B :  Oh , you tried that on Broadcast News ?
+
+dialogue type : s^rt
+B :  Concatenating
+
+dialogue type : s^e
+B :  different feature sets ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : qy.%-
+B : 
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : b
+B :  I see .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Alright .
+
+dialogue type : b
+B :  Oh .
+
+dialogue type : fg|s
+B :  Yeah , and it does become sort of unwieldy to have these very large feature vectors .
+
+dialogue type : %--
+B :  And that would blow up the
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^cs
+B :  Yeah , and then we could start experimenting a little bit to try to get the ICSI front - end to perform better .
+
+dialogue type : s
+B :  Um . And and as a preliminary just sort of diagnostic experiment we can I can certainly run a SRI system without VTL
+
+dialogue type : s^e.%-
+B : 
+
+dialogue type : %-
+B :  Wh
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  And that that 's quick to do .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^bk
+B :  yeah
+
+dialogue type : s^t
+B :  so but things are moving ahead ,
+
+dialogue type : fh
+B :  so
+
+dialogue type : s^bk^m|s^aa^rt
+B :  Digits . Sure .
+
+dialogue type : s^cs^j
+B :  Poetic reading of digits .
+
+dialogue type : s
+B :  s meeting .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^no.%-
+B :  I don't know if it 's i if if it 's allowed to to bring up after the dis
+
+dialogue type : fg
+B :  Anyway .
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : s^rt
+B :  So Liz remarked that she had recorded a meeting where it was later found that several of the s microphones were turned off ,
+
+dialogue type : fh
+B :  um
+
+dialogue type : s
+B :  and this must become a problem especially with non - speech - meetings .
+
+dialogue type : fh
+B :  So um
+
+dialogue type : qy^rt
+B :  is there a way that the software could warn you if it gets zeros from some of the channels ,
+
+dialogue type : qrr.%--
+B :  or ?
+
+dialogue type : s^df
+B :  Because it you know it 's really annoying if you go through all that trouble
+
+dialogue type : s^df
+B :  and then basically the meetings aren't useable
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : s^no
+B :  I don't know what they do .
+
+dialogue type : s^am^cs
+B :  Maybe the batteries went dead ,
+
+dialogue type : s^am^cs^e
+B :  or th they just didn't they played with the thing and it didn't leave it in the " on " position or whatever .
+
+dialogue type : s^bd|s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I mean , there 's never gonna be a signal from all the channels ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^df.%--
+B : 
+
+dialogue type : s^bsc
+B :  or rarely .
+
+dialogue type : fh
+B :  Um . But uh .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^aa
+B :  Exactly .
+
+dialogue type : s^ba
+B :  That 's a good question .
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : s^cs.%-
+B : 
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : fg
+B :  Right .
+
+dialogue type : s^cs^rt
+B :  So maybe it 's just to admonish people to actually look at the screen at the beginning of the meeting to make sure they get a signal .
+
+dialogue type : s^am
+B :  Yeah , something .
+
+dialogue type : s^bk|s^ba
+B :  Oh yeah . That 's a good one .
+
+dialogue type : s^bk
+B :  Yeah . OK .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Alright .
+

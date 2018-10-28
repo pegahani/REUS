@@ -1,0 +1,972 @@
+dialogue type : s^j
+C :  This is a meeting for me .
+
+dialogue type : qy^rt
+C :  So is This is A situation are is all the things which can be happening right now ?
+
+dialogue type : qrr^rt
+C :  Or , what is the situation type ?
+
+dialogue type : s^bk
+C :  Oh , I see
+
+dialogue type : qw^rt
+C :  y Why are you specifying it in XML ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fg|qy^rt
+C :  Well , yeah . I just don't know if this is th l what the Does This is what Java Bayes takes ? as a Bayes - net spec ?
+
+dialogue type : s^bu
+C :  So this is the situational context , everything in it .
+
+dialogue type : qy^rt
+C :  Is that what Situation is short for ,
+
+dialogue type : qy^bu^e^rt
+C :  shi situational context ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qy^bu^d^rt
+C :  And then we can r uh possibly run one of them uh transformations ?
+
+dialogue type : s^e^rt
+C :  That put it into the format that the Bayes n or Java Bayes or whatever wants ?
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  When you when you say the input to the v Java Bayes , it takes a certain format ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s^e
+C :  Which I don't think is this .
+
+dialogue type : s^no
+C :  Although I don't know .
+
+dialogue type : qy.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : qy^bu^rt
+C :  To convert it into the Java Bayes for format ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qy^bu^d^m
+C :  So this is just a specification of all the possible inputs ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qy^rt
+C :  And then we would just look at the , eh , Struct that we wanna look at
+
+dialogue type : s^e.%--
+C : 
+
+dialogue type : qy^bu^d^rt
+C :  So like , if I 'm just interested in the going - there node , I would just pull that information out of the Struct that gets return that would that Java Bayes would output ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^aa
+C :  Yeah , wait I agree ,
+
+dialogue type : s^bk
+C :  that 's yeah , use oh , uh Yeah , OK .
+
+dialogue type : qy^bu^d^rt
+C :  Look at that Struct in the output ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s
+C :  Well i well , it 's an XML Structure that 's being res returned ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s:s
+C :  Yeah , I just uh I just was abbreviated it to Struct in my head , and started going with that .
+
+dialogue type : s.%--
+C :  Not a C Struct . That 's not what I was trying to k
+
+dialogue type : s
+C :  though yeah .
+
+dialogue type : qy^rt
+C :  Well , w wouldn't we just take the structure that 's outputted and then run another transformation on it , that would just dump the one that we wanted out ?
+
+dialogue type : s^nd
+C :  Well , actually , you don't even need to do that with XML .
+
+dialogue type : s^ng.%-
+C : 
+
+dialogue type : s^bk
+C :  Sure .
+
+dialogue type : s
+C :  He wants to know where it is .
+
+dialogue type : s^cs.%-
+C : 
+
+dialogue type : fg|qy^rt
+C :  Uh , out of curiosity , is there a reason why we wouldn't combine these three nodes ? into one smaller subnet ?
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bu
+C :  We have " where is X ? " is the question ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : qy^bu^rt
+C :  That would just be Info - on or Location ?
+
+dialogue type : s^e.%--
+C : 
+
+dialogue type : s
+C :  Well , I mean But the there 's So you just have three decisions for the final node , that would link thes these three nodes in the net together .
+
+dialogue type : %-
+C :  Wha
+
+dialogue type : s^e
+C :  Or i or i it 'll be tight .
+
+dialogue type : s^e
+C :  You won't it 'll be hard to decide .
+
+dialogue type : s^df
+C :  But I mean , I guess I guess the thing is , uh , this is another , smaller , case of reasoning in the case of an uncertainty ,
+
+dialogue type : s
+C :  which makes me think Bayes - net should be the way to solve these things .
+
+dialogue type : s.%--
+C :  So if you had If for every construction ,
+
+dialogue type : qy^d^f^g^rt
+C :  right ?
+
+dialogue type : s^cs:s
+C :  you could say , " Well , there Here 's the Where - Is construction . "
+
+dialogue type : s
+C :  And for the Where - Is construction , we know we need to l look at this node , that merges these three things together
+
+dialogue type : s^df^e
+C :  as for th to decide the response .
+
+dialogue type : s
+C :  And since we have a finite number of constructions that we can deal with , we could have a finite number of nodes .
+
+dialogue type : s
+C :  Say , if we had to y deal with arbitrary language , it wouldn't make any sense to do that ,
+
+dialogue type : s^df
+C :  because there 'd be no way to generate the nodes for every possible sentence .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^aa|s^bs
+C :  Yeah , so basically take these three things and then put them into another belief - net .
+
+dialogue type : s:qw
+C :  Well , I mean , d For the Where - Is question .
+
+dialogue type : s:qw
+C :  So we 'd have a node for the Where - Is question .
+
+dialogue type : s
+C :  You can come in if you want .
+
+dialogue type : s^2
+C :  As long as y you 're not wearing your h your h headphones .
+
+dialogue type : s
+C :  Well , I do I See , I don't know if this is a good idea or not .
+
+dialogue type : s
+C :  I 'm just throwing it out .
+
+dialogue type : s^cs
+C :  But uh , it seems like we could have I mea or uh we could put all of the all of the r information that could also be relevant into the Where - Is node answer
+
+dialogue type : s^e
+C :  node
+
+dialogue type : s^e
+C :  thing
+
+dialogue type : s^e
+C :  stuff .
+
+dialogue type : fh
+C : 
+
+dialogue type : %-
+C :  We u
+
+dialogue type : s
+C :  Yeah , I know , but the Bayes - net would be able to The weights on the on the nodes in the Bayes - net would be able to do all that ,
+
+dialogue type : qy^d^g^rt
+C :  wouldn't it ?
+
+dialogue type : s.%--
+C :  Here 's a k
+
+dialogue type : s^fe
+C :  Oh !
+
+dialogue type : s^cc
+C :  Oh , I 'll wait until you 're plugged in .
+
+dialogue type : s^co
+C :  Oh , don't sit there .
+
+dialogue type : s^co
+C :  Sit here .
+
+dialogue type : s^df
+C :  You know how you don't like that one .
+
+dialogue type : s
+C :  It 's OK .
+
+dialogue type : s^df
+C :  That 's the weird one .
+
+dialogue type : s^df
+C :  That 's the one that 's painful . That hurts . It hurts so bad .
+
+dialogue type : s^j
+C :  I 'm h I 'm happy that they 're recording that .
+
+dialogue type : s^rt
+C :  That headphone . The headphone that you have to put on backwards , with the little little thing and the little little foam block on it ?
+
+dialogue type : s^ba
+C :  It 's a painful , painful microphone .
+
+dialogue type : s^m
+C :  The crown ?
+
+dialogue type : s
+C :  I don't see a manufacturer on it .
+
+dialogue type : s^co
+C :  Oh , wait ,
+
+dialogue type : s
+C :  here it is .
+
+dialogue type : s^e
+C :  h This thingy .
+
+dialogue type : s^na
+C :  Yeah , it 's " The Crown " .
+
+dialogue type : s^j
+C :  The crown of pain !
+
+dialogue type : qy^rt
+C :  Are you are your mike o Is your mike on ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bu
+C :  So you 've been working with these guys ?
+
+dialogue type : qy^d
+C :  You know what 's going on ?
+
+dialogue type : s^fe^j
+C :  Excellent !
+
+dialogue type : qy^rt^t3
+C :  Did you just sti Did you just stick the m the the the microphone actually in the tea ?
+
+dialogue type : s^bk^t3
+C :  Oh , yeah .
+
+dialogue type : s^fa^t3
+C :  Sorry .
+
+dialogue type : s^bu
+C :  In terms of , these would be wha how we would answer the question Where - Is ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : %--
+C :  We u
+
+dialogue type : s
+C :  This is i That 's what you s it seemed like , explained it to me earlier
+
+dialogue type : s:qw
+C :  w We we 're we wanna know how to answer the question " Where is X ? "
+
+dialogue type : s^nd
+C :  Well , yeah , but in the s uh , let 's just deal with the s the simple case of we 're not worrying about timing or anything .
+
+dialogue type : s^e:qw
+C :  We just want to know how we should answer " Where is X ? "
+
+dialogue type : s^bk
+C :  Oh , I see why we can't do that .
+
+dialogue type : %-
+C :  Well , it
+
+dialogue type : qy^bu^rt
+C :  That it Doesn't this assume , though , that they 're evenly weighted ?
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  I guess they are evenly weighted .
+
+dialogue type : s^na^rt:s
+C :  Yeah , the Go - there , the Info - on , and the Location ?
+
+dialogue type : %-
+C : 
+
+dialogue type : %-
+C :  Or I jus
+
+dialogue type : %-
+C :  Le
+
+dialogue type : s.%--
+C : 
+
+dialogue type : qw^rt
+C :  How do we d make the decision on as to which one to listen to ?
+
+dialogue type : s^2
+C :  Bayes - net .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : qy^rt
+C :  So is the only r reason we can make all these smaller Bayes - nets , because we know we can only deal with a finite set of constructions ?
+
+dialogue type : s^df
+C :  Cuz oth If we 're just taking arbitrary language in , we couldn't have a node for every possible question ,
+
+dialogue type : qy^d^g^rt
+C :  you know ?
+
+dialogue type : s^na
+C :  Well , I like , in the case of Yeah .
+
+dialogue type : s^na.%--
+C :  In the ca Any piece of language , we wouldn't be able to answer it with this system , b if we just h
+
+dialogue type : s^df
+C :  Cuz we wouldn't have the correct node .
+
+dialogue type : s^bu
+C :  Basically , w what you 're s proposing is a n Where - Is node ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s^bu
+C :  And and if we And if someone says , you know , uh , something in Mandarin to the system , we 'd - wouldn't know which node to look at to answer that question ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : qw^rt
+C :  What ?
+
+dialogue type : qw^nd
+C :  Yeah , but But how does the expert but how does the expert system know how who which one to declare the winner , if it doesn't know the question it is , and how that question should be answered ?
+
+dialogue type : s^arp|qw
+C :  Yeah I know . But how do we weight what we get out ?
+
+dialogue type : s^e
+C :  As , which one i Which ones are important ?
+
+dialogue type : s^cs
+C :  So my i So , if we were to it with a Bayes - net , we 'd have to have a node for every question that we knew how to deal with ,
+
+dialogue type : s^e
+C :  that would take all of the inputs and weight them appropriately for that question .
+
+dialogue type : qy^f^rt
+C :  Does that make sense ?
+
+dialogue type : qy^d^rt
+C :  Yay ,
+
+dialogue type : qy^d^rt
+C :  nay ?
+
+dialogue type : %-
+C : 
+
+dialogue type : s^ar|s.%--
+C :  Well , no . I I guess my question is , Is the reason that we can make a node f
+
+dialogue type : s^co
+C :  or OK . So , lemme see if I 'm confused .
+
+dialogue type : qy
+C :  Are we going to make a node for every question ?
+
+dialogue type : qy^rt
+C : 
+
+dialogue type : qrr
+C :  Or not .
+
+dialogue type : s^bsc
+C :  Every construction .
+
+dialogue type : %-
+C :  Wel
+
+dialogue type : fg
+C :  W OK .
+
+dialogue type : s
+C :  So , someone asked a question .
+
+dialogue type : qw
+C :  How do we decide how to answer it ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^nd.%-
+C : 
+
+dialogue type : fg
+C :  Wel
+
+dialogue type : s^nd
+C :  I don't know about that ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : qy.%-
+C :  Do they have to be mutual
+
+dialogue type : s^aa|qy^rt
+C :  Yeah . Do they have to be mutually exclusive ?
+
+dialogue type : s^df
+C :  Cuz I , uh The way you describe what they meant , they weren't mutu uh , they didn't seem mutually exclusive to me .
+
+dialogue type : fh
+C :  Wel
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  those three nodes .
+
+dialogue type : s^r
+C :  The - d They didn't seem like they were mutually exclusive .
+
+dialogue type : s
+C :  So th s so , yeah , but some So , some things would drop out , and some things would still be important .
+
+dialogue type : s^rt
+C :  But I guess what 's confusing me is , if we have a Bayes - net to deal w another Bayes - net to deal with this stuff ,
+
+dialogue type : fh
+C :  you know ,
+
+dialogue type : fh
+C :  uh ,
+
+dialogue type : qy^bu^rt
+C :  is the only reason OK , so , I guess , if we have a Ba - another Bayes - net to deal with this stuff , the only r reason we can design it is cuz we know what each question is asking ?
+
+dialogue type : s^bu.%--
+C : 
+
+dialogue type : s^bu
+C :  Oh , so if Let 's say I had a construction parser , and I plug this in , I would know what each construction the communicative intent of the construction was
+
+dialogue type : s
+C :  and so then I would know how to weight the nodes appropriately , in response .
+
+dialogue type : s:s
+C :  So no matter what they said , if I could map it onto a Where - Is construction , I could say , " ah !
+
+dialogue type : s:qw
+C :  well the the intent , here , was Where - Is " ,
+
+dialogue type : s^cc
+C :  and I could look at those .
+
+dialogue type : s^aap.%--
+C : 
+
+dialogue type : s^fa
+C :  I just realized that I had my hand in between my mouth and my micr er , my and my microphone .
+
+dialogue type : s:s
+C :  So then , the Bayes - net that would merge there , that would make the decision between Go - there , Info - on , and Location , would have a node to tell you which one of those three you wanted ,
+
+dialogue type : s^e
+C :  and based upon that node , then you would look at the other stuff .
+
+dialogue type : %--
+C :  I mean , it i
+
+dialogue type : qy^f^rt
+C :  Does that make sense ?
+
+dialogue type : fg|%-
+C :  Yeah , i
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C :  OK .
+
+dialogue type : s
+C :  There was a confusion there ,
+
+dialogue type : s
+C :  k I didn't intend to say every possible thing should go into the Bayes - net ,
+
+dialogue type : s^df
+C :  because some of the things aren't relevant in the Bayes - net for a specific question .
+
+dialogue type : s^e
+C :  Like the Endpoint is not necessarily relevant in the Bayes - net for Where - Is until after you 've decided whether you wanna go there or not .
+
+dialogue type : s^co
+C :  Show us the way , Bhaskara .
+
+dialogue type : qy^bu:s^co
+C :  So basically , you 'd have a decision tree query , Go - there .
+
+dialogue type : s^e
+C :  If k if that 's false , query this one . If that 's true , query that one .
+
+dialogue type : s^e.%-
+C :  And just basically do a binary search through the ?
+
+dialogue type : s^nd:s^co
+C :  Well , in the case of Go - there , it would be .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^df
+C :  Cuz if you needed an If y If Go - there was true , you 'd wanna know what endpoint was .
+
+dialogue type : s^df
+C :  And if it was false , you 'd wanna d look at either Lo - Income Info - on or History .
+
+dialogue type : s^t^tc
+C :  Also , I 'm somewhat boggled by that Hugin software .
+
+dialogue type : s
+C :  I can't figure out how to get the probabilities into it .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  It 's somewha It 's boggling me .
+
+dialogue type : %-
+C :  Ju
+
+dialogue type : s^aa|s^df
+C :  Oh yeah , yeah . I d I just think I haven't figured out what the terms in Hugin mean , versus what Java Bayes terms are .
+
+dialogue type : qw^rt
+C :  What d what do they need to do left ?
+
+dialogue type : qw^rt
+C :  And what 's Nancy doing ?
+
+dialogue type : s^bu
+C :  She 's on the email list ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : %-
+C : 
+
+dialogue type : fg|qw^rt
+C :  Uh , what do the , uh , structures do ?
+
+dialogue type : s^rt
+C :  So the the the For instance , this Location node 's got two inputs ,
+
+dialogue type : s^e.%-
+C : 
+
+dialogue type : s^bk
+C :  Oh , I see .
+
+dialogue type : s.%--
+C :  OK , that was
+
+dialogue type : fh|s
+C :  OK . That makes a lot more sense to me now .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^aa
+C :  U Yeah .
+
+dialogue type : s^bc^ng
+C :  Or the earthquake and the alarm .
+
+dialogue type : s
+C :  Yeah , there 's a dog one , too ,
+
+dialogue type : s^e
+C :  but that 's in Java Bayes ,
+
+dialogue type : qy^d^g^rt
+C :  isn't it ?
+
+dialogue type : s
+C :  But there 's something about bowel problems or something with the dog .
+
+dialogue type : qy^d^rt
+C :  Cuz of Memorial Day ?
+
+dialogue type : qw^rt
+C :  When 's Jerry leaving for Italia ?
+
+dialogue type : b
+C :  Ugh .
+
+dialogue type : qy^bu^d^rt
+C :  As in , four days ?
+
+dialogue type : s^bsc
+C :  Or , three days ?
+
+dialogue type : s
+C :  But it 's not a conference or anything .
+
+dialogue type : s
+C :  He 's just visiting .
+
+dialogue type : s^j
+C :  Oh , I think we should disappoint him .
+
+dialogue type : s^ba
+C :  That wouldn't be disappointing .
+
+dialogue type : s^cs^j
+C :  I think w we should do absolutely no work for the two weeks that he 's gone .
+
+dialogue type : s^ba
+C :  Oh , yeah , that sounds good , too .
+
+dialogue type : s
+C :  Yeah , I 'm wanna be this gone this weekend , too .
+
+dialogue type : s^2^j
+C :  Killing machines !
+
+dialogue type : qh^j
+C :  Killing , reasoning . What 's the difference ?
+
+dialogue type : qy^bu^d^rt
+C :  When you say , " the whole group " , you mean the four of us , and Keith ?
+
+dialogue type : s^na
+C :  Ami might be here ,
+
+dialogue type : s^e^rt
+C :  and it 's possible that Nancy 'll be here ?
+
+dialogue type : fh
+C :  So ,
+
+dialogue type : fh
+C :  yeah .
+
+dialogue type : s^co
+C :  You 're just gonna have to explain it to me , then , on Tuesday ,
+
+dialogue type : s^e
+C :  how it 's all gonna work out .
+
+dialogue type : b
+C :  You know .
+
+dialogue type : s^2
+C :  That you will have in about nine months or so .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^j
+C :  The first bad version 'll be done in nine months .
+
+dialogue type : s
+C :  There you go .
+
+dialogue type : qr
+C :  Does th th does the H go b before the A or after the A ?
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^ba
+C :  OK , good .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C :  Cuz my H goes after the uh e e e the v
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  I always have to check , every time y I send you an email , a past email of yours , to make sure I 'm spelling your name correctly .
+
+dialogue type : s^j
+C :  I worry about you .
+
+dialogue type : s^fe^j
+C :  You 're a geek .
+
+dialogue type : s^ba
+C :  It 's O K .
+
+dialogue type : %-
+C :  I
+
+dialogue type : qw.%--
+C :  How do you pronou
+
+dialogue type : qw^rt
+C :  How do you pronounce your name ?
+
+dialogue type : qy^d^m^rt
+C :  Eva ?
+
+dialogue type : qo
+C :  What if I were What if I were to call you Eva ?
+
+dialogue type : s^ng
+C :  No , not just Eva , Eva .
+
+dialogue type : s^df
+C :  Like if I u take the V and s pronounce it like it was a German V ?
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  It sounds like an F .
+
+dialogue type : s
+C :  There 's also an F in German ,
+
+dialogue type : s^e.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  As long as that 's O K .
+
+dialogue type : s
+C :  I mean , I might slip out and say it accidentally .
+
+dialogue type : s^bd
+C :  That 's all I 'm saying .
+
+dialogue type : s^co^t
+C :  Wait ,
+
+dialogue type : s
+C :  maybe it 's OK , so that that that we can that we have one node per construction .
+
+dialogue type : s^df
+C :  Cuz even in people , like , they don't know what you 're talking about if you 're using some sort of strange construction .
+
+dialogue type : s^aap
+C :  Well , yeah , but I mean , the uh , I mean , that 's what the construction parser would do .
+
+dialogue type : s^df
+C :  Uh , I mean , if you said something completely arbitrary , it would f find the closest construction ,
+
+dialogue type : qy^d^f^g^rt
+C :  right ?
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bsc
+C : 
+
+dialogue type : s
+C :  But if you said something for which there was no construction whatsoever , n people wouldn't have any idea what you were talking about .
+
+dialogue type : s^e
+C :  Like " Bus dog fried egg . " I mean .
+
+dialogue type : b
+C :  You know .
+
+dialogue type : s^e
+C :  Or , something in Mandarin , yeah .
+
+dialogue type : s^e
+C :  Or Cantonese , as the case may be .
+
+dialogue type : qo
+C :  What do you think about that , Bhaskara ?
+
+dialogue type : qr^bu^d.%-
+C :  In this system , or in r
+
+dialogue type : qw^bu^rt
+C :  Oh , when p How many constructions do people have ?
+
+dialogue type : s^no
+C :  I have not the slightest idea .
+
+dialogue type : s
+C :  Every noun is a construction .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Any any form - meaning pair , to my understanding , is a construction .
+
+dialogue type : s^e
+C :  And form u starts at the level of noun Or actually , maybe even sounds .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^e
+C :  And goes upwards
+
+dialogue type : s^e
+C :  until you get the ditransitive construction .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : qy^bu.%-
+C :  Can there be combinations of the dit
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  The " giving a speech " construction ,
+
+dialogue type : s^na
+C :  It 's probab Yeah , I would s definitely say it 's finite .
+
+dialogue type : s
+C :  And at least in compilers , that 's all that really matters ,
+
+dialogue type : s^e
+C :  as long as your analysis is finite .
+
+dialogue type : s
+C :  Nah , I can't think of a way it would be infinite .
+
+dialogue type : s^aa^j|s
+C :  Yeah . If the if your if your brain was totally non - deterministic , then perhaps there 's a way to get , uh , infin an infinite number of constructions that you 'd have to worry about .
+
+dialogue type : s^aa|s^df^rt
+C :  Right . Cuz if we have a fixed number of neurons ?
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bsc
+C :  or , the worst - case scenario is the number of constructions equals the number of neurons .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^aap
+C :  But still finite .
+
+dialogue type : s^co
+C :  No , wait .
+
+dialogue type : qy^rt
+C :  Not necessarily , is it ?
+
+dialogue type : s^co
+C :  We can end the meeting .
+
+dialogue type : %--
+C : 
+
+dialogue type : qy^rt
+C :  Can't you use different var different levels of activation ?
+
+dialogue type : s^e
+C :  across , uh lots of different neurons , to specify different values ?
+
+dialogue type : s^2
+C :  There 's a bandwidth issue ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : b
+C :  Yeah .
+

@@ -1,0 +1,234 @@
+dialogue type : qy^bu^d^rt
+D :  So we 'll have a corpus that 's the size of TI - digits ?
+
+dialogue type : s^m|s^bk
+D :  Test set , OK .
+
+dialogue type : sj^ba
+D :  Oh ! Great .
+
+dialogue type : sj^ba^r
+D :  Great .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Good .
+
+dialogue type : fg|qy^rt
+D :  So are these two separate tasks that can happen ?
+
+dialogue type : qrr.%-
+D :  Or do they have to happen at the same time before
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : sj^ba
+D :  Although the models weren't , that good ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : qy^bu^rt
+D :  I mean , the models are pretty crappy ?
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : qw^tc
+D :  How did we do on the TI - digits ?
+
+dialogue type : qw.%-
+D : 
+
+dialogue type : %-
+D :  H How
+
+dialogue type : qw
+D :  do we do on TI - digits ?
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^2^j
+D :  Pre - prehistory .
+
+dialogue type : s
+D :  Sort of less predictability ,
+
+dialogue type : %-
+D : 
+
+dialogue type : fg
+D :  Hey .
+
+dialogue type : s
+D :  Hafta think about , the particular acoustic features to mark , too , because , I mean , some things , they wouldn't be able to mark , like , uh , you know , uh , tense lax .
+
+dialogue type : s
+D :  Some things are really difficult .
+
+dialogue type : qy^d^f^g^rt
+D :  You know ,
+
+dialogue type : s
+D :  just listening .
+
+dialogue type : s^na
+D :  Yeah .
+
+dialogue type : qw^bu^m^rt
+D :  Points of articulation ?
+
+dialogue type : qw^rt
+D :  What do you mean ?
+
+dialogue type : s
+D :  Place of ar place of articulation .
+
+dialogue type : b.%
+D :  OK .
+
+dialogue type : s^bk
+D :  OK , I see .
+
+dialogue type : s
+D :  There was no name for that .
+
+dialogue type : s^cs
+D :  So it would be it would be great if we had , either these kind of , labelings on , the same portion of Switchboard that Steve marked , or , Steve 's type markings on this data , with these .
+
+dialogue type : s^e
+D :  And it 's more accurate than , phone labels .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bs
+D :  So it 's like a continuum .
+
+dialogue type : s
+D :  It 's you 're going all the way down ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  It 's basically just having , multiple levels of of , information and marking , on the signal .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg|sj.%--
+D :  Well , you know , um I mean if we 're talking about , having the , annotators annotate these kinds of features , it seems like ,
+
+dialogue type : fh
+D : 
+
+dialogue type : qy^rt
+D :  The the question is , do they do that on , meeting data ?
+
+dialogue type : qrr
+D :  Or do they do that on , Switchboard ?
+
+dialogue type : s^df^na
+D :  Well cuz the yeah , and then also , if you did it on Switchboard , you would have , the full continuum of transcriptions .
+
+dialogue type : s
+D :  You 'd have it , from the lowest level , the ac acoustic features , then you 'd have the , you know , the phonetic level that Steve did ,
+
+dialogue type : fh
+D :  and ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : s
+D :  It 'd be a complete , set then .
+
+dialogue type : s^cs
+D :  But it it might be good to do what Jane was saying uh , you know , seed it , with , guesses about what we think the features are , based on , you know , the phone or Steve 's transcriptions or something . to make it quicker .
+
+dialogue type : s^2
+D :  Adjusting ?
+
+dialogue type : s^aa
+D :  Yeah , exactly .
+
+dialogue type : s^cs.%--
+D : 
+
+dialogue type : s^cs
+D :  Or you could start from the if we were gonna , do the same set , of sentences that Steve had , done , we could start with those transcriptions .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qr^rt.%--
+D :  Are they busy for the next couple years , or ?
+
+dialogue type : sj^ba
+D :  It 'd be very interesting though , to have that data .
+
+dialogue type : b.%
+D :  Hmm .
+
+dialogue type : qy^bu^d^rt
+D :  Of the f acoustic features ?
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : qy^bu^rt
+D :  Well won't you have that from their transcriptions ?
+
+dialogue type : s
+D :  So , current This week .
+
+dialogue type : qy^bu^d^rt
+D :  You ordered them already ?
+
+dialogue type : s^ba
+D :  Great .
+
+dialogue type : s^bu
+D :  So it 's a replacement for this headset mike ?
+
+dialogue type : qw
+D :  What 's the , um , style of the headset ?
+
+dialogue type : b.%
+D :  Hmm .
+
+dialogue type : z
+D :  Oh , god .
+

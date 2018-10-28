@@ -1,0 +1,114 @@
+dialogue type : s^bk
+G :  Alright .
+
+dialogue type : s^j^na
+G :  Take advantage .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : %-
+G :  It 's g it
+
+dialogue type : s
+G :  Probably the fact that it picks up other people 's speakers other people 's talking is an indication of that it the fact it is a good microphone .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^ng
+G :  I don't think that was the new version .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : qy^rt
+G :  You did you adjust the the utterance times , um , for each channel ?
+
+dialogue type : s
+G :  Well , I know there were some speaker labelling problems , um , after interruptions .
+
+dialogue type : qy^rt
+G :  Is that what you 're referring to ?
+
+dialogue type : s^rt
+G :  I mean , cuz there 's this one instance when , for example , you 're running down the stairs .
+
+dialogue type : s
+G :  I remember this meeting really well .
+
+dialogue type : b.%
+G :  Right .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa|s^na
+G :  Yeah , I 've I 've I 'm very well acquainted with this meeting .
+
+dialogue type : s^aa|s.%-
+G :  Yeah , I can s
+
+dialogue type : fg|s
+G :  Yeah , I know it by heart .
+
+dialogue type : s^rt
+G :  So , um , there 's one point when you 're running down the stairs .
+
+dialogue type : qy^d^f^g
+G :  Right ?
+
+dialogue type : s
+G :  And , like , there 's an interruption .
+
+dialogue type : s
+G :  You interrupt somebody ,
+
+dialogue type : s
+G :  but then there 's no line after that .
+
+dialogue type : s
+G :  For example , there 's no speaker identification after that line .
+
+dialogue type : qy^rt
+G :  Is that what you 're talking about ?
+
+dialogue type : qrr
+G :  Or were there mislabellings as far as , like , the a Adam was ?
+
+dialogue type : fg|s^df
+G :  Yeah . Cuz I thought I let you know about that .
+
+dialogue type : s^fw
+G :  Yeah .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s
+G :  But you 're actually saying that certain , uh , speakers were mis mis - identified .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : s.%-
+G :  That 's r
+
+dialogue type : b.%
+G :  Right .
+
+dialogue type : qy^bu^d^rt
+G :  you know " Burst " also ?
+
+dialogue type : qy^rt
+G :  Isn't " burst " is used also ?
+
+dialogue type : s^ba
+G :  That 's cool .
+
+dialogue type : b
+G :  Mmm .
+

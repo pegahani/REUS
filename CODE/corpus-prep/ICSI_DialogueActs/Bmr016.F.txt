@@ -1,0 +1,732 @@
+dialogue type : b
+F :  Yeah .
+
+dialogue type : qy^cs^rt
+F :  Will you get the door ,
+
+dialogue type : fh
+F :  and ?
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : s^bu|qy^d^g^rt
+F :  You collected an agenda , huh ?
+
+dialogue type : s^ar|s
+F :  No there 's only ten .
+
+dialogue type : s^bk
+F :  Well , OK .
+
+dialogue type : s^bu
+F :  So you think two you think two hours is the is the total that we have ?
+
+dialogue type : s.%--
+F :  And you think we th uh ,
+
+dialogue type : s^df
+F :  I I didn't quite catch all these different things that are not quite right ,
+
+dialogue type : qy^bu^d
+F :  but you think we 'll be able to retrieve the other hour , reasonably ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bu.%-
+F :  So the relevance of the speaker form here , s
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : s^bu
+F :  Wasn't like whether they were giving us permission to use their digits or something .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah
+
+dialogue type : fg
+F :  Um , do um
+
+dialogue type : s
+F :  you want different prosodics ,
+
+dialogue type : qy^bu^d
+F :  so if you always had the same groupings you wouldn't like that ?
+
+dialogue type : qy
+F :  Is that correct ?
+
+dialogue type : s^ar|s
+F :  No but , I was asking if that was something you really cared about
+
+dialogue type : s^df
+F :  because if it wasn't , it seems to me if you made it really specifically telephone groupings that maybe people wouldn't , uh , go and do numbers so much .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aap^am|s^ng
+F :  Maybe some , but I probably not so much .
+
+dialogue type : qy^d^f^g
+F :  Right ?
+
+dialogue type : s.%-
+F :  So if you if if you have uh
+
+dialogue type : s
+F :  if you go six six six uh dash uh two nine three one .
+
+dialogue type : s|s^bk
+F :  That 's what I was asking , yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^cs^ng
+F :  I mean , the other thing is we could just bag it
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : s
+F :  it 's - I 'm not worrying about it
+
+dialogue type : s^df
+F :  I mean , because we do have digits training data that we have from uh from OGI .
+
+dialogue type : s^fa
+F :  I 'm sorry ,
+
+dialogue type : s^bsc
+F :  digits numbers training that we have from OGI ,
+
+dialogue type : s
+F :  we 've done lots and lots of studies with that .
+
+dialogue type : fh
+F :  And um .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s.%-
+F :  No , no , I guess what I 'm saying is that
+
+dialogue type : s
+F :  to some extent maybe we could just read them have them read how how they read it
+
+dialogue type : s
+F :  and it just means that we have to expand our our vocabulary out to stuff that we already have .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^df
+F :  We can go back to the other thing later .
+
+dialogue type : s
+F :  I mean we s we we 've We can do this for awhile
+
+dialogue type : s
+F :  and then go back to digits for awhile ,
+
+dialogue type : fh
+F :  or um .
+
+dialogue type : qy
+F :  Do yo I mean , do you want do you want this Do you need training data or adaptation data out of this ?
+
+dialogue type : qw
+F :  How much of this do you need ?
+
+dialogue type : s^e.%--
+F : 
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk|s.%-
+F :  OK , well if you pre
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s
+F :  Let 's try it .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^fa
+F :  Sorry ,
+
+dialogue type : s
+F :  I I was just gonna say , so we have in the vicinity of forty hours of of recordings now .
+
+dialogue type : s^bu
+F :  And you 're saying two hours , uh , is digits ,
+
+dialogue type : s^bu
+F :  so that 's roughly the ratio then ,
+
+dialogue type : s
+F :  something like twenty twenty to one .
+
+dialogue type : s
+F :  Which I guess makes makes sense .
+
+dialogue type : s^bu
+F :  So if we did another forty hours of recordings then we could get another couple hours of this .
+
+dialogue type : s
+F :  Um , yeah like you say , I think a couple hours for a for a for a test test set 's OK .
+
+dialogue type : s
+F :  It 'd be nice to get , you know , more later
+
+dialogue type : s^df
+F :  because we 'll we might use use this up , uh , in some sense ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^ar|s^nd
+F :  No it 's it 's not the same .
+
+dialogue type : s^aap
+F :  A little bit ,
+
+dialogue type : s^nd
+F :  but the other differences are so major .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  Well i i individual human glottis is going to be different for each one ,
+
+dialogue type : s
+F :  you know , it 's just There 's so many things .
+
+dialogue type : s
+F :  it 's it and and enunciation .
+
+dialogue type : qy^bu^d
+F :  TI - digits was ?
+
+dialogue type : s^df^ng
+F :  I thought I thought it was read .
+
+dialogue type : s^aa|s
+F :  Yeah , I think the reading zipcode stuff you 're thinking of would be OGI .
+
+dialogue type : s
+F :  Yeah , no TI - digits was read in th in read in the studio I believe .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : %-
+F : 
+
+dialogue type : s
+F :  It - it 's different people is the is the core thing .
+
+dialogue type : s
+F :  And they 're different circumstances with different recording environment and so forth ,
+
+dialogue type : s
+F :  so it 's it 's it 's really pretty different .
+
+dialogue type : s
+F :  But I think the idea of using a set thing was just to give you some sort of framework ,
+
+dialogue type : s
+F :  so that even though you couldn't do exact comparisons , it wouldn't be s valid scientifically at least it 'd give you some kind of uh frame of reference .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa^j
+F :  Yeah .
+
+dialogue type : b.%
+F :  Yeah .
+
+dialogue type : fg|s.%--
+F :  Yeah I mean , for the for the um acoustic research ,
+
+dialogue type : s
+F :  for the signal - processing , farfield stuff , I see it as as as the place that we start .
+
+dialogue type : s^ba
+F :  But , th I mean , it 'd be nice to have twenty hours of digits data ,
+
+dialogue type : s
+F :  but but uh the truth is I 'm hoping that we we through the the stuff that that you guys have been doing as you continue that , we get , uh , the best we can do on the spontaneous stuff uh , uh nearfield ,
+
+dialogue type : s
+F :  and then um , we do a lot of the testing of the algorithms on the digits for the farfield ,
+
+dialogue type : s
+F :  and at some point when we feel it 's mature and we understand what 's going on with it then we we have to move on to the spontaneous data with the farfield .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^na
+F :  Let 's try it .
+
+dialogue type : s
+F :  Sixty - one .
+
+dialogue type : s^ar|%-
+F :  No , I 'll p
+
+dialogue type : %-
+F :  See , y
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^aa|s^na
+F :  No , I can do it .
+
+dialogue type : fg|s^cs
+F :  Alright , let 's try three at once you you pick one in the middle .
+
+dialogue type : s^co
+F :  Go .
+
+dialogue type : s^bk|s
+F :  Oh like a round ,
+
+dialogue type : s^bk|s.%--
+F : 
+
+dialogue type : fh
+F :  yeah .
+
+dialogue type : s^rt:s^rt
+F :  Row , row , row your boat .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  I don't think we 're gonna collect vast amounts of data that way ,
+
+dialogue type : s
+F :  but I think having a little bit might at least be fun for somebody like Dan to play around with ,
+
+dialogue type : b
+F :  yeah .
+
+dialogue type : s^aa
+F :  Yeah , yeah .
+
+dialogue type : s
+F :  Spend the whole time reading digits with different qu quantities .
+
+dialogue type : s^ba^j
+F :  That 's " two " bad .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^ba|qy^g^rt
+F :  Uh , they don't all work as well , do they ?
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : qw
+F :  What does nine work in ?
+
+dialogue type : fh
+F :  Uh ,
+
+dialogue type : s^bk|s
+F :  Oh . In German ,
+
+dialogue type : s^bk
+F :  yeah .
+
+dialogue type : s^aa
+F :  That 's right !
+
+dialogue type : s
+F :  I think everybody 's a little punchy here today .
+
+dialogue type : s^bk
+F :  Yes .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^no
+F :  Well I don't know .
+
+dialogue type : s
+F :  Well I think the question is what the research is ,
+
+dialogue type : s^bu^rt
+F :  so I mean , I presume that the reason that you wanted to have these digits this way is because you wanted to actually do some research looking at the prosodic form here .
+
+dialogue type : s^bk
+F :  Yeah OK .
+
+dialogue type : s
+F :  So if somebody wanted to do that , if they wanted to look at the the the difference of the uh phones in the digits in the context of a word versus uh the digits a a non - digit word versus in digit word , uh that would be a good thing to do ,
+
+dialogue type : s^df
+F :  but I think someone would have to express interest in that .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  I mean if you were interested in it then we could do it , for instance .
+
+dialogue type : s^bk|qy
+F :  Yeah , so it 's the same thing ?
+
+dialogue type : s^bu
+F :  It 's the same thing I mailed to every everybody that w where it was ,
+
+dialogue type : b.%
+F :  yeah .
+
+dialogue type : fg|s^df
+F :  Yeah , that 's that 's why I only used the part from use
+
+dialogue type : s
+F :  which we had uh about uh about the alt over all the channels
+
+dialogue type : s^bsc
+F :  or mixed channel
+
+dialogue type : s^e
+F :  rather mixed signal .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  It just it just to r to remove cross - talk .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : fg|s
+F :  Yeah , Dave Dave uh is , um , also gonna be doin usin playing around with echo cancellation for the nearfield farfield stuff ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^ar|s^nd
+F :  No , I didn't notice that actually .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^ba
+F :  That 's typical , huh .
+
+dialogue type : qr.%-
+F : 
+
+dialogue type : s^bk
+F :  Oh OK .
+
+dialogue type : fg
+F : 
+
+dialogue type : s^aa|s^na
+F :  Yeah , l I mean over all our data , we we want to not downsample .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : fg.%
+F :  ye
+
+dialogue type : fg|%--
+F : 
+
+dialogue type : fh|s^fa
+F :  yeah , I 'm sorry .
+
+dialogue type : s.%-
+F :  As yeah , as long as there is a a form that we can come from again , that is not downsampled , then ,
+
+dialogue type : fh
+F :  uuu
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^e
+F :  Then it 's fine .
+
+dialogue type : s
+F :  But for for fu future research we 'll be doing it with different microphone positions and so on
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  I mean it just depends how big the file is .
+
+dialogue type : s
+F :  If the file sits in memory you can do extremely fast seeks
+
+dialogue type : fh
+F :  but .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Yep .
+
+dialogue type : fh
+F :  So , @ @ .
+
+dialogue type : s^j:qw
+F :  But but in our meetings people don't say " hey cuz how you doing ? "
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^j
+F :  I wanna work with lost data .
+
+dialogue type : s^ng
+F :  Well , you just did .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yeah
+
+dialogue type : s
+F :  Arg .
+
+dialogue type : s
+F :  Arg arg - max , arg - min ,
+
+dialogue type : b.%
+F :  yeah .
+
+dialogue type : s^m|s^aa
+F :  Canadians , yeah , yeah , yeah .
+
+dialogue type : s^co^j
+F :  Quick Thilo , do a do a filled pause for us .
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : s
+F :  I 'm sorry , I I got lost here .
+
+dialogue type : qw^rt
+F :  What - w what 's the difference between the parenthesized acronym and the non - parenthesized ?
+
+dialogue type : b
+F :  Ah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^no
+F :  I I don't recognize a lot of these .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^am
+F :  Maybe .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : qy^bu^d^rt
+F :  The number to the left is the number of incidences ?
+
+dialogue type : b.%
+F :  Uh - huh .
+
+dialogue type : s
+F :  So CTS is really big here ,
+
+dialogue type : s^bk
+F :  yeah .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  IP ,
+
+dialogue type : s
+F :  I know what IP is .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^na|s^aa
+F :  S s six now , yeah .
+
+dialogue type : s.%-
+F :  Wh - the self - referential aspect of these these p
+
+dialogue type : s^ar|s^nd
+F :  No , I didn't .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : %-
+F :  So th
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^t1
+F :  Seven hundred eighty .
+
+dialogue type : s
+F :  So now we 're up to seven hundred and eighty eight .
+
+dialogue type : qw^t3
+F :  What 's a QUAL ?
+
+dialogue type : s^df
+F :  I f I forget ,
+
+dialogue type : qw
+F :  what 's QUAL ?
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^tc
+F :  Don and I were just noticing ,
+
+dialogue type : s
+F :  love this one over on page three ,
+
+dialogue type : s^rt:s
+F :  " vocal vocal gesture mimicking sound of screwing something into head to hold mike in place . "
+
+dialogue type : s^2
+F :  Beep .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s:s
+F :  " Sings finale - type song "
+
+dialogue type : s^ba
+F :  that 's that 's good .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^cs:s^fe
+F :  Tah - dah !
+
+dialogue type : s^bd^no
+F :  I don't know .
+
+dialogue type : qy^bu^d^rt
+F :  Something like that
+
+dialogue type : s^am|s^bk
+F :  maybe , yeah .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s
+F :  So I 'd so " I 'd like I 'd like to talk about point five " .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  OK .
+

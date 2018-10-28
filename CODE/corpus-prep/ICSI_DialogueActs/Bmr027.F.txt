@@ -1,0 +1,1149 @@
+dialogue type : z
+F :  OK .
+
+dialogue type : z
+F :  It 's the ear - plug mike .
+
+dialogue type : z
+F :  No .
+
+dialogue type : z
+F :  Huh ? What ? Huh ?
+
+dialogue type : z
+F :  It it 's a fairly good mike , actually .
+
+dialogue type : z
+F :  Well , I shouldn't say it 's a good mike .
+
+dialogue type : z
+F :  All I really know is that the signal level is OK .
+
+dialogue type : z
+F : 
+
+dialogue type : z
+F :  the quality .
+
+dialogue type : s^fe
+F :  Ugh !
+
+dialogue type : s^t
+F :  So I didn't send out agenda items
+
+dialogue type : s
+F :  because until five minutes ago we only had one agenda item
+
+dialogue type : s
+F :  and now we have two .
+
+dialogue type : fh
+F :  So . And , uh .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s
+F :  Well We haven't really started ,
+
+dialogue type : s^df
+F :  but I thought we more we more or less did Meeting Recorder stuff last week ,
+
+dialogue type : s^cs.%-
+F : 
+
+dialogue type : s^cs
+F :  But I figure also if they 're short agenda items , we could also do a little bit of each .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^t3
+F :  I seem to be having difficulty getting this adjusted .
+
+dialogue type : s^t3
+F :  Here we go .
+
+dialogue type : s
+F :  So , uh , as most of you should know , I did send out the consent form thingies
+
+dialogue type : fh
+F :  and , uh ,
+
+dialogue type : s
+F :  so far no one has made any Ach ! any comments on them .
+
+dialogue type : s
+F :  So , no on no one has bleeped out anything .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s
+F :  I don't expect anyone to .
+
+dialogue type : fh
+F :  But .
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s
+F :  We had spoken w about this before
+
+dialogue type : s
+F :  and we had decided that they have they only needed to sign once .
+
+dialogue type : s
+F :  And the agreement that they already signed simply said that we would give them an opportunity .
+
+dialogue type : s
+F :  So as long as we do that , we 're covered .
+
+dialogue type : s
+F :  Uh , July fifteenth .
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : s^rt
+F :  Jane told me July fifteenth .
+
+dialogue type : s
+F :  So , that 's what I set it .
+
+dialogue type : s^bk|s
+F :  Oh . I I didn't understand that there was something specific .
+
+dialogue type : %--
+F : 
+
+dialogue type : s^df
+F :  I had heard July fifteenth ,
+
+dialogue type : s
+F :  so that 's what I put .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^aa|s^df
+F :  Yeah . As I said , we I just got one date
+
+dialogue type : s
+F :  and that 's the one I used .
+
+dialogue type : s^cs
+F :  So . But I can send a follow - up .
+
+dialogue type : s^df
+F :  I mean , it 's almost all us .
+
+dialogue type : s
+F :  I mean the people who are in the meeti this meeting was , uh , these the meetings that in are in set one .
+
+dialogue type : s^bk|s^ba^na
+F :  Right . I mean , that 's fine .
+
+dialogue type : s
+F :  I we don't My understanding of what we had agreed upon when we had spoken about this months ago was that , uh , we don't actually need a reply .
+
+dialogue type : s^e
+F :  We just need to tell them that they can do it if they want .
+
+dialogue type : s
+F :  And so no reply is no changes .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : fg
+F : 
+
+dialogue type : fg|s
+F :  Yeah . The reason I did that it was just so that people would not censor not ask to have stuff removed because it was transcribed incorrectly ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^aap
+F :  When they submit the form , it gets processed and emailed to me .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  Well , the only thing I said in the email is that the data is going to be released on the fifteenth .
+
+dialogue type : s
+F :  I didn't give any other deadline .
+
+dialogue type : s:s
+F :  So my feeling is if someone after the fifteenth says , " wow I suddenly found something " , we 'll delete it from our record .
+
+dialogue type : s
+F :  We just won't delete it from whatever 's already been released .
+
+dialogue type : qo
+F :  What else can we do ?
+
+dialogue type : qo:s
+F :  If someone says " hey , look , I found something in this meeting and it 's libelous and I want it removed " . What can we do ?
+
+dialogue type : s^df
+F :  We have to remove it .
+
+dialogue type : qy^rt
+F :  Well , did you read the email and look at the pages I sent ?
+
+dialogue type : s^bk|qh^cs
+F :  No . OK , well why don't you do that
+
+dialogue type : s^cs
+F :  and then make comments on what you want me to change ?
+
+dialogue type : s
+F :  I already did decide something ,
+
+dialogue type : s
+F :  and that 's what 's in the email .
+
+dialogue type : qo^cs
+F :  And if you disagree with it , why don't you read it and give me comments on it ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^bk^rt
+F :  OK .
+
+dialogue type : s^no^rt
+F :  I don't know .
+
+dialogue type : s^am
+F :  You should be .
+
+dialogue type : s
+F :  You should be channel B .
+
+dialogue type : s
+F :  Well , they 've already signed a form .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^df
+F :  And the s and the form was approved by Human Subjects ,
+
+dialogue type : s^ba
+F :  so , eh , that 's gonna be a little hard to modify .
+
+dialogue type : s
+F :  Here .
+
+dialogue type : s
+F :  You can read what you already signed .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^nd
+F :  Oh , I just I didn't wanna do that ,
+
+dialogue type : s^df
+F :  because I don't wanna have a discussion with every person if I can avoid it .
+
+dialogue type : s^cs
+F :  So what I wanted to do was just send it out
+
+dialogue type : s
+F :  and say " on the fifteenth , the data is released ,
+
+dialogue type : s
+F :  if you wanna do something about it , do something about it ,
+
+dialogue type : s
+F :  but that 's it " .
+
+dialogue type : s^bk|s^cs
+F :  Well , OK . l Let me Let me reverse this .
+
+dialogue type : s
+F :  So let 's say someone I send this out ,
+
+dialogue type : s^rt
+F :  and someone doesn't respond .
+
+dialogue type : qy^rt
+F :  Do we delete every meeting that they were in ?
+
+dialogue type : s
+F :  I don't think so .
+
+dialogue type : s
+F :  That will happen .
+
+dialogue type : s^r
+F :  That will absolutely happen .
+
+dialogue type : s^df
+F :  Because people don't read their email ,
+
+dialogue type : s:s
+F :  or they 'll read and say " I don't care about that ,
+
+dialogue type : s
+F :  I 'm not gonna delete anything "
+
+dialogue type : s
+F :  and they don just won't reply to it .
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s
+F :  We have what they put on the speaker form ,
+
+dialogue type : s
+F :  which was just generic contact information .
+
+dialogue type : fg|s^df
+F :  Yeah . I mean I thought we had discussed this , like , a year ago .
+
+dialogue type : s
+F :  And so it seems like this is a little odd for it to be coming up yet again .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : fg
+F : 
+
+dialogue type : fg|qh^cs.%--
+F :  OK . Well , why don't you talk t
+
+dialogue type : qy^rt
+F :  Morgan , can you talk to our lawyer about it ,
+
+dialogue type : s^e
+F :  and find out what the status is on this ?
+
+dialogue type : s^df
+F :  Cuz I don't wanna do something that we don't need to .
+
+dialogue type : %--
+F :  Because
+
+dialogue type : s
+F :  what I 'm telling you , people won't respond to the email .
+
+dialogue type : s
+F :  No matter what you do , you there 're gonna be people who you 're gonna have to make a lot of effort to get in contact with .
+
+dialogue type : qh
+F :  And do we want to spend that effort ?
+
+dialogue type : s
+F :  Well , we had talked about this before
+
+dialogue type : s
+F :  and I thought that we had even gone by the lawyers asking about that
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  that they 've already signed once .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s
+F :  Well , it 's just , we 've gone from one extreme to the other , where at one point , a few months ago , Morgan was you were saying let 's not do anything ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bu^rt
+F :  we 're saying we have to follow up each person and get a signature ?
+
+dialogue type : qw
+F :  I mean , what are we gonna doing here ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^cs
+F :  Then I think we had better find out ,
+
+dialogue type : s^df.%-
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : %-
+F :  For for th
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s
+F :  Sending lots of spam .
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : fg|qw
+F :  Well , so how far do we have to go ?
+
+dialogue type : qy^rt
+F :  Do we need to get someone 's signature ?
+
+dialogue type : qrr
+F :  Or , is email enough ?
+
+dialogue type : qy^j^rt
+F :  Do we have to have it notarized ?
+
+dialogue type : fh
+F : 
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : h|s^na
+F :  Uh . If they submit the form , I get it .
+
+dialogue type : s
+F :  If they don't submit the form , it goes in the general web log .
+
+dialogue type : s
+F :  But that 's not sufficient .
+
+dialogue type : qy^d^f^g
+F :  Right ?
+
+dialogue type : s^df
+F :  Cuz if someone just visits the web site that doesn't imply anything in particular .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^ng
+F :  I 'm already on it .
+
+dialogue type : s^aa
+F :  Mm - hmm .
+
+dialogue type : %-
+F :  W
+
+dialogue type : s
+F :  For this set , I 'm not worried ,
+
+dialogue type : s^df
+F :  because we basically know everyone on it .
+
+dialogue type : s
+F :  You know , they 're all more or less here
+
+dialogue type : s
+F :  or it 's it 's Eric and Dan and so on .
+
+dialogue type : s
+F :  But for some of the others , you 're talking about visitors who are gone from ICSI , whose email addresses may or may not work ,
+
+dialogue type : fh
+F : 
+
+dialogue type : qw
+F :  So what are we gonna do when we run into someone that we can't get in touch with ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy^2^bu^d^rt
+F :  Other methods ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s
+F :  Well , the qu the question is just whether how active it has to be .
+
+dialogue type : s
+F :  I mean , because they they filled out a contact information
+
+dialogue type : s
+F :  and that 's where I 'm sending the information .
+
+dialogue type : s
+F :  And so far everyone has done email .
+
+dialogue type : s
+F :  There isn't anyone who did , uh , any other contact method .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  So my original impression was that that was sufficient ,
+
+dialogue type : s
+F :  that if they give us contact information and that contact information isn't accurate that we fulfilled our burden .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk^rt
+F :  Alright .
+
+dialogue type : fg|s^cc
+F :  Yep . And we 'll see how many people respond to that email .
+
+dialogue type : s
+F :  So far , two people have .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^2^cs|s^aa
+F :  Respond to the email . Yep .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : fg|s
+F :  Well , and also if we want it ready by the fifteenth , that means we better give them deadline of the first ,
+
+dialogue type : s
+F :  if we have any prayer of actually getting everyone to respond in time .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^fe
+F :  Ugh !
+
+dialogue type : s
+F :  Disk space ,
+
+dialogue type : s^fe
+F :  oh my god !
+
+dialogue type : s
+F :  I hadn't thought about that .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  any meeting which has any bleeps in it we need yet another copy of .
+
+dialogue type : s^ar|s^nd
+F :  No , of course not .
+
+dialogue type : s^e
+F :  You need all the channels .
+
+dialogue type : s^aa|s
+F :  Yes . Absolutely . There 's a lot of cross - talk .
+
+dialogue type : s^ng
+F :  Well , but you have to copy the whole file .
+
+dialogue type : qy^d^f^g
+F :  Right ?
+
+dialogue type : s^df
+F :  Because we 're gonna be releasing the whole file .
+
+dialogue type : s^am|s
+F :  Yeah . It 's just I hate deleting any data .
+
+dialogue type : s
+F :  So I I don't want I really would rather make a copy of it , rather than bleep it out
+
+dialogue type : %-
+F : 
+
+dialogue type : s
+F :  Overlapping .
+
+dialogue type : fh|s
+F :  So , it 's it 's exactly a censor bleep .
+
+dialogue type : s^cs^rt.%--:s^fe.%--
+F :  So what I really think is " bleep "
+
+dialogue type : s^cs.%-
+F : 
+
+dialogue type : s
+F :  I delete the old one , put the new one in .
+
+dialogue type : s
+F :  There 's nothing left of the original signal .
+
+dialogue type : s^aa|s^na
+F :  Yeah . It would be qui quite easy to get it back again .
+
+dialogue type : qw^br^co
+F :  Say again ?
+
+dialogue type : s^aa
+F :  Yeah , that 's true . Yeah . Yep , that 's true .
+
+dialogue type : s
+F :  Backwards .
+
+dialogue type : %-
+F :  But ,
+
+dialogue type : qy
+F :  ha you 've seen the this the speech recognition system that reversed very short segments .
+
+dialogue type : qy^rt
+F :  Did you read that paper ?
+
+dialogue type : s
+F :  It wouldn't work .
+
+dialogue type : s
+F :  The speech recognizer still works .
+
+dialogue type : s^bk^m|s^aa
+F :  Forward but backward . That 's right .
+
+dialogue type : s^ba
+F :  Good point .
+
+dialogue type : s^aap
+F :  A point .
+
+dialogue type : fg|s^fa
+F :  Well , I 'm sorry if I sound a little peeved about this whole thing .
+
+dialogue type : s^df
+F :  It 's just we 've had meeting after meeting after meeting a on this
+
+dialogue type : s
+F :  and it seems like we 've never gotten it resolved .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^df
+F :  Well , and that 's exactly why I did it the way I did it ,
+
+dialogue type : s
+F :  which is the default is if you do nothing we 're gonna release it .
+
+dialogue type : s^rt
+F :  Because , you know , I have my stack of emails of to d to be done ,
+
+dialogue type : s^rt
+F :  that , you know , fifty or sixty long ,
+
+dialogue type : s
+F :  and the ones at the top I 'm never gonna get to .
+
+dialogue type : fg
+F : 
+
+dialogue type : s^aa^j
+F :  Yeah , right .
+
+dialogue type : qy.%-
+F : 
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : fg|s^ba
+F :  Yeah . That 's actually definitely a good point .
+
+dialogue type : s
+F :  The m email doesn't specify that you can just reply to the email , as op as opposed to going to the form
+
+dialogue type : %-
+F : 
+
+dialogue type : fg|s^2
+F :  Yeah , release .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^bd
+F :  A lot of mailers support return receipt .
+
+dialogue type : s^bd
+F :  But it doesn't confirm that they 've read it .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^2^bk
+F :  Oh , just a button .
+
+dialogue type : b
+F :  Oh , yeah .
+
+dialogue type : s^bk|s^am
+F :  Yeah . Unfor - Yeah , we could do that .
+
+dialogue type : s^ba^df
+F :  But I hate that .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^cs
+F :  Well , I could put a URL in there without any difficulty
+
+dialogue type : s
+F :  and even pretty simple MIME readers can do that .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : fg|s^bs
+F :  Yeah . Reply .
+
+dialogue type : s
+F :  Well , I cuz I use a text mail reader .
+
+dialogue type : qy^bu^d^rt
+F :  You you read email in VI ?
+
+dialogue type : s^cs
+F :  You could put wed bugs in the email .
+
+dialogue type : s
+F :  Well , what my s expectation is , is that we 'll send out one of these emails every time a meeting has been checked and is ready .
+
+dialogue type : s
+F :  So . Tha - that was my intention .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^aa
+F : 
+
+dialogue type : s^df
+F :  that we just happened to have a bunch all at once .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : qy^rt
+F :  Is that the way it 's gonna be , you think , Jane ?
+
+dialogue type : fg|s
+F :  Yeah . Now we haven't actually had anyone go through that meeting , to see whether the transcript is correct
+
+dialogue type : s
+F :  and to see how much was missed and all that sort of stuff .
+
+dialogue type : s^cs
+F :  So at some point we need to do that .
+
+dialogue type : s
+F :  I mean , the one thing I noticed is it did miss a lot of backchannels .
+
+dialogue type : s
+F :  There are a fair number of " yeahs " and " uh - huhs " that it 's just that aren't in there .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^bk
+F :  Yes , absolutely . Yeah .
+
+dialogue type : s^aa
+F :  Yes , absolutely . Absolutely .
+
+dialogue type : fg|s
+F :  Yeah . They 're they 're not in the segmented .
+
+dialogue type : s
+F :  It 's not that the IBM people didn't do it .
+
+dialogue type : s
+F :  Just they didn't get marked .
+
+dialogue type : qy^rt
+F :  There 's another meeting in here , what , at four ?
+
+dialogue type : qy^d^g
+F :  Right ?
+
+dialogue type : s^co
+F :  Yeah , so we have to finish by three forty - five .
+
+dialogue type : s
+F :  U uncertains .
+
+dialogue type : s
+F :  Web master .
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : qy^bu^d^t3
+F :  Spit upon ?
+
+dialogue type : s^ar|s
+F :  No , these are ours .
+
+dialogue type : s^ba
+F :  That 's cool .
+
+dialogue type : fg|s
+F :  Yeah , but I bet I bet they 're acoustically challenging parts anyway , though .
+
+dialogue type : qy^bh
+F :  Oh , really ?
+
+dialogue type : %--
+F : 
+
+dialogue type : s^bk|s
+F :  Oh , so it 's just jargon .
+
+dialogue type : s^2
+F :  It probably won't do any better .
+
+dialogue type : qy^rt
+F :  Did I say that ?
+
+dialogue type : s.%--
+F :  Well , that 's exactly why I put the extra option in ,
+
+dialogue type : s
+F :  is that I was afraid people would say , " let 's censor that because it 's wrong " ,
+
+dialogue type : s
+F :  and I don't want them to do that .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^fe
+F :  Ugh !
+
+dialogue type : s
+F :  It 's probably impedance matching problems .
+
+dialogue type : fh
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^ng
+F :  They 're just earphones .
+
+dialogue type : s^e^ng
+F :  They 're not headsets .
+
+dialogue type : s^e^ng
+F :  They 're not microphones .
+
+dialogue type : s
+F :  But if you need it , just get it .
+
+dialogue type : s
+F :  Come on .
+
+dialogue type : qy^rt
+F :  W uh , could you email out the brand ?
+
+dialogue type : s^df
+F :  Cuz I think sounds like people are interested .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s
+F :  Uh , the only one was Don wanted to , uh , talk about disk space yet again .
+
+dialogue type : s
+F :  Oh , I thought you meant the disk space .
+
+dialogue type : s^aa|s
+F :  Yeah , we know disk space is short .
+
+dialogue type : fg|s.%-
+F :  Yeah , it was really goo
+
+dialogue type : s
+F :  Uh , well , we 'll give you one then .
+
+dialogue type : s^by^fe
+F :  Oh , no .
+
+dialogue type : qo^m^rt
+F :  Soon ?
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s
+F :  Ne - new disks .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  Once they come in . Sure .
+
+dialogue type : s^cs^rt
+F :  If you 're if you 're desperate , I have some space on my drive .
+
+dialogue type : s
+F :  But I I vacillate between no space free and a few gig free .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s:s
+F :  A hundred gig here ,
+
+dialogue type : s:s
+F :  a hundred gig there .
+
+dialogue type : s
+F :  It 's eventually real disk space .
+
+dialogue type : b
+F :  Oh , yeah .
+
+dialogue type : b
+F :  Huh .
+
+dialogue type : s^2
+F :  Or she 's getting a good early start .
+
+dialogue type : s^2
+F :  When we remember to fill them out .
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : s
+F :  And Don is gonna be helping out with that .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : qy^rt
+F :  Did you wanna talk about that this afternoon ?
+
+dialogue type : s^e^rt
+F :  Not here , but later today ?
+
+dialogue type : s^bk
+F :  OK . OK .
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : s
+F : 
+
+dialogue type : s^bsc
+F :  automatic transcription ,
+
+dialogue type : s
+F :  but we 're kind of running late .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s
+F :  Fifteen minutes .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s.%-
+F :  If you wanna do a quick
+
+dialogue type : s
+F : 
+
+dialogue type : s^bk|s^cs
+F :  Yeah . Well , we can skip the digits .
+
+dialogue type : s
+F :  Whatever you want .
+
+dialogue type : qw
+F :  What do you have to say ?
+
+dialogue type : s^na
+F :  I 'm interested ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^fa
+F :  Sorry .
+
+dialogue type : s^ar|s
+F :  No . We were just talking before about alternating the subject of the meeting .
+
+dialogue type : s
+F :  And this week we were gonna try to do t automatic transcription status .
+
+dialogue type : s
+F :  But we sort of failed .
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : qh^rt
+F :  Did we ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk|s
+F :  OK . So now now we have the schedule .
+
+dialogue type : s^cc^t
+F :  So next week we 'll do automatic transcription status ,
+
+dialogue type : s
+F :  plus anything that 's real timely .
+
+dialogue type : s^ba^fe
+F :  Whew !
+
+dialogue type : s^j
+F :  Dodged that bullet .
+
+dialogue type : %-
+F :  Th
+
+dialogue type : qw^br^rt
+F :  Excuse me ?
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Oh . Right , right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : qw
+F :  When 's it due ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^ng
+F :  I don't have a paper
+
+dialogue type : s^df
+F :  but I 'd kinda like to go ,
+
+dialogue type : s^e
+F :  if I could .
+
+dialogue type : qy^rt
+F :  Is that alright ?
+
+dialogue type : s^bk|s
+F :  OK . I guess that 's " no " .
+
+dialogue type : s^bk|s^j^na
+F :  OK . Well , that th Hey , if that 's what it takes , that 's fine with me .
+
+dialogue type : s^j
+F :  I 'll pick up your dry - cleaning , too .
+
+dialogue type : qw^rt^t
+F :  Should we do digits ?
+
+dialogue type : h
+F :  Uh .
+
+dialogue type : z
+F :  Yep .
+
+dialogue type : z
+F :  Go for it .
+
+dialogue type : z
+F :  Hmm !
+
+dialogue type : z
+F :  Thanks .
+
+dialogue type : z
+F :  Thank you .
+

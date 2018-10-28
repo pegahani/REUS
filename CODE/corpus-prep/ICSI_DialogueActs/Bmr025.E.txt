@@ -1,0 +1,186 @@
+dialogue type : z
+E :  Yeah .
+
+dialogue type : s.%-
+E :  Well what you need
+
+dialogue type : s:s
+E :  All you need to do is say to Dan " gee it would be nice if this worked under Autoconf " and it 'll be done in a day .
+
+dialogue type : qy^d^g^rt
+E :  Right ?
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s
+E :  I I I wouldn't be surprised .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^2
+E :  James Christie .
+
+dialogue type : s^nd
+E :  Steve Renals is not SoftSound ,
+
+dialogue type : qy^d^g^rt
+E :  is he ?
+
+dialogue type : s
+E :  Steve wro i it 's Ste - Steve Renals wrote THISL IR .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  Here 's a here 's a crazy idea actually .
+
+dialogue type : qh^cs
+E :  Why don't you try and merge Transcriber and THISL IR ?
+
+dialogue type : s^df
+E :  They 're both Tcl interfaces .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s
+E :  And then you get they then you get the Windows media playing for free .
+
+dialogue type : s^aa|s^df
+E :  Right . But the point is that the Transcriber uses Snack and then you can but you can use a a lot of the same functionality
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^cs
+E :  Well my thought was is that it would be nice it would be nice to have the running transcripts um eh you know , from speaker to speaker .
+
+dialogue type : qy^d^g
+E :  Right ?
+
+dialogue type : qy^rt
+E :  Do you have you have , you know , a speaker mark here and a speaker mark here ?
+
+dialogue type : fg|s^cs
+E :  Right . Well that eh my thought was if you had like Multitrans or whatever do it .
+
+dialogue type : s^e
+E :  Or whatever .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Exactly .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^bu
+E :  I thought you guys were gonna burn C Ds ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Alright .
+
+dialogue type : qw.%-
+E : 
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s^cs
+E :  Well if you wanted to do that maybe the right architecture for it is to get a PDA with a wireless card .
+
+dialogue type : s
+E :  And and that way you can synchronize very easily with the the the meeting
+
+dialogue type : s^df
+E :  because you 'll be synchroni you can synchronize with the the Linux server
+
+dialogue type : fh
+E : 
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^cs
+E :  Well well you have a PDA
+
+dialogue type : s^cs^e
+E :  and may and you could have the same sort of X interface or whatever ,
+
+dialogue type : s
+E :  I mean , you 'd have to do a little eh a little bit of coding to do it .
+
+dialogue type : s.%--
+E :  But you could imagine ,
+
+dialogue type : s
+E :  I mean , if if all you really wanted was you didn't want this secondary note - taking channel
+
+dialogue type : s
+E :  but just sort of being able to use m markers of some sort ,
+
+dialogue type : s^cs
+E :  a PDA with a l a wireless card would be the probably the right way to go .
+
+dialogue type : s^cs
+E :  I mean even buttons you could do ,
+
+dialogue type : s^e
+E :  sort of ,
+
+dialogue type : s
+E :  I mean , as you said .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^na
+E :  The transfer function is less errorful ,
+
+dialogue type : s^aa
+E :  yes .
+
+dialogue type : fg
+E :  OK .
+
+dialogue type : fh
+E :  Alright .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa|s^na
+E :  Yes , this is number two for me today .
+
+dialogue type : b
+E :  Oh .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^bk
+E :  OK , alright .
+

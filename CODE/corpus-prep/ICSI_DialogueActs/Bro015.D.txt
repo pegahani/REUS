@@ -1,0 +1,264 @@
+dialogue type : fg
+D :  Uh . Alright .
+
+dialogue type : fh|s^t
+D :  So . I uh uh wanted to mention a couple little bits of news .
+
+dialogue type : fh|s
+D :  Um Hynek is supposed to come for a couple days next week .
+
+dialogue type : s
+D :  Don't know which days yet .
+
+dialogue type : s
+D :  So hopefully he 'll have some intensive time to to work with people .
+
+dialogue type : fh|s^t
+D :  Um . The second thing is that um we 're starting to talk about maybe having Sunil come here uh for some chunk of the summer .
+
+dialogue type : s
+D :  So that may or may not happen
+
+dialogue type : s
+D :  but if he does since actually Pratibha is going to be off at IBM um the uh effort will pretty much shift here ,
+
+dialogue type : s^df
+D :  cuz Sunil will be here and other people are working on other things I think .
+
+dialogue type : fh
+D :  So . So .
+
+dialogue type : fh|s
+D :  Uh . That 's my news .
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : s
+D :  There you go .
+
+dialogue type : s^arp
+D :  Yeah , I mean it may not happen .
+
+dialogue type : s
+D :  I mean he wants uh I think he wants some experience someplace else and he 's he 's uh thinking of going someplace ,
+
+dialogue type : s
+D :  but it 's I mean Pratibha is getting her experience going to IBM and he may come here .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^aap
+D :  But y I don't know maybe June .
+
+dialogue type : s
+D :  Maybe earlier .
+
+dialogue type : fh
+D :  But uh .
+
+dialogue type : s
+D :  Anyway , Hynek will be here next week and maybe he 'll know more about it .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bu
+D :  Oh so take a real VAD but apply it to to to the clean clean data .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : qy^rt
+D :  And and i when they 're talking about it , do you have the impression that they 're talking about a particular VAD which everybody would use ?
+
+dialogue type : qrr
+D :  or or just that everybody would use the same procedure ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Sounds like they 're still arguing .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  Uh but it sounds like none of this is really decided , that this is how things are leaning
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg|s.%--
+D : 
+
+dialogue type : qw
+D :  When is it ?
+
+dialogue type : qy^bu^d^rt
+D :  Next week ?
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : fh
+D :  Uh .
+
+dialogue type : qy^d^rt
+D :  So it sounds like basically things are slowing down a bit ?
+
+dialogue type : qy^d^rt
+D :  And and and trying to collate results ?
+
+dialogue type : qy^d
+D :  and get something from it ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s
+D :  But that sort of puts it on us to do it .
+
+dialogue type : s
+D :  But . Kind of puts it on us to put more in , then , really .
+
+dialogue type : qw
+D :  I mean . Uh . Who 's who 's was uh looking at the combination of uh spectral s subtraction approaches with what we had for instance .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : qw^br
+D :  What was that again ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Huh .
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : fg
+D : 
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : qy^d
+D :  I uh , I g so I guess nothing has ever happened about uh making a standardized uh place where the software sits so that people can work with it , and upgrade it ?
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s^co
+D :  Well , uh . Let 's let 's come back to this uh later .
+
+dialogue type : fh
+D :  Um . OK .
+
+dialogue type : fh|qy^rt
+D :  Um . Chuck , did you get a chance to do anymore stuff with the uh HTK ,
+
+dialogue type : qrr.%-
+D :  or ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : %-
+D :  u
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  This may be a very short meeting .
+
+dialogue type : fh
+D :  Uh . Um .
+
+dialogue type : qy^d
+D :  Anything from your side ?
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : qy^d^rt
+D :  Dave ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Sure .
+
+dialogue type : qw^rt
+D :  Wh - who 's they they ?
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg
+D :  Um .
+
+dialogue type : fg
+D :  Let 's see .
+
+dialogue type : fh|s^cs^t^tc
+D :  Um . Why don't why don't we uh if there aren't any other major things , why don't we do the digits , and then then uh turn the mikes off .
+
+dialogue type : z
+D :  So I 'll start .
+
+dialogue type : z
+D :  Uh .
+
+dialogue type : z
+D :  OK .
+

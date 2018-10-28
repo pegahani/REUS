@@ -1,0 +1,1365 @@
+dialogue type : s^bk
+E :  Alright .
+
+dialogue type : %-
+E :  So .
+
+dialogue type : s
+E :  It is uh , must be February fifteenth .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  We didn't have a front - end meeting today .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b.%
+E :  Mmm .
+
+dialogue type : s^tc
+E :  OK .
+
+dialogue type : %--
+E :  So .
+
+dialogue type : s^t^tc
+E :  Agenda .
+
+dialogue type : qo^t
+E :  Any agenda items today ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK audio monitoring , Jane .
+
+dialogue type : s^bk
+E :  Hmm .
+
+dialogue type : fg
+E :  Um .
+
+dialogue type : s
+E :  I mean , were this a professional audio recording , what we would do what you would do is in testing it is , you would actually do all this wiggling and make sure that that that things are not giving that kind of performance .
+
+dialogue type : s
+E :  And if they are , then they can't be used .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : fh|s^t1
+E :  Um . Let 's see .
+
+dialogue type : s^t^tc
+E :  I guess I would like to have a discussion about you know where we are on uh , recording , transcription
+
+dialogue type : s
+E :  you know , basically you know where we are on the corpus .
+
+dialogue type : s^t
+E :  And then um , the other thing which I would like to talk about which is a real meta - quest , I think , deal is , uh , agendas .
+
+dialogue type : s^tc
+E :  So maybe I 'll I 'll start with that actually .
+
+dialogue type : fh|s
+E :  Uh , um . Andreas brought up the fact that he would kinda like to know , if possible , what we were gonna be talking about
+
+dialogue type : s^df
+E :  because he 's sort of peripherally involved to this point ,
+
+dialogue type : s
+E :  and if there 's gonna be a topic about discussion about something that he uh strongly cares about then he would come
+
+dialogue type : s
+E :  and And I think part of part of his motivation with this is that he 's trying to help us out ,
+
+dialogue type : s
+E :  in the because of uh the fact that the meetings are are tending to become reasonably large now on days when everybody shows up
+
+dialogue type : s
+E : 
+
+dialogue type : s
+E :  and and I 'm sure help out his own time .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I 'd I think that this is a wish on his part .
+
+dialogue type : fh|s
+E :  Uh . It 's actually gonna be hard
+
+dialogue type : s^df
+E :  because it seems like a lot of times uh things come up that are unanticipated
+
+dialogue type : %--
+E : 
+
+dialogue type : s^cs
+E :  But um , we could try anyway ,
+
+dialogue type : fh|s
+E :  uh , do another try at coming up with the agenda uh , at some point before the meeting ,
+
+dialogue type : fh|s^cs
+E :  uh , say the day before .
+
+dialogue type : s^aa
+E :  OK .
+
+dialogue type : qy^cs^rt
+E :  You you wanna volunteer to do that ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  Alright so we 'll send out agenda request .
+
+dialogue type : fh
+E :  Uh .
+
+dialogue type : s
+E :  Yeah , I have to tell you for the uh for the admin meeting that we have , Lila does that um every time before an admin meeting .
+
+dialogue type : s
+E :  And uh
+
+dialogue type : s.%--
+E :  But but But .
+
+dialogue type : s^cs^rt
+E :  Uh . But we can try .
+
+dialogue type : s
+E :  Maybe it 'll work .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg|%-
+E : 
+
+dialogue type : s^tc.%--
+E : 
+
+dialogue type : s^tc
+E :  So we 're done with that topic .
+
+dialogue type : s^t
+E :  The other topic I was thinking of was the sta status on microphones and channels , and all that .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qh^cs
+E :  Why why don't we do that .
+
+dialogue type : qw
+E :  So how many channels do you get to have in a wireless setup ?
+
+dialogue type : %-
+E :  So , um .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^bu
+E :  And right now we can have up to six .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bu
+E :  Beyond the mike the cost of the mikes the only thing is the base station that 's nine hundred dollars .
+
+dialogue type : s^co
+E :  Oh , we should do it .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s^tc
+E :  But we 've had more problems with that .
+
+dialogue type : s
+E :  And that sort of bypasses the whole the whole Jimbox thing and all that .
+
+dialogue type : s
+E :  And so um , we we seem to have uh , a reliable way of getting the data in , which is through the ra Sony radio mikes ,
+
+dialogue type : s
+E :  as long as we 're conscious about the batteries .
+
+dialogue type : s
+E :  That seems to be the key issue .
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : fh|s
+E :  Um , That 's the only thing with them .
+
+dialogue type : s
+E :  But the quality seems really good
+
+dialogue type : fh
+E : 
+
+dialogue type : fh|s
+E :  Um I heard from UW that they 're they 're uh very close to getting their , uh setup purchased .
+
+dialogue type : s
+E :  They 're they 're they 're buying something that you can just sort of buy off the shelf .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : h|s^no
+E :  Uh , I don't know .
+
+dialogue type : s^ng
+E :  Probably we shouldn't probably we shouldn't talk about funding stuff .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^tc
+E :  But anyway there 's there 's there 's uh , uh other activities that are going on there and and uh and NIST and UW .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : fh|s
+E :  Um . But but yeah I thin I think that at least the message we can tell other people is that our experience is is quite positive with the Sony ,
+
+dialogue type : s
+E :  uh , radio - mikes .
+
+dialogue type : s^tc
+E :  Now the one thing that you have said that actually concerns me a little is you 're talking about changing the headsets
+
+dialogue type : s
+E :  meaning changing the connector , which means some hand - soldering or something ,
+
+dialogue type : qy^bu^d^g
+E :  right ?
+
+dialogue type : qy^bh^m^rt
+E :  No ?
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  Nothing against you and your hand - soldering
+
+dialogue type : fh
+E : 
+
+dialogue type : fh|s^bs^tc.%--
+E :  Uh , OK , so that 's being done professionally
+
+dialogue type : fh
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa^r
+E :  Yeah .
+
+dialogue type : s^arp.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  Well , we 'll see what it it 's like .
+
+dialogue type : sj
+E :  That tha that can be quite good .
+
+dialogue type : %--
+E : 
+
+dialogue type : s^bk
+E :  Yeah , OK .
+
+dialogue type : fg
+E :  Good .
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s^co
+E :  So let 's go with that .
+
+dialogue type : fg
+E :  Uh ,
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  So , um , uh , Dave isn't here but he was going to start working on some things with the digits .
+
+dialogue type : fh|s
+E :  Uh , so he 'll be interested in what 's going on with that .
+
+dialogue type : %--
+E : 
+
+dialogue type : qy^bu^rt
+E :  Was the decision last time was that the the uh transcribers were going to be doing stuff with the digits as well ?
+
+dialogue type : qr.%--
+E :  Has that started , or is that ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  So anyway I think we we have at least one uh , user for the digits once they get done , which will be Dave .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : fg|qy^rt.%-
+E : 
+
+dialogue type : s^no
+E :  I don't know if Dave is on the list ,
+
+dialogue type : s^e.%--
+E :  if he 's invited to these meetings ,
+
+dialogue type : fh
+E :  uh
+
+dialogue type : s^e^rt.%--
+E :  if he knows .
+
+dialogue type : s^no
+E :  I don't know .
+
+dialogue type : h|s.%--
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  Yeah , so this might be a conflict for him .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : fg|%--
+E :  Uh , so .
+
+dialogue type : s^bk
+E :  Oh , OK .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s
+E :  So , that 's why we 're not seeing him .
+
+dialogue type : fh
+E :  OK .
+
+dialogue type : fh|s^t^tc
+E :  Uh , transcriptions , uh , beyond the digits , where we are , and so on .
+
+dialogue type : s^t
+E :  And the and the recordings also ,
+
+dialogue type : s
+E :  just where we are .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : qw^rt
+E :  How much of that is digits ?
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bu
+E :  that 's including digits ,
+
+dialogue type : qy^d^g
+E :  right ?
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  So anyway there 's at least probably thirty hours ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s^m^na
+E :  of Of non - digits .
+
+dialogue type : b
+E :  Yeah , yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+E :  And and again the main track that you 're working with is elev eleven hours ?
+
+dialogue type : qy^g
+E :  Is that right ?
+
+dialogue type : s^bk
+E :  Yeah , OK .
+
+dialogue type : qy^rt
+E :  Is that is that that including digits ?
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I mean it 's probably more than that but but with of of non - digits .
+
+dialogue type : s^bk
+E :  Oh , OK .
+
+dialogue type : s^bk
+E :  Oh , I see .
+
+dialogue type : s^bk
+E :  Oh , I see .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qw^tc.%--
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Oh , I see .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qw
+E :  What are some of the other features ? Besides the energy ?
+
+dialogue type : s
+E :  You said you 're trying some different features , or something .
+
+dialogue type : s^2^bu^rt
+E :  Cu - Cube root ?
+
+dialogue type : b
+E :  Ah .
+
+dialogue type : qy^rt
+E :  Fletcher Munson ?
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^bk
+E :  Oh , OK .
+
+dialogue type : s^bk
+E :  Yeah , alright .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : fh
+E :  Um , let 's see .
+
+dialogue type : %--
+E : 
+
+dialogue type : qr^tc.%-
+E :  Were were you basically done with
+
+dialogue type : s^t^tc
+E :  the transcription part ? So I guess the next thing is this uh bleep editing .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  I I can't help but wonder if this is maybe a little more elaborate than is needed .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh
+E :  Uh ,
+
+dialogue type : s
+E :  I mean , for me I would actually want to have some pieces of paper that had the transcription and I would sort of flip through it .
+
+dialogue type : s
+E :  And then um if I thought it was OK , I 'd say " it 's OK " .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh|s
+E :  uh I mean it depends how this really ends up working out ,
+
+dialogue type : sj
+E :  but I guess my thought was that the occasion of somebody wondering whether something was OK or not and needing to listen to it was gonna be extremely rare .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : %--
+E : 
+
+dialogue type : s.%--
+E :  I think what I was sort of saying is that if you just say " here is a here is "
+
+dialogue type : s:qy
+E :  I mean this maybe it sounds paleolithic but but I just thought if you handed them some sheets of paper , that said , uh , " here 's what was said in this transcription is it OK with you ?
+
+dialogue type : s
+E :  and if it is , here 's this other sheet of paper that you sign that says that it 's OK " .
+
+dialogue type : s
+E :  And then they 'd hand it back to you .
+
+dialogue type : qy.%--
+E : 
+
+dialogue type : qw
+E :  I mean how do you read books ?
+
+dialogue type : qy^bh^rt
+E :  Really ?
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa
+E :  Going to a web site is easy ,
+
+dialogue type : sj^nd
+E :  but flipping through a hundred pounds a hundred pages of stuff is not easy on the web .
+
+dialogue type : qy^bh^rt
+E :  Really ?
+
+dialogue type : s
+E :  So here 's the way I was imagining it , and maybe I 'm wrong ,
+
+dialogue type : s
+E :  but the way I imagined it was that um , the largest set of people is gonna go " oh yeah , I didn't say anything funny in that meeting
+
+dialogue type : s^co
+E :  just go ahead ,
+
+dialogue type : qw
+E :  where 's the where 's the release ? "
+
+dialogue type : s
+E :  And then there 'll be a subset of people ,
+
+dialogue type : qy^f^rt
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^co
+E :  I mean think of who it is we 've been recording mostly .
+
+dialogue type : s
+E :  OK there 'll be a subset of people , who um , will say uh " well , yeah , I really would like to see that . "
+
+dialogue type : sj.%--
+E :  And for them , the easiest way to flip through , if it 's a really large document ,
+
+dialogue type : s
+E :  I mean unless you 're searching .
+
+dialogue type : s
+E :  Searching , of course , should be electronic ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  so if you provide some search mechanism you go to every place they said something or something like that ,
+
+dialogue type : s
+E :  but see then we 're getting more elaborate with this thing .
+
+dialogue type : fh|s
+E :  Um if if uh you don't have search mechanisms you just sort of have this really , really long document ,
+
+dialogue type : s
+E :  I mean whenever I 've had a really , really long document that it was sitting on the web , I 've always ended up printing it out .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I mean , you you 're you 're not necessarily gonna be sitting at the desk all the time ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I mean , this is how I was imagining it , anyway .
+
+dialogue type : s
+E :  And then I figured , that out of that group , there would be a subset who would go " hmm you know I 'm really not sure about this section here , "
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E :  S It seems like i
+
+dialogue type : s
+E :  if I 'm right in that , it seems like you 're setting it up for the most infrequent case , rather than for the most frequent case .
+
+dialogue type : s
+E :  So that uh , now we have to worry about privacy ,
+
+dialogue type : s
+E :  we have to worry about all these passwords , for different people
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : h|s^aa
+E :  Um , yeah , that 's true .
+
+dialogue type : %--
+E : 
+
+dialogue type : s^am
+E :  Yeah , I guess we don't need their signature .
+
+dialogue type : s
+E :  I guess an email OK is alright .
+
+dialogue type : s^nd^no
+E :  Uh I don't know about that .
+
+dialogue type : s^bu
+E :  But th what they signed in the consent form , was something that said you can use my voice .
+
+dialogue type : qy^d^g^rt
+E :  Right ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk|s^ng
+E :  Yeah , but that 's our decision then .
+
+dialogue type : qy^d^g
+E :  Right ?
+
+dialogue type : s^nd
+E :  I think it is .
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : s
+E :  OK , well , if that 's what it said .
+
+dialogue type : fg|s
+E :  Um I mean it 's also a mixture of people ,
+
+dialogue type : s
+E :  I mean some people are r do their work primarily by sitting at the computer , flipping around the web ,
+
+dialogue type : s^rt
+E :  and others do not .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  this uh a a set of skills that they would have to gain .
+
+dialogue type : qy^f
+E :  You know ?
+
+dialogue type : s
+E :  It depends on what meetings .
+
+dialogue type : s^aap
+E :  In the meetings so far , yeah .
+
+dialogue type : s
+E :  But we 're trying to expand this ,
+
+dialogue type : qy^f
+E :  right ?
+
+dialogue type : s
+E :  So I I I actually think that paper is the more universal thing .
+
+dialogue type : s^nd
+E :  No , I think we have to be able to print it out .
+
+dialogue type : s
+E :  It 's not just if they want to print it out .
+
+dialogue type : %-
+E : 
+
+dialogue type : %-
+E :  I I th
+
+dialogue type : %-
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s^arp
+E :  Certainly for everybody who 's been in the meetings so far it would be sufficient .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^tc
+E :  There 's another aspect to this which maybe is part of why this is bothering me .
+
+dialogue type : fh|s
+E :  Um , I think you 're really trying very hard to make this as convenient as possible for people to do this .
+
+dialogue type : fg
+E :  I I I understand .
+
+dialogue type : s
+E :  I think that 's the bad idea .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^fe
+E :  Really .
+
+dialogue type : s^df
+E :  You 're gonna end up with all these little patchy things , whereas really what we want to do is have the the the bias towards letting it go .
+
+dialogue type : s.%--
+E :  Because nob you
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  one or twi once or twice , in the re in the meetings we 've heard , where somebody said something that they might be embarrassed by ,
+
+dialogue type : s
+E :  but overall people are talking about technical topics .
+
+dialogue type : s
+E :  Nobody 's gonna get hurt .
+
+dialogue type : s
+E :  Nobody 's being l libeled .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  We 're playing the lawyer 's game , and we 're playing we 're we 're we 're looking for the extreme case .
+
+dialogue type : s
+E :  If we really orient it towards that extreme case , make it really easy , we 're gonna end up encouraging a headache .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I 'm sort of psyching myself out here ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^nd.%-
+E : 
+
+dialogue type : %-
+E :  but i
+
+dialogue type : s^df
+E :  And and it really depends on what kind of research you 're doing .
+
+dialogue type : s^df
+E :  I think some researchers who are gonna be working with this corpus years from now are really gonna be cursing the fact that there 's a bunch of stuff in there that 's missing from the dialogue .
+
+dialogue type : s^r
+E :  You know , it depends on the kind of research they 're doing ,
+
+dialogue type : s
+E :  but it might be , uh it might be really a a pain .
+
+dialogue type : s
+E : 
+
+dialogue type : s
+E :  the one who said it or someone who is being spoken about , we definitely want to allow the option of it being bleeped out .
+
+dialogue type : s
+E :  But I really think we wanna make it the rare incidence .
+
+dialogue type : s
+E :  And and uh , I am just a little worried about making it so easy for people to do ,
+
+dialogue type : s
+E :  and so much fun ! that they 're gonna go through and bleep out stuff .
+
+dialogue type : s
+E :  and they can bleep out stuff they don't like too ,
+
+dialogue type : qy^d^g
+E :  right
+
+dialogue type : s
+E :  from somebody else , as you say ,
+
+dialogue type : s^e
+E :  you know , so " well I didn't like what he said . "
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^bsc.%-
+E : 
+
+dialogue type : s
+E :  You - you 've talked me into that ,
+
+dialogue type : s^cs
+E :  but I I just think that we should make it harder to do .
+
+dialogue type : s^cs
+E :  So maybe you don't give them access to the web interface unless they really need it .
+
+dialogue type : fg
+E :  So so so
+
+dialogue type : s^fa
+E : 
+
+dialogue type : s
+E :  so so So maybe this is a s a way out of it .
+
+dialogue type : s
+E :  You 've provided something that 's useful for you to do handle ,
+
+dialogue type : s
+E :  and useful for someone else if they need it .
+
+dialogue type : s
+E :  But I think the issue of privacy and ease and so forth should be that uh , they get access to this if they really need it .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : %-
+E :  W w
+
+dialogue type : %-
+E : 
+
+dialogue type : %-
+E :  y
+
+dialogue type : s^nd
+E :  but you don't necessarily have to distribute passwords is what I 'm saying .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^ar
+E :  No , no , no .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s
+E :  But we don't even necessarily need to end up distributing passwords at all .
+
+dialogue type : s^ar
+E :  No , no .
+
+dialogue type : s
+E :  You 're missing the point .
+
+dialogue type : s
+E :  We 're We 're trying i We 're trying to make it less of an obvious just l l l l uh fall off a log , to do this .
+
+dialogue type : qy^f^rt
+E :  Right ?
+
+dialogue type : s^cs.%--
+E : 
+
+dialogue type : s
+E :  not just for fun ,
+
+dialogue type : qy^f
+E :  OK ?
+
+dialogue type : s
+E :  but to to check this for uh things that they 're worried about having said or if they 're willing to just send an approval of it , at from their memory .
+
+dialogue type : fh|s^cs
+E :  Um and , uh , and we should think carefully actually we should review go through how that 's worded ,
+
+dialogue type : qy^f^rt
+E :  OK ?
+
+dialogue type : s.%--
+E :  Then , if someone uh wants to review it , uh ,
+
+dialogue type : s^df|s^cs
+E :  and I know you don't like this , but I 'm offering this as a suggestion , is that is that we then give them a print out .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aap|s^arp.%-
+E :  I know you 'd prefer it , but the proble
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  there 's a problem with it .
+
+dialogue type : s^ng
+E :  Well you can go too far in that direction , and you need to find somewhere between I think ,
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Having access to it doesn't necessarily mean , that having it
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s
+E :  It just means they have the right to have it .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg|s
+E :  Um . Yeah , I mean I don't wanna fool them ,
+
+dialogue type : s
+E :  I just meant that e every ev any time you say anything to anyone there is in fact a a bias that is presented ,
+
+dialogue type : qy^d^g
+E :  right ?
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %-
+E : 
+
+dialogue type : s.%-
+E :  Yeah , uh no that it tha
+
+dialogue type : b
+E :  that 's right .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bk
+E :  Yeah , OK ,
+
+dialogue type : s.%--
+E :  so . wh um I think I have an idea that may be sat may satisfy both you and me in this which is , um ,
+
+dialogue type : s
+E :  it 's a it we just go over carefully how these notes to people are worded .
+
+dialogue type : s^e
+E :  So I I just want it to be worded in such a way where it gives the strong impre it gives very , I mean nothing hidden , v very strongly the bias that we would really like to use all of these data .
+
+dialogue type : s^e
+E :  That that we really would rather it wasn't a patchwork of things tossed out ,
+
+dialogue type : s^e
+E :  that it would be better for , um , our , uh , field if that is the case .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : sj
+E :  And I don't think there 's anything in the legal aspects that that is hurt by our expressing that bias .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  See I 'm @ @ worried about this interface so much fun that people start bleeping stuff out just as just because they can .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^no
+E :  Well I don't know .
+
+dialogue type : s^nd
+E :  I kind of had fun when you played me something that was bleeped out .
+
+dialogue type : qy^d^g
+E :  You know .
+
+dialogue type : %--
+E :  I
+
+dialogue type : qy^bh
+E :  Oh they won't ?
+
+dialogue type : sj^ba
+E :  Oh good .
+
+dialogue type : s^bu
+E :  So you haven't made it so much fun .
+
+dialogue type : sj^ba
+E :  Oh good .
+
+dialogue type : s^bk
+E :  OK ,
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E :  Yeah so if we have if i
+
+dialogue type : s
+E :  Again let 's you know , sort of circulate the the wording on each of these things and get it right ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s^aa
+E :  OK .
+
+dialogue type : s
+E :  Uh , fair enough .
+
+dialogue type : s
+E :  Turn about is fair play ,
+
+dialogue type : s^fa.x
+E :  Sorry .
+
+dialogue type : s
+E :  I 'm I 'm I 'm I thought I I thought about it with one of my background processes
+
+dialogue type : s
+E :  and I uh it 's uh it 's uh , it 's fine to do the email .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^e.%--
+E : 
+
+dialogue type : s
+E :  it 's now fairly routine in a lot of arrangements that I do with people on contracts and so forth
+
+dialogue type : s
+E :  that that uh if it 's if it 's that sort of thing where you 're you 're saying uh " OK I agree , we want eighty hours of this person at such - and - such amount , and I agree that 's OK , "
+
+dialogue type : fh|s
+E :  uh if it 's a follow up to some other agreement where there was a signature it 's often done in email now
+
+dialogue type : s
+E :  so it 's it 's OK .
+
+dialogue type : %-
+E :  Um .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^m
+E :  Liz will like it .
+
+dialogue type : s
+E :  We had a pretty strong disagreement going there .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : %--
+E :  i i
+
+dialogue type : s
+E :  I mean , you might be very accurate in putting down what they actually said ,
+
+dialogue type : s
+E :  but , when they hear it , themselves , they may hear something different because they know what they meant .
+
+dialogue type : s
+E :  No , I 'm serious .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  so we might we might get some feedback from people that such - and - such was , you know , not not really what I said .
+
+dialogue type : %-
+E :  Yeah , but ,
+
+dialogue type : s^aa
+E :  Yeah , sure .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa|s^arp.%--
+E :  Well yeah , but you can't dep
+
+dialogue type : s^ng
+E :  I mean , most people will not wanna take the time to do that , though .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s
+E :  But I mean if you were at a meeting , and and you you don't think , at least , that you said anything funny
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^aa.x
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : sj
+E :  Yeah . You would think it would be rare ,
+
+dialogue type : s^df.%--
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^t.%--
+E : 
+
+dialogue type : s^aap^m
+E :  Kind of done .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : qr.%--
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  That 's fine .
+
+dialogue type : s^df
+E :  I just didn't wanna go by you , if you had something .
+
+dialogue type : s^bu
+E :  You don't have anything to say .
+
+dialogue type : s^ar
+E :  Nah .
+
+dialogue type : s^j^t3.%--
+E : 
+
+dialogue type : s^aa
+E :  Oh yeah .
+
+dialogue type : z
+E :  Wow .
+

@@ -1,0 +1,1725 @@
+dialogue type : s.%--
+G :  Well , we actually figured out a way to
+
+dialogue type : s
+G :  the the groupings are randomly generated .
+
+dialogue type : s^ng
+G :  I think they may still do it ,
+
+dialogue type : fh
+G :  um ,
+
+dialogue type : %-
+G : 
+
+dialogue type : s^bk|s.%--
+G :  I well OK I it might help ,
+
+dialogue type : s^am
+G :  I would like to g get away from having only one specific grouping .
+
+dialogue type : fh|s
+G :  Um , so if that 's your question ,
+
+dialogue type : s^df
+G :  but I mean it seems to me that , at least for us , we can learn to read them as digits
+
+dialogue type : s
+G :  if that 's what people want .
+
+dialogue type : %-
+G :  I I 'm
+
+dialogue type : s
+G :  don't think that 'd be that hard to read them as single digits .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : s
+G :  and it seems like that might be better for you guys
+
+dialogue type : s^df
+G :  since then you 'll have just more digit data ,
+
+dialogue type : s
+G :  and that 's always a good thing .
+
+dialogue type : s
+G :  It 's a little bit better for me too
+
+dialogue type : s^df
+G :  because the digits are easier to recognize .
+
+dialogue type : s^df^e
+G :  They 're better trained than the numbers .
+
+dialogue type : s^aa|s^na
+G :  Right . Right , read them as single digits ,
+
+dialogue type : s:s
+G :  so sixty - one w is read as six one ,
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^df.%-
+G :  But it 's nice to get it in this room with the acous
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s^na
+G :  Well that 's fine with me as long as It 's just that I didn't want to cause the people who would have been collecting digits the other way to not have the digits .
+
+dialogue type : fh
+G : 
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : s^no
+G :  It 's actually unclear right now .
+
+dialogue type : s
+G :  I just thought well we 're if we 're collec collecting digits , and Adam had said we were running out of the TI forms , I thought it 'd be nice to have them in groups ,
+
+dialogue type : s^rt
+G :  and probably , all else being equal , it 'd be better for me to just have single digits
+
+dialogue type : s^df
+G :  since it 's , you know , a recognizer 's gonna do better on those anyway ,
+
+dialogue type : s^df^e
+G :  um , and it 's more predictable .
+
+dialogue type : s
+G :  So we can know from the transcript what the person said and the transcriber , in general .
+
+dialogue type : s
+G :  But if they make mistakes , it 's no big deal
+
+dialogue type : s^e:s
+G :  if the people say a hundred instead of " one OO " .
+
+dialogue type : s^cs
+G :  and also w maybe we can just let them choose " zero " versus " O " as they as they like
+
+dialogue type : s^df:s
+G :  because even the same person c sometimes says " O " and sometimes says " zero " in different context ,
+
+dialogue type : s^ba
+G :  and that 's sort of interesting .
+
+dialogue type : s^bd
+G :  So I don't have a Specific need
+
+dialogue type : s^df
+G :  cuz if I did I 'd probably try to collect it , you know , without bothering this group ,
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa|s
+G :  Right , and you can give an example
+
+dialogue type : s:s
+G :  like , you know , " six sixty - one would be read as six one " .
+
+dialogue type : s
+G :  And I think people will get it .
+
+dialogue type : s^aa
+G :  Right , right .
+
+dialogue type : s^ba
+G :  It 's just easier to read .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : fg
+G :  OK
+
+dialogue type : s
+G :  I also had a hard hard time with the words ,
+
+dialogue type : s
+G :  but then we went back and forth on that .
+
+dialogue type : s
+G :  OK , so let 's give that a try
+
+dialogue type : fh
+G : 
+
+dialogue type : qw
+G :  I mean what do other people think
+
+dialogue type : s^df
+G :  cuz you guys are reading them .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^ba|s^bk
+G :  Great . OK .
+
+dialogue type : s
+G :  Well let 's give it a try .
+
+dialogue type : s^aa|s
+G :  Righ - right , and you just they 're randomly generated and randomly assigned to digits .
+
+dialogue type : s^aa|s^rt
+G :  Right , just groupings in terms of number of groups in a line ,
+
+dialogue type : s^e
+G :  and number of digits in a group ,
+
+dialogue type : s
+G :  and the pattern of groupings .
+
+dialogue type : h|s
+G :  Um , I I just roughly looked at what kinds of digit strings are out there ,
+
+dialogue type : s
+G :  and they 're usually grouped into either two , three , or four , four digits at a time .
+
+dialogue type : s.%--
+G :  And they can have ,
+
+dialogue type : s
+G :  I mean , actually , things are getting longer and longer .
+
+dialogue type : s
+G :  In the old days you probably only had three sequences , and telephone numbers were less , and so forth .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  Well if you look at it , there are between like three and five groups ,
+
+dialogue type : s
+G :  and each one has between two and four groupings
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  I purposely didn't want them to look like they were in any kind of pattern .
+
+dialogue type : fh
+G :  So
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s
+G :  But I think it 'd be great i to be able to compare digits ,
+
+dialogue type : s
+G :  whether it 's these digits or TI - digits , to speakers , um , and compare that to their spontaneous speech ,
+
+dialogue type : s
+G :  and then we do need you know a fair amount of of digit data
+
+dialogue type : s^df
+G :  because you might be wearing a different microphone
+
+dialogue type : s
+G :  and , I mean so it 's it 's nice to have the digits you know , replicated many times .
+
+dialogue type : s
+G :  Especially for speakers that don't talk a lot .
+
+dialogue type : fh
+G :  So um ,
+
+dialogue type : s^e
+G :  for adaptation .
+
+dialogue type : s^ar|s^df
+G :  No , I 'm serious ,
+
+dialogue type : s
+G :  so we have a problem with acoustic adaptation ,
+
+dialogue type : s
+G :  and we 're not using the digit data now ,
+
+dialogue type : %-
+G : 
+
+dialogue type : s^na|s^aa
+G :  Not for adaptation , nope .
+
+dialogue type : s
+G :  v W we 're not we were running adaptation only on the data that we ran recognition on
+
+dialogue type : s
+G :  and I 'd As soon as someone started to read transcript number , that 's read speech
+
+dialogue type : s:s
+G :  and I thought " well , we 're gonna do better on that ,
+
+dialogue type : s
+G :  that 's not fair to use " .
+
+dialogue type : s
+G :  But , it might be fair to use the data for adaptation ,
+
+dialogue type : fh
+G :  so .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa
+G : 
+
+dialogue type : s^df.%--
+G :  Well , it sh I mean it 's the same micropho
+
+dialogue type : s
+G :  see the nice thing is we have that in the in the same meeting ,
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa|s
+G :  Right , and so I still like the idea of having some kind of digit data .
+
+dialogue type : s.%--
+G :  The only thing that we don't have ,
+
+dialogue type : s^bd^df
+G :  I know this sounds weird ,
+
+dialogue type : s^bd^e
+G :  and maybe it 's completely stupid ,
+
+dialogue type : s
+G :  but we don't have any overlapping digits .
+
+dialogue type : s^df
+G :  An - yea I know it 's weird ,
+
+dialogue type : %-
+G : 
+
+dialogue type : s^bk|s
+G :  Alright everybody 's laughing .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^df
+G :  I 'm just talkin for the stuff that like Dan Ellis is gonna try ,
+
+dialogue type : s^e
+G :  you know , cross - talk cancellation .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s
+G :  Wait oh it these are all the same forms .
+
+dialogue type : s^bk|%-
+G : 
+
+dialogue type : s^co
+G :  So you plu you plug your ears .
+
+dialogue type : s
+G :  Well , what I mean is actually no not the overlaps that are well - governed linguistically ,
+
+dialogue type : s
+G :  but the actual fact that there is speech coming from two people
+
+dialogue type : s.%--
+G :  and the beam - forming stuf
+
+dialogue type : s
+G :  all the acoustic stuff that like Dan Ellis and and company want to do .
+
+dialogue type : s^ba
+G :  Digits are nice and well behaved ,
+
+dialogue type : fh
+G :  I mean
+
+dialogue type : s^bd
+G :  Anyway , it 's just a thought .
+
+dialogue type : s^df
+G :  It it would go faster .
+
+dialogue type : s.%-
+G :  It would take one around amount of ti
+
+dialogue type : s^na
+G :  That 's right .
+
+dialogue type : s^bd
+G :  I I mea I 'm I was sort of serious ,
+
+dialogue type : s^bd
+G :  but I really , I mean , I 'm I don't feel strongly enough that it 's a good idea ,
+
+dialogue type : fh
+G :  so .
+
+dialogue type : s^ba
+G :  A and that prosody was great , by the way .
+
+dialogue type : s
+G :  It it sort of sounded like a duet , or something .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^fa
+G :  I 'm sorry .
+
+dialogue type : s
+G :  I 'm mean I think it 's doable ,
+
+dialogue type : s^df.%-
+G : 
+
+dialogue type : s^cs
+G :  So , we we could have a round like where you do two at a time ,
+
+dialogue type : s^cs
+G :  and then the next person picks up when the first guy 's done , or something .
+
+dialogue type : s.%-
+G :  Like a ,
+
+dialogue type : qw
+G :  what do you call it ?
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa|s^na
+G :  yeah , like that .
+
+dialogue type : s
+G :  Then it would go like h twice as fast , or a third as fast .
+
+dialogue type : s^bd
+G :  Anyway , it 's just a thought .
+
+dialogue type : s.%--
+G :  I 'm actually sort of serious if it would help people do that kind o
+
+dialogue type : s^df
+G :  but the people who wanna work on it we should talk to them .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^cs
+G :  Can try it out .
+
+dialogue type : s^cs
+G :  If we have nothing if we have no agenda we could do it some week .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^j^na
+G :  I 'm all " four " it .
+
+dialogue type : s^bk
+G :  Oh , oh !
+
+dialogue type : s^aa
+G :  Right , yeah .
+
+dialogue type : s
+G :  Well I was actually gonna skip the ASR results part , in favor of getting the transcription stuff talked about
+
+dialogue type : s^df
+G :  since I think that 's more important to moving forward ,
+
+dialogue type : s
+G :  but I mean Morgan has this paper copy
+
+dialogue type : s.%--
+G :  and if people have questions ,
+
+dialogue type : s
+G :  um , it 's pretty preliminary in terms of ASR results
+
+dialogue type : s^df
+G :  because we didn't do anything fancy ,
+
+dialogue type : s
+G :  but I think e just having the results there ,
+
+dialogue type : s
+G :  and pointing out some main conclusions
+
+dialogue type : s
+G :  like it 's not the speaking style that differs ,
+
+dialogue type : s
+G :  it 's the fact that there 's overlap that causes recognition errors .
+
+dialogue type : s
+G :  And then , the fact that it 's almost all insertion errors ,
+
+dialogue type : s
+G :  which you would expect
+
+dialogue type : s
+G :  but you might also think that in the overlapped regions you would get substitutions and so forth ,
+
+dialogue type : fh|s
+G :  um , leads us to believe that doing a better segmentation , like your channel - based segmentation , or some kind of uh , echo cancellation to get basically back down to the individual speaker utterances would be probably all that we would need to be able to do good recognition on the on the close - talking mikes .
+
+dialogue type : s
+G : 
+
+dialogue type : s
+G :  But this is Morgan has this paper .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^na
+G :  it it 's that paper .
+
+dialogue type : s^aa
+G :  Yeah , yeah .
+
+dialogue type : s
+G :  So , we basically , um , did a lot of work on that
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%--
+G :  Let 's see , th
+
+dialogue type : s
+G :  I guess the other neat thing is it shows for sure w that the lapel , you know within speaker is bad .
+
+dialogue type : s
+G :  And it 's bad because it picks up the overlapping speech .
+
+dialogue type : s^aa|s^df^rt
+G :  Yes , cuz that 's all that w had been transcribed at the time ,
+
+dialogue type : fh
+G :  um
+
+dialogue type : s
+G :  but as we I mean I wanted to here more about the transcription .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%--
+G :  the closer t
+
+dialogue type : s
+G :  that would be very interesting for us
+
+dialogue type : s^df.%-
+G : 
+
+dialogue type : b
+G :  Right .
+
+dialogue type : %-
+G : 
+
+dialogue type : %-
+G : 
+
+dialogue type : s^aa|s.%--
+G :  That 's right . In fact I I pulled out a couple classic examples in case you wanna u use them in your talk of
+
+dialogue type : s
+G :  Chuck on the lapel ,
+
+dialogue type : s
+G :  so Chuck wore the lapel three out of four times .
+
+dialogue type : s^aa
+G :  Um , yeah ,
+
+dialogue type : s
+G :  and I wore the lapel once ,
+
+dialogue type : s
+G :  and for me the lapel was OK .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^no
+G :  and I don't know why .
+
+dialogue type : %--
+G : 
+
+dialogue type : fh
+G :  But um ,
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s
+G :  Or who was next to me or something like that .
+
+dialogue type : s^aa|s
+G :  Right , but when Chuck wore the lapel and Morgan was talking there 're a couple really long utterances
+
+dialogue type : s^e
+G :  where Chuck is saying a few things inside ,
+
+dialogue type : s
+G :  and it 's picking up all of Morgan 's words pretty well
+
+dialogue type : s.%--
+G :  and so the rec you know , there 're error rates
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  Insertions aren't bounded ,
+
+dialogue type : s
+G :  so with a one - word utterance and ten insertions you know you got huge error rate .
+
+dialogue type : s
+G :  And that 's that 's where the problems come in .
+
+dialogue type : s^bd
+G :  So I this is sort of what we expected ,
+
+dialogue type : s^df
+G :  but it 's nice to be able to to show it .
+
+dialogue type : s^tc
+G :  And also I just wanted to mention briefly that , um , uh Andreas and I called up Dan Ellis who 's still stuck in Switzerland ,
+
+dialogue type : s
+G :  and we were gonna ask him if if there 're you know , what 's out there in terms of echo cancellation and things like that .
+
+dialogue type : s
+G :  Not that we were gonna do it ,
+
+dialogue type : s
+G :  but we wanted to know what would need to be done .
+
+dialogue type : fh|s
+G :  And he We 've given him the data we have so far ,
+
+dialogue type : s
+G :  so these sychronous cases where there are overlap .
+
+dialogue type : s
+G :  And he 's gonna look into trying to run some things that are out there
+
+dialogue type : s
+G :  and see how well it can do
+
+dialogue type : s^df
+G :  because right now we 're not able to actually report on recognition in a real paper ,
+
+dialogue type : s^e
+G :  like a Eurospeech paper ,
+
+dialogue type : s^df
+G :  because it would look sort of premature .
+
+dialogue type : s^aa|s
+G :  Right . Or who 's At any point in time who 's the foreground speaker ,
+
+dialogue type : s^e
+G :  who 's the background speaker .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : %-
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^aa|s.%-
+G : 
+
+dialogue type : s
+G :  Um , it would be techniques used from adaptive adaptive echo cancellation
+
+dialogue type : s^bd^no
+G :  which I don't know enough about to talk about .
+
+dialogue type : fh
+G :  Um .
+
+dialogue type : fg
+G :  But ,
+
+dialogue type : s^aa|s
+G :  right , um , and that would be similar to what you 're also trying to do ,
+
+dialogue type : s
+G : 
+
+dialogue type : s^no
+G :  I I don't know what exactly would go into it .
+
+dialogue type : s
+G :  So the idea is to basically run this on the whole meeting .
+
+dialogue type : s.%-
+G :  and get the locations , which gives you also the time boundaries of the individual speak
+
+dialogue type : s^aa|s
+G :  Right . Except that there are many techniques for the kinds of cues , um , that you can use to do that .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^bu^rt
+G :  And I guess Espen ?
+
+dialogue type : qy
+G :  This is uh is he here too ?
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%-
+G :  So it would just be ver
+
+dialogue type : s
+G :  that 's really the next step
+
+dialogue type : s^df
+G :  because we can't do too much , you know , on term in terms of recognition results knowing that this is a big problem
+
+dialogue type : s^e
+G :  um , until we can do that kind of processing .
+
+dialogue type : s
+G :  And so , once we have some some of yours ,
+
+dialogue type : s
+G :  and @ @ we 'll move on .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bk
+G :  Oh right .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  OK .
+
+dialogue type : s^ba
+G :  Great .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^2.%-
+G : 
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^ba
+G :  Great .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s
+G :  So at this point we can sort of finalize the naming , and so forth ,
+
+dialogue type : s
+G :  and we 're gonna basically re rewrite out these waveforms that we did
+
+dialogue type : s^df
+G :  because as you notice in the paper your " M O
+
+dialogue type : s
+G :  in one meeting
+
+dialogue type : s.%-
+G :  and " M O - two " in another meeting and it 's we just need to standardize the
+
+dialogue type : fh
+G :  um ,
+
+dialogue type : s^ar^bd|%-
+G : 
+
+dialogue type : s
+G :  um , that 's why those comments are s are in there .
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : s^ba
+G :  Great , great .
+
+dialogue type : s^ba
+G :  Terrific .
+
+dialogue type : s
+G :  Eigh - eighteen .
+
+dialogue type : s
+G : 
+
+dialogue type : %-
+G : 
+
+dialogue type : %-
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^aap
+G :  Well I 'd leave all the All the transcript stuff shouldn't should be backed up ,
+
+dialogue type : s^cs
+G :  but all the waveform Sound files should not be backed up ,
+
+dialogue type : s^e
+G :  the ones that you write out .
+
+dialogue type : s
+G :  We can downsample them ,
+
+dialogue type : fh
+G :  so .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^aa|s^na
+G :  Yeah , we get the same performance .
+
+dialogue type : s^df
+G :  I mean the r the front - end on the SRI recognizer just downsamples them on the fly ,
+
+dialogue type : fh
+G : 
+
+dialogue type : %-
+G : 
+
+dialogue type : s^bk|%-
+G :  Yeah , if
+
+dialogue type : %-
+G :  fe
+
+dialogue type : s.%--
+G :  You 'd you wanna not .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^bd^df
+G :  I mean , this is just a question .
+
+dialogue type : s
+G :  We 're writing out these individual segments , that wherever there 's a time boundary from Thilo , or or Jane 's transcribers , you know , we we chop it there .
+
+dialogue type : s
+G :  And the reason is so that we can feed it to the recognizer ,
+
+dialogue type : s^e
+G :  and throw out ones that we 're not using and so forth .
+
+dialogue type : s
+G :  And those are the ones that we 're storing .
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  So we can't shorten them ,
+
+dialogue type : s^e
+G :  but we can downsample them .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^aa|%-
+G :  Oh yeah th
+
+dialogue type : s^aa
+G :  Yeah . Yeah .
+
+dialogue type : s
+G :  That that 's why we need more disk space
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa
+G :  Oh yeah .
+
+dialogue type : s^aa|s
+G :  No . We always have the original long ones .
+
+dialogue type : s
+G :  Um , it 's better if they 're chopped out ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^rt
+G :  yeah , y we could probably write something to do that ,
+
+dialogue type : s
+G :  but it 's actually convenient to have them chopped out
+
+dialogue type : s
+G :  cuz you can run them , you know , in different orders .
+
+dialogue type : s
+G :  You c you can actually move them around .
+
+dialogue type : s.%-
+G :  Uh , you can get rid of
+
+dialogue type : s^aa|s^ba
+G :  Yeah , it it 's a lot faster .
+
+dialogue type : s^aa|s^na:s
+G :  Right . You can grab everything with the word " the " in it ,
+
+dialogue type : %-
+G : 
+
+dialogue type : s
+G :  That 's a lot quicker than actually trying to access the wavefile each time ,
+
+dialogue type : s^e.%--
+G : 
+
+dialogue type : s
+G :  So in principle , yeah , you could do that ,
+
+dialogue type : %-
+G : 
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^df.%--
+G : 
+
+dialogue type : fh
+G :  You know .
+
+dialogue type : s^df
+G :  This is an hour of speech .
+
+dialogue type : fg|s
+G :  We - yeah that 's so that 's part of it
+
+dialogue type : %-
+G : 
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s
+G :  And the other part is just that once they 're written out it it is a lot faster to to process them .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  So we 're also looking at these in Waves like for the alignments and so forth .
+
+dialogue type : s
+G :  You can't load an hour of speech into X Waves .
+
+dialogue type : s
+G :  You need to s have these small files ,
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^df.%-
+G : 
+
+dialogue type : s^bk
+G :  Oh
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s.%-
+G :  It takes a very long ti
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s^na
+G :  It takes a l very long time .
+
+dialogue type : b.%
+G :  Huh .
+
+dialogue type : s^nd|qy^d^g
+G :  Actually , you 're talking about Transcriber , right ?
+
+dialogue type : b
+G :  Huh .
+
+dialogue type : s^nd
+G :  Well we we have a problem with that ,
+
+dialogue type : s^df.%--
+G : 
+
+dialogue type : s
+G :  It - it 's a lot slower to load in a long file ,
+
+dialogue type : s^e^rt
+G :  and also to check the file ,
+
+dialogue type : s.%-
+G :  so if you have a transcript , um ,
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s
+G :  I I think overall you could get everything to work by accessing the same waveform and trying to find two you know , the begin and end times .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : s^cs^df
+G :  but I think it 's more efficient , if we have the storage space , to have the small ones .
+
+dialogue type : %-
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : %-
+G : 
+
+dialogue type : b
+G :  Right .
+
+dialogue type : fg|s.%--
+G : 
+
+dialogue type : b
+G :  Right .
+
+dialogue type : %--
+G : 
+
+dialogue type : qy
+G :  Um , can I ask a question about the glossing , uh before we go on ?
+
+dialogue type : qy^rt
+G :  So , for a word like " because " is it that it 's always predictably " because " ?
+
+dialogue type : qy^e^rt
+G :  I mean , is " CUZ " always meaning " because " ?
+
+dialogue type : %-
+G : 
+
+dialogue type : s^aa
+G :  Right . Right .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s:s
+G :  The the only problem is that with for the recognition we we map it to " because " ,
+
+dialogue type : s.%-:s
+G : 
+
+dialogue type : s.%-
+G : 
+
+dialogue type : %-
+G :  S
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bu|qy^d^g
+G :  But then there are other glosses that we don't replace , right ?
+
+dialogue type : %-
+G : 
+
+dialogue type : s^bk|s^ba
+G :  OK . So , then it 's fine .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b.%
+G :  Right .
+
+dialogue type : s
+G :  Actually we we gave this to our pronunciation person ,
+
+dialogue type : s:s
+G :  she 's like , " I don't know what that is either " .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^ar|s
+G :  No , we just gave her a list of words that , you know , weren't in our dictionary
+
+dialogue type : s
+G :  and so of course it picked up stuff like this ,
+
+dialogue type : s
+G :  and she just didn't listen
+
+dialogue type : s
+G :  so she didn't know .
+
+dialogue type : s
+G :  We just we 're waiting on that just to do the alignments .
+
+dialogue type : s^cs^rt:s
+G :  Maybe it 's " argh " ?
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^aa|s.%-
+G :  Right , no one say
+
+dialogue type : s^bk
+G :  Ah .
+
+dialogue type : s^bd^ng
+G :  But it has a different prosody .
+
+dialogue type : fg|s.%--
+G :  So , Jane , what 's the d
+
+dialogue type : s:s
+G :  I have one question about the the " EH " versus like the " AH " and the " UH " .
+
+dialogue type : %
+G :  OK .
+
+dialogue type : s^bk
+G :  S OK .
+
+dialogue type : s^m:s|s^aa
+G :  " Eh , " yeah right ,
+
+dialogue type : s^df:s
+G :  cuz there were were some speakers that did definite " eh 's "
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^cs:s
+G :  So , it it 's actually probably good for us to know the difference between the real " eh " and the one that 's just like " uh " or transcribed " aaa "
+
+dialogue type : s^df
+G :  cuz in like in Switchboard , you would see e all of these forms ,
+
+dialogue type : s:s
+G :  but they all were like " uh " .
+
+dialogue type : s^ar|s:s
+G :  No , no , I mean like the the " UH " ,
+
+dialogue type : s:s
+G :  or the " UH " , " EH " , " AH " were all the same .
+
+dialogue type : s:s
+G :  And then , we have this additional non - native version of uh , like " eeh " .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s
+G :  But you 're a native German speaker
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%-
+G : 
+
+dialogue type : %-
+G :  Onl
+
+dialogue type : fh
+G :  yeah .
+
+dialogue type : s^ar|s
+G :  No , only if you don't have lax vowels , I guess .
+
+dialogue type : qy^d^f^g
+G :  Right .
+
+dialogue type : s
+G :  So it 's like Japanese and Spanish
+
+dialogue type : fh
+G : 
+
+dialogue type : s^aa|s^ba
+G :  Yeah this is great .
+
+dialogue type : s^ba
+G :  This is really really helpful .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s
+G :  Yeah I mean cuz they they have no idea ,
+
+dialogue type : s
+G :  right .
+
+dialogue type : s
+G :  If you hear CTPD , I mean , they do pretty well
+
+dialogue type : s.%--
+G : 
+
+dialogue type : qh
+G :  you know how are how are they gonna know ?
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s^tc
+G :  The recognizer , it is funny .
+
+dialogue type : s:s
+G :  Kept getting PTA for PDA .
+
+dialogue type : s
+G :  This is close ,
+
+dialogue type : s^aa
+G :  right ,
+
+dialogue type : s^df
+G :  and the PTA was in these , uh , topics about children ,
+
+dialogue type : fh
+G :  so , anyway .
+
+dialogue type : s^e^rt:qy^rt
+G :  Is the P - PTA working ?
+
+dialogue type : %-
+G :  I 'm wai
+
+dialogue type : s|qy^d^g
+G :  Well this is exactly how people will prove that these meetings do differ because we 're recording , right ?
+
+dialogue type : s^df^e:s
+G :  Y no normally you don't go around saying , " Now you 've said it six times .
+
+dialogue type : s.%--
+G :  Now you 've said "
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s.%
+G :  Well there 's not @ @ .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Huh .
+
+dialogue type : s^cs.%-
+G :  But at some point I mean , we probably shoul
+
+dialogue type : s.%--
+G :  But we should add it to the dictionar
+
+dialogue type : s^ar|s
+G :  No , to the pronunciation model .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : %-
+G :  Oh lan Oh OK - we OK
+
+dialogue type : s
+G :  it 's in the language model ,
+
+dialogue type : %--
+G :  w
+
+dialogue type : s^bk|s^arp^df:s
+G :  yeah , but it so it 's the pronunciation model that has to have a pronunciation of " tickle " .
+
+dialogue type : s^fa
+G :  I 'm sorry !
+
+dialogue type : s^fa
+G :  Oh , sorry .
+
+dialogue type : s:s
+G :  What I meant is that there should be a pronunciation " tickle " for TCL as a word .
+
+dialogue type : s
+G :  And that word in the in , you know , it stays in the language model wherever it was .
+
+dialogue type : s^aa|s^na
+G :  Yeah you never would put " tickle " in the language model in that form ,
+
+dialogue type : s^aa
+G :  yeah .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa
+G :  Yes .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  Yeah so th th there there 's a few cases like that where the um , the word needs to be spelled out in in a consistent way as it would appear in the language ,
+
+dialogue type : s
+G :  but there 's not very many of these .
+
+dialogue type : s
+G :  Tcl 's one of them .
+
+dialogue type : %-
+G :  Um ,
+
+dialogue type : b
+G :  y yeah .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : qh
+G :  We have this there is this thing I was gonna talk to you about at some point about , you know , what do we do with the dictionary as we 're up updating the dictionary ,
+
+dialogue type : s
+G :  these changes have to be consistent with what 's in the Like spelling people 's names and so forth .
+
+dialogue type : s.%--
+G :  If we make a spelling correction to their name ,
+
+dialogue type : s
+G :  like someone had Deborah Tannen 's name mispelled ,
+
+dialogue type : s
+G :  and since we know who that is , you know , we could correct it ,
+
+dialogue type : fh
+G : 
+
+dialogue type : s.%--
+G :  but we need to make sure we have the mispel
+
+dialogue type : s
+G :  If it doesn't get corrected we have to have a pronunciation as a mispelled word in the dictionary .
+
+dialogue type : s^e
+G :  Things like that .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^bk
+G :  Right . Right .
+
+dialogue type : s
+G :  So if there 's things that get corrected before we get them , it 's it 's not an issue ,
+
+dialogue type : s
+G :  but if there 's things that um , we change later , then we always have to keep our the dictionary up to date .
+
+dialogue type : s.%--:s
+G : 
+
+dialogue type : s
+G :  which normally would be an acronym ,
+
+dialogue type : s^e:s
+G :  you know , " TCL "
+
+dialogue type : s
+G :  but just has another pronunciation .
+
+dialogue type : b
+G :  Oh yeah .
+
+dialogue type : s^aa
+G :  Right , exactly .
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : fg|s:s
+G :  Oh there is something spelled out " BEEEEEEP "
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^ft
+G :  Thank you .
+
+dialogue type : s^df:qw
+G :  Because he was saying , " How many E 's do I have to allow for ? "
+
+dialogue type : s^bk|s^ft
+G :  Right , thanks ,
+
+dialogue type : s^bk
+G :  yeah .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^co
+G :  Wait .
+
+dialogue type : s:s
+G :  Oh , so you could do " grep minus V nums " .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  yeah .
+
+dialogue type : s.%--
+G :  So there wouldn't be something like
+
+dialogue type : s^bu:s
+G :  i if somebody said something like , " Boy , I 'm really tired , OK . " and then started reading that would be on a separate line ?
+
+dialogue type : s^bk|s^ba
+G :  OK great .
+
+dialogue type : s^df
+G :  Cuz I was doing the " grep minus V " quick and dirty
+
+dialogue type : s
+G :  and looked like that was working OK ,
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Great .
+
+dialogue type : qw
+G :  Now why do we what 's the reason for having like the point five have the " NUMS " on it ?
+
+dialogue type : qr^e^rt
+G :  Is that just like when they 're talking about their data or something ?
+
+dialogue type : qrr.%--
+G : 
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^bk
+G :  Oh OK .
+
+dialogue type : s^bk
+G :  I see .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : s
+G :  So , I guess I 'd have one request here
+
+dialogue type : s
+G :  which is just , um , maybe to make it more robust ,
+
+dialogue type : s
+G :  th that the tag , whatever you would choose for this type of " NUMS " where it 's inside the spontaneous speech , is different than the tag that you use for the read speech .
+
+dialogue type : s^df
+G :  Um , that way w if we make a mistake parsing , or something , we don't see the " point five " ,
+
+dialogue type : s.%--
+G :  or or it 's not there , then we
+
+dialogue type : s.%--
+G :  a Just an And actually for things like " seven eighths " , or
+
+dialogue type : s^df
+G :  people do fractions too I guess ,
+
+dialogue type : s^cs
+G :  you maybe you want one overall tag for sort of that would be similar to that ,
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  As long as they 're sep as they 're different strings that we that 'll make our p sort of processing more robust .
+
+dialogue type : s^df
+G :  Cuz we really will get rid of everything that has the " NUMS " string in it .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^cs
+G :  It would probably be safer , if you 're willing , to have a separate tag
+
+dialogue type : s^df
+G :  just because um , then we know for sure .
+
+dialogue type : s^df^e
+G :  And we can also do counts on them without having to do the processing .
+
+dialogue type : s^ba
+G :  But you 're right ,
+
+dialogue type : s^ba
+G :  we could do it this way ,
+
+dialogue type : s^ba^e
+G :  it it should work .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : s
+G :  but it it 's probably not hard for a person to tell the difference
+
+dialogue type : s^df
+G :  because one 's in the context of a you know , a transcribed word string ,
+
+dialogue type : fh
+G : 
+
+dialogue type : fh
+G : 
+
+dialogue type : s^rt
+G :  " Seven point five " .
+
+dialogue type : s
+G :  The word .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  it 's the same point , actually ,
+
+dialogue type : s.%--
+G :  the the p you know , the word " to " and the word y th " going to " and " to go to "
+
+dialogue type : s:s
+G :  those are two different " to 's "
+
+dialogue type : fh|s
+G :  and so there 's no distinction there .
+
+dialogue type : s.%--:s.%--
+G : 
+
+dialogue type : s.%--
+G :  Yeah , every word has only one , yeah e one version
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s:s
+G :  A actually even like the word " read " and " read "
+
+dialogue type : s
+G :  Those are two different words .
+
+dialogue type : s|qy^d^f^g
+G :  They 're spelled the same way , right ?
+
+dialogue type : s:s
+G :  And they 're still gonna be transcribed as READ .
+
+dialogue type : fh
+G :  So ,
+
+dialogue type : fh|s
+G :  yeah , I I like the idea of having this in there ,
+
+dialogue type : s
+G : 
+
+dialogue type : qh^df
+G :  because i What if we have like " read letters "
+
+dialogue type : s^e
+G :  or , I don't know ,
+
+dialogue type : s
+G :  like " read something "
+
+dialogue type : s^2
+G :  like " read "
+
+dialogue type : s^aa|s^na
+G :  yeah , basically .
+
+dialogue type : s^ba
+G :  But other than that I it sounds great .
+
+dialogue type : s^ba^bd
+G :  But that that 's not hard .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  So if you b merge two things , then you know that it 's the sum of the transcripts ,
+
+dialogue type : s
+G :  but if you split inside something , you don't where the word which words moved .
+
+dialogue type : s
+G :  And that 's wh that 's where it becomes a little bit uh , having to rerun the processing .
+
+dialogue type : s^ba
+G :  The cutting of the waveforms is pretty trivial .
+
+dialogue type : b
+G :  Right .
+

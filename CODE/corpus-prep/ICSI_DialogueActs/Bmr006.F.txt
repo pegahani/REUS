@@ -1,0 +1,387 @@
+dialogue type : z
+F :  That 's looks strange .
+
+dialogue type : h|s
+F :  Uh , well , OK , I 'll back up .
+
+dialogue type : s
+F :  Um , at the previous at last week 's meeting , this meeting I was griping about wanting to get more data
+
+dialogue type : s
+F :  and I I talked about this with Jane and Adam ,
+
+dialogue type : fh|s
+F :  um , and was thinking of this mostly just so that we could do research on this data um , since we 'll have a new this new student di does wanna work with us ,
+
+dialogue type : s
+F :  th the guy that was at the last meeting .
+
+dialogue type : s
+F :  And he 's already funded part - time ,
+
+dialogue type : s
+F :  so we 'll only be paying him for sort of for half of the normal part - time ,
+
+dialogue type : s^bk
+F :  uh Yeah .
+
+dialogue type : %--
+F :  So
+
+dialogue type : s
+F :  he 's comes from a signal - processing background ,
+
+dialogue type : s
+F :  but I liked him a lot
+
+dialogue type : s
+F :  cuz he 's very interested in higher level things , like language , and disfluencies and all kinds of eb maybe prosody ,
+
+dialogue type : s
+F :  so he 's just getting his feet wet in that .
+
+dialogue type : fh|s^cs^rt
+F :  Anyway , I thought OK , maybe we should have enough data so that if he starts he 'd be starting in January , next semester that we 'd have , you know , enough data to work with .
+
+dialogue type : fh|s
+F :  But , um , Jane and Adam brought up a lot of good points that just posting a note to Berkeley people to have them come down here has some problems in that you m you need to make sure that the speakers are who you want and that the meeting type is what you want , and so forth .
+
+dialogue type : fh|s
+F :  So , I thought about that and I think it 's still possible ,
+
+dialogue type : fh|s^cs
+F : 
+
+dialogue type : s
+F :  Yeah , just because it would be very hard to process the data in all senses ,
+
+dialogue type : s
+F :  both to get the , um to figure out what type of meeting it is and to do any kind of higher level work on it , like well , I was talking to Morgan about
+
+dialogue type : s^e
+F :  things like summarization , or what 's this meeting about .
+
+dialogue type : fh|s
+F :  I mean it 's very different if you have a group that 's just giving a report on what they did that week , versus coming to a decision and so forth .
+
+dialogue type : fh|s
+F :  So . Then I was um , talking to Morgan about some new proposed work in this area , sort of a separate issue from what the student would be working on where I was thinking of doing some kind of summarization of meetings or trying to find cues in both the utterances and in the utterance patterns ,
+
+dialogue type : s^e
+F :  like in numbers of overlaps and amount of speech ,
+
+dialogue type : s
+F :  sort of raw cues from the interaction that can be measured from the signals and from the diff different microphones that point to sort of hot spots in the meeting , or things where stuff is going on that might be important for someone who didn't attend to listen to .
+
+dialogue type : s^cs
+F :  And in that
+
+dialogue type : s
+F :  So this this meeting is one of them ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  You know , I would feel very strange being part of a meeting that you were then analysing later for things like summarization .
+
+dialogue type : fh|s
+F :  Um , and then there are some others that menti that Morgan mentioned ,
+
+dialogue type : s^e^rt
+F :  like the front - end meeting and maybe a networking group meeting .
+
+dialogue type : s
+F :  So So if that were the case then I think we 'd have enough .
+
+dialogue type : s
+F :  But basically , for anything where you 're trying to get a summarization of some kind of meeting meaning out of the meeting , um , it would be too hard to have fifty different kinds of meetings where we didn't really have a good grasp on what does it mean to summarize ,
+
+dialogue type : s^cs
+F :  but rather we should have different meetings by the same group but hopefully that have different summaries .
+
+dialogue type : s^co
+F :  And then we need a couple that of We don't wanna just have one group
+
+dialogue type : s^co^e
+F :  because that might be specific to that particular group , but @ @ three or four different kinds .
+
+dialogue type : s
+F :  See , I 've never listened to the data for the front - end meeting .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s
+F :  But maybe that 's enough .
+
+dialogue type : s
+F :  So , in general , I was thinking more data
+
+dialogue type : s
+F :  but also data where we hold some parameters constant or fairly similar ,
+
+dialogue type : s^e
+F :  like a meeting about of people doing a certain kind of work where at least half the participants each time are the same .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^aa|s^na
+F :  Yeah , I definitely agree with that .
+
+dialogue type : s^aa^r
+F :  Definitely .
+
+dialogue type : s^cs
+F :  It has to be a a pre - existing meeting , like a meeting that would otherwise happen anyway .
+
+dialogue type : s^df
+F :  That 's I think what we and I agree with .
+
+dialogue type : s^na
+F :  I definitely agree with that , I mean , for this purpose .
+
+dialogue type : b
+F :  Right , Yeah .
+
+dialogue type : s
+F :  I have a uh , um , question .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : qy^cs
+F :  Cuz I mean , one remote possibility is that if we st if we inherited that equipment , if she weren't using it , could we set up a room in the linguistics department ?
+
+dialogue type : s^cs
+F :  And and I mean , there there may be a lot more or or in psych , or in comp wherever , in another building where we could um , record people there .
+
+dialogue type : s
+F :  I think we 'd have a better chance
+
+dialogue type : s^f
+F :  Right ,
+
+dialogue type : %-
+F : 
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^cs
+F :  I mean it 's a remote possibility , then um , you know , one of us could you know , go up there and record the meeting or something rather than bring all of them down here .
+
+dialogue type : s
+F :  So it 's just a just a thought if they end up not using the the hardware .
+
+dialogue type : s^arp
+F :  But you may not need a separate room , you know ,
+
+dialogue type : s
+F : 
+
+dialogue type : fh
+F :  Huh .
+
+dialogue type : s^na
+F :  I I think it 's not out of the question .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^aa
+F :  Right ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^na
+F :  Yea - yeah yeah , you actually don't really even need any fancy microphone .
+
+dialogue type : s
+F :  You can use found data .
+
+dialogue type : s
+F :  You you can .
+
+dialogue type : s
+F :  You can
+
+dialogue type : s^cs.%--
+F :  use Um , but I think that any data that we spend a lot of effort to collect ,
+
+dialogue type : s^co
+F :  you know , each person who 's interested in I mean , we have a cou we have a bunch of different , um , slants and perspectives on what it 's useful for , um , they need to be taking charge of making sure they 're getting enough of the kind of data that they want .
+
+dialogue type : s
+F :  And So in my case , um , I think there w there is enough data for some kinds of projects and not enough for others .
+
+dialogue type : s
+F :  And so I 'm looking and thinking , " Well I 'd be glad to walk over and record people and so forth if it 's to help th in my interest . "
+
+dialogue type : s^co
+F : 
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  So that might be true , you may say for instance , summarization , or something that sounds very language oriented .
+
+dialogue type : s
+F :  You may say well , " Oh yeah , you just do that from transcripts of a radio show . "
+
+dialogue type : s
+F :  I mean , you don't even need the speech signal .
+
+dialogue type : s^cs.%--
+F : 
+
+dialogue type : s
+F :  Suppose you just had a distant microphone there and you really wanted to be able to determine this .
+
+dialogue type : s
+F :  There 's lots of cues you 're not gonna have .
+
+dialogue type : s
+F :  So I do think that long term you should always try to satisfy the greatest number of of interests and have this parallel information , which is really what makes this corpus powerful .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^cs
+F :  So then maybe we should try to bring people here .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  OK , so
+
+dialogue type : b
+F :  OK .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^aa|s^cs.%--
+F : 
+
+dialogue type : s^cs
+F :  But the issue is you definitely wanna make sure that the kind of group you 're getting is the right group
+
+dialogue type : s^df
+F :  so that you don't waste a lot of your time and the overhead in bringing people down .
+
+dialogue type : s^ng
+F :  So Well , it would be lunch afterwards .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^co^j
+F :  And they 'd have to do their digits or they don't get dessert .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Oh , definitely , yeah .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^cs
+F : 
+
+dialogue type : s
+F :  well , I know , I shouldn't say that .
+
+dialogue type : s^co
+F :  We need a wider sampling .
+
+dialogue type : s
+F :  Well , I thought that was I thought he meant , " Give them a music CD , " like they g Then he said a CD of the of their speech
+
+dialogue type : s^bd
+F :  and I guess it depends of what kind of audience you 're talking to ,
+
+dialogue type : s
+F :  but You know , I personally would not want a CD of my meeting ,
+
+dialogue type : s.%-
+F :  but maybe yeah , maybe you 're
+
+dialogue type : b
+F :  right . Right . Right .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : sj^ba
+F :  No , I think that 's a great idea , actually .
+
+dialogue type : s^cs
+F :  But we might need a little more to incentivize them , that 's all .
+
+dialogue type : sj^ba
+F :  Well , that 's interesting .
+
+dialogue type : b
+F :  Oh , right .
+
+dialogue type : s^bu
+F :  If It should be the same CD - ROM that we distribute publically ,
+
+dialogue type : qy^d^g
+F :  right ?
+
+dialogue type : s
+F :  Otherwise they 're not allowed to play it for anyone .
+
+dialogue type : s^na
+F :  Otherwise we 'd need two lawyer stages .
+
+dialogue type : sj^ba
+F :  That 's a good point .
+
+dialogue type : s^fa
+F :  Sorry to have to Sorry I have to leave .
+
+dialogue type : s
+F :  I will be here full - time next week .
+

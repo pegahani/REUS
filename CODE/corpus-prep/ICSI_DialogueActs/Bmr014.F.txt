@@ -1,0 +1,924 @@
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  That sounds like a spy code .
+
+dialogue type : s^t
+F :  I wanna ask about um , some aud audio monitoring on some of the um well some of the equipment .
+
+dialogue type : s.%--
+F :  In particular , the
+
+dialogue type : s
+F :  well uh , that 's just what I wanna ask .
+
+dialogue type : s.%--
+F :  Ba - based on some of the tran uh i
+
+dialogue type : s
+F :  In listening to some of these meetings that have already been recorded there are sometimes big spikes on particular things ,
+
+dialogue type : s
+F :  and in pact in fact this one I 'm talking on is one of of the ones that showed up in one of the meetings ,
+
+dialogue type : %--
+F : 
+
+dialogue type : s^aa
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s.%--
+F :  And I don't know what the e electronics is but .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : %--
+F : 
+
+dialogue type : s^cs.%--
+F : 
+
+dialogue type : s
+F :  I I take that off the agenda .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^bk
+F :  Well , OK .
+
+dialogue type : b.x
+F :  Good .
+
+dialogue type : s
+F :  I 'm wondering if he were to just , uh , specify particular topics ,
+
+dialogue type : %--
+F :  I mean .
+
+dialogue type : s
+F :  Maybe we 'd be able to meet that request of his a little more .
+
+dialogue type : s^aa
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  Uh , it would be to use his interface and I was going to meet with him today about that .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  it w it will be efficient for them to do that .
+
+dialogue type : b.%
+F :  OK .
+
+dialogue type : s
+F :  I don't tend to get an invitation myself for them even .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : qy^rt
+F :  Should we call him ?
+
+dialogue type : qy^rt
+F :  I mean is he d is he definitely not available today ?
+
+dialogue type : qy^rt
+F :  Should I call his office and see ?
+
+dialogue type : s.%--
+F :  He wasn't there at cof
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^aa
+F :  Yes .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk^rt
+F :  OK .
+
+dialogue type : fg
+F : 
+
+dialogue type : h|qr.%--
+F :  Well , so um , should we we don't wan wanna do the recording status first , or ?
+
+dialogue type : fg|s.%--
+F :  OK , and the transcribers h
+
+dialogue type : s
+F :  I , uh , don't have the exact numbers ,
+
+dialogue type : s.x
+F :  but I think it would come to about eleven hours that are finished uh , transcribing from them right now .
+
+dialogue type : s.x
+F :  The next step is to that I 'm working on is to insure that the data are clean first , and then channelized .
+
+dialogue type : s.x
+F :  What I mean by clean is that they 're spell - checked ,
+
+dialogue type : s.x
+F :  that the mark - up is consistent all the way throughout ,
+
+dialogue type : s.x
+F :  and also that we now incorporate these additional conventions that uh , Liz requested in terms of um , um in terms of having a s a systematic handling of numbers , and acronyms which I hadn't been specific about .
+
+dialogue type : h|s
+F :  Um , for example , i they 'll say uh " ninety - two " .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  e Exactly .
+
+dialogue type : s
+F :  So if you just say " nine two " , the there are many s ways that could have been expressed .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I I mean , a certain number of them did put the words down ,
+
+dialogue type : s
+F :  but now we have a convention which also involves having it followed by , um , a gloss th and things .
+
+dialogue type : s
+F :  You 're talking about the type token frequency listings , and I use those too .
+
+dialogue type : s^bu
+F :  Y you mean just uh on each on each line there 's a one word
+
+dialogue type : qy^d^g
+F :  right ?
+
+dialogue type : s
+F :  It 's one token from the from the corpus .
+
+dialogue type : s
+F :  Yeah , those are e extremely efficient
+
+dialogue type : sj^ba
+F :  and I and I I agree that 's a very good use of it .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  You know , the spell - check basically does that
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  yes , that 's that 's exactly the strategy I wanna do in terms of locating these things which are you know colloquial spoken forms which aren't in the lexicon .
+
+dialogue type : b
+F :  Exactly .
+
+dialogue type : s.%-
+F :  And then you ca then you can do a s
+
+dialogue type : s^aa
+F :  Absolutely .
+
+dialogue type : s^aa
+F :  I agree .
+
+dialogue type : sj^ba
+F :  That 's a very good that 's a very good uh , suggestion .
+
+dialogue type : s
+F :  And that was that 's my strategy for handling a lot of these things , in terms of things that need to be glossed .
+
+dialogue type : s
+F :  I didn't get to that point
+
+dialogue type : %--
+F : 
+
+dialogue type : s^rt
+F :  So there are numbers , then there are acronyms ,
+
+dialogue type : s
+F :  and then um , there 's a he she wants the uh , actually a an explicit marker of what type of comment this is ,
+
+dialogue type : s
+F :  so i curly b inside the curly brackets I 'm gonna put either " VOC " for vocalized ,
+
+dialogue type : s^e
+F :  like cough or like laugh or whatever ,
+
+dialogue type : s
+F :  " NONVOC " for door - slam ,
+
+dialogue type : s
+F :  and " GLOSS " for things that have to do with if they said a s a spoken form with this m this pronunciation error .
+
+dialogue type : s
+F :  I already had that convention
+
+dialogue type : s
+F :  but I I haven't been asking these people to do it systematically
+
+dialogue type : s
+F :  cuz I think it most ha most efficiently handled by uh by a a filter .
+
+dialogue type : s
+F :  That was what I was always planing on .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  exactly what you 're saying ,
+
+dialogue type : s
+F :  you get a whole list of things that say " curly bracket laugh curly bracket " ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F :  You you risk less error if you handle it by a filter , than if you have this transcriber ch laboriously typing in sort of a VOC space ,
+
+dialogue type : s
+F :  so man So many ways that error prone .
+
+dialogue type : s
+F :  So , um , um I 'm I 'm going to convert that via a filter , into these tagged uh , subcategorized comments ,
+
+dialogue type : s
+F :  and same thing with you know , we see you get a subset when you do what you 're saying ,
+
+dialogue type : s
+F :  you end up with a s with uh , you 're collapsing across a frequency you just have the tokens
+
+dialogue type : s
+F :  and you can um , have a filter which more efficiently makes those changes .
+
+dialogue type : s
+F :  But the numbers and acronyms have to be handled by hand ,
+
+dialogue type : s^df.%--
+F :  because , you know I mean , jus
+
+dialogue type : fg|s
+F :  Yeah now TIMIT 's clear um and PLP is clear
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  or or have variant u u uses like the numbers you can say " nine two " or you can say " ninety - two " ,
+
+dialogue type : fh
+F :  and uh
+
+dialogue type : s
+F :  I 'd handle the numbers individually .
+
+dialogue type : s
+F : 
+
+dialogue type : s^e
+F :  The letters would be separated in space
+
+dialogue type : s
+F :  and potentially they 'll have a curly bracket thing afterwards
+
+dialogue type : %--
+F :  e
+
+dialogue type : s^no
+F :  but I 'm not sure if that 's necessary , clarifying what it is ,
+
+dialogue type : s
+F :  so gloss of whatever .
+
+dialogue type : s^no^r
+F :  I don't know if that 's really necessary to do that .
+
+dialogue type : s
+F :  Maybe it 's a nice thing to do because of it then indicating this is uh , a step away from i indicating that it really is intentional that those spaces are there ,
+
+dialogue type : s.%--
+F :  and indicating why they 're there to indicate that it 's uh the you know , uh enumerated , or i
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  but it 's it 's the specific uh way of stating these these letters .
+
+dialogue type : s
+F :  And so anyway , the clean those are those things
+
+dialogue type : s
+F :  and then channelized is to then um , get it into this multichannel format .
+
+dialogue type : s
+F :  And at that point then it 's ready for use by Liz and Don .
+
+dialogue type : s
+F :  But that 's been my top priority beyond getting it tanel channelized ,
+
+dialogue type : s
+F :  the next step is to work on tightening up the boundaries of the time bins .
+
+dialogue type : s
+F :  And uh , Thilo had a e e a breakthrough with this this last week in terms of getting the channel - based um uh s s speech - nonspeech segmentation um , up and running
+
+dialogue type : s
+F :  and I haven't I haven't been able to use that yet
+
+dialogue type : s^df.%--
+F :  cuz I 'm working
+
+dialogue type : %--
+F :  s re
+
+dialogue type : s
+F :  this is my top priority get the data clean , and channelized .
+
+dialogue type : s^aa
+F :  Oh yes .
+
+dialogue type : s
+F :  Well you see that 's part of the cleaning process .
+
+dialogue type : s.%--
+F :  I spent um
+
+dialogue type : s
+F :  actually um I have a segment of ten minutes that was transcribed by two of our transcribers ,
+
+dialogue type : s
+F :  and I went through it last night , it 's it 's almost spooky how similar these are , word for word .
+
+dialogue type : s
+F :  And there are some differences in commas cuz commas I I left them discretion at commas .
+
+dialogue type : fh|s.%--
+F :  Uh and so
+
+dialogue type : s
+F :  because it 's not part of our st of our ne needed conventions .
+
+dialogue type : fh
+F :  And um ,
+
+dialogue type : s
+F :  and so they 'll be a difference in commas ,
+
+dialogue type : s
+F :  but it 's word - by - word the same , in in huge patches of the data .
+
+dialogue type : s
+F :  And I have t ten minute stretch where I can where I can show that .
+
+dialogue type : s
+F :  And and sometimes it turns out that one of these transcribers has a better ear for technical jargon ,
+
+dialogue type : s
+F :  and the other one has a better ear for colloquial speech .
+
+dialogue type : s
+F :  So um , the one i i the colloquial speech person picked up " gobbledy - gook " .
+
+dialogue type : s
+F :  And the other one didn't .
+
+dialogue type : s
+F :  And on this side , this one 's picking up things like " neural nets " and the one that 's good on the sp o on th the vocabulary on the uh colloquial didn't .
+
+dialogue type : s
+F :  It was an interesting approximation , put in parentheses ,
+
+dialogue type : s^e
+F :  cuz I have this convention that , i if they 're not sure what it was , they put it in parentheses .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^aa
+F :  Yes .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I mean apparently it was very clear to her that these the a this this was a sound these are the sounds ,
+
+dialogue type : fh
+F : 
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s
+F :  But she knew that she didn't know it .
+
+dialogue type : s^na.%--
+F :  Maybe it was a technical ter
+
+dialogue type : s^aa
+F :  exactly .
+
+dialogue type : s.%--
+F :  But she even though her technical perception is just really uh you
+
+dialogue type : s
+F :  know I 've I 'm tempted to ask her if she 's taken any courses in this area or if she 's taken cognitive science courses
+
+dialogue type : s
+F :  then cuz " neural nets " and oh she has some things that are oh " downsampled " , she got that right .
+
+dialogue type : s
+F :  And some of these are rather uh unexpected .
+
+dialogue type : s
+F :  But ch ten solid uh m ch s chunk of ten solid minutes where they both coded the same data .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^aa
+F :  Yes exactly .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  Eleven hours .
+
+dialogue type : s^aa
+F :  Yes it is .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^na
+F :  It 'd be more than that
+
+dialogue type : s^df
+F :  because I my recollection is the minutes that da digits don't take more than half a minute . Per person .
+
+dialogue type : s
+F :  But um the the total set that I gave them is twelve hours of tape ,
+
+dialogue type : s
+F :  But they haven't gotten to the end of that yet .
+
+dialogue type : s
+F :  So they 're still working some of them are Two of them are still working on completing that .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^aa|s^na
+F :  Yeah . They are .
+
+dialogue type : s^aa|s^ba^na
+F :  Mm - hmm . They 're very efficient .
+
+dialogue type : s
+F :  There 're some who have more hours that they devote to it than others .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s
+F :  I have one question .
+
+dialogue type : qy^rt
+F :  So are you thinking that um the person would have a transcript and go strictly from the transcript ?
+
+dialogue type : s^df.%-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^co
+F :  Go ahead .
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  mm - hmm .
+
+dialogue type : %--
+F : 
+
+dialogue type : s.%--
+F :  I agree that the consent forms were uh , I cons
+
+dialogue type : s
+F :  agree with what Adam 's saying , that um , the consent form did leave open this possibility that they could edit things which they found offensive whe whether they said them or didn't say them .
+
+dialogue type : s.%--
+F :  And the other thing is from the standpoint of the l of the l
+
+dialogue type : s
+F :  I 'm not a law lawyer ,
+
+dialogue type : s
+F :  but it strikes me that uh , we wouldn't want someone to say " oh yes , I was a little concerned about it
+
+dialogue type : s
+F :  but it was too hard to access " .
+
+dialogue type : sj
+F :  So I think it 's kind of nice to have this facility to listen to it .
+
+dialogue type : s
+F :  Now in terms of like editing it by hand , I mean I think it 's i some people would find that easier to specify the bleep part by having a document they edited .
+
+dialogue type : sj
+F :  But but it seems to me that sometimes um , you know i if a person had a bad day , and they had a tone in their voice that they didn't really like , you know it 's nice it 's nice to be able to listen to it and be sure that that was OK .
+
+dialogue type : s^aa
+F :  That 's true .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  Cuz you could send it through email you 're thinking .
+
+dialogue type : s^aa
+F :  Good .
+
+dialogue type : qy^2^bu
+F :  For security ?
+
+dialogue type : s^bk
+F :  Yeah , OK good .
+
+dialogue type : sj^ba
+F :  Good point .
+
+dialogue type : s^cs
+F :  You could mail it to them .
+
+dialogue type : s^cs^e
+F :  Get an a mailing address .
+
+dialogue type : sj
+F :  But I think it 's easier to drop in the box .
+
+dialogue type : sj^ba
+F :  Oh that 's interesting .
+
+dialogue type : s^m
+F :  So much fun .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : s^bs
+F :  Not everyone gets a password , unless they ask for it .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  I 'm also concerned about the spirit of the of the informed consent thing .
+
+dialogue type : s.%--
+F :  Cuz I think if they feel that uh , it 's I th I th
+
+dialogue type : s
+F :  You know , if it turns out that something gets published in this corpus that someone really should have eliminated and didn't detect , then it could have been because of their own negligence that they didn't pursue that next level and get the password and do that ,
+
+dialogue type : fh|s
+F :  um , but but they might be able to argue " oh well it was cumbersome , and I was busy and it was gonna take me too much time to trace it down " .
+
+dialogue type : s^df
+F :  So it could that the burden would come back onto us .
+
+dialogue type : s
+F :  So I 'm a little bit worried about uh , making it harder for them , from the legal standpoint .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^cs
+F :  Or we could print it up for them ,
+
+dialogue type : s^cs
+F : 
+
+dialogue type : s
+F :  but but there 's uh , another aspect to that and that is that in the informed consent form , um , my impression is that they that we offered them at the very least that they definitely would have access to the transcript .
+
+dialogue type : s.%--
+F :  And and I ha
+
+dialogue type : s^no
+F :  I don't know that there 's a chance of really skipping that stage .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^2
+F :  Giving it to them .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  Alright .
+
+dialogue type : b
+F :  Fine .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : sj^ba
+F :  Fair enough .
+
+dialogue type : %--
+F :  Sh - sh
+
+dialogue type : %--
+F : 
+
+dialogue type : s^ng
+F :  I 'm closer .
+
+dialogue type : %-
+F : 
+
+dialogue type : b.%
+F :  Yeah .
+
+dialogue type : s^aa
+F :  That is true .
+
+dialogue type : s^no.%-
+F : 
+
+dialogue type : s^aa
+F : 
+
+dialogue type : s
+F :  oh I know .
+
+dialogue type : s^aa
+F :  Yeah that 's true .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : sj^ba
+F :  Well that 's more open than I realized .
+
+dialogue type : s^aa
+F :  Tha - that 's true .
+
+dialogue type : s
+F :  That 's more severe , but the next one says the transcript will be around .
+
+dialogue type : s
+F :  And it doesn't really say we 'll send it to you ,
+
+dialogue type : s
+F :  or wi it 'll be available for you on the web , or anything .
+
+dialogue type : s
+F :  At least it more often .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  It means also we don't have to g To give it to them .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^bk^m
+F :  It 's available to them if they ask for it .
+
+dialogue type : b
+F :  Good .
+
+dialogue type : b
+F :  Great .
+
+dialogue type : b
+F :  Great , great .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  I agree .
+
+dialogue type : s
+F :  Al - Also it ther there is this other question , the legal question that that Adam 's raised , uh about whether we need a concrete signature , or email c i suffices or whatever
+
+dialogue type : s^no
+F :  and I don't know how that works .
+
+dialogue type : s.%--
+F :  i There 's something down there about " if you agree to "
+
+dialogue type : s^bk
+F :  Ah .
+
+dialogue type : s^bk
+F :  Fine .
+
+dialogue type : b
+F :  Good .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : b
+F :  Great .
+
+dialogue type : %-
+F : 
+
+dialogue type : %-
+F :  Well I s
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I I think it 's nice you have it uh , viewab her hearable on the on the web for those who might wonder about um , the non nonverbal side ,
+
+dialogue type : s
+F :  I mean I I agree that our bias should be as as expressed here ,
+
+dialogue type : s
+F :  and but I I think it 's nice that a person could check .
+
+dialogue type : s
+F :  Cuz sometimes you know you the words on a on the page , come out soun sounding different in terms of the social dynamics if they hear it .
+
+dialogue type : s
+F :  And I realize we shouldn't emphasize that people you know , shouldn't borrow trouble .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%-
+F :  Oh , you know , or what if there was an error in the transcript that didn't get detected and there was a whole uh i segment a against some personal i th
+
+dialogue type : s^aa
+F :  Yeah exactly
+
+dialogue type : s.%--
+F :  Or or even or even there was a a line you know about how " hmm - mmm - mmm Bill Gates duh - duh - duh - duh . "
+
+dialogue type : s
+F :  but but it was all the words were all visible , but they didn't end up i some there was a slip in the transcript .
+
+dialogue type : s^aa
+F :  Yeah that 's true .
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s^no
+F :  So I don't know .
+
+dialogue type : s
+F :  I mean , I I guess we 're assuming that the transcript is a close enough approximation and that that my double checking will be so close to absolutely perfect that it that nothing will slip by .
+
+dialogue type : b.x
+F :  Mm - hmm .
+
+dialogue type : s^no.%
+F :  I don't know how to notate that .
+
+dialogue type : b.%
+F :  Yeah , that 's right .
+
+dialogue type : b.%
+F :  Yeah that 's right .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : %-
+F :  Or if for
+
+dialogue type : s^cs
+F :  leave it on their voice mail .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : %--
+F :  I mean i
+
+dialogue type : s
+F :  well , and actually also the lawyer saying that um , we shouldn't really have them have the people believing that they will be cleared by our checks .
+
+dialogue type : qy^f
+F :  You know ?
+
+dialogue type : s
+F :  I mean . So it 's like i in a way it 's it 's nice to have the responsibility still on them to listen to the tape and and hear the transcript ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^bk
+F :  Yeah , OK , fair enough .
+
+dialogue type : s
+F :  And they 're s they 're absorbing the responsibility themselves .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : sj^ba
+F :  Yeah , good .
+
+dialogue type : s
+F :  It is true that tec that the content is technical ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I I mean , when I listen to these things , I don't find things that are questionable , in other people 's speech or in my own .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^bk^m
+F :  It should be very rare .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah , OK .
+
+dialogue type : z
+F :  Oh , did you do that ?
+

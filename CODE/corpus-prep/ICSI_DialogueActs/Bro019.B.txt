@@ -1,0 +1,198 @@
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s.%-
+B :  And the filter
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  It 's the new .
+
+dialogue type : s^r
+B :  The new .
+
+dialogue type : s^r
+B :  The new .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^2.%--
+B :  But
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk|s^2
+B :  Yeah , in Grenada
+
+dialogue type : s
+B :  one of my friend .
+
+dialogue type : h|s
+B :  Uh , Jose Carlos Segura .
+
+dialogue type : s^aa
+B :  Yeah , yeah , yeah .
+
+dialogue type : s^na
+B :  Originally the idea was from CMU .
+
+dialogue type : s
+B :  I don't have good result , with the inc including the new parameters ,
+
+dialogue type : s^r
+B :  I don't have good result .
+
+dialogue type : s
+B :  Are similar or a little bit worse .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  I tried to include another new parameter to the traditional parameter ,
+
+dialogue type : s^e
+B :  the coe the cepstrum coefficient ,
+
+dialogue type : s
+B :  that , like , the auto - correlation , the R - zero and R - one over R - zero
+
+dialogue type : s
+B :  and another estimation of the var the variance of the difference for of the spec si uh , spectrum of the signal
+
+dialogue type : s
+B :  and and the spectrum of time after filt mel filter bank .
+
+dialogue type : s^bk
+B :  Nuh . Well .
+
+dialogue type : fh
+B :  Anyway .
+
+dialogue type : s^rt
+B :  The First you have the sp the spectrum of the signal ,
+
+dialogue type : s
+B :  and you have the on the other side you have the output of the mel filter bank .
+
+dialogue type : s
+B :  You can extend the coefficient of the mel filter bank and obtain an approximation of the spectrum of the signal .
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  I found a difference at the variance of this different
+
+dialogue type : s^df
+B :  because , suppose we we think that if the variance is high , maybe you have n uh , noise .
+
+dialogue type : s
+B :  And if the variance is small , maybe you have uh , speech .
+
+dialogue type : %--
+B :  To to
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B :  The idea is to found another feature for discriminate between voice sound and unvoice sound .
+
+dialogue type : s
+B :  And we try to use this new feature feature .
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  I need to change to obtain this new feature I need to change the size the window size size .
+
+dialogue type : s^e
+B :  of the a of the analysis window size ,
+
+dialogue type : s^e
+B :  to have more information .
+
+dialogue type : fh|s^e
+B :  Uh , sixty - two point five milliseconds I think .
+
+dialogue type : fh
+B :  And
+
+dialogue type : s
+B :  I do I did two type of experiment to include this feature directly with the with the other feature
+
+dialogue type : s
+B :  and to train a neural network to select it voice - unvoice - silence silence
+
+dialogue type : s
+B :  and to to concat this new feature .
+
+dialogue type : s.%--
+B :  But the result are
+
+dialogue type : s
+B :  n with the neural network I have more or less the same result .
+
+dialogue type : s
+B :  Result .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa^r
+B :  Yeah .
+
+dialogue type : %--
+B :  It 's neve e e
+
+dialogue type : s^e
+B :  sometime it 's worse ,
+
+dialogue type : s^e
+B :  sometime it 's a little bit better ,
+
+dialogue type : s^e
+B :  but not significantly .
+
+dialogue type : fg
+B : 
+
+dialogue type : s^ar|s^nd
+B :  No , I work with eh , Italian and Spanish basically .
+
+dialogue type : s
+B :  And if I don't y use the neural network , and use directly the feature the results are worse .
+
+dialogue type : s^e
+B :  But Doesn't help .
+
+dialogue type : %--
+B : 
+
+dialogue type : s^am
+B :  Maybe .
+
+dialogue type : s^bk
+B :  Yeah ,
+
+dialogue type : s^cc
+B :  I can I will try to do that .
+
+dialogue type : s
+B :  You did some experiment .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  Digits .
+

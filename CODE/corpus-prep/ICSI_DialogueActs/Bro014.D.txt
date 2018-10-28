@@ -1,0 +1,90 @@
+dialogue type : z
+D :  Channel three .
+
+dialogue type : z
+D :  Channel three .
+
+dialogue type : z
+D :  Channel three . Alright .
+
+dialogue type : h|s^nd
+D :  N um , not not not much is new .
+
+dialogue type : s
+D :  So when I talked about what I 'm planning to do last time , I said I was , um , going to use Avendano 's method of , um , using a transformation , um , to map from long analysis frames which are used for removing reverberation to short analysis frames for feature calculation .
+
+dialogue type : s
+D :  He has a trick for doing that involving viewing the DFT as a matrix .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : fh|s
+D :  but , uh , um , I decided not to do that after all
+
+dialogue type : s^df
+D :  because I I realized to use it I 'd need to have these short analysis frames get plugged directly into the feature computation somehow
+
+dialogue type : s^df
+D :  and right now I think our feature computation is set to up to , um , take , um , audio as input , in general .
+
+dialogue type : s^cc
+D :  So I decided that I I 'll do the reverberation removal on the long analysis windows
+
+dialogue type : s^cc
+D :  and then just re - synthesize audio
+
+dialogue type : s^cc
+D :  and then send that .
+
+dialogue type : h
+D :  Um ,
+
+dialogue type : %--
+D : 
+
+dialogue type : s^arp
+D :  or even if I 'm using our system , I was thinking it might be easier to just re - synthesize the audio ,
+
+dialogue type : s^df
+D :  because then I could just feacalc as is
+
+dialogue type : s^df
+D :  and I wouldn't have to change the code .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^aa|s^na
+D :  Right . That 's true .
+
+dialogue type : fg
+D :  But e u
+
+dialogue type : s^2
+D :  From the re - synthesis ?
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s^bk
+D :  O - OK .
+
+dialogue type : s^no
+D :  I don't know anything about re - synthesis .
+
+dialogue type : qw
+D :  Uh , how likely do you think that is ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  That Yeah , e That 's it , that 's it .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^bk
+D :  Oh , OK .
+

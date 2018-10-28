@@ -1,0 +1,225 @@
+dialogue type : s^bk|qy^bu^d^rt
+D :  Yeah . It 's more segments ?
+
+dialogue type : qrr.%--
+D :  Or ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : fg|s
+D :  Yeah . Th - that 's what I did for for my talk .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b
+D :  Huh .
+
+dialogue type : s^aa
+D :  Yep . Yep .
+
+dialogue type : s^aa|s
+D :  Yeah . Just Yeah . Just smooth the the output of the of the detector .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : s
+D :  Or you can Yeah . You can use the one with one second or whatever .
+
+dialogue type : s^ba
+D :  I I I There 's no not much difference between the the one - second and the two - second one .
+
+dialogue type : qy^rt
+D :  And I think wouldn't it be better to to have a little longer sequences for the recognizer ?
+
+dialogue type : s.%-
+D :  B eh because of the language model ? As sometimes it happens that that it cuts off within a s
+
+dialogue type : s^bk|s
+D :  Yeah . But , we can be sure that as Or we can be er not not totally sure ,
+
+dialogue type : s
+D :  but we can be somehow sure that there is nothing not no speech between those .
+
+dialogue type : %-
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^rt
+D :  It 's the same as in the the smoother for the IBM thing .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  So . Yeah .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : fg|s^ba^df^ng
+D :  But Yeah . But but the the chunks are already sh i in general , are short .
+
+dialogue type : s^ba^cs
+D :  So I I t I think it would be better to have to have more of them concatenated together , in order to have better language model
+
+dialogue type : s^bsc
+D :  or language modeling .
+
+dialogue type : s^bd
+D :  I don't know .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^co
+D :  Do that .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s
+D :  Yeah . But but y there 's there 's really not much difference between the one - second and the two - second .
+
+dialogue type : s^co
+D :  So just take the one the one - second one .
+
+dialogue type : s.%--
+D :  I I 'm not too afraid ab about that as
+
+dialogue type : s^df
+D :  w when there when there would be something some background speech or something there wo there would be a a chunk in another channel ,
+
+dialogue type : s
+D :  and when there is s something in between , I con I I do not concatenate them .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^cs.%-
+D :  So . I wou I would use th
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : s^aa
+D :  No .
+
+dialogue type : %--
+D : 
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : s^fe
+D :  Oops !
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : %-
+D :  But d
+
+dialogue type : qy^rt
+D :  do you have gender - dependent models ?
+
+dialogue type : qy^r^rt
+D :  A Are the models gender - dependent ?
+
+dialogue type : fh
+D :  So
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : fg|s
+D :  Yeah . Some of these things are captured by Yeah . Um , by looking at at the minimum and maximum and whatever
+
+dialogue type : s
+D :  you find in the channels ,
+
+dialogue type : fh
+D : 
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Yep . Yep . Yeah . Yeah .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : fg|s^rt
+D :  Yeah . Sometimes you you capture that when you mix it together ,
+
+dialogue type : %--
+D : 
+
+dialogue type : b
+D :  Yeah . Yeah .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : s^am
+D :  I don't think so .
+

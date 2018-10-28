@@ -1,0 +1,1350 @@
+dialogue type : s
+D :  And we already got the crash out of the way .
+
+dialogue type : s
+D :  It did crash , so I feel much better , earlier .
+
+dialogue type : fg
+D :  OK , so um .
+
+dialogue type : s^na^rt
+D :  I did collect an agenda .
+
+dialogue type : s
+D :  So I 'm gonna go first .
+
+dialogue type : s^fe
+D :  Mwa - ha - ha !
+
+dialogue type : s
+D :  It shouldn't take too long .
+
+dialogue type : s
+D :  Um , so we 're pretty much out of digits .
+
+dialogue type : s
+D :  We 've gone once through the set .
+
+dialogue type : s.%-
+D :  Um , so the only thing I have to do
+
+dialogue type : s^na
+D :  Yeah , that 's right .
+
+dialogue type : s
+D :  so I I just have to go through them
+
+dialogue type : fh|s
+D :  and uh pick out the ones that have problems ,
+
+dialogue type : s
+D :  and either correct them or have them re - read .
+
+dialogue type : s
+D :  So we probably have like four or five more forms to be read , to be once through the set .
+
+dialogue type : s
+D :  I 've also extracted out about an hour 's worth .
+
+dialogue type : s
+D :  We have about two hours worth .
+
+dialogue type : s
+D :  I extracted out about an hour 's worth
+
+dialogue type : s
+D :  which are the f digits with for which whose speaker have speaker forms ,
+
+dialogue type : s^e
+D :  have filled out speaker forms .
+
+dialogue type : s
+D :  Not everyone 's filled out a speaker form .
+
+dialogue type : s
+D :  So I extracted one for speakers who have speaker forms
+
+dialogue type : s
+D :  and for meetings in which the " key " file and the transcript files are parsable .
+
+dialogue type : s
+D :  Some of the early key files , it looks like , were done by hand ,
+
+dialogue type : s
+D :  and so they 're not automatically parsable
+
+dialogue type : s
+D :  and I have to go back and fix those .
+
+dialogue type : s
+D :  So what that means is we have about an hour of transcribed digits that we can play with .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Yep ,
+
+dialogue type : s^aa
+D :  yeah .
+
+dialogue type : s^aa
+D :  Yes , absolutely .
+
+dialogue type : s
+D :  So it 's just a question of a little hand - editing of some files
+
+dialogue type : s
+D :  and then waiting for more people to turn in their speaker forms .
+
+dialogue type : s
+D :  I have this web - based speaker form ,
+
+dialogue type : s
+D :  and I sent mail to everyone who hadn't filled out a speaker form ,
+
+dialogue type : s
+D :  and they 're slowly s trickling in .
+
+dialogue type : s
+D :  It 's for labeling the extracted audio files .
+
+dialogue type : s^e
+D :  By speaker ID and microphone type .
+
+dialogue type : s^aa|s
+D :  No , I spoke with Jane about that
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s|qy^d^f^g
+D :  We edit out any of the errors anyway . Right ?
+
+dialogue type : s
+D :  So the there are no errors in the digits ,
+
+dialogue type : s
+D :  you 'll always read the string correctly .
+
+dialogue type : s
+D :  So I can't imagine why anyone would care .
+
+dialogue type : s^t^tc.%--
+D :  So the other topic with digits is uh ,
+
+dialogue type : s
+D :  Liz would like to elicit different prosodics ,
+
+dialogue type : s
+D :  and so we tried last week with them written out in English .
+
+dialogue type : s
+D :  And it just didn't work at all
+
+dialogue type : s^df
+D :  because no one grouped them together .
+
+dialogue type : s
+D :  So it just sounded like many many more lines instead of anything else .
+
+dialogue type : s
+D :  So in conversations with Liz and uh Jane we decided that if you wrote them out as numbers instead of words it would elicit more phone number , social security number - like readings .
+
+dialogue type : s
+D :  The problem with that is it becomes numbers instead of digits .
+
+dialogue type : s
+D :  When I look at this , that first line is " sixty one , sixty two , eighteen , eighty six , ten . "
+
+dialogue type : qh
+D :  Um , and so the question is does anyone care ?
+
+dialogue type : s
+D :  Um , I 've already spoken with Liz and she feels that , correct me if I 'm wrong , that for her , connected numbers is fine ,
+
+dialogue type : s^e
+D :  as opposed to connected digits .
+
+dialogue type : s
+D :  Um , I think two hours is probably fine for a test set ,
+
+dialogue type : s
+D :  but it may be a little short if we actually wanna do training and adaptation and all that other stuff .
+
+dialogue type : fg|%-
+D : 
+
+dialogue type : qy^bu^d
+D :  Six dash one , you mean ?
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : s^cs:s
+D :  So we could just , uh , put in the instructions " read them as digits " .
+
+dialogue type : qw
+D :  How about " O " versus " zero " ?
+
+dialogue type : s^2
+D :  Just let them read it how they read it .
+
+dialogue type : fg|s^cs
+D :  OK so so I can just add to the instructions to read it as digits
+
+dialogue type : s
+D :  not as connected numbers .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^aa
+D :  Oh yeah , absolutely ,
+
+dialogue type : s^e
+D :  cognitively it 's much easier .
+
+dialogue type : s^bk|qr
+D :  OK . And is the spacing alright or do you think there should be more space between digits and groups ?
+
+dialogue type : qrr
+D :  Or is that alright ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  And I think there are about ten different gouping patterns
+
+dialogue type : qy
+D :  isn't that right , Liz ?
+
+dialogue type : s^e
+D :  That we did .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^ng
+D :  I think that uh trying to duplicate , spending too much effort trying to duplicate the existing TI - digits probably isn't too worthwhile
+
+dialogue type : s^df
+D :  because the recording situation is so different .
+
+dialogue type : s^df^e
+D :  It 's gonna be very hard to be comparable .
+
+dialogue type : fg|s
+D :  Yeah I mean read versus not .
+
+dialogue type : s^na
+D :  Well , and not just that ,
+
+dialogue type : s
+D :  I mean the uh the corpus itself .
+
+dialogue type : s
+D :  I mean , we 're collecting it in a read digit in a particular list ,
+
+dialogue type : s
+D :  and I 'm sure that they 're doing more specific stuff .
+
+dialogue type : s
+D :  I mean if I remember correctly it was like postman reading zipcodes and things like that .
+
+dialogue type : s^na
+D :  I thought so .
+
+dialogue type : qy
+D :  Was it read ?
+
+dialogue type : s^bk|s
+D :  Oh , I may well be .
+
+dialogue type : s^df
+D :  I haven't ever listened to TI - digits .
+
+dialogue type : s
+D :  So I don't really know how it compares .
+
+dialogue type : s
+D :  But but regardless it 's gonna it 's hard to compare cross - corpus .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s
+D :  And which group appears is picked randomly , and what the numbers are are picked randomly .
+
+dialogue type : s
+D :  So unlike the previous one , which I d simply replicated TI - digits , this is generated randomly .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : fg|s
+D :  Yeah all we have for some people is digits .
+
+dialogue type : s^bk|s^bu
+D :  Oh , you 're not .
+
+dialogue type : s^bk
+D :  Oh I see .
+
+dialogue type : s^a|s^na
+D :  Oh yeah that 's true , absolutely .
+
+dialogue type : s^ba
+D :  That would be interesting to see whether that helps .
+
+dialogue type : qy.%-
+D : 
+
+dialogue type : s^aa^j
+D :  Yeah .
+
+dialogue type : s^aa^j|s^j^na
+D :  Yeah , I have a real problem with that .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s
+D :  Same same acoustics ,
+
+dialogue type : s
+D :  same microphone ,
+
+dialogue type : s
+D :  same channel .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^ba
+D :  Good .
+
+dialogue type : s^bk|s
+D :  Yeah , we talked about that a couple times .
+
+dialogue type : s
+D :  The the problem I see with trying to do overlapping digits is the cognitive load .
+
+dialogue type : s^ar|s^bd^df
+D :  No it 's it 's not stupid ,
+
+dialogue type : s^cs
+D :  it 's just I mean , try to do it .
+
+dialogue type : s
+D :  I mean , here , let 's try it .
+
+dialogue type : s^co
+D :  You read the last line , I 'll read the first line .
+
+dialogue type : s^co^r
+D :  So so you read the last line , I 'll read the first line .
+
+dialogue type : s^bk|s
+D :  Oh I guess if you plug you 're ears you could do it ,
+
+dialogue type : s^df
+D :  but then you don't get the the same effects .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Oh I see .
+
+dialogue type : s^am^cs
+D :  I guess we could try .
+
+dialogue type : s^cs^e
+D :  We could try doing some .
+
+dialogue type : fg|s^cs
+D :  Well Well OK . Well let 's try it .
+
+dialogue type : s^co
+D :  You do the last line , I 'll do the first line .
+
+dialogue type : s^ba
+D :  O . That 's not bad .
+
+dialogue type : s^ba
+D :  The poor transcribers
+
+dialogue type : s
+D :  they 're gonna hate us .
+
+dialogue type : s
+D :  A round .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Mmm .
+
+dialogue type : s^cs
+D :  I think maybe if we wanted to do that we would do it as a separate session ,
+
+dialogue type : s^e
+D :  something like that
+
+dialogue type : s^e
+D :  rather than doing it during a real meeting
+
+dialogue type : s
+D :  and you know , do two people at a time
+
+dialogue type : s^e
+D :  then three people at a time and things like that .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s
+D :  See see what Dan thinks .
+
+dialogue type : s^aa^j
+D :  Yeah , right .
+
+dialogue type : s
+D :  I thought this was gonna be fast .
+
+dialogue type : s^ba
+D :  Oh well .
+
+dialogue type : s^j^nd
+D :  Not after I " eight " though .
+
+dialogue type : h
+D :  Uh .
+
+dialogue type : s^bk^m
+D :  Nein !
+
+dialogue type : s^j
+D :  You have to be German ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : b
+D :  Oh !
+
+dialogue type : s
+D :  I think for something like that we 'd be better off doing like uh TIMIT .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : fg|qy^rt^t^tc
+D :  OK , are we done with digits ?
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s^t
+D :  We have ASR results from Liz ,
+
+dialogue type : s^t
+D :  transcript status from Jane ,
+
+dialogue type : s^t
+D :  and disk space and storage formats from Don .
+
+dialogue type : qy^rt
+D :  Does do we have any prefer preference on which way we wanna we wanna go ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qh
+D :  Um , why don't you , if you have a hard copy , why don't you email it to the list .
+
+dialogue type : s^bk|s
+D :  Oh it 's in the paper .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk|s
+D :  OK then , it 's already been mailed .
+
+dialogue type : qy^2^bu^d
+D :  Horrible ?
+
+dialogue type : s^2:s
+D :  And someone said " oh " in the front in the middle .
+
+dialogue type : s^na
+D :  I noticed that Chuck was wearing the lapel a lot .
+
+dialogue type : s^am
+D :  Probably how you wear it wore it I would guess .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s:s
+D :  And he said , " Lots lots lots lots . "
+
+dialogue type : s^aap
+D :  Well that 's with the hand stuff .
+
+dialogue type : qh^df
+D :  But how would you do that automatically ?
+
+dialogue type : s
+D :  I mean that that 's the sort of thing that you would do .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : fg
+D :  Um ,
+
+dialogue type : s
+D :  I also wanted to say I have done all this chopping up of digits ,
+
+dialogue type : s
+D :  so I have some naming conventions that we should try to agree on .
+
+dialogue type : s^cs
+D :  So let 's do that off - line ,
+
+dialogue type : s^df
+D :  we don't need to do it during the meeting .
+
+dialogue type : s
+D :  And and I have scripts that will extract it out from " key " files
+
+dialogue type : s
+D :  and and do all the naming automatically ,
+
+dialogue type : s
+D :  so you don't have to do it by hand .
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : s^na
+D :  Yeah , names names in the names to I Ds ,
+
+dialogue type : %-
+D :  so you
+
+dialogue type : s
+D :  and it does all sorts of matches
+
+dialogue type : s^df
+D :  because the way people filled out names is different on every single file
+
+dialogue type : s
+D :  so it does a very fuzzy sort of match .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : s:s
+D :  So th I now have a script that you can just say basically look up Morgan ,
+
+dialogue type : s^e
+D :  and it will give you his ID .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s^bk^rt
+D :  alright .
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : qy^bu^d^rt^t^tc
+D :  Don , you had disk space and storage formats .
+
+dialogue type : qy^rt
+D :  Is that something we need to talk about at the meeting ,
+
+dialogue type : qrr
+D :  or should you just talk with Chuck at some other time ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  Entropy coding .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s.%-
+D :  And I assume half of it is scratch and half of it is ?
+
+dialogue type : s^am|s^bk
+D :  Probably , yeah .
+
+dialogue type : s^bd
+D :  That doesn't matter .
+
+dialogue type : s
+D : 
+
+dialogue type : %-
+D : 
+
+dialogue type : s
+D :  Slash N slash machine name , slash X A in all likelihood .
+
+dialogue type : fg|qh.%--
+D : 
+
+dialogue type : s
+D :  The distinction between scratch and non - scratch is whether it 's backed up or not .
+
+dialogue type : s
+D :  So what you wanna do is use the scratch for stuff that you can regenerate .
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : s
+D :  the stuff that isn't backed up is not a big deal
+
+dialogue type : s
+D :  because disks don't crash very frequently ,
+
+dialogue type : s^e
+D :  as long as you can regenerate it .
+
+dialogue type : s^cs
+D :  Then put it all on scratch
+
+dialogue type : s^df
+D :  because we 're ICSI is is bottlenecked by backup .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  It just depends on your tools .
+
+dialogue type : s^df
+D :  I mean , because it 's not backed up and it 's just on scratch , if your sc tools can't take shortened format , I would leave them expanded ,
+
+dialogue type : s
+D :  so you don't have to unshorten them every single time you wanna do anything .
+
+dialogue type : fg|s^cs
+D :  Yeah , as I said , since that 's it 's regeneratable , what I would do is take downsample it ,
+
+dialogue type : s^cs^e
+D :  and compress it however you 're e the SRI recognizer wants to take it in .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : s
+D :  And that 's the whole point about the naming conventions
+
+dialogue type : s
+D :  is that you could run all the English speaking ,
+
+dialogue type : s^e
+D :  all the native speakers ,
+
+dialogue type : s^e
+D :  and all the non - native speakers ,
+
+dialogue type : s^e
+D :  and all the men , and all the women .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^j^m
+D :  " That 's just not right , man . "
+
+dialogue type : s.%-
+D : 
+
+dialogue type : qh^df
+D :  So so s For example , what if you wanted to run run all the native speakers .
+
+dialogue type : s^f|s
+D :  Right , so if if you did it that way you would have to generate a program that looks in the database somewhere ,
+
+dialogue type : s^e
+D :  extracts out the language ,
+
+dialogue type : s^e
+D :  finds the time - marks for that particular one ,
+
+dialogue type : s
+D :  do it that way .
+
+dialogue type : s
+D :  The way they 're doing it , you have that already extracted
+
+dialogue type : s
+D :  and it 's embedded in the file name .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s:s
+D :  y so you just say you know " asterisk E asterisk dot wave " , and you get what you want .
+
+dialogue type : s^2
+D :  Rather than doing seeks through the file .
+
+dialogue type : s^df
+D :  This is all just temporary access ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^ba
+D :  It 's fine .
+
+dialogue type : s^f
+D :  You know .
+
+dialogue type : s
+D :  Fine to do it however is convenient .
+
+dialogue type : s^aa^t3|s^t3
+D :  Yeah and they don't .
+
+dialogue type : s^rt^t3
+D :  Two gig ?
+
+dialogue type : s^nd
+D :  Yes you can .
+
+dialogue type : %-
+D :  I th
+
+dialogue type : s^bu
+D :  w The transcribers didn't have any problem with that
+
+dialogue type : qy
+D :  did they Jane ?
+
+dialogue type : s
+D :  They loaded they loaded the long long files into X Waves .
+
+dialogue type : qr
+D :  Are you talking about Transcriber or X Waves ?
+
+dialogue type : s^df
+D :  Because because i we used X Waves to do the digits .
+
+dialogue type : s
+D :  And they were loading the full mixed files then ,
+
+dialogue type : s
+D :  and it didn't seem to be any problem .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^ba^nd
+D :  Seemed really fast .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bu|qy^d^g
+D :  and , it 's no problem , right ?
+
+dialogue type : s^df
+D :  Because it 's not backed up .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  If we don't have a spare disk sitting around we go out and we buy ourselves an eighty gigabyte drive
+
+dialogue type : s^e
+D :  and make it all scratch space .
+
+dialogue type : s
+D :  You know , it 's not a big deal .
+
+dialogue type : s^co^t^tc
+D :  So remind me afterward
+
+dialogue type : s
+D :  and I 'll and we 'll look at your disk and see where to put stuff .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : s^2
+D :  Each partition .
+
+dialogue type : s
+D :  And you wanna use , either XA or scratch .
+
+dialogue type : s^bsc
+D :  Well X question mark ,
+
+dialogue type : s^df
+D :  anything starting with X is scratch .
+
+dialogue type : s^m|s^aa
+D :  Two digits , right ,
+
+dialogue type : s^e
+D :  XA , XB , XC .
+
+dialogue type : qy^f^rt
+D :  OK ?
+
+dialogue type : qo^rt^t^tc
+D :  Jane ?
+
+dialogue type : s^j.%--
+D : 
+
+dialogue type : qy^bu^d^rt
+D :  And then you gloss them ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qy^rt
+D :  And so so your list here , are these ones that actually occurred in the meetings ?
+
+dialogue type : s^ba^fe
+D :  Whew !
+
+dialogue type : s^ba
+D :  We are acronym - loaded .
+
+dialogue type : s^ng
+D :  Except right there .
+
+dialogue type : %-
+D :  Well ,
+
+dialogue type : s
+D :  but they have the gloss .
+
+dialogue type : s^r
+D :  You have the gloss form
+
+dialogue type : s^e
+D :  so you always replace it .
+
+dialogue type : s^e
+D :  If that 's how what you wanna do .
+
+dialogue type : %-
+D : 
+
+dialogue type : %-
+D :  Can ca
+
+dialogue type : fg|qy
+D :  So a are we done with acronyms ?
+
+dialogue type : s^df
+D :  Cuz I had a question on what what this meant .
+
+dialogue type : s^fa
+D :  Oh I 'm sorry .
+
+dialogue type : s
+D :  A comment , basically .
+
+dialogue type : s
+D :  They 're impulsive .
+
+dialogue type : s
+D :  Well the " QUAL " can be The " QUAL " is applying to the left .
+
+dialogue type : s^bk
+D :  Yep .
+
+dialogue type : s^2
+D :  " While laughing " .
+
+dialogue type : s^ba
+D :  Oh good .
+
+dialogue type : s
+D :  So it 's a small list .
+
+dialogue type : s^bu^j^rt
+D :  That that 's known as " found data " .
+
+dialogue type : s^aa|s^ba
+D :  Yeah . It 's much easier .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^fe
+D :  Ah !
+
+dialogue type : s^aa|s^na
+D :  Yes , that 's right .
+
+dialogue type : s
+D :  We 're gonna have a big problem when we talk about that .
+
+dialogue type : s:s
+D :  In Monty Python you say " argh " a lot .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s
+D :  Well , or if you 're a C programmer .
+
+dialogue type : s^e:s
+D :  You say arg - C and arg - V all the time .
+
+dialogue type : s^na
+D :  It does .
+
+dialogue type : s^ba^fe
+D :  Ah !
+
+dialogue type : s^j
+D :  Maybe he died while dictating .
+
+dialogue type : s^rt:s^rt
+D :  Eh ?
+
+dialogue type : qy^bu^d
+D :  You mean just the single letter " a " as in the particle ?
+
+dialogue type : s^bsc
+D :  Article .
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^ba
+D :  I 'm just these poor transcribers , they 're gonna hate this meeting .
+
+dialogue type : s
+D :  Them Canadians .
+
+dialogue type : b
+D :  Oh .
+
+dialogue type : s^bk
+D :  Oh I see .
+
+dialogue type : s
+D :  I didn't get that ,
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^aa|s^na
+D :  Yeah , it 's good ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : s^bu^rt
+D :  And just listen to them ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Performance art ,
+
+dialogue type : s^cs^na
+D :  just extract them all .
+
+dialogue type : s^bk
+D :  Oh I see .
+
+dialogue type : %-
+D :  o
+
+dialogue type : qw
+D :  How about question mark ?
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s:qy^bu^d^rt
+D :  So they so it 's " PLP ? "
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^ba
+D :  That 's a good one .
+
+dialogue type : s^na
+D :  That 's correct .
+
+dialogue type : s^na
+D :  I know !
+
+dialogue type : s
+D :  I I was saying that I think a lot of them are the Networks meeting .
+
+dialogue type : s
+D :  I see a few .
+
+dialogue type : s.%-
+D :  Although I see I see plenty of uh
+
+dialogue type : s^ba
+D :  Yeah , that 's pretty close .
+
+dialogue type : s
+D :  Count .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : s^aa|s
+D :  Yeah , I wonder what it is .
+
+dialogue type : s:s
+D :  Oh I 'm sure we 've said XML more than five times .
+
+dialogue type : s^aa|s^ba
+D :  Yes , it 's very bad .
+
+dialogue type : s^aa
+D :  Yes .
+
+dialogue type : s^aa|s^na
+D :  Yeah that 's right .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : s
+D :  And that 's an underestimate
+
+dialogue type : s^df.%-
+D :  cuz they 're
+
+dialogue type : s^bk
+D :  Yep .
+
+dialogue type : fg|s
+D :  Yeah , we 'll have to look at it you know .
+
+dialogue type : s^tc
+D :  So I 'll just I was just looking at the bottom of page three there ,
+
+dialogue type : qr^j
+D :  is that " to be " or " not to be " .
+
+dialogue type : fg|s^fa
+D :  OK anyways , sorry .
+
+dialogue type : s^t^t1
+D :  " Try to stay on topic , Adam . "
+
+dialogue type : fg|s.%--
+D :  OK so , um , on some of these QUALs ,
+
+dialogue type : qy^rt
+D :  are they really QUALs ,
+
+dialogue type : qrr
+D :  or are they glosses ?
+
+dialogue type : s^e^rt:s^rt
+D :  So like there 's a " QUAL TCL " .
+
+dialogue type : h
+D :  Uh
+
+dialogue type : s^bk
+D :  Oh I see , I see .
+
+dialogue type : s
+D :  So it 's not gloss .
+
+dialogue type : s^bk
+D :  OK , I see .
+
+dialogue type : s
+D :  It wasn't said " TCL " .
+
+dialogue type : s
+D :  Of course .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  We 'll probably add it to the language model .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qw^rt
+D :  What did I say ?
+
+dialogue type : s
+D :  Well both .
+
+dialogue type : s^e
+D :  We can go on lan lan add it to both dictionary and language model .
+
+dialogue type : s:s
+D :  Well " tickle " was pronounced " tickle " .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s^df^e
+D :  It 's pronounced the same it 's pronounced the same as the verb .
+
+dialogue type : s
+D :  So I think it 's the language model that makes it different .
+
+dialogue type : s^bk
+D :  Oh I see .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  And and you 'll ha you 'll have to do it sychronously .
+
+dialogue type : s^f|s
+D :  Right , so y so , whoever 's creating the new models , will have to also go through the transcripts and change them synchronously .
+
+dialogue type : s^2
+D :  You can correct it .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^ba
+D :  These are so funny to read .
+
+dialogue type : s
+D :  You add it to the dictionary .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s:s
+D :  It 's this , " rrre - rrre - rrre " .
+
+dialogue type : s
+D :  It was me .
+
+dialogue type : s
+D :  A lot of these are me
+
+dialogue type : s
+D :  the the " beep is said with a high pit high pitch and lengthening . "
+
+dialogue type : s
+D : 
+
+dialogue type : s:s
+D :  What I meant was " beep " .
+
+dialogue type : s^na^t3
+D :  I guess so .
+
+dialogue type : fh
+D :  Anyway .
+
+dialogue type : s^t1.%--
+D :  So they 're vocalization ,
+
+dialogue type : s^t3
+D :  glosses .
+
+dialogue type : %-
+D :  Um ,
+
+dialogue type : %-
+D : 
+
+dialogue type : s^rt.%--
+D :  On the glosses for numbers ,
+
+dialogue type : s
+D :  it seems like there are lots of different ways it 's being done .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^m
+D :  " Ooo - ooo . "
+
+dialogue type : s^2
+D :  " NUMS " ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : qw
+D :  So what 's to the left of these ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk|s
+D :  OK , that 's what I was asking .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s:s|s^bk
+D :  Point FIVE , yeah .
+
+dialogue type : s^bk
+D :  Good .
+
+dialogue type : fg|s.%--
+D :  OK now , the other example is , in the glosses right there ,
+
+dialogue type : s:s
+D :  " gloss one one one dash one three zero " .
+
+dialogue type : qw
+D :  What what 's to the left of that ?
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s^ba
+D :  Good .
+
+dialogue type : s^2
+D :  Label it .
+
+dialogue type : b
+D :  Right
+
+dialogue type : s
+D :  Master copies of superset .
+
+dialogue type : b
+D :  Good .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s
+D :  Well , the numbers ?
+
+dialogue type : s^cs
+D :  We might wanna just a separate tag that says it 's read .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^rt
+D :  OK ?
+
+dialogue type : qy^rt
+D :  Are we done ?
+
+dialogue type : s^bk|s
+D :  Oh , I guess we 're not done .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bu|qy^d^g
+D :  We did that for one meeting , right ,
+
+dialogue type : s^bu|qy^d^g
+D :  so you have that data don't you ?
+
+dialogue type : qy^bu^d
+D :  All ten hours ?
+
+dialogue type : s^ba
+D :  Great .
+
+dialogue type : s^aap
+D :  Well it 's just we 're missing tea .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^fe
+D :  Oop !
+
+dialogue type : s^ba^fe
+D :  Man !
+

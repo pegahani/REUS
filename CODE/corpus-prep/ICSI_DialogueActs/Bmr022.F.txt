@@ -1,0 +1,675 @@
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^aa|s^na
+F :  Yeah , that 's true .
+
+dialogue type : s^na|s^aa
+F :  I 've noticed that . Yeah .
+
+dialogue type : s^ba
+F :  Which makes sense .
+
+dialogue type : s
+F :  Oh , on the email .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^cs
+F :  Well , and then the other possibility was e that we provide them with a a file that already has the beeps in it or something .
+
+dialogue type : qy^rt
+F :  Wasn't that what you said ?
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk^fe
+F :  Oh !
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b
+F :  Oh !
+
+dialogue type : b
+F :  Oh .
+
+dialogue type : %-
+F : 
+
+dialogue type : %-
+F : 
+
+dialogue type : %-
+F :  Well you th
+
+dialogue type : s^bu
+F :  So just r r truly chron chromatically up all the way through the entire meeting .
+
+dialogue type : s^ba
+F :  Interesting .
+
+dialogue type : s^ba
+F :  It 'd be impossible to r to misorder them .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  It 's pretty simple ,
+
+dialogue type : s^r
+F :  pretty simple .
+
+dialogue type : s^ba
+F :  Hmm , interesting .
+
+dialogue type : s^ba
+F :  Well . Well ,
+
+dialogue type : s^ba
+F :  " high " , " low " is pretty straightforward ,
+
+dialogue type : s^aa
+F :  yeah .
+
+dialogue type : s^j
+F :  You 'd have to they 'd have to have the acoustics of dogs t hear into the high high ranges .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^ba^cs
+F :  It 's a shame we can't really give a number .
+
+dialogue type : s^e
+F :  So it would be a number and a beep .
+
+dialogue type : %--
+F :  e
+
+dialogue type : s^ba
+F :  It 's a shame we can't do that .
+
+dialogue type : s^na
+F :  That 'll work .
+
+dialogue type : s^ba|s^ba
+F :  Wow , that 'd also be shorter to type .
+
+dialogue type : s^ba
+F :  Interesting .
+
+dialogue type : s^bk
+F :  Oh , that 's true .
+
+dialogue type : s^cs
+F :  Or maybe could it be a click and the number .
+
+dialogue type : s^cs
+F :  Or a beep and the number , and then and then you just do the the num th you do it as a d a digit .
+
+dialogue type : s^df.%--
+F :  Well , if if it saves time ,
+
+dialogue type : s^bk
+F :  yeah .
+
+dialogue type : s
+F :  It might actually help them in terms of their place holding .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s.%-
+F :  And it might be helpful to them in terms of d act
+
+dialogue type : %-
+F : 
+
+dialogue type : s^ar
+F :  Well , no no no no .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : %--
+F :  I i
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  We could actually build the numbers into a template .
+
+dialogue type : %--
+F :  Well .
+
+dialogue type : s^ba
+F :  That 's a good idea .
+
+dialogue type : s^ba
+F :  Very simple .
+
+dialogue type : s
+F :  It 's forty - five minutes .
+
+dialogue type : s^r
+F :  Forty - five minutes for that one .
+
+dialogue type : s
+F :  It 's possible .
+
+dialogue type : s^aa
+F :  Yeah . That 's right .
+
+dialogue type : s^aa|s^na
+F :  Yeah , it was forty - five minutes .
+
+dialogue type : s^ba
+F :  Hmm , interesting .
+
+dialogue type : s
+F :  Well , with just one digit though ,
+
+dialogue type : %-
+F : 
+
+dialogue type : fg|s.%-
+F : 
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  I think it would save them time .
+
+dialogue type : s
+F :  I think it would help them keep the track track of it .
+
+dialogue type : s^ba
+F :  Interesting ,
+
+dialogue type : s^bk
+F :  yeah .
+
+dialogue type : s
+F :  So , someone 's gonna talk to Brian .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s
+F :  I also looked thr over the text
+
+dialogue type : s
+F :  and I was impressed by the accuracy ,
+
+dialogue type : s^ba^e
+F :  it looks really good .
+
+dialogue type : s^aa|s^na
+F :  Yeah , it 's there .
+
+dialogue type : s^bk
+F :  Mm - hmm .
+
+dialogue type : s^aa|s^bd
+F :  Oh . Yes . But this is not important .
+
+dialogue type : s
+F :  It 's systematic ,
+
+dialogue type : s^aa
+F :  yeah .
+
+dialogue type : s
+F :  And and Brian actually forwarded me in advance .
+
+dialogue type : s
+F :  He he wor he very nicely worked out a set of conventions which is intermediate between ours and the ones that they 're used to .
+
+dialogue type : s^ba
+F :  Which is which is really a good a good way to do it .
+
+dialogue type : s^na
+F :  No problem .
+
+dialogue type : s^aa|s^cs
+F :  Yeah . We can do it this week .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : %-
+F : 
+
+dialogue type : s^ba
+F :  I actually really like them though .
+
+dialogue type : s^aa|s^na
+F :  Yeah , I do .
+
+dialogue type : s.%-
+F :  The other thing , too , is th y you said that the acoustic pra q quality of the one that you 're wearing , the fancy one , is actually somewhat better than
+
+dialogue type : s^no
+F :  So I I don't know if it 's a noticeable difference ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I mean , I p I personally really prefer that model ,
+
+dialogue type : s
+F :  so I think you know we 've got this problem of people having different different preferences .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  It 's I I understand ,
+
+dialogue type : s^ba
+F :  that 's fine with me .
+
+dialogue type : s^df
+F :  I I g would say that um , I find this model easier to adjust ,
+
+dialogue type : s
+F :  that 's one of the reasons I don't like these ,
+
+dialogue type : s^df
+F :  cuz I keep m you know , bending it ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : qh^d^rt
+F :  You do ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b
+F :  Huh .
+
+dialogue type : s^bu
+F :  Then they have to be rewired though ,
+
+dialogue type : qy^rt
+F :  don't they ?
+
+dialogue type : s
+F :  Specially .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^rt
+F :  You you put it over the corner of your ear .
+
+dialogue type : s
+F :  I can't I 'm having competing microphone headphone problems here .
+
+dialogue type : s
+F :  This one .
+
+dialogue type : s^ba
+F :  It 's an interesting idea .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^ba
+F :  the acoustics on this are really s m better than when I talk into it directly .
+
+dialogue type : s
+F :  Works with this .
+
+dialogue type : s^no
+F :  I don't know .
+
+dialogue type : s
+F :  I had another thought .
+
+dialogue type : qh^cs.%--
+F :  Would w would it be possi
+
+dialogue type : s
+F :  There are scripts that uh , run ,
+
+dialogue type : qy^rt
+F :  and and when it 's finished compressing , would it be possible for the script to change the permissions on the file to be more strict ?
+
+dialogue type : s^e.%-
+F : 
+
+dialogue type : qy^df^rt
+F :  But after the meeting 's done , would they want to ?
+
+dialogue type : s^aa
+F :  That 's true .
+
+dialogue type : s^aa|s^na
+F :  Yeah , that 's true .
+
+dialogue type : s
+F :  Also it seems like once it 's been stored that night , it 's it 's possible to recover from backups ,
+
+dialogue type : s
+F :  so that the main risk is avoiding it being accidentally deleted during the day that it was recorded .
+
+dialogue type : s^bk
+F :  Yeah . Yeah .
+
+dialogue type : s
+F :  And I 'd prefer it to go through me .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : %
+F :  w w
+
+dialogue type : %-
+F :  Well
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  uh , uh , My my view on this is that once it 's in a final version and I 'm working toward all these being final versions , then it can go into this next ro this next realm .
+
+dialogue type : s^ba
+F :  But it it 's sort of counter - productive to have changes made which I would be making if I 'd just gotten that far in the file .
+
+dialogue type : s.%-
+F :  You know , it 's it 's , um .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  That 's right .
+
+dialogue type : s^ba
+F :  And then after that , then this would probably work .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Good , good .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^df
+F :  ke " key " file 's different .
+
+dialogue type : %-
+F :  " Key " fi
+
+dialogue type : s
+F :  Well , " key " file has the extra attributes that if you notice that there are lots of spikes on channel
+
+dialogue type : s
+F :  so - and - so , it 's useful as a repository for putting that there .
+
+dialogue type : s
+F :  And also if you notice that there was an extra speaker ,
+
+dialogue type : s
+F :  and didn't get mentioned in the " key " file ,
+
+dialogue type : s
+F :  but they were only there for a second ,
+
+dialogue type : s
+F :  but it 's t useful to mention that they were there .
+
+dialogue type : s
+F :  So I th I think that the " key " file is usefu for notations related to the meeting ,
+
+dialogue type : s
+F :  but it 's different from the transcript .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b.%
+F :  Hmm .
+
+dialogue type : s^ba
+F :  That 's interesting .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^ba
+F :  I also think , um , that the type of change ch ch varies an I think it 's a very good point .
+
+dialogue type : qh^df
+F :  Because what if the uh , what if one set of changes one person was making was with reference to some typographical convention .
+
+dialogue type : s^e
+F :  And the other person n unkn n quite unknowingly , was changing it the other way around .
+
+dialogue type : s
+F :  Then you could end up with a real mess ,
+
+dialogue type : s
+F :  in terms of , like , consistency of conventions across a file , there is an argument to be made for having a single editor editing at that level .
+
+dialogue type : s^ba.%-
+F : 
+
+dialogue type : s^bk
+F :  That 's right .
+
+dialogue type : s
+F :  And I also like I l also like Liz 's uh , k um , phraseology of " at this level of " I don't remember how you put it , but this " at this level of transcription " or whatever .
+
+dialogue type : s
+F :  I mean it 's like there are different layers of whatever
+
+dialogue type : s
+F :  and different types of conventions ,
+
+dialogue type : s
+F :  and if it were an acronym , then I would I think that it would make sense f for them to have input into that level of things ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : %-
+F :  Well ,
+
+dialogue type : b
+F :  yeah .
+
+dialogue type : s^aa
+F :  I agree .
+
+dialogue type : %-
+F : 
+
+dialogue type : s
+F :  Well , I see now , we 're k back into the same situation as when we were , uh , talking about a allowing people to edit the transcripts before they become public .
+
+dialogue type : s
+F :  So there 's a question of how easy or how hard to modify ,
+
+dialogue type : s
+F :  and how that impacts the amount of changing that 's done .
+
+dialogue type : s.%--
+F :  And I I think that it 's , um ,
+
+dialogue type : s
+F :  I I have received some suggestions for change , which I 've made .
+
+dialogue type : s
+F :  And um , I think with an acronym , that 's a clear case where it would be an easy change to incorporate .
+
+dialogue type : s
+F :  But it would worry me to have people , um , having free reign to change these things , because of the need to have consistent conventions .
+
+dialogue type : s
+F :  And people who are only just visiting the data might not have a sense of the larger system .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa|s
+F :  I agr I agree but I have to also add one other thing which i before I forget it ,
+
+dialogue type : s
+F :  which is Adam 's point about when you were reviewing the IBM transcripts .
+
+dialogue type : s
+F :  u This was mentioned at the beginning of the meeting .
+
+dialogue type : s
+F :  You said that there were some places where it wasn't what y was written already , but you could see how they might have thought that 's what it said .
+
+dialogue type : s
+F :  So there it 's not just a right and wrong thing .
+
+dialogue type : s
+F :  Sometimes there tru there are absolutely stretches where there is no no k if you were at the meeting and you could ask the person ,
+
+dialogue type : s
+F :  maybe , m you know , they could they could 've told you ,
+
+dialogue type : s
+F :  but five minutes later they might not have been able to tell you ,
+
+dialogue type : s^e
+F :  even if they were listening to it .
+
+dialogue type : s
+F :  So , sometimes it isn't right and wrong ,
+
+dialogue type : s
+F :  sometimes it 's multiple interpretations ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  Now But of course , this does raise the possibility of allowing , um , an extra annotation for , you know , alternative interpretations of a stretch .
+
+dialogue type : s
+F :  But I just wanted to say it isn't simply right or wrong .
+
+dialogue type : s
+F :  Or overlooked or not overlooked .
+
+dialogue type : s
+F :  Sometimes they 're truly ambiguous ,
+
+dialogue type : fh
+F :  and um , uh , um ,
+
+dialogue type : s^cs
+F :  nice to have a notation for that ,
+
+dialogue type : fh
+F :  but . Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s.%-
+F :  And als it also
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : s^fe
+F :  Ooo !
+

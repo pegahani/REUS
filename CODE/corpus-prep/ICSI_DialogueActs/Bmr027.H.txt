@@ -1,0 +1,522 @@
+dialogue type : s^fe
+H :  Damn !
+
+dialogue type : s^aa|%-
+H :  Yeah . Those
+
+dialogue type : %-
+H : 
+
+dialogue type : b
+H :  Uh - huh .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : qy^rt
+H :  Am I on , by the way ?
+
+dialogue type : s^bk
+H :  Oh .
+
+dialogue type : qh
+H :  Hello ? Hello ?
+
+dialogue type : s^bk|%-
+H :  Oh , OK . Alright . So . The ,
+
+dialogue type : fh
+H : 
+
+dialogue type : s^cs.%--
+H : 
+
+dialogue type : s^cs.%--
+H : 
+
+dialogue type : s^cs
+H :  you know , specify exactly uh , what , you know , how how they will be contacted
+
+dialogue type : s
+H :  and they can , you know they can be asked to give a phone number and an email address , or both .
+
+dialogue type : %-
+H : 
+
+dialogue type : s^bk
+H :  Right .
+
+dialogue type : fg|s
+H :  So . A And , then , you know , say very clearly that if they don't if we don't hear from them , you know , as Morgan suggested , by a certain time or after a certain period after we contact them that is implicitly giving their agreement .
+
+dialogue type : s^bk
+H :  Right .
+
+dialogue type : s
+H :  Says that .
+
+dialogue type : b
+H :  Right .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s^bk
+H :  I see .
+
+dialogue type : fh
+H : 
+
+dialogue type : s^bk
+H :  Oh , OK .
+
+dialogue type : qw
+H :  So what does it say about the the the process of of , uh y the review process ?
+
+dialogue type : s^bk
+H :  Oh , OK .
+
+dialogue type : b
+H :  Hmm .
+
+dialogue type : b
+H :  Right .
+
+dialogue type : s^bk
+H :  Oh .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s^cs
+H :  but you should probably have a legal person look at this
+
+dialogue type : s^e
+H :  and make sure it 's OK .
+
+dialogue type : s^df.%-
+H : 
+
+dialogue type : s^ar
+H :  No .
+
+dialogue type : s^m^na
+H :  That will happen .
+
+dialogue type : qy^rt
+H :  Maybe uh , do we have mailing addresses for these people ?
+
+dialogue type : s^bk^m
+H :  No .
+
+dialogue type : s^bk
+H :  Oh .
+
+dialogue type : %-
+H : 
+
+dialogue type : b
+H :  Mmm .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : b
+H :  Hmm .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s^cs
+H :  We can use it we can use a a ploy
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s.%--
+H : 
+
+dialogue type : fh
+H :  uh , uh , uh uh ,
+
+dialogue type : s
+H :  you know , like dead - beat dads ,
+
+dialogue type : s
+H :  they they they make it look like they won something in the lottery
+
+dialogue type : s
+H :  and then they open the envelope
+
+dialogue type : %-
+H : 
+
+dialogue type : qy^d^f^g^rt
+H :  Right ?
+
+dialogue type : s^rt
+H :  Because and then the the the the thing is served .
+
+dialogue type : s:s^fe
+H : 
+
+dialogue type : s
+H :  you know , go to this web site
+
+dialogue type : %-
+H :  and you 've , uh you 're "
+
+dialogue type : fg|%-
+H : 
+
+dialogue type : %-
+H :  i i
+
+dialogue type : s.%-
+H : 
+
+dialogue type : %-
+H : 
+
+dialogue type : b
+H :  Right .
+
+dialogue type : s
+H :  It might well be the case that that this is perfectly you know , this is enough to give us a basis t to just , eh , assume their consent if they don't reply .
+
+dialogue type : s^df
+H :  But , I 'm not you know , me not being a lawyer , I wouldn't just wanna do that without having the the expert , uh , opinion on that .
+
+dialogue type : s^aa
+H :  Yeah .
+
+dialogue type : s^bk
+H :  Oh .
+
+dialogue type : s^aa^j^t3
+H :  Oh , yeah .
+
+dialogue type : s
+H :  I have an idea .
+
+dialogue type : s^cs^j
+H :  You reverse the signal ,
+
+dialogue type : s
+H :  so it it lets people say what they said backwards .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : s^ar
+H :  No .
+
+dialogue type : %-
+H : 
+
+dialogue type : s
+H :  This um , I 've seen this recently .
+
+dialogue type : s
+H :  Uh , I got email ,
+
+dialogue type : s^rt
+H :  and it i if I use a MIME - capable mail reader , it actually says , you know , click on this button to confirm receipt of the of the mail .
+
+dialogue type : fh
+H : 
+
+dialogue type : s^aa
+H :  Right .
+
+dialogue type : s^ar|s
+H :  No , no , no . This is different .
+
+dialogue type : s
+H :  This is not So , I I know , you can tell , you know , the , uh , mail delivery agent to to confirm that the mail was delivered to your mailbox .
+
+dialogue type : s
+H :  But but , no . This was different .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s
+H :  uh , th there was a button that when you clicked on it , it would send , uh , you know , a actual acknowledgement to the sender that you had actually looked at the mail .
+
+dialogue type : s
+H : 
+
+dialogue type : s.%-
+H :  you know , if you use Netscape or something like that for your n
+
+dialogue type : s^aa
+H :  Right .
+
+dialogue type : s^ar|s^nd
+H :  No , no . You can do that .
+
+dialogue type : s
+H :  You know , you can put this button anywhere you want ,
+
+dialogue type : s.%-:s.%-
+H :  and you can put it the bottom of the message and say " here , by you know , by clicking on this , I I agree uh , you know , I acknowledge "
+
+dialogue type : b
+H :  Right .
+
+dialogue type : s^ar|s
+H :  No , no , no . I actually don't .
+
+dialogue type : s
+H :  I 'm just saying that
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s^aa
+H :  Yeah .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : %-
+H :  So I i
+
+dialogue type : s:s
+H :  There 's these logos that you can put at the bottom of your web page , like " powered by VI " .
+
+dialogue type : s^bk
+H :  Yeah .
+
+dialogue type : qr
+H :  D d So , does Washi - does does UW wanna u do this wanna use this data for recognition or for something else ?
+
+dialogue type : s^bk
+H :  Oh .
+
+dialogue type : s^bk
+H :  Oh . I see .
+
+dialogue type : s^bu.%-
+H : 
+
+dialogue type : %-
+H :  S
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : b
+H :  Oh . OK .
+
+dialogue type : s
+H :  Discourse markers .
+
+dialogue type : s^r
+H :  Discourse markers .
+
+dialogue type : s^r
+H :  Discourse markers .
+
+dialogue type : s^aa
+H :  Yeah . Yeah .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : s^aa
+H :  Yeah , yeah .
+
+dialogue type : s^aa
+H :  Mmm .
+
+dialogue type : fg|qw.%-
+H :  Yeah . So how often ?
+
+dialogue type : %-
+H : 
+
+dialogue type : %-
+H : 
+
+dialogue type : s
+H :  But we don't I mean , our language model right now doesn't know about these words anyhow .
+
+dialogue type : fh
+H :  So ,
+
+dialogue type : s
+H :  you know , un until you actually get a decent language model , @ @ Adam 's right .
+
+dialogue type : s
+H :  You probably won't notice a difference .
+
+dialogue type : s^ba
+H :  But it 's I mean , it 's definitely good that these are fixed .
+
+dialogue type : s^bd
+H :  I mean , obviously .
+
+dialogue type : %--
+H :  C
+
+dialogue type : s
+H :  Well , return the old ones .
+
+dialogue type : qy^bu^d^rt
+H :  So you have spare headsets ?
+
+dialogue type : qy^bu^d^r^rt
+H :  You have spare headsets ?
+
+dialogue type : s^ar|s^rt
+H :  No , no . I mean , just earphones ?
+
+dialogue type : fh
+H :  Um ,
+
+dialogue type : s^df
+H :  because I , uh , I could use one on my workstation ,
+
+dialogue type : %--
+H :  just to t
+
+dialogue type : s^df
+H :  because sometimes I have to listen to audio files
+
+dialogue type : s
+H :  and I don't have to b go borrow it from someone
+
+dialogue type : fh
+H : 
+
+dialogue type : s^bk
+H :  Oh , OK .
+
+dialogue type : s^bk|s^bd
+H :  Sure . No problem .
+
+dialogue type : %-
+H : 
+
+dialogue type : s^bk
+H :  Right .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : s
+H :  I think I have a pair that I brought from home ,
+
+dialogue type : s
+H :  but it 's f just for music listening
+
+dialogue type : s.%--
+H : 
+
+dialogue type : b
+H :  Nnn . Yeah .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : s^tc
+H :  Anyway .
+
+dialogue type : s
+H :  The disk space was short .
+
+dialogue type : s^aa|s^na
+H :  Yeah . That 's what I thought too .
+
+dialogue type : s^bk|qy^bu^d^rt
+H :  Oh , so so , you mean the d the internal the disks on the machines that we just got ?
+
+dialogue type : qrr
+H :  Or extra disk ?
+
+dialogue type : s^bk
+H :  Oh , oh . OK .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : b
+H :  Hmm .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : qw
+H :  What ?
+
+dialogue type : s^no.%-
+H :  I I I I 'm not actually , I 'm not sure what ?
+
+dialogue type : qy^rt
+H :  Are we supposed to have done something ?
+
+dialogue type : s^bk
+H :  Oh .
+
+dialogue type : s^bk^m
+H :  Alternating .
+
+dialogue type : s^bk^fe
+H :  Oh !
+
+dialogue type : s^bu
+H :  We did that last week .
+
+dialogue type : qy^d^g^rt
+H :  Right ?
+
+dialogue type : s^aa|s^na
+H :  Yeah . We did .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : s
+H :  Uh , I mean , we we really haven't done anything .
+
+dialogue type : s^fa
+H :  Sorry .
+
+dialogue type : s
+H :  I mean , the the next thing on our agenda is to go back and look at the , um the automatic alignments
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s
+H : 
+
+dialogue type : s^bsc
+H :  or , of the foreground speech with background speech .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : b
+H :  Mmm .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : z
+H :  Can I go next ?
+
+dialogue type : z
+H :  Because I have to leave , actually .
+

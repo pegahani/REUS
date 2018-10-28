@@ -1,0 +1,186 @@
+dialogue type : z
+E :  Channel .
+
+dialogue type : z
+E :  Channel .
+
+dialogue type : z
+E :  Channel whatever .
+
+dialogue type : z
+E :  What am I ?
+
+dialogue type : z
+E :  Channel four ?
+
+dialogue type : z
+E :  This number four ?
+
+dialogue type : z
+E :  OK .
+
+dialogue type : s
+E :  But anyway , they won't be identical as somebody is saying zero in some sometimes , you know , saying O , and so , it 's not i not identical .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Mmm . So .
+
+dialogue type : %-
+E : 
+
+dialogue type : fg|s^bk
+E :  Anyway . Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  That - that 's what I wanted to do anyway ,
+
+dialogue type : s^cs.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^na
+E :  Yeah . We should do that .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^ba
+E :  It will be funny
+
+dialogue type : %-
+E : 
+
+dialogue type : s^ba^j^rt
+E :  It will be funny when you 're really reading digits , and then there are the chunks with with your digits in ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  It should @ @ be finished today or something . Yeah .
+
+dialogue type : fg|s^na.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  And to use them for for training a or for fo whatever . Yeah .
+
+dialogue type : s
+E :  To to create some speech - nonspeech labels out of them ,
+
+dialogue type : s
+E :  and Yeah , but that that 's a thing w was w what I 'm just looking into .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah , sure .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^na
+E :  I talked to Helen .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ba
+E :  Actually , when when they create new yeah , new segments or something , it will be , uh , not that easy
+
+dialogue type : s^na
+E :  but hmm . I think one could do that .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^ba
+E :  That would be great , yeah , to know that .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^na
+E :  It would .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %-
+E :  Y
+
+dialogue type : s^aa
+E :  Yeah . Sure .
+
+dialogue type : b
+E :  Yeah .
+

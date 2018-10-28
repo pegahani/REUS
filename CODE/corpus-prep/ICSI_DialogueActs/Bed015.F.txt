@@ -1,0 +1,3036 @@
+dialogue type : z
+F :  I 'm What ?
+
+dialogue type : z
+F :  Really ?
+
+dialogue type : z
+F :  Oh , that 's horrible !
+
+dialogue type : z
+F :  Disincentive !
+
+dialogue type : z
+F :  Hello ?
+
+dialogue type : z
+F :  Hello ?
+
+dialogue type : z
+F :  Which am I ?
+
+dialogue type : z
+F :  Channel fi OK .
+
+dialogue type : z
+F :  OK .
+
+dialogue type : qy^rt^t
+F :  Are you doing something ?
+
+dialogue type : s^bk|s^t
+F :  OK , then I guess I 'm doing something .
+
+dialogue type : fh
+F :  So , um ,
+
+dialogue type : s
+F :  So basically the result of m much thinking since the last time we met , um , but not as much writing , um , is a sheet that I have a lot of , like , thoughts and justification of comments on
+
+dialogue type : s
+F :  but I 'll just pass out as is right now .
+
+dialogue type : fh
+F :  So , um ,
+
+dialogue type : s
+F :  here .
+
+dialogue type : s^cs^rt
+F :  If you could pass this around ?
+
+dialogue type : s
+F :  And there 's two things .
+
+dialogue type : s
+F :  And so one on one side is on one side is a sort of the revised sort of updated semantic specification .
+
+dialogue type : s
+F :  And the other side is , um , sort of a revised construction formalism .
+
+dialogue type : s^na
+F :  It 's just one sheet .
+
+dialogue type : s
+F :  It 's just a Nothing else .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : qy^bu^d^rt
+F :  Enough to go around ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  There are very few changes in some ways from what we 've , um , uh , b done before
+
+dialogue type : s
+F :  but I don't think everyone here has seen all of this .
+
+dialogue type : s
+F :  So , uh , I 'm not sure where to begin .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  it 's only slightly more stable than it was before .
+
+dialogue type : s
+F :  And , um , after a little bit more discussion and especially like Keith and I I have more linguistic things to settle in the next few days , um , it 'll probably change again some more .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  let 's start b let 's start on number two actually on the notation ,
+
+dialogue type : s^df.%--
+F :  um , because that 's ,
+
+dialogue type : s
+F :  I 'm thinking , possibly a little more familiar to , um to people .
+
+dialogue type : s.%--
+F :  OK , so the top block is just sort of a sort of abstract nota
+
+dialogue type : s
+F :  it 's sort of like , um , listings of the kinds of things that we can have .
+
+dialogue type : s
+F :  And certain things that have , um , changed , have changed back to this .
+
+dialogue type : s
+F :  There there 's been a little bit of , um , going back and forth .
+
+dialogue type : s
+F :  But basically obviously all constructions have some kind of name .
+
+dialogue type : s
+F :  I forgot to include that you could have a type included in this line .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  the textual example at the end has clausal construction .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s
+F :  um , just to show it doesn't have to be beautiful
+
+dialogue type : s
+F :  It could be , you know , simple old text as well .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  Uh , these three have various ways of doing certain things .
+
+dialogue type : s
+F :  So I 'll just try to go through them .
+
+dialogue type : s
+F :  So they could all have a type at the beginning .
+
+dialogue type : s
+F :  Um , and then they say the key word construction
+
+dialogue type : s
+F :  and they have some name .
+
+dialogue type : s^aa
+F :  Yeah , right .
+
+dialogue type : fg|s
+F :  OK , and then it has a block that is constituents .
+
+dialogue type : s
+F :  And as usual I guess all the constructions her all the examples here have only , um , tsk one type of constituent ,
+
+dialogue type : s^e
+F :  that is a constructional constituent .
+
+dialogue type : s
+F :  I think that 's actually gonna turn out to m be certainly the most common kind .
+
+dialogue type : s
+F :  But in general instead of the word " construct " , th here you might have " meaning " or " form " as well .
+
+dialogue type : qy^d^f^g^rt
+F :  OK ?
+
+dialogue type : s
+F :  So if there 's some element that doesn't that isn't yet constructional in the sense that it maps form and meaning .
+
+dialogue type : s^bk
+F :  OK ,
+
+dialogue type : fh|s.%--
+F : 
+
+dialogue type : s
+F :  it 's pro it 's often sometimes the case in the first case here that you know what kind of construction it is .
+
+dialogue type : s:s
+F :  So for example whatever I have here is gonna be a form of the word " throw " ,
+
+dialogue type : s^e:s
+F :  or it 's gonna be a form of the word , you know , I don't know , " happy " , or something like that .
+
+dialogue type : s
+F :  Or , you know , some it 'll be a specific word
+
+dialogue type : s^e
+F :  or maybe you 'll have the type .
+
+dialogue type : s:s
+F :  You 'll say " I need a p uh spatial relation phrase here "
+
+dialogue type : s^e:s
+F :  or " I need a directional specifier here " .
+
+dialogue type : s
+F :  So - uh you could have a j a actual type here .
+
+dialogue type : s
+F :  Um , or you could just say in the second case that you only know the meaning type .
+
+dialogue type : s
+F :  So a very common example of this is that , you know , in directed motion , the first person to do something should be an agent of some kind ,
+
+dialogue type : s^e
+F :  often a human .
+
+dialogue type : qy^d^f^g
+F :  Right ?
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I I run down the street ,
+
+dialogue type : s:s
+F :  it 's typed , uh , " I " ,
+
+dialogue type : s^e
+F :  meaning
+
+dialogue type : s
+F :  The the new kind is this one that is sort of a pair
+
+dialogue type : fh
+F :  and , um ,
+
+dialogue type : s
+F :  sort of skipping fonts and whatever .
+
+dialogue type : s
+F :  The idea is that sometimes there are , um , general constructions that you know , that you 're going to need .
+
+dialogue type : s
+F :  It 's it 's the equivalent of a noun phrase or a prepositional phrase , or something like that there .
+
+dialogue type : s
+F :  And usually it has formal um , considerations that will go along with it .
+
+dialogue type : s
+F :  And then uh , you might know something much more specific depending on what construction you 're talking about ,
+
+dialogue type : s^e
+F :  about what meaning what specific meaning you want .
+
+dialogue type : s:s
+F :  So the example again at the bottom , which is directed motion ,
+
+dialogue type : s
+F :  you might need a nominal expression to take the place of , you know , um , " the big th " , you you know , " the big the tall dark man " , you know , " walked into the room " .
+
+dialogue type : s
+F :  But because of the nature of this particular construction you know not just that it 's nominal of some kind
+
+dialogue type : s
+F :  but in particular , that it 's some kind of animate nominal ,
+
+dialogue type : s
+F :  and which will apply just as well to like , you know , a per you know , a simple proper noun
+
+dialogue type : s^e
+F :  or to some complicated expression .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s^no
+F :  so I don't know if the syntax will hold but something that gives you a way to do both constructional and meaning types .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^bk|s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^bk|s^rt
+F :  Yeah . None of these examples have anything different for formal constraints ?
+
+dialogue type : s
+F :  But you can refer to any of the , um , sort of available elements and scope ,
+
+dialogue type : s^f|s
+F :  right ? which here are the constructs , to say something about the relation .
+
+dialogue type : s
+F :  And I think i if you not if you compare like the top block and the textual block , um , we dropped like the little F subscript .
+
+dialogue type : s
+F :  The F subscripts refer to the " form " piece of the construct .
+
+dialogue type : s
+F :  And I think that , um , in general it 'll be unambiguous .
+
+dialogue type : s
+F :  Like if you were giving a formal constraint then you 're referring to the formal pole of that .
+
+dialogue type : s:s
+F :  So so by saying if I just said " Name one " then that means name one formal
+
+dialogue type : s
+F :  and we 're talking about formal struc Which which makes sense .
+
+dialogue type : s
+F :  Uh , there are certain times when we 'll have an exception to that ,
+
+dialogue type : s^e
+F :  in which case you could just indicate " here I mean the meaningful for some reason " .
+
+dialogue type : s^f
+F :  Right ?
+
+dialogue type : s
+F :  Or Actually it 's more often that , only to handle this one special case of , you know , " George and Jerry walk into the room in that order " .
+
+dialogue type : s
+F :  So we have a few funny things where something in the meaning might refer to something in the form .
+
+dialogue type : s
+F :  But but s we 're not gonna really worry about that for right now
+
+dialogue type : s
+F :  and there are way We can be more specific if we have to later on .
+
+dialogue type : s^bk|s^t^tc
+F :  OK , and so in terms of the the relations ,
+
+dialogue type : s
+F :  you know , as usual they 're before and ends .
+
+dialogue type : s
+F :  I should have put an example in of something that isn't an interval relation
+
+dialogue type : s
+F :  but in form you might also have a value binding .
+
+dialogue type : s:s
+F :  You know , you could say that , um , you know , " name - one dot " , t you know , " number equals " , you know , a plural or something like that .
+
+dialogue type : s
+F :  There are certain things that are attribute - value , similar to the bindings below
+
+dialogue type : s|qy^d^f^g
+F :  but I mean they 're just us usually they 're going to be value value fillers , right ?
+
+dialogue type : s^bk|s
+F :  OK , and then again semantic constraints here are just are just bindings .
+
+dialogue type : s
+F :  There was talk of changing the name of that .
+
+dialogue type : s
+F :  And Johno and I I you you and I can like fight about that if you like ?
+
+dialogue type : s^rt
+F :  but about changing it to " semantic n effects " ,
+
+dialogue type : s
+F :  which I thought was a little bit too order - biased
+
+dialogue type : s
+F :  and " semantic bindings " ,
+
+dialogue type : s^df
+F :  which I thought might be too restrictive in case we don't have only bindings .
+
+dialogue type : s
+F :  And so it was an issue whether constraints um , there were some linguists who reacted against " constraints " , saying , " oh , if it 's not used for matching , then it shouldn't be called a constraint " .
+
+dialogue type : s|qy^d^f^g
+F :  But I think we want to be uncommitted about whether it 's used for matching or not . Right ?
+
+dialogue type : s^df
+F :  Cuz there are I think we thought of some situations where it would be useful to use whatever the c bindings are , for
+
+dialogue type : s^e
+F :  actual , you know , sort of like modified constraining purposes .
+
+dialogue type : s^bk
+F :  Yeah , yeah .
+
+dialogue type : s^2|s^aa
+F :  It 's used shouldn't matter , right ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk|s:s
+F :  Yeah , uh , there was one time when when Hans explained why " constraints " was a misleading word for him .
+
+dialogue type : s
+F :  And I think the reason that he gave was similar to the reason why Johno thought it was a misleading term ,
+
+dialogue type : s
+F :  which was just an interesting coincidence .
+
+dialogue type : fh
+F : 
+
+dialogue type : s:s^bk|s^rt
+F :  And so I was like , " OK , well both of you don't like it ?
+
+dialogue type : s^bk|s^cs^rt
+F :  Fine , we can change it " .
+
+dialogue type : s
+F :  But I I I 'm starting to like it again .
+
+dialogue type : s
+F :  So that that 's why That 's why I 'll stick with it .
+
+dialogue type : fh
+F : 
+
+dialogue type : qw
+F :  What ?
+
+dialogue type : qy^bu^d^rt
+F :  Con - uh , a consequent ?
+
+dialogue type : s^bk|s^nd
+F :  Yeah , but it 's not an " if - then " .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa|s^na
+F :  Yeah , that 's true .
+
+dialogue type : s^bk|s^fe
+F :  Oh , oops !
+
+dialogue type : s^ar|s^df
+F :  No . That was just a mistake of cut and paste from when I was going with it .
+
+dialogue type : s^fa
+F :  So , I 'm sorry .
+
+dialogue type : s
+F :  I didn't mean that one 's an in unintentional .
+
+dialogue type : s
+F :  Sometimes I 'm intentionally inconsistent
+
+dialogue type : s^df^rt
+F :  cuz I 'm not sure yet .
+
+dialogue type : s
+F :  Here , I actually it was just a mistake .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s:s
+F :  Well , unless I go with " meaning "
+
+dialogue type : s:s
+F :  but i I mean , I kind of like " meaning " better than " semantic "
+
+dialogue type : s
+F :  but I think there 's vestiges of other people 's biases .
+
+dialogue type : %--
+F : 
+
+dialogue type : s^m^na
+F :  Minor point .
+
+dialogue type : fg
+F :  OK , um ,
+
+dialogue type : s
+F :  so I think the middle block doesn't really give you any more information , ex than the top block .
+
+dialogue type : s
+F :  And the bottom block similarly only just illus you know , all it does is illustrate that you can drop the subscripts and and that you can drop the , um uh , that you can give dual types .
+
+dialogue type : s
+F :  Oh , one thing I should mention is about " designates " .
+
+dialogue type : s^rt
+F :  I think I 'm actually inconsistent across these as well .
+
+dialogue type : s^co
+F :  So , um , strike out the M subscript on the middle block .
+
+dialogue type : s
+F :  So basically now , um , this is actually this little change actually goes along with a big linguistic change ,
+
+dialogue type : s
+F :  which is that " designates " isn't only something for the semantics to worry about now .
+
+dialogue type : s
+F :  So we want s " designates " to actually know one of the constituents which acts like a head in some respects
+
+dialogue type : s
+F :  but is sort of , um , really important for say composition later on .
+
+dialogue type : s
+F :  So for instance , if some other construction says , you know , " are you of type is this part of type whatever " , um , the " designates " tells you which sort of part is the meaning part .
+
+dialogue type : s^rt:s
+F :  OK , so if you have like " the big red ball " , you know , you wanna know if there 's an object or a noun .
+
+dialogue type : s:s
+F :  Well , ball is going to be the designated sort of element of that kind of phrase .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s
+F :  there is a slight complication here which is that when we talk about form it 's useful sometimes to talk about , um to talk about there also being a designated object
+
+dialogue type : s|s^f
+F :  and we think that that 'll be the same one , right ?
+
+dialogue type : s:s
+F :  So the ball is the head of the phrase ,
+
+dialogue type : s^e:s
+F :  " the r the " , um , " big red ball " ,
+
+dialogue type : s
+F :  and the entity denoted by the word " ball " is sort of the semantic head in some ways of of this sort of , um , in interesting larger element .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Right , right .
+
+dialogue type : s
+F :  And , uh , you might be able to say things like if the head has to go last in a head - final language , you can refer to the head as a p the , you know the formal head as opposed to the rest of the form having to be at the end of that decision .
+
+dialogue type : s
+F :  So that 's a useful thing
+
+dialogue type : s^df
+F :  so that you can get some internal structural constraints in .
+
+dialogue type : h|s
+F :  Um , there was a list of things that isn't included
+
+dialogue type : s
+F :  but you you can you can ask a question .
+
+dialogue type : s^e
+F :  That might @ @ it .
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^arp
+F :  Well , except for their construction meaning ,
+
+dialogue type : s.%--
+F :  so it 's not clear that ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  Well , right now it 's a c uh contr construction type and meaning type .
+
+dialogue type : s^no
+F :  So I don't know what a form type is .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s
+F :  A well , and a previous , um , you know , version of the notation certainly allowed you to single out the meaning bit by it .
+
+dialogue type : s
+F :  So you could say " construct of type whatever designates something " .
+
+dialogue type : s
+F :  But that was mostly for reference purposes ,
+
+dialogue type : s
+F :  just to refer to the meaning pole .
+
+dialogue type : s
+F :  I don't think that it was often used to give an extra meaning const type constraint on the meaning ,
+
+dialogue type : s
+F :  which is really what we want most of the time I think .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s^no.%--
+F :  I I don't know if we 'll ever have a case where we actually h
+
+dialogue type : s
+F :  if there is a form category constraint , you could imagine having a triple there that says , you know that 's kind of weird .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Right , right .
+
+dialogue type : s^m^na|s^aa
+F :  Which is fine , yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^bk|%--
+F :  Right , n s
+
+dialogue type : s
+F :  you may be you may not be like everyone else in in Berkeley ,
+
+dialogue type : s^ba
+F :  but that 's OK .
+
+dialogue type : s^bd
+F :  Uh , we don't mind either ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  Well , there 's an alternative to this
+
+dialogue type : s.%--
+F :  which is , um The question was did we want directed motion ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : qy.%--
+F : 
+
+dialogue type : s
+F :  You know , it 's sort of frame - based construction .
+
+dialogue type : s
+F :  So one option that , you know , Keith had mentioned also was like , well if you have more abstract constructions such as subject , predicate , basically things like grammatical relations ,
+
+dialogue type : s
+F :  those could intersect with these
+
+dialogue type : s
+F :  in such a way that subject , predicate , or subject , predicate , subject , verb , ob you know , verb object would require that those things that f fill a subject and object are NOM expressions .
+
+dialogue type : s
+F :  And that would be a little bit cleaner in some way .
+
+dialogue type : s.%--
+F :  But you know , for now , I mean ,
+
+dialogue type : fh
+F :  uh , you know .
+
+dialogue type : s^m^na|s^aa
+F :  M moving it to another place , right .
+
+dialogue type : s^bu|qy^d^g
+F :  But there does basically , the point is there has to be that constraint somewhere , right ?
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s^bk
+F :  yeah .
+
+dialogue type : qy^bu^d^rt
+F :  Robert 's not happy now ?
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : s^bk
+F :  Yes .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : s^bk
+F :  Yeah ,
+
+dialogue type : s
+F :  um , the un sort of the un - addressed questions in this , um , definitely would for instance be semantic constraints we talked about .
+
+dialogue type : s^e
+F :  Here are just bindings
+
+dialogue type : %--
+F :  but ,
+
+dialogue type : s^f
+F :  right ?
+
+dialogue type : s^rt
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  Right ?
+
+dialogue type : s
+F :  So there 's going to be some extra you know , definitely other notation we 'll need for that which we skip for now .
+
+dialogue type : fh
+F :  Uh
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qw
+F :  What ?
+
+dialogue type : qy^bu^d^j
+F :  You 're missing like the premier American holiday ?
+
+dialogue type : qw^j
+F :  What 's the point of spending a year here ?
+
+dialogue type : s.%--
+F :  So , anyway .
+
+dialogue type : s^aa|s^df^no
+F :  Oh , yeah , I forgot .
+
+dialogue type : s^fa
+F :  Oops . Sorry .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^arp
+F :  Not in California .
+
+dialogue type : s^aa|s^na
+F :  Yeah , that 's true .
+
+dialogue type : s
+F :  I like I I like spending fourth of July in other countries , whenever I can .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^tc
+F :  Construal ,
+
+dialogue type : s^bk|%--
+F : 
+
+dialogue type : s
+F :  Oh , so there was one question that came out .
+
+dialogue type : s
+F :  I hate this thing .
+
+dialogue type : s^fa
+F :  Sorry .
+
+dialogue type : s.%--
+F :  Um , which is ,
+
+dialogue type : s
+F :  so something like " past " which i you know , we think is a very simple uh , we 've often just stuck it in as a feature ,
+
+dialogue type : s:s
+F :  you know , " oh , this event takes place before speech time " , OK , is what this means .
+
+dialogue type : s
+F :  Um , it 's often thought of as it is also considered a mental space ,
+
+dialogue type : s^e
+F :  you know , by , you know , lots of people around here .
+
+dialogue type : s^rt:s^rt
+F :  So there 's this issue of well sometimes there are really exotic explicit space builders that say " in France , blah - blah - blah " ,
+
+dialogue type : s
+F :  and you have to build up you ha you would imagine that would require you , you know , to be very specific about the machinery ,
+
+dialogue type : s
+F :  whereas past is a very conventionalized one
+
+dialogue type : s
+F :  and we sort of know what it means
+
+dialogue type : s
+F :  but it we doesn't don't necessarily want to , you know , unload all the notation every time we see that it 's past tense .
+
+dialogue type : s
+F :  So , you know , we could think of our uh , just like X - schema " walk " refers to this complicated structure , past refers to , you know , a certain configuration of this thing with respect to it .
+
+dialogue type : s
+F : 
+
+dialogue type : s^e|qy^d^f^g
+F :  you know , having it both ways , right ?
+
+dialogue type : %-
+F :  So , i i
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Yeah , OK .
+
+dialogue type : qw^br
+F :  Wha - sorry ?
+
+dialogue type : qw^br^m
+F :  Space ?
+
+dialogue type : s^bk|qy^bu^d^rt
+F :  Oh , oh , oh , oh , instead of just time ?
+
+dialogue type : s^aa
+F :  Yeah , yeah , yeah .
+
+dialogue type : s^na
+F :  Same thing .
+
+dialogue type : s|qy^d^f^g
+F :  So there are very conventionalized like deictic ones , right ?
+
+dialogue type : s.%--
+F :  And then I think for other spaces that you introduce , you could just attach y
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  You could build up an appropriately uh , appropriate structure according to the l the sentence .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  So time and space .
+
+dialogue type : s
+F :  Um , we 'll we 'll get that on the other side a little , like very minimally .
+
+dialogue type : s
+F :  There 's a sort of there 's a slot for setting time and setting place .
+
+dialogue type : fh
+F :  And
+
+dialogue type : s
+F :  you know , you could imagine for both of those are absolute things you could say about the time and place ,
+
+dialogue type : s
+F :  and then there are many in more interestingly , linguistically anyway , there are relative things that , you know , you relate the event in time and space to where you are now .
+
+dialogue type : s
+F :  If there 's something a lot more complicated like , or so hypothetical or whatever , then you have to do your job ,
+
+dialogue type : s^e
+F :  like or somebody 's job anyway .
+
+dialogue type : s
+F :  I 'm gonna point to at random .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^na|s^aa
+F :  They 're real , right .
+
+dialogue type : s^na|s^aa
+F :  I see right .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s.%--
+F :  It seems like , um , the grammatical things such as the auxiliaries that you know introduce these conditionals , whatever , give you sort of the the most basi
+
+dialogue type : s|qy^d^f^g
+F :  th those we I think we can figure out what the possibilities are , right ?
+
+dialogue type : s^df
+F :  There are sort of a relatively limited number .
+
+dialogue type : s.%--:s
+F : 
+
+dialogue type : s
+F :  You know , one is a more specific version of the general pattern that the grammat grammar gives you .
+
+dialogue type : s^bd
+F :  I think .
+
+dialogue type : s^bd
+F :  But , you know , whatever ,
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bd
+F :  That 's OK .
+
+dialogue type : s^df
+F :  We usually don't know the point of the sentence at all .
+
+dialogue type : s
+F :  But we know what it 's trying to say .
+
+dialogue type : s
+F :  We we know that it 's what predication it 's setting up .
+
+dialogue type : s^bd
+F :  That 's all .
+
+dialogue type : s^2|qy^d^f^g
+F :  Purely linguistic cues , right ?
+
+dialogue type : fh
+F :  So .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : fg|s^t^tc:s
+F :  OK , so , um , one other thing I just want to point out is there 's a lot of confusion about the terms like " profile , designate , focus " , et cetera , et cetera .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  like two uses that come to mind immediately .
+
+dialogue type : s
+F :  One is in the traditional like semantic highlight of one element with respect to everything else .
+
+dialogue type : s^e
+F :  So " hypotenuse " , you profiled this guy against the background of the right t right triangle .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s
+F :  And the second use , um , is in FrameNet. It 's
+
+dialogue type : s^rt
+F :  slightly different .
+
+dialogue type : s
+F :  Oh , I was asking Hans about this .
+
+dialogue type : s
+F :  They use it to really mean , um , this in a frame th this is the profiles on the these are the ones that are required .
+
+dialogue type : s
+F :  So they have to be there or expressed in some way .
+
+dialogue type : s
+F :  Which which I 'm not saying one and two are mutually exclusive
+
+dialogue type : s
+F :  but they 're they 're different meanings .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  so I was thinking about how it relates to this notation .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fg|qw^t1.%--
+F : 
+
+dialogue type : s.%-
+F :  so " designate " FrameNet ?
+
+dialogue type : qy^2^bu^d
+F :  FrameNet ?
+
+dialogue type : s^aa
+F :  Yeah , yeah .
+
+dialogue type : s^ba
+F :  I I mean , I I was a little bit surprised about it too .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  there 's another term that I 've heard for that thing
+
+dialogue type : s
+F :  but they I mean uh , well , at least Hans says they use it that way .
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  and may maybe he 's wrong .
+
+dialogue type : fg
+F :  Anyway , so
+
+dialogue type : s^tc|qy^d^f^g
+F :  I think the the " designate " that we have in terms of meaning is really the " highlight this thing with respect to everything else " . OK ?
+
+dialogue type : s
+F :  So this is what what it means .
+
+dialogue type : s
+F :  But the second one seems to be useful
+
+dialogue type : s^rt
+F :  but we might not need a notation for it ?
+
+dialogue type : s
+F :  We don't have a notation for it
+
+dialogue type : s
+F :  but we might want one .
+
+dialogue type : s:s
+F :  So for example we 've talked about if you 're talking about the lexical item " walk " ,
+
+dialogue type : s
+F :  you know it 's an action .
+
+dialogue type : s
+F :  Well , it also has this idea it carries along with it the idea of an actor
+
+dialogue type : s
+F :  or somebody 's gonna do the walking .
+
+dialogue type : s:s
+F :  Or if you talk about an adjective " red " , it carries along the idea of the thing that has the property of having color red .
+
+dialogue type : s^rt:s
+F :  So we used to use the notation " with " for this
+
+dialogue type : s
+F :  and I think that 's closest to their second one .
+
+dialogue type : s
+F :  So I d don't yet know , I have no commitment , as to whether we need it .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^cs^rt.%--
+F : 
+
+dialogue type : s
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^aa|s^na
+F :  Right , right . Yeah , um , definitely .
+
+dialogue type : fh
+F :  So , um ,
+
+dialogue type : s:s
+F :  " in " was a good example .
+
+dialogue type : qh^df^e
+F :  If you walk " in " , like well , in what ?
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  it is still required , say , by simulation time though
+
+dialogue type : s^e
+F :  to have something .
+
+dialogue type : s
+F :  So it 's that I meant the idea of like that the semantic value is filled in by sim simulation .
+
+dialogue type : s^no^rt
+F : 
+
+dialogue type : s^bsc^rt
+F :  or the construction ?
+
+dialogue type : s^e
+F :  or not .
+
+dialogue type : s
+F :  We 'll we 'll again defer .
+
+dialogue type : s^bu
+F :  Have it construed ,
+
+dialogue type : qy^rt
+F :  is that the idea ?
+
+dialogue type : s
+F :  Just point at Robert .
+
+dialogue type : s
+F :  Whenever I 'm confused just point to him .
+
+dialogue type : s
+F :  You tell me .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk|s
+F :  OK , well we 'll get , uh uh , I we have thoughts about those as well .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s.%--
+F :  the I w I would just
+
+dialogue type : s
+F :  s some of this is just like my you know , by fiat .
+
+dialogue type : s
+F :  I 'm going to say , this is how we use these terms .
+
+dialogue type : s
+F :  I don't - you know , there 's lots of different ways in the world that people use it .
+
+dialogue type : s
+F :  I think that , um , the other terms that are related are like focus and stress .
+
+dialogue type : %--
+F :  So , s
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  basically this is the information structure .
+
+dialogue type : s
+F :  OK , it 's like uh , it 's not it might be that there 's a syntactic , uh , device that you use to indicate focus
+
+dialogue type : s.%--
+F :  or that there are things like , you know ,
+
+dialogue type : s
+F :  I think Keith was telling me , things toward the end of the sentence , post - verbal , tend to be the focused focused element ,
+
+dialogue type : s^e
+F :  the new information .
+
+dialogue type : s:s
+F :  You know , if I " I walked into the room " , you tend to think that , whatever , " into the room " is sort of like the more focused kind of thing .
+
+dialogue type : s
+F :  And when you , uh , uh , you have stress on something that might be , you know , a cue that the stressed element , or for instance , the negated element is kind of related to information structure .
+
+dialogue type : s
+F :  So that 's like the new the sort of like import or whatever of of this thing .
+
+dialogue type : s
+F :  Uh , so so I think that 's kind of nice to keep " focus " being an information structure term .
+
+dialogue type : %--
+F : 
+
+dialogue type : s
+F :  I th and then there are different kinds of focus that you can bring to it .
+
+dialogue type : fh|s
+F :  So , um , like " stress " , th stress is kind of a pun on you might have like whatever , like , um , accent kind of stress .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  uh , w we 'll want to distinguish stress as a form device .
+
+dialogue type : s^e
+F :  You know , like , oh , high volume or whatever .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s
+F :  t uh , and distinguish that from it 's effect
+
+dialogue type : s:s|s^f
+F :  which is , " Oh , the kind of focus we have is we 're emphasizing this value often as opposed to other values " , right ?
+
+dialogue type : s
+F :  So focus carries along a scope .
+
+dialogue type : s
+F :  Like if you 're gonna focus on this thing and you wanna know it sort of evokes all the other possibilities that it wasn't .
+
+dialogue type : s:qy^rt
+F :  Um , so my classic my now - classic example of saying , " Oh , he did go to the meeting ? " ,
+
+dialogue type : s^rt:qy^bu^d^rt
+F :  that was my way of saying as opposed to , you know , " Oh , he didn't g " or " There was a meeting ? "
+
+dialogue type : s
+F :  I think that was the example that was caught on by the linguists immediately .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s:s
+F :  " he walked to the meeting " as opposed to " he ran " ,
+
+dialogue type : s:s|s^f
+F :  or " he did walk to the meeting " as opposed to " he didn't walk " . You know ,
+
+dialogue type : s^cs
+F :  so we need to have a notation for that
+
+dialogue type : %--
+F :  which , um ,
+
+dialogue type : s
+F :  I think that 's still in progress .
+
+dialogue type : s^e
+F :  So , sort of I 'm still working it out .
+
+dialogue type : s
+F :  But it did one one implication it does f have for the other side , which we 'll get to in a minute is that I couldn't think of a good way to say " here are the possible things that you could focus on " ,
+
+dialogue type : s^df
+F :  cuz it seems like any entity in any sentence , you know , or any meaning component of anyth you know all the possible meanings you could have , any of them could be the subject of focus .
+
+dialogue type : s|qy^d^f^g
+F :  But I think one the one thing you can schematize is the kind of focus , right ?
+
+dialogue type : s|s^f
+F :  So for instance , you could say it 's the the tense on this as opposed to , um , the the action . OK .
+
+dialogue type : s
+F :  Or it 's uh , it 's an identity thing or a contrast with other things ,
+
+dialogue type : s^e
+F :  or stress this value as opposed to other things .
+
+dialogue type : fh
+F :  So , um ,
+
+dialogue type : s
+F :  it 's it is kind of like a profile profile - background thing
+
+dialogue type : s.%--
+F :  but I I can't think of like the limited set of possible meanings that you would that you would focu
+
+dialogue type : s^m^na
+F :  light highlight
+
+dialogue type : s^e
+F :  as opposed to other ones .
+
+dialogue type : s
+F :  So it has some certain complications for the , uh , uh later on .
+
+dialogue type : s
+F :  Li - I mean , uh , the best thing I can come up with is that information has a list of focused elements .
+
+dialogue type : s
+F :  For instance , you Oh , one other type that I forgot to mention is like query elements
+
+dialogue type : s:qw
+F :  and that 's probably relevant for the like " where is " , you know , " the castle " kind of thing ?
+
+dialogue type : s^df:s^no
+F :  Because you might want to say that , um , location or cert certain WH words bring you know , sort of automatically focus in a , you know , " I don't know the identity of this thing " kind of way on certain elements .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : fg|s^rt
+F :  OK . Anyway . So that 's onl there are there are many more things that are uncl that are sort of like a little bit unstable about the notation
+
+dialogue type : s
+F :  but it 's most I think it 's this is , you know , the current current form .
+
+dialogue type : s.%--
+F :  Other things we didn't totally deal with , um ,
+
+dialogue type : s
+F :  well , we 've had a lot of other stuff that Keith and I have them working on in terms of like how you deal with like an adjective .
+
+dialogue type : s
+F :  You know , a a nominal expression .
+
+dialogue type : fh
+F :  And , um ,
+
+dialogue type : s^cs
+F :  I mean , we should have put an example of this
+
+dialogue type : s^cs
+F :  and we could do that later .
+
+dialogue type : s
+F :  But I think the not inherently like the general principles still work though ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s|qy^d^f^g
+F :  Uh , you know , they they have constituents , right ?
+
+dialogue type : s
+F :  So you can like nest things when you need to ,
+
+dialogue type : s
+F :  but they can also overlap in a sort of flatter way .
+
+dialogue type : s
+F :  So if you don't have like a lot of grammar experience , then like this this might , you know , be a little o opaque .
+
+dialogue type : s
+F :  But , you know , we have the properties of dependency grammars and some properties of constituents constituent - based grammar .
+
+dialogue type : s
+F :  So that 's I think that 's sort of the main thing we wanted to aim for
+
+dialogue type : s
+F :  and so far it 's worked out OK .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  Yes .
+
+dialogue type : qy^bu^d^rt
+F :  As a word ?
+
+dialogue type : %--
+F : 
+
+dialogue type : qw^j
+F :  What 's that ?
+
+dialogue type : s^fa
+F :  Sorry .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  Or the constituent that it falls in .
+
+dialogue type : qy^bu^d^rt
+F :  You mean t forget about stress , the form cue ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  OK ,
+
+dialogue type : s^na|s^bk
+F :  I believe you , yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^2.%--
+F :  Ways that you can get it come from th
+
+dialogue type : b
+F :  right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^ba|s^bk
+F :  That 's fine , yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk|s.%--
+F :  OK . Well , uh , yeah , I wouldn't have assumed that it 's an easy problem in in absence of all the oth
+
+dialogue type : s^e
+F :  you need all the other information I guess .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm , mm - hmm .
+
+dialogue type : s^aa|s
+F :  Yeah . Exactly . So the sort of effect of it is something we want to be able to capture .
+
+dialogue type : %--
+F :  W uh ,
+
+dialogue type : s^no
+F :  I 'm not sure about that .
+
+dialogue type : s
+F :  Or it might limit it cert certainly constrains the possibilities of focus .
+
+dialogue type : s
+F :  I think that 's that 's , th that 's certainly true .
+
+dialogue type : s^bu|qy^d^f^g
+F :  And depending on the construction it may or may not f specify the focus , right ?
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^2
+F :  Is on .
+
+dialogue type : s^na
+F :  " John is on the bus " .
+
+dialogue type : s^aa
+F :  Yeah . Yeah .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^aa|s.%--
+F :  Yeah , I would say that argument structure in terms of like the main like sort of ,
+
+dialogue type : s^no
+F : 
+
+dialogue type : s
+F :  the fact that you can get it without any stress and you have some whatever is predicated anyway should be the same set of constructions .
+
+dialogue type : s^rt
+F :  So that 's why I was talking about overlapping constructions .
+
+dialogue type : s
+F :  So , then you have a separate thing that picks out , you know , stress on something relative to everything else .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  yeah ,
+
+dialogue type : s
+F :  and it w and that would have to uh it might be ambiguous as , uh , whether it picks up that element , or the phrase , or something like that .
+
+dialogue type : s
+F :  But it 's still is limited possibility .
+
+dialogue type : s
+F :  So that should , you know , interact with it should overlap with whatever other construction is there .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^rt
+F :  since I couldn't think of an easy like limited way of doing it , um , all I can say is that information structure has a focused slot
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  Yeah ,
+
+dialogue type : s
+F :  and , infer and I don't have I don't have a great way or great examples
+
+dialogue type : s
+F :  but I think that something like that is probably gonna be , uh , more more what we have to do .
+
+dialogue type : fh
+F :  But , um ,
+
+dialogue type : fg|s
+F :  OK , that was one comment .
+
+dialogue type : qy^bu^d^rt
+F :  And you had another one ?
+
+dialogue type : qw^br^rt
+F :  How about what ?
+
+dialogue type : s^bk|s
+F :  Yeah , so that was the other thing .
+
+dialogue type : s
+F :  And so I didn't realize it before .
+
+dialogue type : s:s
+F :  It 's like , " oh ! " It was an epiphany that it you know , topic and focus are a contrast set .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s|qy^d^g
+F :  Topic - focused seems to me like , um , background profile , OK ,
+
+dialogue type : s
+F :  or a landmark trajector , or some something like that .
+
+dialogue type : s
+F :  There 's there 's definitely , um , that kind of thing going on .
+
+dialogue type : s^no.%--
+F : 
+
+dialogue type : s
+F :  I n I don't have as many great examples of like topic - indicating constructions
+
+dialogue type : s^e|qy^d^g
+F :  on like focus , right ?
+
+dialogue type : s
+F :  Um , topic it seems kind of you know , I think that might be an ongoing kind of thing .
+
+dialogue type : qy^bu^d
+F :  Topic marker ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s
+F :  So again , information structure has a topic slot .
+
+dialogue type : s
+F :  And , you know , I stuck it in thinking that we might use it .
+
+dialogue type : s
+F :  Um , I think I stuck it in .
+
+dialogue type : fh
+F :  Um , and
+
+dialogue type : s
+F :  one thing that I didn't do consistently , um , is when we get there , is like indicate what kind of thing fits into every role .
+
+dialogue type : s
+F :  I think I have an idea of what it should be
+
+dialogue type : %--
+F :  but th
+
+dialogue type : s
+F :  you know , so far we 've been getting away with like either a type constraint or , um , you know , whatever .
+
+dialogue type : s^rt
+F :  I forg it 'll be a frame .
+
+dialogue type : s
+F :  You know , it 'll be it 'll be another predication or it 'll be , um , I don't know , some value from from some something , some variable and scope or something like that ,
+
+dialogue type : s
+F :  or a slot chain based on a variable and scope .
+
+dialogue type : fg|s^tc.%--
+F : 
+
+dialogue type : qy^rt^t^tc
+F :  should we flip over to the other side officially then ?
+
+dialogue type : s
+F :  I keep , uh , like , pointing forward to it .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s.%--
+F :  Now we 'll go back to s
+
+dialogue type : fg|s
+F :  OK , so this doesn't include something which mi mi may have some effect on on it ,
+
+dialogue type : s
+F :  which is , um , the discourse situation context record ,
+
+dialogue type : s^f|s
+F :  right ? So I didn't I I meant just like draw a line
+
+dialogue type : s
+F :  and like , you know , you also have , uh , some tracking of what was going on .
+
+dialogue type : s^bd
+F :  And sort of this is a big scale comment before I , you know , look into the details of this .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^rt
+F :  I I changed the name of um it used to be " entities " .
+
+dialogue type : s
+F :  So you see it 's " scenario " , " referent " and " discourse segment " .
+
+dialogue type : s
+F :  And " scenario " is essentially what kind of what 's the basic predication ,
+
+dialogue type : s^e
+F :  what event happened .
+
+dialogue type : s|qy^d^f^g^rt
+F :  And actually it 's just a list of various slots from which you would draw draw in order to paint your picture , a bunch of frames , bi and bindings , right ?
+
+dialogue type : s
+F :  Um , and obviously there are other ones that are not included here ,
+
+dialogue type : s.%--
+F :  general cultural frames and general like , uh , other action f
+
+dialogue type : s
+F :  you know , specific X - schema frames .
+
+dialogue type : s^bk|s^bd
+F :  OK , whatever .
+
+dialogue type : s
+F :  The middle thing used to be " entities "
+
+dialogue type : s^df
+F :  because you could imagine it should be like really a list
+
+dialogue type : s
+F :  where here was various information .
+
+dialogue type : s
+F :  And this is intended to be grammatically specifiable information about a referent uh , you know , about some entity that you were going to talk about .
+
+dialogue type : s:s
+F :  So " Harry walked into the room " ,
+
+dialogue type : s
+F :  " Harry " and " room " ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  th but they would be represented in this list somehow .
+
+dialogue type : s
+F :  And it could also have for instance , it has this category slot .
+
+dialogue type : s
+F :  Um , it should be either category or in or instance .
+
+dialogue type : s
+F :  Basically , it could be a pointer to ontology .
+
+dialogue type : s
+F :  So that everything you know about this could be could be drawn in .
+
+dialogue type : s
+F :  But the important things for grammatical purposes are for things like number , gender ,
+
+dialogue type : s
+F :  um ki the ones I included here are slightly arbitrary
+
+dialogue type : s.%--
+F :  but you could imagine that , um , you need to figure out wheth
+
+dialogue type : s
+F :  if it 's a group whether , um , some event is happening ,
+
+dialogue type : s
+F :  linear time , linear spaces ,
+
+dialogue type : s
+F :  like , you know , are are they doing something serially
+
+dialogue type : s.%--
+F :  or is it like ,
+
+dialogue type : fh|s^no
+F :  um , uh I 'm I 'm not sure .
+
+dialogue type : s^df
+F :  Because this partly came from , uh , Talmy 's schema
+
+dialogue type : s
+F :  and I 'm not sure we 'll need all of these actually .
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  Um , and then the " status " I used was like , again , in some languages , you know , like for instance in child language you might distinguish between different status .
+
+dialogue type : s
+F :  So , th the the big com and and finally " discourse segment " is about sort of speech - act - y information structure - y ,
+
+dialogue type : s
+F :  like utterance - specific kinds of things .
+
+dialogue type : s.%--
+F :  So the comment I was going to make about , um , changing entity the entity 's block to reference is that you can imagine your discourse
+
+dialogue type : s^e.%--
+F :  like situation context ,
+
+dialogue type : s
+F :  you have a set of entities that you 're sort of referring to .
+
+dialogue type : s
+F :  And you might that might be sort of a general , I don't know , database of all the things in this discourse that you could refer to .
+
+dialogue type : s
+F :  And I changed to " reference "
+
+dialogue type : s
+F :  cuz I would say , for a particular utterance you have particular referring expressions in it .
+
+dialogue type : s
+F :  And those are the ones that you get information about that you stick in here .
+
+dialogue type : s
+F :  For instance , I know it 's going to be plural .
+
+dialogue type : s
+F :  I know it 's gonna be feminine or something like that .
+
+dialogue type : s|qy^d^f^g
+F :  And and these could actually just point to , you know , the the ID in my other list of enti active entities , right ?
+
+dialogue type : fh
+F :  So , um ,
+
+dialogue type : s
+F :  uh , th there 's there 's all this stuff about discourse status . We 've talked about .
+
+dialogue type : s
+F :  I almost listed " discourse status " as a slot where you could say it 's active .
+
+dialogue type : s
+F :  You know , there 's this , um , hierarchy uh there 's a schematization of , you know , things can be active or they can be , um , accessible , inaccessible .
+
+dialogue type : s
+F :  It was the one that , you know , Keith , um , emailed to us once , to some of us ,
+
+dialogue type : s
+F :  not all of us .
+
+dialogue type : fh
+F :  And
+
+dialogue type : s
+F :  the thing is that that I noticed that that , um , list was sort of discourse dependent .
+
+dialogue type : s
+F :  It was like in this particular set , s you know , instance , it has been referred to recently or it hasn't been ,
+
+dialogue type : s
+F :  or this is something that 's like in my world knowledge but not active .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^aa|s
+F :  Yeah , they 're contex and for instance , I used to have a location thing there
+
+dialogue type : s
+F :  but actually that 's a property of the situation .
+
+dialogue type : s
+F :  And it 's again , time , you know at cert certain points things are located , you know , near or far from you
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Yeah , yeah .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s|qy^d^g:s
+F :  So I so for now I thought , well maybe I 'll just have in this list the things that are relevant to this particular utterance , right ?
+
+dialogue type : s
+F :  Everything else here is utterance - specific .
+
+dialogue type : s
+F :  Um , and I left the slot , " predications " , open
+
+dialogue type : s^df
+F :  because you can have , um , things like " the guy I know from school " .
+
+dialogue type : s
+F :  Or , you know , like your referring expression might be constrained by certain like unbounded na amounts of prep you know , predications that you might make .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s|qy^d^f^g
+F :  I mean , you could just have in your scenario , " here are some extra few things that are true " , right ?
+
+dialogue type : s|qy^d^f^g
+F :  And then you could just sort of not have this slot here . Right ?
+
+dialogue type : s
+F :  You 're but but it 's used for identification purposes .
+
+dialogue type : s
+F :  So it 's it 's a little bit different from just saying " all these things are true from my utterance " .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : s^aa|s^na
+F :  Yeah , it 's a little bit it 's a little bit different .
+
+dialogue type : s^f|%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  um , but maybe I 'm mixing , you know this is kind of like the final result after parsing the sentence .
+
+dialogue type : s
+F :  So you might imagine that the information you pass to , you know in identifying a particular referent would be , " oh , some " you know , " it 's a guy
+
+dialogue type : s
+F :  and it 's someone I know from school " .
+
+dialogue type : s
+F :  So maybe that would , you know , be some intermediate structure that you would pass into the disc to the , whatever , construal engine or whatever , discourse context , to find you know , either create this reference ,
+
+dialogue type : s
+F :  in which case it 'd be created here ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  So , uh , I 'm uncommitted to a couple of these things .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : h|s.%-
+F : 
+
+dialogue type : s^m^na|s^aa
+F :  semantically , yeah . Yeah .
+
+dialogue type : s:s
+F :  So it uh , uh , a table .
+
+dialogue type : s
+F :  You know , a thing that c doesn't have a gender .
+
+dialogue type : fg|s.%--
+F :  So . Uh , it could be that I mean ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I mean , I wou I would say that I tried to keep slots here that were potentially relevant to most most things .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^bk|s.%-
+F : 
+
+dialogue type : s^aa|s^na
+F :  Yeah . Yeah . That 's right .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^2
+F :  Open to various things .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^bk|s
+F :  OK , so . Let 's see .
+
+dialogue type : qy^rt^t^tc
+F :  So maybe having made that big sca sort of like large scale comment , should I just go through each of these slots uh , each of these blocks , um , a little bit ?
+
+dialogue type : s
+F :  Um , mostly the top one is sort of image schematic .
+
+dialogue type : s
+F :  And just a note ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F :  s so when we actually ha
+
+dialogue type : s.%--
+F :  so for instance , um ,
+
+dialogue type : s|s^f
+F :  some of them seem more inherently static , OK ,
+
+dialogue type : s
+F :  like a container or sort of support - ish .
+
+dialogue type : s
+F :  And others are a little bit seemingly inherently dynamic
+
+dialogue type : s
+F :  like " source , path , goal " is often thought of that way
+
+dialogue type : s
+F :  or " force " , or something like that .
+
+dialogue type : s
+F :  But in actual fact , I think that they 're intended to be sort of neutral with respect to that .
+
+dialogue type : s
+F :  And different X - schemas use them in a way that 's either static or dynamic .
+
+dialogue type : s
+F :  So " path " , you could just be talking about the path between this and this .
+
+dialogue type : s
+F :  And you know , " container " that you can go in and out .
+
+dialogue type : s
+F :  All of these things .
+
+dialogue type : fh
+F :  And so , um ,
+
+dialogue type : s
+F : 
+
+dialogue type : s^bsc
+F : 
+
+dialogue type : s
+F :  um , to decide like how you want to split up , like , s image schematic contributions versus , like , X - schematic contributions .
+
+dialogue type : qh^e
+F :  How do you link them up .
+
+dialogue type : s
+F :  And I think again , um , it 's gonna be something in the X - schema that tells you " is this static or is this dynamic " .
+
+dialogue type : s^cs
+F :  So we definitely need that sort of aspectual type gives you some of that .
+
+dialogue type : fg|s
+F :  Um , that , you know , is it , uh , a state or is it a change of state , or is it a , um , action of some kind ?
+
+dialogue type : fh
+F :  Uh .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^bk|qy^bu^d
+F :  Oh , oh ! You mean , in the slot ?
+
+dialogue type : s^ar|s
+F :  Um , no , it 's like X - sc it 's it 's like I was thinking of type constraints
+
+dialogue type : s
+F :  but X - schema , well it obviously has to be an X - schema .
+
+dialogue type : s
+F :  " Agent " , I mean , the the performer of the X - schema ,
+
+dialogue type : s
+F :  that s depends on the X - schema .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa|s^na
+F :  Yeah , basically .
+
+dialogue type : s^bd
+F :  Um , " aspectual type " probably isn't obvious
+
+dialogue type : s^df.%-
+F :  but I should have So , I just neglected to stick something in . " Perspective " , " actor " , " undergoer " , " observer " , um ,
+
+dialogue type : s.%-
+F :  I think we 've often used " agent " , " patient " , obser
+
+dialogue type : s^aa|s^na
+F :  Yeah , exactly . Exactly .
+
+dialogue type : fh|s
+F :  Um , and so one nice thing that , uh , we had talked about is this example of like , if you have a passive construction then one thing it does is ch you know definitely , it is one way to for you to , you know , specifically take the perspective of the undergoing kind of object .
+
+dialogue type : qh
+F :  And so then we talked about , you know , whether well , does that specify topic as well ?
+
+dialogue type : s
+F :  Well , maybe there are other things .
+
+dialogue type : s
+F :  You know , now that it 's subject is more like a topic .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fg|%--
+F :  Anyway . So .
+
+dialogue type : s^fa|s
+F :  Sorry . I 'm gonna trail off on that one
+
+dialogue type : s^df
+F :  cuz it 's not that f important right now .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s^2.%-
+F : 
+
+dialogue type : s^aa|s^na
+F :  Yeah . Yeah . Exactly .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s.%--
+F :  some of these other ones ,
+
+dialogue type : s
+F :  let 's see .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s
+F :  uh , one thing I 'm uncertain about is how polarity interacts .
+
+dialogue type : s
+F :  So polarity , uh , is using for like action did not take place for instance .
+
+dialogue type : s
+F :  So by default it 'll be like " true " , I guess ,
+
+dialogue type : s
+F :  you know , if you 're specifying events that did happen .
+
+dialogue type : s
+F :  You could imagine that you skip out this you know , leave off this polarity ,
+
+dialogue type : s
+F :  you know , not don't have it here .
+
+dialogue type : s
+F :  And then have it part of the speech - act in some way .
+
+dialogue type : s
+F :  There 's some negation .
+
+dialogue type : s
+F :  But the reason why I left it in is cuz you might have a change of state , let 's say , where some state holds and then some state doesn't hold ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk|s
+F :  OK , it 's so it 's it 's it 's fine where it is .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^2
+F :  May come from a few places .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^na
+F :  So that 's exactly what it is .
+
+dialogue type : s
+F :  And for a particular instance which I will , you know , make an example of something , is that you might have an instance of container and path , let 's say , as part of your , you know , " into " you know , definition .
+
+dialogue type : s^rt
+F :  So you would eventually have instances filled in with various various values for all the different slots .
+
+dialogue type : s
+F :  And they 're bound up in , you know , their bindings and and and values .
+
+dialogue type : s^arp
+F :  Except for " cause " , that I forgot .
+
+dialogue type : s
+F :  But anyway , there 's som some kind of causal structure for composite events .
+
+dialogue type : s
+F :  Uh , I mean , so it gets a little funny .
+
+dialogue type : s
+F :  These are all so far these structures , especially from " path " and on down , these are sort of relatively familiar , um , image schematic kind of slots .
+
+dialogue type : s|qy^d^g
+F :  Now with " cause " , uh , the fillers will actually be themselves frames . Right ?
+
+dialogue type : s
+F : 
+
+dialogue type : s.%-
+F :  uh , event two " ,
+
+dialogue type : %-
+F : 
+
+dialogue type : s^aa|s
+F :  Yeah . So that 's , uh these are all implicitly one within , uh within one world .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s
+F :  even though saying that place takes place , whatever .
+
+dialogue type : s
+F :  Uh , if y if I said " time " is , you know , " past " , that would say " set that this world " , you know , " somewhere , before the world that corresponds to our current speech time " .
+
+dialogue type : fh|s
+F :  So . But that that that 's sort of OK .
+
+dialogue type : s
+F :  The the within the event it 's st it 's still one world .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : fg|s.%--
+F : 
+
+dialogue type : s
+F :  Other frames that could come in I mean , unfortunately you could bring in say for instance , um , uh , " desire " or something like that ,
+
+dialogue type : s^e
+F :  like " want " .
+
+dialogue type : s
+F :  And actually there is right now under " discourse segments " , um , " attitude " ?
+
+dialogue type : s^rt
+F :  " Volition " ?
+
+dialogue type : s
+F :  could fill that .
+
+dialogue type : s^rt
+F :  So there are a couple things where I like , " oh , I 'm not sure if I wanted to have it there
+
+dialogue type : s
+F :  or " Basically there was a whole list of of possible speaker attitudes that like say Talmy listed .
+
+dialogue type : s
+F :  And , like , well , I don't you know , it was like " hope , wish . desire " ,
+
+dialogue type : s^e
+F :  blah - blah - blah .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^no
+F :  I don't know if those are grammatically marked in the first place .
+
+dialogue type : s|qy^d^f^g
+F :  So They 're more lexically marked , right ?
+
+dialogue type : s^e
+F :  At least in English .
+
+dialogue type : s
+F :  So if I wanted to I would stick in an extra frame in my meaning , saying ,
+
+dialogue type : s|qy^d^f^g
+F :  e so th it 'd be a hierarchical frame them , right ?
+
+dialogue type : s
+F :  You know , like " Naomi wants wants su a certain situation
+
+dialogue type : s
+F :  and that situation itself is a state of affairs " .
+
+dialogue type : %-
+F :  u
+
+dialogue type : s^2
+F : 
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^2|s^aa
+F :  Situation . Right , right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^aa
+F :  Exactly .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right , right .
+
+dialogue type : s^bd^cs^rt
+F :  S so I would prefer not to worry about that for right now
+
+dialogue type : s.%--
+F :  and to think that there are , um ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  just done the same way just actually in the same way as the lower level .
+
+dialogue type : s
+F :  If you stressed , you know , " John went to the " , you know , " the bar " whatever , you 're focusing that
+
+dialogue type : s
+F :  and a in a possible inference is " in contrast to other things " .
+
+dialogue type : s
+F :  So similarly for a whole sentence , you know , " in France such - and - such happens " .
+
+dialogue type : s
+F :  So the whole thing is sort of like again implicitly as opposed to other things that are possible .
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : s|qy^d^f^g
+F :  So for a particular segment it 's really just a reference to some other entity again in the situation , right ?
+
+dialogue type : s
+F :  So for a particular segment the speaker might be you or might be me .
+
+dialogue type : s^ba
+F :  Um , hearer is a little bit harder .
+
+dialogue type : s
+F :  It could be like multiple people .
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  I mean , that 's not allowed here .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Ye - yeah .
+
+dialogue type : %-
+F :  So th
+
+dialogue type : s^aa|s
+F :  Right , so the constructions might of course will refer , using pronouns or whatever .
+
+dialogue type : s
+F :  In which case they have to check to see , uh , who the , uh , speaker in here wa in order to resolve those .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  You you will already have figured who " he " or " you " , mmm , or " I " , maybe is a bett better example , who " I " refers to .
+
+dialogue type : s
+F :  Um , and then you 'd just be able to refer to Harry , you know , in wherever that person whatever role that person was playing in the event .
+
+dialogue type : s^aa
+F :  Yeah , yeah .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : %--
+F :  n
+
+dialogue type : s|qy^d^f^g
+F :  for instance , Speaker is known from the situation , right ?
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  I mean , you know who the speaker is .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  in some ways you know this before you get to the you fill in all the rest of it .
+
+dialogue type : s
+F :  I think .
+
+dialogue type : qh^df.%-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^aa^rt
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Right , right .
+
+dialogue type : %-
+F : 
+
+dialogue type : fg|s
+F :  S so OK , so I would say ref under referent should be something that corresponds to " I " .
+
+dialogue type : s
+F :  And maybe each referent should probably have a list of way whatever , the way it was referred to .
+
+dialogue type : s
+F :  So that 's " I "
+
+dialogue type : qh
+F :  but , uh , uh , should we say it it refers to , what ?
+
+dialogue type : s:s
+F :  Uh , if it were " Harry " it would refer to like some ontology thing .
+
+dialogue type : s:s
+F :  If it were if it 's " I " it would refer to the current speaker ,
+
+dialogue type : s
+F :  OK , which is given to be like , you know , whoever it is .
+
+dialogue type : s^df:s
+F :  " I " within the current world .
+
+dialogue type : s^aa
+F :  Yeah , yeah , yeah , yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  So this entire thing is inside a world ,
+
+dialogue type : s^e
+F :  not just like the top part .
+
+dialogue type : %--
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s
+F :  So I thought of having like for each referent , having the list of of the things t with which it is identified .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F :  So , I guess ,
+
+dialogue type : s
+F :  it sort of depends on if it is a referring exp if it 's identifiable already or it 's a new thing .
+
+dialogue type : s
+F :  If it 's a new thing you 'd have to like create a structure or whatever .
+
+dialogue type : s|s^f
+F :  If it 's an old thing it could be referring to , um , usually w something in a situation , right ?
+
+dialogue type : s^e
+F :  Or something in ontology .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s
+F :  there 's a you know , whatever , it c it could point at one of these .
+
+dialogue type : qw^br
+F :  For what ?
+
+dialogue type : s
+F :  If it works .
+
+dialogue type : s^bk
+F :  Mm - hmm . Mmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk|s^cc
+F :  OK , we 're crossing our fingers .
+
+dialogue type : s^bk^j
+F :  OK .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : s^2|s^aa
+F :  Use the same Yep .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : %-
+F : 
+
+dialogue type : %-
+F : 
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^aa|s^ba
+F :  Oh , right . Yeah , that makes sense .
+
+dialogue type : s^fe
+F :  Oh , no !
+
+dialogue type : qy^bh^rt
+F :  Really ?
+
+dialogue type : s
+F :  You 're kidding .
+
+dialogue type : s^ar|s^ba
+F :  No , that 's horrible .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^ba|s^bk
+F :  That 's horrible . OK .
+
+dialogue type : b^rt
+F :  Uh - huh .
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^bk|s^bu
+F :  OK , so it 's kind of like the unspecified mental spaces just are occurring in context .
+
+dialogue type : s
+F :  And then when you embed them sometimes you have to pop up to the h you know , depending on the construction or the whatever , um , you you you 're scope is m might extend out to the the base one .
+
+dialogue type : s^cs
+F :  It would be nice to actually use the same , um , mechanism
+
+dialogue type : s^df.%--
+F :  since there are so many cases where you actually need
+
+dialogue type : s^e
+F :  it 'll be one or the other .
+
+dialogue type : s
+F :  It 's like , oh , actually , it 's the same same operation .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^aa
+F :  Yeah , yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk^rt
+F :  Mm - hmm ,
+
+dialogue type : s^bk
+F :  right .
+
+dialogue type : s
+F :  Robert .
+
+dialogue type : s^2
+F :  Ties it all into it .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b.%
+F :  Yep .
+
+dialogue type : s^bk
+F :  Oh , yeah .
+
+dialogue type : fg|s^df
+F :  Yeah , that 's why I said " point to Robert " , when I did it .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s:s
+F : 
+
+dialogue type : s^e.%--:s.%--
+F : 
+
+dialogue type : s
+F :  Actually one of the child language researchers who works with T Tomasello studied a bunch of these constructions
+
+dialogue type : s
+F :  and it was like it 's not using any kind of interesting embedded ways
+
+dialogue type : s^e
+F :  just to mark , you know , uncertainty or something like that .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : qw^br
+F :  Hedges ?
+
+dialogue type : h|s.%--
+F :  Hhh , I there used to be a slot for speaker , um ,
+
+dialogue type : s^rt
+F :  it was something like factivity .
+
+dialogue type : s^df
+F :  I couldn't really remember what it meant
+
+dialogue type : s
+F :  so I took it out .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s|qy^d^g
+F :  we we were talking about sarcasm too , right ?
+
+dialogue type : s^bk
+F :  Oh , oh .
+
+dialogue type : s^aa
+F :  Oh , yeah , yeah , right .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : qw^rt
+F :  What 's the word ?
+
+dialogue type : s^bk|s
+F :  Oh , oh , oh , as a hedge .
+
+dialogue type : qw^br
+F :  What ?
+
+dialogue type : s
+F :  I 'd love to know .
+
+dialogue type : s
+F :  So , and and I think , uh , someone had raised like sarcasm as a complication at some point .
+
+dialogue type : fh
+F :  And
+
+dialogue type : s
+F :  we just won't deal with sarcastic people .
+
+dialogue type : s^na.%--
+F : 
+
+dialogue type : s
+F :  Well , they 're intonational markers I think for the most part .
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa^j|qy^j^rt
+F :  Oh , yeah , do we have any ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  M mockery .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s^am
+F :  Maybe .
+
+dialogue type : fg|s:s
+F :  Yeah , in model theory cuz the semantics is always like " speaker believes not - P " ,
+
+dialogue type : qy^d^f^g
+F :  you know ?
+
+dialogue type : s:s
+F :  Like " the speaker says P and believes not - P " .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^aa|%-
+F :  Right , right , but ,
+
+dialogue type : s^bd^j
+F :  If we knew anybody like that .
+
+dialogue type : s^na|s^aa
+F :  For the same , yeah , data . Yeah , mm - hmm .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^na
+F :  Or me .
+
+dialogue type : s^r
+F :  Or me .
+
+dialogue type : s^bd
+F : 
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Sure , yeah .
+
+dialogue type : s^aa
+F :  Yes .
+
+dialogue type : s^fa
+F :  Oops .
+
+dialogue type : h
+F :  Um ,
+
+dialogue type : s^nd
+F : 
+
+dialogue type : s^bu|qy^d^g
+F :  just on the constructions , right ?
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s^aa
+F :  yeah .
+
+dialogue type : s
+F :  I didn't want to think too much about that for for now .
+
+dialogue type : s^rt
+F :  So , uh , maybe it was subconsciously intentional .
+
+dialogue type : s^aa
+F :  Uh - huh .
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^2
+F :  Refer to them .
+
+dialogue type : s^aa|s
+F :  Yeah , and and there are certainly cases like that .
+
+dialogue type : s
+F :  Even with just semantic schemas we have some examples .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s
+F :  and we 've been talking a little bit about that anyway .
+
+dialogue type : s
+F :  Inherits .
+
+dialogue type : s^na
+F :  Uh , those are over rated .
+
+dialogue type : s^bu
+F :  Uh , all the things you want to query , you just have to like ask for separately .
+
+dialogue type : qw^br^d^m
+F :  Bayes ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^2
+F :  Grout out the things that that you need .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^2
+F :  Best explanation .
+
+dialogue type : qw
+F :  When are you leaving ?
+
+dialogue type : qy^bu^d^rt
+F :  Thursday ,
+
+dialogue type : qy^bu^d^e^rt
+F :  Friday ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : qy
+F :  Can we do can we do one - thirty ?
+
+dialogue type : s^bk|s:s
+F :  Oh , you already told me no .
+
+dialogue type : s
+F :  One ,
+
+dialogue type : s^bk|s^ba
+F :  OK , it 's fine .
+
+dialogue type : s^ba^ng
+F :  I can do one .
+
+dialogue type : s^ba
+F :  It 's fine .
+
+dialogue type : s^ba^r
+F :  It 's fine .
+
+dialogue type : s^aa|s^ba
+F :  Yeah , it 's fine .
+
+dialogue type : %
+F :  Fine .
+
+dialogue type : s^aa.%--
+F : 
+
+dialogue type : s^ar^bsc|s^bd
+F :  no , no , no , uh , I don't care .
+
+dialogue type : s^ba
+F :  It 's fine .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk|s
+F :  OK , four .
+
+dialogue type : qy^bu^d
+F :  OK ?
+
+dialogue type : s
+F :  OK . I am .
+

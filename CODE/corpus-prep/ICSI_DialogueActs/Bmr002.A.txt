@@ -1,0 +1,600 @@
+dialogue type : z
+A :  Channel one .
+
+dialogue type : z
+A :  off by one .
+
+dialogue type : z
+A :  Right .
+
+dialogue type : z
+A :  So go ahead .
+
+dialogue type : z
+A :  Can So we can do them again ?
+
+dialogue type : z
+A :  Yeah .
+
+dialogue type : z
+A : 
+
+dialogue type : z
+A :  Mike one ,
+
+dialogue type : z
+A :  channel zero , probably .
+
+dialogue type : z
+A :  Channel zero .
+
+dialogue type : z
+A :  Head restraint system ?
+
+dialogue type : z
+A :  OK .
+
+dialogue type : z
+A :  OK .
+
+dialogue type : z
+A :  OK .
+
+dialogue type : z
+A :  This is PZM two .
+
+dialogue type : z
+A :  And this is PZM one .
+
+dialogue type : z
+A : 
+
+dialogue type : z
+A :  Huh - uh .
+
+dialogue type : z
+A :  He 's ?
+
+dialogue type : z
+A :  Right .
+
+dialogue type : s^co
+A :  Wait a second .
+
+dialogue type : s^ar|s.%-
+A : 
+
+dialogue type : s^bk
+A :  Oh . OK .
+
+dialogue type : s^bk
+A :  Well , then , fine .
+
+dialogue type : s^j
+A :  See if we care .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^r.%-
+A :  Before that .
+
+dialogue type : qy^rt
+A :  Do you wanna read next ,
+
+dialogue type : qrr.%-
+A :  or d ?
+
+dialogue type : fg
+A :  uh
+
+dialogue type : fg
+A :  OK .
+
+dialogue type : h|s^rt
+A :  Um , this is Eric on mike one ,
+
+dialogue type : s^rt
+A :  the wireless lapel ,
+
+dialogue type : s^rt
+A :  channel zero .
+
+dialogue type : fh
+A :  um ,
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^bk^rt
+A :  OK .
+
+dialogue type : s^aa
+A :  Sure .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^ba
+A :  It 's fine .
+
+dialogue type : s
+A :  So , I 'm just curious how how h how exactly you got roped into this .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^ba
+A :  Good .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s
+A :  Yeah . That would be m That would be my fault .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : fh|s^bk
+A :  Uh right .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^bk^rt
+A :  Oh ?
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^bk|qy^bu^d
+A :  OK . So you 're gonna do the actual transcription yourself .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg|%-
+A :  Well , one th
+
+dialogue type : s^cs.%-
+A : 
+
+dialogue type : b
+A :  Oh .
+
+dialogue type : s
+A : 
+
+dialogue type : s^nd.%--
+A :  Except for the fact that we would have to unplug it and pow and change it w
+
+dialogue type : qy^rt
+A :  Does it lose the memory once you 've unpowered it ?
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : fg|s
+A :  Right , this is the pilot data .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^ba
+A :  Awesome .
+
+dialogue type : fg|s
+A :  Well , OK . So what happened with Switchboard was at least , I mean , the output was that they had speaker turns
+
+dialogue type : s
+A :  and they um analyzed it in terms of , you know , " this is where this speaker change came in "
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I mean , this is some of the stuff that you were talking about in uh your lunch talk ,
+
+dialogue type : s
+A :  is that is that you know , you get backchannels and stuff like that , that that , you know , disrupt the um the segment you know the segmentation .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : fg
+A : 
+
+dialogue type : s^cs
+A :  So we maybe we should look at the um the tools that Mississippi State has .
+
+dialogue type : s^df
+A :  Because , I d I I know that they published um i annotation tools ,
+
+dialogue type : s.%-
+A :  you know , for their ins
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Sure .
+
+dialogue type : s
+A :  We can hear all your conversations along the way .
+
+dialogue type : s^aa|s
+A :  Right , but we can do automated alignment .
+
+dialogue type : s
+A :  That 's not a problem
+
+dialogue type : s^e
+A :  I think
+
+dialogue type : fg
+A :  I th
+
+dialogue type : s
+A :  Well , to get to get the r to get the actual transcript , I think we 'll do OK
+
+dialogue type : s^ng
+A :  because of because of the separate channels .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  Well I know that I know that um the Mississippi State tools , at least th what the produce does not come out in STM format .
+
+dialogue type : s.%--
+A :  They they basically give
+
+dialogue type : fh|s
+A :  um They subdivide into WAVE files
+
+dialogue type : s
+A :  and then they give for each , they give a one oh , you know , a WAVE file that g indicates where the start and stop times are ,
+
+dialogue type : s
+A :  and then um and then give the uh whatever the sentence information .
+
+dialogue type : s
+A :  But I mean Ni - i i i it as you said , it was easy to convert back and forth between um that file and STM format ,
+
+dialogue type : s
+A :  in fact what I did is I took the Mississippi State data , and just made STM files out of it .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  Oh , looks like Looks like uh work packages .
+
+dialogue type : s
+A :  Must be a European project .
+
+dialogue type : s^bu
+A :  Oh , so they 're using the Alembic Workbench , from Mitre .
+
+dialogue type : s^am
+A :  I guess .
+
+dialogue type : s^no
+A :  I don't know .
+
+dialogue type : s^fe
+A :  Oh ,
+
+dialogue type : %-
+A :  this is ,
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s
+A :  Mitre ,
+
+dialogue type : s^cs
+A :  But that kind of thing I think we would probably want to extract automatically .
+
+dialogue type : s^co
+A :  I mean , e this is , the this is a conversation that we should have with Liz .
+
+dialogue type : s^bk
+A :  Right ,
+
+dialogue type : s^e
+A :  I think ,
+
+dialogue type : s^df
+A :  because she 's going to be She 's going to be the one who 's the most concerned about this kind of thing .
+
+dialogue type : s
+A :  And so she may have some ideas . on on that particular issue .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy^rt
+A :  Can I see that ?
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s
+A :  Oh , so this 'd this w is probably what the L D C uses .
+
+dialogue type : s
+A :  I mean they do a lot of transcription at the L D
+
+dialogue type : s^cs
+A :  I could ask my contacts at the LDC what what it is they actually use .
+
+dialogue type : s
+A :  I mean , I know , I mean I 've got I 've got contacts up there ,
+
+dialogue type : fh
+A :  so .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^ba
+A :  We 're very good at time alignments .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qw^rt
+A :  Uses what ?
+
+dialogue type : s
+A :  So it 's very interest I mean , it 's interesting that one of the coordinators on that is Mark Liberman from the LDC
+
+dialogue type : s
+A :  Which means that I don't know what " coordinator " means in in terms of that .
+
+dialogue type : %--
+A :  I mean
+
+dialogue type : qw^rt
+A :  What what is what is what is this web page from ?
+
+dialogue type : s^bk
+A :  Sure .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s:qw
+A :  Actually what I would have come up with was w w " What was the web address of that thing " ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^m
+A :  we didn't record that .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s.%-
+A :  slash slash capital CTA slash , l
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^aa|s^bd
+A :  No , right , I didn't mean to imply that that we that that we shouldn't discuss this now ,
+
+dialogue type : s^df.%-
+A : 
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s^bk
+A :  Sure , sure .
+
+dialogue type : h|s
+A :  Well , I mean , they 're coming in April .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : fh
+A :  But , um
+
+dialogue type : s
+A :  You know , we we may or may not talk before then on that .
+
+dialogue type : fh|s
+A :  Um . I I think we won't probably talk until we have more data ,
+
+dialogue type : s^e
+A :  I would think .
+
+dialogue type : qy^d^g^rt
+A :  Right ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s^fe
+A :  Oh !
+
+dialogue type : s^df.%-
+A : 
+
+dialogue type : s^aa
+A :  Right !
+
+dialogue type : s^fe
+A :  Wow .
+
+dialogue type : s^nd
+A :  Well , you would you would sound like you 'd have like in this e big big head .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s.%-
+A :  Well , part
+
+dialogue type : %-
+A :  I
+
+dialogue type : s^cs
+A :  W We also need to d do this in terms of SmartKom ,
+
+dialogue type : s
+A :  I mean , we 're collecting this as to build general English acoustic models .
+
+dialogue type : s:s
+A :  that can be that they can say " OK here 's the vocabulary
+
+dialogue type : s:s
+A :  and here 's the you know , here are the pronunciations . And go to it . "
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa^r
+A :  Yeah .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s
+A :  Well , Dan 's got an open notebook , too .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : qy^rt
+A :  Are you certain ?
+
+dialogue type : s
+A :  Well , I hear what you 're saying .
+
+dialogue type : s
+A :  I asked if somebody else wanted the lapel mike .
+
+dialogue type : s
+A :  Somebody else can take it next time .
+
+dialogue type : s^aa^m
+A :  That 's it !
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : qw
+A :  How much space do we have left ?
+
+dialogue type : s^ba
+A :  Oh really .
+
+dialogue type : z
+A :  Oh !
+
+dialogue type : z
+A :  OK , this is Eric on microphone number one , uh channel zero
+

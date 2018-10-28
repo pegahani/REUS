@@ -1,0 +1,1575 @@
+dialogue type : z
+C :  OK .
+
+dialogue type : z
+C :  We can start ?
+
+dialogue type : fg
+C :  OK .
+
+dialogue type : s^rt
+C :  So , welcome to our next meeting .
+
+dialogue type : fh|s^rt^t
+C :  Uh , today we will have a talk from Miguel Sanchez concerning his uh work related to ad - hoc networks .
+
+dialogue type : s
+C :  We have here a guest , a former ICSI member of the NSA group , Jordi Domingo Pasqual .
+
+dialogue type : s^rt
+C :  He is , uh , assistant professor at UPC .
+
+dialogue type : s
+C :  And maybe Jordi , you have a few words concerning your work
+
+dialogue type : s^e
+C :  one or two sentence
+
+dialogue type : s^df
+C :  and because we will have tomorrow a talk from him in more detail concerning what 's going on .
+
+dialogue type : s^aa|s^df^na
+C :  Yeah , only a short introduction ,
+
+dialogue type : s^cs^e
+C :  ve very short introduction , please .
+
+dialogue type : s^fa|s
+C :  Uh , sorry , one interruption .
+
+dialogue type : s
+C :  This is not related to hearing ,
+
+dialogue type : s
+C :  it 's only for fixing it .
+
+dialogue type : s
+C :  It 's not a earphone .
+
+dialogue type : s^aa
+C :  No .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^aa
+C :  Yeah , yeah .
+
+dialogue type : s
+C :  Like this one .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  It 's only a microphone .
+
+dialogue type : b
+C :  Yeah ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ft
+C :  Thank you .
+
+dialogue type : s^cc^rt
+C :  And after the talk of uh , Miguel , I will give you all a few slides concerning the project proposal .
+
+dialogue type : s^cc
+C :  I will um say something about in which direction it will go
+
+dialogue type : fh
+C :  and
+
+dialogue type : fh
+C :  uh
+
+dialogue type : s^am
+C :  Maybe it was my fault that I assumed that the pointer of Miguel concerning UMTS services was deployed to everybody ,
+
+dialogue type : s
+C :  but it was only sent to me ,
+
+dialogue type : s
+C :  so in the meantime everybody got , I believe , this pointer from me ,
+
+dialogue type : fh
+C :  and
+
+dialogue type : s
+C :  maybe we It 's a homework , in principle , for the next meeting , to get a little bit familiar with these things .
+
+dialogue type : fh
+C :  And um
+
+dialogue type : s^t
+C :  so I believe we will not have today a very hard technical discussion ,
+
+dialogue type : s^t
+C :  maybe more a few topic and items we will focus in the next days , until the next meeting .
+
+dialogue type : s
+C :  And when we are ready with our meeting .
+
+dialogue type : s
+C :  Everything is done .
+
+dialogue type : s^t
+C :  Then , uh , we have to read these number
+
+dialogue type : s^df^t
+C :  and we go around here , every member .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^co^t^tc
+C :  Miguel , please .
+
+dialogue type : qw
+C :  Hmm ?
+
+dialogue type : s
+C :  But you can also , I believe , uh to have an ad - hoc network , where one node is then connecting to the outer world .
+
+dialogue type : s^df
+C :  For instance , what I have in mind , you have a car , where you plug in different devices and they talk to each other , for instance ,
+
+dialogue type : s^df
+C :  but one device decided to go to the G S M network or GPS network , or whatever kind of things .
+
+dialogue type : s
+C :  So there 's a certain kind of task uh , for one node within the ad - hoc network to provide connectivity to the outer world ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^co
+C :  Let me go back to your uh uh example .
+
+dialogue type : s
+C :  Have in mind some routers are burnt here , at ICSI or whatever kind of thing ,
+
+dialogue type : qw
+C :  what will happen then even in a fixed network ?
+
+dialogue type : fh|s
+C :  So , if some sensors are getting out of uh service and whatever kind of thing , so the topology has changed , even if no node is moving .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s
+C :  And how to provide the connectivity and the intercommunication things wi within this network .
+
+dialogue type : fg
+C :  Uh .
+
+dialogue type : s^aa
+C :  Yes ,
+
+dialogue type : s
+C :  this one .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg
+C :  Um
+
+dialogue type : qy^cs
+C :  Miguel , can you give some examples for such kind of protocols ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Yeah , yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qy^d^rt
+C :  And the media is is is still occupied during that period ,
+
+dialogue type : qrr.%--
+C :  or ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s
+C :  I didn't get it .
+
+dialogue type : fh|qw
+C :  Um , what happened when I sent an RTS packet ?
+
+dialogue type : qy^rt
+C :  Is then the media still occupied for me ?
+
+dialogue type : qrr
+C :  Or , is anybody allowed also to send RTS packets ?
+
+dialogue type : s^df
+C :  Because if I go to an intermediate node , maybe you are communicating to me
+
+dialogue type : s^df
+C :  and I am the intermediate node to the final destination Michael .
+
+dialogue type : s^df
+C :  And Michael send also some RTS packet in the time and and uh uh uh Jordi too and whatever .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^df
+C :  then you 're always exchanging RTS and non - acknowledgement packets for the RTS .
+
+dialogue type : s
+C :  So that 's uh that 's uh , my my problem .
+
+dialogue type : s^ba
+C :  Then , fine .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bu
+C :  So it 's only related to the direct neighbor within the scope of the transmissions ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^na
+C :  I assume so .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ba
+C :  Fine .
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : s
+C :  but that means , in principle , that on the MAC layer you have always a RTS CTS packet between neighboring nodes ,
+
+dialogue type : s
+C :  and you send afterwards the data .
+
+dialogue type : s^bu
+C :  But the data will be maybe delayed in the intermediate node because you have always be assured to be uh s uh uh RTS and CTS packets are changed before before you can forewarning the data ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s.%-
+C :  Now the p
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : s^ba
+C :  Oops .
+
+dialogue type : fg|s^cs
+C :  So , maybe my idea first .
+
+dialogue type : qy^d^rt
+C :  So this is what , node one ?
+
+dialogue type : s
+C :  This is node two
+
+dialogue type : s
+C :  and this is the source ,
+
+dialogue type : s
+C :  and this is node three that is the final destination .
+
+dialogue type : %
+C :  Yeah ?
+
+dialogue type : s^bk
+C :  Yeah , yeah .
+
+dialogue type : s^aa
+C :  OK .
+
+dialogue type : s^cs
+C :  But - but anyway , I would like to do that in the ad - hoc network .
+
+dialogue type : s^rt
+C :  This is maybe the sco this is within the scope of this , uh special network .
+
+dialogue type : s^df
+C :  That means here that is uh within the transmission power .
+
+dialogue type : s^bu|qy^d^g^rt
+C :  So if I send an RTS , and get back , um , a CTS , then he is allowed to send data , right ?
+
+dialogue type : s
+C :  So . In the meantime , when he gets this one , he also had to send RTS and then CTS
+
+dialogue type : s^df
+C :  because this is the next next scope of the transmission area ,
+
+dialogue type : s|qy^d^g^rt
+C :  and then he can send the data , right ?
+
+dialogue type : qy^bu^d^rt
+C :  That 's the case ?
+
+dialogue type : s^bk
+C :  Yeah ?
+
+dialogue type : s
+C :  And that 's what I mean .
+
+dialogue type : s
+C :  In the meantime , he c still can get some data here , where he try to get certain connectivity on the MAC layer .
+
+dialogue type : qy^bh
+C :  Yeah ?
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : s^rt
+C :  and then he try to forward this data .
+
+dialogue type : s^e
+C :  After that .
+
+dialogue type : s^bu
+C :  So he is definitely first to stop .
+
+dialogue type : s^bu
+C :  He has to collect all the data ?
+
+dialogue type : qy^rt
+C :  Could it not be a little bit strange
+
+dialogue type : s^df
+C :  because if that is starting a file transfer with millions of bytes , he have to collect all the bytes before he forwarding to to whatever .
+
+dialogue type : qw^rt
+C :  Huh ?
+
+dialogue type : s.%--
+C :  One data p
+
+dialogue type : qy^bu^d^rt
+C :  He have to do it for all data packets ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bu
+C :  So but , in principle , when he receives the data packet then he The same applies for the next data packet .
+
+dialogue type : s^bu
+C :  but anyway in the meantime he has to forward the packet to the final destination .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : s.%-
+C :  So it 's acting , in in prin
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah , @ @ .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  And delayed .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Yeah , but this is typical for MAC layer protocols , you know .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  It 's always true that only one node gets a media access , for one frame .
+
+dialogue type : s
+C :  That 's the point .
+
+dialogue type : s
+C :  We always said " from data "
+
+dialogue type : s
+C :  but it 's really one frame .
+
+dialogue type : fh
+C :  Yeah ,
+
+dialogue type : fh
+C :  OK .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s^am
+C :  Maybe maybe you are right .
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : s
+C :  but , Miguel , this is a good point from from Dietmar ,
+
+dialogue type : s
+C :  but maybe here is a wall .
+
+dialogue type : s
+C :  And this guy is behind the wall , so his transmission rate is something like that .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^bk|s
+C :  Yeah , but um Miguel , if uh in the previous slide you mentioned that you uh are working also on adaptive power control .
+
+dialogue type : qy
+C :  Is it not possible then , if I send something and I could not find any neighbor because one of the cluster below ,
+
+dialogue type : qy
+C :  is it not possible to extend the power until the maximum
+
+dialogue type : s^bu
+C :  and if uh I do not have any connectivity with the maximum of power , OK , then I 'm lost anyway .
+
+dialogue type : b
+C :  Yeah , yeah .
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : s^bk
+C :  mm - hmm .
+
+dialogue type : qw.%--
+C : 
+
+dialogue type : s^fa
+C : 
+
+dialogue type : qw^rt
+C :  how do you check if if the nodes are moving randomly ?
+
+dialogue type : s^bk
+C :  Yeah , OK ,
+
+dialogue type : s
+C :  maybe that 's applied for RTS CTS ,
+
+dialogue type : qy^d^ng^rt
+C :  but for the real frame ?
+
+dialogue type : s^df
+C :  The frame could also be uh whatever , I don't know but a few hundred bytes , you know , that takes a little bit time .
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s^ar|%--
+C :  No , s
+
+dialogue type : s^ar|s^fa
+C :  no sorry
+
+dialogue type : s^na
+C :  m Yeah , that 's right .
+
+dialogue type : s
+C :  But first of all it took place RTS CTS ,
+
+dialogue type : s
+C :  and there could be , you mentioned , if it 's still occu if the medium is still occupied by another one , it will be delayed anyway to a randomly time .
+
+dialogue type : s^bk
+C :  Oh ,
+
+dialogue type : fg
+C :  so !
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : s^bk^r
+C :  y OK .
+
+dialogue type : s^bk^r
+C :  OK .
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^aa|s^na
+C :  Oh yeah , something like that .
+
+dialogue type : s^t3
+C :  It 's OK .
+
+dialogue type : s
+C :  Yeah , what I think Maybe some , uh cases why I go this way with my node , and suddenly , I s go out of the scope of the transmission area ,
+
+dialogue type : s^df
+C :  because it 's really a random movement .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^e
+C :  this is during the data transmission .
+
+dialogue type : s^bk
+C :  Yeah ?
+
+dialogue type : %
+C : 
+
+dialogue type : b
+C :  Oh , yeah .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : fg
+C :  Nee .
+
+dialogue type : s^na
+C :  That 's really right ,
+
+dialogue type : s^cs^ng
+C :  but what I would like to say is that besides the RTS CTS behavior , you need certain kind of additional MAC layer functionality to deal with these packet .
+
+dialogue type : s^e
+C :  For example , with transmission or or whatever ,
+
+dialogue type : s^e
+C :  for whatever control , or whatever kind of things , you know .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : fg|s
+C :  OK , this is a question not directly related to these things ,
+
+dialogue type : s
+C :  but maybe that 's why maybe only a short answer .
+
+dialogue type : qy^rt
+C :  Uh , do you assume that power control will be issue also in the next years ?
+
+dialogue type : s^e
+C :  In other words , um is the um success of having more power within the devices in maybe three year , four years , five years , for batteries , and and and @ @ and sofort so on
+
+dialogue type : qy
+C :  uh will it be succeeded that you have so much power available that this difficult mechanism who is in the wireless network will be uh out of scope ?
+
+dialogue type : s^df
+C :  Because if I have a device which uh can I use maybe for twenty - four hours ,
+
+dialogue type : s^df^e
+C :  I do not have , in principle , really the constraint to uh deal with with uh power savings .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : fg|s^df.%-
+C : 
+
+dialogue type : fg|s^bd
+C :  Yeah , but anyway , that was the reason for my question .
+
+dialogue type : s
+C :  If I save with a lot of difficult mechanism , within the air interface and between the base station or access point and the mobile node , one percent of the power whereas ninety - nine percent is consumed by packet processing
+
+dialogue type : s^e
+C :  and and and and uh uh C P U or whatever ,
+
+dialogue type : fh|qy
+C :  uh is it worth to have it ?
+
+dialogue type : s^rt
+C :  If I really , with a normal device uh with a battery lifetime of maybe twenty - four hours , thirty - six hours or whatever kind of thing And I think it will be increased .
+
+dialogue type : s
+C :  As the more mobile nodes are in the world the better the battery will be .
+
+dialogue type : s
+C :  So that 's was the reason for my question .
+
+dialogue type : s^bk
+C :  Yeah , yeah , yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s^bk
+C :  Yeah , I g got it .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Yeah , yeah , yeah , yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : qw
+C :  What do you mean by multicast protocols ?
+
+dialogue type : s^bu^e
+C :  Routing ?
+
+dialogue type : s^bk
+C :  OK . Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  And maybe we will have to explain a little bit for those who are not familiar with source routing .
+
+dialogue type : s
+C :  You can have the destinations you would like to or the in the I P addresses of the intermediate nodes you still know
+
+dialogue type : s^e
+C :  even if it 's not the direct neighbor ,
+
+dialogue type : s
+C :  but one of uh where you really want that the packet went through , put it in the I P header .
+
+dialogue type : fh
+C :  So , and ,
+
+dialogue type : s
+C :  this one is going then to this guy and so on and so on ,
+
+dialogue type : s^e
+C :  until finally it 's reached destination .
+
+dialogue type : s
+C :  And , that 's what I mean , you cannot put it thousand intermediate nodes in for example ,
+
+dialogue type : s
+C : 
+
+dialogue type : s^aa
+C :  Yeah , yeah , yeah , yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  You 'll know to remove h it 's h from the header , in principle , and and so on , until it uh reaches the final destination .
+
+dialogue type : s
+C :  This one , for instance .
+
+dialogue type : s
+C :  that may that the different parts could be one to number four .
+
+dialogue type : s:s
+C :  Maybe two - B or three - B
+
+dialogue type : s
+C :  Yeah , but nevertheless this guy is a is an gateway in the router for for this packet , you know .
+
+dialogue type : s
+C :  And they remove itself from the header .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  It must be not the whole path , you know .
+
+dialogue type : qy^rt
+C :  Um , Miguel , are you familiar with these kind of proposals ?
+
+dialogue type : s^aap
+C :  That depends on the service level you want to be .
+
+dialogue type : s^e
+C :  Definitely not a guarantee level .
+
+dialogue type : s
+C :  But maybe something like a control load level or something like that , seems to be for me possible .
+
+dialogue type : qy^d^g
+C :  Right ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^bk|s^cs
+C :  Yeah , we can discuss later , off - line .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fg|%-
+C : 
+
+dialogue type : s^bk|s
+C :  Yeah , but it 's really happened also in the riot case , you know .
+
+dialogue type : s^e
+C :  If I get the wrong route with the RCMP redirects , it 's , in principle , then the same .
+
+dialogue type : s^bk
+C :  Yeah , yeah .
+
+dialogue type : fg|s
+C :  Yeah , in principle , the base station .
+
+dialogue type : s^bk.%
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  and Miguel , should I should ask you one question .
+
+dialogue type : s
+C :  And uh uh in version one and two you you have different technologies .
+
+dialogue type : s
+C :  You know , frequency hopping , uh two modes and and and also infrared .
+
+dialogue type : qy^rt
+C :  Does it still apply for for the uh eleven - B ?
+
+dialogue type : s^bk|s
+C :  OK , DSS .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^2
+C :  Megahertz ,
+
+dialogue type : b
+C :  yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^2
+C :  Uh , gigahertz .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  In the RSM band .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  And one additional question from myself ,
+
+dialogue type : s
+C :  but maybe also short ,
+
+dialogue type : s^df
+C :  because time it running fast .
+
+dialogue type : s
+C :  Uh , I have heard that uh wireless LAN and Bluetooth will have some problems
+
+dialogue type : s^e
+C :  uh that they influence each other .
+
+dialogue type : qy
+C :  Do you have additional information about this topic ?
+
+dialogue type : s^aa|s^na
+C :  Yeah , that 's right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Yeah , but nevertheless , you have the range of ten meters , or of one hundred meters .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ba|qy^d^f
+C :  Well that 's a good news , OK ?
+
+dialogue type : s.%--
+C :  But anyway , um based on your uh uh initial scenario I believe because Bluetooth is on one chip ,
+
+dialogue type : s
+C :  like you have now your UCB buss or whatever connectivity , you will have your Bluetooth connectivity .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk^rt|s
+C :  Yeah , and and and whatever kind of of eh things connected to your laptop and also your microphone and whatever you will will have , is Bluetooth - based .
+
+dialogue type : s^f|s^bsc
+C :  Yeah , or will be Bluetooth - based .
+
+dialogue type : s^bk|s
+C :  Yeah , and this is this is eh within maybe an uh wireless LAN .
+
+dialogue type : s.%-
+C :  So , despite the fact that they are considered for different scenarios they are still
+
+dialogue type : s^e
+C :  within one one area .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bk|s^j
+C :  OK we 'll when I I will have some problems in the future with my l wireless LAN and Bluetooth connectivity ,
+
+dialogue type : s^cc^j
+C :  I will come to you ,
+
+dialogue type : s^j|qy^d^f^g
+C :  you will solve it OK ?
+
+dialogue type : s^bk|s^co^tc
+C :  OK , please go on .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^cs
+C :  But maybe for cars .
+
+dialogue type : s^e
+C :  Yeah , if your car is the infrastructure , for instance .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ft
+C :  many thanks Miguel .
+
+dialogue type : qo^rt
+C :  Are there any questions ?
+
+dialogue type : s^cs
+C :  Maybe we have also the time to discuss with Miguel off - line the things if there is some uh question concerning uh his talk or maybe other questions .
+
+dialogue type : s
+C :  Maybe one last question from my side
+
+dialogue type : s^df
+C :  because I bring it up , uh concerning the proposal , some kind of active routing mechanism .
+
+dialogue type : s
+C :  It 's going in a quite different direction as as as as the traditional things discussed in the ITF
+
+dialogue type : s
+C :  and I currently do not have any idea whether active routing is really a topic uh , within the I T
+
+dialogue type : qr
+C :  Do you have certain kind of experience or do you know certain activities uh , in that area ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s|s^bk
+C :  I know , yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : s^ft
+C :  One more time , many thanks Miguel .
+
+dialogue type : fg
+C :  So .
+
+dialogue type : s
+C :  So I will deploy a little bit information here from the uh project proposal .
+
+dialogue type : s.%--
+C :  So I have only
+
+dialogue type : s
+C :  four .
+
+dialogue type : s
+C :  Jordi is only a short period of time here ,
+
+dialogue type : s
+C :  so he will get the colored one .
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : fh
+C :  uh
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  Kill the computer .
+
+dialogue type : h|s^tc
+C :  Uh , So I started uh , for for advertising the project proposal here to provide a few slides
+
+dialogue type : s
+C :  I think , first of all , Wilbert , is not here ,
+
+dialogue type : s
+C :  second um , the um link here was uh enabling UMTS services and application ,
+
+dialogue type : s
+C :  uh , I assume was not read yesterday night .
+
+dialogue type : s^cs
+C :  So I suggest we go roughly to the slides here
+
+dialogue type : fh
+C :  and um
+
+dialogue type : s
+C :  The the problem is that , in principle , we have different scopes .
+
+dialogue type : s
+C :  And motivation of the project proposal from my point of view is that we will have the um Wireless access networks for the next generation will be more flexible .
+
+dialogue type : s
+C :  There 's a @ @ for uh current uh uh uh for for fast changes within this network .
+
+dialogue type : s
+C :  And that means , if you go to slide number three , that we have um the possibility to to um having normal features in the mobile access network ,
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  and um
+
+dialogue type : s
+C :  and um also based on that it belongs normally to one single provider domain , that it is possible to to uh use novel things
+
+dialogue type : s
+C :  and and and new protocols and new technologies within this network .
+
+dialogue type : s
+C :  On the other hand , in the internet backbone , uh we it is i impossible
+
+dialogue type : s
+C :  and we see it on several examples
+
+dialogue type : s^e
+C :  like this , MPLS ,
+
+dialogue type : s
+C :  there 's quality of service support , and multicast
+
+dialogue type : s^e
+C :  and all this kind of thing ,
+
+dialogue type : s
+C :  that , based on the success of the internet backbone , it 's become uh very unflexible , to p uh fo for the provision of these things .
+
+dialogue type : s
+C :  So , if we are going to offer building blocks , and provide novel solutions for the next generation of wireless access networks , taking into account , without modifying the end - to - end scope , then I think it 's really beneficial work ,
+
+dialogue type : s^e
+C :  also for the use of interactive multimedia application ,
+
+dialogue type : s
+C :  so as it is described in the uh project proposal .
+
+dialogue type : s
+C :  Um the point is that um to start with um a bigger cluster of co uh of potential partners to do this really really really big work ,
+
+dialogue type : s^e
+C :  seems not to be feasible in the next time .
+
+dialogue type : s^df.%--
+C :  because if you have settled everything , and discussed everything and and and and uh without any money in the background , and a lot of money in the background ,
+
+dialogue type : s
+C :  that is not uh feasible from my point of view .
+
+dialogue type : s^df
+C :  Nevertheless , I discussed , with a lot of partners , these things .
+
+dialogue type : s
+C :  And today , uh Michael and me , we were on the UCB to discuss with a guy who is a professor who is probably interested in the application stuff .
+
+dialogue type : s
+C :  They are going in that direction .
+
+dialogue type : s
+C : 
+
+dialogue type : s^bsc
+C :  NSF ,
+
+dialogue type : s^e
+C :  um , f for this " intelligent classroom " , is a little bit exaggerated , I believe ,
+
+dialogue type : s
+C :  but going in that direction .
+
+dialogue type : s
+C :  So there are a lot of interest ,
+
+dialogue type : s
+C :  but without really hard money in the background , it is very hard to come to the initial steps .
+
+dialogue type : s
+C :  And uh Juan Peire , one of the uh members of this NSA group has uh identified a certain kind of s start money , I would like to say .
+
+dialogue type : s^cs
+C :  So maybe if you start with a small cluster of um the constraints of this funding ,
+
+dialogue type : s
+C :  and that means uh six universities and and institutions
+
+dialogue type : s^e
+C :  uh , three in USA and three in Europe .
+
+dialogue type : s
+C :  and of course , they are uh including the NSA group
+
+dialogue type : s
+C :  and maybe that seems to be very reasonably , for me .
+
+dialogue type : s^cs
+C :  But then we have to align the project proposal in that sense .
+
+dialogue type : s^df
+C :  Because then we cannot do do anything as it is described in the in the bigger scope .
+
+dialogue type : s
+C :  So the point is um to reduce the overall picture , which I described in a few words , to the fact that we have really some work packages where we can focus on it ,
+
+dialogue type : s^e
+C :  still fitting into the big picture .
+
+dialogue type : s^f
+C :  Yeah ?
+
+dialogue type : s
+C :  And so that will be the task of the next weeks .
+
+dialogue type : fh
+C :  And uh
+
+dialogue type : s
+C :  I hope that everybody is doing his homework concerning @ @ for instance
+
+dialogue type : s^cs
+C :  uh alternative to the intelligent classroom maybe that we h can start here only with the N S A group
+
+dialogue type : s^e
+C :  within this big picture
+
+dialogue type : s^e
+C :  um with some work
+
+dialogue type : s^e
+C :  that we put the pieces together .
+
+dialogue type : s^df
+C :  Because I believe many are very flexible here
+
+dialogue type : s
+C :  accounting also the future - coming uh joining people of the NSA group , to do some work here .
+
+dialogue type : s
+C :  And if we are starting with a very very very small cluster with a common activity have maybe some starting funding for bigger uh radius of the of the the the uh project proposal , with the mind that maybe at the final stage it will becoming a European proposal with this uh the the whole funding .
+
+dialogue type : s
+C :  That 's uh my point , and my picture I have in mind .
+
+dialogue type : s^rt
+C :  And I will go definitely back to Germany the tenth of December .
+
+dialogue type : s
+C :  That is fixed now .
+
+dialogue type : s
+C :  And I hope we can use these remaining weeks to have really progress in uh for the proposal in that sense what I mentioned before .
+
+dialogue type : s^df
+C :  Because then I will make the advertising that is still worth to stay here ,
+
+dialogue type : s:s
+C :  And I hope then Siemens will say OK for me to stay longer here .
+
+dialogue type : s
+C :  And then I will come back maybe in the mid of end of January .
+
+dialogue type : s
+C :  So that 's uh it 's a comment to the proposal .
+
+dialogue type : s^cs
+C :  So I think everybody should consider carefully , based on this statement I made uh next steps
+
+dialogue type : s^bd
+C :  and of course everybody has little bit other work to do
+
+dialogue type : s^df
+C :  but it should be should be always an ongoing process until I will leave until the tenth of December .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : h
+C :  Um
+
+dialogue type : s^bk
+C :  yeah
+
+dialogue type : s
+C :  I will distribute all the things electronically
+
+dialogue type : s^e.%--
+C : 
+
+dialogue type : s^bk|s^cs^rt
+C :  OK , take a look to slide of number two ,
+
+dialogue type : s^bk^rt
+C :  Yeah !
+
+dialogue type : s
+C :  You see uh uh University of Mannheim ,
+
+dialogue type : s.%--
+C :  University
+
+dialogue type : s
+C :  also these are the official ones ,
+
+dialogue type : s
+C :  You see that in the ICSI US on the U S A side , I believe that the home companies and universities are still contributing .
+
+dialogue type : qy^d^f^g
+C :  Yeah ?
+
+dialogue type : s
+C :  but these are then the official ones ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^na
+C :  They say they are very interested in it .
+
+dialogue type : qy^d^f^g^rt
+C :  Yeah ?
+
+dialogue type : s
+C :  Uh a few words , the University of Mannheim is at location where Joerg Widmer is uh working on it ,
+
+dialogue type : s.%--
+C :  and I got the statement
+
+dialogue type : s
+C :  uh they are very interested in that .
+
+dialogue type : s
+C :  They did a lot in the area of um intelligent classroom
+
+dialogue type : s
+C :  but nevertheless they did a lot in networking stuff .
+
+dialogue type : s
+C :  And University of Uppsala , Sweden ,
+
+dialogue type : s
+C :  that 's the reason I invited uh Christian Tschudin , the professor who did ten years work in in active routing .
+
+dialogue type : fh|s.%--
+C :  And uh OK the Universidad Nacional de Educat
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^df
+C :  Spanish .
+
+dialogue type : s
+C :  Maybe we have a better expert to pronounce it .
+
+dialogue type : s^bk^m
+C :  " UNED " .
+
+dialogue type : s
+C :  I always said " UNED " .
+
+dialogue type : s^e
+C :  in Spain ,
+
+dialogue type : s
+C :  uh this is this university of Juan Peire .
+
+dialogue type : s.%-
+C :  And he is also the one who had recognized uh
+
+dialogue type : s.%--
+C :  one
+
+dialogue type : s^r
+C :  pair
+
+dialogue type : s^r
+C :  pair
+
+dialogue type : s^nd|s
+C :  Not Parez , Peire .
+
+dialogue type : s^e
+C :  PEIRE .
+
+dialogue type : s^ar
+C :  No , no , no .
+
+dialogue type : s^nd
+C :  Not not Paez .
+
+dialogue type : %--
+C :  Not .
+
+dialogue type : s
+C :  Peire , P E I R E .
+
+dialogue type : s
+C :  P E I R E .
+
+dialogue type : qy^bu^d^rt
+C :  You never heard from him ?
+
+dialogue type : s^cs.%--
+C :  You can I you can mail him later on the informa
+
+dialogue type : s
+C :  Then , of course , the whole N S A group
+
+dialogue type : s
+C :  and also of the coordinator of all the things ,
+
+dialogue type : s
+C :  then Georgia Tech , I have good relationship to uh the long lasting uh cooperation with Georgia Tech
+
+dialogue type : s
+C :  and they did a lot in this area , also related to networking stuff as well as to the intelligent classroom stuff and the UCB .
+
+dialogue type : s^df
+C :  We still focusing on maybe we can have uh more professors involved
+
+dialogue type : s^df
+C :  which are working also on the networking stuff as well as on the application stuff ,
+
+dialogue type : s
+C :  so that the UCB is clustered as one uh partner
+
+dialogue type : s^e
+C :  but nevertheless with different departments .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  But take a look to the slides , I will uh deploy it um uh electronically .
+
+dialogue type : qw^br^rt
+C :  Sorry ?
+
+dialogue type : s
+C :  I will send it electronically .
+
+dialogue type : s
+C :  After the meeting .
+
+dialogue type : s^cc
+C :  I will .
+
+dialogue type : s
+C :  Future .
+
+dialogue type : s^cs
+C :  And , maybe you take a look to the uh last two slides ,
+
+dialogue type : fh
+C :  um Um ,
+
+dialogue type : s
+C :  maybe the GPRS picture is still uh available .
+
+dialogue type : s
+C :  So you have , in principle , here now the mapping of the different areas , um within GPS ,
+
+dialogue type : s
+C :  and , in principle , the same applies for UMTS .
+
+dialogue type : s
+C :  There is no so much different .
+
+dialogue type : fh|s
+C :  Um . You always have the SGSN and UMTS ,
+
+dialogue type : s
+C :  they are called three - GSGSN .
+
+dialogue type : s
+C :  And you have the protocol stack
+
+dialogue type : s
+C :  um in on the slide number five , to see what uh is going on .
+
+dialogue type : s^e
+C :  And you see the difference .
+
+dialogue type : s
+C :  The amazing thing is that you have IP over IP .
+
+dialogue type : s
+C :  As you take a look to the the uh GGSN , you have two - IP layer functionality and and all those things .
+
+dialogue type : s
+C :  And you have the GPS tunnel p uh protocol G T P between the G and the S and the GTSN .
+
+dialogue type : s^e
+C :  And and so on .
+
+dialogue type : s
+C :  So uh I believe they are very very difficult protocols stuck between the uh between the um um involved nodes ,
+
+dialogue type : s
+C :  and making it necessary , in principle , to deal with our four building blocks in um yeah , I believe , in a difficult way ,
+
+dialogue type : s
+C :  if , uh , we have in mind quality of service routing , and and uh qualit uh mobility aspects and and all this kinds of things for I P layer functionality .
+
+dialogue type : s
+C :  So that 's , in principle , uh an overview , of the protocol stack
+
+dialogue type : s^e
+C :  and the involved nodes ,
+
+dialogue type : s
+C :  and I will provide more and more information
+
+dialogue type : s
+C :  but um eh I have to also figure out everything from the scratch .
+
+dialogue type : s
+C :  I am not a total expert for for the future wireless networks .
+
+dialogue type : s^bk^rt
+C :  OK .
+
+dialogue type : s^ft
+C :  Then I would like to thanks everybody
+
+dialogue type : s
+C :  and if there 's no additional question , comment , or or other remarks , I would like to start with reading uh these numbers .
+
+dialogue type : z
+C :  OK , please the next one .
+
+dialogue type : s^bk|s^ft
+C :  OK , thank you
+
+dialogue type : s^cs
+C :  Now , please let don't switch off power ,
+
+dialogue type : s
+C :  I have to call Adam ,
+
+dialogue type : fh
+C :  so
+
+dialogue type : s
+C :  So I suggest , @ @ now we will have in a few minutes we will have the coffee break , tea , cake , whatever , @ @ will will be offered ,
+
+dialogue type : s
+C :  and then we will have a we can have a discussion .
+

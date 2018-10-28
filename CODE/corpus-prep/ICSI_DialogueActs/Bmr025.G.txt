@@ -1,0 +1,525 @@
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^co
+G :  Guess who I practice on ?
+
+dialogue type : s^cs
+G :  So another idea I w t had just now actually for the demo was whether it might be of interest to sh to show some of the prosody uh work that Don 's been doing .
+
+dialogue type : fh|s^cs^e
+G :  Um actually show some of the features
+
+dialogue type : s^cs^e
+G :  and then show for instance a task like finding sentence boundaries or finding turn boundaries .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : s^cs
+G :  you know , you can show that graphically , sort of what the features are doing .
+
+dialogue type : s
+G :  It , you know , it doesn't work great but it 's definitely giving us something .
+
+dialogue type : s^no
+G :  I don't know if that would be of interest or not .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  I mean , you 're looking at this now
+
+dialogue type : qr^rt
+G :  Are you looking at Waves or Matlab ?
+
+dialogue type : s^aa.%-
+G :  Yeah def
+
+dialogue type : %-
+G :  I
+
+dialogue type : qr^bu
+G :  Oh , the end of this month or next month ?
+
+dialogue type : s^bk|qy^bu^d^rt
+G :  Oh , you mean like today ?
+
+dialogue type : s^bk
+G :  Oh .
+
+dialogue type : s^bk^m
+G :  Next month .
+
+dialogue type : s^fa
+G :  Sorry .
+
+dialogue type : s^fa^r
+G :  Sorry .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^cs.%--
+G : 
+
+dialogue type : s^df
+G :  cuz we 're doing this anyway as part of our you know , the research ,
+
+dialogue type : s^e
+G :  visualizing what these features are doing
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  it might not be integrated
+
+dialogue type : s
+G :  but it it could potentially be in it .
+
+dialogue type : s
+G :  Could find some .
+
+dialogue type : s
+G :  I mean it 's different .
+
+dialogue type : s
+G :  I don't think anyone has done this on meeting data
+
+dialogue type : s^ba
+G :  so it might be neat , you know .
+
+dialogue type : qy^rt
+G :  Oh , quick question on that . Is do we have the the seat information ?
+
+dialogue type : qy^e^rt
+G :  In in the Key files now ?
+
+dialogue type : s^bk.%-
+G : 
+
+dialogue type : s^2
+G :  For the new one
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^ba
+G :  Great .
+
+dialogue type : s^aa
+G :  Sea - yeah .
+
+dialogue type : b
+G :  Alright .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Alright .
+
+dialogue type : s^bd
+G :  Never mind .
+
+dialogue type : s:qr^rt
+G :  I 'm just trying to figure out , you know , when Morgan 's voice appears on someone 's microphone are they next to him or are they across from him ?
+
+dialogue type : s
+G :  Cuz I mean I haven't been putting it in
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s^r
+G :  I have not .
+
+dialogue type : fh
+G : 
+
+dialogue type : %-
+G :  Well it
+
+dialogue type : s
+G :  I mean they 're on th right , these ,
+
+dialogue type : s
+G :  but I just hadn't ever been putting it in the Key files .
+
+dialogue type : s
+G :  And I don't think Chuck was either
+
+dialogue type : %-
+G : 
+
+dialogue type : s^bk|s^fa
+G :  Oh , so we 're both sorry .
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  OK .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : %-
+G : 
+
+dialogue type : s^df
+G :  Right . Well I I just realized I hadn't been doing it
+
+dialogue type : %--
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s^aa
+G : 
+
+dialogue type : s.%--
+G : 
+
+dialogue type : %-
+G :  I don't ,
+
+dialogue type : s.%-
+G :  maybe I forgot to d
+
+dialogue type : s.%-
+G : 
+
+dialogue type : fg
+G :  Yeah .
+
+dialogue type : s:qw
+G :  And I was I was looking at Chuck 's , like , " oh what did Chuck do ,
+
+dialogue type : s:s^cc
+G :  OK I 'll do that " .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : fg
+G : 
+
+dialogue type : s^cc
+G :  We will do better .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : %-
+G : 
+
+dialogue type : %-
+G : 
+
+dialogue type : %-
+G : 
+
+dialogue type : s.%-
+G : 
+
+dialogue type : %-
+G : 
+
+dialogue type : qo
+G :  Well , what if you 're sitting there and you just wanna make an X
+
+dialogue type : s
+G :  and you don't wanna take notes
+
+dialogue type : s.%--
+G :  and you 're you just wanna
+
+dialogue type : s
+G :  get the summary of the transcript from this time location
+
+dialogue type : s
+G :  like you know , and and then while you 're bored you don't do anything
+
+dialogue type : s
+G :  and once in a while , maybe there 's a joke and you put a X
+
+dialogue type : fh
+G : 
+
+dialogue type : s^bs^cs
+G :  in in other words you can use that just to highlight times in a very simple way .
+
+dialogue type : s
+G :  Also with I was thinking and I know Morgan disagrees with me on this
+
+dialogue type : s^rt
+G :  but suppose you have a group in here and you wanna let them note whenever they think there might be something later that they might not wanna distribute in terms of content ,
+
+dialogue type : s^cs
+G :  they could just sort of make an X near that point
+
+dialogue type : s^e
+G :  or a question mark that sort of alerts them that when they get the transcript back they c could get some red flags in that transcript region
+
+dialogue type : s^e
+G :  and they can then look at it .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s
+G :  I know we haven't been using it
+
+dialogue type : s^cs
+G :  but I w I can imagine it being useful just for sort of marking time periods
+
+dialogue type : s^e
+G :  which you then get back in a transcript
+
+dialogue type : fh
+G :  so .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s
+G :  And you don't have a lot of other cues that might be useful ,
+
+dialogue type : fh
+G :  so .
+
+dialogue type : qy^rt
+G :  Well , could we keep one of these things for another year ?
+
+dialogue type : s^df.%-
+G :  Would h I mean is there a big cau
+
+dialogue type : s^df.%-
+G : 
+
+dialogue type : s
+G :  even maybe some of the transcribers who might be wanting to annotate
+
+dialogue type : s
+G :  uh f just there 's a bunch of things that might be neat to do
+
+dialogue type : s
+G :  but I it might not be the case that we can actually synchronize them and then do all the infrastructure
+
+dialogue type : s^cs
+G :  but we could at least try it out .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s
+G :  Yeah I don't think it has to be part of a what everybody does in a meeting
+
+dialogue type : s^ba
+G :  but it might be a useful , neat part of the project
+
+dialogue type : s^df
+G :  that we can , you know , show off as a mechanism for synchronizing events in time
+
+dialogue type : s^df^e
+G :  that happen that you just wanna make a note of ,
+
+dialogue type : s
+G :  like what Jane was talking about
+
+dialogue type : s^e
+G :  with some later browsing , just just as a convenience ,
+
+dialogue type : s
+G :  even if it 's not a full - blown note taking substitute .
+
+dialogue type : qw.%--
+G :  So what kind of input would you be ?
+
+dialogue type : qy^d.%-
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^aa
+G :  Yeah ,
+
+dialogue type : s^ba
+G :  that be good .
+
+dialogue type : %-
+G :  M
+
+dialogue type : s^aa
+G :  right .
+
+dialogue type : s^ba
+G :  That would be fine too .
+
+dialogue type : s
+G :  I mean , I don't have , you know , grandiose ideas in mind
+
+dialogue type : s:s
+G :  but I 'm just sort of thinking well we 've we 're getting into the next year now
+
+dialogue type : s
+G :  and we have a lot of these things worked out at in terms of the speech
+
+dialogue type : s
+G :  maybe somebody will be interested in this
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^2:s
+G :  Or like this is my " I 'm supposed to do this " kind of button ,
+
+dialogue type : s.%--
+G :  like " I better remember to "
+
+dialogue type : s^aa
+G :  Yeah
+
+dialogue type : s^e
+G :  something like that
+
+dialogue type : %--
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : %-
+G :  W
+
+dialogue type : s^aa
+G :  Yeah , yeah .
+
+dialogue type : s
+G :  Well it also it 's maybe realistic cuz people are supposed to be bringing their P D As to the meeting eventually ,
+
+dialogue type : qy^d^g^rt
+G :  right ?
+
+dialogue type : s^df.%--
+G : 
+
+dialogue type : s
+G :  I don't know what I don't wanna cause more work for anyone
+
+dialogue type : s
+G :  but I can imagine some interesting things that you could do with it
+
+dialogue type : s.%--
+G :  and so if we don't have to return it
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^no
+G :  I don't know .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : %-
+G :  We c
+
+dialogue type : s^cs
+G :  One would probably be fine .
+
+dialogue type : s^cs
+G :  Maybe we could do like a student project ,
+
+dialogue type : s^ba
+G :  you know , maybe someone who wants to do this as their main like s project for something would be cool .
+
+dialogue type : fg|s.%-
+G : 
+
+dialogue type : s
+G :  Jeremy 's gonna be an he 's a new student starting on modeling brea breath and laughter , actually ,
+
+dialogue type : s^rt
+G :  which sounds funny
+
+dialogue type : s^ba^rt
+G :  but I think it should be cool ,
+
+dialogue type : fh
+G :  so .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : s^j
+G :  " Ha - ha - ha . "
+
+dialogue type : qy^rt^t3
+G :  You 're you 're gonna tease me ?
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^ba
+G :  Great .
+
+dialogue type : s^j
+G :  That 's a very philosophical statement from Morgan .
+
+dialogue type : s
+G :  I just it 's sort of a anachronism ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  It 's great .
+
+dialogue type : s^cs
+G :  We could do simultaneous .
+
+dialogue type : s^df
+G :  Initiate him .
+
+dialogue type : fg|qy
+G :  Well , I 'm just thinking , are you gonna try to save the data before this next group comes in ?
+
+dialogue type : s^cs^r^rt
+G :  Yeah , so we might wanna do it simultaneous .
+
+dialogue type : s^aa|%-
+G : 
+
+dialogue type : s
+G :  so we might n we might need to do that actually .
+
+dialogue type : s^co
+G :  You have to plug your ears , by the way uh Eric ,
+
+dialogue type : %-
+G : 
+
+dialogue type : s^df
+G :  or you start laughing .
+

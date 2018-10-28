@@ -1,0 +1,1710 @@
+dialogue type : z
+G :  Time .
+
+dialogue type : z
+G :  Are you Fey ?
+
+dialogue type : z
+G :  Oh .
+
+dialogue type : z
+G :  Hi .
+
+dialogue type : z
+G :  I think we 've met before ,
+
+dialogue type : z
+G :  like , I remember talking to you about Aspect or something like that at some point or other .
+
+dialogue type : z
+G :  So .
+
+dialogue type : z
+G :  Oh that 's right .
+
+dialogue type : z
+G :  Well .
+
+dialogue type : z
+G :  No offense .
+
+dialogue type : z
+G :  Like .
+
+dialogue type : s^bk
+G :  Oh , OK
+
+dialogue type : s^fa
+G :  sorry .
+
+dialogue type : s^df
+G :  Getting ahead of myself .
+
+dialogue type : s^ba^fe
+G :  Yay !
+
+dialogue type : s^j^m
+G :  " One of us . "
+
+dialogue type : qy^d^j^rt
+G :  Me ?
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : qw
+G :  What ?
+
+dialogue type : qy^bu^d^rt
+G :  You did ?
+
+dialogue type : qw^rt
+G :  When ?
+
+dialogue type : s^bk
+G :  Oh .
+
+dialogue type : qr
+G :  About me or you ?
+
+dialogue type : s^bk
+G :  OK . OK .
+
+dialogue type : s^no
+G :  Well I didn't know .
+
+dialogue type : s^bd
+G :  I didn't mean to be humor copying ,
+
+dialogue type : s^bk
+G :  but OK ,
+
+dialogue type : s^fa
+G :  sorry .
+
+dialogue type : s
+G :  Yes , I know myself .
+
+dialogue type : s^bd
+G :  It 's OK .
+
+dialogue type : %-
+G :  It 's a
+
+dialogue type : s^2^j
+G :  Of Oz .
+
+dialogue type : s
+G :  Not witch - like .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^nd^rt
+G :  Didn't take a vote ?
+
+dialogue type : s^bd^fa
+G :  OK .
+
+dialogue type : s^bc
+G :  More than three of us .
+
+dialogue type : s^j
+G :  The department has many mayors .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : qy^rt
+G :  Did Jerry talk to you about maybe using our class ?
+
+dialogue type : qy
+G :  the students in the undergrad class that he 's teaching ?
+
+dialogue type : %-
+G :  e
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^bk|s
+G :  OK , but th I guess it 's that um people in his class cover a different set
+
+dialogue type : fh
+G : 
+
+dialogue type : s.%--
+G :  than the c
+
+dialogue type : qy^rt
+G :  is the CogSci department that you were talking about ?
+
+dialogue type : s^e^rt
+G :  uh reaching out to ?
+
+dialogue type : s^df
+G :  Cuz we have you know people from other areas
+
+dialogue type : s^2
+G :  advertise in their classes as well .
+
+dialogue type : s
+G :  Cuz I mean I I know how to contact our students ,
+
+dialogue type : s
+G :  so if there 's something that you 're sending out you can also s um send me a copy ,
+
+dialogue type : s^cs.%--
+G :  me or Bhaskara could either of us could post it to
+
+dialogue type : fh
+G :  uh
+
+dialogue type : %-
+G : 
+
+dialogue type : s
+G :  if it 's a general solicitation that you know is just contact you then we can totally pro post it to the news group
+
+dialogue type : fh
+G :  so .
+
+dialogue type : s^bk
+G :  OK ,
+
+dialogue type : qy^rt
+G :  so you 'll send it
+
+dialogue type : qr^bu^rt
+G :  or something
+
+dialogue type : fh
+G :  so .
+
+dialogue type : s
+G :  You can send it to me .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^co
+G :  Don't worry ,
+
+dialogue type : s^df
+G :  we this doesn't concern you anymore , Robert .
+
+dialogue type : s^ba
+G :  It 's fine .
+
+dialogue type : s^fe
+G :  Oops .
+
+dialogue type : qy^br^d^m^rt
+G :  Already ?
+
+dialogue type : qh
+G :  Really ?
+
+dialogue type : s^fe
+G :  Oops .
+
+dialogue type : s^no^rt
+G :  I don't remember getting anything .
+
+dialogue type : s^bk
+G :  Mm - hmm .
+
+dialogue type : fg|qy^bu^d
+G : 
+
+dialogue type : s^bu
+G :  so you still have the the nice thing about having data where you know what the actual intention was ?
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s:s
+G :  There 's nothing that says you know " these are the things you want to do "
+
+dialogue type : s:s
+G :  so they 'll say " well these are the things I want to do "
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Right ,
+
+dialogue type : s^bu
+G :  so they 'll have a little bit more natural interaction ?
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : qy^bu^d.%--
+G : 
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^no
+G :  I didn't know he was the founder .
+
+dialogue type : %-
+G : 
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bu
+G :  Using this new new um plan ,
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : qw^t3
+G :  So what 's the s this is what you made , Fey ?
+
+dialogue type : qy^bu^d^rt^t3
+G :  Like so So it 's just based on like the materials you had about Heidelberg .
+
+dialogue type : s^bk
+G :  Oh OK
+
+dialogue type : s
+G :  there 's a web site
+
+dialogue type : s.%--
+G :  and then you could like um figure out what the cate
+
+dialogue type : s^bk^t3
+G :  OK .
+
+dialogue type : s^bk^t3
+G :  OK .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : fg|qy.%--
+G : 
+
+dialogue type : fh
+G :  Um .
+
+dialogue type : s
+G :  The The goals that we 've d you guys have been talking about are this these you know identifying which of three modes um their question uh concerns .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+G :  So the interaction beforehand will give them hints about how specific or how whatever though the kinds of questions that are going to ask during the actual session ?
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk|s
+G :  OK , that 's what I mean
+
+dialogue type : s^bu
+G :  so like those tasks are all gonna be um unambiguous about which of the three modes .
+
+dialogue type : s^bk
+G :  Right . OK .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : qy^d^rt
+G :  t That they 'll be here ?
+
+dialogue type : s^aa|s
+G :  Yeah w it doesn't really have much meaning to grad students
+
+dialogue type : s
+G :  but final projects might .
+
+dialogue type : %--
+G : 
+
+dialogue type : %
+G :  Ye
+
+dialogue type : qy^bu^d^rt
+G :  So , no sample generator output yet ?
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s
+G :  This is being sent ,
+
+dialogue type : b
+G :  mm - hmm .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s
+G :  So that was like one of the first l You know , the first task was getting it working for English .
+
+dialogue type : s
+G :  So that 's basically over now .
+
+dialogue type : qy^rt
+G :  Is that right ?
+
+dialogue type : s^bu
+G :  So the basic requirement fulfilled .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^2
+G :  So the speech recognizer also works .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^2
+G :  If and they 're kind of correct .
+
+dialogue type : s
+G :  And they kind of are are correct .
+
+dialogue type : s^e
+G :  It 's not just like anything .
+
+dialogue type : s^e
+G :  And they 're mostly in English .
+
+dialogue type : fh.x
+G :  So .
+
+dialogue type : qy^rt
+G :  Are they is it using the database ?
+
+dialogue type : s^e
+G :  the German TV movie .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s
+G :  So all the actual data might be German names ?
+
+dialogue type : qrr
+G :  Or are they all like American TV programs ?
+
+dialogue type : b^rt
+G :  Mm - hmm ,
+
+dialogue type : b
+G :  mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s^bu^rt
+G :  But they 're shown like on a screen .
+
+dialogue type : qy^bu.%--
+G :  It 's a I mean so would the generator ,
+
+dialogue type : s^bu:s
+G :  like the English language sentence of it is " these are the follow you know the following films are being shown " or something like that ?
+
+dialogue type : %-
+G :  S
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bu
+G :  Forced motion and caused action for instance ,
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^aa|s
+G :  Yeah . It 's the shadow .
+
+dialogue type : b.%
+G :  Right .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+G :  This is the uh what the action planner uses ?
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : qy^bu^d^rt
+G :  And is that and tha that 's changeable ?
+
+dialogue type : qrr
+G :  or not ?
+
+dialogue type : qy^e^rt
+G :  Like are we adapting to it ?
+
+dialogue type : qrr.%--
+G : 
+
+dialogue type : b
+G :  Oh , yeah .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : qw
+G :  What did you think he was doing ?
+
+dialogue type : s^fe^t^tc
+G :  OK , sorry .
+
+dialogue type : s
+G :  You look up here .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bu.%-
+G : 
+
+dialogue type : b
+G :  Right ?
+
+dialogue type : s^e
+G :  that doesn't hurt the current way .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Good .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk|qy^rt
+G :  Yeah can you go back to that one ?
+
+dialogue type : s
+G :  So the fillers of the role source .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : fg|s.%--
+G :  OK , so th
+
+dialogue type : s^fa|s^df.%--
+G :  sorry I just don't kn
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  This is just uh XML mo notational
+
+dialogue type : s
+G :  but um the fact that it 's action schema and then sort of slash action schema
+
+dialogue type : s.%--
+G :  that 's a whole entit
+
+dialogue type : s^bk^m
+G :  That 's a block ,
+
+dialogue type : qy^bu^d^rt
+G :  whereas source is just an attribute ?
+
+dialogue type : qy.%-
+G : 
+
+dialogue type : s^bk
+G :  Oh , OK , OK .
+
+dialogue type : b
+G :  Uh - huh , uh - huh .
+
+dialogue type : s^bk|s.%-
+G : 
+
+dialogue type : b
+G :  OK .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b^rt
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : qy^bu^d^rt
+G :  So I guess the question is when you actually fill one of these out , it 'll be under action schema ?
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^bu.%-
+G : 
+
+dialogue type : s^bk|s
+G :  OK these are this is just a layout of the possible that could go play that role .
+
+dialogue type : s^bk
+G :  OK , go it .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : fg
+G :  S S
+
+dialogue type : fg|s
+G :  OK , so one question .
+
+dialogue type : s
+G :  This was in this case it 's all um clear , sort of obvious ,
+
+dialogue type : s
+G :  but you can think of the Enter , View and Approach as each having their roles ,
+
+dialogue type : qy^d^f^g
+G :  right ?
+
+dialogue type : s
+G :  the I mean it 's it 's implicit that the person that 's moving is doing entering viewing and approaching ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  they 're sort of like action specific roles and the more general Source - Path - Goal specific roles .
+
+dialogue type : qr
+G :  So are we worrying about that or not for now ?
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : qw^br
+G :  What 's that ?
+
+dialogue type : s^bk|s.%--
+G : 
+
+dialogue type : s^rt
+G :  I I may be just um reading this and interpreting it into my head in the way that I 've always viewed things
+
+dialogue type : s
+G :  and that that may or may not be what you guys intended .
+
+dialogue type : s.%--
+G :  But if it is , then the top block is sort of like
+
+dialogue type : fh|s.%--
+G :  um , you know , you have to list exactly what X - schema
+
+dialogue type : s^bsc.%--
+G :  or in this action schema ,
+
+dialogue type : s
+G :  there 'll be a certain one , that has its own s structure
+
+dialogue type : s
+G :  and maybe it has stuff about that specific to entering or viewing or approaching ,
+
+dialogue type : s.%--
+G :  but those could include roles like the thing that you 're viewing , the thing that you 're entering , the thing that you 're
+
+dialogue type : s
+G :  whatever ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  think think of enter , view and approach as frames
+
+dialogue type : s
+G :  and they have frame - specific parameters and and roles
+
+dialogue type : s
+G :  and you can also describe them in a general way as Source - Path - Goal schema
+
+dialogue type : qh
+G :  and maybe there 's other image schemas that you could you know add after this that you know , how do they work in terms of you know a force dynamics
+
+dialogue type : qh
+G :  or how do they work in f terms of other things .
+
+dialogue type : s
+G :  So all of those have um basically f either specific frame specific roles or more general frame specific roles that might have binding .
+
+dialogue type : qr
+G :  So the question is are um how to represent when things are linked in a certain way .
+
+dialogue type : s
+G :  So we know for Enter that there 's Container potentially involved
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  uh I don't know if you wanna have in the same level as the action schema SPG schema
+
+dialogue type : s
+G :  it it 's somewhere in there that you need to represent that there is some container
+
+dialogue type : s
+G :  and the interior of it corresponds to some part of the Source - Path - Goal um you know goal uh goal I guess in this case .
+
+dialogue type : fh|qy
+G :  So uh is there an easy way in this notation to show when there 's identity basically between things
+
+dialogue type : s
+G :  and I di don't know if that 's something we need to invent
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^bk
+G :  It 's OK .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : b
+G :  Exactly .
+
+dialogue type : b
+G :  Right , right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s^ba
+G :  Oh great .
+
+dialogue type : b
+G :  s Uh - huh .
+
+dialogue type : fg
+G :  Great .
+
+dialogue type : s
+G :  That 's exactly what is necessary .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : qy
+G :  So you know happen to know how what what " sooner or later " means like in practice ?
+
+dialogue type : s^e
+G :  Or estimated .
+
+dialogue type : s^bk
+G :  OK , OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s
+G :  So a pointer a way to really say pointers .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : b
+G :  OK , yeah .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b^rt
+G :  Uh - huh .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s^bu
+G :  So you have constraints that are dependent on the c actual s specific filler , uh , of some attribute .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : %
+G :  Tsk .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^e
+G :  Or the Gateway Arch in St .
+
+dialogue type : s
+G :  Louis .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^ba
+G :  Whi - which is not bad ,
+
+dialogue type : s^df.%--
+G :  because I mean , that there 's multiple sens
+
+dialogue type : s^df
+G :  I mean that particular case , there 's mult there there 's a forced side of of that verb as well .
+
+dialogue type : qy.%-
+G : 
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bu
+G :  Under so o under action schema there 's a list that can include both both things .
+
+dialogue type : s^ba
+G :  That 's interesting .
+
+dialogue type : qw^br
+G :  What ?
+
+dialogue type : s^fa
+G :  Oop .
+
+dialogue type : %-
+G :  I d f
+
+dialogue type : %
+G : 
+
+dialogue type : s^t1
+G :  I see .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : fg
+G :  Interesting .
+
+dialogue type : qy.%--
+G : 
+
+dialogue type : s
+G :  I mean you could have a flat structure and just say these are two independent things ,
+
+dialogue type : s
+G :  but there 's also this sort of like causal ,
+
+dialogue type : s
+G :  well , so one is really facilitating the other and it 's part of a compound action of some kind , which has structure .
+
+dialogue type : s^ba
+G :  uh I I think that 's nicer for a lot of reasons
+
+dialogue type : s^bd
+G :  but might be a pain
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  I mean there are truly times when you have two totally independent goals that they might express at once ,
+
+dialogue type : s
+G :  but in this case it 's really like there 's a purpo means that you know f for achieving some other purpose .
+
+dialogue type : b^rt
+G :  Uh - huh .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s
+G :  See that that bothers me that they 're the same thing .
+
+dialogue type : s^aa
+G :  Yeah
+
+dialogue type : s^df
+G :  because they 're two different things
+
+dialogue type : s.%--
+G :  one of which is l
+
+dialogue type : s
+G :  you could think of one a sub you know pru whatever pre - condition for the second .
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : b
+G :  Yeah , yeah .
+
+dialogue type : fg
+G :  So . So . OK .
+
+dialogue type : s
+G :  So there 's like levels of granularity .
+
+dialogue type : s
+G :  So uh there 's there 's um a single event of which they are both a part .
+
+dialogue type : s
+G :  And they 're independently they they are events which have very different characters as far as Source - Path - Goal whatever .
+
+dialogue type : s
+G :  So when you identify Source - Path - Goal and whatever , there 's gonna to be a desire , whatever , eating , hunger ,
+
+dialogue type : s
+G :  whatever other frames you have involved , they have to match up in in nice ways .
+
+dialogue type : s
+G :  So it seems like each of them has its own internal structure and mapping to these schemas
+
+dialogue type : s^e.%--
+G : 
+
+dialogue type : s^bd
+G :  But you know that 's just That 's just me .
+
+dialogue type : %--
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+G :  Between you guys
+
+dialogue type : fh
+G :  uh
+
+dialogue type : b
+G :  OK .
+
+dialogue type : s^aa|s^ba^na
+G :  yeah that would be that would be nice .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Mayb - yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b.%
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : %--
+G :  M Th
+
+dialogue type : s.%--
+G :  The other thing that I just thought of is that you could want to go to the bakery because you 're supposed to meet your friend there or som
+
+dialogue type : s
+G :  you know so you like being able to infer the second thing is very useful and probably often right .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^ng
+G :  Well maybe their friend said they were going to meet them in a bakery around the area .
+
+dialogue type : s^bd
+G :  And I 'm , yeah I 'm I 'm inventing contexts which are maybe unlikely ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^df
+G :  but it 's still the case that um you could you could override that default by giving extra information
+
+dialogue type : s:s
+G :  which is to me a reason why you would keep the inference of that separate from the knowledge of " OK they really want to know if there 's a bakery around here " ,
+
+dialogue type : s
+G :  which is direct .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b^rt
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Exactly .
+
+dialogue type : s
+G :  It 's I met someone at the bakery you know in the Victoria Station t you know train station London before ,
+
+dialogue type : b
+G :  yeah .
+
+dialogue type : %--
+G : 
+
+dialogue type : qy^rt
+G :  J Do you mean within the Source - Path - Goal actions ?
+
+dialogue type : qy^bu^d^rt
+G :  Those three ?
+
+dialogue type : b.%
+G :  Hmm .
+
+dialogue type : s^bu
+G :  So there 's a bit a redundancy ,
+
+dialogue type : qy^d^g^rt
+G :  right ?
+
+dialogue type : s
+G :  in in which the things that go into a particular You have categories at the top under action schema
+
+dialogue type : s
+G :  and the things that go under a particular category are um supposed to have a corresponding schema definition for that type .
+
+dialogue type : qw
+G :  So I guess what 's the function of having it up there too ?
+
+dialogue type : s^e
+G :  I mean I guess I 'm wondering whether You could just have
+
+dialogue type : s
+G :  under action schema you could just sort of say whatever you know it 's gonna be Enter , View or Approach or whatever number of things
+
+dialogue type : s^df
+G :  and pos partly because you need to know somewhere that those things fall into some categories .
+
+dialogue type : s
+G :  And it may be multiple categories as you say which is um the reason why it gets a little messy
+
+dialogue type : s
+G :  um but if it has if it 's supposed to be categorized in category X then the corresponding schema X will be among the structures that that follow .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^bk
+G :  OK ,
+
+dialogue type : s^fa
+G :  sorry .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : s
+G :  But now you guys have seen the light .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s
+G :  I it 's easy to go back and forth
+
+dialogue type : qy^d^g^rt
+G :  isn't it ?
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : fg
+G :  I agree .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : fg
+G :  Right .
+
+dialogue type : s
+G :  Which is why I would think you would say Enter
+
+dialogue type : s
+G :  and then just say all the things that are relevant specifically to Enter .
+
+dialogue type : s
+G :  And then the things that are abstract will be in the abstract things as well .
+
+dialogue type : s
+G :  And that 's why the bindings become useful .
+
+dialogue type : h|s
+G :  Um Ye - I see what you mean by that ,
+
+dialogue type : s^arp^df
+G :  but I I don't if I would I would need to have t have that .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : b^rt
+G :  Uh - huh .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s.%--
+G :  I in fact what you could say is for Enter ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : %-
+G :  you know i
+
+dialogue type : s^aa^m
+G :  list all the parent categories " .
+
+dialogue type : s
+G :  It 's just like a frame hierarchy ,
+
+dialogue type : qy^d^f^g^rt
+G :  right ?
+
+dialogue type : s^e
+G :  like you have these blended frames .
+
+dialogue type : s^cs
+G :  So you would say enter and you 'd say my parent frames are such - and - such ,
+
+dialogue type : s
+G :  h and then those are the ones that actually you then actually define and say how the roles bind to your specific roles
+
+dialogue type : s^ba
+G :  which will probably be f richer and fuller and have other stuff in there .
+
+dialogue type : s^bk|s
+G :  Yeah it could be not a coincidence .
+
+dialogue type : s^bd
+G :  Like I said , I 'm sure I 'm just hitting everything with a hammer that I developed ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  I 'm just telling you what I think ,
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s
+G :  Metacomment .
+
+dialogue type : s^fe^j
+G :  " Damn this project . "
+
+dialogue type : s^bd
+G :  No just kidding .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : b.%
+G :  OK .
+
+dialogue type : s^cs^j
+G :  " Approach and then enter . "
+
+dialogue type : s^cs^j
+G :  Run like this
+
+dialogue type : fh
+G : 
+
+dialogue type : b^rt
+G :  Mm - hmm .
+
+dialogue type : s^bd|s^ba
+G :  No , this is the useful ,
+
+dialogue type : s^co
+G :  you know , don don't worry .
+
+dialogue type : s^aa
+G :  Yeah ,
+
+dialogue type : s^na
+G :  I can guarantee that .
+
+dialogue type : s^bu
+G :  And you could have also indicated that by saying " Enter , what are the kinds of action I am ? "
+
+dialogue type : qy^d^g
+G :  Right ?
+
+dialogue type : s
+G :  So there 's just like sort of reverse organization ,
+
+dialogue type : qy^d^g^rt
+G :  right ?
+
+dialogue type : qy
+G :  So like unless @ @ Are there reasons why one is better than the other I mean that come from other sources ?
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : fh
+G :  uh
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk|s^bu
+G :  OK , so it 's just like a pain to have to send it .
+
+dialogue type : s^bk|s
+G :  OK , I understand .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^ba
+G :  Be great .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^fe
+G :  Oh !
+
+dialogue type : s^bk|%-
+G : 
+
+dialogue type : s^aa|s^ba
+G :  R Yeah , yeah . That 's fine .
+
+dialogue type : s^aa
+G :  Uh that 's true .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : fg
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : qy^bu^d^rt
+G :  Bread rolls ?
+
+dialogue type : s^m.%--
+G :  Pastry
+
+dialogue type : s^bk|s
+G :  oh ba oh the bak bakery example .
+
+dialogue type : s^bk
+G :  I see .
+
+dialogue type : b
+G :  Right . OK .
+
+dialogue type : s^ba
+G :  I guess I 'll agree to that , then .
+
+dialogue type : qy^rt
+G :  I n Didn't you say something about Friday ,
+
+dialogue type : qrr.%-
+G :  or ?
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : s
+G :  So do I .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^ba
+G :  That would be good .
+
+dialogue type : s^ba
+G :  So three is sounds good ?
+
+dialogue type : s
+G :  I 'll be free by then .
+
+dialogue type : s^ba
+G :  " That 's the right answer . "
+
+dialogue type : qy^d
+G :  And you guys will argue some more ?
+
+dialogue type : %--
+G :  and have some ?
+
+dialogue type : s^am
+G :  probably .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  And we 'll get the summary
+
+dialogue type : s^e
+G :  like , this the c you know , short version ,
+
+dialogue type : %--
+G : 
+
+dialogue type : %--
+G :  S
+
+dialogue type : s^cc^j
+G :  Like have it we 'll have it in writing .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^cc^e^j
+G :  or , better , speech .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^bk^rt
+G :  Oh yeah
+
+dialogue type : %-
+G :  uh
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s
+G :  I have several in my head ,
+
+dialogue type : b
+G :  yeah .
+
+dialogue type : s
+G :  Always thinking about binding .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s
+G :  So , in general they 'll be bindings across both intentions and the actions .
+
+dialogue type : fh
+G : 
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s
+G :  So it 's gen it 's general across all of these things
+
+dialogue type : s
+G :  it 's like I mean Shastri would say you know binding is like an essential cognitive uh process .
+
+dialogue type : fh
+G :  So . Um .
+
+dialogue type : s
+G :  So I don't think it will be isolated to one or the two ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : fh|s.%--
+G : 
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  I would be curious to see how separate the intention part and the action part are in the system .
+
+dialogue type : s
+G :  Like I know the whole thing is like intention lattice , or something like that ,
+
+dialogue type : qy^d^g
+G :  right ?
+
+dialogue type : s^bu
+G :  So is the ri right now are the ideas the rich rich the RAD or whatever is one you know potential block inside intention .
+
+dialogue type : s^bu
+G :  It 's still it 's still mainly intention hypothesis
+
+dialogue type : s^bu
+G :  and then that 's just one way to describe the the action part of it .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bk
+G :  OK , great uh - huh .
+
+dialogue type : s^2^bu
+G :  Not just that you want to go from here to here ,
+
+dialogue type : s
+G :  it 's that the action is what you intend
+
+dialogue type : s
+G :  and this action consists of all com complicated modules and image schemas and whatever .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : %--
+G :  which is ,
+
+dialogue type : s^ba
+G :  yeah , It 's fine
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b^rt
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : fg|s^bu
+G :  Mmm . We know the things that make use of this thing so that we can just change them so that they make use of RAD .
+
+dialogue type : s
+G :  I can't believe we 're using this term .
+
+dialogue type : s^j
+G :  So I 'm like RAD !
+
+dialogue type : s^ba
+G :  Like every time I say it , it 's horrible .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s
+G :  I see what you mean .
+
+dialogue type : qy.%-
+G : 
+
+dialogue type : qw
+G :  But what is the " why " ?
+
+dialogue type : qw^r
+G :  Why ?
+
+dialogue type : s^bk|s
+G :  Yeah . That 's doesn't make it a great term .
+
+dialogue type : s
+G :  It 's just like those jokes where you have to work on both levels .
+
+dialogue type : qy^rt
+G :  Do you see what I mean ?
+
+dialogue type : %-
+G :  Like
+
+dialogue type : s^bk
+G :  Oh .
+
+dialogue type : b
+G :  Oh .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Oh .
+
+dialogue type : s^bk
+G :  Yeah . OK .
+
+dialogue type : qw^rt
+G :  But what if it 's not an action ?
+
+dialogue type : qy^bu^d^j^rt
+G :  And intentions will be " RID " ?
+
+dialogue type : %--
+G :  Like ,
+
+dialogue type : s^bk
+G :  " OK " .
+
+dialogue type : fg|qy.%--
+G : 
+
+dialogue type : %--
+G : 
+
+dialogue type : s
+G :  maybe maybe you 're gonna run a trial tomorrow .
+
+dialogue type : s
+G :  I mean , I 'm just wondering whether the ac some the actual sentences from this domain will be available .
+
+dialogue type : s^df
+G :  Cuz it 'd be nice for me to like look if I 'm thinking about examples
+
+dialogue type : s
+G :  I 'm mostly looking at child language which you know will have some overlap but not total with the kinds of things that you guys are getting .
+
+dialogue type : s
+G :  So you showed some in this here before
+
+dialogue type : s
+G :  and maybe you 've posted it before
+
+dialogue type : qw
+G :  but where would I look if I want to see ?
+
+dialogue type : %--
+G :  You know .
+
+dialogue type : s
+G :  No just just transcript .
+
+dialogue type : s^fa^t3
+G :  Sorry .
+
+dialogue type : s^bk
+G :  Oh , OK .
+
+dialogue type : s
+G :  I take that back then .
+
+dialogue type : s^bk|s^co
+G : 
+
+dialogue type : s
+G :  I In fact if you just tell me like you know like two examples
+
+dialogue type : %--
+G :  I mean , y
+
+dialogue type : s
+G :  The the the representational problems are I 'm sure , will be there ,
+
+dialogue type : s
+G :  like enough for me to think about .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : qy^bu^d^rt
+G :  Here .
+
+dialogue type : s^bk
+G :  OK .
+

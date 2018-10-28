@@ -1,0 +1,879 @@
+dialogue type : z
+E :  As close to your mouth as you can get it .
+
+dialogue type : z
+E :  OK , so for for For people wearing the wireless mikes , like like this one , I find the easiest way to wear it is sorta this this sorta like that .
+
+dialogue type : z
+E :  It 's actually a lot more comfortable then if you try to put it over your temples ,
+
+dialogue type : z
+E : 
+
+dialogue type : z
+E :  And then also , for for all of them , if your boom is adjustable , the boom should be towards the corner of your mouth ,
+
+dialogue type : z
+E :  and about a uh a thumb to a thumb and a half distance away from your mouth ,
+
+dialogue type : z
+E :  so about like I 'm wearing it now .
+
+dialogue type : z
+E :  so so Jane , you could actually do even a little closer to your mouth ,
+
+dialogue type : z
+E : 
+
+dialogue type : z
+E :  Yep .
+
+dialogue type : z
+E :  Channel five , s speak again .
+
+dialogue type : z
+E :  Yeah , that 's alright .
+
+dialogue type : z
+E :  I mean , we could we could up the gain slightly if you wanted to .
+
+dialogue type : z
+E : 
+
+dialogue type : z
+E :  Uh , channel B is probably Liz .
+
+dialogue type : z
+E :  Thank you .
+
+dialogue type : z
+E :  Yeah , it 's alright .
+
+dialogue type : z
+E :  So , the gain isn't real good .
+
+dialogue type : fg
+E :  OK ,
+
+dialogue type : fg|s^aa
+E :  so we are recording .
+
+dialogue type : fh|s^t
+E :  Um everyone should have at least two forms possibly three in front of you depending on who you are .
+
+dialogue type : s^co
+E :  Um we we 're doing a new speaker form and you only have to spea fill out the speaker form once
+
+dialogue type : s^co
+E :  but everyone does need to do it .
+
+dialogue type : s
+E :  And so that 's the name , sex , email , et cetera .
+
+dialogue type : s
+E :  We we had a lot of discussion about the variety of English and so on
+
+dialogue type : s^co
+E :  so if you don't know what to put just leave it blank .
+
+dialogue type : fh|s
+E :  Um I I designed the form and I don't know what to put for my own region ,
+
+dialogue type : fh
+E :  so
+
+dialogue type : s^bk^m
+E :  California .
+
+dialogue type : s^aa
+E :  Sure .
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : qy^bu^d^rt
+E :  Birth year ?
+
+dialogue type : s
+E :  Well I guess it depends on how long the corpus is gonna be collected for .
+
+dialogue type : %--
+E :  Either way
+
+dialogue type : fh|s
+E :  yeah I think I think age is alright
+
+dialogue type : s
+E :  and then um there will be attached to this a point or two these forms uh so that you 'll be able to extract the date off that
+
+dialogue type : fh
+E :  so , anyway .
+
+dialogue type : s
+E :  And so then you also have a digits form which needs to be filled out every time , the speaker form only once , the digit form every time
+
+dialogue type : s^co
+E :  even if you don't read the digits you have to fill out the digits form so that we know that you were at the meeting .
+
+dialogue type : qy^d^f^g^rt
+E :  OK ?
+
+dialogue type : s^co
+E :  And then also if you haven't filled one out already you do have to fill out a consent form .
+
+dialogue type : s
+E :  And that should just be one person whose name I don't know .
+
+dialogue type : qy^d^f^g
+E :  OK ?
+
+dialogue type : h|s^aa
+E :  Uh sure .
+
+dialogue type : s^ft
+E :  Thank you .
+
+dialogue type : qy^cs^rt^t
+E :  OK so should we do agenda items ?
+
+dialogue type : s^t
+E :  Uh well I have I wanna talk about new microphones and wireless stuff .
+
+dialogue type : s
+E :  And I 'm sure Liz and Andreas wanna talk about recognition results .
+
+dialogue type : qo^d^rt
+E :  Anything else ?
+
+dialogue type : s^co
+E :  Why don't you go first then .
+
+dialogue type : s^na
+E :  Or so .
+
+dialogue type : b.%
+E :  Hmm .
+
+dialogue type : %--
+E : 
+
+dialogue type : qy^rt
+E :  was that did that did that recording have the glitch in the middle ?
+
+dialogue type : s^no
+E :  I don't remember when it is .
+
+dialogue type : sj^fe
+E :  Oh no .
+
+dialogue type : s
+E :  Oh so that was just a parsing mismatch .
+
+dialogue type : b
+E :  Alright .
+
+dialogue type : s
+E :  The the glitch
+
+dialogue type : b.%
+E :  yeah .
+
+dialogue type : %
+E :  Th - the
+
+dialogue type : b
+E :  yeah .
+
+dialogue type : s
+E :  There there there 's an acoustic glitch that occurs where um the channels get slightly asynchronized
+
+dialogue type : s
+E :  so the that that problem has gone away in the original driver believe it or not when the SSH key gen ran the driver paused for a fraction of a second
+
+dialogue type : s
+E :  and so the channels get a little asynchronous
+
+dialogue type : s
+E :  and so if you listen to it in the middle there 's a little part where it starts doing doing click sounds .
+
+dialogue type : %-
+E :  But
+
+dialogue type : s^aa
+E :  yeah
+
+dialogue type : %--
+E : 
+
+dialogue type : s^aa|s^na
+E :  right once in the middle .
+
+dialogue type : s
+E :  Um But that shouldn't affect anything
+
+dialogue type : b
+E :  yeah yeah
+
+dialogue type : s^j
+E :  " bah "
+
+dialogue type : s
+E :  Well the acoustic one shouldn't do anything .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^r
+E :  I do remember seeing once the transcriber produce an incorrect XML file where one of the synch numbers was incorrect .
+
+dialogue type : s
+E :  Where where they weren't monotonic .
+
+dialogue type : s^bk
+E :  Oh OK
+
+dialogue type : s.%-
+E :  so that 's
+
+dialogue type : fg|s^na
+E :  yeah sounds like a bug .
+
+dialogue type : s.%-
+E :  The other one I saw was that it
+
+dialogue type : b
+E :  yeah .
+
+dialogue type : s
+E :  The other one I saw was non non - monotonic synch times
+
+dialogue type : s
+E :  and that definitely indicra indicates a bug .
+
+dialogue type : sj^ba
+E :  So that 's very encouraging .
+
+dialogue type : s^rt
+E :  I and as I said I would like to look at the lattices
+
+dialogue type : s^df
+E :  because it sounded like even the ones it got wrong it sort of got it right ?
+
+dialogue type : %-
+E :  Sounds likes ?
+
+dialogue type : s^bk
+E :  Yeah ,
+
+dialogue type : qh^nd
+E :  and who cares ?
+
+dialogue type : s
+E :  And and there were lots of of course the " uh uh " - s , " in on " - s " of uh " - s .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Ri - ri right .
+
+dialogue type : qy^bu^rt
+E :  Did you say there 's no language for PZM ?
+
+dialogue type : qy^rt
+E :  Do you mean so every time someone says PZM it 's an error ?
+
+dialogue type : s^cs^j
+E :  Maybe we shouldn't say PZM in these meetings .
+
+dialogue type : s^bk^j
+E :  Yeah , that 's right , Jimlet .
+
+dialogue type : s^aa
+E :  Yeah , that 's right .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : sj^ba
+E :  Excellent .
+
+dialogue type : s^na.%--
+E : 
+
+dialogue type : s
+E :  the first run I ran of Switchboard I got a hundred twenty percent word error
+
+dialogue type : fh
+E :  but
+
+dialogue type : s^t3
+E :  Not Switchboard ,
+
+dialogue type : s^t3
+E :  uh Broadcast News .
+
+dialogue type : sj^ba
+E :  Yeah , so that 's great .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa|s^ba^na
+E :  Right , it was not a big deal .
+
+dialogue type : s
+E :  Although combining em worked well .
+
+dialogue type : qy^d^rt
+E :  And it said a hundred percent male ?
+
+dialogue type : qy^bh^d^rt
+E :  Oh it did ?
+
+dialogue type : qy^d^j
+E :  It got all two genders ?
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^2
+E :  Sheep .
+
+dialogue type : s
+E :  A sheep .
+
+dialogue type : s
+E :  Baah .
+
+dialogue type : s^cs
+E :  Or just dictionary .
+
+dialogue type : s
+E :  And I have to try it on the far field mike
+
+dialogue type : fh
+E :  yeah .
+
+dialogue type : s
+E :  Well we 've done that for one meeting .
+
+dialogue type : h|s^bk
+E :  Uh oh oh
+
+dialogue type : s^bu
+E :  f not for words
+
+dialogue type : s^bs^fa
+E :  I 'm sorry just for overlaps is we did it for not not for words .
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : s^cs
+E :  So we might want to take twenty minutes and do a closer word level transcription .
+
+dialogue type : s^cs
+E :  Maybe actually mark the word boundaries .
+
+dialogue type : b
+E :  Right , right .
+
+dialogue type : qy^bu^d^rt
+E :  That we 're starting so well ?
+
+dialogue type : s^co^ng
+E :  Don't worry about it
+
+dialogue type : s
+E :  w d that 's that 's the close talking mikes .
+
+dialogue type : s^co.%-
+E :  Try it on the P Z Ms and and
+
+dialogue type : s^aa.%--
+E :  Yeah , abso
+
+dialogue type : h|s^ar.%-
+E :  well no but
+
+dialogue type : sj^ba
+E :  Yeah , it 's really good .
+
+dialogue type : s
+E :  It 's human subjects issues ,
+
+dialogue type : s
+E :  I told you about that .
+
+dialogue type : s^nd
+E :  That that 's not the issue ,
+
+dialogue type : s
+E :  it 's just the audio data itself ,
+
+dialogue type : s
+E :  until people have a chance to edit it .
+
+dialogue type : s
+E :  It 's us .
+
+dialogue type : b
+E :  Alright
+
+dialogue type : s^co
+E :  we need to work at a system for doing that approval so that we can send people the transcripts
+
+dialogue type : s^co
+E :  and get back any bleeps that they want
+
+dialogue type : s
+E :  I don't think we even know which one
+
+dialogue type : qy^bu^d^rt
+E :  I assume you 're using syncat to do it ?
+
+dialogue type : qrr^d
+E :  Or sound resample ?
+
+dialogue type : s^2
+E :  Resample .
+
+dialogue type : s^j
+E :  Yeah and Dan 's archaic acronyms .
+
+dialogue type : s^arp
+E :  Not all of them .
+
+dialogue type : s^2
+E :  And a few of the consonants .
+
+dialogue type : sj
+E :  I suspect that 's sort of premature optimization ,
+
+dialogue type : fh
+E :  but
+
+dialogue type : fh
+E :  Sure .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+E :  It 's about a fifty minute drive ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s
+E :  It just seems to me that , you know small changes to the language model and the vocabulary will so swamp that that it may be premature to worry about that .
+
+dialogue type : s
+E :  I mean so one is a half a percent better than the other
+
+dialogue type : s
+E :  I don't think that gives you any information .
+
+dialogue type : s^bk
+E :  Yep .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : s
+E :  There 's one level that 's already happening right here .
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : s
+E :  And it gets downsampled to sixteen .
+
+dialogue type : b.%
+E : 
+
+dialogue type : s
+E :  And I have no idea what filter it 's using ,
+
+dialogue type : fh
+E :  so
+
+dialogue type : s
+E :  Telephone .
+
+dialogue type : s
+E :  So sixteen seems to be pretty typical for with this sort of thing .
+
+dialogue type : s^2
+E :  That isn't music .
+
+dialogue type : qw^rt
+E :  Why is that ?
+
+dialogue type : s
+E :  All the way around I 'd think .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  We 're gonna have plenty of low frequency on the P Z Ms with the fans .
+
+dialogue type : qy^bu^d^rt
+E :  Dot EDU ?
+
+dialogue type : s^na
+E :  Yeah , we could do it with the cross pads .
+
+dialogue type : s^cs^na
+E :  Yeah , and use that .
+
+dialogue type : sj^ba
+E :  Not a bad idea .
+
+dialogue type : s^no
+E :  I don't know .
+
+dialogue type : s^no^r
+E :  I don't know .
+
+dialogue type : s^cc
+E :  I 'll send mail to Dan and ask .
+
+dialogue type : s
+E :  I I think that it 's the maximum we can do without a lot of effort
+
+dialogue type : s
+E :  because it 's one board with two digital channels .
+
+dialogue type : s^e
+E :  E eight each .
+
+dialogue type : s
+E :  So it it takes two fibers in to the one board .
+
+dialogue type : s
+E :  And so w I think if we wanna do that more than that we 'd have to have two boards ,
+
+dialogue type : s
+E :  and then you have the synchronization issue .
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : s
+E :  Eight .
+
+dialogue type : s.%
+E :  It 's eight .
+
+dialogue type : s^no
+E :  I have no idea .
+
+dialogue type : s
+E :  But each each fiber channel has eight eight channels
+
+dialogue type : s
+E :  and there are two ch two fibers that go in to the card .
+
+dialogue type : fh
+E :  So
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  I mean then we 'd also have to get another ADD and another mixer and all that sort of stuff .
+
+dialogue type : s^cc
+E :  So I I 'll send a mail to Dan and ask him .
+
+dialogue type : qy^bu^t.%--
+E :  OK on the uh
+
+dialogue type : qy^rt^t
+E :  are we done with that ?
+
+dialogue type : s^t^tc
+E :  So the oth topic is uh getting more mikes and different mikes ,
+
+dialogue type : s
+E :  so I got a quote
+
+dialogue type : fh
+E :  um
+
+dialogue type : s
+E :  We can fit we have room for one more wireless
+
+dialogue type : s.%--
+E :  and the wireless ,
+
+dialogue type : s
+E :  this unit here is three fifty three hundred fifty dollars ,
+
+dialogue type : s^co
+E :  it I didn't realize but we also have to get a tuner the receiver the other end ,
+
+dialogue type : s
+E :  that 's uh four thirty
+
+dialogue type : fh|s.%-
+E :  um and then also
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : s.%-
+E :  And we just need one more so so
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s
+E :  So that 's you know something like seven hundred eighty bucks for one more of these .
+
+dialogue type : fh|s
+E :  Um and then also um It turns out that the connector that this thing uses is proprietary of Sony
+
+dialogue type : s
+E :  believe it or not
+
+dialogue type : s
+E :  and Sony only sells this headset .
+
+dialogue type : s
+E :  So if we wanna use a different set headset the solution that the guy suggested and they apparently lots of people have done is Sony will sell you the jack with just wires coming out the end
+
+dialogue type : s
+E :  and then you can buy a headset that has pigtail and solder it yourself .
+
+dialogue type : s
+E :  And that 's the other solution
+
+dialogue type : s
+E :  and so the jacks are forty bucks apiece
+
+dialogue type : s
+E :  and the he recommended um a crown CM three eleven AE headset for two hundred bucks apiece .
+
+dialogue type : s
+E :  Becau - the reason is the only only thing you can get that will plug into this is this mike or just the connector .
+
+dialogue type : s^na
+E :  Oh I 'm sure they would , they would just charge us ,
+
+dialogue type : fh
+E :  so .
+
+dialogue type : qy
+E :  So so my question is should we go ahead and get na nine identical head - mounted crown mikes ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qw^cs
+E :  So why don't we get one of these with the crown with a different headset ?
+
+dialogue type : s^cs
+E :  And and see if that works .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Right ,
+
+dialogue type : s^2
+E :  it 's just they 're not comfortable to wear .
+
+dialogue type : fg|s
+E :  Um , and he said they don't have any of these in stock but they have them in LA
+
+dialogue type : s
+E :  and so it will take about a week to get here .
+
+dialogue type : fh|qy^d^rt
+E :  Um so OK to just go order ?
+
+dialogue type : s^bk
+E :  OK
+
+dialogue type : qw
+E :  and who is the contact if I wanna do an invoice
+
+dialogue type : s
+E :  cuz I think that 's how we did it before .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  And then nine channels is the maximum we can do ,
+
+dialogue type : fh
+E :  so .
+
+dialogue type : s
+E :  Without getting more stuff .
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : s^aa^j
+E :  Probably .
+
+dialogue type : s^no.%-
+E :  I 'm just not sure how we would handle that in the
+
+dialogue type : s^nd
+E :  Yeah , somehow .
+
+dialogue type : sj^aap
+E :  It 's not a bad idea .
+
+dialogue type : s^2
+E :  A hand - held ,
+
+dialogue type : b
+E :  yeah .
+
+dialogue type : s^cs
+E :  Well we could just hand around the lapel .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : qy^rt
+E :  do you want a handset ?
+
+dialogue type : fg|qy^df^rt
+E :  Well I mean is the is the hand - held really any better ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qy^2^rt
+E :  Is awful ?
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s
+E :  So I wonder if they have one that will hook up .
+
+dialogue type : s^r
+E :  I wonder if they have one that will hook up to this or whether again we 'll have to wire it ourselves .
+
+dialogue type : qw
+E :  What ?
+
+dialogue type : s^cs^rt
+E :  It 's gonna be much easier to get one of these and just plug in a mike ,
+
+dialogue type : qy^bu^d^g^rt
+E :  isn't it ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qy^rt
+E :  And do you think you would be able to use the same receiver ?
+
+dialogue type : s^cc
+E :  OK I 'll I 'll ask .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg
+E :  OK
+
+dialogue type : s
+E :  so I guess people who have to leave can leave
+
+dialogue type : qr^rt^t
+E :  and do we have anything else to discuss or should we just do digits ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b.%
+E :  uh Yep ,
+
+dialogue type : sj^ba
+E :  that 's good .
+
+dialogue type : b
+E :  Yep ,
+
+dialogue type : sj^ba
+E :  that 'd be very interesting .
+
+dialogue type : sj^ba
+E :  I 'd love to hear what they have to say .
+
+dialogue type : sj^ba
+E :  Yeah , I 'd like to hear what they s say .
+
+dialogue type : s^2^cs
+E :  Give us a status .
+
+dialogue type : sj
+E :  That would be weird .
+
+dialogue type : fg|qw^rt
+E :  Oh , where you 're gonna meet ?
+
+dialogue type : qy^d
+E :  I assume we 're not gonna try to record it ?
+
+dialogue type : s^bk
+E :  Alright .
+
+dialogue type : qo^d^rt
+E :  Unless there 's anything else ?
+
+dialogue type : fg|qr^cs
+E :  Uh should y we make him wear Andreas ' mike or would that just be too confusing ?
+
+dialogue type : h|s^no
+E :  Uh yeah I just don't know how we would do that ,
+
+dialogue type : fh
+E :  so .
+
+dialogue type : s
+E :  I mean other than free free form .
+
+dialogue type : s^co
+E :  And just clip it to your collar .
+
+dialogue type : b
+E :  Great .
+
+dialogue type : qy^rt
+E :  And are you staying at Berkeley
+
+dialogue type : qrr
+E :  or is are you just here a semester ?
+
+dialogue type : s^t3
+E :  Ah second and last ,
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Good .
+
+dialogue type : qy^d^rt^t
+E :  Digits ?
+
+dialogue type : z
+E :  And stop .
+

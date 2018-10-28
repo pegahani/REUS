@@ -1,0 +1,1035 @@
+dialogue type : z
+B :  Sorry .
+
+dialogue type : z
+B :  Mental mental Palm Pilot .
+
+dialogue type : z
+B :  Right .
+
+dialogue type : z
+B :  Hence no problem .
+
+dialogue type : z
+B :  Hello I 'm channel one .
+
+dialogue type : z
+B :  Eh .
+
+dialogue type : z
+B :  But mine is correct .
+
+dialogue type : z
+B :  It 's one .
+
+dialogue type : z
+B :  Channel one .
+
+dialogue type : z
+B :  Oh , oh , oh !
+
+dialogue type : z
+B :  Oh .
+
+dialogue type : z
+B : 
+
+dialogue type : z
+B :  But your p
+
+dialogue type : z
+B :  No , but the paper 's correct .
+
+dialogue type : z
+B :  Look at the paper .
+
+dialogue type : z
+B :  Oh .
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  Yes , you 've bested me again .
+
+dialogue type : z
+B :  That 's how I think of our continuing interaction .
+
+dialogue type : z
+B :  Damn !
+
+dialogue type : z
+B :  Foiled again !
+
+dialogue type : s
+B :  He 'll probably come later .
+
+dialogue type : s^2
+B :  Forge ahead .
+
+dialogue type : qy^rt
+B :  Are you in charge ?
+
+dialogue type : s
+B :  Hiring somebody .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b.%
+B :  Mm - hmm .
+
+dialogue type : s^ba^t1
+B :  Better .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Sure .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^no
+B :  I didn't know she spoke German .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : s^bk|s
+B :  Oh . Rewrite the German ones into English .
+
+dialogue type : s^bk
+B :  OK , got it .
+
+dialogue type : s^bk
+B :  OK , got it .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qw
+B :  Wh - Which one ?
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : qw^br^d^rt
+B :  Festival ?
+
+dialogue type : s^bk
+B :  Oh , oh . Got it . OK .
+
+dialogue type : s^aa|s^na
+B :  Yeah , I know .
+
+dialogue type : s
+B :  That doesn't sound , exactly right either .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^cs
+B :  Well , let 's just pick whatever sounds best .
+
+dialogue type : s^r
+B :  Whatever sounds best .
+
+dialogue type : s
+B :  Unfortunately , probably male voices , a bit more research on .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^ng.%--
+B :  Oregon Graduate Insti
+
+dialogue type : b
+B :  Hmm !
+
+dialogue type : %
+B :  Mmm , that 's good .
+
+dialogue type : s^aa
+B :  Yeah , I know .
+
+dialogue type : s^no
+B :  Tha - that 's the part I didn't understand .
+
+dialogue type : b
+B :  Hmm !
+
+dialogue type : qy^rt
+B :  Will it work again ,
+
+dialogue type : qrr.%--
+B :  or ?
+
+dialogue type : s
+B :  Where the " where is " construction is .
+
+dialogue type : fg|s.%-
+B :  Yeah , I didn't know about it until Robert told me , like ,
+
+dialogue type : fg|s:qw
+B :  Y yeah . Well , yeah . I was like , why didn't Dan tell me ?
+
+dialogue type : s^ba
+B :  It 's hard .
+
+dialogue type : s^r
+B :  Yeah , it 's hard .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^ba
+B :  Cool .
+
+dialogue type : s
+B :  I was really strong .
+
+dialogue type : %-
+B : 
+
+dialogue type : fg|s
+B :  Yeah , and and not even all of them really do .
+
+dialogue type : %--
+B : 
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s
+B :  Ah , communication !
+
+dialogue type : s^r
+B :  Communication .
+
+dialogue type : s.%--
+B :  But , uh , but but the two of us will probably talk to you at well before th
+
+dialogue type : %--
+B :  I mean .
+
+dialogue type : s^cs.%-
+B :  Anyway , w let 's talk separately about how t
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s.%-
+B :  One of them was th
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^aa
+B :  I agree .
+
+dialogue type : s
+B :  So you might be yeah , y And asking for directions .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^2
+B :  Slightly different .
+
+dialogue type : b.%
+B :  Good .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^e
+B :  Or have every construction list all the possible pragmatic implications of the same one .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^2
+B :  Request .
+
+dialogue type : s
+B :  Very yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^am
+B :  Might be , yeah .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^2
+B :  Which one it is .
+
+dialogue type : s|s^bk
+B :  Cuz there will be other k examples that are one way or the other . Right .
+
+dialogue type : s.%-
+B :  Kind of a priming
+
+dialogue type : s^2
+B :  priming a spreading activation
+
+dialogue type : s
+B :  Turn prior on .
+
+dialogue type : s^2
+B :  It would already be higher in the context .
+
+dialogue type : fg|s^2
+B :  Yeah , relevance .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^2
+B :  Renew
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^bu|qy^d^rt
+B :  So when you admit have admission fee and it changes something , it 's only for that particular It 's relational , right ?
+
+dialogue type : s^bu^e
+B :  It 's only for that particular object .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^2
+B :  Of that object .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^bu
+B :  So , sort of forward chaining in a way , rather than backward .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s
+B :  Guess it 's like I g The other thing is , whether you have a m m user model that has , you know , whatever , a current plan , whatever , plans that had been discussed ,
+
+dialogue type : %--
+B :  and
+
+dialogue type : s^bd^no
+B :  I don't know ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk|%-
+B :  Oh , s
+
+dialogue type : s^fe^rt
+B :  Yay , it 's not me .
+
+dialogue type : s
+B :  It 's always me when it 's someone 's thesis .
+
+dialogue type : s^fe
+B :  Now it 's not . Yay !
+
+dialogue type : s
+B :  I know it is .
+
+dialogue type : fg|s
+B :  Yeah , he said he 's gonna f finish his thesis by then .
+
+dialogue type : fg|s
+B :  Yeah , we 've we 've done quite a bit of that .
+
+dialogue type : s^r
+B :  We 've been doing quite a bit of that .
+
+dialogue type : s
+B :  We have many jobs for you , Ro - Robert .
+
+dialogue type : s^e
+B :  The conclusion .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^ar|s^nd
+B :  No , you weren't there on purpose .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^e
+B :  Obviously .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ar|s^j^nd
+B :  No , they 're decisions .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^nd.%-
+B :  Actually ,
+
+dialogue type : s^bk|s^nd
+B :  yeah . There 's a problem with that word , too , though .
+
+dialogue type : s
+B :  Well , I 'll just pick a piece of the problem and then just push the hard stuff into the center and say it 's Robert 's .
+
+dialogue type : fh
+B :  Like .
+
+dialogue type : %
+B : 
+
+dialogue type : s|s^bk
+B :  I haven't . OK .
+
+dialogue type : s.%-
+B :  I didn't get
+
+dialogue type : s^ba
+B :  Oh , I guess it 's good I didn't read it .
+
+dialogue type : qy^bh
+B :  Really ?
+
+dialogue type : s^bk^m
+B :  Bomb proof !
+
+dialogue type : s^bk
+B :  Oh ! Oh , OK .
+
+dialogue type : s
+B :  Both .
+
+dialogue type : s^ba
+B :  Good luck . Really .
+
+dialogue type : s
+B :  Usually , he can .
+
+dialogue type : s^aa|s
+B :  Yeah . I always thought it was staying .
+
+dialogue type : fg|s^r
+B :  Yeah , I thought it was just this week that we were changing it .
+
+dialogue type : s^2
+B :  Those people who happen to be around .
+
+dialogue type : fg|s
+B :  Yeah . I 'm always here anyway ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  It doesn't matter .
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s^bk.%
+B :  Oh .
+
+dialogue type : qy^bu^rt
+B :  So did you just say that Ami can't make one o '
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : fg
+B :  Oh , oh ,
+
+dialogue type : b
+B :  OK .
+
+dialogue type : qy^rt
+B :  Could we do Thursday at one - thirty ?
+
+dialogue type : qy^e^rt
+B :  Would that that be horrible ?
+
+dialogue type : qy^bh^rt
+B :  Oh really ?
+
+dialogue type : s^bk|s^df
+B :  Oh , OK . OK . You didn't tell me that .
+
+dialogue type : s^bk|s^ba
+B :  OK , that 's fine .
+
+dialogue type : s^bk
+B :  OK , OK , OK . OK . Yeah .
+
+dialogue type : s
+B :  Well , we 're meeting Tuesday .
+
+dialogue type : s
+B :  I mean we usually meet Tuesday or l like , linguists um , at two .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : qy.%-
+B :  Do you want to meet again here bef
+
+dialogue type : s^t3
+B :  Hhh . Maybe I do need a Palm Pilot .
+
+dialogue type : qy^bu^d^rt
+B :  Usually ?
+
+dialogue type : fg|s
+B :  Well , I mean , the linguists ' meeting i happens to be at two ,
+
+dialogue type : s.%-
+B :  but I think that 's I mean .
+
+dialogue type : s
+B :  pretty flexible , I think .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^2
+B :  The multiple meetings
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^na
+B :  Same here .
+
+dialogue type : qw^rt
+B :  What time ?
+
+dialogue type : qy^bu^d^e^rt
+B :  At o o o o one , two , three ?
+
+dialogue type : s^bu|qy^d^g
+B :  You guys will still remind me , right ?
+
+dialogue type : s^j
+B :  Y you 'll come and take all the the headph the good headphones first and then remind me .
+
+dialogue type : qw^t1
+B :  Why do I have this unless I 'm gonna write ?
+
+dialogue type : s^ba^t1
+B :  Fine .
+
+dialogue type : s^t1
+B :  Yes .
+
+dialogue type : h|qy^rt
+B :  Uh . Would you like to ?
+
+dialogue type : s^bk|s
+B :  OK . I was actually gonna work on it for tomorrow like this this weekend .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk|%-
+B :  Yeah . I
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa|s
+B :  Yeah , so there was like , you know , m m in my head the goal to have like an intermediate version , like , everything I know .
+
+dialogue type : s
+B :  And then , w I would talk to you and figure out everything you know , that you know , see if they 're consistent .
+
+dialogue type : s^aa
+B :  Yes . Yeah .
+
+dialogue type : s^na
+B :  That 's f fine with me .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s.%--
+B :  I might I might um ,
+
+dialogue type : s^bu|qy^d^g
+B :  s You said you 're busy over th until the weekend , right ?
+
+dialogue type : s^bk|s
+B :  That 's fine . So we might continue our email thing
+
+dialogue type : s
+B :  and that might be fine , too .
+
+dialogue type : s
+B : 
+
+dialogue type : s^bk|s^ba
+B :  OK . That would be cool .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fg|s.%-
+B :  OK , and we 'll You wanna m
+
+dialogue type : s^bu.%-
+B : 
+
+dialogue type : s^bk
+B :  Sure , sure .
+
+dialogue type : s
+B :  That 's OK .
+
+dialogue type : s
+B :  Cuz then you 'll find out more of what we 're making you do .
+
+dialogue type : s^cc^j
+B :  We 'll make a presentation of your propo of your proposal .
+
+dialogue type : s^rt:s^rt
+B :  It 's like , " this is what we 're doing .
+
+dialogue type : s:s
+B :  And the complement is Robert . "
+
+dialogue type : s
+B :  OK .
+
+dialogue type : s
+B :  I already sent you my fi my bib file .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa|%-
+B : 
+
+dialogue type : s
+B :  Only have to change one vowel .
+
+dialogue type : s^ba
+B :  That 's great .
+
+dialogue type : s
+B :  All the old like graphs ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Yeah , we 've talked a little bit about that , too ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B :  uh , uh , it 's hard for me to figure out with sort of our general linguistic issues , how they map onto this particular one ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk
+B :  OK , yeah , understood .
+
+dialogue type : qy
+B :  W do you have data , like the the You have preliminary data ?
+
+dialogue type : s^df
+B :  Cuz I know , you know , we 've been using this one easy sentence
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  it 'd it 'd be useful for me , if we want to have it a little bit more data oriented .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^2
+B :  Use actually the same one .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : fg|s:s
+B :  Right . Let 's put a Skolem Skolem constant in ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s^bk
+B :  Yeah . Right .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Um - mmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa|s.%--
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah . Yeah .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  He 's been around .
+
+dialogue type : s
+B :  Just maybe not today .
+
+dialogue type : qy^bu^d^rt
+B :  Eh . with us ?
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^e
+B :  I would say that tha that those discussions have been primarily , um , Keith and Keith and me ,
+
+dialogue type : fh
+B :  but um
+
+dialogue type : s
+B :  like in th the meeting I mean , he sort of I thin like the last meeting we had , I think we were all very much part of it
+
+dialogue type : fh
+B :  but um
+
+dialogue type : s.%-
+B :  but different perspec
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s
+B :  Like like what you call certain things ,
+
+dialogue type : s
+B :  which we decided long ago we don't care that much right now .
+
+dialogue type : s^ba^bd.%--
+B : 
+
+dialogue type : s^ba^bd^e
+B :  you know , like maybe a lot of people would have m much stronger reactions ,
+
+dialogue type : s^e
+B :  so , you know , he 's like a relatively friendly linguist
+
+dialogue type : s
+B :  and yet a word like " constraint " causes a lot of problems .
+
+dialogue type : fh
+B :  And , so . Right . So .
+
+dialogue type : s^bk
+B :  Ah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm . Sure .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  when we 're into data and looking at the some specific linguistic phenomenon in in English or in German , in particular , whatever , that 's great ,
+
+dialogue type : s
+B :  and Ben and and Hans are , if if anything , more you know , they have more to say than , let 's say , I would about some of these things .
+
+dialogue type : s.%-:qh
+B : 
+
+dialogue type : s^ba
+B :  s Which is fine .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yes .
+
+dialogue type : fg|s
+B :  Yeah . We actually have I think we have been making progress ,
+
+dialogue type : s
+B :  and its sort of surprising .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^j.%--
+B : 
+
+dialogue type : s
+B :  Anyway .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^aa|s
+B :  Yeah , we could talk tomorrow .
+
+dialogue type : s:qh
+B :  I was just gonna say , though , that , for instance , there was you know , out of a meeting with Johno came the suggestion that " oh , could it be that the meaning constraints really aren't used for selection ? "
+
+dialogue type : s
+B :  which has sort of been implicit in the parsing strategy we talked about .
+
+dialogue type : s
+B :  In which case we w we can just say that they 're the effects or the bindings .
+
+dialogue type : s
+B :  Which uh , so far , in terms of like putting up all the constraints as , you know , pushing them into type constraints , the when I 've , you know , propo then proposed it to linguists who haven't yet given me you know , we haven't yet thought of a reason that that wouldn't work .
+
+dialogue type : s^f|s^e
+B :  Right ? As long as we allow our type constraints to be reasonably complex .
+
+dialogue type : s^cc
+B :  So Anyway , to be to talk about later .
+
+dialogue type : b
+B :  Mm - hmm . Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm . Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^2|qy^d^f^g
+B :  That it would still generate too many . Right ?
+
+dialogue type : s|qy^d^g
+B :  So by just having semantic even bringing semantics in for matching just in the form of j semantic types , right ?
+
+dialogue type : s
+B :  Like " conceptually these have to be construed as this , this , and this " might still give us quite a few possibilities
+
+dialogue type : s
+B :  that , you know And and it certainly helps a lot .
+
+dialogue type : s
+B :  I mean , le let 's put it that way .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : b
+B :  Mm - hmm . Mm - hmm .
+
+dialogue type : qy^bu^d
+B :  So Friday ,
+
+dialogue type : qy^bu^d
+B :  Monday
+
+dialogue type : s^bk
+B :  Monday .
+
+dialogue type : s
+B :  So . OK , that 's Tuesday .
+
+dialogue type : s|s^bk
+B :  Like th that 's the conclusion . OK .
+
+dialogue type : s^aa^j|s^j
+B :  Yeah , and I have nothing to do this weekend but work .
+
+dialogue type : s^ar|s.%-
+B :  No , that 's not really true ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B :  It 's almost true .
+
+dialogue type : s
+B :  Oh , I don't have it this weekend ,
+
+dialogue type : s
+B :  so , tsk don't have to worry about that .
+
+dialogue type : s
+B :  Speaking of dance ,
+
+dialogue type : s
+B :  Dance Dance Revolution
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  It 's a it 's like a game , but it 's for , like , dancing .
+
+dialogue type : s^e
+B :  Hard to It 's like karaoke , but for dancing ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^ba
+B :  It 's amazing .
+
+dialogue type : s^ba
+B :  It 's so much fun .
+
+dialogue type : s^ba
+B :  Yeah , it 's so good .
+
+dialogue type : s
+B :  My friend has a home version and he brought it over ,
+
+dialogue type : s
+B :  and we are so into it .
+
+dialogue type : s
+B :  It 's so amazing .
+
+dialogue type : qy^d^rt
+B :  Well , y you know of it ?
+
+dialogue type : qy^d^e^rt
+B :  I i i it 's one of your hobbies ?
+
+dialogue type : s
+B :  It 's great exercise , I must say .
+
+dialogue type : s
+B :  I can't wait to hear this .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s^aa|s
+B :  Oh , definitely . They have , like , places instead of like Yeah , instead of karaoke bars now that have , like , DDR ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s^bk|s^ba:s
+B :  Yeah , yeah , I didn't until I started hanging out with this friend , who 's like " Oh , well , I can bring over the DDR if you want . "
+
+dialogue type : s:s
+B :  Oh , oh , Dance Dance Revolution OK .
+
+dialogue type : s
+B :  He actually brought a clone called Stepping Selection ,
+
+dialogue type : s^ba
+B :  but it 's just as good .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fg
+B :  Anyw
+

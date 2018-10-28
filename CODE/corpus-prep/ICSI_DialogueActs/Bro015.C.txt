@@ -1,0 +1,270 @@
+dialogue type : s^bk
+C :  Alright .
+
+dialogue type : s
+C :  It will be some sometime in summer .
+
+dialogue type : qr^d.%-
+C :  July or August , or .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg
+C :  Oh yeah .
+
+dialogue type : s^tc
+C :  Well , the news more specifically t for Aurora
+
+dialogue type : fh
+C :  um
+
+dialogue type : s
+C :  So I guess there was again a conference call but uh they are not decide on everything yet .
+
+dialogue type : s^rt
+C :  For the VAD they probably they will do something like having some kind of idealized VAD that they could run on the channel zero of the SpeechDat - Car
+
+dialogue type : s^e
+C :  and then take the same um end points and apply them on channel one
+
+dialogue type : %-
+C : 
+
+dialogue type : %-
+C :  Uh g
+
+dialogue type : s^na
+C :  Yeah , to the clean and take the end points for the noisy .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^am
+C :  But I am not sure this is decided yet .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s
+C :  Well , probably uh s the same VAD for everybody .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^am
+C :  Maybe .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^na
+C :  Yeah , they 're still not decided .
+
+dialogue type : fg|s.%--
+C : 
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s
+C :  Nothing much .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s
+C :  Probably the um these weight things , they will apply the same kind of weighting scheme for TI - digits than for the SpeechDat - Car .
+
+dialogue type : s.%--
+C :  So it would be weighting of
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  It would be an average of improvements rather than an average of word error rates which would make the more clean parts of TI - digits more important than they are right now .
+
+dialogue type : %--
+C :  This
+
+dialogue type : s
+C :  They they t I think they will tend to go this way , but hmm .
+
+dialogue type : fh
+C :  Uh .
+
+dialogue type : s^rt.%--
+C :  Yeah , if we have the result for the tandem with um MSG also
+
+dialogue type : s.%--
+C :  So @ @ it was t
+
+dialogue type : s
+C :  Yeah there is no surpri there is no surprise .
+
+dialogue type : s
+C :  Well , so there is nor significant improvement .
+
+dialogue type : fh|s
+C :  Um . Yeah , basically that 's all .
+
+dialogue type : s
+C :  We 've started to work on some kind of report for the work so we 've not much more results .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^na
+C :  It 's next week , yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : fg
+C :  Um .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^rt
+C :  Right now , Sunil seems i is in India actually .
+
+dialogue type : fh|s
+C :  Uh so there is no progress apparently from their side neither .
+
+dialogue type : fh|%-
+C : 
+
+dialogue type : qw^br
+C :  I 'm sorry ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Sunil was working on this .
+
+dialogue type : fh|s
+C :  Um . He sent a bunch of a bunch of results
+
+dialogue type : fh
+C :  uh
+
+dialogue type : s
+C :  but I don't know what 's the status of this .
+
+dialogue type : s
+C :  I guess it was just the result that he sent ,
+
+dialogue type : fh
+C :  so . Um .
+
+dialogue type : s
+C :  He just used the spectral subtraction and the LDA filters I guess Mmm .
+
+dialogue type : s
+C :  And it was not better than what
+
+dialogue type : s
+C :  Then he tried to put the on - line normalization and it did not improve further ,
+
+dialogue type : s
+C :  putting the on - line normalization ,
+
+dialogue type : fh
+C :  so .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Well , we know most what we have to to put in in this .
+
+dialogue type : fh
+C :  And .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s.%--
+C :  So , I guess . Yeah , we m
+
+dialogue type : h
+C :  Um .
+
+dialogue type : s^no
+C :  I don't know
+
+dialogue type : s
+C :  but it 's the company who prepared the Italian database ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : qy
+C :  Is it Alcatel ,
+
+dialogue type : qrr.%--
+C :  or ?
+
+dialogue type : %--
+C : 
+
+dialogue type : s^no
+C :  I don't know .
+
+dialogue type : fg
+C :  Uh .
+
+dialogue type : s^arp
+C :  I think it 's was playing with the number of states per word .
+
+dialogue type : s
+C :  They had sixteen , seventeen , eighteen .
+
+dialogue type : s
+C :  Yeah , because it was around between sixteen and twenty
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C : 
+
+dialogue type : s
+C :  Yeah , apparently , um they had better results when they increased the number of states .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : z
+C :  D ' you put two ?
+
+dialogue type : z
+C :  Oh , yeah .
+
+dialogue type : z
+C :  Maria Carmen ?
+

@@ -1,0 +1,39 @@
+dialogue type : s
+A :  Worse than no work .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : %-
+A :  One
+
+dialogue type : s.%-
+A :  It
+
+dialogue type : s^fw
+A :  No problem .
+
+dialogue type : s^co^t3
+A :  Um , just log out .
+
+dialogue type : fg|s^ar^t3
+A :  Uh . No .
+
+dialogue type : s^co^t3
+A :  Log out .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^na
+A :  That 's the proper answer .
+
+dialogue type : b.%
+A :  Yeah .
+
+dialogue type : s
+A :  Paez .
+
+dialogue type : s^r
+A :  Paez .
+

@@ -1,0 +1,117 @@
+dialogue type : %-
+D :  I g
+
+dialogue type : s
+D :  I also got anot a short remark to the transcription .
+
+dialogue type : s
+D :  I 've uh just processed the first five EDU meetings
+
+dialogue type : s
+D :  and they are chunked up
+
+dialogue type : s^rt
+D :  so they would they probably can be sent to IBM
+
+dialogue type : s^e^rt
+D :  whenever they want them .
+
+dialogue type : s^aa|s^2
+D :  Yep . It 's already at IBM ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : b
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : %-
+D :  n
+
+dialogue type : s^aa^m
+D :  Edit - key .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg
+D :  But
+
+dialogue type : b
+D :  y yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Yeah it 's it Basically it 's done ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : %-
+D : 
+
+dialogue type : s
+D :  Yeah , it was just a problem with the Snack version and the Transcriber version
+
+dialogue type : fh
+D :  but it 's solved .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^aa
+D :  Yeah , basically uh I did install it on my laptop
+
+dialogue type : fh
+D :  and yeah
+
+dialogue type : s
+D :  it worked .
+
+dialogue type : fg|qw^rt
+D :  Uh , what is a CrossPad ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^nd
+D :  You don't have to .
+

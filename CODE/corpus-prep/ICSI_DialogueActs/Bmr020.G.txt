@@ -1,0 +1,1482 @@
+dialogue type : z
+G :  I 'm doing some
+
+dialogue type : z
+G :  square brackets ,
+
+dialogue type : z
+G :  coffee sipping ,
+
+dialogue type : z
+G :  square brackets .
+
+dialogue type : z
+G :  Mmm ! Gar - darn !
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s
+G :  I hope they accept it .
+
+dialogue type : s.%--
+G :  I mean , I
+
+dialogue type : s^e
+G :  both actu as as a submission and you know , as a paper .
+
+dialogue type : fh
+G : 
+
+dialogue type : fh
+G : 
+
+dialogue type : s^na
+G :  We actually exceeded the delayed deadline by o another day ,
+
+dialogue type : fh
+G :  so .
+
+dialogue type : s^aa
+G :  Well yeah .
+
+dialogue type : s^df
+G :  Liz had sent them a note saying " could we please have another " I don't know , " three days " or something ,
+
+dialogue type : s^df
+G :  and they said yes .
+
+dialogue type : fh
+G :  But u
+
+dialogue type : s^t3
+G :  I think several people sent this ,
+
+dialogue type : s^bk^t3
+G :  yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : fg
+G : 
+
+dialogue type : s
+G :  there there were some interesting results in this paper , though .
+
+dialogue type : s^e
+G :  For instance that Morgan uh , accounted for fifty - six percent of the Robustness meetings in terms of number of words .
+
+dialogue type : s^r
+G :  Number of words .
+
+dialogue type : s^ar|s
+G :  No . Well , according to the transcripts .
+
+dialogue type : s
+G :  I mean , we didn't mention Morgan by name
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^ar
+G :  No ,
+
+dialogue type : s^nd
+G :  we as identify him as the person dominating the conversation .
+
+dialogue type : b
+G :  Right
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : h
+G :  Um ,
+
+dialogue type : s
+G :  well it was about it had three sections
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  three kinds of uh results , if you will .
+
+dialogue type : fh|s^e
+G :  Uh , the one was that the just the the amount of overlap
+
+dialogue type : fh
+G :  um ,
+
+dialogue type : s^e
+G :  s in terms of in terms of number of words
+
+dialogue type : s
+G :  and also we computed something called a " spurt " ,
+
+dialogue type : s^e
+G :  which is essentially a stretch of speech with uh , no pauses exceeding five hundred milliseconds .
+
+dialogue type : fh|s
+G :  Um , and we computed how many overlapped i uh spurts there were and how many overlapped words there were . Um , for four different corpora ,
+
+dialogue type : s^e
+G :  the Meeting Recorder meetings ,
+
+dialogue type : s^e
+G :  the Robustness meetings
+
+dialogue type : s^e
+G :  Switchboard
+
+dialogue type : s^e
+G :  and CallHome ,
+
+dialogue type : s
+G :  and , found and sort of compared the numbers .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : s.%--
+G :  and found that the ,
+
+dialogue type : fh
+G :  uh ,
+
+dialogue type : s
+G :  you know , as you might expect the Meeting Recorder meetings had the most overlap
+
+dialogue type : fh|s
+G :  uh , but next were Switchboard and CallHome ,
+
+dialogue type : s^e
+G :  which both had roughly the same ,
+
+dialogue type : s^e
+G :  almost identical in fact ,
+
+dialogue type : s^e
+G :  and the Robustness meetings were had the least ,
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  One sort of unexpected result there is that uh two - party telephone conversations have about the same amount of overlap ,
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s
+G :  Also , I in the Levinson , the pragmatics book , in you know , uh , textbook , there 's I found this great quote where he says you know you know , how people it talks about how uh how how people are so good at turn taking ,
+
+dialogue type : s
+G :  and so they 're so good that generally , u the overlapped speech does not is less than five percent .
+
+dialogue type : fh
+G :  So ,
+
+dialogue type : s
+G :  this is way more than five percent .
+
+dialogue type : s
+G :  Well , in real conversations ,
+
+dialogue type : s^e
+G :  everyday conversations .
+
+dialogue type : s
+G :  It 's s what these conversation analysts have been studying for years and years there .
+
+dialogue type : s^ng
+G : 
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  Well it 's time .
+
+dialogue type : s.%-
+G :  So but still but still u
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  There are differences in how you measure it ,
+
+dialogue type : s
+G :  but still it 's You know , the difference between um between that number and what we have in meetings ,
+
+dialogue type : s^e
+G :  which is more like , you know , close to in meetings like these , uh you know , close to twenty percent .
+
+dialogue type : %-
+G : 
+
+dialogue type : qy^bu^d^m^rt
+G :  Robustness meeting ?
+
+dialogue type : s.%--
+G :  It was about half of the r
+
+dialogue type : fh|s
+G :  So , in terms of number of words , it 's like seventeen or eigh eighteen percent for the Meeting Recorder meetings and about half that for , uh , the Robustness .
+
+dialogue type : s
+G :  Well , we didn't get to look at that ,
+
+dialogue type : s
+G :  but this obvious thing to see if if there 's a dependence on the number of uh participants .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : fg
+G : 
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : s
+G :  And and and then and we also d computed this both with and without backchannels ,
+
+dialogue type : s^df.%-
+G : 
+
+dialogue type : b
+G :  R right .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  so basically you treat backchannels l as nonspeech , as pauses ,
+
+dialogue type : s
+G :  you still have significant overlap .
+
+dialogue type : s^e
+G : 
+
+dialogue type : s
+G :  it 's it 's not a dramatic change ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : fg
+G :  Anyway ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  That was that was one set of results ,
+
+dialogue type : s
+G :  and then the second one was just basically the the stuff we had in the in the HLT paper on how overlaps effect the recognition performance .
+
+dialogue type : s
+G :  And we rescored things um , a little bit more carefully .
+
+dialogue type : s
+G :  We also fixed the transcripts in in numerous ways .
+
+dialogue type : fh|s.%--
+G :  Uh , but mostly we added one one number , which was
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  So so the the conjecture from the HLT results was that most of the added recognition error is from insertions due to background speech .
+
+dialogue type : s.%--
+G :  So , we scored all the recognition results , uh , in such a way that the
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  uh , well Don 's been working hard .
+
+dialogue type : fg
+G :  OK ,
+
+dialogue type : s
+G :  so so if you have the foreground speaker speaking here , and then there 's some background speech , may be overlapping it somehow ,
+
+dialogue type : fh|s
+G :  um , and this is the time bin that we used ,
+
+dialogue type : s
+G :  then of course you 're gonna get insertion errors here and here .
+
+dialogue type : qy^d^f^g^rt
+G :  Right ?
+
+dialogue type : s
+G :  So we scored everything ,
+
+dialogue type : s
+G :  and I must say the NIST scoring tools are pretty nice for this ,
+
+dialogue type : s
+G :  where you just basically ignore everything outside of the , uh , region that was deemed to be foreground speech .
+
+dialogue type : s
+G : 
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  That 's somewhat that 's somewhat subject to error ,
+
+dialogue type : s
+G :  but still we we Uh , Don did some ha hand - checking
+
+dialogue type : s
+G :  and and we think that based on that , we think that the results are you know , valid ,
+
+dialogue type : s
+G :  although of course , some error is gonna be in there .
+
+dialogue type : s
+G :  But basically what we found is after we take out these regions so we only score the regions that were certified as foreground speech , the recognition error went down to almost uh , the level of the non - overlapped speech .
+
+dialogue type : s
+G :  So that means that even if you do have background speech , if you can somehow separate out or find where it is , uh , the recognizer does a good job ,
+
+dialogue type : s.%-
+G :  even though there is this back
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : s.%-
+G : 
+
+dialogue type : h|s.%-
+G :  Uh , well , we just @ @ we do u you know , vit
+
+dialogue type : s
+G :  Well , we do uh , VTL vocal tract length normalization ,
+
+dialogue type : s
+G :  w and we uh you know , we we uh , make all the features have zero mean and unit variance .
+
+dialogue type : s^ng
+G :  Over over the entire c over the entire channel .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : fh
+G :  but you know .
+
+dialogue type : s
+G :  Um , now we didn't re - align the recognizer for this .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  So this is actually a sub - optimal way of doing it ,
+
+dialogue type : qy^d^f^g
+G :  right ?
+
+dialogue type : s
+G :  So we took the old recognition output
+
+dialogue type : s
+G :  and we just scored it differently .
+
+dialogue type : s^e.%-
+G :  So the recognizer didn't have the benefit of knowing where the foreground speech a start
+
+dialogue type : s^aa
+G :  Yes .
+
+dialogue type : h|s^aa
+G :  Um , it Yeah .
+
+dialogue type : s^aap
+G :  It u not per I mean , not completely ,
+
+dialogue type : s^aa
+G :  but yes ,
+
+dialogue type : s^e
+G :  dramatically .
+
+dialogue type : s.%--
+G :  So we have to
+
+dialogue type : fh
+G : 
+
+dialogue type : s^cc
+G :  Well I should bring the should bring the table with results .
+
+dialogue type : s^cs
+G :  Maybe we can look at it Monday .
+
+dialogue type : s^aa
+G :  Yes .
+
+dialogue type : %--
+G : 
+
+dialogue type : s^aa
+G :  Yes .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  u s Right .
+
+dialogue type : fg
+G : 
+
+dialogue type : s
+G :  so that was number that was the second set of uh , the second section .
+
+dialogue type : s
+G :  And then , the third thing was , we looked at , uh , what we call " interrupts " ,
+
+dialogue type : s^e
+G :  although that 's that may be a misnomer ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  Uh , so we we used the punctuation from the original transcripts
+
+dialogue type : s
+G :  and we inferred the beginnings and ends of sentences .
+
+dialogue type : fh
+G :  So ,
+
+dialogue type : fh
+G : 
+
+dialogue type : fh
+G : 
+
+dialogue type : qw^br^rt
+G :  Hmm ?
+
+dialogue type : s^ar
+G :  No ,
+
+dialogue type : s^e^nd
+G :  we only used , you know , uh periods , uh , question marks and exclamation .
+
+dialogue type : s.%--
+G :  And we know that there 's th that 's not a very g
+
+dialogue type : s^df
+G :  I mean , we miss a lot of them ,
+
+dialogue type : s.%-
+G :  but but it 's f i i
+
+dialogue type : s^nd
+G :  No commas .
+
+dialogue type : s^ar
+G :  No .
+
+dialogue type : s.%--
+G :  And then we looked at locations where ,
+
+dialogue type : fh
+G :  uh ,
+
+dialogue type : qw
+G :  if you have overlapping speech and someone else starts a sentence , you know , where do these where do other people start their turns not turns really , but you know , sentences ,
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  So we only looked at cases where there was a foreground speaker
+
+dialogue type : s
+G :  and then at the to at the so the the foreground speaker started into their sentence and then someone else started later .
+
+dialogue type : qy^d^f^g^rt
+G :  OK ?
+
+dialogue type : s.%--
+G : 
+
+dialogue type : qw^br^d^rt
+G :  Sorry ?
+
+dialogue type : s^aa
+G :  Yes .
+
+dialogue type : s^e
+G :  Uh , so that such that there was overlap between the two sentences .
+
+dialogue type : s
+G :  So , the the question was how can we what can we say about the places where the second or or actually , several second speakers , um start their " interrupts " , as we call them .
+
+dialogue type : %-
+G :  w
+
+dialogue type : s.%--
+G :  And we looked at this in terms of
+
+dialogue type : fh
+G : 
+
+dialogue type : s.%--
+G :  So so we had we had
+
+dialogue type : fh
+G :  um u
+
+dialogue type : s
+G :  to for for the purposes of this analysis , we tagged the word sequences , and and we time - aligned them .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : s
+G :  and we considered it interrupt if it occurred in the middle of a word ,
+
+dialogue type : s^e
+G :  we basically you know , considered that to be a interrupt as if it were at at the beginning of the word .
+
+dialogue type : s^e
+G :  So that , if any part of the word was overlapped , it was considered an interrupted word .
+
+dialogue type : s
+G :  And then we looked at the the locatio the , um , you know , the features that the tags
+
+dialogue type : s^df
+G :  because we had tagged these word strings , um , that that occurred right before these these uh , interrupt locations .
+
+dialogue type : s^e
+G :  And the tags we looked at are the spurt tag ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^fa
+G :  Sorry .
+
+dialogue type : s^bsc
+G :  End of spurt .
+
+dialogue type : s
+G :  So whether there was a pause essentially here ,
+
+dialogue type : s^df
+G :  because spurts are a defined as being you know , five hundred milliseconds or longer pauses ,
+
+dialogue type : s
+G :  and then we had things like discourse markers ,
+
+dialogue type : s
+G :  uh , backchannels ,
+
+dialogue type : s
+G :  uh , disfluencies .
+
+dialogue type : fh
+G :  um ,
+
+dialogue type : s
+G : 
+
+dialogue type : s^e
+G :  So disfluen the D 's are for , um , the interruption points of a disfluency ,
+
+dialogue type : s^e
+G :  so , where you hesitate , or where you start the repair there .
+
+dialogue type : fh|qw^t1
+G :  Uh , what else do we had .
+
+dialogue type : s^e
+G :  Uh , repeated you know , repeated words is another of that kind of disfluencies and so forth .
+
+dialogue type : s
+G : 
+
+dialogue type : s^e
+G :  uh so , the end of a filled pause
+
+dialogue type : s^e
+G :  and the end of a discourse marker .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  I mean we didn't really hand - tag all of these things .
+
+dialogue type : s
+G :  We just looked at the distribution of words ,
+
+dialogue type : s
+G :  and so every " so yeah " , and " OK " , uh , and " uh - huh " were were the were deemed to be backchannels
+
+dialogue type : s
+G :  and " wow " and " so " and uh " right " , uh were um Not " right " . " Right " is a backchannel .
+
+dialogue type : s
+G :  But so , we sort of just based on the lexical um , identity of the words , we we tagged them as one of these things .
+
+dialogue type : s
+G :  And of course the d the interruption points we got from the original transcripts .
+
+dialogue type : fh
+G :  So ,
+
+dialogue type : s.%--
+G :  and then we looked at the disti
+
+dialogue type : s
+G :  so we looked at the distribution of these different kinds of tags , overall
+
+dialogue type : s
+G :  uh , and and and particularly at the interruption points .
+
+dialogue type : s
+G :  And uh , we found that there is a marked difference
+
+dialogue type : fh
+G :  so
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  so at the end after a discourse marker or after backchannel or after filled pause , you 're much more likely to be interrupted than before .
+
+dialogue type : fh
+G :  OK ?
+
+dialogue type : s
+G :  And also of course after spurt ends ,
+
+dialogue type : s^e
+G :  which means basically in p inside pauses .
+
+dialogue type : s^e.%--
+G : 
+
+dialogue type : s
+G :  So we have this little histogram which shows these distributions
+
+dialogue type : fh
+G :  and , um ,
+
+dialogue type : s^df
+G :  you know , it 's it 's it 's not No big surprises ,
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s.%-
+G :  Well we 're ne
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : s^ng
+G :  There 's no statement about cause and effect .
+
+dialogue type : s
+G :  This is just a statistical correlation ,
+
+dialogue type : fh
+G :  yeah .
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : fg
+G :  Anyway . So ,
+
+dialogue type : s
+G :  uh , and that was basically it .
+
+dialogue type : s
+G :  And and we so we wrote this
+
+dialogue type : s
+G :  and then , we found we were at six pages ,
+
+dialogue type : s
+G :  and then we started cutting furiously
+
+dialogue type : s
+G :  and threw out half of the material again ,
+
+dialogue type : s
+G :  and uh played with the LaTeX stuff
+
+dialogue type : %--
+G : 
+
+dialogue type : fh
+G :  uh ,
+
+dialogue type : %-
+G :  and until it fi
+
+dialogue type : s^ar
+G :  No , no .
+
+dialogue type : s^ng
+G :  W well , d you couldn't really make everything smaller
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^bk|s.%--
+G : 
+
+dialogue type : s
+G :  you know the the gap between the two columns is like ten millimeters ,
+
+dialogue type : s
+G :  so I d shrunk it to eight millimeters
+
+dialogue type : s
+G :  and that helped some . And stuff like that .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : fg
+G : 
+
+dialogue type : s^nd
+G :  y We didn't talk about , uh , prosodic , uh , properties at all ,
+
+dialogue type : s
+G :  although that 's I I take it that 's something that uh Don will will look at
+
+dialogue type : s^e
+G :  now that we have the data and we have the alignment ,
+
+dialogue type : fh
+G :  so .
+
+dialogue type : s
+G :  This is purely based on you know the words
+
+dialogue type : %--
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : fh
+G :  Anyway , so .
+
+dialogue type : s^bk
+G :  Oh yeah .
+
+dialogue type : fg
+G : 
+
+dialogue type : s
+G :  There 's actually uh there 's this a former student of here from Berkeley ,
+
+dialogue type : s^e
+G :  Nigel Nigel Ward .
+
+dialogue type : qy^rt
+G :  Do you know him ?
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  he he lives in Japan now ,
+
+dialogue type : s
+G :  and he did this backchanneling , automatic backchanneling system .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  So , exactly what you describe ,
+
+dialogue type : s
+G :  but for Japanese .
+
+dialogue type : s^e
+G :  And it 's apparently for Japa - in Japanese it 's really important that you backchannel .
+
+dialogue type : s^e
+G :  It 's really impolite if you don't ,
+
+dialogue type : %--
+G : 
+
+dialogue type : fh
+G :  So .
+
+dialogue type : fg
+G :  Anyway .
+
+dialogue type : s
+G :  So the paper 's on - line
+
+dialogue type : %--
+G :  and
+
+dialogue type : s
+G :  y I I think I uh I CC ' ed a message to Meeting Recorder with the URL
+
+dialogue type : s
+G :  so you can get it .
+
+dialogue type : s
+G :  Um , uh one more thing .
+
+dialogue type : s^rt
+G :  So I I 'm actually about to send Brian Kingbury an email saying where he can find the the s the m the material he wanted for the s for the speech recognition experiment ,
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  but I haven't sent it out yet
+
+dialogue type : s^df
+G :  because actually my desktop locked up ,
+
+dialogue type : s^e
+G :  like I can't type anything .
+
+dialogue type : fh
+G :  Uh
+
+dialogue type : s^cc.%-
+G : 
+
+dialogue type : s
+G :  I made a directory .
+
+dialogue type : s^e.%--
+G :  I called it
+
+dialogue type : fh
+G : 
+
+dialogue type : x
+G : 
+
+dialogue type : qy^bu^d^rt
+G :  He does ?
+
+dialogue type : s^bk
+G :  Yeah
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s
+G :  he prefe he said he would prefer FTP
+
+dialogue type : s
+G :  and also , um , the other person that wants it There is one person at SRI who wants to look at the um , you know , the uh the data we have so far ,
+
+dialogue type : s^df
+G :  and so I figured that FTP is the best approach .
+
+dialogue type : s
+G :  So what I did is I um @ @ I made a n new directory
+
+dialogue type : s^e
+G :  after Chuck said that would c that was gonna be a good thing .
+
+dialogue type : fh|s.%--
+G :  Uh , so it 's " FTP pub
+
+dialogue type : s^m^na
+G : 
+
+dialogue type : s^aa
+G :  Exactly .
+
+dialogue type : s
+G : 
+
+dialogue type : qw^t1
+G :  What is it again ?
+
+dialogue type : s.%--
+G : 
+
+dialogue type : %--
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Right ?
+
+dialogue type : s
+G :  The same the same as the mailing list ,
+
+dialogue type : %--
+G : 
+
+dialogue type : fh
+G :  Yeah .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  Um actually Oh and this directory , is not readable .
+
+dialogue type : s^e
+G :  It 's only uh , accessible .
+
+dialogue type : s^df
+G :  So , in other words , to access anything under there , you have to be told what the name is .
+
+dialogue type : s
+G :  So that 's sort of a g quick and dirty way of doing access control .
+
+dialogue type : fh
+G : 
+
+dialogue type : fh|s
+G :  uh , and the directory for this I call it I " ASR zero point one "
+
+dialogue type : s^df
+G :  because it 's sort of meant for recognition .
+
+dialogue type : s
+G :  And then then in there I have a file that lists all the other files ,
+
+dialogue type : s^df
+G :  so that someone can get that file and then know the file names and therefore download them .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s
+G :  Dash .
+
+dialogue type : fh
+G :  Anyway .
+
+dialogue type : s
+G :  So all I all I was gonna do there was stick the the transcripts after we the way that we munged them for scoring ,
+
+dialogue type : s^df
+G :  because that 's what he cares about ,
+
+dialogue type : fh
+G : 
+
+dialogue type : fh
+G :  um ,
+
+dialogue type : s
+G :  and also and then the the waveforms that Don segmented .
+
+dialogue type : s
+G :  I mean , just basically tar them all up f I mean w for each meeting I tar them all into one tar file and G - zip them and stick them there .
+
+dialogue type : fh
+G :  And so .
+
+dialogue type : s^bk.%
+G :  Oh , OK .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : qw^d
+G :  March O - one .
+
+dialogue type : s^bk^fe
+G :  Oh !
+
+dialogue type : qy^d^rt
+G :  Oh she wanted that also ?
+
+dialogue type : s^bk
+G :  Right ,
+
+dialogue type : s
+G :  but they don't have a recognizer even .
+
+dialogue type : fg
+G :  But yeah ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : b
+G :  Right .
+
+dialogue type : fg|s^co
+G :  Well , make ano make another directory .
+
+dialogue type : s.%--
+G :  You don't n m
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : qy^bu^d^rt
+G :  They are ?
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  Oh .
+
+dialogue type : fg
+G : 
+
+dialogue type : s^bk|s
+G :  OK , because in one directory there 's two versions .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : %--
+G : 
+
+dialogue type : s^bk
+G :  OK
+
+dialogue type : s^bu
+G :  so but for the other meetings it 's the downsampled version that you have .
+
+dialogue type : s^bk
+G :  Oh , OK .
+
+dialogue type : s
+G :  Oh that 's th important to know ,
+
+dialogue type : s^bk
+G :  OK
+
+dialogue type : fh
+G :  so
+
+dialogue type : s^cs
+G :  we should probably uh give them the non - downsampled versions .
+
+dialogue type : fg
+G :  OK .
+
+dialogue type : fg|s^cc.%--
+G :  Alright , then I 'll hold off on that and I 'll wait for you
+
+dialogue type : fh
+G : 
+
+dialogue type : %-
+G :  gen
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^bk
+G :  Alright .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s
+G :  Yeah , definitely they should have the full bandwidth version ,
+
+dialogue type : fh.%
+G :  yeah . OK .
+
+dialogue type : fg|s^df
+G :  Well , it takes it takes up less disk space , for one thing .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s
+G :  Yeah , it was a small difference
+
+dialogue type : fh
+G :  but yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : fg
+G :  OK ,
+
+dialogue type : s^ba
+G :  good .
+
+dialogue type : s^ba.%--
+G : 
+
+dialogue type : s^ba.%-
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^fe
+G :  Beep - ify !
+
+dialogue type : qy.%-
+G : 
+
+dialogue type : s^bk
+G :  OK ,
+
+dialogue type : s^bk
+G :  yeah .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  Oh !
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^bk
+G :  Right ,
+
+dialogue type : s
+G :  I mean w I mean what I would I was interested in is having a se having time marks for the beginnings and ends of speech
+
+dialogue type : s^e
+G :  by each speaker .
+
+dialogue type : s^df
+G :  Uh , because we could use that to fine tune our alignment process
+
+dialogue type : s^e
+G :  to make it more accurate .
+
+dialogue type : fh
+G : 
+
+dialogue type : fh
+G :  uh ,
+
+dialogue type : s
+G :  it I don't care that you know , there 's actually abutting segments that we have to join together .
+
+dialogue type : s
+G :  That 's fine .
+
+dialogue type : s.%--
+G :  But what we do care about is that the beginnings and ends um are actually close to the speech inside of that
+
+dialogue type : fh
+G : 
+
+dialogue type : s^bk
+G :  OK ,
+
+dialogue type : qw
+G :  so what is the sort of how tight are they ?
+
+dialogue type : s^bk
+G :  Oh .
+
+dialogue type : fg
+G :  No , no !
+
+dialogue type : s.%--
+G :  I don
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s.%--
+G :  I it 's f
+
+dialogue type : s^na
+G :  That 's fine
+
+dialogue type : s^df.%--
+G : 
+
+dialogue type : s^na^r
+G :  th that 's perfectly fine .
+
+dialogue type : s^ba
+G :  In fact it 's good .
+
+dialogue type : s^df^na
+G :  You always want to have a little bit of pause or nonspeech around the speech , say for recognition purposes .
+
+dialogue type : fh
+G :  Uh ,
+
+dialogue type : s
+G :  but just just u w you know get an id I just wanted to have an idea of the of how much extra you allowed
+
+dialogue type : fh
+G : 
+
+dialogue type : s^df
+G :  so that I can interpret the numbers if I compared that with a forced alignment segmentation .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : qy^rt
+G :  But are we talking about , I don't know , a tenth of a second ?
+
+dialogue type : %--
+G :  a ?
+
+dialogue type : qy^d^f^g
+G :  You know ?
+
+dialogue type : qw^bu
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^aa
+G :  Well , yeah .
+
+dialogue type : s^na
+G :  That 's fine .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s
+G :  Well we chose um , you know , half a second
+
+dialogue type : s^df
+G :  because if if you go much larger , you have a y you know , your your statement about how much overlap there is becomes less , um , precise ,
+
+dialogue type : s^df
+G :  because you include more of actual pause time into what you consider overlap speech .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : fh
+G :  so ,
+
+dialogue type : s
+G :  it 's sort of a compromise ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^e
+G :  I mean Liz suggested that value based on the distribution of pause times that you see in Switchboard and and other corpora .
+
+dialogue type : fh
+G : 
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  I see .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  OK ,
+
+dialogue type : s
+G :  So so at some point we will try to fine - tune our forced alignment
+
+dialogue type : s^am^e
+G :  maybe using those as references
+
+dialogue type : s
+G :  because you know , what you would do is you would play with different parameters .
+
+dialogue type : s
+G :  And to get an object You need an objective measure of how closely you can align the models to the actual speech .
+
+dialogue type : s
+G :  And that 's where your your data would be very important to have .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s
+G :  OK , and I 'm leaving .
+
+dialogue type : fh
+G : 
+

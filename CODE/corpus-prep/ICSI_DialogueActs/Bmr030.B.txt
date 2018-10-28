@@ -1,0 +1,909 @@
+dialogue type : s
+B :  By next Friday .
+
+dialogue type : s^2
+B :  It 's more money .
+
+dialogue type : s^bk^m
+B :  Something like that .
+
+dialogue type : s.%--
+B :  It 's
+
+dialogue type : s
+B :  Uh , I mean , we 're in conjunction with uh , SRI , Washington , and , um , Columbia .
+
+dialogue type : s
+B :  And to do research on the meetings .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qo^cs^d.%--
+B :  Mapping meetings , or ?
+
+dialogue type : s^e
+B :  It 's like creating a m a map of a meeting , in a sense .
+
+dialogue type : s
+B :  It actually doesn't have a whole lot of m speech stuff to it .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^aa^m
+B :  Higher level , yeah .
+
+dialogue type : s^no
+B :  I don't remember .
+
+dialogue type : s.%--
+B :  It might have been .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qy^rt
+B :  Did he ever figure out how to d switch between applications like he was wanting to do ?
+
+dialogue type : qy^br^d^rt
+B :  He did ?
+
+dialogue type : qw
+B :  How is he gonna do it ?
+
+dialogue type : fg|%-
+B : 
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^ar|s.%-
+B :  No . He said he tried that , but he didn't like it because it ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%-
+B :  it took it out of the , um ,
+
+dialogue type : s
+B :  presentation mode .
+
+dialogue type : s^bk^fe
+B :  Oh !
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk|qw^rt
+B :  Oh , so what do you have to do ?
+
+dialogue type : s^bu.%-
+B : 
+
+dialogue type : s^bk|s.%--
+B : 
+
+dialogue type : s.%-
+B :  And then you can come back to your full screen version of your presenta
+
+dialogue type : s^bk^fe^rt
+B :  Oh !
+
+dialogue type : qw
+B :  How much memory does he have ?
+
+dialogue type : qw
+B :  How much memory does he have ?
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^ba^fe
+B :  Wow !
+
+dialogue type : qrr^rt
+B :  So , are we the only ones who are giving demo ? Or is , uh , Washington gonna have a demo too ?
+
+dialogue type : qrr.%--
+B :  or ?
+
+dialogue type : s^bk
+B :  Oh ! OK .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^bk
+B :  Yeah , I see .
+
+dialogue type : s
+B :  Oh , my gosh .
+
+dialogue type : s^bk^fe
+B :  Oh .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Oh .
+
+dialogue type : s^2
+B :  Display the features .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+B :  So you see , like , the F - zero contour ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ba
+B :  Oh , neat .
+
+dialogue type : qy^rt
+B :  Was this code that you downloaded to do this ?
+
+dialogue type : qrr.%-
+B : 
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : qy^bu^j
+B :  At SRI dot com ?
+
+dialogue type : s^ar|%-
+B :  No , i
+
+dialogue type : s^df
+B :  It sounded like a URL , the way you were saying it ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : qy^bu^d^rt
+B :  So what I mean is , like the implementation that you used was something that you coded up here ?
+
+dialogue type : qrr
+B :  Or you grabbed code from somewhere else ?
+
+dialogue type : s^bk
+B :  Ah .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa|s
+B :  Yeah , it 's done now .
+
+dialogue type : s
+B :  She said it was much faster .
+
+dialogue type : s
+B :  It really helped a lot to have that .
+
+dialogue type : fh|s.%-
+B :  So , um , you know , there were a l
+
+dialogue type : s^2
+B :  From scratch .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^ar|s
+B :  No , f no . So from the point where we s take it , it 's faster .
+
+dialogue type : s
+B :  u So it 's sorta like doing things in parallel .
+
+dialogue type : s^e
+B :  You know ? So if , you know , if they can be working on that while we 're working on the other things , then when we get them in , they don't have to do that one from scratch , basically .
+
+dialogue type : fg|s
+B :  Yeah , th Right now it is taking a bit of time to turn around the meetings from IBM ,
+
+dialogue type : %-
+B :  part
+
+dialogue type : s
+B :  There 's there 's several problems .
+
+dialogue type : s
+B :  One is , um , we were giving them these large files ,
+
+dialogue type : s
+B :  which they then had to split up and put onto cassette tapes .
+
+dialogue type : s^rt
+B :  So either ninety minute or sixty minute tapes ,
+
+dialogue type : s
+B :  so they had to try to find an appropriate place to break this large file that we gave them .
+
+dialogue type : s
+B :  So one of the things that we did is , Adam made a modification to th his script that generates this so you can tell it that you want , uh , basically , uh , chunks that are no more than either thirty or forty - five minutes .
+
+dialogue type : s
+B :  And then we can give those to IBM
+
+dialogue type : s
+B :  and it 'll make it easier for them to put them on tape .
+
+dialogue type : s
+B :  Um , then the other thing is that these pool of transcribers that they 're using , um , sort of are not dedicated to to our project ,
+
+dialogue type : s
+B :  but are in use for all IBM projects ,
+
+dialogue type : s^df
+B :  and IBM has recently giving given them uh , a whole bunch of stuff .
+
+dialogue type : s
+B :  So it 's gonna , sort of delay us .
+
+dialogue type : s^bk|s^ba
+B :  Hmm , that 's an interesting idea .
+
+dialogue type : s
+B :  Yeah . So the only difference would be , we would be putting the stuff on tape versus IBM .
+
+dialogue type : s^cs.%--
+B :  And then we could send If if we had that process down , of putting the audio onto tape ,
+
+dialogue type : s^cs.%-
+B :  we can send IBM the tapes or we can send this transcription place the tape
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %-
+B :  Well , u u
+
+dialogue type : s^no
+B :  So , I don't know where the bottleneck was .
+
+dialogue type : qr
+B :  Was the bottleneck in breaking this large file up into the appropriate size chunks ? or was it actually putting it onto the tape ?
+
+dialogue type : s
+B :  Exactly .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk|qw
+B :  Yeah , so how do we do that ?
+
+dialogue type : qw.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^bu^d^rt
+B :  So plug i So , like , the headphone output in the back of the computer ?
+
+dialogue type : s^bk^m
+B :  Line - out into the line - in on a tape player ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk^rt|s^ba
+B :  Oh ! Well , that sounds pretty easy .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^bk|s^ng.%-
+B : 
+
+dialogue type : h|s.%--
+B : 
+
+dialogue type : h
+B :  OK .
+
+dialogue type : h|s.%--
+B : 
+
+dialogue type : s.%--
+B :  Since we started doing this new , uh , beep format with " beep number beep " ,
+
+dialogue type : s
+B :  they 've given us , uh , I think , two full , uh , transcripts .
+
+dialogue type : s
+B :  They have a third one
+
+dialogue type : s
+B :  and Brian just sent me a note saying " oh , that third one somehow slipped through the cracks of their tr of the eh transcriptionists ' , uh , s company " .
+
+dialogue type : s
+B :  And so there 's gonna be delay of a week before we get that third one back .
+
+dialogue type : s
+B :  And I 've already given him three more to work on ,
+
+dialogue type : s
+B :  but he said those new three won't get done until this big chunk of data has been processed by the company .
+
+dialogue type : s^aa|s^na
+B :  Yeah . Yeah , they 're working away .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Right , right .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  well , into the the , uh , master sheet here with the statuses
+
+dialogue type : s
+B :  and I pick ones that Thilo has , um , pre - segmented ,
+
+dialogue type : s
+B :  and I change the status to " Trans - IP IBM " ,
+
+dialogue type : s
+B :  so that , you know , when Jane or whoever goes to select the next meeting they won't choose one of those .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  So I 'm not picking huge chunks , right now , of meetings for them ,
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bk|s^ba
+B :  Mm - hmm . That 's a good idea .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^ba
+B :  Huh .
+
+dialogue type : qr
+B :  So when that thing When it stutters like that , is it because there 's a delay getting the data off a disk ? Or is it because there 's a delay in the D to A ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : s^cs
+B :  Maybe we could do it from a w a PC or something .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Well , you know , I I think David might have a bunch of o old P Cs ,
+
+dialogue type : s^df
+B :  cuz he 's replacing them with these new ones .
+
+dialogue type : s^cs
+B :  Maybe we could get one ,
+
+dialogue type : s^cs^e
+B :  and just dedicate it to doing this .
+
+dialogue type : s^cs^e.%--
+B :  Not even hook it u
+
+dialogue type : s^bd^df
+B :  Well , I guess we need to hook it to the network
+
+dialogue type : s
+B :  so we can get the files to it ,
+
+dialogue type : fh
+B :  but
+
+dialogue type : h
+B :  Uh ,
+
+dialogue type : s^aa
+B :  Yeah . Right .
+
+dialogue type : s^2^cs
+B :  And then just use that machine to hook up to the tape .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bu
+B :  We don't need a powerful machine to do these things ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^fe
+B :  Hmm .
+
+dialogue type : s^cs
+B :  Should talk to him about that .
+
+dialogue type : s^aa
+B :  Yeah , yeah .
+
+dialogue type : s
+B :  That 's why I wanted to avoid having to do that if we could ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  They have a um a device that , you put the cassette in
+
+dialogue type : s
+B :  and it has a foot pedal that lets you go back and forth and stuff like that .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s.%-
+B :  I guess they haven't got a p
+
+dialogue type : qh^br
+B :  Really !
+
+dialogue type : qy^rt
+B :  Y can you send them huge audio files ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^fe
+B :  Huh !
+
+dialogue type : s^ba
+B :  That 's interesting .
+
+dialogue type : s^aa^rt
+B :  Well , that 's true .
+
+dialogue type : qw
+B :  Are How big are these files that we send to Brian ?
+
+dialogue type : qh^br
+B :  Really ?
+
+dialogue type : qy^bu^d^rt
+B :  That big ?
+
+dialogue type : s
+B :  I thought it was , like , a hundred megs .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^fe
+B :  Hmm .
+
+dialogue type : s^ba
+B :  That 's still pretty dang big .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^rt
+B :  I don't know .
+
+dialogue type : s.%--
+B :  Wha - whatever you generate .
+
+dialogue type : s
+B :  Yeah , the last ones you did were compressed .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Wonder if the ones before that were shortened .
+
+dialogue type : s^2^df.%-
+B : 
+
+dialogue type : s^fe
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm !
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qw
+B :  What will that do ?
+
+dialogue type : qy.%--
+B :  Is that going to ?
+
+dialogue type : s^bk|s^bu.%-
+B : 
+
+dialogue type : s^ba
+B :  Oh ! That 'll be nice .
+
+dialogue type : s
+B :  I should be around .
+
+dialogue type : qy^bu^d^rt
+B :  Experiments ?
+
+dialogue type : s^aa|s^am.%--
+B :  Yeah , I guess that 's probably next .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Demo .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bd
+B :  Oh , but that 's not specific to Meeting Recorder .
+
+dialogue type : s
+B :  I was gonna say I took some a suggestion of Adam 's ,
+
+dialogue type : s
+B :  and I , um , created a m CGI script that lets you see the current status of the speech disks .
+
+dialogue type : s
+B :  So if you go to the speech local web page , and then there 's a disk status page .
+
+dialogue type : s
+B :  You can click on that
+
+dialogue type : s
+B :  and it 'll query Abbott ,
+
+dialogue type : s
+B :  and give you a a list of all the disks that we have
+
+dialogue type : s
+B :  and then , uh , what 's on each one ,
+
+dialogue type : s
+B :  and then it shows how big the disk is
+
+dialogue type : s
+B :  and what percent full it is .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  And that 's , you know , each time you go there , it 's updated .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  The new disks are installed .
+
+dialogue type : s^co
+B :  If you need space just let me know .
+
+dialogue type : s
+B :  I have to create the p appropriate sub - directory .
+
+dialogue type : s
+B :  So we 're s kinda trying to keep even the scratch ones we 're keeping a little organized , where we put a y a U doctor speech data ,
+
+dialogue type : s
+B :  and then I 'll either create a sub - directory for , like if it 's Meeting Recorder project , or Hub - five or whatever .
+
+dialogue type : s.%--
+B :  So we c
+
+dialogue type : s
+B :  I just have to create those sub - directories ,
+
+dialogue type : %-
+B :  and
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s^ar^r
+B :  No .
+
+dialogue type : %
+B :  Nnn .
+
+dialogue type : s^m^na
+B :  It 's all scratch .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^ar^rt|s^rt
+B :  No , it 's D E .
+
+dialogue type : s
+B :  D E 's not full .
+
+dialogue type : s^bk^m
+B :  DD 's full .
+
+dialogue type : s
+B :  That was the first one .
+
+dialogue type : s
+B :  Or , that was the last one that w filled up ,
+
+dialogue type : s.%--
+B :  and DE still had like ,
+
+dialogue type : s
+B :  last time I looked it was like seven gigs or something .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  And each meeting is roughly half a gig ,
+
+dialogue type : fh
+B :  and so .
+
+dialogue type : s^2^m
+B :  We 're getting close .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Morgan said something about stopping at the end of the year .
+
+dialogue type : s^e
+B :  Like when we get around a hundred meetings .
+
+dialogue type : s^df
+B :  Um , because there 's gonna be data coming from UW , hopefully by then .
+
+dialogue type : s^aa|s^ba
+B :  Yeah , it feels funny ,
+
+dialogue type : qy^d^g^rt
+B :  huh ?
+
+dialogue type : s
+B :  If we have the capability .
+
+dialogue type : qh
+B :  Now that we 're used to recording , it 's like , eh , well , why not keep going ?
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s
+B :  We have right now , like , seventy - five or seventy - six hours of meetings .
+
+dialogue type : qy^bu^ng^rt.%-
+B : 
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk|s
+B :  Yeah , we need to figure something out ,
+
+dialogue type : s^df.%--
+B : 
+
+dialogue type : s
+B :  e e We can't add anymore disks to it .
+
+dialogue type : s
+B :  We can increase the size of the disks that are on it ,
+
+dialogue type : s^bd
+B :  but that will only take us so far .
+
+dialogue type : fh
+B :  So , um ,
+
+dialogue type : s
+B :  David had the suggestion about , you know , new servers and things like that ,
+
+dialogue type : s^cc
+B :  and so I 'm gonna see if we can talk to Morgan about getting some money for a new disk server .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk|s
+B :  Yeah , it would have to replace Abbott , basically .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Well , he David 's planning to get new servers anyways for all of the main servers .
+
+dialogue type : s
+B :  I think he wants to sorta go with the same type of machine for all of these .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  Yeah , it 's full in there .
+
+dialogue type : qy.%--
+B : 
+
+dialogue type : s^e^rt
+B :  uh , the SUN - Blade - one - hundreds ?
+
+dialogue type : s
+B :  They 're like stacked up on benches and things all over .
+
+dialogue type : s^ba
+B :  It 's really crowded .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^ar^rt
+B :  Oh , yeah . Yeah , yeah .
+
+dialogue type : s^cs.%-
+B : 
+
+dialogue type : h|s
+B :  Oh ! I 've forgotten now .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s^aa|s
+B :  Yeah . They 're in the P - make pool .
+
+dialogue type : s.%--
+B :  So if you do a " reginfo minus show attribute " , and
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%-
+B :  A r
+
+dialogue type : b
+B :  Yeah . Y
+
+dialogue type : s^rt
+B :  You can get a list of all the machines that are available to P - make , by using the command " reginfo
+
+dialogue type : s^e
+B :  minus show - ATTR " .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^no
+B :  And I for I 'm not sure what attributes we attach to the SUN - Blade - one - hundreds ,
+
+dialogue type : s
+B :  but it could be SB - one - hundred .
+
+dialogue type : s
+B :  And so if you query for f all machines that have that attribute , then you should see the names of the new machines .
+
+dialogue type : fh
+B :  But .
+
+dialogue type : s^t1.%-
+B : 
+
+dialogue type : s
+B :  Well , there 's sort of .
+
+dialogue type : s
+B :  There 's this one called There 's the attribute called " no " What 's that called , uh , " n " " no " uh , " no - evict " .
+
+dialogue type : s
+B :  Which is roughly that .
+
+dialogue type : s
+B :  It 's Although it 's like it h My machine has it on my desk .
+
+dialogue type : s
+B :  So , I do get jobs running on my machine all the time .
+
+dialogue type : fh
+B :  Um , But , uh ,
+
+dialogue type : s^t^tc
+B :  So so that 's that 's sort of what it is .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s^aa
+B :  Sure .
+

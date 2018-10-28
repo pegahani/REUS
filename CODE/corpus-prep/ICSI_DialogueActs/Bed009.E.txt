@@ -1,0 +1,27 @@
+dialogue type : z
+E :  Two , two .
+
+dialogue type : z
+E :  Two . Oh .
+
+dialogue type : s^aa
+E :  Sure .
+
+dialogue type : s^bk^rt
+E :  OK .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : h|s.%-
+E :  um Thursday afternoon doesn't work for me , but
+
+dialogue type : h|s
+E :  Uh Thursday morning should be fine .
+
+dialogue type : s^rt
+E :  I was just thinking I w I will have leavened by eleven .
+
+dialogue type : qw.%
+E :  What was he saying ?
+

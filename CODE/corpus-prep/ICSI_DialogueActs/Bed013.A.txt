@@ -1,0 +1,960 @@
+dialogue type : s^bk.%
+A :  I 'm
+
+dialogue type : s.%
+A :  OK .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : qy^rt
+A :  Was he supposed to harass me ?
+
+dialogue type : s
+A :  Well , he just told me that you came looking for me .
+
+dialogue type : s.%
+A :  figure this out .
+
+dialogue type : s
+A :  I know ,
+
+dialogue type : s
+A :  I didn't understand that either !
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  It hurts .
+
+dialogue type : s^na
+A :  It does !
+
+dialogue type : s^fa|s.%-
+A :  I 'm sorry I didn't mean to
+
+dialogue type : s^fa^r
+A :  I 'm sorry .
+
+dialogue type : s^fa^r^t1|s^t1
+A :  I 'm sorry , oh these are all the same .
+
+dialogue type : fg|s
+A :  OK ! th this is not very on target .
+
+dialogue type : s
+A :  Shoot .
+
+dialogue type : s^co
+A :  Alright , you guys can continue talking about whatever you were talking about before .
+
+dialogue type : s^bk|s
+A :  Oh ! Which Johno mentioned to me .
+
+dialogue type : s^bk
+A :  Uh - huh .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw
+A :  What 's the part that 's not pretend ?
+
+dialogue type : qy^bu^d^j^rt
+A :  The writing ?
+
+dialogue type : qw^rt
+A :  Tha - Which conference is it for ?
+
+dialogue type : s^bk|s^ba
+A :  Oh . Wow . Interesting .
+
+dialogue type : s^bc|s^aa
+A :  Whinney . MacWhinney. Uh - huh .
+
+dialogue type : s
+A :  So , interesting , both , like , child language people .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^aa|s
+A :  Yeah , maybe I wanna go .
+
+dialogue type : qw.%--
+A : 
+
+dialogue type : qy^bu
+A :  is is it normally like like , dialogue systems , or , you know , other NLP - ish things ?
+
+dialogue type : fg|s
+A :  Oh , it 's cognitive .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : fh
+A :  And
+
+dialogue type : s
+A :  uh , both learning and like , comprehension , production , that kinda stuff .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^no
+A :  I don't know about it .
+
+dialogue type : s^bk|s^ba
+A :  Yeah that 's pretty soon .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^cs
+A :  I mean , th that 's the kinda thing that maybe like , um , the general uh con sort of like NTL - ish like , whatever , the previous simulation based pers maybe you 're talking about the same kind of thing . A general paper about the approach here would probably be appropriate .
+
+dialogue type : s
+A :  And good to do at some point anyway .
+
+dialogue type : fg
+A :  Um .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^2
+A :  Having it is still a good thing .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa|s^ba
+A :  Mm - hmm . It 's fun .
+
+dialogue type : qw
+A :  When is it and where ?
+
+dialogue type : s^bk|s^bk^m
+A :  Ah , it 's in Germany .
+
+dialogue type : s^bk
+A :  Ah , OK . I s I see .
+
+dialogue type : s^df
+A :  Tomasello 's already in Germany anyway ,
+
+dialogue type : s|s^bk
+A :  so makes sense . OK .
+
+dialogue type : fh
+A :  Um . OK .
+
+dialogue type : qr
+A :  So , is the What Are you just talking about you know , the details of how to do it , or whether to do it , or what it would be ?
+
+dialogue type : s^bk^m
+A :  Or what to write about ?
+
+dialogue type : b.%
+A :  Mm - hmm .
+
+dialogue type : b.%
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw
+A :  How many pages ?
+
+dialogue type : qw^br^bu^d^m^rt
+A :  Four pages ?
+
+dialogue type : s^bk|s^ba
+A :  OK , so it 's a little thing .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^bk|s^ba
+A :  OK . Four pages is , like , really not very much space .
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  And it 's also difficult to even if you had a lot of substance , it 's hard to demonstrate that in four pages , basically .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Uh - huh , uh - huh .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qy^bu^d^rt
+A :  Not including figures and such ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : %-
+A :  Well ,
+
+dialogue type : qy^bu^d^j^rt
+A :  ASCII ?
+
+dialogue type : s^bk|s^bu^rt
+A :  OK , look at the web page ?
+
+dialogue type : %-
+A :  Wha - w
+
+dialogue type : s.%-
+A :  More cues for us to find it are like , neural cons
+
+dialogue type : s|s^bk
+A :  Oh , you have a link . OK . OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^ba
+A :  Oh . Cool . Keith .
+
+dialogue type : s^ba
+A :  Cool , " cool Keith " .
+
+dialogue type : s^ba
+A :  Excellent .
+
+dialogue type : s
+A :  That 's a very cool T - shirt .
+
+dialogue type : qy^bu^d^rt
+A :  New York ?
+
+dialogue type : s^ba
+A :  Excellent .
+
+dialogue type : s^fa|qw^br
+A :  Sorry . Yes ?
+
+dialogue type : s^bk|s^ba
+A :  Oh , lucky you .
+
+dialogue type : qy^bu^d^rt
+A :  The idea that you and I already know about ?
+
+dialogue type : s^e^rt
+A :  That you already told me ?
+
+dialogue type : s^e.%-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  That 's what That 's what he says .
+
+dialogue type : s^ba
+A :  I kn That 's great !
+
+dialogue type : qy^rt
+A :  Does that mean Does that mean you 'll get you 'll fly us there ?
+
+dialogue type : %
+A :  Hhh !
+
+dialogue type : s^bk|s^ba
+A :  OK , cool .
+
+dialogue type : %-
+A :  Uh - a a
+
+dialogue type : s
+A :  I know I know about that part .
+
+dialogue type : s
+A :  I know about the the almond trees and stuff .
+
+dialogue type : s^rt
+A :  Not joking .
+
+dialogue type : s^co^j
+A :  Name a vegetable ,
+
+dialogue type : fg|s^cs^j^rt
+A :  OK . Oh , um , kiwi ?
+
+dialogue type : s^cs^rt
+A :  Coconut .
+
+dialogue type : s^rt
+A :  Pineapple .
+
+dialogue type : qy^d^rt
+A :  See ?
+
+dialogue type : s^cs^rt
+A :  Mango ?
+
+dialogue type : s^bk|qw^br^m
+A :  OK . OK . Too easy ?
+
+dialogue type : qy^bh
+A :  Really ?
+
+dialogue type : s^bk|s^df
+A :  Oh . OK , but I was trying to find something that he didn't grow on his farm .
+
+dialogue type : s^fa
+A :  Sorry .
+
+dialogue type : s.%--
+A :  Anyway .
+
+dialogue type : s^t3
+A :  Cantaloupe .
+
+dialogue type : s^nd|qy^d^f^g
+A :  But then in the end we 're not doing like those things right yet , right ?
+
+dialogue type : qr
+A :  Would that be clear in the paper or not ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  It would be like , this is the idea .
+
+dialogue type : s
+A :  Oh , I didn't get that ,
+
+dialogue type : qy^rt
+A :  did I ?
+
+dialogue type : s^fa
+A :  Oops .
+
+dialogue type : qy^r^rt
+A :  Did I ?
+
+dialogue type : s^fa
+A :  Oops . Sorry .
+
+dialogue type : s^fa
+A :  I 'm sorry . I 'm sorry , I 'm sorry . Sorry .
+
+dialogue type : s^co^t
+A :  OK , go on .
+
+dialogue type : s^j^t^tc
+A :  So parsing done right is like chicken done right .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bu
+A :  Parsing done right , interpretation done right , example .
+
+dialogue type : qw
+A :  And how much to get into the cognitive neural part ?
+
+dialogue type : s.%--
+A :  Well , you don't have t
+
+dialogue type : s
+A :  I mean the conference may be cognitive neural ,
+
+dialogue type : s
+A :  doesn't mean that every paper has to be both .
+
+dialogue type : s^e
+A :  Like , NLP cognitive neural .
+
+dialogue type : s
+A :  So i so this paper wouldn't particularly deal with that side
+
+dialogue type : s
+A :  although it could reference the NTL - ish sort of , like , um , approach .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^e
+A :  The fact that the methods here are all compatible with or designed to be compatible with whatever , neurological neuro neuro - biol su stuff .
+
+dialogue type : fg|s.%--
+A : 
+
+dialogue type : s.%
+A :  I mean you could definitely it 's definitely possible to do it .
+
+dialogue type : s
+A :  It 's just It 'd just be small .
+
+dialogue type : s
+A :  Like introducing the formalism might be not really possible in detail ,
+
+dialogue type : s^df
+A :  but you can use an example of it .
+
+dialogue type : b
+A :  Yeah , yeah .
+
+dialogue type : s
+A :  So it be like using the formalism rather than you know , introducing it per se .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  And people will sort of figure out or ask about the bits that are implicit .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^na
+A :  That 's th that 's definitely a good idea .
+
+dialogue type : s^ar|s^fa
+A :  No . Sorry .
+
+dialogue type : s^aa
+A :  Yes !
+
+dialogue type : qw
+A :  What 'd you say ?
+
+dialogue type : s^na
+A :  I do remember you talking to me .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s^cs
+A :  a few more bits .
+
+dialogue type : b
+A :  Oh .
+
+dialogue type : s^bk
+A :  Oh , yeah . OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qw^rt
+A :  So that was was that the question ?
+
+dialogue type : qy.%-
+A : 
+
+dialogue type : s^ba^fe
+A :  Oh my god , that 's amazing !
+
+dialogue type : s^fe
+A :  No way .
+
+dialogue type : s
+A :  Someone 's gonna start making Phil Collins jokes .
+
+dialogue type : s^fa
+A :  Sorry .
+
+dialogue type : s
+A :  You guys are too young .
+
+dialogue type : s
+A :  Yeah , come on .
+
+dialogue type : s^na
+A :  I know , that was horrible .
+
+dialogue type : s
+A :  Sussudio .
+
+dialogue type : s^fa
+A :  I 'm sorry , I haven't .
+
+dialogue type : s^e
+A :  Not on purpose .
+
+dialogue type : s^nd
+A :  No , he 's not .
+
+dialogue type : qy^bh^rt
+A :  Really ?
+
+dialogue type : s^fa|s^df
+A :  Oops . I didn't really listen to it ,
+
+dialogue type : s^df^e
+A :  I was too young .
+
+dialogue type : %--
+A :  Anyway .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^co
+A :  Stop excluding me .
+
+dialogue type : s
+A :  I can't believe that that 's never been thought of before .
+
+dialogue type : s
+A :  Cool Keith .
+
+dialogue type : s^co|qw
+A :  Wait , wait , what 's the middle thing ?
+
+dialogue type : %-
+A : 
+
+dialogue type : qw
+A :  But what is it ?
+
+dialogue type : b
+A :  OK .
+
+dialogue type : qy^rt
+A :  Is that supposed to be the international sign for interface ?
+
+dialogue type : s^bk
+A :  Mmm . OK .
+
+dialogue type : s.%-
+A :  OK . Just t
+
+dialogue type : s^bk
+A :  Cool .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  Cool .
+
+dialogue type : s^ba
+A :  That 's so great .
+
+dialogue type : qw^br^rt
+A :  User ?
+
+dialogue type : qw
+A :  What about the utterance ?
+
+dialogue type : s^bk
+A :  Oh , discourse .
+
+dialogue type : s|s^bk
+A :  So that 's not like context , OK .
+
+dialogue type : s^ba
+A :  Interesting ,
+
+dialogue type : b
+A :  uh - huh .
+
+dialogue type : s^t1
+A :  User .
+
+dialogue type : s^t1
+A :  User .
+
+dialogue type : qw^br
+A :  Grateful for us ?
+
+dialogue type : qy^e^rt
+A :  Did you just say grateful for us ?
+
+dialogue type : s^fa
+A :  OK , sorry .
+
+dialogue type : s.%--
+A :  Anyway .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bu.%--
+A : 
+
+dialogue type : fh|s
+A :  OK , so the you 're looking for a few keys that you know are cues to sorry , a few specific cues to some intention .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk|qy^bu^d:qw
+A :  OK . Just " where is X " ?
+
+dialogue type : s^e
+A :  Or any variants of that .
+
+dialogue type : %-
+A :  s
+
+dialogue type : s^2^bu
+A : 
+
+dialogue type : s^bu^e
+A :  or th the ontology will tell us where actually it is located ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK . OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  So you 're talking about , for instance , the construction obviously involves this entity or refers refers to this entity ,
+
+dialogue type : s^bu
+A : 
+
+dialogue type : s^bsc^bu
+A :  is or a thing thing that can be located .
+
+dialogue type : s
+A :  Right ? Ontology says this thing has a location slot .
+
+dialogue type : s:qw
+A :  Sh - and that 's the thing that is being that is the content of the question that 's being queried by one interpretation of " where is X " .
+
+dialogue type : s
+A :  And another one is , um , path from current user current location to that location .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : qy.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : qy
+A :  Is the question , for this particular construction how we specify that that 's the information it provides ?
+
+dialogue type : qrr
+A :  Or or asked for ?
+
+dialogue type : s^e|qy^d^g
+A :  b Both sides , right ?
+
+dialogue type : qr^bu
+A :  Observed when you heard the speaker say " where is X " , or when when that 's been parsed ?
+
+dialogue type : s^bu^rt
+A :  So these little circles you have by the D ?
+
+dialogue type : qy.%-
+A :  Is that ?
+
+dialogue type : s^bk
+A :  OK . OK .
+
+dialogue type : %-
+A :  Is - uh ,
+
+dialogue type : b.%
+A :  Yeah .
+
+dialogue type : %-
+A :  So un
+
+dialogue type : fg|s
+A :  So I agree with that .
+
+dialogue type : s
+A :  I have a different kinda question ,
+
+dialogue type : s
+A :  might be related ,
+
+dialogue type : s^bu|qy^d^g^rt
+A :  which is , OK so implicitly everything in EDU , we 're always inferring the speaker intent , right ?
+
+dialogue type : s
+A :  Like , what they want
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bu
+A :  It 's always information that they want probably , of some kind .
+
+dialogue type : qy^d^g
+A :  Right ?
+
+dialogue type : s^no
+A :  Or I I don't know ,
+
+dialogue type : s^e.%-
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : fh
+A :  So , um ,
+
+dialogue type : s
+A :  let 's see .
+
+dialogue type : s^no
+A :  So I don't know if the I mean i if th just there 's more s here that 's not shown that you it 's already like part of the system whatever ,
+
+dialogue type : s.%--:qw.%--
+A :  but , " where is X " , like , the fact that it is , you know , a speech - act , whatever ,
+
+dialogue type : s
+A :  it is a question .
+
+dialogue type : s
+A :  It 's a question that , um , queries on some particular thing X ,
+
+dialogue type : s
+A :  and X is that location .
+
+dialogue type : s
+A :  There 's , like , a lot of structure in representing that .
+
+dialogue type : s^bu
+A :  So that seems different from just having the node " location - X "
+
+dialogue type : s|qy^d^g
+A :  and that goes into EDU , right ?
+
+dialogue type : qy
+A :  So tha is that what you 're t talking about ?
+
+dialogue type : s^e
+A :  wh what kinds of structure we want .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^bk|s.%-
+A : 
+
+dialogue type : fg|s
+A :  um , so in some ways in the other sort of parallel set of mo more linguistic meetings we 've been talking about possible semantics of some construction .
+
+dialogue type : qy^d^f^g
+A :  Right ?
+
+dialogue type : %--
+A :  Where it was
+
+dialogue type : s
+A :  the simulation that 's , according to it you know , that that corresponds to it , and as well the as discourse ,
+
+dialogue type : s
+A :  whatever , conte infor in discourse information ,
+
+dialogue type : s
+A :  such as the mood ,
+
+dialogue type : s
+A :  and , you know , other stuff .
+
+dialogue type : qy^rt
+A :  So , are we looking for a sort of abbreviation of that , that 's tailored to this problem ?
+
+dialogue type : s^df
+A :  Cuz that that has , you know , basically , you know , s it 's in progress still
+
+dialogue type : s^df^e
+A :  it 's in development still ,
+
+dialogue type : s
+A : 
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk|s^bu:qw
+A :  OK . That exactly " where is X " ,
+
+dialogue type : s^bu^e
+A :  not the the choices of " where is X " or " how do I get to X " .
+
+dialogue type : s^bu
+A :  Just " where is X " .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qr
+A :  Wait , so do , or do not take other kinds of constructions into account ?
+
+dialogue type : s^bk|s
+A :  OK . Where possible .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s.%--
+A :  Um , it seems like for instance , " where is X " , the fact that it might mean um , " tell me how to get to X " ,
+
+dialogue type : fh
+A : 
+
+dialogue type : qy.%--
+A : 
+
+dialogue type : s|s^f
+A :  Those are the two interpretations , right ?
+
+dialogue type : s^e
+A :  the the ones that are location or path .
+
+dialogue type : s
+A :  So , you could say that the s construction is a question asking about this location ,
+
+dialogue type : s
+A :  and then you can additionally infer , if they 're asking about the location , it 's because they wanna go to that place ,
+
+dialogue type : s:s
+A :  in which case , the you 're jumping a step step and saying , " oh , I know where it is
+
+dialogue type : s:s
+A :  but I also know how to get they wanna seem they seem to wanna get there so I 'm gonna tell them " .
+
+dialogue type : s.%-
+A :  So there 's like structure
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  So it 's like you infer the speaker intent ,
+
+dialogue type : s
+A :  and then infer a plan , a larger plan from that , for which you have the additional information ,
+
+dialogue type : s^e
+A :  you 're just being extra helpful .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A : 
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : b
+A :  Right ,
+
+dialogue type : %-
+A :  like ,
+
+dialogue type : s
+A :  with context and enough user information ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : qy^bu^d^rt
+A :  Fifty ?
+
+dialogue type : qy^bu^d^e^rt
+A :  You 've had fifty so far ,
+
+dialogue type : qrr.%-
+A :  or ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm .
+

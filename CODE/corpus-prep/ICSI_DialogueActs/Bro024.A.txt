@@ -1,0 +1,129 @@
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s^aa
+A :  OK .
+
+dialogue type : fh|s^rt
+A :  Um , so for the past , uh , week an or two , I 've been just writing my , uh , formal thesis proposal .
+
+dialogue type : fh|s
+A :  Um , so I 'm taking this qualifier exam that 's coming up in two weeks .
+
+dialogue type : s
+A :  And I I finish writing a proposal and submit it to the committee .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : fh|qy
+A :  And uh , should I should I explain , uh , more about what what I 'm proposing to do , and s and stuff ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s
+A :  so briefly , I 'm proposing to do a n a new p approach to speech recognition using um , a combination of , uh , multi - band ideas and ideas , um , about the uh , acoustic phonec phonetic approach to speech recognition .
+
+dialogue type : fh|s
+A :  Um , so I will be using these graphical models that um , that implement the multi - band approach to recognize a set of intermediate categories that might involve , uh , things like phonetic features or other other f feature things that are more closely related to the acoustic signal itself .
+
+dialogue type : fh|s^df
+A :  Um , and the hope in all of this is that by going multi - band and by going into these , um intermediate classifications , that we can get a system that 's more robust to to unseen noises , and situations like that .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : fh
+A :  and so ,
+
+dialogue type : s
+A :  some of the research issues involved in this are , um , one , what kind of intermediate categories do we need to classify ?
+
+dialogue type : fh|s
+A :  Um , another one is um , what what other types of structures in these multi - band graphical models should we consider in order to um , combine evidence from the sub - bands ?
+
+dialogue type : fh|s
+A :  And , uh , the third one is how do we how do we merge all the , uh , information from the individual uh , multi - band classifiers to come up with word word recognition or or phone recognition things .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s
+A :  so basically that 's that 's what I 've been doing .
+
+dialogue type : fh
+A :  And ,
+
+dialogue type : s^na
+A :  I got two weeks to brush up on d um , presentation stuff
+
+dialogue type : fh
+A :  and , um ,
+
+dialogue type : fh
+A :  But .
+
+dialogue type : s^bk|s^na
+A :  Oh , that too .
+
+dialogue type : %
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : s^aa^r
+A :  Yes .
+
+dialogue type : s^na
+A :  I , um I 'm I 'm gonna do some .
+
+dialogue type : qy^rt
+A :  Would you be interested ?
+
+dialogue type : s^e
+A :  To help out ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^ft
+A :  Thanks .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s^na
+A :  That 's it .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy
+A :  Is this is this VAD a MLP ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qw
+A :  How how big is it ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : z
+A :  Seven .
+
+dialogue type : z
+A :  So I I 'm eight ,
+
+dialogue type : z
+A :  you 're seven .
+
+dialogue type : z
+A :  Yeah .
+

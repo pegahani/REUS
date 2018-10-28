@@ -1,0 +1,999 @@
+dialogue type : qy.%--
+C :  So are you
+
+dialogue type : qy^rt
+C :  Are we going ?
+
+dialogue type : %--
+C :  Yu
+
+dialogue type : s
+C :  I think the date 's written in there , yep .
+
+dialogue type : s^co^rt
+C :  And actually if everyone could cross out the R - nine next to " Session " , and write MR eleven .
+
+dialogue type : s^co
+C :  And let 's remember also to make sure that one 's gets marked as unread , unused .
+
+dialogue type : s^aa^m
+C :  MR eleven .
+
+dialogue type : s^t1
+C :  There 's lots of clicking I 'm sure as I 'm trying to get this to work correctly .
+
+dialogue type : s^t
+C :  I wanna talk a little bit about getting how we 're gonna to get people to edit bleeps , parts of the meeting that they don't want to include .
+
+dialogue type : s^e
+C :  What I 've done so far , and I wanna get some opinions on , how to how to finish it up .
+
+dialogue type : qy^bh
+C :  Oh really .
+
+dialogue type : s
+C :  Clicks .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%--
+C :  Well , I think it 's
+
+dialogue type : fh|s
+C :  uh , it it could be a number of things .
+
+dialogue type : s^e
+C :  It could be touching and fiddling ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : sj
+C :  the fact that it 's on a wired mike is suspicious .
+
+dialogue type : s
+C :  It might be a connector .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^cs
+C :  Well maybe it would be a good idea for one of us to like on Wednesday , or Tuesday send out a reminder for people to send in agenda items .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : %-
+C :  Let me
+
+dialogue type : s
+C :  I 'll put that on my spare brain or it will not get done .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^am
+C :  Maybe .
+
+dialogue type : s^j^rt
+C :  Weirder things have happened .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bk
+C :  Yeah , actually I I was going to say we need to talk about that too .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fh|s
+C :  Um , the new microphones , the two new ones are in .
+
+dialogue type : fh|s
+C :  Um . And they are being assembled as we speak , I hope .
+
+dialogue type : s^cc
+C :  And I didn't bring my car today so I 'm gonna pick them up tomorrow .
+
+dialogue type : fh|s
+C :  Um , and then the other question I was thinking about is well , a couple things .
+
+dialogue type : s^cs
+C :  First of all , if the other headsets are a lot more comfortable , we should probably just go ahead and get them .
+
+dialogue type : s
+C :  So we 'll have to evaluate that when they come in ,
+
+dialogue type : s
+C :  and get people 's opinions on on what they think of them .
+
+dialogue type : fh|s^cs
+C :  Um , then the other question I had is maybe we should get another wireless .
+
+dialogue type : s^e
+C :  Another wireless setup .
+
+dialogue type : s^df
+C :  I mean it 's expensive , but it does seem to be better than the wired .
+
+dialogue type : h|s
+C :  Um , well , I 'm pretty sure that you can daisy - chain them together
+
+dialogue type : s
+C :  so what we would do is replace the wired mikes with wireless .
+
+dialogue type : s
+C :  So we currently have one base station with six wireless mike ,
+
+dialogue type : s
+C :  possibility of six wireless receivers ,
+
+dialogue type : s
+C :  and apparently you can chain those together .
+
+dialogue type : s
+C :  And so we could replace our wired mikes with wireless if we bought another base station and more wireless mikes .
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  So , you know it 's still , it 's fifteen minus six .
+
+dialogue type : qy^d^f^g
+C :  Right ?
+
+dialogue type : s
+C :  So we could have up to nine .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  And we have five , we 're getting one more .
+
+dialogue type : s
+C :  And it 's um , about nine hundred dollars for the base station ,
+
+dialogue type : s
+C :  and then eight hundred per channel .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^cc
+C :  OK , so I 'll look into how you daisy - chain them and and then just go ahead and order them .
+
+dialogue type : s^ar|s
+C :  No , we 're just replacing the wired the two wired that are still working ,
+
+dialogue type : s
+C :  along with a couple of the wired that aren't working , one of the wired that 's not working , with a wireless .
+
+dialogue type : s^na
+C :  I I guess three wireds work , yeah .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : qy^rt
+C :  Everyone 's battery OK ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^cs
+C :  Well we should talk to them about it because I know that SRI is also in the process of looking at stuff ,
+
+dialogue type : s
+C :  and so , you know , what we should try to keep everyone on the same page with that .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s.%--
+C :  They got sa apparent
+
+dialogue type : qy^rt
+C :  Well , Maybe this needs to be bleeped out ?
+
+dialogue type : s^no
+C :  I have no clue .
+
+dialogue type : s^no
+C :  I don't know how much of it 's public .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : h|s^ar
+C :  Uh , no ,
+
+dialogue type : s
+C :  we 're having the them do it .
+
+dialogue type : s
+C :  So it 's so hand - soldering it , but I 'm not doing it .
+
+dialogue type : s^bu
+C :  So , they they charge
+
+dialogue type : qy^d^g^rt
+C :  right .
+
+dialogue type : s
+C :  You 've never seen my hand - soldering .
+
+dialogue type : s
+C :  But uh , a as I said they 're coming in .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : fh
+C :  I mean .
+
+dialogue type : s^aap
+C :  As professionally as I guess you can get it done .
+
+dialogue type : s
+C :  I mean i it 's just their repair shop .
+
+dialogue type : qy^f^g
+C :  Right ?
+
+dialogue type : s
+C :  Their maintenance people .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s
+C :  And , I mean we 'll see , tomorrow , you know , what it looks like .
+
+dialogue type : s^bk|fg|s
+C :  Right , so , the decision was that Jane did not want the transcribers to be doing any of the paperwork .
+
+dialogue type : s
+C :  So I did the all that last week .
+
+dialogue type : s
+C :  So all the all the forms are now on the computer .
+
+dialogue type : s
+C :  And uh , then I have a bunch of scripts that we 'll read those and let the uh transcribers use different tools .
+
+dialogue type : s
+C :  And I just want to talk to Jane about how we transition to using those .
+
+dialogue type : s
+C :  I I don't think it 'll take too long .
+
+dialogue type : s^e
+C :  So , you know , just uh , a matter of a few days I suspect .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s
+C :  I 've already done five or six sets .
+
+dialogue type : s^cs
+C :  So if he wanted to , you know , just have a few to start with , he could .
+
+dialogue type : s
+C :  You know , and I also have a bunch of scripts that will , like , generate P - files and run recognition on them also .
+
+dialogue type : fg|s
+C :  Uh , we don't have a active one
+
+dialogue type : s^cc
+C :  but I 'll make sure he 's on the list .
+
+dialogue type : s
+C :  I mean , he 's still taking classes , so uh , he may well have conflicts .
+
+dialogue type : qy^bu
+C :  Yeah didn't he say his signal - processing class was like Tuesdays and Thursdays ?
+
+dialogue type : sj^by
+C :  Oh well , whatever .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Well , we have about thirty - two hours
+
+dialogue type : h|s
+C :  uh as of , I guess a week and a half ago ,
+
+dialogue type : s
+C :  so we probably now have about thirty - five hours .
+
+dialogue type : s^m^na
+C :  That 's including digits .
+
+dialogue type : s
+C :  I haven't separated it out so I have no clue how much of that is digits .
+
+dialogue type : qy^bu^rt
+C :  Of of non - digits ?
+
+dialogue type : s^aa
+C :  Yeah , absolutely .
+
+dialogue type : s
+C :  I mean , the digits don't take up that much time .
+
+dialogue type : s^2
+C :  Nine two ,
+
+dialogue type : b
+C :  right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^2
+C :  Misspelled .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^2
+C :  You don't know what they could be .
+
+dialogue type : qw.%--
+C : 
+
+dialogue type : qw
+C :  How are you doing the uh , acronyms so if I say PZM what would it appear on the transcript ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  So it sounds good .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : qy^rt
+C :  Have you also been doing spot checks , Jane ?
+
+dialogue type : s^bk
+C :  Okay , good .
+
+dialogue type : sj^ba
+C :  Oh good .
+
+dialogue type : sj^ba
+C :  Good .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  It was a technical term that she didn't recognize ,
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^2
+C :  Obscure ,
+
+dialogue type : b
+C :  yeah .
+
+dialogue type : qy^rt
+C :  Is this anything different than the HMM system you were using before ?
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bu
+C :  So there 's still no no knowledge using different channels at the same time .
+
+dialogue type : qy^f
+C :  You know what I mean ?
+
+dialogue type : s^2
+C :  Across all of them .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Good .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  We need to provide the transcripts to every participant of every meeting to give them an opportunity to bleep out sections they don't want .
+
+dialogue type : s
+C :  So I 've written a bunch of tools that will generate web pages , uh with the transcription in it so that they can click on them and piece pieces and they can scroll through and read them ,
+
+dialogue type : s
+C :  and then they can check on each one if they want it excluded .
+
+dialogue type : s
+C :  And then , it 's a form , HTML form , so they can submit it and it will end up sending me email with the times that they want excluded .
+
+dialogue type : s
+C :  And so , uh , some of the questions on this is what do we do about the privacy issue .
+
+dialogue type : s
+C :  And so I thought about this a little bit and I think the best way to do it is every participant will have a password ,
+
+dialogue type : s^e
+C :  a single password .
+
+dialogue type : s
+C :  Each person will have a single password , user name and password .
+
+dialogue type : s
+C :  And then each meeting , we 'll only allow the participants who were at that meeting to look at it .
+
+dialogue type : s
+C :  And that way each person only has to remember one password .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa|s^df
+C :  Right , I mean so th th th the fact that you could listen to it over the web is a minor thing that I had already done for other reasons .
+
+dialogue type : s
+C :  And so that that 's a minor part of it ,
+
+dialogue type : s
+C :  I just wanted some web interface so that people you didn't actually have to send everyone the text .
+
+dialogue type : s
+C :  So m what my intention to do is that as the transcripts become ready , um I would take them , and generate the web pages
+
+dialogue type : s
+C :  and send email to every participant or contact them using the contact method they wanted ,
+
+dialogue type : s
+C :  and just uh , tell them , " here 's the web page " ,
+
+dialogue type : s
+C :  um , " you need a password " .
+
+dialogue type : qw
+C :  So th th question number one is how do we distribute the passwords ,
+
+dialogue type : qw
+C :  and question number two is how else do we wanna provide this information if they want it .
+
+dialogue type : s
+C :  I think that um there are a subset of people who will want printouts that we can certainly provide .
+
+dialogue type : s
+C :  But certainly I wouldn't want a printout .
+
+dialogue type : sj
+C :  These are big ,
+
+dialogue type : s^df
+C :  and I would much rather be ha be able to just sit and leaf through it .
+
+dialogue type : s
+C :  Well I certainly read books by hand .
+
+dialogue type : s
+C :  But for something like this , I think it 's easier to do it on the web .
+
+dialogue type : s
+C :  Cuz you 're gonna get , you know , if I I 'm I 'm in a bunch of meetings and I don't wanna get a stack of these .
+
+dialogue type : s
+C :  I wanna just be able to go to go to the web site and visit it as I want .
+
+dialogue type : sj^df^ng
+C :  Well , I don't think it 's that much harder than , paper .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^nd.%-
+C : 
+
+dialogue type : s^nd
+C :  For the most frequent case they just say " it 's OK "
+
+dialogue type : s
+C :  and then they 're done .
+
+dialogue type : s
+C :  And I think almost everyone would rather do that by email than any other method .
+
+dialogue type : s^df
+C :  I mean , cuz you don't have to visit the web page if you don't want to .
+
+dialogue type : s
+C :  Oh that was another thing
+
+dialogue type : s
+C :  I I had assumed that we didn't need their signature , that it that an email approval was sufficient .
+
+dialogue type : s^no
+C :  But I don't actually know .
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s
+C :  If someone feels strongly enough about it , then I I I think they should be allowed to do that .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^df
+C :  Well , the only other choice is that the person would say " no , don't distribute this meeting at all " ,
+
+dialogue type : s
+C :  and I would rather they were able to edit out other people then just say " don't distribute it at all " .
+
+dialogue type : s
+C :  Well , but if if someone is having a conversation , and you only bleep out one side of it , that 's not sufficient .
+
+dialogue type : h|s^nd
+C :  Um , I don't think so .
+
+dialogue type : s.%-
+C :  I mean , because if I object to the conversation .
+
+dialogue type : s
+C :  If I say " we were having a conversation , and I consider that conversation private , " and I consider that your side of it is enough for other people to infer , I wanna be able to bleep out your side .
+
+dialogue type : s^cs
+C :  I mean I can certainly provide a printable version if people want it .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : sj
+C :  Well I think most of the people in the meetings are the former .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : s^aa^m
+C :  Right .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^ng
+C :  Well , but if they want to print it out that 's alright .
+
+dialogue type : s
+C :  I think everyone in the meeting can access the web .
+
+dialogue type : s^bk|qy^rt
+C :  OK , so does that mean that I can't use email ?
+
+dialogue type : qrr
+C :  Or what ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  well I don't think we can send the text through email because of the privacy issues .
+
+dialogue type : fh|qy^bu
+C :  Um . So giving them , you think a web site to say , " if you wanna print it out here it is " , is not sufficient ?
+
+dialogue type : fg|s
+C :  Yeah , I 'm just thinking for people that that 's not sufficient for , what the only sufficient thing would be for me to walk up to them and hand it to them .
+
+dialogue type : s^ng
+C :  Equivalent .
+
+dialogue type : s^aa
+C :  That 's right .
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^e
+C :  Whole utterances only .
+
+dialogue type : s.%--
+C :  And that was just convenience for my sake , that it 's uh , uh
+
+dialogue type : s
+C :  it would end up being fairly difficult to edit the transcripts if we would do it at the sub - utterance level .
+
+dialogue type : s
+C :  Because this way I can just delete an entire line out of a transcript file rather than have to do it by hand .
+
+dialogue type : s^df
+C :  I mean that 's why I did the web form , because for me that would be my most convenient .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : s^ng
+C :  I guess I don't see having a few phrases here and there in a meeting being that mu much of a headache , bleeped out .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^nd
+C :  Well I don't see any way of avoiding that .
+
+dialogue type : s
+C :  I mean , we have to provi we have promised that we would provide them the transcript and that they can remove parts that they don't like .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^df^ng
+C :  The problem is if it 's harder for them it 's also harder for me .
+
+dialogue type : s
+C :  Whereas this web interface , I just get email ,
+
+dialogue type : s
+C :  it 's all formatted ,
+
+dialogue type : s
+C :  it 's all ready to go and I can just insert it .
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  Well , to some extent I have to do that anyway because as I said we have to distribute passwords .
+
+dialogue type : fh
+C :  So ,
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  what I 'm saying is that I can't just email them the password because that 's not secure .
+
+dialogue type : s
+C :  So they have to call me and ask .
+
+dialogue type : s^na
+C :  Well , we do because of privacy .
+
+dialogue type : s^e
+C :  We can't just make it openly available on the web .
+
+dialogue type : s^ng
+C :  But the the problem with what you 're suggesting is it 's not just inconvenient for them , it 's inconvenient for me .
+
+dialogue type : s^df
+C :  Because that means multiple contacts every time for every single meeting every time anyone wants anything .
+
+dialogue type : s^cs^df
+C :  I would much prefer to have all be automatic , they visit the web site if they want to .
+
+dialogue type : s
+C :  Obviously they don't have to .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  So I think you 're thinking people are going to arbitrarily start bleeping and I just don't think that 's gonna happen .
+
+dialogue type : s
+C :  It seems to me that sending them email , saying " if you have an O - OK reply to this email and say OK ,
+
+dialogue type : s
+C :  If you have a problem with it contact me and I 'll give you a password " ,
+
+dialogue type : sj
+C :  seems like is a perfectly , reasonable compromise .
+
+dialogue type : s
+C :  And if they want a printout they can print it out themselves .
+
+dialogue type : s^2
+C :  Having it .
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  the consent form is right in there if anyone wants to look at it ,
+
+dialogue type : fh
+C :  so .
+
+dialogue type : qy^rt
+C :  D you want me to grab one ?
+
+dialogue type : s^aa|s^arp
+C :  Yeah , but you 're wired
+
+dialogue type : qy^d^g^rt
+C :  aren't you ?
+
+dialogue type : s
+C :  " If you agree to participate you 'll have the opportunity to have anything ex anything excised , which you would prefer not to have included in the data set . "
+
+dialogue type : s
+C :  " Once a transcript is available we will ask your permission to include the data in the corpus for the r larger research community .
+
+dialogue type : s
+C :  There again you will be allowed to indicate any sections that you 'd prefer to have excised from the database ,
+
+dialogue type : s
+C :  and they will m be removed both from the transcript and the recording . "
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  The one question is definitely clear with anything as opposed to just what you said .
+
+dialogue type : s
+C :  They just have to make sure that it is available to them .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^ng
+C :  It 's just a check box next to the text , it 's not any fun at all .
+
+dialogue type : s
+C :  Well , but they won't get that feedback .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^ar|s^df
+C :  no because it doesn't automatically bleep it at the time .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  It just sends me the time intervals .
+
+dialogue type : s
+C :  And then at some point I 'll incorporate them all and put bleeps .
+
+dialogue type : s
+C :  I mean I don't wanna have t ha do that yet until we actually release the data
+
+dialogue type : s
+C :  because um , then we have to have two copies of every meeting
+
+dialogue type : s
+C :  and we 're already short on disk space .
+
+dialogue type : s
+C :  So I I wanna I just keep the times until we actually wanna release the data and
+
+dialogue type : s
+C :  then we bleep it .
+
+dialogue type : qy^rt
+C :  Well since you seem to feel heart uh , strongest about it , would you like to do the first pass ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^nd
+C :  I don't think so .
+
+dialogue type : fg|s
+C :  Yeah because thi th they 're signing here that they 're agreeing to the paragraph which says " you 'll be given an opportunity . "
+
+dialogue type : s
+C :  And so I don't think they need another signature .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  So I guess I probably should at the minimum , think about how to present it in a printed form .
+
+dialogue type : s^no
+C :  I 'm not really sure what 's best with that .
+
+dialogue type : s^rt
+C :  The problem is a lot of them are really short ,
+
+dialogue type : s
+C :  and so I don't necessarily wanna do one per line .
+
+dialogue type : s^no^r
+C :  But I don't know how else to do it .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : %--
+C : 
+
+dialogue type : sj
+C :  my opinion probably is that the only time someone will need to listen to it is if the transcript is uh not good .
+
+dialogue type : s
+C :  You know , if if there are lots of mumbles and parentheses and things like that .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : qy^bu^rt
+C :  That was all mumbled ?
+
+dialogue type : s^j.%--
+C :  I think Microsoft is
+
+dialogue type : s^by^t3
+C :  Sorry transcribers .
+
+dialogue type : sj
+C :  They 're gonna hate this meeting .
+
+dialogue type : sj^bsc
+C :  Actually Liz will like it .
+
+dialogue type : fh
+C :  You know , but .
+
+dialogue type : s^aa
+C :  Yep , yep , that 's right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^cs
+C :  Well that would be good to get , definitely .
+
+dialogue type : s^e
+C :  Just for corrections .
+
+dialogue type : s
+C :  So um , in terms of password distribution , I think phone is really the only way to do it ,
+
+dialogue type : s
+C :  phone and in person .
+
+dialogue type : s
+C :  Or mail , physical mail .
+
+dialogue type : %--
+C :  Any sub - wor
+
+dialogue type : b
+C :  Yeah , OK .
+
+dialogue type : s
+C :  I mean you could do it with PGP or things like that but it 's too complex .
+
+dialogue type : s^2^rt
+C :  You probably won't listen to it .
+
+dialogue type : qo^j
+C :  How about them energy crises .
+
+dialogue type : qy^2^rt
+C :  Done ?
+
+dialogue type : qy^rt
+C :  Shall we do digits ?
+
+dialogue type : fg|s.%--
+C : 
+
+dialogue type : fh|s^cs.%--
+C :  Uh , we should count out
+
+dialogue type : qw
+C :  how many more digits to forms do we have back there ?
+
+dialogue type : s^bk
+C :  That 's what I thought .
+
+dialogue type : s
+C :  I f I was going through them all and I found actually a lot filed in with them , that were blanks , that no one had actually read .
+
+dialogue type : s.x
+C :  And so we still have more than I thought we did .
+
+dialogue type : s.x
+C :  So , we have a few more digits before we 're done .
+
+dialogue type : z
+C :  Oops .
+
+dialogue type : z
+C :  I 'd like a burger with that ,
+
+dialogue type : z
+C :  do you want fries with that ?
+
+dialogue type : z
+C :  And
+

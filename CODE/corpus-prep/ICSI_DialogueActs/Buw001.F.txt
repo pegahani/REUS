@@ -1,0 +1,246 @@
+dialogue type : s^ar|s
+F :  No , uh , that that wasn't recorded .
+
+dialogue type : s
+F :  Temple squeezers .
+
+dialogue type : s
+F :  I guess I have to d stop doing this sigh of contentment , you know , after sipping cappuccino or something .
+
+dialogue type : s.%-
+F :  I was just noticing a big s
+
+dialogue type : s
+F :  I mean , the down - side to that is that he sort of indicated that the , uh , quality of the handwriting recognition was quite poor .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s
+F :  Eric on channel nine .
+
+dialogue type : s
+F :  There 's there 're sub - problems in that ,
+
+dialogue type : qh^e
+F :  in that where or when do you actually ask them about that ?
+
+dialogue type : s
+F :  I mean , that was One thing I was thinking about was is that Dan said earlier that , you know , maybe two weeks later , which is when you would want to query these things , you might ask them then .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  If you don't have an interactive system , it 's gonna be hard to go beyond sort of the first level of question .
+
+dialogue type : qy^d^g^rt
+F :  Right .
+
+dialogue type : s^e
+F :  And furth id explore the data further .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : qy^rt
+F :  Did they store it digitally ,
+
+dialogue type : qrr.%--
+F :  or ?
+
+dialogue type : qrr
+F :  or just put it on videotape ?
+
+dialogue type : s^cs
+F :  Or even just have one or two people stay behind .
+
+dialogue type : b.%
+F :  Hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^t^tc
+F :  So I have a question about queries ,
+
+dialogue type : s.%-
+F :  which is , um ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^no.%
+F :  I don't know .
+
+dialogue type : s
+F :  There you go .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^ba
+F :  Good .
+
+dialogue type : fg
+F :  So ,
+
+dialogue type : qy^bu^d^rt^t
+F :  the question I had about queries was , um , so what we 're planning to do is have people look at the summaries and then generate queries ?
+
+dialogue type : qy^e.%-
+F :  Are are we gonna try and o
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s.%-
+F :  Well , I mean ,
+
+dialogue type : qy
+F :  so , the question I had is is have we given any thought to how we would generate queries automatically given a summary ?
+
+dialogue type : s
+F :  I mean , I think that 's a whole research topic un unto itself ,
+
+dialogue type : s^bd
+F :  so that it may not be a feasible thing .
+
+dialogue type : fh
+F : 
+
+dialogue type : %-
+F :  n
+
+dialogue type : s^no
+F :  Well , I 'm not sure I 'm not sure that 's a solved problem .
+
+dialogue type : qy^d^g
+F :  Right ?
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  That was sort of what my question was aimed towards .
+
+dialogue type : %-
+F : 
+
+dialogue type : qh
+F :  The question the question then is h h how much bias do we introduce by you know , introduce by saying , you know , this was important now
+
+dialogue type : s^e
+F :  and , you know , maybe tha something else is important later ?
+
+dialogue type : qy
+F :  I mean , does it does the bias matter ?
+
+dialogue type : s^no
+F :  I I don't know .
+
+dialogue type : s
+F :  I mean , uh , that 's , I guess , a question for you guys .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^aa
+F :  Uh , yeah , yeah .
+
+dialogue type : s^aa
+F :  Sure , sure .
+
+dialogue type : s.%--
+F :  But I I I guess that 's the question , really , is that I mean ,
+
+dialogue type : qy
+F :  does building queries based on what 's important now introduce an irreversible bias on being able to do what Morgan wants to do later ?
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^aa
+F :  Sure .
+
+dialogue type : s^na
+F :  I agree .
+
+dialogue type : s
+F :  I think " important " can often be uninteresting .
+
+dialogue type : %-
+F :  But w
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa|s
+F :  Right . It doesn't it isn't difficult for us to do ,
+
+dialogue type : s
+F :  so we might as well just do it .
+
+dialogue type : s^j:s
+F :  " Here 's a mysterious file
+
+dialogue type : fh
+F :  and "
+
+dialogue type : s^t1
+F :  Adam !
+
+dialogue type : s^nd
+F :  I 'm not .
+
+dialogue type : s^bk
+F :  Oh !
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : s
+F :  I 'm gonna pass
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : s^df
+F :  I mean , of the Jane took my answer .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s
+F :  so I 'm gonna pass for the moment
+
+dialogue type : s^co
+F :  but y come come back to me .
+
+dialogue type : s
+F :  Well , I mean , one thing you could search for is were people laughing a lot .
+
+dialogue type : qy^d^f^g
+F :  Right ?
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^aa
+F :  No .
+
+dialogue type : s^bk
+F :  OK .
+

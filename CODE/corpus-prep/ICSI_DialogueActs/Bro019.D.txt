@@ -1,0 +1,651 @@
+dialogue type : z
+D :  R - nineteen ?
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s
+D :  So it it 's it 's not systematically queued .
+
+dialogue type : s^df
+D :  I mean all the jobs are running .
+
+dialogue type : s^e
+D :  If you launch twenty jobs , they are all running .
+
+dialogue type : fh
+D :  Alright .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : h
+D :  Mm - hmm .
+
+dialogue type : s^rt
+D :  It was system one .
+
+dialogue type : fh
+D :  So
+
+dialogue type : %--
+D : 
+
+dialogue type : s^rt
+D :  The main thing that we did is just to take the spectral subtraction from the France Telecom ,
+
+dialogue type : s^e^rt
+D :  which provide us some speech samples that are uh , with noise removed .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  But I guess it 's the s exactly the same thing
+
+dialogue type : s^bu^df
+D :  because on the heads uh , handset they just applied this Wiener filter and then compute cepstral features ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : qrr.%--
+D :  or ?
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk|s^cs
+D :  Yeah , well I think we should uh , have a table with all the result
+
+dialogue type : s^df^no
+D :  because I don't know I uh , I don't exactly know what are your results ?
+
+dialogue type : fh
+D :  But ,
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : fg|s
+D :  Yeah , but so we did this ,
+
+dialogue type : s
+D :  and another difference I guess is that we just applied uh , proposal - one system after this
+
+dialogue type : s^e
+D :  without well , with our modification to reduce the delay of the the LDA filters ,
+
+dialogue type : fh
+D :  and
+
+dialogue type : s
+D :  Well there are slight modifications ,
+
+dialogue type : s
+D :  but it was the full proposal - one .
+
+dialogue type : s^cs^rt
+D :  In your case , if you tried just putting LDA , then maybe on - line normalization ?
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : s^rt
+D :  So we just tried directly to to just , keep the system as it was
+
+dialogue type : fh
+D :  and ,
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s^rt
+D :  when we plug the spectral subtraction it improves uh , signif significantly .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s
+D :  but , what seems clear also is that we have to retune the time constants of the on - line normalization .
+
+dialogue type : s^df
+D :  Because if we keep the value that was submitted uh , it doesn't help at all .
+
+dialogue type : s^df
+D :  You can remove on - line normalization , or put it , it doesn't change anything .
+
+dialogue type : s^e
+D :  Uh , uh , as long as you have the spectral subtraction .
+
+dialogue type : s
+D :  But , you can still find some kind of optimum somewhere ,
+
+dialogue type : s^no
+D :  and we don't know where exactly
+
+dialogue type : fh
+D :  but ,
+
+dialogue type : fh
+D :  uh .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^ng
+D :  Well ,
+
+dialogue type : s^nd
+D :  with with with changes ,
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^m^rt
+D :  LDA filters .
+
+dialogue type : s
+D :  There are other things that we finally were shown to improve also
+
+dialogue type : s^e^rt
+D :  like , the sixty - four hertz cut - off .
+
+dialogue type : s^e^rt
+D :  w Uh , it doesn't seem to hurt on TI - digits , finally .
+
+dialogue type : s^df^rt
+D :  Maybe because of other changes .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s^rt
+D :  well there are some minor changes ,
+
+dialogue type : s^bk
+D :  yeah .
+
+dialogue type : s
+D :  And , right now if we look at the results , it 's , um , always better than it seems always better than France Telecom for mismatch and high - mismatch .
+
+dialogue type : s
+D :  And it 's still slightly worse for well - matched .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s
+D :  but this is not significant .
+
+dialogue type : s
+D :  But , the problem is that it 's not significant ,
+
+dialogue type : s
+D :  but if you put this in the , mmm , uh , spreadsheet , it 's still worse .
+
+dialogue type : s^e.%--
+D : 
+
+dialogue type : fh
+D :  uh ,
+
+dialogue type : s^e
+D :  even if it 's only slightly worse for well - matched .
+
+dialogue type : s^e
+D :  And significantly better for HM .
+
+dialogue type : fh
+D :  Uh ,
+
+dialogue type : fh
+D :  but , well .
+
+dialogue type : s^ba
+D :  I don't think it 's importa important
+
+dialogue type : s^df.%--
+D :  because when they will change their metric ,
+
+dialogue type : fh
+D :  uh ,
+
+dialogue type : s^df^rt
+D :  uh , mainly because of uh , when you p you plug the um , frame dropping in the baseline system , it will improve a lot HM , and MM ,
+
+dialogue type : fh
+D :  so ,
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s^no
+D :  I don't know what will happen .
+
+dialogue type : s
+D :  But , the different contribution , I think , for the different test set will be more even .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : fh
+D :  so um ,
+
+dialogue type : fh
+D :  yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  Well , so it means that if the database is large enough , it 's matched .
+
+dialogue type : s.%--
+D :  Because it
+
+dialogue type : s^df
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : %--
+D :  You
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  We are playing we are also playing , trying to put other spectral subtraction mmm , in the code .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s^rt
+D :  it would be a very simple spectral subtraction , on the um , mel energies
+
+dialogue type : s^e
+D :  which I already tested but without the um frame dropping actually ,
+
+dialogue type : s
+D :  and I think it 's important to have frame dropping if you use spectral subtraction .
+
+dialogue type : h
+D :  Um ,
+
+dialogue type : %--
+D :  I d
+
+dialogue type : s^no
+D :  I don't know .
+
+dialogue type : s.%--
+D :  Well , it 's both both uh , cases can i
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^rt
+D :  So - some of the proposal , uh , we 're doing this on the bin on the FFT bins ,
+
+dialogue type : s^rt
+D :  others on the um , mel energies .
+
+dialogue type : s
+D :  You can do both ,
+
+dialogue type : s^no
+D :  but I cannot tell you what 's which one might be better
+
+dialogue type : fh
+D : 
+
+dialogue type : %--
+D : 
+
+dialogue type : fh
+D :  I don't know .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : fh
+D :  but
+
+dialogue type : s^nd
+D :  Well , it gives something different ,
+
+dialogue type : s^df^no
+D :  but I don't know what are the , pros and cons of both .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa|s^am
+D :  Yeah , it might be .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  So maybe in my implementation I should also try to inspire me from this kind of thing
+
+dialogue type : fh
+D :  and Yeah .
+
+dialogue type : b
+D :  Yeah ,
+
+dialogue type : b
+D :  mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qw^br^rt
+D :  What was your point about about colored noise there ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Yeah , right .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg
+D :  Uh , yeah .
+
+dialogue type : s^rt^tc
+D :  So there is this .
+
+dialogue type : fh
+D :  And
+
+dialogue type : %--
+D : 
+
+dialogue type : s^cs
+D :  well we find some people so that uh , agree to maybe work with us ,
+
+dialogue type : s
+D :  and they have implementation of VTS techniques
+
+dialogue type : s
+D :  so it 's um , Vector Taylor Series that are used to mmm , uh f to model the transformation between clean cepstra and noisy cepstra .
+
+dialogue type : fh
+D :  So . Well ,
+
+dialogue type : s
+D :  if you take the standard model of channel plus noise , uh , it 's it 's a nonlinear eh uh , transformation in the cepstral domain .
+
+dialogue type : fh
+D :  And
+
+dialogue type : s^rt
+D :  uh , there is a way to approximate this using uh , first - order or second - order Taylor Series
+
+dialogue type : fh
+D :  and
+
+dialogue type : s
+D :  it can be used for uh , getting rid of the noise and the channel effect .
+
+dialogue type : qy^bu^d
+D :  Uh w working in the cepstral domain ?
+
+dialogue type : s
+D :  So there is one guy in Grenada ,
+
+dialogue type : s
+D :  and another in uh , Lucent that I met at ICASSP .
+
+dialogue type : fh
+D :  uh ,
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Well , it 's again a different thing that could be tried .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : fh
+D :  Mmm , yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Uh , yeah .
+
+dialogue type : fg
+D :  But , yeah .
+
+dialogue type : s
+D :  But for sure there 's required to that requires to re - check everything else , and re - optimize the other things
+
+dialogue type : fh
+D :  and ,
+
+dialogue type : s
+D :  for sure the on - line normalization may be the LDA filter .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk|s^ng
+D :  Yeah , but there is so much variability in the power spectrum .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qw^br^rt
+D :  Wait I I 'm sorry ?
+
+dialogue type : qy^bh
+D :  Yeah ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : fg
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  But anyway the question is even more , is within speech , can we get some features ?
+
+dialogue type : qy
+D :  Are we drop dropping information that can might be useful within speech ,
+
+dialogue type : s^e
+D :  I mean . To maybe to distinguish between voice sound and unvoiced sounds ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg
+D :  But
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  Actually you have peaks that are not at the formant 's positions ,
+
+dialogue type : s
+D :  but they are lower in energy
+
+dialogue type : s
+D :  and Well they are much lower .
+
+dialogue type : b.x
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+

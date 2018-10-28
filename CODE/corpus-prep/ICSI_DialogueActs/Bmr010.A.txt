@@ -1,0 +1,792 @@
+dialogue type : z
+A :  OK . We seem to be recording .
+
+dialogue type : z
+A :  So , sorry about not
+
+dialogue type : z
+A :  not pre - doing everything .
+
+dialogue type : z
+A :  The lunch went a little later than I was expecting ,
+
+dialogue type : z
+A :  Chuck .
+
+dialogue type : z
+A :  Yep .
+
+dialogue type : z
+A :  Pretty much .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s^j
+A :  I mean , we don't want anything too practical .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^nd
+A :  Well , we have steps forward .
+
+dialogue type : s^t
+A :  I have a little bit of IRAM stuff
+
+dialogue type : fh|s
+A :  but I 'm not sure if that 's of general interest or not .
+
+dialogue type : s^nd
+A :  IRAM .
+
+dialogue type : s
+A :  IRAM , bigram ,
+
+dialogue type : s.%
+A :  you know .
+
+dialogue type : qw
+A :  What 's the interesting stuff ?
+
+dialogue type : qy^rt
+A :  And did you hand - label who was loud and who was quiet ,
+
+dialogue type : qrr.%-
+A :  or did you just ?
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : fg|s^bu
+A :  Right . So this would work well for , uh , pauses and utterance boundaries and things like that .
+
+dialogue type : s
+A :  But for overlap I imagine that doesn't work at all ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fg
+A : 
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A :  Yeah . It was IS two .
+
+dialogue type : s^cs
+A :  Well , maybe we should get it
+
+dialogue type : s
+A :  and if it 's good enough we 'll arrange Windows machines to be available .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s^ar|s
+A :  No , no . Praat isn't Praat 's multi - platform .
+
+dialogue type : fg
+A :  Oh .
+
+dialogue type : s
+A :  What our decision was is that we 'll go ahead with what we have with a not very fine time scale on the overlaps .
+
+dialogue type : s
+A :  And and do what we can later to clean that up if we need to .
+
+dialogue type : qy^rt^tc
+A :  And did you , uh , forward Morgan Brian 's thing ?
+
+dialogue type : qy^bh
+A :  Oh , you did ?
+
+dialogue type : s^bk|s
+A :  OK . So you probably did get that .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg|s^tc
+A :  Yeah , and Dave Gelbart did volunteer ,
+
+dialogue type : s
+A : 
+
+dialogue type : s
+A :  to at least modify Transcriber ,
+
+dialogue type : s^e
+A :  which , if we don't have something else that works , I think that 's a pretty good way of going .
+
+dialogue type : s
+A :  And we discussed on some methods to do it .
+
+dialogue type : s^rt.%--
+A :  My approach originally ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  it was too slow because I was trying to display all the waveforms .
+
+dialogue type : s
+A :  But he pointed out that you don't really have to .
+
+dialogue type : sj^ba
+A :  I think that 's a good point .
+
+dialogue type : s
+A :  That if you just display the mix waveform and then have a user interface for editing the different channels , that 's perfectly sufficient .
+
+dialogue type : s^ar|s
+A :  No . They can only display one ,
+
+dialogue type : s^df
+A :  but they can listen to different ones .
+
+dialogue type : s^ng
+A :  But only to listen to ,
+
+dialogue type : s^e
+A :  not to look at .
+
+dialogue type : s
+A :  The waveform you 're looking at doesn't change .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : fg|s
+A :  Oh , we should definitely get with them then ,
+
+dialogue type : fh
+A :  and
+
+dialogue type : s
+A :  agree upon a format .
+
+dialogue type : s
+A :  Though I don't remember email on that .
+
+dialogue type : qy^rt
+A :  So was I not in the loop on that ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s
+A :  Yeah , I think that 's right .
+
+dialogue type : fh
+A : 
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  Well , I think it 's important both for the notation and the machine representation to be the same .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s
+A :  Cross - correlation .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : fg|s.%--
+A : 
+
+dialogue type : sj^ba^bu
+A :  using the close - talking I think would be much better .
+
+dialogue type : qy^g
+A :  Wouldn't it ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : fg
+A :  Right .
+
+dialogue type : s
+A :  And I hope that if we do a forced alignment with the close - talking mike , that will be enough to recover at least some of the time the time information of when the overlap occurred .
+
+dialogue type : s^bk|qr
+A :  Yeah . Who knows ?
+
+dialogue type : s
+A :  Well , u uh , IBM was going to .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  and I imagine they still plan to
+
+dialogue type : s^df
+A :  but but , you know , I haven't spoken with them about that recently .
+
+dialogue type : s^bk|s^cc
+A :  OK . I 'll do that .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : qy^rt
+A :  Is he on the mailing list ?
+
+dialogue type : qy^d^e^g^rt.%--
+A :  The Meeting Recorder mailing li ?
+
+dialogue type : s^cs
+A :  We should add him .
+
+dialogue type : s^co^r
+A :  Add him .
+
+dialogue type : fg
+A :  Um ,
+
+dialogue type : s
+A :  so one thing is that I did look on Sony 's for a replacement for the mikes for the head m head - worn ones
+
+dialogue type : s^df
+A :  cuz they 're so uncomfortable .
+
+dialogue type : s
+A :  But I think I need someone who knows more about mikes than I do ,
+
+dialogue type : s
+A :  because I couldn't find a single other model that seemed like it would fit the connector ,
+
+dialogue type : s
+A :  which seems really unlikely to me .
+
+dialogue type : qy
+A :  Does anyone , like , know stores
+
+dialogue type : qrr
+A :  or know about mikes who who would know the right questions to ask ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A :  When I looked , i they listed one microphone and that 's it
+
+dialogue type : s^e
+A :  as having that type of connector .
+
+dialogue type : s
+A :  But my guess is that Sony maybe uses a different number for their connector than everyone else does .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  it seems it seems really unlikely to me that there 's only one .
+
+dialogue type : s:qh^rt
+A :  As I said , who knows ?
+
+dialogue type : h
+A :  Um ,
+
+dialogue type : s
+A :  I have it downstairs .
+
+dialogue type : s^no
+A :  I don't remember off the top of my head .
+
+dialogue type : fh
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I mean , I had thought about this before .
+
+dialogue type : s
+A :  I mean , when when when you use a product like DragonDictate , they have a very extensive description about how to wear the microphone and so on .
+
+dialogue type : s
+A :  But I felt that in a real situation we were very seldom gonna get people to really do it
+
+dialogue type : s^df
+A :  and maybe it wasn't worth concentrating on .
+
+dialogue type : fh
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Oh . That 's true .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^cc
+A :  Well , I 'll dig through the documentation to DragonDictate and ste s see if they still have the little form .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  It seemed to me when I was using Dragon that it was really microphone placement helped an in , uh an enormous amount .
+
+dialogue type : s
+A :  So you want it enough to the side so that when you exhale through your nose , it doesn't the wind doesn't hit the mike .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^j
+A :  Everyone 's adjusting their microphones , of course .
+
+dialogue type : s
+A :  And then just close enough so that you get good volume .
+
+dialogue type : s
+A :  So you know , wearing it right about here seems to be about the right way to do it .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  I mean , when when it 's on , you can see it .
+
+dialogue type : s^r
+A :  You can definitely see it .
+
+dialogue type : s^aa
+A :  Absolutely .
+
+dialogue type : s^aa^r
+A :  Absolutely .
+
+dialogue type : s
+A :  And so , you know , I 've I 've sat here and watched sometimes the breathing ,
+
+dialogue type : s^e
+A :  and the bar going up and down ,
+
+dialogue type : s:s
+A :  and I 'm thinking , I could say something ,
+
+dialogue type : fh
+A :  but
+
+dialogue type : s^df
+A :  I don't want to make people self - conscious .
+
+dialogue type : s^co^j
+A :  Stop breathing !
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A :  And then also the position of the mike also .
+
+dialogue type : s
+A :  If it 's more directly , you 'll get better volume .
+
+dialogue type : fh|s
+A :  So so , like , yours is pretty far down below your mouth . Yeah .
+
+dialogue type : s^j^no
+A :  I don't know why that is .
+
+dialogue type : s^j
+A :  I 've been eating a lot .
+
+dialogue type : fg
+A :  So ,
+
+dialogue type : s^2^rt
+A :  mark them ?
+
+dialogue type : sj^ba
+A :  Oh , great .
+
+dialogue type : s^cs
+A :  Against they could do forced alignment .
+
+dialogue type : s^no
+A :  Oh , I didn't know that .
+
+dialogue type : s^ba
+A :  That would be a really interesting prosodic feature ,
+
+dialogue type : %-
+A : 
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : qo
+A :  So are do you treat breath and laughter as phonetically , or as word models , or what ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^2
+A :  Mouth stuff ?
+
+dialogue type : qw
+A :  How would we do that with the hybrid system ?
+
+dialogue type : qy^d^rt
+A :  So train a phone in the neural net ?
+
+dialogue type : qy^d^rt
+A :  Oh , it does ?
+
+dialogue type : fg|s^cs
+A :  Right . So in the hybrid system we could train the net with a laughter phone and a breath sound phone .
+
+dialogue type : s
+A :  Do whatever you want .
+
+dialogue type : qy^2^bu^d^rt
+A :  To go on forever ?
+
+dialogue type : qw^rt
+A :  And how do you handle it in the language model ?
+
+dialogue type : s^m
+A :  It 's just a word in the language model .
+
+dialogue type : s^ba
+A :  Cool .
+
+dialogue type : s^bk
+A :  Huh .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qy^co^rt
+A :  Can you hand me your digit form ?
+
+dialogue type : s^df
+A :  I just wanna mark that you did not read digits .
+
+dialogue type : s^na
+A :  I was noticing that with Dan in the one that we , uh we hand tran hand - segmented ,
+
+dialogue type : s
+A :  that th he has these little chuckles as he talks .
+
+dialogue type : qy^2^d^rt
+A :  Speech researchers ?
+
+dialogue type : s
+A :  Cuz they 're gonna be transcribing it in a few days .
+
+dialogue type : sj^ba
+A :  That 's a good idea .
+
+dialogue type : b
+A :  Good .
+
+dialogue type : s^fe
+A :  Oh , no .
+
+dialogue type : qy
+A :  Is that good or bad ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^2
+A :  You 'll self - repair .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b.x
+A :  Hmm .
+
+dialogue type : qw^j
+A :  Where were they when we needed them ?
+
+dialogue type : s
+A :  I mean , this was something that we were talking about .
+
+dialogue type : s
+A :  We could get a very detailed overlap if they were willing to transcribe each meeting four or five times .
+
+dialogue type : qy^d^f^g
+A :  Right ?
+
+dialogue type : s
+A :  One for each participant .
+
+dialogue type : s^cs.%--
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : qy^bu^d^rt
+A :  Is you mean two thousand one ?
+
+dialogue type : qy^d^g^rt
+A :  Calendar year
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^2
+A :  Full - time .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : sj^ba^fe
+A :  Wow .
+
+dialogue type : s
+A :  I don't see how someone could do forty hours a week on transcription .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  We 'd have to mark them .
+
+dialogue type : s^cs^rt
+A :  I think it would also be interesting to have , uh , a couple of the meetings have more than one transcriber do ,
+
+dialogue type : s^df
+A :  cuz I 'm curious about inter - annotator agreement .
+
+dialogue type : s^2
+A :  Wrong .
+
+dialogue type : s
+A :  I think it just whoever is interested can do that .
+
+dialogue type : s^cs^df.%--
+A : 
+
+dialogue type : s^cs
+A :  We could skip the digits .
+
+dialogue type : s^cs^df
+A :  We don't have to read digits each time .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qw^rt
+A :  With what ?
+
+dialogue type : s^bk^m
+A :  Scale .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : %--
+A : 
+
+dialogue type : fg|s^arp.%-
+A : 
+
+dialogue type : s^am
+A :  I think Javier 's might be able to .
+
+dialogue type : s
+A :  It doesn't have the same Gaus - uh , H M M modeling ,
+
+dialogue type : s^e
+A :  which is I think a drawback .
+
+dialogue type : fh
+A : 
+
+dialogue type : qy^bu^rt
+A :  Does it ?
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  And then he ch you choose optimal splitting .
+
+dialogue type : s^nd
+A : 
+
+dialogue type : s^aa^rt
+A :  Mm - hmm .
+
+dialogue type : s^na
+A :  Yeah , I didn't think so .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A :  And so I I think it would work fine for detecting overlap .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bs
+A :  What he does is , as a first pass he he p he does , um , a guess at where the divisions might be and he overestimates .
+
+dialogue type : s^e
+A :  And that 's just a data reduction step ,
+
+dialogue type : s
+A :  so that you 're not trying at every time interval .
+
+dialogue type : s
+A :  And so those are the putative places where he tries .
+
+dialogue type : s
+A :  And right now he 's doing that with silence
+
+dialogue type : s
+A :  and that doesn't work
+
+dialogue type : s^e
+A :  with the Meeting Recorder .
+
+dialogue type : s^cs
+A :  So if we used another method to get the first pass , I think it would probably work .
+
+dialogue type : s^ba
+A :  It 's a good method .
+
+dialogue type : s^e
+A :  As long as the len as long the segments are long enough .
+
+dialogue type : s
+A :  That 's the other problem .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+A :  You mean Javier 's ?
+
+dialogue type : qw
+A :  What do you mean ?
+
+dialogue type : %-
+A : 
+
+dialogue type : s^na
+A :  Yeah . I had tried doing it by hand at one point with a very short sample ,
+
+dialogue type : s^e
+A :  and it worked pretty well ,
+
+dialogue type : s^e
+A :  but I haven't worked with it a lot .
+
+dialogue type : s
+A :  So what I d I d I took a hand - segmented sample
+
+dialogue type : s
+A :  and I added ten times the amount of numbers at random ,
+
+dialogue type : s
+A :  and it did pick out pretty good boundaries .
+
+dialogue type : s
+A :  But this was just very anecdotal sort of thing .
+
+dialogue type : fg|s^cs
+A :  Right . So if we if we fed the hand - segmentation to Javier 's and it doesn't work , then we know something 's wrong .
+
+dialogue type : s^na
+A :  Yeah . I think that 's probably worthwhile doing .
+
+dialogue type : s^2
+A :  Whether it 'll work or not .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : qy^rt
+A :  Y do you know where his software is ?
+
+dialogue type : qy^rt
+A :  Have you used it at all ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  I I have as well ,
+
+dialogue type : s^co
+A :  so if you need need help let me know .
+
+dialogue type : s^aa
+A :  OK .
+
+dialogue type : b
+A :  uuh
+
+dialogue type : %--
+A : 
+

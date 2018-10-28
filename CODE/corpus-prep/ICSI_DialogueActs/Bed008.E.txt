@@ -1,0 +1,1080 @@
+dialogue type : z
+E :  Piece of paper ? I could borrow ?
+
+dialogue type : qy^bu^d^rt
+E :  Nancy is uh currently in Berkeley but not here ?
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^cs.%--
+E :  Well I think one could go there 's
+
+dialogue type : s^t
+E :  I think we can di discuss everything .
+
+dialogue type : s
+E :  First of all this I added , I knew from sort of basically this has to be there
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : fh
+E :  Um
+
+dialogue type : qrr.%-
+E :  Given given uh uh not transverse the castle , the decision is does the person want to go there or is it just
+
+dialogue type : fh
+E :  And
+
+dialogue type : b^rt
+E :  Hmm ?
+
+dialogue type : s
+E :  So Go - there in the first place or not is definitely uh one
+
+dialogue type : s^cs^rt
+E :  We can start with that .
+
+dialogue type : s^e
+E :  Interesting effect .
+
+dialogue type : fh|qy^rt
+E :  Um Is this basically true or false
+
+dialogue type : qrr.%-
+E :  or maybe we 'll get
+
+dialogue type : qw
+E :  what ?
+
+dialogue type : fg
+E :  m right .
+
+dialogue type : s.%-
+E :  Here we
+
+dialogue type : s^bu
+E :  we actually get just probabilities ,
+
+dialogue type : qy^d^g^rt
+E :  right
+
+dialogue type : s^e
+E :  for each down here .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^2:qw
+E :  When .
+
+dialogue type : s^2:qw
+E :  How .
+
+dialogue type : s^2:qw
+E :  Why ,
+
+dialogue type : b
+E :  yeah .
+
+dialogue type : b^rt
+E :  Hmm ?
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s
+E :  And so I 've tried to come up with some initial things one could observe
+
+dialogue type : qh^rt
+E :  so who is the user ?
+
+dialogue type : s:s
+E :  Everything that has user comes from the user model
+
+dialogue type : s:s
+E :  everything that has situation comes from the situation model - A .
+
+dialogue type : s
+E :  We should be be clear .
+
+dialogue type : s.%--
+E :  But when it comes to sort of writing down
+
+dialogue type : s.%--
+E :  when you when you do these things
+
+dialogue type : qy^rt
+E :  is it here ?
+
+dialogue type : s
+E :  You sort of have to a write the values this can take .
+
+dialogue type : s
+E :  And here I was really uh in some s sometimes I was really sort of standing in front of a wall feeling very stupid
+
+dialogue type : s
+E :  because um this case it 's pretty simple ,
+
+dialogue type : s.%--
+E :  but as we will see the other ones um
+
+dialogue type : s:qw
+E :  for example if it 's a running budget so what are the discrete values of a running budget ?
+
+dialogue type : s
+E :  So maybe my understanding there is too impoverished .
+
+dialogue type : qw
+E :  How can I write here that this is something , a number that cr keeps on changing ?
+
+dialogue type : fh
+E :  But OK .
+
+dialogue type : qy^d^f^rt
+E :  Thus is understandable ?
+
+dialogue type : s.%-
+E :  So here for example .
+
+dialogue type : s
+E :  So here is the the we had that the user 's budget may influence the outcome of decisions .
+
+dialogue type : s^rt
+E :  There we wanted to keep sort of a running total of things .
+
+dialogue type : h|s
+E :  Um the finance is sort of here thought of as as the financial policy a person carries out in his life ,
+
+dialogue type : qr
+E :  he is he cheap , average , or spendy ?
+
+dialogue type : s.%--
+E :  And um I didn't come uh
+
+dialogue type : s.%--
+E :  maybe a user
+
+dialogue type : s
+E :  I don't know ,
+
+dialogue type : s
+E :  I didn't want to write greediness ,
+
+dialogue type : fh
+E :  but
+
+dialogue type : s
+E :  Welcome .
+
+dialogue type : s^r
+E :  Welcome .
+
+dialogue type : s
+E :  There it is .
+
+dialogue type : s
+E :  And it 's so simple even I can use it .
+
+dialogue type : s.%--
+E :  OK , so here was
+
+dialogue type : s^cs
+E :  OK , I can think of uh people being cheap , average , or spendy or we can even have a a finer scale moderately cheap ,
+
+dialogue type : s^2
+E :  doesn't matter .
+
+dialogue type : s^aa
+E :  Agree there
+
+dialogue type : s
+E :  but here um I wasn't sure what to write in .
+
+dialogue type : s
+E :  If that 's permissible then I 'm happy .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : fg|s.%--
+E :  Yeah this is where um
+
+dialogue type : fh
+E :  OK anyways
+
+dialogue type : s^co
+E :  let 's forget it .
+
+dialogue type : fg|%--
+E :  OK , and so this , oh that
+
+dialogue type : s.%-
+E :  I just accidentally
+
+dialogue type : s^fe^t1
+E :  Oops .
+
+dialogue type : s
+E :  Oh just uh accidentally erased this ,
+
+dialogue type : s:qy
+E :  I I just had values here such as uh um is he s we had in our list we had " Is he staying in our hotel ? " ,
+
+dialogue type : s:qy
+E :  " Is he staying with friends ? " ,
+
+dialogue type : s^e
+E :  and so forth
+
+dialogue type : fh
+E :  uh
+
+dialogue type : %--
+E :  so we 're
+
+dialogue type : b
+E :  OK .
+
+dialogue type : qy^2^cs^rt
+E :  Something down here ?
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : fg
+E :  And um
+
+dialogue type : s^fe
+E :  Oops .
+
+dialogue type : b
+E :  Ah ,
+
+dialogue type : s^ar
+E :  OK . No no no ,
+
+dialogue type : s
+E :  EVA .
+
+dialogue type : s
+E :  Missed that one .
+
+dialogue type : h|s.%-
+E :  Um mode was um
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qr
+E :  Did I or didn't I ?
+
+dialogue type : s
+E :  Ah . Probably nothing done yet ,
+
+dialogue type : s
+E :  oh I just did it on the upper ones , OK .
+
+dialogue type : s
+E :  Makes sense .
+
+dialogue type : s^rt
+E :  OK , so this was EVA .
+
+dialogue type : s^cs
+E :  Maybe we can think of more things ,
+
+dialogue type : s^cs^e
+E :  cross
+
+dialogue type : s^m
+E :  climb , emerge
+
+dialogue type : b^rt
+E :  Mm - hmm ,
+
+dialogue type : b
+E :  mmm . Yeah .
+
+dialogue type : s.%-
+E :  OK , we
+
+dialogue type : s
+E :  w well the uh user was uh definitely more likely to enter if he 's a local
+
+dialogue type : s
+E :  more likely to view if he 's a tourist
+
+dialogue type : fh
+E :  um
+
+dialogue type : s.%-
+E :  and then of course we had the fact that given the fact that he 's thrifty and there will be admission then we get all these cross um
+
+dialogue type : qw^rt
+E :  We 'll d what type of building is it ?
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^2
+E :  What he has mentioned before .
+
+dialogue type : s^cs^rt
+E :  Uh we can load it up it you know very simple .
+
+dialogue type : s^bu
+E :  So this was adjusted for this one mode thing .
+
+dialogue type : s^bu
+E :  So that 's w w in our uh in in Johno 's sort of pictogram everything that could contribute to whether a person wants to enter , view , or approach something .
+
+dialogue type : s^2
+E :  Is now this endpoint .
+
+dialogue type : s^aa
+E :  We can just rename that , yeah .
+
+dialogue type : qy^d^rt
+E :  The prosody ?
+
+dialogue type : s
+E :  Seems to me that we 've sort of e em embedded a lot , em embedded a lot of these uh things we had in there previously in in in some of the other final decisions done here ,
+
+dialogue type : s.%--
+E :  for example if we would know that this thing is exhibiting something um
+
+dialogue type : s^rt
+E :  if it 's exhibiting itself it is a landmark ,
+
+dialogue type : s^e^rt
+E :  meaning more likely to be viewed
+
+dialogue type : s^rt
+E :  if it is exhibiting pictures or sculptures and stuff like this , then it 's more likely to be entered .
+
+dialogue type : s^2
+E :  Accessibility .
+
+dialogue type : s
+E :  If it 's closed one probably won't enter .
+
+dialogue type : s
+E :  Or if it 's not accessible to a tourist ever the likelihood of that person actually wanting to enter it ,
+
+dialogue type : s^e
+E :  given that he knows it , of course .
+
+dialogue type : s^na
+E :  Yeah , all all of these
+
+dialogue type : s
+E :  if it 's fixing things selling things , or servicing things
+
+dialogue type : qy^bu^d^rt
+E :  These three ?
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^2
+E :  Um more likely to enter .
+
+dialogue type : s^bk
+E :  Oh , OK .
+
+dialogue type : fg|qy^rt
+E :  Um is is that the object type node ?
+
+dialogue type : qy^rt
+E :  So are they the is it the kind of object that sells , fixes , or services things ?
+
+dialogue type : s
+E :  Oh I just created it , it has none so far .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s.%-
+E :  And then we have sort of the um
+
+dialogue type : s^aa
+E :  Yeah ,
+
+dialogue type : s.%--
+E :  I w I was just gonna
+
+dialogue type : s^cs.%-
+E :  commercial action inside where people p
+
+dialogue type : s^2^cs
+E :  And where was the accessible , yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : h|s
+E :  Um things .
+
+dialogue type : s
+E :  So places that service things sell things or fix things and pe places that e exhibit things .
+
+dialogue type : s
+E :  Well I think an entity maybe should be regard as a vector of several possible things ,
+
+dialogue type : s
+E :  it can either em do s do sell things , fix things , service things , exhibit things , it can be a landmark at the same time as doing these things ,
+
+dialogue type : s
+E :  it 's not either or
+
+dialogue type : s
+E :  mmm certainly a place can be a hotel and a famous site .
+
+dialogue type : s
+E :  Many come to mind .
+
+dialogue type : s^rt
+E :  Things can be generally um a landmark and be accessible .
+
+dialogue type : s^e
+E :  IE a a castle
+
+dialogue type : s
+E :  or can be a landmark a or not accessible , some statue
+
+dialogue type : s
+E :  you know can go inside .
+
+dialogue type : qy^rt
+E :  Could we just move it like this ?
+
+dialogue type : s^bk
+E :  Oh , OK .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^ng
+E :  The old one was not that not that important , I think
+
+dialogue type : fh
+E :  but
+
+dialogue type : s^co
+E :  Let 's do it then .
+
+dialogue type : s^rt
+E :  But I can just take this
+
+dialogue type : s^e
+E :  copy it somewhere else .
+
+dialogue type : qy^bu^d^rt
+E :  This was user something
+
+dialogue type : qrr.%--
+E :  or
+
+dialogue type : qy^bu^d^rt
+E :  end point ?
+
+dialogue type : s^bk
+E :  Ah .
+
+dialogue type : s^bk
+E :  Gotcha , yeah .
+
+dialogue type : qy^rt
+E :  Should I rename this too ?
+
+dialogue type : s^2
+E :  It 's underscore - E .
+
+dialogue type : fg|qy^t^tc
+E :  OK , shouldn't I be able to move them all ?
+
+dialogue type : qy^d^g
+E :  No .
+
+dialogue type : qrr.%--
+E :  Or ?
+
+dialogue type : qy^rt
+E :  Can I ?
+
+dialogue type : qw^rt
+E :  Where ?
+
+dialogue type : qw^rt
+E :  What ?
+
+dialogue type : qy^rt
+E :  Wasn't this possible ?
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Uh - huh .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s.%-
+E :  So now we 're looking for user related things that um
+
+dialogue type : s.%--
+E :  Well if he 's usi if he 's in a car right now
+
+dialogue type : qw^rt
+E :  what was that
+
+dialogue type : s^rt:s
+E :  people with Harry drove the car into the cafe
+
+dialogue type : qy^cs^rt^t
+E :  Well let 's should we finish this ,
+
+dialogue type : s.%--
+E :  I mean but surely the user interests
+
+dialogue type : s^aa
+E :  yeah , yeah
+
+dialogue type : s
+E :  Here this was one of my problems
+
+dialogue type : s
+E :  we have the user interest is a is a vector of five hundred values ,
+
+dialogue type : fh
+E :  so
+
+dialogue type : fh|s
+E :  um That 's from the user model ,
+
+dialogue type : b
+E :  mm - hmm ,
+
+dialogue type : s^nd
+E :  no not levels of interest
+
+dialogue type : s^e
+E :  but things you can be interested in .
+
+dialogue type : s.%-
+E :  Gothic churches versus Baroque townhouses versus
+
+dialogue type : %--
+E :  Yea - n is that
+
+dialogue type : s^aa
+E :  yeah
+
+dialogue type : s^aa
+E :  uh I I think
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Uh .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  Just as a mental note
+
+dialogue type : fh
+E :  uh
+
+dialogue type : b^rt
+E :  Mm - hmm .
+
+dialogue type : qy^rt
+E :  And and should we say that this interests eh affects the likelihood of of entering ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%--
+E :  And also if it 's an expensive place to enter , this may also
+
+dialogue type : qy^bu^rt
+E :  Schedule ?
+
+dialogue type : qy^t3
+E :  Bhaskara ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qw
+E :  What do I have under user state anyhow
+
+dialogue type : s^df
+E :  cuz I named that already something .
+
+dialogue type : s:s
+E :  Oh that 's tired , fresh ,
+
+dialogue type : b
+E :  yeah .
+
+dialogue type : s^cs:s
+E :  Maybe should be renamed into physical state .
+
+dialogue type : qy^d^rt
+E :  That 's with a " G " ?
+
+dialogue type : s^rt
+E :  Then we can make a user state .
+
+dialogue type : s^2
+E :  That don't .
+
+dialogue type : s.%--
+E :  The user interests and the user who who who the user is are completely apart from the fact whether he is tired broke
+
+dialogue type : s^cs.%--
+E :  Maybe um if we look at the if we split it up again into sort of um
+
+dialogue type : s
+E :  if we look at the uh the endpoint again we we said that for each of these things there are certain preconditions
+
+dialogue type : s^rt
+E :  so you can only enter a place if you are not too tired to do so
+
+dialogue type : s^e
+E :  and also eh have the money to do so if it costs something
+
+dialogue type : s
+E :  so if you can afford it and perform it is preconditions .
+
+dialogue type : s^rt
+E :  Viewing usually is cheap or free .
+
+dialogue type : qy
+E :  Is that always true ?
+
+dialogue type : s^no
+E :  I don't know .
+
+dialogue type : s^e
+E :  And so is approaching .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fh
+E :  Um
+
+dialogue type : s.%--
+E :  so this might be
+
+dialogue type : qw^t^tc
+E :  What next ?
+
+dialogue type : s.%-
+E :  Well let 's th this
+
+dialogue type : s^ba:s
+E :  go there or not I think is a good one .
+
+dialogue type : s
+E :  Is a very basic one .
+
+dialogue type : fh
+E :  So
+
+dialogue type : qw.%--
+E : 
+
+dialogue type : %-
+E :  So
+
+dialogue type : s
+E :  We we also had discourse features of course for the endpoint .
+
+dialogue type : s
+E :  Identified that
+
+dialogue type : fh|s
+E :  and so again re that 's completely correct ,
+
+dialogue type : s
+E :  we have the user model , the situation model here ,
+
+dialogue type : s
+E :  we don't have the discourse model here yet .
+
+dialogue type : s
+E :  Much the same way as we didn't we don't have the ontology here .
+
+dialogue type : b
+E :  Really .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg
+E :  Um
+
+dialogue type : s^co^rt
+E :  This be specific for second year ?
+
+dialogue type : fh
+E :  Um
+
+dialogue type : s
+E :  And and we probably will have uh something like a discourse for endpoint .
+
+dialogue type : qy^bu^d^rt
+E :  Hmm ?
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bk|s
+E :  OK just for starters
+
+dialogue type : s.%-
+E :  and here discourse um
+
+dialogue type : fh
+E :  um
+
+dialogue type : fh|s
+E :  well , I think um we 're looking at the the little data that we have ,
+
+dialogue type : s:qw
+E :  so people say how do I get to the castle
+
+dialogue type : s
+E :  and this usually means they wanna go there .
+
+dialogue type : s
+E :  So this should sort of push it in one direction
+
+dialogue type : s:qw
+E :  however people also sometimes say how do I get there
+
+dialogue type : s^e
+E :  in order to find out how to get there
+
+dialogue type : s^e
+E :  without wanting to go there .
+
+dialogue type : s:qw
+E :  And sometimes um people say where is it
+
+dialogue type : s^e^rt
+E :  because they wanna know where it is
+
+dialogue type : s^e.%--
+E :  but in most cases they probably
+
+dialogue type : s^aa
+E :  Oh yeah ,
+
+dialogue type : s^aa
+E :  true .
+
+dialogue type : s
+E :  So this is sort of some external thing that takes all the discourse stuff
+
+dialogue type : s^e:s
+E :  and then says here it 's either yep , yay , A , or nay .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  OK ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b^rt
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^na.%-
+E :  I was just gonna
+
+dialogue type : qw.%-
+E :  How long does it take you to to compute uh
+
+dialogue type : qw^e^rt
+E :  uh R recursive action ?
+
+dialogue type : s^ng
+E :  Uh but this isn't , this is this line is just coming from over here .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s
+E :  OK , these have no parents yet , but I guess that sort of doesn't matter .
+
+dialogue type : qy^d^g^rt
+E :  Right ?
+
+dialogue type : s.%--
+E :  I mean this is sort of
+
+dialogue type : s^2
+E :  This comes from traffic and so forth , yeah .
+
+dialogue type : qy^cs^rt
+E :  Sh - Should we just make some
+
+dialogue type : fh
+E :  um
+
+dialogue type : s.%--
+E :  if there 's parking maybe
+
+dialogue type : b
+E :  Mmm
+
+dialogue type : qh
+E :  Oh who cares .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^bu
+E :  And if he has seen it already or not and so forth ,
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : fh
+E :  Um
+
+dialogue type : s.%--
+E :  and discourse is something that sort of
+
+dialogue type : qy^cs^rt
+E :  should we make a Keith note here ?
+
+dialogue type : s
+E :  That sort of comes from Keith .
+
+dialogue type : s^df
+E :  Just sort of so we don't forget .
+
+dialogue type : s^fe^t1
+E :  Oops .
+
+dialogue type : s^t1
+E :  Have to get used to this .
+
+dialogue type : s^bk
+E :  OK ,
+
+dialogue type : s^fe^t1
+E :  whoops .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg
+E :  But
+
+dialogue type : s^rt
+E :  And it there 's a sort of also a split if you loo if you blow this up and look at it in more detail there 's something that comes from the discourse in terms of what was actually just said
+
+dialogue type : qr
+E :  what 's the utterance go giving us
+
+dialogue type : qr
+E :  and then what 's the discourse history give us .
+
+dialogue type : s
+E :  That 's uh two things then .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mm - hmm
+
+dialogue type : qy
+E :  But is th is this picture that 's emerging here just my wish that you have noticed already for symmetry
+
+dialogue type : qrr
+E :  or is it that we get for each each decision on the very bottom we sort of get the sub - E , sub - D , sub - U and maybe a sub - O " O " for " ontology " um meta node
+
+dialogue type : s.%--
+E :  but it might just
+
+dialogue type : s^bk^m
+E :  could be
+
+dialogue type : s.%-
+E :  so this
+
+dialogue type : s^cs
+E :  but this eh w wou wou would be nice though that , you know , we only have at most four at the moment um arrows going f to each of the uh bottom decisions .
+
+dialogue type : qy^bu^cs^d^rt
+E :  And four you we can handle .
+
+dialogue type : qy^bu^d^rt
+E :  It 's too much ?
+
+dialogue type : s^bk
+E :  Right , true .
+
+dialogue type : qy^rt
+E :  But but four didn't we decide that all of these had true or false ?
+
+dialogue type : s.%-
+E :  So is it 's four
+
+dialogue type : fg|qy^bu^d^rt
+E :  Um for endpoint ?
+
+dialogue type : s^ar|s.%-
+E :  No it 's it 's sh
+
+dialogue type : s^bk|s^aap
+E :  yeah , down here ,
+
+dialogue type : s^arp
+E :  but this one only has two .
+
+dialogue type : s^2.%--
+E :  Want to view that ,
+
+dialogue type : b
+E :  yeah yeah .
+
+dialogue type : %-
+E :  C sl
+
+dialogue type : b
+E :  yeah
+
+dialogue type : s.%--
+E :  R basically w we just need to sort of
+
+dialogue type : s
+E :  in order to get some closure on this figure out how we 're gonna get this picture sort of uh completely messy .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  It 's probably pretty easy do it to do it in HTML ,
+
+dialogue type : s.%-
+E : 
+
+dialogue type : fh
+E :  Uh
+
+dialogue type : s^aa|s
+E :  Yeah I have each of these thing each of the end belief - nets be be a page and then you click on the thing
+
+dialogue type : s
+E :  and then li consider that it 's respective ,
+
+dialogue type : %-
+E :  but
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s
+E :  ROVER , the ROVER decision .
+
+dialogue type : s
+E :  ROVER .
+
+dialogue type : s
+E :  All of their outputs combined to make a decision .
+
+dialogue type : fg
+E :  Um
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%--
+E :  And that one outcome , that 's
+
+dialogue type : s^bu
+E :  it 's X X - one voted for A
+
+dialogue type : s^bu
+E :  X - two voted for V
+
+dialogue type : qy^d^rt
+E :  and so forth ?
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s
+E :  That 's the outcome .
+
+dialogue type : s
+E :  That 's one .
+
+dialogue type : b
+E :  Mm - hmm .
+

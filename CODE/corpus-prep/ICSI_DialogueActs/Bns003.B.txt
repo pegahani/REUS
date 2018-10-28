@@ -1,0 +1,276 @@
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  P Cs .
+
+dialogue type : s^r
+B :  P Cs .
+
+dialogue type : s.%-
+B :  Well the first
+
+dialogue type : s^co
+B :  stop ,
+
+dialogue type : s
+B :  the first thing the most , eh , complicated is to fit them with the removal removable um , hard disk .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh
+B :  um
+
+dialogue type : fh
+B :  the
+
+dialogue type : s^bk
+B :  Oh ,
+
+dialogue type : qw^rt
+B :  what 's the right word ?
+
+dialogue type : s
+B :  I had to put everything out
+
+dialogue type : s^e
+B :  to to put the removable hard disk in
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk|%-
+B : 
+
+dialogue type : s
+B :  but i but it 's not not , um very , uh difficult or something like that .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^fe
+B :  Uh !
+
+dialogue type : s
+B :  So Wilbert will set up the second computer .
+
+dialogue type : s
+B :  So it 's about one hour to put this , uh hard disk in
+
+dialogue type : s
+B :  and a further hour to , uh Well , two or three hours to install the operating systems .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aap
+B :  At the moment .
+
+dialogue type : s^aa
+B :  Right ,
+
+dialogue type : fh|s
+B :  um On Friday when I installed , um uh Linux the first time I got access to the local network here , um , but not to any machines outside of , uh , ICSI .
+
+dialogue type : s
+B :  And , till Monday there 's no access at all to any machines ,
+
+dialogue type : s^e
+B :  also not to inside machines .
+
+dialogue type : s
+B :  So , I think it 's related to the work , um they 've done on Sunday here
+
+dialogue type : s.%-
+B : 
+
+dialogue type : qy^d^rt
+B :  The pages are already on the web ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^bk
+B :  Hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg
+B :  But , uh
+
+dialogue type : s^co
+B :  your argument is , uh , I think it we have to have the right to change it .
+
+dialogue type : s^co^df
+B :  So if there 's anything changing in insurances or something something like that , that we have access to this page further on to chan to make any changes .
+
+dialogue type : s^bk|s^ng
+B :  Yeah , but it 's much more complicated .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^cs
+B :  I think the best solution is really to put a link on the ICSI page to this stuff .
+
+dialogue type : s
+B :  And the stuff itself is , uh , located at our server .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^m^na
+B :  in our directory ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : h|s^no
+B :  Um , I don't know .
+
+dialogue type : s^cs
+B :  Maybe it could be a good thing if we have such an event button that , um , somewhere beneath this button or wherever , that there 's a date , when the last update was .
+
+dialogue type : s^df
+B :  So that you know it 's worth to click this button to see there 's a new , um , announcement or not .
+
+dialogue type : s^df
+B :  S So otherwise , you are often clicking this button
+
+dialogue type : s^df
+B :  and you get your old information or even an uh empty page .
+
+dialogue type : fh
+B :  So
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^na
+B :  something like that .
+
+dialogue type : s^2
+B :  " Last updated " ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s
+B :  So it 's just a su suggestion
+
+dialogue type : s^no
+B :  I don't know how easy it is to to implement something like that .
+
+dialogue type : s
+B :  Holidays
+
+dialogue type : qy^bu^d^rt
+B :  And there 's no final master 's thesis or something like that what they have to perform ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : fh
+B :  Well
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^ar
+B :  No , no , no , no , no .
+
+dialogue type : s^rt
+B :  So I will stay here till the end of February
+
+dialogue type : fh
+B :  and
+
+dialogue type : s
+B :  afterwards , um , at Berlin I 'm yeah , funded by an institution of the German government ,
+
+dialogue type : fh
+B :  so ,
+
+dialogue type : s^rt
+B :  they are paying me ,
+
+dialogue type : s
+B :  and I have to do research for them , of course .
+
+dialogue type : s
+B :  I have to um well , uh , reach some goals and so on .
+
+dialogue type : s^rt
+B :  But on the other hand there will be some time left I think to do some work on this area I started here .
+
+dialogue type : s^rt
+B :  And for me , myself , I 'm also very interested in in continue this work
+
+dialogue type : s
+B :  and so that will be manageable
+
+dialogue type : fh
+B :  and , um ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh
+B :  well ,
+
+dialogue type : s
+B :  at the moment it 's quite difficult to find students , eh , who are doing their master 's thesis and so on
+
+dialogue type : s^df
+B :  because there are not a lot of students , uh , which are in this state in Germany now ,
+
+dialogue type : fh
+B :  but um ,
+
+dialogue type : s
+B :  about two years ago the numbers of students were , um , studying computer science , uh , started to increase again
+
+dialogue type : s
+B :  and so in one or two years we will have , uh , many students , uh , which are performing their master 's thesis
+
+dialogue type : s
+B :  and so I think there will also be , uh , many students which are joining in this work .
+
+dialogue type : fh|s
+B :  So , hopefully , uh , I will found will find some students which are joining in
+
+dialogue type : fh
+B :  and , um
+
+dialogue type : s
+B :  So , hopefully this work will be go on .
+
+dialogue type : z
+B :  That 's it .
+

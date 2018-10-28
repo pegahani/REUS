@@ -1,0 +1,951 @@
+dialogue type : z
+G :  Test .
+
+dialogue type : z
+G :  Test .
+
+dialogue type : s^aa
+G :  Yeah , perhaps , yeah .
+
+dialogue type : s^aa
+G :  Oh yeah . Yeah .
+
+dialogue type : h|s^rt
+G :  Um . Well , preparation of the French test data actually .
+
+dialogue type : s.%--
+G :  So , it means that um ,
+
+dialogue type : s
+G :  well , it is , uh , a digit French database of microphone speech ,
+
+dialogue type : s
+G :  downsampled to eight kilohertz
+
+dialogue type : s^rt
+G :  and I 've added noise to one part , with the actually the Aurora - two noises .
+
+dialogue type : s
+G :  And , @ @ so this is a training part .
+
+dialogue type : s
+G :  And then the remaining part , I use for testing and with other kind of noises .
+
+dialogue type : s
+G : 
+
+dialogue type : s^rt
+G :  So this is almost ready .
+
+dialogue type : s
+G :  I 'm preparing the the HTK baseline for this task .
+
+dialogue type : fh
+G :  And , yeah .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : qy^bu^d
+G :  The plan with these data ?
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : h|s^aa
+G :  Uh , yeah .
+
+dialogue type : s^bk^rt
+G :  Well . The cube ?
+
+dialogue type : s
+G :  I should tell him about the cube ?
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  Uh we actually we want to , mmm , Uh , uh , analyze three dimensions ,
+
+dialogue type : s^e
+G :  the feature dimension , the training data dimension , and the test data dimension .
+
+dialogue type : fh
+G :  Um .
+
+dialogue type : s
+G :  Well , what we want to do is first we have number for each uh task .
+
+dialogue type : s
+G :  So we have the um , TI - digit task , the Italian task , the French task and the Finnish task .
+
+dialogue type : s^rt
+G :  So we have numbers with uh systems I mean I mean neural networks trained on the task data .
+
+dialogue type : s
+G :  And then to have systems with neural networks trained on , uh , data from the same language , if possible , with , well , using a more generic database , which is phonetically phonetically balanced ,
+
+dialogue type : fh
+G :  and . Um .
+
+dialogue type : %
+G :  Yeah . So .
+
+dialogue type : s^aa|s
+G :  Ye - uh Yeah , but , uh these corpus , w w there is a CallHome and a CallFriend also ,
+
+dialogue type : s^e
+G :  The CallFriend is for language ind identification .
+
+dialogue type : s
+G :  Well , anyway , these corpus are all telephone speech .
+
+dialogue type : qw^d
+G :  So , um . This could be a a problem for Why ?
+
+dialogue type : s
+G :  Because uh , uh , the the SpeechDat databases are not telephone speech .
+
+dialogue type : s
+G :  They are downsampled to eight kilohertz
+
+dialogue type : s
+G :  but but they are not uh with telephone bandwidth .
+
+dialogue type : s^bk|s^nd.%--
+G : 
+
+dialogue type : s
+G :  Well , you don't do not send speech , you send features , computed on th the the device ,
+
+dialogue type : fh
+G :  or Well .
+
+dialogue type : %-
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^aa|s.%-
+G : 
+
+dialogue type : s^aa|s^rt
+G :  Yea - Yeah , there are also two other databases .
+
+dialogue type : s^e
+G :  One they call the multi - language database , and another one is a twenty - two language , something like that .
+
+dialogue type : s^e
+G :  But it 's also telephone speech .
+
+dialogue type : fh
+G :  Uh .
+
+dialogue type : fg
+G :  Well , nnn .
+
+dialogue type : %--
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : x
+G :  Mmm .
+
+dialogue type : s^bk|%--
+G :  Yeah , but Mm - hmm . Um .
+
+dialogue type : fh
+G :  Yeah .
+
+dialogue type : s^cs
+G :  Well , actually , for the moment if we w do not want to use these phone databases , we we already have uh English , Spanish and French uh , with microphone speech .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : fh
+G :  Well .
+
+dialogue type : s^aa
+G :  Yeah ,
+
+dialogue type : s^na^rt
+G :  for the multilingual part we were thinking of using these three databases .
+
+dialogue type : %-
+G : 
+
+dialogue type : h|s^rt
+G :  Uh , actually , these three databases are um generic databases .
+
+dialogue type : s^e
+G :  So w f for for uh Italian , which is close to Spanish , French and , i i uh , TI - digits we have both uh , digits training data and also more general training data .
+
+dialogue type : fh
+G :  So . Mmm .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s^bk|s^cs
+G :  Yeah , perhaps yeah , there is also TIMIT .
+
+dialogue type : s^cs^rt
+G :  We could use TIMIT .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : fg|s
+G :  Yeah , and perhaps , um We were thinking that perhaps the cross - language issue is not , uh , so big of a issue .
+
+dialogue type : s^cs
+G :  Well , w w we perhaps we should not focus too much on that cross - language stuff .
+
+dialogue type : s^cs^df
+G :  I mean , uh , training training a net on a language and testing a for another language .
+
+dialogue type : s^cs^rt
+G :  Mmm . Perhaps the most important is to have neural networks trained on the target languages . But , uh , with a general database general databases .
+
+dialogue type : s^df
+G :  u So that th Well , the the guy who has to develop an application with one language can use the net trained o on that language , or a generic net ,
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^t3
+G :  You think so .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : fg|%-
+G : 
+
+dialogue type : fg|s.%-
+G : 
+
+dialogue type : s
+G :  there is a target language for the application .
+
+dialogue type : fh|%-
+G : 
+
+dialogue type : fg
+G :  Well .
+
+dialogue type : s^bk^rt
+G :  Yeah ?
+
+dialogue type : b
+G :  Yeah ,
+
+dialogue type : %-
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^aap
+G :  If it 's th in the phone ,
+
+dialogue type : %--
+G : 
+
+dialogue type : s^df
+G :  well , it that that could be th at the server 's side ,
+
+dialogue type : fh
+G :  and , well . Mmm , yeah .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s
+G :  So we we really have to do test with a real cross - language .
+
+dialogue type : s^e^rt
+G :  I mean , tr for instance training on English and testing on Italian ,
+
+dialogue type : s^cs
+G :  or Or we can train or else , uh , can we train a net on , uh , a range of languages and which can include the test the test @ @ the target language ,
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : %
+G :  Mmm ?
+
+dialogue type : s^am
+G :  Yeah , perhaps .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : %--
+G : 
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : s^aa
+G :  Yep .
+
+dialogue type : s
+G :  But , actually , the issue of phoneti phon uh phone phoneme mappings will arise when we will do severa use several languages
+
+dialogue type : s
+G :  because you Well , some phonemes are not , uh , in every languages ,
+
+dialogue type : s
+G :  and So we plan to develop a subset of the phonemes , uh , that includes , uh , all the phonemes of our training languages ,
+
+dialogue type : s
+G :  and use a network with kind of one hundred outputs or something like that .
+
+dialogue type : h|s^aa
+G :  Uh , yeah ,
+
+dialogue type : s^m^na
+G :  superset ,
+
+dialogue type : s^aa
+G :  yeah .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^rt
+G :  PLP .
+
+dialogue type : s^rt
+G :  PLP .
+
+dialogue type : s^rt
+G :  MSG .
+
+dialogue type : fh|s
+G :  Uh , JRASTA .
+
+dialogue type : s
+G :  And JRASTA - LDA .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : s
+G :  multi - band .
+
+dialogue type : s
+G :  So there would be multi - band before , um before our network , I mean .
+
+dialogue type : %-
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^cs
+G :  So , something like , uh , s TCT within bands
+
+dialogue type : fh
+G :  and Well .
+
+dialogue type : s^cs
+G :  And then multi - band after networks . Meaning
+
+dialogue type : s^rt
+G :  that we would have , uh , neural networks , uh , discriminant neural networks for each band .
+
+dialogue type : fh
+G :  Uh , yeah .
+
+dialogue type : s
+G :  And using the the outputs of these networks or the linear outputs or something like that .
+
+dialogue type : fh
+G :  Uh ,
+
+dialogue type : fh
+G :  yeah .
+
+dialogue type : h
+G :  But , uh ,
+
+dialogue type : fh
+G :  well ,
+
+dialogue type : s^nd
+G :  not for the the ANN .
+
+dialogue type : %
+G : 
+
+dialogue type : fh
+G :  So , yeah ,
+
+dialogue type : s^cs
+G :  we could we could add MFCC also .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  And the Finnish .
+
+dialogue type : s^na
+G :  So English , uh , Finnish and Italian are Aurora .
+
+dialogue type : s^e
+G :  And Spanish and French is something that we can use in addition to Aurora .
+
+dialogue type : fh
+G :  Uh , well .
+
+dialogue type : s
+G :  It 's , uh , French French .
+
+dialogue type : b.%
+G :  Yeah , yeah , yeah .
+
+dialogue type : s^na
+G :  They have an accent .
+
+dialogue type : s^aa
+G :  Yeah ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : fh
+G :  Yeah .
+
+dialogue type : s
+G :  The French data .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : fg
+G :  Yeah ,
+
+dialogue type : s^ar|s
+G :  the No , the French is f yeah , from , uh , Paris ,
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^aa
+G :  Uh , yeah .
+
+dialogue type : %--
+G :  The s
+
+dialogue type : fg
+G :  yeah ,
+
+dialogue type : s^cs
+G :  the Spanish , perhaps ,
+
+dialogue type : %
+G :  we will have .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^cs
+G :  But the the Aurora Spanish , I mean .
+
+dialogue type : s^nd
+G :  Uh , not yet ,
+
+dialogue type : fh
+G :  but , uh , yeah , uh , e
+
+dialogue type : s^m^na
+G :  pre they are preparing it ,
+
+dialogue type : fh
+G :  and , well ,
+
+dialogue type : s
+G :  according to Hynek it will be we will have this at the end of November ,
+
+dialogue type : fh
+G :  or Um .
+
+dialogue type : fh
+G : 
+
+dialogue type : s^ar
+G :  No .
+
+dialogue type : %-
+G :  Eight y
+
+dialogue type : s^na
+G :  Uh , probably one net .
+
+dialogue type : fh
+G :  Well .
+
+dialogue type : fh
+G :  Uh .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^cs
+G :  So , in the broader training corpus we can we can use , uh , the three , or , a combination of of two two languages .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^m^na
+G :  It 's not too much ,
+
+dialogue type : s^aa
+G :  no .
+
+dialogue type : fh
+G :  But Yeah .
+
+dialogue type : s
+G :  But there is the testing also , which implies training , uh , the HTK models
+
+dialogue type : fh
+G :  and , well ,
+
+dialogue type : %-
+G : 
+
+dialogue type : b
+G :  yeah .
+
+dialogue type : s
+G :  But it 's it 's it 's not so long .
+
+dialogue type : %--
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  It 's around six hours , I think .
+
+dialogue type : s^e
+G :  For training and testing ,
+
+dialogue type : fh
+G :  yeah .
+
+dialogue type : s^bk^m
+G :  More .
+
+dialogue type : s^bk^m
+G :  One day ?
+
+dialogue type : fg
+G :  Yeah ,
+
+dialogue type : s
+G :  I I think it 's - it 's - it 's not so long
+
+dialogue type : s
+G :  because , well , the TI - digits test data is about , uh how many hours ?
+
+dialogue type : s^e
+G :  Uh , th uh , thirty hours of speech , I think ,
+
+dialogue type : s
+G :  something like that .
+
+dialogue type : %--
+G :  And it
+
+dialogue type : fh
+G :  p Well .
+
+dialogue type : s
+G :  It 's six hours .
+
+dialogue type : s
+G :  I would say two days .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Yeah ,
+
+dialogue type : %--
+G :  it ,
+
+dialogue type : fh
+G : 
+
+dialogue type : fh
+G :  Well ,
+
+dialogue type : %--
+G : 
+
+dialogue type : s^na
+G :  It 's Nutmeg and Mustard , I think ,
+
+dialogue type : s^no
+G :  I don't know what kind .
+
+dialogue type : s^aa
+G :  Yeah ,
+
+dialogue type : s^aa
+G :  I think , yeah .
+
+dialogue type : s^na
+G :  I think so .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : s^rt
+G :  Mustard .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah , yeah .
+
+dialogue type : s^aa
+G :  Yeah , OK .
+
+dialogue type : s^aa
+G :  Yeah , OK .
+
+dialogue type : h
+G :  Um .
+
+dialogue type : s
+G :  Well , we were thinking about using this systematically for all the experiments .
+
+dialogue type : fh
+G :  Um .
+
+dialogue type : fh
+G :  So ,
+
+dialogue type : %--
+G : 
+
+dialogue type : fh
+G :  Uh .
+
+dialogue type : s
+G :  So that this could be another dimension ,
+
+dialogue type : s^rt
+G :  but we think perhaps we can use the the best , uh , um , uh , normalization scheme as OGI is using ,
+
+dialogue type : s
+G :  so , with parameters that they use there ,
+
+dialogue type : %-
+G :  u u
+
+dialogue type : b
+G :  Yeah , yeah , yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s.%--
+G :  Oh , I think basically , this is this is ,
+
+dialogue type : fh
+G :  uh , yeah .
+
+dialogue type : h
+G :  Um ,
+
+dialogue type : h
+G :  yeah ,
+
+dialogue type : s
+G :  I was thinking perhaps if , um , additionally to all these experiments , which is not really research ,
+
+dialogue type : s^df
+G :  well I mean it 's , uh , running programs
+
+dialogue type : s^cs
+G :  and , um , trying to have a closer look at the perhaps the , um , speech , uh , noise detection or , uh , voiced - sound - unvoiced - sound detection
+
+dialogue type : s^df
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^bk
+G :  Yeah ,
+
+dialogue type : s^cs
+G :  so defining the superset ,
+
+dialogue type : s^cs
+G :  and , uh , joining the data
+
+dialogue type : fh
+G :  and Mmm .
+
+dialogue type : fh
+G :  Yeah .
+
+dialogue type : s^bk|s.%--
+G :  Yeah , it would consist in , uh ,
+
+dialogue type : fh
+G :  well ,
+
+dialogue type : fh|s^rt
+G :  um , creating the the superset ,
+
+dialogue type : s^rt
+G :  and , uh , modifying the lab labels for matching the superset .
+
+dialogue type : fh
+G :  Uh .
+
+dialogue type : s
+G :  Well , creating the mappings , actually .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Yeah , yeah ,
+
+dialogue type : s^na
+G :  with the @ @ three languages ,
+
+dialogue type : s^2
+G :  From each language to the superset ,
+
+dialogue type : s^aa
+G :  yeah .
+
+dialogue type : s^nd
+G :  I don't think so .
+
+dialogue type : s^df
+G :  Well , they they they 're going actually the the other way , defining uh , phoneme clusters , apparently .
+
+dialogue type : fh
+G :  Well .
+
+dialogue type : s^nd
+G :  I think they 've not done it , uh , doing , uh , multiple language yet ,
+
+dialogue type : s^df
+G :  but what they did is to training , uh , English nets with all the phonemes ,
+
+dialogue type : s^df
+G :  and then training it in English nets with , uh , kind of seventeen , I think it was seventeen , uh , broad classes .
+
+dialogue type : s^bk^rt
+G :  Yeah .
+
+dialogue type : s^aa|s^na
+G :  Yeah , I think so .
+
+dialogue type : fh
+G :  Uh ,
+
+dialogue type : fh
+G :  and , yeah .
+
+dialogue type : s
+G :  And the result was that apparently , when testing on cross - language it was better .
+
+dialogue type : s^t1
+G :  I think so .
+
+dialogue type : s^df
+G :  But Hynek didn't add didn't have all the results when he showed me that ,
+
+dialogue type : fh
+G :  so , well .
+
+dialogue type : %-
+G : 
+
+dialogue type : s^na.%--
+G :  I think that there 's something wrong
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^df
+G :  Well , for the moment we are testing on digits ,
+
+dialogue type : s^df
+G :  and e i perhaps u using broad phoneme classes ,
+
+dialogue type : s^df
+G :  it 's it 's OK for um , uh classifying the digits ,
+
+dialogue type : s^df
+G :  but as soon as you will have more words ,
+
+dialogue type : s^df
+G :  well , words can differ with only a single phoneme , and which could be the same , uh , class .
+
+dialogue type : fh
+G :  Well .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s.%-
+G :  So , I 'm
+
+dialogue type : s^aa|s^df
+G :  Yeah , but you will ask the net to put one for th th the phoneme class
+
+dialogue type : fh
+G :  and So .
+
+dialogue type : fh
+G :  Well .
+
+dialogue type : s^aa
+G :  Yeah ,
+
+dialogue type : s^aa^r
+G :  yeah .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : s^aa
+G :  Yeah ,
+
+dialogue type : s^na.%--
+G :  this is another p
+
+dialogue type : s^aa
+G :  yeah ,
+
+dialogue type : s^na
+G :  another point .
+
+dialogue type : s^na
+G :  I don't think so .
+
+dialogue type : fh
+G :  Well ,
+
+dialogue type : s
+G :  they were talking about , perhaps ,
+
+dialogue type : %--
+G :  but they d
+
+dialogue type : %-
+G :  I d
+
+dialogue type : %-
+G :  w
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s.%--
+G :  But perhaps you have the choice of the final nonl
+
+dialogue type : fh
+G :  uh ,
+
+dialogue type : s^m^na
+G :  nonlinearity ,
+
+dialogue type : s^aa
+G :  yeah .
+
+dialogue type : qy^bu^rt
+G :  Is it always softmax
+
+dialogue type : qrr.%--
+G :  or ?
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : qy^bu^d
+G :  So if you choose sigmoid it 's o it 's OK ?
+

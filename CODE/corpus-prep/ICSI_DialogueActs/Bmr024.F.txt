@@ -1,0 +1,1260 @@
+dialogue type : s
+F :  So we 're on .
+
+dialogue type : s^rt
+F :  And , somewhere is my agenda .
+
+dialogue type : s^t
+F :  I think the most important thing is Morgan wanted to talk about , uh , the ARPA demo .
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : fg
+F :  So , uh
+
+dialogue type : s^rt^t
+F :  uh , IBM transcription status ,
+
+dialogue type : h|s^t
+F :  Uh , we wanna talk about if w if we wanna add the data to the mar Meeting Recorder corpus .
+
+dialogue type : qh^cs^t
+F :  So why don't we have that on the agenda and we 'll we 'll get to it and talk about it ?
+
+dialogue type : fg|s^rt^t
+F :  Uh , reorganization status .
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : fg
+F :  Uh - huh .
+
+dialogue type : s
+F :  Absinthe , which is the multiprocessor UNIX Linux .
+
+dialogue type : s^t
+F :  I think it was Andreas wanted to talk about segmentation and recognition ,
+
+dialogue type : s^t
+F :  and update on SRI recognition experiments .
+
+dialogue type : s^t
+F :  And then if ti if there 's time I wanted to talk about digits ,
+
+dialogue type : s^cc
+F :  but it looked like we were pretty full , so I can wait till next week .
+
+dialogue type : %-
+F :  At least ,
+
+dialogue type : b
+F :  yeah ,
+
+dialogue type : sj
+F :  he 'll t he 'll probably be interested .
+
+dialogue type : fh
+F :  But .
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s
+F :  I mean , I think , Chuck was the one who added out the agenda item .
+
+dialogue type : s
+F :  I don't really have anything to say other than that we still haven't done it .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s
+F :  Although Dave basically said that if we wanna do it , just tell him and he 'll do a d level zero then .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^bk
+F :  Yep .
+
+dialogue type : s^t.%-
+F : 
+
+dialogue type : s
+F :  Well , we don't need to do it during this meeting .
+
+dialogue type : s^t
+F :  We have a little more to discuss .
+
+dialogue type : s
+F :  But , uh , we 're we 're basically ready to do it .
+
+dialogue type : fh|s
+F :  And , uh , I have some web pages on ts more of the background .
+
+dialogue type : s
+F :  So , naming conventions and things like that , that I 've been trying to keep actually up to date .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s
+F :  And I 've been sharing them with U - d UW folks also .
+
+dialogue type : s^bc^ng
+F :  Sharing them with the UW folks .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s
+F :  So , we , uh we did another version of the beeps , where we separated each beeps with a spoken digit .
+
+dialogue type : s
+F :  Chuck came up here and recorded some di himself speaking some digits ,
+
+dialogue type : s
+F :  and so it just goes " beep one beep " and then the phrase ,
+
+dialogue type : s
+F :  and then " beep two beep " and then the phrase .
+
+dialogue type : s
+F :  And that seems pretty good .
+
+dialogue type : fh|s
+F :  Um , I think they 'll have a b easier time keeping track of where they are in the file .
+
+dialogue type : s^m
+F :  And we did it with the automatic segmentation ,
+
+dialogue type : s
+F :  and I don't think We ne we didn't look at it in detail .
+
+dialogue type : s
+F :  We just sent it to IBM .
+
+dialogue type : s
+F :  We we sorta spot - checked it .
+
+dialogue type : qy^bh
+F :  Oh ,
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : s
+F :  I sorta spot - checked here and there and it sounded pretty good .
+
+dialogue type : sj
+F :  So . I think it 'll work .
+
+dialogue type : fh|s^cs
+F :  And , uh , we 'll just hafta see what we get back from them .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : fg|s
+F :  Well , I think it 's also they are much less likely to d have errors .
+
+dialogue type : s
+F :  I mean , so the problem wi last time is that there were errors in the transcripts where they put beeps where there weren't any , or and they put in extraneous beeps .
+
+dialogue type : s
+F :  And with the numbers there , it 's much less likely .
+
+dialogue type : %
+F :  Ha .
+
+dialogue type : sj^ba
+F :  That 's interesting .
+
+dialogue type : s^ng
+F :  I didn't hear that .
+
+dialogue type : s^cs
+F :  Well , maybe we better listen to it again ,
+
+dialogue type : s^cs
+F :  make sure ,
+
+dialogue type : s
+F :  but , I mean , certainly the software shouldn't do that ,
+
+dialogue type : fh
+F :  so .
+
+dialogue type : s
+F :  Hiccups .
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s^nd
+F :  The only the only part that might be confusing is when Chuck is reading digits .
+
+dialogue type : s^j
+F :  " Seven four eight beep seven beep eight three two " .
+
+dialogue type : s^aa
+F :  Yes .
+
+dialogue type : s
+F :  Because , uh , we don't we didn't In order to cut them out we 'd have to listen to it .
+
+dialogue type : s
+F :  And we wanted to avoid doing that ,
+
+dialogue type : s
+F :  so we they are transcribing the digits .
+
+dialogue type : s^cs
+F :  Although we could tell them we could tell them , if you hear someone reading a digits string just say " bracket digit bracket "
+
+dialogue type : s^cs
+F :  and don't bother actually computing the di writing down the digits .
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : s^t
+F :  And then I wanted to talk about but as I said I we may not have time what we should do about digits .
+
+dialogue type : s
+F :  We have a whole pile of digits that haven't been transcribed .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : qo^rt
+F :  Do we have anything else to say about transcription ?
+
+dialogue type : qo^d^rt
+F :  About IBM stuff ?
+
+dialogue type : b
+F :  OK .
+
+dialogue type : b
+F :  Alright .
+
+dialogue type : fg|s
+F :  So , we have a whole bunch of digits ,
+
+dialogue type : s
+F :  if we wanna move on to digits .
+
+dialogue type : b.%
+F :  Hmm .
+
+dialogue type : s
+F :  It 'll keep your accuracy up .
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : s^2
+F :  And correcting .
+
+dialogue type : s^r
+F :  Correcting .
+
+dialogue type : s
+F :  We 'll we 'll expect that they 'll have to move some time bins and do some corrections .
+
+dialogue type : b
+F :  Oh , right .
+
+dialogue type : s^bk
+F :  I see what you mean .
+
+dialogue type : s^2.%-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : h|s
+F :  Uh , so , we have a whole bunch of digits that we 've read and we have the forms and so on ,
+
+dialogue type : s.%--
+F :  um , but only a small number of that ha
+
+dialogue type : s^bsc
+F : 
+
+dialogue type : s
+F :  only a subset of that has been transcribed .
+
+dialogue type : s^co^rt
+F :  And so we need to decide what we wanna do .
+
+dialogue type : fh|s
+F :  And , uh , Liz and Andreas actually they 're not here , but , they did say at one point that they thought they could do a pretty good job of just doing a forced alignment .
+
+dialogue type : s
+F :  And , again , I don't think we 'll be able to do with that alone , because , um , sometimes people correct themselves and things like that .
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  so , I was just wondering what people thought about how automated can we make the process of finding where the people read the digits , doing a forced alignment , and doing the timing .
+
+dialogue type : h|s
+F :  Well , we we know what they read , because we have the forms .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s
+F :  But , the point is that we wanna get a set of clean digits .
+
+dialogue type : fg|s.%-
+F :  I mean , so one option i
+
+dialogue type : s
+F :  But that 's pretty uncommon .
+
+dialogue type : h|s.%--
+F : 
+
+dialogue type : fh|s
+F :  Well , I guess yeah , I guess if we segmented it , we could get one percent on digits .
+
+dialogue type : fh
+F :  But ,
+
+dialogue type : s
+F :  Well , there there 're a couple different of doing it .
+
+dialogue type : s^cs
+F :  We could use the tools I 've already developed and transcribe it .
+
+dialogue type : s^cs
+F :  Hire some people , or use the transcribers to do it .
+
+dialogue type : s^cs
+F :  We could let IBM transcribe it .
+
+dialogue type : s
+F :  You know , they 're doing it anyway ,
+
+dialogue type : s
+F :  and unless we tell them different , they 're gonna transcribe it .
+
+dialogue type : fh|s^cs
+F :  Um , or we could try some automated methods .
+
+dialogue type : s^cs
+F :  And my my tendency right now is , well , if IBM comes back with this meeting and the transcript is good , just let them do it .
+
+dialogue type : s
+F :  It 's pretty distinct .
+
+dialogue type : s
+F :  The beeps are pre - recorded .
+
+dialogue type : s^aa
+F :  Yes .
+
+dialogue type : fg|s
+F :  I mean , it 'll be it will be in the midst of a digit string .
+
+dialogue type : fh
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  sure , there there might be a place where it 's " beep seven beep eight beep eight beep " .
+
+dialogue type : s
+F :  But , you know , they they 're they 're gonna macros for inserting the beep marks .
+
+dialogue type : sj
+F :  And so , I I don't think it 'll be a problem .
+
+dialogue type : s^cs
+F :  We 'll have to see ,
+
+dialogue type : sj^r
+F :  but I don't think it 's gonna be a problem .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^na
+F :  That was it .
+
+dialogue type : s
+F :  Just , what do we do with digits ?
+
+dialogue type : s^cs
+F :  We have so many of them , and it 'd be nice to actually do something with them .
+
+dialogue type : qo
+F :  Anything else ?
+
+dialogue type : s
+F :  Your mike is a little low there .
+
+dialogue type : sj^fe^t1
+F :  Oops .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  Hand ones .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : fg|s.%--
+F : 
+
+dialogue type : qy^bsc^d^rt
+F :  eh , Porzel ?
+
+dialogue type : s
+F :  and the , uh Porzel and the , uh , SmartKom group are collecting some dialogues .
+
+dialogue type : s
+F :  Basically they have one person sitting in here , looking at a picture , and a wizard sitting in another room somewhere .
+
+dialogue type : fh|s
+F :  And , uh , they 're doing a travel task .
+
+dialogue type : fh|s.%--
+F : 
+
+dialogue type : s
+F :  It 's it 's always the wizard ,
+
+dialogue type : s
+F :  but it starts where the wizard is pretending to be a computer and it goes through a , uh , speech generation system .
+
+dialogue type : s^bk^m
+F :  Synthesis system .
+
+dialogue type : fh|s
+F :  Um , and then , it goes to a real wizard and they 're evaluating that .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  well , here 's some more data .
+
+dialogue type : qy
+F :  Should this be part of the corpus or not ?
+
+dialogue type : sj
+F :  And my attitude was yes , because there might be people who are using this corpus for acoustics , as opposed to just for language .
+
+dialogue type : s
+F :  Um , or also for dialogue of various sorts .
+
+dialogue type : s
+F :  Um , so it 's not a meeting .
+
+dialogue type : qy^d^f^g
+F :  Right ?
+
+dialogue type : s
+F :  Because it 's two people and they 're not face to face .
+
+dialogue type : s^aap
+F :  At the beginning .
+
+dialogue type : s^t3
+F :  But of course they don't know that it 's the same person both times .
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : s^j
+F :  " I have to go now .
+
+dialogue type : s^j
+F :  You can talk to the computer . "
+
+dialogue type : sj^fe^j
+F :  " No ! "
+
+dialogue type : s.%--
+F : 
+
+dialogue type : qy^d^j^rt
+F :  abort , retry , fail ?
+
+dialogue type : s
+F :  Well , this was this was the question .
+
+dialogue type : s
+F :  So so they were saying they were not going to ,
+
+dialogue type : s
+F :  and I said , " well that 's silly , if if we 're gonna try to do it for a corpus , there might be people who are interested in acoustics . "
+
+dialogue type : s
+F :  I I see no reason not to do all of them .
+
+dialogue type : s
+F :  That that if we have someone who is doing acoustic studies , uh , it 's nice to have the same for every recording .
+
+dialogue type : fg
+F :  Right .
+
+dialogue type : fg|s
+F :  So so so for their usage , they don't need anything .
+
+dialogue type : qy^d^f^g
+F :  Right ?
+
+dialogue type : %-
+F : 
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : fg|s
+F :  So it 's It it I guess it the begs the question of what is the meeting corpus .
+
+dialogue type : qy^rt
+F :  So if , at UW they start recording two - person hallway conversations is that part of the meeting corpus ?
+
+dialogue type : s
+F :  Well , this has two or more people conversing with each other .
+
+dialogue type : s
+F :  They 're just not face to face .
+
+dialogue type : s^na
+F :  I mean , that was my intention .
+
+dialogue type : s^na^r
+F :  That was my intention .
+
+dialogue type : fg|qr
+F :  So so s so part of the reason that I wanted to bring this up is , do we wanna handle it as a special case or do we wanna fold it in ,
+
+dialogue type : qr^d^rt
+F :  we give everyone who 's involved as their own user ID , give it session I Ds , let all the tools that handle Meeting Recorder handle it , or do we wanna special case it ?
+
+dialogue type : qw
+F :  And if we were gonna special case it , who 's gonna do that ?
+
+dialogue type : s^na
+F :  I don't see why not .
+
+dialogue type : s
+F :  It 's just a different topic .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : qw
+F :  So w so what does that mean for how we are gonna organize things ?
+
+dialogue type : s
+F :  Yeah , but those are folded in ,
+
+dialogue type : s
+F :  and it 's just you just mark the transcripts differently .
+
+dialogue type : s^cs
+F :  So so one option is you fold it in ,
+
+dialogue type : s^cs
+F :  and just simply in the file you mark somewhere that this is this type of interaction , rather than another type of interaction .
+
+dialogue type : fg|s^df
+F :  Well , but but , I put it under the same directory tree .
+
+dialogue type : fh|s^e
+F :  You know , it 's in " user doctor speech data MR " .
+
+dialogue type : s^j
+F :  Other .
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : s^cs
+F :  My preference is to have a single procedure so that I don't have to think too much about things .
+
+dialogue type : s^cs
+F :  And , just have a marking .
+
+dialogue type : s
+F :  If we do it any other way that means that we need a separate procedure , and someone has to do that .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s
+F :  So , w we will hafta worry about format .
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : s
+F :  Well , I didn't realize that .
+
+dialogue type : %--
+F : 
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : s
+F :  They they even have a reading list .
+
+dialogue type : sj
+F :  It 's pretty funny .
+
+dialogue type : fg
+F : 
+
+dialogue type : s^cs
+F :  Disk might eventually be an issue so we might we we might need to , uh , get some more disk pretty soon .
+
+dialogue type : s
+F :  We 're about we 're about half halfway through our disk right now .
+
+dialogue type : s^na
+F :  We 're probably a little more than that because we 're using up some space that we shouldn't be on .
+
+dialogue type : fh|s^na
+F :  So , once everything gets converted over to the disks we 're supposed to be using we 'll be probably , uh , seventy - five percent .
+
+dialogue type : s^bk
+F :  Yep .
+
+dialogue type : qr
+F :  Were those backed - up or non - backed - up ?
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s
+F :  So that 's different .
+
+dialogue type : s
+F :  I 'm much more concerned about the backed - up .
+
+dialogue type : s^bsc
+F :  The non - backed - up ,
+
+dialogue type : b
+F :  yeah ,
+
+dialogue type : s
+F :  i is cheap .
+
+dialogue type : s^cs
+F :  I mean , if we need to we can buy a disk , hang it off a s uh , workstation .
+
+dialogue type : s
+F :  If it 's not backed - up the sysadmins don't care too much .
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s^nd
+F :  But that 's that 's that 's risky .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s^bk
+F :  Yeah , that 's right .
+
+dialogue type : s^co
+F :  Beep that out .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^nd
+F :  It 's really the back - up issue rather than the file server issue .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^r
+F :  My understanding is , the issue isn't really the file server .
+
+dialogue type : s^cs
+F :  We could always put more disks on .
+
+dialogue type : s
+F :  It 's the back - up system .
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  which is near saturation , apparently .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^aap
+F :  Well , we 're alright for now
+
+dialogue type : s^df
+F :  because the network 's so slow .
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s^na
+F :  That was me .
+
+dialogue type : s
+F :  I was the one who said it was not reliable .
+
+dialogue type : s
+F :  The - they they wear out .
+
+dialogue type : fh
+F :  Yeah .
+
+dialogue type : %-
+F :  The the th
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : s^aa
+F :  Absolutely .
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s^nd
+F :  Read and write don't hurt them too much unless you scratch them .
+
+dialogue type : s
+F :  But the r the write once , and the read - writes , don't last .
+
+dialogue type : s^co
+F :  So you don't wa you don't wanna put ir un reproduceable data on them .
+
+dialogue type : s
+F :  Year or two .
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : s
+F :  I I don't know many people who do it on CD .
+
+dialogue type : s.%-
+F :  I mean , they 're the most fo
+
+dialogue type : s^na|s^arp
+F :  They 're on CD , but they 're not tha that 's not the only source .
+
+dialogue type : s
+F :  They have them on disk .
+
+dialogue type : s
+F :  And they burn new ones every once in a while .
+
+dialogue type : s.%-
+F :  But if you go if you go k
+
+dialogue type : fg
+F :  Well ,
+
+dialogue type : b.%
+F :  th th OK .
+
+dialogue type : s.%--
+F :  The the pressed ones last for
+
+dialogue type : s^bsc
+F :  well , not forever ,
+
+dialogue type : s
+F :  they 've been finding even those degrade .
+
+dialogue type : fh|s.%--
+F : 
+
+dialogue type : s
+F :  I mean , when I say two or three years what I 'm saying is that I have had disks which are gone in a year .
+
+dialogue type : s
+F :  On the average , it 'll probably be three or four years .
+
+dialogue type : s^cs
+F :  But , uh I I you don't want to per p have your only copy on a media that fails .
+
+dialogue type : s
+F :  And they do .
+
+dialogue type : fh|s
+F :  Um , if you have them professionally pressed , y you know , they 're good for decades .
+
+dialogue type : s.%--
+F :  I think th
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : s^cs
+F :  we can already put them on tape .
+
+dialogue type : s
+F :  And the tape is hi is very reliable .
+
+dialogue type : s
+F :  So the the only issue is then if we need access to them .
+
+dialogue type : s
+F :  So that 's fine f if we don't need access to them .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : s^bu
+F :  So you 're just saying put them on C Ds for normal access .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^arp
+F :  I mean , you can do that
+
+dialogue type : s
+F :  but that 's pretty annoying ,
+
+dialogue type : s^df
+F :  because the C Ds are so slow .
+
+dialogue type : s.%--
+F :  Well , I mean , the C Ds are are an op
+
+dialogue type : s
+F :  The the CD is an alternative to tape .
+
+dialogue type : s
+F :  ICSI already has a perfectly good tape system and it 's more reliable .
+
+dialogue type : s^co
+F :  So for archiving , we 'll just use tape .
+
+dialogue type : fg|s.%--
+F : 
+
+dialogue type : s
+F :  Well , first of all there was , um , a problem with the archive in that I was every once in a while doing a chmod on all the directories an or recursive chmod and chown ,
+
+dialogue type : s^df
+F :  because they weren't getting set correctly every once in a while ,
+
+dialogue type : s
+F :  and I was just , doing a minus R star , not realizing that that caused it to be re - backed - up .
+
+dialogue type : s^aap
+F :  But normally you 're correct .
+
+dialogue type : s
+F :  But even without that , the back - up system is becoming saturated .
+
+dialogue type : s^arp
+F :  Sure , but we still have enough changed that the nightly back - ups are starting to take too long .
+
+dialogue type : s
+F :  It has nothing to do with the meeting .
+
+dialogue type : s
+F :  It 's just the general ICSI back - up system is becoming saturated .
+
+dialogue type : qh^co^nd
+F :  Well , why don't you have this have a this conversation with Dave Johnson tha rather than with me ?
+
+dialogue type : s^arp^cs
+F :  Actually , you know , we could do that just with the tape with the current tape .
+
+dialogue type : s^no
+F :  I dunno but it 's an automatic robot so it 's very convenient .
+
+dialogue type : s
+F :  You just run a program to restore them .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : fg
+F : 
+
+dialogue type : fg
+F : 
+
+dialogue type : fg
+F :  no ,
+
+dialogue type : sj^ba
+F :  but Andreas 's point is a good one .
+
+dialogue type : s
+F :  And we don't have to do anything ourselves to do that .
+
+dialogue type : s
+F :  They 're already right now on tape .
+
+dialogue type : qy^d^f^g
+F :  Right .
+
+dialogue type : s^bs^cs
+F :  So your your point is , and I think it 's a good one , that we could just get more disk and put it there .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : sj^ba
+F :  That 's not a bad idea .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : sj^ba
+F :  I think that 's a good idea .
+
+dialogue type : h
+F :  Uh
+
+dialogue type : s^cc
+F :  Well , I 'll talk to Dave , and and see what th how what the best way of doing that is .
+
+dialogue type : s
+F :  There 's a little utility that will manually burn a tape for you ,
+
+dialogue type : s
+F :  and that 's probably the right way to do it .
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : fg|s
+F :  Well we 're g we 're gonna automate that .
+
+dialogue type : s^cc
+F :  My intention is to do a script that 'll do everything .
+
+dialogue type : s^aa
+F :  No .
+
+dialogue type : s
+F :  It 's all tape robot ,
+
+dialogue type : s
+F :  so you just sit down at your computer and you type a command .
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s^arp
+F :  But y but you would be anyway .
+
+dialogue type : qy^bu^d^g^rt
+F :  Right ?
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^nd
+F :  But there 's no reason to do that .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^ar
+F :  No , we won't .
+
+dialogue type : s^nd
+F :  He 'll say " if if that means that it 's not gonna be backed - up standardly , great . "
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s
+F :  It 's it 's definitely no problem .
+
+dialogue type : h|s
+F :  Um , it 's it 's just it 's just a utility which queues up .
+
+dialogue type : s
+F :  It just queues it up and and when it 's available , it will copy it .
+
+dialogue type : s
+F :  And then you can tell it to then remove it from the disk or you can , you know , do it a a few days later or whatever you wanna do ,
+
+dialogue type : s
+F :  after you confirm that it 's really backed - up .
+
+dialogue type : s.%--
+F :  NW ?
+
+dialogue type : s^m^na
+F :  NW archive .
+
+dialogue type : s^na
+F :  That 's what it is .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : sj^na
+F :  Which I 'm sure would make ever the sysadmins very happy .
+
+dialogue type : sj^ba
+F :  So , I think that 's a good idea .
+
+dialogue type : s^cs^na
+F :  That 's what we should do .
+
+dialogue type : s^cs
+F :  So , that means we 'll probably wanna convert all all those files filesystems to non - backed - up media .
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : s^ng
+F :  That wasn't me .
+
+dialogue type : sj^ba^j
+F :  That 's good .
+
+dialogue type : qy^bh^rt
+F :  Oh you are ?
+
+dialogue type : sj^ba
+F :  Cool .
+
+dialogue type : s
+F :  That was a quick response .
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s.%-
+F :  It 's , uh , Swi
+
+dialogue type : s
+F :  Hub - five .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^2
+F :  It 's much worse .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^na^t3
+F :  That 's what I thought , too .
+
+dialogue type : qy.%-
+F :  What 's Are the freq ?
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^cs
+F :  Well , you can try each one on a cross - validation set ,
+
+dialogue type : qy^g
+F :  can't you ?
+
+dialogue type : qy.%-
+F :  Do you ?
+
+dialogue type : qw.%-
+F :  What ?
+
+dialogue type : qw
+F :  And what 's the top frequency of each ?
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  Exp - one 's triangular , one 's trapezoidal .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^bk
+F :  Uh - huh .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bu
+F :  So it 's not just losing some frequency range .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : h|s
+F :  Uh . Just what we were talking about before , which is that I ported a Blass library to Absinthe ,
+
+dialogue type : s
+F :  and then got got it working with fast - forward ,
+
+dialogue type : s
+F :  and got a speedup roughly proportional to the number of processors times the clock cycle .
+
+dialogue type : sj
+F :  So , that 's pretty good .
+
+dialogue type : s
+F :  Um , I 'm in the process of doing it for Quicknet ,
+
+dialogue type : s
+F :  but there 's something going wrong
+
+dialogue type : s^e
+F :  and it 's about half the speed that I was estimating it should be ,
+
+dialogue type : s
+F :  and I 'm not sure why .
+
+dialogue type : s^cc
+F :  But I 'll keep working on it .
+
+dialogue type : s
+F :  But the what it means is that it 's likely that for net training and forward passes , we 'll Absinthe will be a good machine .
+
+dialogue type : s
+F :  Especially if we get a few more processors and upgrade the processors .
+
+dialogue type : s
+F :  There 're five now .
+
+dialogue type : s
+F :  It can hold eight .
+
+dialogue type : s
+F :  And it 's also five - fifty megahertz and you can get a gigahertz .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^ar
+F :  I don't think so .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : s^arp^cs
+F :  We 'd have to get a almost certainly have to get a , uh , Netfinity server .
+
+dialogue type : s
+F :  They 're pretty pretty specialized .
+
+dialogue type : qw^bu^rt
+F :  July what ?
+
+dialogue type : qy^d^rt
+F :  Early July ?
+
+dialogue type : qy^d^rt
+F :  Late July ?
+
+dialogue type : qy^cs^d^rt
+F :  Over a cappuccino tomorrow ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy^bu^d
+F :  A unison digits ?
+
+dialogue type : s
+F :  Which is gonna be a little hard for a couple people because we have different digits forms .
+
+dialogue type : s
+F :  We have a I found a couple of old ones .
+
+dialogue type : qy^rt
+F :  Have you done digits before ?
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : fh|s
+F :  So , uh , the idea is just to read each line with a short pause between lines ,
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  And , uh , since we 're in a hurry , we were just gonna read everyone all at once .
+
+dialogue type : s^co.%--
+F : 
+
+dialogue type : s^co
+F :  So first read the transcript number , and then start reading the digits .
+
+dialogue type : qy^f^rt
+F :  OK ?
+
+dialogue type : s
+F :  One , two , three .
+
+dialogue type : z
+F : 
+

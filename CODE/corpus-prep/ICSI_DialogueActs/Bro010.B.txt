@@ -1,0 +1,936 @@
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : qy^rt
+B :  Do you have news from the conference talk ?
+
+dialogue type : fh
+B :  Uh ,
+
+dialogue type : s^e
+B :  that was programmed for yesterday I guess .
+
+dialogue type : fh
+B :  Well
+
+dialogue type : s^bk
+B :  Alright .
+
+dialogue type : s^2
+B :  To to decide what to do ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : h|s
+B :  Uh , well , we 've a little bit worked on trying to see , uh , what were the bugs and the problem with the latencies .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s
+B :  We took first we took the LDA filters
+
+dialogue type : s
+B :  and , uh , we designed new filters ,
+
+dialogue type : s^e
+B :  using uh recursive filters actually .
+
+dialogue type : qw^br^d^rt
+B :  I 'm sorry ?
+
+dialogue type : h|s
+B :  Uh , us .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s
+B :  So we took the filters the FIR filters and we designed , uh , IIR filters that have the same frequency response .
+
+dialogue type : s^e^rt
+B :  Well , similar , but that have shorter delays .
+
+dialogue type : s
+B :  So they had two filters ,
+
+dialogue type : s^e
+B :  one for the low frequency bands
+
+dialogue type : s^e^rt
+B :  and another for the high frequency bands .
+
+dialogue type : s
+B :  And so we redesigned two filters .
+
+dialogue type : s^rt
+B :  And the low frequency band has sixty - four milliseconds of delay ,
+
+dialogue type : s^rt
+B :  and the high frequency band filter has something like eleven milliseconds compared to the two hundred milliseconds of the IIR filters .
+
+dialogue type : s
+B :  But it 's not yet test .
+
+dialogue type : s
+B :  So we have the filters
+
+dialogue type : s^rt
+B :  but we still have to implement a routine that does recursive filtering
+
+dialogue type : %-
+B : 
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s^ar^r.x
+B :  No .
+
+dialogue type : s^aa
+B :  Yeah , yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg
+B :  Uh ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s^bk
+B :  yeah ,
+
+dialogue type : s^no.%--
+B : 
+
+dialogue type : s^nd
+B :  They were trying to do something different like taking , uh well , using filter that takes only a past
+
+dialogue type : %--
+B :  and
+
+dialogue type : s^nd
+B :  this is just a little bit different .
+
+dialogue type : s^cc
+B :  But I will I will send him an email and tell him exactly what we are doing ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Alright .
+
+dialogue type : fg
+B :  Um ,
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s
+B :  Well , there is w one , um , remark about these filters , that they don't have a linear phase .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s^no
+B :  Well , I don't know ,
+
+dialogue type : s
+B :  perhaps it perhaps it doesn't hurt
+
+dialogue type : s^df
+B :  because the phase is almost linear
+
+dialogue type : %--
+B :  but .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s
+B :  and so , yeah , for the delay I gave you here , it 's it 's , uh , computed on the five hertz modulation frequency ,
+
+dialogue type : s^e
+B :  which is the mmm , well , the most important for speech
+
+dialogue type : fh
+B :  so .
+
+dialogue type : fh
+B :  Uh ,
+
+dialogue type : s
+B :  this is the first thing .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  Three hundred and thirty .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s
+B :  but there are other points actually ,
+
+dialogue type : fh
+B :  uh ,
+
+dialogue type : s^e
+B :  which will perhaps add some more delay .
+
+dialogue type : s^rt
+B :  Is that some other other stuff in the process were perhaps not very um perf well , not very correct ,
+
+dialogue type : s^e^rt
+B :  like the downsampling which w was simply dropping frames .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s^cc
+B :  so we will try also to add a nice downsampling
+
+dialogue type : s^e.%--
+B : 
+
+dialogue type : s^e^rt
+B :  well , a low - pass filter at at twenty - five hertz .
+
+dialogue type : s^df
+B :  Uh , because wh when when we look at the LDA filters , well , they are basically low - pass
+
+dialogue type : s
+B :  but they leave a lot of what 's above twenty - five hertz .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : fh
+B :  and so , yeah ,
+
+dialogue type : s
+B :  this will be another filter which would add ten milliseconds again .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s^bk
+B :  yeah ,
+
+dialogue type : s^rt^tc
+B :  and then there 's a third thing ,
+
+dialogue type : s^rt
+B :  is that , um , basically the way on - line normalization was done uh , is just using this recursion on on the um , um , on the feature
+
+dialogue type : s
+B :  and but this is a filter ,
+
+dialogue type : s
+B :  so it has also a delay .
+
+dialogue type : fh
+B :  Uh ,
+
+dialogue type : s
+B :  and when we look at this filter actually it has a delay of eighty - five milliseconds .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  If we want to be very correct ,
+
+dialogue type : s^co
+B :  so if we want to the estimation of the mean t t to to be well , the right estimation of the mean , we have to t to take eighty - five milliseconds in the future .
+
+dialogue type : fh
+B :  Mmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s^bd
+B :  But , well , when we add up everything it 's it will be alright .
+
+dialogue type : s.%--
+B :  We would be at six
+
+dialogue type : s
+B :  so , sixty - five , plus ten , plus for the downsampling ,
+
+dialogue type : s
+B :  plus eighty - five for the on - line normalization .
+
+dialogue type : s.%--
+B :  So it 's
+
+dialogue type : s
+B :  plus plus eighty for the neural net and PCA .
+
+dialogue type : s
+B : 
+
+dialogue type : fh
+B :  so , well ,
+
+dialogue type : s
+B :  plus plus the frames ,
+
+dialogue type : s
+B :  but it 's OK .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  So , yeah .
+
+dialogue type : fg
+B :  Yeah ,
+
+dialogue type : s
+B :  and basically the best proposal had something like thirty or forty milliseconds of latency .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fh
+B :  Well .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : h|s^aa
+B :  Uh , yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^rt
+B :  Well , it 's that by the for the moment we have , uh , something that 's discriminant and nonlinear .
+
+dialogue type : s
+B :  And the other is linear but it 's not discriminant at all .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : fg
+B : 
+
+dialogue type : fh
+B : 
+
+dialogue type : fh
+B :  yeah .
+
+dialogue type : s
+B :  Actually what we want to do , perhaps it 's to replace to to have something that 's discriminant but linear , also .
+
+dialogue type : s^rt
+B :  And to see if it if it improves ov over over the non - discriminant linear transformation .
+
+dialogue type : s
+B :  And if the neural net is better than this
+
+dialogue type : fh
+B :  or , well .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : %-
+B :  Ye
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B :  So it would be on the
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  on on the mel frequency bands ,
+
+dialogue type : fh
+B :  so . Yeah ,
+
+dialogue type : s^e
+B :  be before everything .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : fh
+B : 
+
+dialogue type : %
+B :  Um .
+
+dialogue type : s^aa
+B :  Mmm , yeah .
+
+dialogue type : s^na
+B :  I guess it 's power domain , yeah .
+
+dialogue type : s^df
+B :  I don't remember exactly .
+
+dialogue type : %--
+B : 
+
+dialogue type : s^bk
+B :  yeah ,
+
+dialogue type : s^e
+B :  so it 's before everything else ,
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^2
+B :  A little bit more
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B :  And generated this this ,
+
+dialogue type : fh
+B :  um ,
+
+dialogue type : s^rt
+B :  so you have the estimation of the power spectra of the noise ,
+
+dialogue type : s
+B :  and you multiply this by a factor which is depend dependent on the SNR .
+
+dialogue type : fh
+B :  So . Well .
+
+dialogue type : s^rt
+B :  When the speech lev when the signal level is more important , compared to this noise level , the coefficient is small , and around one .
+
+dialogue type : s
+B :  But when the power le the s signal level is uh small compared to the noise level , the coefficient is more important .
+
+dialogue type : s
+B :  And this reduce actually the music musical noise ,
+
+dialogue type : fh
+B :  uh
+
+dialogue type : s^e
+B :  which is more important during silence portions ,
+
+dialogue type : s^e
+B :  when the s the energy 's small .
+
+dialogue type : s
+B :  So there are tricks like this
+
+dialogue type : fh
+B :  but , mmm .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa^r
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^aa
+B :  sure .
+
+dialogue type : %--
+B : 
+
+dialogue type : fh
+B :  Mmm .
+
+dialogue type : fg|s.%-
+B : 
+
+dialogue type : s
+B :  Actually , it 's a mmm If - if you want to have a good estimation on non - stationary noise you have to look in the in the future .
+
+dialogue type : fh
+B :  I mean , if you take your window and build your histogram in this window , um , what you can expect is to have an estimation of th of the noise in in the middle of the window ,
+
+dialogue type : s^e
+B :  not at the end .
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : %-
+B :  The
+
+dialogue type : s
+B :  They just look in the past .
+
+dialogue type : s
+B :  I guess it works because the noise are , uh pret uh , almost stationary
+
+dialogue type : fh
+B :  but ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^nd
+B :  Well , if y if you have a good estimation of the noise ,
+
+dialogue type : s^ar
+B :  yeah ,
+
+dialogue type : s.%--
+B :  because
+
+dialogue type : fh
+B :  well
+
+dialogue type : s^nd
+B :  it it has to work .
+
+dialogue type : %-
+B :  i
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^m^na
+B :  that 's hard to do .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^bk
+B :  Yeah ,
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bu.%--
+B : 
+
+dialogue type : s
+B :  But I think y um , Hirsch does experiment with windows of like between five hundred milliseconds and one second .
+
+dialogue type : fh
+B :  And
+
+dialogue type : s^ba
+B :  well , five hundred wa was not so bad .
+
+dialogue type : fh
+B :  I mean
+
+dialogue type : s
+B :  and he worked on non - stationary noises ,
+
+dialogue type : s^e
+B :  like noise modulated with well , wi with amplitude modulations
+
+dialogue type : fh
+B :  and
+
+dialogue type : s^e
+B :  things like that ,
+
+dialogue type : fh
+B : 
+
+dialogue type : fh
+B : 
+
+dialogue type : h
+B :  Um ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : fh
+B :  Well ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  Well , in in the paper he showed that actually the estimation of the noise is is delayed .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^na
+B :  you you have to center the window ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : fh
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %
+B : 
+
+dialogue type : qw^bu^rt
+B :  What do you mean ?
+
+dialogue type : s
+B :  But if the if the noise is stationary perhaps you don't even need some kind of noise estimation algorithm .
+
+dialogue type : s^cs
+B :  We just take th th th the beginning of the utterance
+
+dialogue type : fh
+B :  and
+
+dialogue type : s^no
+B :  I I know p I don't know if people tried this for Aurora .
+
+dialogue type : s
+B :  Well , everybody seems to use some kind of adaptive , well , scheme
+
+dialogue type : %-
+B :  but ,
+
+dialogue type : s
+B :  is it very useful
+
+dialogue type : s.%-
+B :  and is the c
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah , so .
+
+dialogue type : s^bk
+B :  Yeah ,
+
+dialogue type : s
+B :  they have some kind of threshold on on the previous estimate ,
+
+dialogue type : fh
+B : 
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s
+B :  I think . Yeah , I think Ericsson used this kind of threshold . Yeah ,
+
+dialogue type : s^e^rt
+B :  so , they h they have an estimate of the noise level
+
+dialogue type : s^e^rt
+B :  and they put a threshold like six or ten DB above ,
+
+dialogue type : fh
+B :  and
+
+dialogue type : s^e
+B :  what 's under this threshold is used to update the estimate .
+
+dialogue type : qy^rt
+B :  Is is that right
+
+dialogue type : qrr.%--
+B :  or ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s
+B :  It 's like saying what 's under the threshold is silence ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qy^d^rt
+B :  Y you know , perhaps ?
+
+dialogue type : qw
+B :  What could be the other low level detectors , I mean , for Other kind of features ,
+
+dialogue type : fh
+B :  or ?
+
+dialogue type : s^e
+B :  in addition to detecting sonorants
+
+dialogue type : fh
+B :  or ?
+
+dialogue type : qy^bu^d^rt
+B :  Th - that 's what you want to to to go for also
+
+dialogue type : qrr.%--
+B :  or ?
+
+dialogue type : qy^2^d^rt
+B :  Other low level detectors ?
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bu
+B :  And the de - reverberation algorithm ,
+
+dialogue type : qy^rt
+B :  do you have can you give some more details on this
+
+dialogue type : qy^e^rt
+B :  or ? Does it use one microphone ?
+
+dialogue type : qy^d^e^rt
+B :  Several microphones ?
+
+dialogue type : qy.%-
+B :  Does it ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : h
+B :  Uh ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^rt
+B :  Well , there is the Avendano work ,
+
+dialogue type : s^rt
+B :  but also trying to mmm , uh trying to f t find the de - convolution filter
+
+dialogue type : s.%--
+B :  but in the
+
+dialogue type : fh
+B : 
+
+dialogue type : s^e
+B :  not in the time domain
+
+dialogue type : s^e
+B :  but in the uh the stream of features uh I guess .
+
+dialogue type : fg|s
+B :  Well , @ @ there there 's someone working on this on i in Mons
+
+dialogue type : s.%--
+B :  So perhaps ,
+
+dialogue type : fh
+B :  yeah ,
+
+dialogue type : s^cs.%--
+B : 
+
+dialogue type : s
+B :  He 's working on this ,
+
+dialogue type : s^e.%--
+B : 
+
+dialogue type : s^e
+B :  on re reverberation ,
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg
+B :  So , yeah .
+
+dialogue type : s^tc
+B :  Well , he did echo cancellation
+
+dialogue type : s
+B :  and he did some fancier things
+
+dialogue type : s^e
+B :  like , uh , uh , training different network on different reverberation conditions
+
+dialogue type : s^e
+B :  and then trying to find the best one ,
+
+dialogue type : fh
+B :  but . Well .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^br^d^rt.%--
+B :  If there is ?
+
+dialogue type : s^bk
+B :  Ah , yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+

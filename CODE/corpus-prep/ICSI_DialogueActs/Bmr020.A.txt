@@ -1,0 +1,711 @@
+dialogue type : z
+A :  OK ,
+
+dialogue type : z
+A :  we 're recording .
+
+dialogue type : z
+A :  Curly brackets .
+
+dialogue type : z
+A :  Right .
+
+dialogue type : z
+A :  Do we use square brackets for anything ?
+
+dialogue type : z
+A :  It 's still not a good idea .
+
+dialogue type : z
+A :  Yeah ,
+
+dialogue type : z
+A :  you wanna
+
+dialogue type : z
+A :  noise floors ,
+
+dialogue type : z
+A :  through the whole meeting .
+
+dialogue type : z
+A :  Change what in the software ?
+
+dialogue type : z
+A :  I mean certainly we could do that ,
+
+dialogue type : z
+A :  but I don't think that 's a good idea .
+
+dialogue type : z
+A :  We can do that in post - processing if if the application needs it .
+
+dialogue type : z
+A :  As an argument .
+
+dialogue type : fg
+A :  Uh ,
+
+dialogue type : s^t
+A :  so the only agenda items were Jane was Jane wanted to talk about some of the IBM transcription process .
+
+dialogue type : s
+A :  I sort of condensed the three things you said into that .
+
+dialogue type : s
+A :  And then just I only have like , this afternoon and maybe tomorrow morning to get anything done before I go to Japan for ten days .
+
+dialogue type : s^co
+A :  So if there 's anything that n absolutely , desperately needs to be done , you should let me know now .
+
+dialogue type : s
+A :  Well yeah , you sent it in late .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Oh ,
+
+dialogue type : s
+A :  that was the other thing
+
+dialogue type : fh
+A :  uh ,
+
+dialogue type : fg|s
+A :  uh , Dave Gelbart sent me email , I think he sent it to you too , that um , there 's a special topic , section in si in Eurospeech on new , corp corpors corpora .
+
+dialogue type : s^e
+A :  And it 's not due until like May fifteenth .
+
+dialogue type : s^aa
+A :  No .
+
+dialogue type : s^na
+A :  It 's a different one .
+
+dialogue type : fg
+A :  And uh ,
+
+dialogue type : s
+A :  I s forwarded it to Jane as I thought being the most relevant person .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^df
+A : 
+
+dialogue type : qy^rt
+A :  have you did you look at the URL ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^na
+A :  I 'll help ,
+
+dialogue type : s^arp
+A :  but obviously I can't , really do , most of
+
+dialogue type : fh
+A :  so .
+
+dialogue type : s^na
+A :  But any any help you need I can certainly provide .
+
+dialogue type : b
+A :  Wow .
+
+dialogue type : s
+A :  That 's just cuz he talks really fast .
+
+dialogue type : %
+A :  I know
+
+dialogue type : s
+A :  But re well regardless . I think it 's he 's he 's in all of them ,
+
+dialogue type : s
+A :  and he talks a lot .
+
+dialogue type : s
+A :  One participant .
+
+dialogue type : qy^rt
+A :  Did you identify him as a senior member ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^j
+A :  The good , the bad , and the ugly .
+
+dialogue type : s^t3
+A :  I 'm surprised .
+
+dialogue type : s
+A :  I have I had better start changing all my slides !
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : fg
+A : 
+
+dialogue type : s^bk|s
+A :  Yeah , I was gonna ask that too .
+
+dialogue type : fg
+A : 
+
+dialogue type : s^nd
+A :  But I don't know if that 's really a fair way of comparing between , multi - party , conversations and two - party conversations .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^no
+A :  I I I don't know .
+
+dialogue type : s^df.%-
+A : 
+
+dialogue type : %--
+A : 
+
+dialogue type : s
+A :  I bet there 's a weak dependence .
+
+dialogue type : s
+A :  I 'm sure it 's it 's not a real strong one .
+
+dialogue type : qy^d^f^g^rt
+A :  Right ?
+
+dialogue type : s.%-
+A :  Because you
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s
+A :  You have a lot of a lot of two - party , subsets within the meeting .
+
+dialogue type : s
+A : 
+
+dialogue type : s^df
+A :  it 's an interesting result regardless .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : s^j
+A :  So , did we all said " uh - huh " and nodded at the same time ,
+
+dialogue type : fh
+A :  so .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^ar
+A :  Nope .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : qw^rt
+A :  Oh by the way , who 's on channel four ?
+
+dialogue type : s
+A :  You 're getting a lot of breath .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^ba
+A :  That 's great .
+
+dialogue type : s
+A :  Yeah , I guess that doesn't surprise me ,
+
+dialogue type : s^df
+A :  because , with the close - talking mikes , the the signal will be so much stronger .
+
+dialogue type : qw^rt
+A :  What what sort of normalization do you do ?
+
+dialogue type : s^e
+A :  I mean in you recognizer ,
+
+dialogue type : s^e
+A :  in the SRI recognizer .
+
+dialogue type : qy^bu^d^rt
+A :  Over an entire utterance ?
+
+dialogue type : qrr^d
+A :  Or windowed ?
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  I 'm not looking forward to it .
+
+dialogue type : s
+A :  At pause boundaries .
+
+dialogue type : s^cs^j
+A :  On T - closures , only .
+
+dialogue type : s
+A :  It 's nice to actually measure it though .
+
+dialogue type : s^j
+A :  Made the font smaller and the narrows longer .
+
+dialogue type : s^2
+A :  Took out white space .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : s
+A :  There was there was of course a Monty Python sketch with that .
+
+dialogue type : s^e
+A :  Where the barber who was afraid of scissors was playing a a tape of clipping sounds , and saying " uh - huh " ,
+
+dialogue type : s^e
+A :  " yeah " ,
+
+dialogue type : qo^e
+A :  " how about them sports teams ? "
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s^t3
+A :  Printed it out ,
+
+dialogue type : s^t3
+A :  haven't read it yet .
+
+dialogue type : s^2
+A :  Pub real .
+
+dialogue type : s^cs^j
+A :  Ask Dan Ellis .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  Beta ?
+
+dialogue type : s
+A :  Don't don't don't say .
+
+dialogue type : s
+A :  I uh , put digits in my own home directory home FTP directory ,
+
+dialogue type : s
+A :  but I 'll probably move them there as well .
+
+dialogue type : s
+A :  We can put it in the same place .
+
+dialogue type : s
+A :  Just put in another directory .
+
+dialogue type : s^bu
+A :  OK , I think we 're losing , Don and Andreas at three - thirty ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^df
+A :  It was just to talk about how to generate it .
+
+dialogue type : fh|s^e
+A :  Um , just so that while I 'm gone , you can regenerate it if you decide to do it a different way .
+
+dialogue type : s
+A :  So uh , Chuck and Thilo should , now more or less know how to generate the file
+
+dialogue type : s
+A :  and , the other thing Chuck pointed out is that , um , since this one is hand - marked , there are discourse boundaries .
+
+dialogue type : qy^d^f^g
+A :  Right ?
+
+dialogue type : s^e
+A :  So so when one person is speaking , there 's breaks .
+
+dialogue type : s
+A :  Whereas Thilo 's won't have that .
+
+dialogue type : s
+A :  So what what we 're probably gonna do is just write a script , that if two , chunks are very close to each other on the same channel we 'll just merge them .
+
+dialogue type : fh|s
+A :  So , uh , and that will get around the problem of , the , you know " one word beep , one word beep , one word beep , one word beep " .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s
+A :  That 's on the other channel .
+
+dialogue type : s
+A :  That 's because of channel overlap .
+
+dialogue type : %-
+A :  It 's i
+
+dialogue type : s
+A :  I mean that 's not gonna be true of the foreground speaker .
+
+dialogue type : s^e
+A :  That 'll only be if it 's the background speaker .
+
+dialogue type : s^na
+A :  That 's what I just said ,
+
+dialogue type : fh
+A :  yeah .
+
+dialogue type : s^nd
+A :  Well , that 's definitely a problem .
+
+dialogue type : s^t3
+A :  Battery .
+
+dialogue type : s^co^t3
+A :  Let me make a note on yours .
+
+dialogue type : s^ng
+A :  Yeah the only , um , disadvantage of that is , then it 's hard to use an automatic method to do that .
+
+dialogue type : s^na
+A :  The advantage is that it 's probably faster to do that than it is to use the automated method and correct it .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  We 'll just have to see .
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : s^t3
+A :  It 's not that different .
+
+dialogue type : s
+A :  Transcriber will do it .
+
+dialogue type : s
+A :  We pick the easy parts of the data basically ,
+
+dialogue type : s
+A :  and transcriber marks it by hand .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s^bk
+A :  Oh , after .
+
+dialogue type : s^bk
+A :  Oh , OK ,
+
+dialogue type : s^df
+A :  I didn't I didn't understand that .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk|s^co
+A :  OK , leave the mikes on ,
+
+dialogue type : s^co
+A :  and just put them on the table .
+
+dialogue type : s^co^t3
+A :  Let me mark you as no digits .
+
+dialogue type : s^cs
+A :  I think we just we just have to listen to it and see how good they are .
+
+dialogue type : s^2
+A :  Release to begin with .
+
+dialogue type : s^j^nd^t3
+A :  No , the undead meeting ,
+
+dialogue type : fh
+A :  yeah .
+
+dialogue type : s
+A :  Blech .
+
+dialogue type : s^2
+A :  Stress test .
+
+dialogue type : s^na^t3
+A :  One and a half times real time .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^fa|s^cs
+A :  Sorry , go ahead .
+
+dialogue type : s^ng
+A :  Yeah I I think , we won't know until we generate a bunch of beep files automatically , listen to them and see how bad they are .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^nd
+A :  That 's not hard to do .
+
+dialogue type : s^df
+A :  Just it takes you know , it just takes five minutes rather than , taking a second .
+
+dialogue type : s
+A :  So . I just hand hard - coded it .
+
+dialogue type : s^ar|s^df
+A :  No , but it 's easy enough to do .
+
+dialogue type : s
+A :  There are lots of ways to do it .
+
+dialogue type : s
+A :  I have one program that 'll do it .
+
+dialogue type : s
+A :  You can find other programs .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A :  Minus D , capital D .
+
+dialogue type : s^ng
+A :  I didn't mean listen to everything ,
+
+dialogue type : s^df
+A :  I meant , just see if they 're any good .
+
+dialogue type : s^cs.%-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^cs
+A :  And we should just double - check with Brian on a few simple conventions on how they should mark things .
+
+dialogue type : s^bk|s^na
+A :  Yeah , cuz @ @ uh what I had originally said to Brian was well they 'll have to mark , when they can't distinguish between the foreground and background ,
+
+dialogue type : s^df
+A :  because I thought that was gonna be the most prevalent .
+
+dialogue type : s
+A :  But if we send them without editing , then we 're also gonna hafta have m uh , notations for words that are cut off ,
+
+dialogue type : s^e
+A :  and other sorts of , uh , acoustic problems .
+
+dialogue type : s
+A :  But what what we would like them to do is be conservative
+
+dialogue type : s^cs
+A :  so that they should only write down the transcript if they 're sure .
+
+dialogue type : s^cs
+A :  And otherwise they should mark it so that we can check .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s^ba^na
+A :  That 's a good idea .
+
+dialogue type : s^cs
+A :  Or at least sample it .
+
+dialogue type : b
+A :  Uh - huh
+
+dialogue type : qw
+A :  What can you do ?
+
+dialogue type : s^bk
+A :  Yep . Mmm .
+
+dialogue type : s^na
+A :  It 's a little bit confusing .
+
+dialogue type : qh
+A :  I mean , what 're we gonna do ?
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : s^bsc^df
+A :  a hand - transcriber would have trouble with that .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^aa|s^df
+A :  Yeah cuz there will be no channel on which it is foreground .
+
+dialogue type : fg
+A : 
+
+dialogue type : s^bk|s^nd
+A :  Right , but , uh , in general I don't think we want them transcribing the background ,
+
+dialogue type : s^df^nd
+A :  cuz that would be too much work .
+
+dialogue type : s^bk
+A :  Right ?
+
+dialogue type : %--
+A : 
+
+dialogue type : s^df.%-
+A :  because in the overlap sections , then they 'll
+
+dialogue type : s^nd
+A :  But that 's gonna be all over the place .
+
+dialogue type : qw^df
+A :  How w how will they tell the difference between that sort of background and the dormal normal background of two people talking at once ?
+
+dialogue type : qw^nd
+A :  How would they know that ?
+
+dialogue type : s
+A :  Because otherwise it 's gonna be too much work for them to mark it .
+
+dialogue type : s^e
+A :  They 'll be marking it all over the place .
+
+dialogue type : s^bk
+A :  Sure ,
+
+dialogue type : qw^nd
+A :  but how are they gonna tell bet the difference between that and two people just talking at the same time ?
+
+dialogue type : qw
+A :  But how do we d how do we do that for the I B M folks ?
+
+dialogue type : qw
+A :  How can they tell that ?
+
+dialogue type : s^aa
+A :  Yes ,
+
+dialogue type : s^na
+A :  that 's my opinion as well .
+
+dialogue type : s^co
+A :  So we don't do anything for it with it .
+
+dialogue type : s^e
+A :  And they 'll just mark it however they mark it ,
+
+dialogue type : s^co^e
+A :  and we 'll correct it when it comes back .
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s^2
+A :  the default .
+
+dialogue type : s^ar|s^bsc
+A :  No , not default .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A :  Worry about it when we get back .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^cs
+A :  As I say , we 'll just have to listen to it and see how horrible it is .
+
+dialogue type : s^bsc
+A :  Sample it , rather .
+
+dialogue type : b
+A :  Mm - hmm ,
+
+dialogue type : qy^d^rt
+A :  and and they 're very it 's very audible ? on the close - talking channels ?
+
+dialogue type : s^ng
+A :  Oh well .
+
+dialogue type : s
+A :  I mean , it 's the same problem as the lapel mike .
+
+dialogue type : %--
+A : 
+
+dialogue type : qr
+A :  Are we gonna do it altogether or separately ?
+
+dialogue type : z
+A :  Nnn , yeah ,
+
+dialogue type : z
+A :  I think there probably will be .
+
+dialogue type : z
+A :  I do .
+
+dialogue type : z
+A :  Total concentration . Are you guys ready ?
+

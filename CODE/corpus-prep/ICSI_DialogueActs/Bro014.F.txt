@@ -1,0 +1,342 @@
+dialogue type : z
+F :  Mm - hmm .
+
+dialogue type : s^ba.x
+F :  Good .
+
+dialogue type : s^na
+F :  Yeah . It depends .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s.%--
+F :  Oh , this is a
+
+dialogue type : b
+F :  OK .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy^g^t1
+F :  Isn't it
+
+dialogue type : s
+F :  Oh , well , I have the picture .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^t3
+F :  uh , um , this , this , and this .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  We have here some histogram ,
+
+dialogue type : s
+F :  but they have a lot of overlap .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  We , uh , use TIMIT on this ,
+
+dialogue type : %--
+F : 
+
+dialogue type : s
+F :  But if we look at it in one sentence , it apparently it 's good ,
+
+dialogue type : s
+F :  I think .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^aa
+F :  No .
+
+dialogue type : h|s^rt
+F :  Uh , we distend the we have the twenty - three coefficient af after the mel f filter ,
+
+dialogue type : s^rt
+F :  and we extend these coefficient between the all the frequency range .
+
+dialogue type : s
+F :  And i the interpolation i between the point is give for the triang triangular filter , the value of the triangular filter
+
+dialogue type : s
+F :  and of this way we obtained this mode this model speech .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Mm - hmm .
+
+dialogue type : s^aa|s^na
+F :  mmm Yeah , it 's linear .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^2.%--
+F :  At the n
+
+dialogue type : s^2
+F : 
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  I have here one example if you if you want see something like that .
+
+dialogue type : s^2
+F :  Two thou two fifteen hundred ?
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s
+F :  Two hundred and fifty thousand .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  Two thousand and fifteen hundred .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  Log domain .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s.%--
+F :  The dif
+
+dialogue type : s^nd
+F :  No . Unvoiced , I don't have
+
+dialogue type : s^e^nd
+F :  for unvoiced .
+
+dialogue type : s^fa
+F :  I 'm sorry .
+
+dialogue type : fh
+F :  Yeah .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s^nd^rt
+F :  But it 's this ,
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  for the difference
+
+dialogue type : s
+F :  and this is the difference .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^df
+F :  Because we begin , uh , in fifteen point the fifteen point .
+
+dialogue type : s.%--
+F :  Fifteen p
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^t3
+F :  This is the the auto - correlation the R - zero energy .
+
+dialogue type : s^2^t3.%--
+F : 
+
+dialogue type : s^aa^t3
+F :  Yeah .
+
+dialogue type : s^na^t3
+F :  I have the mean .
+
+dialogue type : s^aa^t3
+F :  Yeah .
+
+dialogue type : s^na^t3
+F :  Here .
+
+dialogue type : s^ar^t3
+F :  Ah , no .
+
+dialogue type : s^rt^t3
+F :  This is this ?
+
+dialogue type : s^rt^t3
+F :  More close . Is this ?
+
+dialogue type : s^t3
+F :  And this .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^m^na^t3
+F :  Less robust .
+
+dialogue type : s^aa^t3
+F :  Yeah .
+
+dialogue type : s^nd
+F :  Uh , not here .
+
+dialogue type : s^nd.%--
+F :  No , I have s
+
+dialogue type : s^nd
+F :  But not here .
+
+dialogue type : s.x
+F :  Not here .
+
+dialogue type : b
+F :  Well , so .
+
+dialogue type : s^nd
+F :  I can't see you now .
+
+dialogue type : s^nd
+F :  I don't have .
+
+dialogue type : b
+F :  Pfft .
+
+dialogue type : s
+F :  Oops .
+
+dialogue type : s
+F :  The mean is different with it ,
+
+dialogue type : s^df.%--
+F :  because the the histogram for the the classifica
+
+dialogue type : s^bk^fe
+F :  Oh !
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^rt
+F : 
+
+dialogue type : s.%--
+F :  the same cle
+
+dialogue type : s
+F :  But they are a difference .
+
+dialogue type : s^df^rt
+F :  Because here the FFT is only with two hundred fifty - six point
+
+dialogue type : s
+F :  and this is with five hundred twelve .
+
+dialogue type : s^m^na.%--
+F :  Fifty millis
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s^nd
+F :  This is the signal .
+
+dialogue type : s^nd^r
+F :  This is the signal .
+
+dialogue type : s
+F :  The frame .
+
+dialogue type : s^na
+F :  This is the fra the original frame .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^ar
+F :  No , well .
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s^am
+F :  Maybe we can do that .
+
+dialogue type : s^2
+F :  FFT . Filter bank ,
+
+dialogue type : s^aa
+F :  yeah .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^na^rt
+F :  Oh , I I am doing this .
+
+dialogue type : s^aa
+F :  Yeah , yeah .
+
+dialogue type : s^no
+F :  I don't know .
+
+dialogue type : s^fa
+F :  I 'm sorry ,
+
+dialogue type : %--
+F :  but
+
+dialogue type : s^cs^j
+F :  I think that for the recognizer for the meeting recorder that it 's better that I don't speak .
+
+dialogue type : s^df.%-
+F : 
+
+dialogue type : s^cs^j
+F :  After the after , uh , the result for the TI - digits on the meeting record there will be foreigns people .
+

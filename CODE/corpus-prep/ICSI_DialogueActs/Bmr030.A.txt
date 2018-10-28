@@ -1,0 +1,477 @@
+dialogue type : qw^rt
+A :  What does that stand for ?
+
+dialogue type : s^bk^rt
+A :  Alright .
+
+dialogue type : s^aa|s^na
+A :  Yeah , it 's pretty vague .
+
+dialogue type : s^j
+A :  It 's government - run , I guess .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Cool .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : %-
+A :  I sent
+
+dialogue type : s^bk|s.%--
+A :  Yeah , and I sent you an email
+
+dialogue type : s
+A :  with the instructions .
+
+dialogue type : s^no
+A :  I don't know .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : qy^bu^d^rt
+A :  I guess Morgan 's leaving on Saturday ?
+
+dialogue type : s.%--
+A :  So until then ,
+
+dialogue type : s^am
+A :  I guess we might hear something ,
+
+dialogue type : %-
+A : 
+
+dialogue type : s^aa
+A :  Yeah , exactly .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Oh - Yeah .
+
+dialogue type : s
+A :  It 's just Alt Tab .
+
+dialogue type : s^e
+A :  Like if you hold down Alt and then tap Tab , you just the s just the Task Manager w window comes up .
+
+dialogue type : %-
+A :  We
+
+dialogue type : %-
+A : 
+
+dialogue type : s.%--
+A :  Well , because if you just touch Alt a
+
+dialogue type : s
+A :  If you just hit it once ? it 'll go back to the previous application .
+
+dialogue type : s
+A :  And the previous application was the PowerPoint demo ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  Not the slide show .
+
+dialogue type : fg|%-
+A : 
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  And I told them , um , if he decides to use multiple examples for , um , the prosody demo , to open up separate Transcribers .
+
+dialogue type : s
+A :  Just so you don't have to load up files e during the meeting .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  He 's got the memory for it .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^aa|s^m^na
+A :  Yeah , they 're all really short .
+
+dialogue type : s^ar|s
+A : 
+
+dialogue type : qy^br^d^rt
+A :  I 'm sorry ?
+
+dialogue type : s^no
+A :  I don't know ,
+
+dialogue type : s
+A :  but it seemed it didn't seem to be a problem at all .
+
+dialogue type : s
+A :  I would imagine you add sixty - four to a hundred and twenty eight .
+
+dialogue type : s^bk|s
+A :  Yeah , either one will work , I think .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^bk|s.%--
+A :  Yeah , it was fine . I think y
+
+dialogue type : fh|s
+A :  Yeah , I mean I I I We kinda walked through it a little bit on his p on his laptop .
+
+dialogue type : s
+A :  I could
+
+dialogue type : s
+A :  And it 's part of the talk itself ,
+
+dialogue type : s
+A :  so it 's really not a big part .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : b
+A :  I know .
+
+dialogue type : b
+A :  Right . Uh - huh .
+
+dialogue type : s^df
+A :  But it 's a good tool to have .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : qy^2^bu^d^rt
+A :  Prosody ?
+
+dialogue type : fg|qy^rt
+A :  Yeah , have you guys seen the display ?
+
+dialogue type : qy^rt
+A :  Have you guys seen either of the demos ?
+
+dialogue type : s^ba
+A :  They 're pretty cool ,
+
+dialogue type : s
+A :  like the prosody demo , we basically w loaded up um , word alignments .
+
+dialogue type : s^rt
+A :  So , instead of having um , utterances in the bottom , it 's like just word by word .
+
+dialogue type : s^rt
+A :  So you can see exactly where the overlaps are .
+
+dialogue type : s^rt
+A :  And then , um , Adam did something where , um , we converted these feature files into wave files ,
+
+dialogue type : s.x
+A :  so you can display them .
+
+dialogue type : s^aa|s^m^na
+A :  Yeah . Instead of the wave file .
+
+dialogue type : s
+A :  And then w using multi - wave you can add a file and play that sound .
+
+dialogue type : s
+A :  Play the audio corresponding to that , um , um , feature file ,
+
+dialogue type : s
+A :  and it 's all like , aligned and stuff .
+
+dialogue type : s^aa|s
+A :  Yeah , so you see the pitch contours
+
+dialogue type : s
+A :  and you and when you hit play , like there 's a line that goes through it ,
+
+dialogue type : s
+A :  you know , and it 's all aligned with like the t the audio and the feature file .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa|s.%-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  There 's a median filtering and then there 's a piece - wise linear fit , based on some criteria .
+
+dialogue type : s^no
+A :  I 'm not sure .
+
+dialogue type : s^aa
+A :  Yeah , sure .
+
+dialogue type : s
+A :  I should email Morgan about it too ,
+
+dialogue type : s^df
+A :  because he was asking about that .
+
+dialogue type : fh
+A :  And Yeah .
+
+dialogue type : s^bk|s^ng
+A :  Right , well , then it 's not a linear f fit .
+
+dialogue type : s
+A :  You 're not fitting anything then .
+
+dialogue type : fg
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : s^ba
+A :  It 's kind of a useless one .
+
+dialogue type : s^bk|s^no
+A :  Yeah , I actually don't know off the top of my head .
+
+dialogue type : s^rt
+A :  This was um , Kemal Sonmez at SRI ,
+
+dialogue type : s
+A :  who 's a co - worker with , uh , Liz .
+
+dialogue type : s^bk|qy.%-
+A : 
+
+dialogue type : s^bk
+A :  Oh . Oh .
+
+dialogue type : s^fa
+A :  Sorry .
+
+dialogue type : fg|s^tc.%--
+A : 
+
+dialogue type : s
+A :  He did a paper on this for some v speech verification , uh , project ,
+
+dialogue type : s
+A :  and we basically e extrapolated what he what he did for that work and applied it to our files .
+
+dialogue type : s
+A :  And that 's how we do That 's how we get our feature files and everything for all the prosody .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^ar|s
+A :  No , we grabbed most of it .
+
+dialogue type : s
+A :  Like , we grabbed the linear fitting stuff .
+
+dialogue type : s
+A :  We did all the alignments
+
+dialogue type : s
+A :  and all the matching and stuff ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  the math was done somewhere else .
+
+dialogue type : h|s^bu
+A :  Uh , so that 's what you were working on ,
+
+dialogue type : qy^d^rt
+A :  right ?
+
+dialogue type : qy^bu^d^rt
+A :  From end to en Like , from the beginning of the process to the end of the process ?
+
+dialogue type : b
+A :  Ooo . Yeah .
+
+dialogue type : s^aa
+A :  Yeah , right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : %-
+A :  S
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : qw^rt
+A :  So , what 's the turn around period right now from IBM ?
+
+dialogue type : qy.%--
+A :  Should we be discussing this ,
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^bu
+A :  And the transcribers here are still , uh are working , though .
+
+dialogue type : s^bu
+A :  Th - they 're just doing their own thing , like , while they 're waiting .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw.%-
+A :  What i
+
+dialogue type : qy^bu^d^rt
+A :  You 're just talking about playing it and recording it , like , real - time ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s
+A :  And you have to record every channel separately .
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : %-
+A : 
+
+dialogue type : qy^d^rt
+A :  They couldn't use C Ds ?
+
+dialogue type : s^bk
+A :  Oh , I see .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s
+A :  Well , they must be dealing with large amounts of data if they 're transcribing , anyway .
+
+dialogue type : s^df^e
+A :  I mean People probably aren't sending them , you know an utterance or two .
+
+dialogue type : qy^rt
+A :  Isn't that next week ?
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bk|s^no
+A :  Oh yeah , I don't know .
+
+dialogue type : s
+A :  The demo was one of them .
+
+dialogue type : s^aa|s
+A :  Yeah . I think that 's it .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^ba
+A :  Cool .
+
+dialogue type : qy^bu^d^rt
+A :  So , the new disks are installed now ?
+
+dialogue type : qrr.%--
+A :  Or ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : qy^rt
+A :  Are we g just gonna keep recording ?
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : %-
+A :  Cuz u
+
+dialogue type : qw.%-
+A :  How m
+
+dialogue type : s
+A :  You 're a data fiend .
+
+dialogue type : fg|s
+A :  Yeah , it 's like you build this room up for so long ,
+
+dialogue type : s
+A :  and then it 's just like , you stop .
+
+dialogue type : b
+A :  Mm - mmm .
+

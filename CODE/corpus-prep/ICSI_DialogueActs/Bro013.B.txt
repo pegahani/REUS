@@ -1,0 +1,87 @@
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  Thanks .
+
+dialogue type : z
+B :  Oh .
+
+dialogue type : s^ft^t3
+B :  Thanks .
+
+dialogue type : b
+B :  Huh .
+
+dialogue type : h|s^rt
+B :  Um our t I went to talk with uh Mike Jordan this this week
+
+dialogue type : fh|s
+B :  um and uh shared with him the ideas about um extending the Larry Saul work
+
+dialogue type : fh|s
+B :  and um I asked him some questions about factorial H M
+
+dialogue type : fh|s
+B :  so like later down the line when we 've come up with these these feature detectors , how do we how do we uh you know , uh model the time series that that happens
+
+dialogue type : fh|s
+B :  um and and we talked a little bit about factorial H M Ms and how um when you 're doing inference or w when you 're doing recognition , there 's like simple Viterbi stuff that you can do for for these H M
+
+dialogue type : fh|s
+B :  and the uh the great advantages that um a lot of times the factorial H M Ms don't um don't over - alert the problem
+
+dialogue type : s
+B :  there they have a limited number of parameters and they focus directly on on uh the sub - problems at hand
+
+dialogue type : s
+B :  so you can imagine um five or so parallel um features um transitioning independently
+
+dialogue type : s
+B :  and then at the end you you uh couple these factorial H M Ms with uh with uh undirected links um based on based on some more data .
+
+dialogue type : fh|s
+B :  So he he seemed he seemed like really interested in in um in this
+
+dialogue type : s
+B :  and said said this is this is something very do - able and can learn a lot
+
+dialogue type : fh
+B :  and um
+
+dialogue type : fh|s
+B :  yeah , I 've just been continue reading um about certain things .
+
+dialogue type : fh
+B :  um
+
+dialogue type : s
+B :  thinking of maybe using um um m modulation spectrum stuff to um as features um also in the in the sub - bands
+
+dialogue type : s^e
+B :  because it seems like the modulation um spectrum tells you a lot about the intelligibility of of certain um words and stuff
+
+dialogue type : fh
+B :  So , um .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : %--
+B :  Just
+
+dialogue type : s
+B :  that 's about it .
+
+dialogue type : s^fe
+B :  Ha !
+
+dialogue type : s^bk|s^na
+B :  Yeah I normally say " O " cuz it 's easier to say .
+
+dialogue type : %-
+B :  " O "
+
+dialogue type : s^bk^fe
+B :  Oh , no !
+

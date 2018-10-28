@@ -1,0 +1,342 @@
+dialogue type : fg|s.%--
+B :  Well , I mean , I uh
+
+dialogue type : s
+B :  maybe I said maybe we said this before just that we met and we talked about it
+
+dialogue type : s
+B :  and we sort of have a plan for getting things organized
+
+dialogue type : fh
+B : 
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s
+B :  That that was basically it .
+
+dialogue type : s.%
+B : 
+
+dialogue type : s^cs
+B :  Oh , so maybe we should just go ahead and get everything ready ,
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  I listened to probably , uh , five or ten minutes of it from the beginning .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg
+B : 
+
+dialogue type : s^cs
+B :  And the main thing will be if we can align what they give us with what we sent them .
+
+dialogue type : sj
+B :  I mean , that 's the crucial part .
+
+dialogue type : s
+B :  And I think we 'll be able to do that at with this new beep format .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s.%--
+B : 
+
+dialogue type : s
+B :  I dunno if this was just because of how I play it back , I say , uh , SND - play and then the file ,
+
+dialogue type : s
+B :  every once in a while , @ @ uh , like a beep sounds like it 's cut into two beeps .
+
+dialogue type : fh|s
+B : 
+
+dialogue type : s
+B :  bu uh , I don't think it 's probably in the original file .
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  But with this new format , um , that hopefully they 're not hearing that , and if they are , it shouldn't throw them .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^na
+B :  That 's what I thought .
+
+dialogue type : s
+B :  I it 's probably just , you know , mmm , somehow the audio device gets hung for a second ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s.%--
+B :  So th
+
+dialogue type : s^2
+B :  We we didn't cut those out .
+
+dialogue type : s^cs
+B :  We can we can ignore it when we get it back ,
+
+dialogue type : b
+B :  huh .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : h|s
+B :  Uh , Brian I I sent bresset sent Brian a message about the meeting
+
+dialogue type : s
+B :  and I haven't heard back yet .
+
+dialogue type : fh|s.%--
+B : 
+
+dialogue type : s
+B :  maybe he 's gone ,
+
+dialogue type : s
+B :  I dunno .
+
+dialogue type : s
+B :  He didn't even reply to my message .
+
+dialogue type : s
+B :  So . I should probably ping him just to make sure that he got it .
+
+dialogue type : qy^d^rt
+B :  So they can they can , um , scroll through that pretty quick ?
+
+dialogue type : sj^ba
+B :  That 's great .
+
+dialogue type : s
+B :  You 're talking about as a pre - processing step .
+
+dialogue type : qy^d^g^rt
+B :  Right , Morgan ?
+
+dialogue type : qy.%-
+B :  Is that what you 're ?
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  It 'll only be a problem for m for mine .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^2
+B :  It does all the work for you .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  It 'll give you a lot more data , too .
+
+dialogue type : qy^g
+B :  Won't it ?
+
+dialogue type : sj^ba
+B :  Great .
+
+dialogue type : s
+B :  It 's a lot more believable , too ,
+
+dialogue type : s
+B :  if you tell them that they 're the computer part is running on a Windows machine .
+
+dialogue type : s
+B :  And the whole breakdown thing kinda makes sense .
+
+dialogue type : qw.%--
+B :  Where does this ?
+
+dialogue type : s
+B :  There 's a couple other questions that I have too ,
+
+dialogue type : qw
+B :  and and one of them is , what about , uh , consent issues ?
+
+dialogue type : qw
+B :  And the other one is , what about transcription ?
+
+dialogue type : %--
+B :  Are ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qy^bu^d
+B :  So we don't have to worry about transcribing it ?
+
+dialogue type : sj
+B :  I bet that sounds good ,
+
+dialogue type : qy^d^g
+B :  huh ?
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^no^t3
+B :  I dunno if you want that .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^bu^rt
+B :  Are we only half ?
+
+dialogue type : s^arp
+B :  I thought we were more than that .
+
+dialogue type : s
+B :  Well , when I was looking for space for Thilo , I found one disk that had , uh , I think it was nine gigs and another one had seventeen .
+
+dialogue type : s
+B :  And everything else was sorta committed .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  Those were non - backed - up .
+
+dialogue type : %--
+B :  S
+
+dialogue type : s^bu
+B :  oh , you 're talking about backed - up .
+
+dialogue type : s
+B :  I haven't looked to see how much of that we have .
+
+dialogue type : s^nd
+B :  I think I think the file server could become an issue as we get a whole bunch more new compute machines .
+
+dialogue type : s
+B :  And we 've got , you know , fifty machines trying to access data off of Abbott at once .
+
+dialogue type : qw^d
+B :  Wear out after what amount of time ?
+
+dialogue type : %-
+B : 
+
+dialogue type : s^cs
+B :  What 'd be nice is a system that re - burned the C Ds every year .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qw^rt
+B :  What kinda tape drive ?
+
+dialogue type : s.%-
+B :  It 's probably gonna n
+
+dialogue type : s^cs^na
+B :  Yeah , and we should probably make that part of the procedure for recording the meetings .
+
+dialogue type : s^ar
+B :  No , no , no .
+
+dialogue type : s^bs
+B :  He 's saying get a whole different drive .
+
+dialogue type : sj^ba
+B :  That sounds good .
+
+dialogue type : s^na
+B :  N I 'm successfully , uh , increasing the error rate .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa|s^na
+B :  Yes , I 'm using tandem features .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^aap
+B :  That was on males .
+
+dialogue type : s
+B :  Hub - five .
+
+dialogue type : s^na
+B :  Yeah , the likelihoods were lower for the PLP .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s
+B :  Was just looking through the log files ,
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : fg
+B :  Well , yeah .
+
+dialogue type : s
+B :  That 's what I was wondering .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+

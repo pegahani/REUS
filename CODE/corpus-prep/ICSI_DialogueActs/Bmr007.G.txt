@@ -1,0 +1,204 @@
+dialogue type : s.%-
+G :  I was about to ask
+
+dialogue type : %-
+G : 
+
+dialogue type : s
+G :  You split this by minute , um so if an overlap straddles the boundary between two minutes , that counts towards both of those minutes .
+
+dialogue type : s
+G :  No , but suppose they both talk simultaneously both a a portion of it is in minute one and another portion of minute two .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  Other - otherwise you 'd get double counts , here and there .
+
+dialogue type : s
+G : 
+
+dialogue type : s
+G :  I I have a feeling that backchannels , which are the vast majority of overlaps in Switchboard , uh , don't play as big a role here , because it 's very unnatural I think , to backchannel if in a multi - audience you know , in a multi - person audience .
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : sj
+G :  But but , it 's sort of odd if one person 's speaking and everybody 's listening ,
+
+dialogue type : sj
+G :  and it 's unusual to have everybody going " uh - huh , uh - huh "
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : fg
+G :  Yeah .
+
+dialogue type : s
+G :  So so actually , um That 's in part because the nodding , if you have visual contact , the nodding has the same function ,
+
+dialogue type : s
+G :  but on the phone , in Switchboard you you that wouldn't work .
+
+dialogue type : s
+G :  So so you need to use the backchannel .
+
+dialogue type : fg
+G : 
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s
+G :  So so here 's a here 's a first interesting labeling task .
+
+dialogue type : fh|s
+G :  Uh , to distinguish between , say , backchannels precision timing Sort of you know , benevolent overlaps , and and and w and and sort of , um I don't know , hostile overlaps , where someone is trying to grab the floor from someone else .
+
+dialogue type : sj^cs
+G :  Uh , that that might be an interesting , um problem to look at .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : fg|s^df^nd
+G :  Um , I could imagine that as there 's a fair number of um cases where , and this is sort of , not really hostile , but sort of competitive , where one person is finishing something and you have , like , two or three people jumping trying to trying to trying to , uh grab the next turn .
+
+dialogue type : s
+G :  And so it 's not against the person who talks first because actually we 're all waiting for that person to finish .
+
+dialogue type : s
+G :  But they all want to be next .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s
+G :  Seniority .
+
+dialogue type : s
+G :  If if the goal were to just look at overlap you would you could serve yourself save yourself a lot of time but not even transcri transcribe the words .
+
+dialogue type : s
+G :  I I have an idea .
+
+dialogue type : qy.%--
+G : 
+
+dialogue type : s
+G :  we have have in the past and I think continue will continue to have a fair number of uh phone conference calls .
+
+dialogue type : fh|s^cs
+G :  And , uh , and as a to , um as another c c comparison condition , we could um see what what what happens in terms of overlap , when you don't have visual contact .
+
+dialogue type : fh
+G : 
+
+dialogue type : fg|s^cs
+G :  Or , this is getting a little extravagant , we could put up some kind of blinds or something to to remove , uh visual contact .
+
+dialogue type : fg|%--
+G :  Well y no you f
+
+dialogue type : b
+G :  Yeah , Yeah .
+
+dialogue type : s^cs^ng
+G :  Well , you could do that by just noting on the enrollment sheet the the seat number .
+
+dialogue type : s
+G :  So you 'd number them somehow .
+
+dialogue type : s^nd.%-
+G : 
+
+dialogue type : s^arp
+G :  Not the chairs .
+
+dialogue type : s^ng
+G :  The chairs are Chairs are movable .
+
+dialogue type : s^cs.%-
+G : 
+
+dialogue type : s^2
+G :  What people were wearing .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^j
+G :  Andreas was wearing that same old sweater again .
+
+dialogue type : %
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^j
+G :  And and Morgan had that funny hair again .
+
+dialogue type : s^j.%--
+G : 
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : fg
+G : 
+
+dialogue type : %-
+G : 
+
+dialogue type : %--
+G : 
+
+dialogue type : b
+G :  OK .
+
+dialogue type : s
+G :  I um , I , unfortunately , have to run ,
+
+dialogue type : s
+G :  but , um I can imagine uh building a um model of speaker change detection that takes into account both the far - field and the uh actually , not just the close - talking mike for that speaker , but actually for all of th for all of the speakers .
+
+dialogue type : fh|s.%--
+G : 
+
+dialogue type : s
+G :  basically I think you 'd you would build a an HMM that has as a state space all of the possible speaker combinations
+
+dialogue type : fh|s.%-
+G : 
+
+dialogue type : s^nd
+G :  It 's not that big actually ,
+
+dialogue type : fh
+G :  um
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s
+G :  Sorry , I have to go .
+

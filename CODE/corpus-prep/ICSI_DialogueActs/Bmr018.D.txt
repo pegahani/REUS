@@ -1,0 +1,945 @@
+dialogue type : z
+D :  It never crashes on me .
+
+dialogue type : z
+D :  What is what is that ?
+
+dialogue type : z
+D :  Ah .
+
+dialogue type : z
+D :  Ah .
+
+dialogue type : z
+D :  So then there would be no temp files .
+
+dialogue type : z
+D :  OK . Hmm .
+
+dialogue type : z
+D : 
+
+dialogue type : z
+D :  it doesn't clear them ,
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  But that 's usually the meeting that I recorded , and it neve it doesn't crash on me .
+
+dialogue type : z
+D : 
+
+dialogue type : z
+D :  Oh , right .
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  Huh , OK .
+
+dialogue type : z
+D :  It was quick .
+
+dialogue type : z
+D :  Well , I had this idea we could make our whole meeting faster that way .
+
+dialogue type : z
+D :  And we 'll just all leave ,
+
+dialogue type : z
+D : 
+
+dialogue type : z
+D :  Yeah .
+
+dialogue type : fg|s.%-
+D : 
+
+dialogue type : qy^rt
+D :  Aren't the UW folks coming this weekend ?
+
+dialogue type : s^bu^m
+D :  Next weekend ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s
+D :  within ten days .
+
+dialogue type : fg|qy^rt.%-
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : qy^d^rt
+D :  Wait , this is on on Sunday ?
+
+dialogue type : qrr
+D :  Or Saturday ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^arp
+D :  Except for it doesn't do well on short things , remember .
+
+dialogue type : s
+D :  It will miss them .
+
+dialogue type : s^r
+D :  It will miss most of the really short things .
+
+dialogue type : s
+D :  Like that .
+
+dialogue type : s^m
+D :  Uh - huh .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^co.%--
+D :  Yeah , you have to say " uh - huh " more slowly to to get c
+
+dialogue type : s
+D :  No , I 'm s I 'm actually serious .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Right ,
+
+dialogue type : s
+D :  and that 's what I 'm not sure about .
+
+dialogue type : fg|s^bs
+D :  Yeah , it 's very slow to do that .
+
+dialogue type : %-
+D :  That w
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^na
+D : 
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^aa|s.%--
+D :  Right , but if you
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^ar|s.%-
+D : 
+
+dialogue type : s^cs
+D :  it 'd be nice to be able to go back and forth between those short segments .
+
+dialogue type : s^df
+D :  Cuz you don't really nee like nine tenths of the time you 're throwing most of them out ,
+
+dialogue type : s
+D :  but what you need are tho that particular channel , or that particular location ,
+
+dialogue type : %--
+D :  and ,
+
+dialogue type : fh|sj^cs
+D :  um , might be nice , cuz we save those out already , um , to be able to do that .
+
+dialogue type : s
+D :  But it won't work for IBM of course ,
+
+dialogue type : s^e^rt
+D :  it only works here cuz they 're not saving out the individual channels .
+
+dialogue type : s
+D :  I don't know that you can locate them very well from the mixed signal ,
+
+dialogue type : s^df
+D :  but you would know that they were there , and then you would switch .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  But there 's no overlap during the digit readings , so it shouldn't really matter .
+
+dialogue type : s^aa|s
+D :  Right , but that 's I mean , that was our plan ,
+
+dialogue type : s
+D :  but it 's clear from Dan that this is not something you can do in a short amount of time .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  so we you know , we had spent a lot of time , um , writing up the HLT paper
+
+dialogue type : s
+D :  and we wanted to use that , uh , kind of analysis ,
+
+dialogue type : s
+D :  but the HLT paper has , you know , it 's a very crude measure of overlap .
+
+dialogue type : s
+D :  It 's not really something you could scientifically say is overlap ,
+
+dialogue type : s
+D :  it 's just whether or not the , um , the segments that were all synchronized , whether there was some overlap somewhere .
+
+dialogue type : fh|s
+D :  And , you know , that pointed out some differences ,
+
+dialogue type : s
+D :  so he thought well if we can do something quick and dirty because Dan said the cross - cancellation , it 's not straight - forward .
+
+dialogue type : s
+D :  If it were straight - forward then we would try it ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  so , it 's sort of good to hear that it was not straight - forward , thinking if we can get decent forced alignments , then at least we can do sort of a overall report of what happens with actual overlap in time ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^ng
+D :  and the but there are some issues of this timing , um , in the recordings
+
+dialogue type : fh
+D : 
+
+dialogue type : fg
+D : 
+
+dialogue type : fg|s^rt
+D :  yeah , that was sort of a side issue .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  so so there are some things available ,
+
+dialogue type : s^no
+D :  and I don't know too much about this area
+
+dialogue type : s
+D :  where if people aren't moving around much than you could apply them ,
+
+dialogue type : sj
+D :  and it should work pretty well if you took care of this recording time difference .
+
+dialogue type : s
+D :  Which a at least is well defined ,
+
+dialogue type : fh
+D :  and
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s
+D :  I guess it just wasn't something that he could do quickly and not in time for us to be able to do something by two weeks from now ,
+
+dialogue type : fh
+D :  so .
+
+dialogue type : s^bsc
+D :  Well less than a week .
+
+dialogue type : fh|s^no
+D :  So um , so I don't know what we can do if anything , that 's sort of worth , you know , a Eurospeech paper at this point .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  Actually y we can tell from the data that we have ,
+
+dialogue type : fh|s
+D :  um , yeah , there 's a way to tell .
+
+dialogue type : s
+D :  It might not be a single person who 's always overlapping that person but any number of people ,
+
+dialogue type : fh|s
+D :  and , um , if you align the two hypothesis files across the channels , you know , just word alignment , you 'd be able to find that .
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s^cs
+D :  ther there 're sort of a few things we could do .
+
+dialogue type : s
+D :  One is just do like non - lapels if we can get good enough alignments .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  somehow align Thilo 's energy segmentations with what we have .
+
+dialogue type : s
+D :  But then you have the problem of not knowing where the words are because these meetings were done before that segmentation .
+
+dialogue type : s
+D :  But maybe there 's something that could be done .
+
+dialogue type : h|s
+D :  Well , I guess I I wanted to just do something not on recognition experiments
+
+dialogue type : s^df
+D :  because that 's ju way too early , but to be able to report , you know , actual numbers .
+
+dialogue type : s
+D :  Like if we if we had hand - transcribed pe good alignments or hand - checked alignments , then we could do this paper .
+
+dialogue type : s
+D :  It 's not that we need it to be automatic .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  To to know what an overlap really if it 's really an overlap , or if it 's just a a a segment correlated with an overlap ,
+
+dialogue type : sj
+D :  and I guess that 's the difference to me between like a real paper and a sort of , promissory paper .
+
+dialogue type : fh|s.%--
+D :  So , um , if we d
+
+dialogue type : s.%--
+D :  it might be possible to take Thilo 's output
+
+dialogue type : s
+D :  and like if you have , um , like right now these meetings are all ,
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s
+D :  you know , they 're time - aligned ,
+
+dialogue type : s
+D :  so if these are two different channels and somebody 's talking here and somebody else is talking here , just that word ,
+
+dialogue type : s
+D :  if Thilo can tell us that there 're boundaries here , we should be able to figure that out
+
+dialogue type : s^df
+D :  because the only thing transcribed in this channel is this word .
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s^aa|s
+D :  Yeah , if you have two and they 're at the edges , it 's like here and here ,
+
+dialogue type : s
+D :  and there 's speech here , then it doesn't really help you ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^arp|s^no
+D :  Well it w it would , but , um , we don't know exactly where the words are because the transcriber gave us two words in this time bin
+
+dialogue type : s^no.%-
+D :  and we don't really know ,
+
+dialogue type : s
+D :  I mean ,
+
+dialogue type : fg
+D : 
+
+dialogue type : s
+D :  I mean , if you have any ideas .
+
+dialogue type : %-
+D : 
+
+dialogue type : fg
+D :  Right .
+
+dialogue type : sj
+D :  I mean , that that would be really helpful .
+
+dialogue type : s
+D :  That was sort of another possibility .
+
+dialogue type : b^rt
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  I mean , I guess in the future it won't be as much as an issue if transcribers are using the tightened boundaries to start with ,
+
+dialogue type : s
+D :  then we have a good idea of where the forced alignment is constrained to .
+
+dialogue type : s^no.%-
+D :  So I 'm no I don't know if this
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  But he he also can adjust this minimum time duration constraint and then what you get is noises mostly ,
+
+dialogue type : s^rt
+D :  but that might be OK ,
+
+dialogue type : %-
+D :  an
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa.%-
+D :  exac
+
+dialogue type : fg
+D :  yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : sj.%-
+D : 
+
+dialogue type : s^cs.%--
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^cs
+D :  or just say it 's just put " X , " you know , like " not speech " or something ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah , or
+
+dialogue type : fg|%-
+D : 
+
+dialogue type : sj
+D :  There 's something nice , though , about keeping , and this is probably another discussion , keeping the stuff that Thilo 's detector detected as possible speech and just marking it as not speech than deleting it .
+
+dialogue type : s^df
+D :  Because then when you align it , then the alignment can you can put a reject model or whatever ,
+
+dialogue type : s^df
+D :  and you 're consistent with th the automatic system ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa|s.%-
+D :  Yeah , or some , you know , dummy reject mod
+
+dialogue type : s^2
+D :  whatever ,
+
+dialogue type : s^bk
+D :  yeah .
+
+dialogue type : sj^ba
+D :  That 's actually a better way to do it
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : s
+D :  I mean if it 's just as easy ,
+
+dialogue type : fh
+D : 
+
+dialogue type : fg|qy.%--
+D :  Anyway , quick question , though , at a high level do people think ,
+
+dialogue type : s
+D :  let 's just say that we 're moving to this new era of like using the , um , pre - segmented t you know , non - synchronous conversations ,
+
+dialogue type : qr.%-
+D :  does it make sense to try to take what we have now , which are the ones that , you know , we have recognition on which are synchronous and not time - tightened , and try to get something out of those for sort of purposes of illustrating the structure and the nature of the meetings , or is it better to just , you know , forget that and tr
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s
+D :  That was everybody 's hope .
+
+dialogue type : s^am.%--
+D :  And maybe we can for the non - lapel , but
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : s^rt
+D :  if we can't then we can fake it even if we 're we report , you know , we 're wrong twenty percent of the time or ten percent of the time .
+
+dialogue type : h|sj^ba
+D :  Uh uh , that 's a good question actually .
+
+dialogue type : sj^ba^r
+D :  Actually that 's a good question
+
+dialogue type : s^df
+D :  because we 'd have to completely redo those meetings , and we have like ten of them now .
+
+dialogue type : s^aa
+D :  No , you 're right ,
+
+dialogue type : %-
+D : 
+
+dialogue type : s^ba
+D :  Uh , no , that 's a good point , though ,
+
+dialogue type : s^df.%--
+D :  because for feature extraction like for prosody or something , I mean , the meetings we have now ,
+
+dialogue type : s
+D : 
+
+dialogue type : s^co.%--
+D :  we need to get a decent f
+
+dialogue type : s^t
+D :  OK .
+
+dialogue type : s^cs
+D :  So we should at least try it even if we can't ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s^cs.%--
+D : 
+
+dialogue type : s
+D :  I mean , you sort of have a good estimate where these places are because the recognition 's so poor .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bs
+D :  So we need some way to push these first chunk of meetings into a state where we get good alignments .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s
+D :  But what you do wanna do is take the , even if it 's klugey , take the segments the synchronous segments , the ones from the HLT paper , where only that speaker was talking .
+
+dialogue type : s
+D :  Use those for adaptation ,
+
+dialogue type : s^df
+D :  cuz if you if you use everything , then you get all the cross - talk in the adaptation , and it 's just sort of blurred .
+
+dialogue type : s
+D :  And that we know , I mean , we have that .
+
+dialogue type : s
+D :  And it 's about roughly two - thirds , I mean , very roughly averaged .
+
+dialogue type : s
+D :  That 's not completely negligible .
+
+dialogue type : s
+D :  Like a third of it is bad for adaptation or so .
+
+dialogue type : s
+D :  It really it depends a lot .
+
+dialogue type : s
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : sj^ba
+D :  But I think we 're oh , Morgan 's talk went very well , I think .
+
+dialogue type : sj.%-
+D : 
+
+dialogue type : s
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  Well , yeah , it it 's probably wouldn't make sense ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aa
+D :  Right , right .
+
+dialogue type : s^fe
+D :  Oh .
+
+dialogue type : s^bk
+D :  Oh ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  That might might have been the one one of the ones that we did .
+
+dialogue type : s
+D :  So that might actually be useful but they 're all non - native speakers .
+
+dialogue type : s
+D :  And e and e and extremely hard to follow , like word - wise ,
+
+dialogue type : s
+D :  I bet the transcri I mean , I have no idea what they 're talking about ,
+
+dialogue type : fh
+D :  so ,
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s
+D : 
+
+dialogue type : fh|s
+D :  but but that might be useful just for speech .
+
+dialogue type : s^cs^rt
+D :  Maybe the yeah , the s thing that you have tightened @ @ ,
+
+dialogue type : s^bk
+D :  oh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%-
+D :  So we have to
+
+dialogue type : s^j^rt
+D :  So I 'm not saying anything about bias towards small headsize ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa^j
+D :  Right .
+
+dialogue type : %--
+D :  A little ,
+
+dialogue type : h
+D :  um ,
+
+dialogue type : s^2
+D :  And arrays ,
+
+dialogue type : sj.%-
+D : 
+
+dialogue type : s^aa
+D :  and video , right .
+
+dialogue type : b^rt
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : sj^ba
+D :  That 's a great idea .
+
+dialogue type : b^rt
+D :  Mm - hmm
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  they have to do something like that ,
+
+dialogue type : qy^d^g^rt
+D :  right .
+
+dialogue type : s^aa
+D :  Yeah , th that 's true .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : sj^ba
+D : 
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  Well , the summarization stuff was interesting ,
+
+dialogue type : s^bd^no
+D :  I mean , I don't know anything about that field ,
+
+dialogue type : s.%--
+D :  but for this proposal on meeting summarization ,
+
+dialogue type : fh|s
+D :  um , I mean , it 's sort of a far cry
+
+dialogue type : s^df
+D :  because they weren't working with meeting type data ,
+
+dialogue type : s
+D :  but he got sort of an overview on some of the different approaches ,
+
+dialogue type : fh
+D :  so .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  this was the last day ,
+
+dialogue type : s
+D :  but , I mean , there 's that 's a huge field and probably the groups there may not be representative of the field ,
+
+dialogue type : s
+D :  I I don't know exactly that everyone submits to this particular conference ,
+
+dialogue type : %-
+D :  but
+
+dialogue type : s
+D : 
+
+dialogue type : fg|s.%--
+D : 
+
+dialogue type : s^ar.%--
+D : 
+
+dialogue type : s
+D :  this was Wednesday morning .
+
+dialogue type : qy^rt
+D :  The sentence ordering one , was that Barselou , and these guys ?
+
+dialogue type : s
+D :  Anyway , I I it 's in the program ,
+
+dialogue type : s
+D :  I should have read it to remind myself ,
+
+dialogue type : fh|s
+D :  but that 's sort of useful
+
+dialogue type : s^cs
+D :  and I think like when Mari and Katrin and Jeff are here it 'd be good to figure out some kinds of things that we can start doing maybe just on the transcripts
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : b
+D :  you know ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  But I think what 's interesting is there 's all these different evaluations , like just , you know , how do you evaluate whether the summary is good or not ,
+
+dialogue type : s
+D :  and that 's what 's was sort of interesting to me is that there 's different ways to do it ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^ar
+D :  Hm - umm .
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%-
+D :  The data issue comes up all the ti
+
+dialogue type : s^ar.%--
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : qy^bu^d^rt
+D :  You mean the bigger the company the more words they use for training ?
+
+dialogue type : qy^rt
+D :  If you add more data ?
+
+dialogue type : qrr.%-
+D : 
+
+dialogue type : b
+D :  Huh .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^na
+D :  Well it 's different for different tasks .
+
+dialogue type : s
+D :  So it depends a lot on whether , you know , it disambiguation is exactly the case where more data is better ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s
+D :  You 're you 're you can assume similar distributions ,
+
+dialogue type : s
+D :  but if you wanted to do disambiguation on a different type of , uh , test data then your training data , then that extra data wouldn't generalize ,
+
+dialogue type : fh
+D :  so .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I mean , you so there 's papers on portability and rapid prototyping and blah - blah - blah ,
+
+dialogue type : s^e:s
+D :  and then there 's people saying , " Oh , just add more data . "
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : s
+D :  these are like two different religions , basically .
+
+dialogue type : b^rt
+D :  Yeah ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  But th you know , the same thing has happened in computational linguistics ,
+
+dialogue type : qy^d^f^rt
+D :  right ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  you know , we 're basically getting what we expect out of some statistical methods ,
+
+dialogue type : fh
+D :  and ,
+
+dialogue type : s
+D :  you know , the there 's arguments on both sides ,
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Yeah , yeah .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Yes !
+
+dialogue type : s
+D :  So , and maybe we won't laugh this time also .
+

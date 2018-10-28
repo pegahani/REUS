@@ -1,0 +1,372 @@
+dialogue type : fg|s^na
+C :  Uh . Yeah , we formed a coalition actually .
+
+dialogue type : s
+C :  We already made it into one .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^2
+C :  Hynek was here .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^df
+C :  Well , the piece of software has , like , plenty of options ,
+
+dialogue type : s^df^e
+C :  like you can parse command - line arguments .
+
+dialogue type : s
+C :  So depending on that , it it becomes either spectral subtraction or Wiener filtering .
+
+dialogue type : %-
+C :  So , ye
+
+dialogue type : s^aa^m
+C :  Yeah . Yeah .
+
+dialogue type : s^bs
+C :  There 's just one piece of software .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^2
+C :  Parameters . Yeah .
+
+dialogue type : s^2
+C :  Best system .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^2
+C :  Our way .
+
+dialogue type : s^2
+C :  Like another ten frames .
+
+dialogue type : s
+C :  The the the smoothing the m the the filtering of the probabilities .
+
+dialogue type : s^e
+C :  on the R .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qy^bu^d^rt
+C :  The LDA ?
+
+dialogue type : s^na
+C :  Yeah . So so what happened right now , we removed the delay of the LDA .
+
+dialogue type : s.%--
+C :  So we I mean , if so if we if so which is like if we reduce the delay of VA
+
+dialogue type : s
+C :  So , the f the final delay 's now ba is f determined by the delay of the VAD ,
+
+dialogue type : s^df
+C :  because the LDA doesn't have any delay .
+
+dialogue type : s
+C :  So if we re if we reduce the delay of the VAD , I mean , it 's like effectively reducing the delay .
+
+dialogue type : s
+C :  So the LDA and the VAD both had a hundred millisecond delay .
+
+dialogue type : s
+C :  So and they were in parallel ,
+
+dialogue type : s
+C : 
+
+dialogue type : s^e
+C :  the the biggest , whatever .
+
+dialogue type : s
+C :  So , right now the LDA delays are more .
+
+dialogue type : qy^br^rt
+C :  Pardon ?
+
+dialogue type : s^ar|s^ng
+C :  Oh , no . It actually made it , like , point one percent better or something , actually .
+
+dialogue type : s
+C :  Or something like that
+
+dialogue type : fh
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^na.%-
+C : 
+
+dialogue type : fh
+C :  So .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  So , the one one one difference is that was there is like we tried computing the delta and then doing the frame - dropping .
+
+dialogue type : s.%--:s^co
+C : 
+
+dialogue type : %-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  So the frame - dropping is the last thing that we do .
+
+dialogue type : s^rt
+C :  So , yeah , what we do is we compute the silence probability ,
+
+dialogue type : s^e^rt
+C :  convert it to that binary flag ,
+
+dialogue type : s^e.%-
+C : 
+
+dialogue type : s^df^na
+C :  It seems to be helping on the well - matched condition .
+
+dialogue type : s
+C :  So that 's why this improvement I got from the last result .
+
+dialogue type : fh|s
+C :  So . And it actually r reduced a little bit on the high mismatch ,
+
+dialogue type : s
+C :  so in the final weightage it 's b b better
+
+dialogue type : s^df
+C : 
+
+dialogue type : s
+C :  Uh , y you had something on it .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^am
+C :  Yes , it could be .
+
+dialogue type : s
+C :  It 's , like , you mean you just transferred everything
+
+dialogue type : s
+C :  and then finally drop the frames after the neural net .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fg|s.%-
+C : 
+
+dialogue type : s^aa.%--
+C :  Uh , ri
+
+dialogue type : s
+C :  Right now what wha what we did is , like , we just mark we just have this additional bit which goes around the features , saying it 's currently a it 's a speech or a nonspeech .
+
+dialogue type : s
+C :  So there is no frame - dropping till the final features , like , including the deltas are computed .
+
+dialogue type : s
+C :  And after the deltas are computed , you just pick up the ones that are marked silence and then drop them .
+
+dialogue type : fh|s
+C :  So . Yeah , that 's what that 's what that 's what , uh , this is doing right now .
+
+dialogue type : s^t^tc
+C :  Just one more thing .
+
+dialogue type : qy
+C :  Like , should we do something f more for the noise estimation ,
+
+dialogue type : s^df.%-
+C :  because we still ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qy.%--
+C :  Is there was there any experiment with ?
+
+dialogue type : s^df
+C :  Well , I I did The only experiment where I tried was I used the channel zero VAD for the noise estimation
+
+dialogue type : s^df^e
+C :  and frame - dropping .
+
+dialogue type : s
+C :  So I don't have a I don't have a split , like which one helped more .
+
+dialogue type : fh|s
+C :  So . It it was the best result I could get .
+
+dialogue type : fh|%-
+C : 
+
+dialogue type : s^aa^rt
+C :  Mm - hmm .
+
+dialogue type : s^bu
+C :  For the noise estimation .
+
+dialogue type : s^cc
+C :  Yeah . We can try something .
+
+dialogue type : s^aa
+C :  Mm - hmm . Sure .
+
+dialogue type : s
+C :  Yeah . But the Guenter 's argument is slightly different .
+
+dialogue type : s
+C :  It 's , like , ev even even if I use a channel zero VAD , I 'm just averaging the the s power spectrum .
+
+dialogue type : s^df
+C :  But the Guenter 's argument is , like , if it is a non - stationary segment , then he doesn't update the noise spectrum .
+
+dialogue type : s
+C :  So he 's , like he tries to capture only the stationary part in it .
+
+dialogue type : s
+C :  So the averaging is , like , different from updating the noise spectrum only during stationary segments .
+
+dialogue type : s
+C :  So , th the Guenter was arguing that , I mean , even if you have a very good VAD , averaging it , like , over the whole thing is not a good idea .
+
+dialogue type : s^df
+C :  Because you 're averaging the stationary and the non - stationary , and finally you end up getting something
+
+dialogue type : s
+C :  which is not really the s because , you anyway , you can't remove the stationary part fr I mean , non - stationary part from the signal .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  Yeah . So you just update only doing or update only the stationary components .
+
+dialogue type : s
+C :  Yeah . So , that 's so that 's still a slight difference from what Guenter is trying
+
+dialogue type : b
+C :  Yeah , yeah .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^cs^rt
+C :  Cure the VAD ?
+
+dialogue type : s^rt
+C :  VAD .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^2
+C :  Just the cepstra .
+
+dialogue type : qy^d^g^rt
+C :  Yeah .
+
+dialogue type : b
+C :  No .
+
+dialogue type : s^ng
+C :  So we have a VAD which is like neur that 's a neural net .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  So that that VAD was trained on the noisy features .
+
+dialogue type : s^df
+C :  So , right now we have , like , uh we have the cleaned - up features ,
+
+dialogue type : s
+C :  so we can have a better VAD by training the net on the cleaned - up speech .
+
+dialogue type : s
+C :  Yeah , but we need a VAD for uh noise estimation also .
+
+dialogue type : qw
+C :  So it 's , like , where do we want to put the VAD ?
+
+dialogue type : %-
+C : 
+
+dialogue type : qo^bu^d.%--
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : h|s
+C :  Uh , it actually comes at v at the very end .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  so that actually comes after a chain of , like , LDA plus everything .
+
+dialogue type : s
+C :  So it 's , like , it takes a long time to get a decision out of it .
+
+dialogue type : s
+C :  And and you can actually do it for final frame - dropping ,
+
+dialogue type : s
+C :  but not for the VA - f noise estimation .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Well , yeah .
+

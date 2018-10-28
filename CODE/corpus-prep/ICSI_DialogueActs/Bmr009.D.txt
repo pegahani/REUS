@@ -1,0 +1,1260 @@
+dialogue type : z
+D :  No .
+
+dialogue type : z
+D :  That 's a different thing .
+
+dialogue type : z
+D :  Oh .
+
+dialogue type : z
+D :  Oh .
+
+dialogue type : z
+D :  Give someone a piece of paper and then they Oh .
+
+dialogue type : z
+D :  Oh , that 's optional .
+
+dialogue type : z
+D :  You know .
+
+dialogue type : qy^bu^rt
+D :  Are these the long term means ?
+
+dialogue type : s^e.%--
+D : 
+
+dialogue type : qy^d
+D :  I mean , the means of what ?
+
+dialogue type : qy^d^rt
+D :  All the frames in the conversation ?
+
+dialogue type : qrr^d.%--
+D : 
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : fg|s^cs
+D :  Yeah , maybe it 's not log distributed .
+
+dialogue type : qy
+D :  But you could do like a C D F there instead ?
+
+dialogue type : s^df.%--
+D :  I mean , we don't know that the distribution here is normally .
+
+dialogue type : s^cs.%-
+D : 
+
+dialogue type : s^bk^m
+D :  PDF
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^cs
+D :  Something like that where it 's sort of data driven .
+
+dialogue type : b
+D :  Oh yeah .
+
+dialogue type : b
+D :  Oh yeah .
+
+dialogue type : qw.%-
+D : 
+
+dialogue type : s^m
+D :  Log energy .
+
+dialogue type : s^fa
+D :  Sorry .
+
+dialogue type : s
+D :  Frame energy .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  W I mean , what I meant is , even if you use linear , you know , raw measures , like raw energy or whatever ,
+
+dialogue type : s^cs
+D :  maybe we shouldn't make any assumptions about the distribution 's shape ,
+
+dialogue type : s^cs
+D :  and just use you know , use the distribution to model the the mean ,
+
+dialogue type : s^cs.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : fg|s
+D :  Right . So , we don't know what they look like on the , tsk For the raw .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^cs
+D :  I mean , there might be something there .
+
+dialogue type : s^no
+D :  I don't know .
+
+dialogue type : b
+D :  Huh .
+
+dialogue type : s^cs
+D :  Well it might be just good to know what it looks like .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^e
+D :  Especially locally .
+
+dialogue type : s.%--
+D :  So . Locally .
+
+dialogue type : s.%--
+D :  And the other thing is I
+
+dialogue type : s^fa
+D :  Sorry .
+
+dialogue type : %-
+D : 
+
+dialogue type : s
+D :  Well , especially for normalizing .
+
+dialogue type : s^rt
+D :  I mean , it 's really important to pick a normalization that matches the distribution for that feature .
+
+dialogue type : s
+D :  And it may not be the same for all the types of overlaps or the windows may not be the same .
+
+dialogue type : s
+D :  e Actually , I was wondering , right now you 're taking a all of the speech , from the whole meeting , and you 're trying to find points of overlap ,
+
+dialogue type : s
+D :  but we don't really know which speaker is overlapping with which speaker ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : s^cs
+D :  So I mean another way would just be to take the speech from just , say , Morgan , And just Jane and then just their overlaps ,
+
+dialogue type : s
+D :  like but by hand ,
+
+dialogue type : s
+D :  by cheating ,
+
+dialogue type : s^cs
+D :  and looking at you know , if you can detect something that way ,
+
+dialogue type : s^df
+D :  because if we can't do it that way , there 's no good way that we 're going to be able to do it .
+
+dialogue type : s
+D :  That You know , there might be something helpful and cleaner about looking at just individuals and then that combination alone .
+
+dialogue type : s.%--
+D :  Plus , I think it has more elegant e
+
+dialogue type : s
+D :  The m the right model will be easier to see that way .
+
+dialogue type : s.%--
+D :  So if I don't know , if you go through and you find Adam , cuz he has a lot of overlaps and some other speaker who also has e enough speech
+
+dialogue type : s^cs
+D :  and just sort of look at those three cases of Adam and the other person and the overlaps ,
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D :  and just look at the distributions , maybe there is a clear pattern
+
+dialogue type : s
+D :  but we just can't see it because there 's too many combinations of of people that can overlap .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s
+D :  Just seems sort of complex .
+
+dialogue type : fg
+D :  Right .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D :  I don't think this is true , but what if
+
+dialogue type : qw^br
+D :  Hmm ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : qh.%--
+D : 
+
+dialogue type : qh
+D :  both people talk more softly ?
+
+dialogue type : s^bd
+D :  I don't think this happens at all .
+
+dialogue type : s
+D :  Or they get louder .
+
+dialogue type : s^aap.%--
+D : 
+
+dialogue type : s^rt.%-
+D :  I mean .
+
+dialogue type : s
+D :  There are there are different types ,
+
+dialogue type : s.%--
+D :  and within those types ,
+
+dialogue type : s
+D :  like as Jose was saying , that sounded like a backchannel overlap ,
+
+dialogue type : s:s
+D :  meaning the kind that 's a friendly encouragement , like " Mm - hmm . " ,
+
+dialogue type : s:sj^ba
+D :  " Great ! " ,
+
+dialogue type : s:sj^ba
+D :  " Yeah ! "
+
+dialogue type : s
+D :  And it doesn't take you don't take the floor .
+
+dialogue type : s
+D :  Um , but , some of those , as you showed , I think can be discriminated by the duration of the overlap .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  He 's getting his feet wet and then he 'll be starting again in mid - January .
+
+dialogue type : s
+D :  He 's interested in trying to distinguish the types of overlap .
+
+dialogue type : s^no
+D :  I don't know if he 's talked with you yet .
+
+dialogue type : s
+D :  But in sort of honing in on these different types
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^cs
+D :  So it might be something that we can help by categorizing some of them and then , you know , look at that .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s^ar
+D :  Yeah , no . I didn't mean that that for you to do that ,
+
+dialogue type : s^cs
+D :  but I was thinking if if Don and I are trying to get categories
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  So you don't have to worry about it .
+
+dialogue type : s
+D :  And here 's the three types of overlaps .
+
+dialogue type : s
+D :  And we 'll we 'll do the labelling for you .
+
+dialogue type : %-
+D :  Um .
+
+dialogue type : s^na
+D :  Yeah , that we would be working on anyway .
+
+dialogue type : s^cs.%--
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg|s^df.%--
+D :  Yeah , no , that was That was a jok
+
+dialogue type : s^df
+D :  or a sort of , a case where where you would never know that unless you actually go and look at two individuals .
+
+dialogue type : fg
+D :  So .
+
+dialogue type : s
+D :  It might the case , though , that the significant energy , just as Jose was saying , comes in the non - backchannel cases .
+
+dialogue type : s^df
+D :  Because in back Most people when they 're talking don't change their own energy when they get a backchannel ,
+
+dialogue type : s^df
+D :  cuz they 're not really predicting the backchannel .
+
+dialogue type : s
+D :  And sometimes it 's a nod and sometimes it 's an " mm - hmm " .
+
+dialogue type : s
+D :  And the " mm - hmm " is really usually very low energy .
+
+dialogue type : s^cs
+D :  So maybe those don't actually have much difference in energy .
+
+dialogue type : s^cs
+D :  But all the other cases might .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I mean , just listen to it .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^aap
+D :  Well , it would be lost no matter what you do .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I mean , even if you take the log , you can your model just has a more sensitive measures .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Right . Right .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : sj^ba
+D :  That 'd be great .
+
+dialogue type : s.%--
+D :  Yeah , I remem
+
+dialogue type : b
+D :  Right .
+
+dialogue type : sj^ba
+D :  That would be great .
+
+dialogue type : sj^ba^r
+D :  That would be really great .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  You know , basically , we got his environment set up .
+
+dialogue type : s^df
+D :  He 's he 's a double - E you know .
+
+dialogue type : s^df^rt
+D :  So . It 's mostly that , if we had to label it ourselves , we we would or we 'd have to , to get started ,
+
+dialogue type : s^cs
+D :  but if It it would be much better if you can do it .
+
+dialogue type : sj
+D :  You 'd be much better at doing it also
+
+dialogue type : s
+D :  because you know , I I 'm not I don't have a good feel for how they should be sorted out ,
+
+dialogue type : s
+D :  and I really didn't wanna go into that if I didn't have to .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  I think that 's a research effort in and of itself ,
+
+dialogue type : s
+D :  because you can read the literature , but I don't know how it 'll turn out
+
+dialogue type : s
+D :  and , You know , it 's always an interesting question .
+
+dialogue type : sj^ba
+D :  That 'd be great .
+
+dialogue type : sj^ba
+D :  That 'd be really great .
+
+dialogue type : s
+D :  And we 'd still have some funding for this project ,
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  I mean , he we 're not paying him the full RA - ship for all the time .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk^t1
+D :  Yeah , definitely .
+
+dialogue type : s^aa
+D :  Yeah , that 's true .
+
+dialogue type : s^bs
+D :  The window shouldn't be larger than the backchannel .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Well it 's a sliding window ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : s
+D :  So if you take the the measure in the center of the overlapped piece , you know , there 'd better be some something .
+
+dialogue type : s
+D :  But if your window is really huge then yeah you 're right
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  The portion of the of the backchannel won't won't effect anything .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg
+D :  So .
+
+dialogue type : s.%--
+D :  You know , you shouldn't be more than
+
+dialogue type : s
+D :  like You should definitely not be three times as big as your as your backchannel .
+
+dialogue type : s
+D :  Then you 're gonna w have a wash .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : %-
+D :  Yea
+
+dialogue type : fg|s
+D :  Yeah , it depends how different your normalization is , as you slide your window across .
+
+dialogue type : s
+D :  I mean . That 's something we don't know .
+
+dialogue type : fg|s
+D :  Yeah I was talking about the n normalization window .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  That 's true . Yeah .
+
+dialogue type : fg
+D :  Um .
+
+dialogue type : sj^ba.%--
+D :  But that 'd be great if if you 're marking those
+
+dialogue type : fh
+D :  and um .
+
+dialogue type : s
+D :  But it is definitely true that we need to have the time marks ,
+
+dialogue type : s
+D :  and I was assuming that will be inherited because , if you have the words and they 're roughly aligned in time via forced alignment or whatever we end up using , then you know , this student and I would be looking at the time marks
+
+dialogue type : s
+D :  and classifying all the frames inside those as whatever labels Jane gave
+
+dialogue type : s^no
+D :  I don't think you need to .
+
+dialogue type : fg|s
+D :  Yeah . That should be linked to the words which are linked to time somehow ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : s^aap
+D :  Not now .
+
+dialogue type : s.%--
+D :  Well , it 's something that w
+
+dialogue type : s^rt
+D :  Well , we we wouldn't be able to do any work without a forced alignment anyway ,
+
+dialogue type : s^cs
+D :  so somehow if once he gets going we 're gonna hafta come up with one
+
+dialogue type : %--
+D :  and
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  So whatever you would label would be attached to the words , I think .
+
+dialogue type : s
+D :  Cuz there 's there 's a lot of work you can't do without that ,
+
+dialogue type : qh.%--
+D : 
+
+dialogue type : s
+D :  You 'd have to go in and measure every start and stop point next to a word
+
+dialogue type : s
+D :  is y if you 're interested in anything to do with words .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^tc|sj^ba
+D :  Anyway So that 'd be great .
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : qy^rt
+D :  Are we supposed to keep recording here ?
+
+dialogue type : s^na
+D :  Yeah , me too .
+
+dialogue type : qr.%--
+D :  So you should call it , like , " digits start time " . Or .
+
+dialogue type : s
+D :  " For official use only "
+
+dialogue type : s^df^rt
+D :  That 's Well , he 's very professional .
+
+dialogue type : s
+D :  Actually , the only way I know is from working with the database and having to figure it out .
+
+dialogue type : s^aa
+D :  Well yeah .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^am
+D :  Probably Western , yeah .
+
+dialogue type : s.%--
+D :  Actually even if you t
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^no^rt
+D :  I don't know .
+
+dialogue type : s^aa|s.%--
+D : 
+
+dialogue type : s^cs^rt
+D :  Maybe we can give them a li like a little map ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^df
+D :  No , I 'm serious .
+
+dialogue type : s^df^rt
+D :  Because it takes less time , and it 's sort of cute
+
+dialogue type : s^rt
+D :  there 's no figure .
+
+dialogue type : s^df.%--
+D : 
+
+dialogue type : s
+D :  You know , it doesn't have all the detail ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^ar|s
+D :  No , but you 're categorized .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^na
+D :  I mean I As I said , I don't think there 's a huge benefit to this region thing .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  The problem is that for some things it 's really clear and usually listening to it you can tell right away if it 's a New York or Boston accent ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  well , I guess they have the NYC ,
+
+dialogue type : s
+D :  but New England has a bunch of very different dialects
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D :  and so does um S So do other places .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s
+D :  And so these would be satisfying like a speech research community if we released the database ,
+
+dialogue type : s
+D :  but as to whether subjects know where they 're from , I 'm not sure because um I know that they had to fill this out for Switchboard .
+
+dialogue type : s
+D :  This is i almost exactly the same as Switchboard regions
+
+dialogue type : s
+D :  or very close .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fh|s
+D :  Um And I don't know how they filled that out .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Yeah , Midland is the one that 's difficult I guess .
+
+dialogue type : s
+D :  Also Northwest you 've got Oreg - Washington and Oregon now which uh y people don't know if it 's western or northern .
+
+dialogue type : s.%--
+D :  It 's like Northwest
+
+dialogue type : s
+D :  I think originally it was North Northwest
+
+dialogue type : %--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^no
+D :  I don't know .
+
+dialogue type : s
+D :  Well , you have a like techno - speak accent I think .
+
+dialogue type : s^aa|s.%--
+D :  Yeah , you know ?
+
+dialogue type : s.%-
+D :  Well it 's I mean I you can sort of identify
+
+dialogue type : s^rt.%-
+D : 
+
+dialogue type : s^cs
+D :  but but maybe that maybe we could leave this
+
+dialogue type : s^cs
+D :  and see what people See what people choose
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I mean I don't know what else we can do , cuz That 's North Midland .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Well there are hardly any subjects from Idaho .
+
+dialogue type : s^r
+D :  There 's only a few people in Idaho .
+
+dialogue type : s^fa^t3
+D :  Sorry .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^aa^m
+D :  We could ask where they 're from .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  But - We went back to that .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^f
+D :  You know .
+
+dialogue type : s^aa
+D :  Right . Right .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^no
+D :  Oh , I don't know .
+
+dialogue type : s^co
+D :  So let 's make it up .
+
+dialogue type : qh
+D :  S I mean , who cares .
+
+dialogue type : qy^bu^d^g^rt
+D :  Right ?
+
+dialogue type : s
+D : 
+
+dialogue type : s^cs
+D :  So we can say " Northwest " , " Rest of West " or something .
+
+dialogue type : s^f
+D :  You know .
+
+dialogue type : s.%--
+D :  " West "
+
+dialogue type : s.%-
+D :  and I mean .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah , exactly .
+
+dialogue type : s
+D :  That 's not really a region .
+
+dialogue type : s^cs
+D :  So we could take out " North " " Northern " .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : fg|s
+D :  Yeah , w It 's In It 's it 's harder in America anywhere else , basically .
+
+dialogue type : s
+D :  And those people , if you ask them to self - identify their accent they know .
+
+dialogue type : s^e
+D :  They know very well .
+
+dialogue type : s.%-
+D :  They know they don't speak the same as the
+
+dialogue type : %-
+D :  day o
+
+dialogue type : s^aa
+D :  Yeah , exactly .
+
+dialogue type : s
+D :  And they 're glad to tell you .
+
+dialogue type : s^df
+D :  Well . Depends who you ask , I suppose .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : s^2
+D :  " Characterize your accent if you can . "
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa|s.%-
+D : 
+
+dialogue type : s^e^rt
+D :  And that 's actually good .
+
+dialogue type : s
+D :  I was I was thinking of something along that line
+
+dialogue type : s^df.%--
+D :  because if you don't know , then , you know , ruling out the fact that you 're totally inept or something ,
+
+dialogue type : s
+D :  if somebody doesn't know , it probably means their accent isn't very strong compared to the sort of midwest standard .
+
+dialogue type : %-
+D :  W
+
+dialogue type : s
+D :  Each each one has pros and cons
+
+dialogue type : s.%-
+D : 
+
+dialogue type : qh
+D :  What if we put in both ?
+
+dialogue type : qy.%-
+D : 
+
+dialogue type : s^ar|qh
+D :  No , I mean what if we put in both ways of asking them ?
+
+dialogue type : s^e:s
+D :  So . One is Region
+
+dialogue type : s^cs^e^rt:qo
+D :  and the another one is " if you had to characterize yourself your accent , what would you say ? "
+
+dialogue type : s^df
+D :  Well they might only answer only one of the questions
+
+dialogue type : %--
+D :  but if
+
+dialogue type : s^f
+D :  You know .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : sj^cs
+D :  we might learn from what they say , as to which one 's a better way to ask it .
+
+dialogue type : s^bd^no
+D :  But I Cuz I really don't know .
+
+dialogue type : s^cs
+D :  Maybe we can make the list a little smaller .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^2^cs^rt
+D :  And keeping " Other " ,
+
+dialogue type : s^cs
+D :  and then maybe this North Midland , we call it " North Midwest " .
+
+dialogue type : qr.%-
+D : 
+
+dialogue type : s
+D :  South Midwest .
+
+dialogue type : qy^rt
+D :  Does that make sense ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : %--
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^no^rt
+D :  I don't know where Midland is
+
+dialogue type : s^aa^m.%--
+D :  Y yeah , one w
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : %-
+D :  But ,
+
+dialogue type : fg|s^bu
+D :  yeah . So . Kansas would be South Midland .
+
+dialogue type : qy^d^g^rt
+D :  Right ?
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  So , th I 'm from Kansas , actually .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : %--
+D :  Colora
+
+dialogue type : fg
+D :  Oh , right .
+
+dialogue type : s.%--
+D :  And then , the the dropping North ,
+
+dialogue type : s
+D :  so it would be Western .
+
+dialogue type : s
+D :  It 's just one big shebang , where , of course , you have huge variation in dialects ,
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah . Yeah .
+
+dialogue type : s^bk|s^no
+D :  Yeah , I don't know how it came from .
+
+dialogue type : s
+D :  So . That 's New England I think .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^aa
+D :  OK !
+
+dialogue type : s^aa
+D :  Sure !
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^cc
+D :  And we 'll see what we get .
+
+dialogue type : s^aa.%--
+D : 
+
+dialogue type : s^cs
+D :  You could say Liverpool .
+
+dialogue type : s.%--
+D :  Actually , Liverpool doesn't l
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%--
+D :  It 's I 'm s I ha
+
+dialogue type : sj^ba
+D :  It 's really great .
+
+dialogue type : %-
+D :  M
+
+dialogue type : qy.%-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bu.%-
+D :  It 's So , it it 's the redrawing of the w
+
+dialogue type : s^bk
+D :  oh uh - huh ,
+
+dialogue type : s^bu
+D :  w as you move .
+
+dialogue type : s^aa
+D :  Oh yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qy^rt
+D :  So is there any hope for actually displaying the wave form ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  Well , I 'm I probably would be trying to use the whatever 's there .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  I mean . I wonder I 'm just wondering if we can display things other than the wave form .
+
+dialogue type : s
+D :  So . Suppose we have a feature a feature stream .
+
+dialogue type : s
+D :  And it 's just , you know , a a uni - dimensional feature , varying in time .
+
+dialogue type : s
+D :  And we want to plot that , instead of the whole wave form .
+
+dialogue type : sj
+D :  That might be faster .
+
+dialogue type : qy^bu^d^g
+D :  Right ?
+
+dialogue type : %-
+D :  So .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^cc
+D :  OK . Well , I 'll talk to you about it and we can see
+
+dialogue type : sj^ba
+D :  but it 's definitely great to have the other one .
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : qy^bu^d^rt
+D :  So . You mean they could they could do it and it would be fast enough if they do it ?
+
+dialogue type : qrr.%--
+D :  Or ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  OK .
+
+dialogue type : s
+D :  I actually have to leave .
+
+dialogue type : s
+D :  So . Um . I mean I had to leave at three thirty ,
+
+dialogue type : s
+D :  so I can Well , I can wait for the digits but I can't stay for the discussion
+
+dialogue type : s^df
+D :  I c I have to make a call .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s
+D :  No , I can do digits if if But I don't wanna butt in , or something .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I 'm I 'll be around just have to make call before quarter of .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^cs
+D :  Or we can talk about it .
+
+dialogue type : s^bk
+D :  OK . Alright .
+
+dialogue type : s^rt
+D :  Oh , this is the new one .
+
+dialogue type : b
+D :  Alright .
+
+dialogue type : s.%--
+D :  The And the time is .
+
+dialogue type : b
+D :  OK .
+

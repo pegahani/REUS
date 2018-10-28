@@ -1,0 +1,168 @@
+dialogue type : s^na
+B :  I think that 's correct .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^rt
+B :  So do you have to pad that out ? Uh , so that it looks like it 's an eight kilohertz sampled thing ?
+
+dialogue type : qrr.%-
+B :  Or ?
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s
+B :  Seems like you should be able to spawn that off into a background process ,
+
+dialogue type : s^bu
+B :  because not everything is displayed in that tree at once .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s.%-
+B :  Seems like you wanna ass
+
+dialogue type : qy^rt
+B :  Did you actually look through your transcripts ?
+
+dialogue type : qrr^d
+B :  Or you just approved them all .
+
+dialogue type : s
+B :  I just approved all mine .
+
+dialogue type : s
+B :  I didn't look at them .
+
+dialogue type : s
+B :  That 's a compliment to you .
+
+dialogue type : s^e
+B :  He said it 's hard to find things you say wrong .
+
+dialogue type : s^cs^j
+B :  Find everything that should be bleeped .
+
+dialogue type : s
+B :  I haven't done anything .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^df
+B :  I was away for a couple of days .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qw^rt
+B :  What does the two - second threshold mean ?
+
+dialogue type : s^bk
+B :  Ah .
+
+dialogue type : s
+B :  I wouldn't think that the language model would continue across two seconds .
+
+dialogue type : s
+B :  Wel - He had a problem .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : s
+B :  H he did , and then it didn't work ,
+
+dialogue type : fh
+B :  and
+
+dialogue type : s
+B :  I didn't hear anything after that .
+
+dialogue type : s^bk|s
+B :  Yeah . He he didn't say he hasn't said anything to me about it .
+
+dialogue type : fg|%-
+B : 
+
+dialogue type : fg|%-
+B : 
+
+dialogue type : s
+B :  They 're stored on Popcorn .
+
+dialogue type : b
+B : 
+
+dialogue type : h|s
+B :  Um , I 'm rebuilding the net that we 're gonna use for the tandem stuff .
+
+dialogue type : s
+B :  And so what I 'm doing is , um , putting in the stream reader into the Quicknet libraries for the SRI feature files .
+
+dialogue type : s
+B :  An - Which is the right way to do it .
+
+dialogue type : s
+B :  I mean , when we did our first experiments and I was , uh , creating SRI feature files from the ICSI front - end , I just had perl scripts , you know , and hacked a bunch of stuff together
+
+dialogue type : s
+B :  just to get it going .
+
+dialogue type : s
+B :  But the r the right way to do it is to integrate it in with the ICSI tools .
+
+dialogue type : fh
+B :  And so ,
+
+dialogue type : s
+B :  that 's what I 'm doing now .
+
+dialogue type : s
+B :  And so once I get that done , then I 'll generate the P - files I need .
+
+dialogue type : s^df
+B :  Cuz we already have the feature files in the SRI format .
+
+dialogue type : s
+B :  So what I need to do is , make it so that the the Quicknet stuff can read those .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  It 's both .
+
+dialogue type : s^e
+B :  There 's a there 's an input stream and an output stream .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^d^rt
+B :  So , then it 's t uh , tandem experiments after that ?
+
+dialogue type : s.%-
+B :  We don't have too many . We just have that just have a few Linux machin
+
+dialogue type : s
+B :  Whatever the language model says .
+
+dialogue type : qy^rt
+B :  D Do you think the battery ran out ?
+
+dialogue type : qrr.%--
+B :  Or ?
+

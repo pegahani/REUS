@@ -1,0 +1,1167 @@
+dialogue type : z
+C :  One two three four five six
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  It 's difficult .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  " Age - ist " .
+
+dialogue type : b
+C :  Yeah . Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^cs
+C :  But I I I think you need , uh , another portable thing a another portable equipment to to do , eh , more e easier the recording process , eh , out from ICSI .
+
+dialogue type : fh|s
+C :  Eh and probably . I don't know .
+
+dialogue type : s
+C :  Eh , if you you want to to record , eh , a seminar or a class , eh , in the university , you you need It - it would be eh eh very difficult to to put , eh , a lot of , eh , head phones eh in different people when you have to to record only with , eh , this kind of , eh , d device .
+
+dialogue type : b
+C :  Oh - yeah .
+
+dialogue type : b
+C :  Ye - Yeah , yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  See you .
+
+dialogue type : %
+C :  Eleven ?
+
+dialogue type : %
+C :  Tape ?
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : %
+C :  Eleven hours ?
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : h
+C :  OK .
+
+dialogue type : s
+C :  I have , eh , The result of my work during the last days .
+
+dialogue type : s
+C :  Thank you for your information because I I read . Eh , and the the last , eh , days , eh , I work , eh , in my house , eh , in a lot of ways and thinking , reading eh , different things about the the Meeting Recording project .
+
+dialogue type : s
+C :  And I have , eh , some ideas .
+
+dialogue type : s
+C :  Eh , this information is very very useful .
+
+dialogue type : s
+C :  Because you have the the the distribution , now .
+
+dialogue type : s
+C :  But for me , eh is interesting because , eh , eh , here 's i is the demonstration of the overlap , eh , problem .
+
+dialogue type : s
+C :  It 's a real problem , a frequently problem uh , because you have overlapping zones eh , eh , eh , all the time .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Eh , by a moment I have , eh , nnn , the , eh , n I I did a mark of all the overlapped zones in the meeting recording ,
+
+dialogue type : s
+C :  with eh , a exact mark .
+
+dialogue type : s^na
+C :  Heh ? That 's eh , yet b b Yeah , by b b by hand by hand because , eh , eh " Why . "
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I I I do I don I don't @ @ I don't know , eh , if , eh , it will be possible because I I I haven't a lot eh , enough time to to to work . uh , only just eh , six months , as you know ,
+
+dialogue type : s
+C :  but , eh , my idea is , eh , is very interesting to to work in in the line of , eh , automatic segmenter .
+
+dialogue type : s
+C :  Eh but eh , eh , in my opinion , we need eh , eh , a reference eh session to t to to evaluate the the the tool .
+
+dialogue type : s^ar.%--
+C :  And No , no , with i
+
+dialogue type : qw^br^d^rt
+C :  Sorry ?
+
+dialogue type : s
+C :  No , I I plan to do that .
+
+dialogue type : s
+C :  I plan I plan , but eh , eh , the idea is the is the following .
+
+dialogue type : s
+C :  Now , eh , I need ehm , to detect eh all the overlapping zones exactly .
+
+dialogue type : s^cc
+C :  I I will I will eh , talk about eh , in the in the blackboard about the my ideas .
+
+dialogue type : fh|s
+C :  Eh , um , eh This information eh , with eh , exactly time marks eh , for the overlapping zones eh overlapping zone , and eh , a speaker a a pure speech eh , eh , speaker zone .
+
+dialogue type : s
+C :  I mean , eh zones eh of eh speech of eh , one speaker without any any eh , noise eh , any any acoustic event eh that eh , eh , w eh , is not eh , speech , real speech .
+
+dialogue type : fh|s
+C :  And , I need t true eh , silence
+
+dialogue type : s^cc
+C :  for that , because my my idea is to to study the nnn the the set of parameters eh , what , eh , are more m more discriminant to eh , classify .
+
+dialogue type : s
+C :  the overlapping zones in cooperation with the speech eh zones .
+
+dialogue type : s
+C :  The idea is to eh to use eh , I 'm not sure to eh yet , but eh my idea is to use a a cluster eh algorithm or , nnn , a person strong in neural net algorithm to eh to eh study
+
+dialogue type : s
+C :  what is the , eh , the property of the different feat eh feature , eh , to classify eh speech and overlapping eh speech .
+
+dialogue type : s
+C :  And my idea is eh , it would be interesting to to have eh , a control set .
+
+dialogue type : s
+C :  And my control set eh , will be the eh , silence , silence without eh , any any noise .
+
+dialogue type : s^na
+C :  Yeah , acoustic with this . With with , yeah , the background .
+
+dialogue type : s.%--
+C :  Eh , I I mean eh , noise eh , eh claps eh , tape clips , eh , the difference eh ,
+
+dialogue type : s
+C :  eh , eh , event eh , which , eh , eh , has , eh eh , a hard effect of distorti spectral distortion in the in the eh speech .
+
+dialogue type : s
+C :  Yeah , I have mark in in in in that Not in all in all the the file ,
+
+dialogue type : s
+C :  only eh , eh , nnn , mmm , I have eh , ehm I don't remind what is the the the the quantity ,
+
+dialogue type : s
+C :  but eh , I I have marked enough speech on over and all the overlapping zones .
+
+dialogue type : s
+C :  I have , eh , two hundred and thirty , more or less , overlapping zones , and is similar to to this information ,
+
+dialogue type : s^df
+C :  because with the program , I cross the information of uh , of Jane with eh , my my segmentation by hand .
+
+dialogue type : s
+C :  And is eh , mor more similar .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^fa
+C :  Sorry , sorry .
+
+dialogue type : s
+C :  And the the idea is , eh , I I will use , eh , I want My idea is , eh , to eh to classify .
+
+dialogue type : s
+C :  I I need eh , the exact eh , mark of the different , eh , eh , zones
+
+dialogue type : s^df
+C :  because I I want to put , eh , for eh , each frame a label indicating . It 's a sup supervised and , eh , hierarchical clustering process .
+
+dialogue type : s
+C :  I I I put , eh , eh , for each frame a label indicating what is th the type , what is the class , eh , which it belong .
+
+dialogue type : s.%-
+C :  Eh , I mean , the class you will overlapping speech " overlapping " is a class , eh , " speech " @ @ the class that 's
+
+dialogue type : s^na
+C :  a I I I ha I h I I put the mark by hand ,
+
+dialogue type : s
+C :  because , eh , my idea is , eh , in in the first session , I need , eh , I I need , eh , to be sure that the information eh , that , eh , I I will cluster , is is right . Because , eh , eh , if not , eh , I will I will , eh , return to the speech file to analyze eh , what is the problems ,
+
+dialogue type : s
+C :  eh . And I I 'd prefer I would prefer , the to to have , eh , this labeled automatically ,
+
+dialogue type : s^na
+C :  but , eh , eh , fro th I need truth .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Yeah . Yeah . Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  One , two , three .
+
+dialogue type : %-
+C :  but
+
+dialogue type : s^aa
+C :  No , by th by the moment n Yeah . Yeah . Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  Eh , in the first moment , because , eh , eh , I I have information , eh , of the overlapping zones , eh , information about if the , eh , overlapping zone is , eh , from a speech , clear speech , from a one to a two eh speaker , or three speaker , or is is the zone where the breath of a speaker eh , overlaps eh , onto eh , a speech , another , especially speech .
+
+dialogue type : s^ar|s^nd
+C :  No , no , es especially eh , overlapping speech from , eh , different eh , eh , speaker .
+
+dialogue type : b
+C : 
+
+dialogue type : b
+C :  Ah !
+
+dialogue type : h
+C :  Yeah .
+
+dialogue type : s
+C :  Yeah , he here I I put eh speech from eh , from , eh , one speaker without , eh , eh , any any any events more .
+
+dialogue type : qw
+C :  Where ? Where What is the class ?
+
+dialogue type : s^ar
+C :  No . By the moment , no .
+
+dialogue type : s^df
+C :  For for the by the @ @ no , @ @ because I I I I want to limit the the nnn , the the study .
+
+dialogue type : s^aa
+C :  The All I Exactly .
+
+dialogue type : s
+C : 
+
+dialogue type : s^aa.%-
+C :  Yeah , be
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : qw
+C :  " Why ?
+
+dialogue type : qw
+C :  Why ?
+
+dialogue type : qw
+C :  What 's the reason ? "
+
+dialogue type : s
+C :  because i it 's the first study .
+
+dialogue type : s.%-
+C :  the first
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  In the in the future , the the idea is to to extend the class ,
+
+dialogue type : s
+C :  to consider all the all the information , you you mentioned before
+
+dialogue type : s^df
+C :  but eh , the the first idea Because eh , I don't know what hap what will happen with the study .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s^na.%-
+C : 
+
+dialogue type : s^ar|s^nd
+C :  No , no , it 's pure silence .
+
+dialogue type : s
+C :  It 's the control set .
+
+dialogue type : b
+C :  OK ?
+
+dialogue type : s^r
+C :  It 's the control set .
+
+dialogue type : s^nd
+C :  It 's pure si pure silence with the with the machine on the on the roof .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^arp
+C :  h here yet , yet I I I I I think I I think , eh , there are that some kind of noises that , eh , don't don't wanted to to be in that , eh , in that control set .
+
+dialogue type : s^df
+C :  But I prefer , I prefer at at the first , eh , the the silence with eh , this eh this kind of the of eh of noise .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^fa
+C :  Sorry .
+
+dialogue type : s^cc
+C :  And eh I am going to prepare a test bed , eh , well , eh , a a set of feature structure eh , eh , models .
+
+dialogue type : s.%--
+C :  And my idea is
+
+dialogue type : s
+C :  so so on because I have a pitch extractor yet .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^aa
+C :  Yeah , yeah , yeah .
+
+dialogue type : s
+C :  I ha I have prepare .
+
+dialogue type : s^e^na
+C : 
+
+dialogue type : qy^bu^d^rt
+C :  in Stanford ?
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^e
+C :  From , eh , em , Cambridge University .
+
+dialogue type : s^no
+C :  Eh , em , I I I don't remember what is the the name of the of the author ,
+
+dialogue type : s^df
+C :  because I I have several I have eh , eh , em , eh , library tools , from eh , Festival and of from Edinburgh eh , from Cambridge , eh , and from our department .
+
+dialogue type : s^df.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah . Yeah .
+
+dialogue type : s
+C :  This this is And th the idea is to to , eh , to obtain , eh , for example , eh , eh diff eh , eh , different well , no , a great number of eh FEC for example , eh , eh , twenty - five , eh , thirty thirty parameters , eh , for for each one .
+
+dialogue type : s
+C :  And in a first eh , nnn , step in the investi in the research in eh , my idea is try to , eh , to prove , what is the performance of the difference parameter , eh to classify the different , eh , what is the the the the front - end approach to classify eh , the different , eh , frames of each class eh and what is the the , nnn , nnn , nnn , eh , what is the , the error eh , of the data
+
+dialogue type : s
+C :  This is the the eh , first idea
+
+dialogue type : s
+C :  and the second is try to eh , to use some ideas eh , similar to the linear discriminant analysis .
+
+dialogue type : %
+C :  Eh ?
+
+dialogue type : s
+C :  Eh , similar , because the the idea is to to study what is the contribution of eh , each parameter to the process of classify correctly the different the different parameters .
+
+dialogue type : s
+C :  Eh , the the the classifier is nnn by the moment is eh is eh , similar , nnn , that the classifier used eh , in a quantifier vectorial quantifier is eh , used to to eh , some distance to to put eh , a vector eh , in in a class different .
+
+dialogue type : s
+C :  Is Yeah ? W with a model , is is only to cluster using a eh , @ @ or a similarity .
+
+dialogue type : s
+C :  A another possibility it to use eh a netw netw a neural network .
+
+dialogue type : qw
+C :  But eh what 's the p What is my idea ?
+
+dialogue type : qw
+C :  What 's the problem I I I I see in in in if you you use the the neural network ?
+
+dialogue type : s
+C :  If w when this kind of eh , mmm , cluster , clustering algorithm to can test , to can eh observe what happened you you can't you can't eh , eh put up with your hand in the different parameter ,
+
+dialogue type : s
+C :  but eh If you use a neural net is is a good idea , but eh you don't know what happened in the interior of the neural net .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^cc
+C :  I I I will include too the the the differential de derivates too .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah , yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %
+C :  S
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Yeah . I Yeah . But eh I I Is my my my own vision , of the of the project .
+
+dialogue type : s
+C :  I eh the the Meeting Recorder project , for me , has eh , two eh , w has eh several parts , several p objective
+
+dialogue type : s
+C :  eh , because it 's a a great project .
+
+dialogue type : s
+C :  But eh , at the first , in the acoustic , eh , eh , parts of the project , eh I think you eh we have eh two main eh objective .
+
+dialogue type : s
+C :  One one of these is to eh to detect the change , the acoustic change .
+
+dialogue type : fh|s
+C :  And for that , if you don't use , eh , eh , a speech recognizer , eh broad class , or not broad class to to try to to to label the different frames , I think the Ike criterion or BIC criterion eh will be enough to detect the change .
+
+dialogue type : s
+C :  And Probably . I I I I would like to to t prove .
+
+dialogue type : s
+C :  Uh , probably . When you you have , eh , eh s eh the transition of speech or or silence eh to overlap zone , this criterion is enough with probably with , eh , this kind of , eh , eh the the the more eh use eh use eh used eh em normal , regular eh parameter MF - MFCC .
+
+dialogue type : s
+C :  you you have to to to find you can find the the mark .
+
+dialogue type : s
+C :  You can find the nnn , the the acoustic change .
+
+dialogue type : s
+C :  But eh eh I I understand that you your objective is to eh classify , to know that eh that zone not is only a new zone in the in the file , that eh you have eh , but you have to to to know that this is overlap zone .
+
+dialogue type : s
+C :  because in the future you will eh try to to process that zone with a non - regular eh eh speech recognizer model , I suppose .
+
+dialogue type : s
+C :  you you will pretend to to to process the overlapping z eh zone with another kind of algorithm
+
+dialogue type : s^df
+C :  because it 's very difficult to to to obtain the transcription from eh using eh eh a regular , normal speech recognizer .
+
+dialogue type : s
+C :  That , you know , I I I think is the idea .
+
+dialogue type : s
+C :  And so eh the , nnn the the system eh will have two models .
+
+dialogue type : s
+C :  A model to detect more acc the mor most accurately possible that is p uh , will be possible the , eh the mark , the change
+
+dialogue type : s
+C :  and another another model will @ @ or several models , to try s but eh several model eh robust models , sample models to try to classify the difference class .
+
+dialogue type : s
+C :  Eh , the the classifiers of the of the n to detect the different class to the different zones before try to to recognize , eh with eh to transcribe , with eh a speech recognizer .
+
+dialogue type : s
+C :  And my idea is to use eh , for example , a neural net
+
+dialogue type : s
+C :  with the information we obtain from this eh this eh study of the parameter with the selected parameter to try to eh to put the class of each frame . Eh for the difference zone
+
+dialogue type : s
+C :  you you eh , eh have obtained in the first eh , step with the for example , BIC eh , eh criterion compare model
+
+dialogue type : %-
+C :  And You
+
+dialogue type : %
+C :  I don't - u
+
+dialogue type : %-
+C :  i
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^na
+C :  It will be enough .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %--
+C :  This
+
+dialogue type : s^fa
+C :  Sorry .
+
+dialogue type : s
+C :  but eh , eh eh eh eh I don't know it is the first eh way to to do that
+
+dialogue type : s
+C :  and I would eh like to to know what eh , your opinion .
+
+dialogue type : s^cc
+C :  Eh all this study in the f in the first moment , I I w I I will pretend to do with eh eh equalizes speech . The the equalizes speech , the speech eh , the mixes of speech .
+
+dialogue type : s^bk
+C :  the the mix , mixed speech .
+
+dialogue type : qw
+C :  Eh , why ?
+
+dialogue type : s
+C :  Because eh the spectral distortion is more eh a lot eh clearer , very much clearer if we compare with the PDA .
+
+dialogue type : s
+C :  PDA speech file is eh it will be eh difficult .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^e
+C :  fff ! Because the n the noise eh to sp the signal - to - noise relation is eh is is low .
+
+dialogue type : fh|s^no
+C : 
+
+dialogue type : s
+C :  I don't know eh uh i i that eh the the result of the of the study eh with eh with eh this eh this speech , the mix speech eh will work exactly with the eh PDA files .
+
+dialogue type : qw.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah . Yeah .
+
+dialogue type : s^aa
+C :  Ah , yeah , yeah yeah yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  I I I I think that the the eh parameter we found , eh , eh worked with both eh , speech file ,
+
+dialogue type : qw
+C :  but eh what is the the the relation of eh of the performance when eh you use eh the , eh eh speech file the PDA speech files .
+
+dialogue type : s^no
+C :  Yeah , I don't know .
+
+dialogue type : sj
+C :  But it I I I I think it will be important .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I I I have seen the the the speech file from eh PDA , and s some parts is very difficult
+
+dialogue type : s^df
+C :  because you you don't see the spectrum the spectrogram .
+
+dialogue type : s
+C :  Is very difficult to apply eh , eh a parameter to detect change when you don't see .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah , yeah yeah ,
+
+dialogue type : s^cc
+C :  I I I will put eh the energy here .
+
+dialogue type : s^aa
+C :  Yeah . Yeah . Yeah .
+
+dialogue type : qy^d
+C :  You have a question .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah , yeah , yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  I I I I I th
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  I I Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^fa
+C :  Sorry .
+
+dialogue type : s
+C :  I I I think because the the the distance between the two microph eh , microphone , eh , in the PDA is very near .
+
+dialogue type : s^cs
+C :  But it 's uh from my opinion , it 's an interesting idea to to try to study the binaural eh problem eh , with information , because I I found difference between the the speech from from each micro eh , in the PDA .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^ar^r
+C :  No .
+
+dialogue type : s^ar^r
+C :  No , no , no .
+
+dialogue type : %
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Correlation , yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah , yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Oh , right , oh , yeah .
+
+dialogue type : s
+C :  Hundred .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^na
+C :  Very complex , uh Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah , yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : sj^ba
+C :  It 's a good idea .
+
+dialogue type : fg|%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Ah , for discourse , yeah . Yeah . Yeah .
+
+dialogue type : b
+C :  Yeah , yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah . Yeah , yeah ,
+
+dialogue type : b
+C :  yeah .
+
+dialogue type : b
+C :  Yeah . Yeah ,
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : x
+C :  the ? ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  OK .
+

@@ -1,0 +1,78 @@
+dialogue type : z
+C :  Let 's see .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Chop !
+
+dialogue type : s
+C :  It 's out of the way .
+
+dialogue type : s
+C :  Well Stephane was saying that they weren't hand - labeled ,
+
+dialogue type : s
+C :  the French and the Spanish .
+
+dialogue type : s^2
+C :  And then you can vary it .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Just listening .
+
+dialogue type : h|s
+C :  Um , helping out uh , preparing
+
+dialogue type : s
+C :  Well , they 've been kind of running all the experiments and stuff
+
+dialogue type : s
+C :  and I 've been uh , uh w doing some work on the on the preparing all all the data for them to to um , train and to test on .
+
+dialogue type : fh
+C :  Um
+
+dialogue type : fh|s
+C :  Yeah . Right now , I 'm I 'm focusing mainly on this final project I 'm working on in Jordan 's class .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%--
+C :  Um , I 'm trying to
+
+dialogue type : fh|s
+C : 
+
+dialogue type : s
+C :  uh basically it was two H M Ms with with a with a dependency arrow between the two H M
+
+dialogue type : s
+C :  And so I wanna try try coupling them instead of t having an arrow that that flows from one sub - band to another sub - band .
+
+dialogue type : s
+C :  I wanna try having the arrows go both ways .
+
+dialogue type : fh|s
+C :  And um , I 'm just gonna see if if that that better models um , uh asynchrony in any way
+
+dialogue type : fh
+C :  or um Yeah .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : fg|s^t3
+C :  Yeah , your battery 's going down too .
+
+dialogue type : z
+C :  Carmen 's battery is d going down too .
+
+dialogue type : z
+C :  Just pull the batteries out .
+

@@ -1,0 +1,426 @@
+dialogue type : qy^br^d^rt
+A :  I I 'm sorry ?
+
+dialogue type : s.%--
+A :  I didn't
+
+dialogue type : s^bk^rt
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Oh yeah .
+
+dialogue type : b^rt
+A :  M yeah .
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : s^rt
+A :  Y Actually , uh , um , for the Danish , there 's still some kind of mystery
+
+dialogue type : s^df
+A :  because , um , um , when we use the straight features , we are not able to get these nice number
+
+dialogue type : s^e
+A :  with the ICSI OGI one , I mean .
+
+dialogue type : s.%-
+A :  We don't have this ninety - three seventy - eight , we have
+
+dialogue type : s^m.%-
+A :  eight
+
+dialogue type : s^aa
+A :  yeah .
+
+dialogue type : fh|s^df^rt
+A :  Uh , so , uh , that 's probably something wrong with the features that we get from OGI .
+
+dialogue type : fh|s
+A :  Uh , and Sunil is working on on trying to to check everything .
+
+dialogue type : qy^br^d^rt
+A :  Hmm ?
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : h|s
+A :  Uh , Sunday .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg
+A :  Yeah ,
+
+dialogue type : s^bc
+A :  actually , something that 's close to cepstral mean subtraction .
+
+dialogue type : fh|s^df
+A :  But , uh , the way the mean is adapted um , it 's signal dependent .
+
+dialogue type : %--
+A :  I 'm I 'm , uh
+
+dialogue type : s^df
+A :  So , basically , the mean is adapted during speech and not during silence .
+
+dialogue type : s
+A :  But it 's very close to to cepstral mean subtraction .
+
+dialogue type : b
+A :  Yeah ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : s^aa
+A :  Yeah , yeah .
+
+dialogue type : b
+A :  So
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s
+A :  this Tuesday ,
+
+dialogue type : b.x
+A :  yeah .
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s^am
+A :  probably ,
+
+dialogue type : s.%-
+A :  well
+
+dialogue type : s.%-
+A :  Yeah , well
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s
+A :  it 's very short interval .
+
+dialogue type : fg|s
+A :  Yeah , so there are two more columns in the sheets ,
+
+dialogue type : s^aa
+A :  two . Yeah ,
+
+dialogue type : s^aa^m
+A :  it 's the same sheets ,
+
+dialogue type : s^aa.x
+A :  yeah .
+
+dialogue type : s^aa^r.x
+A :  Yeah .
+
+dialogue type : qy^bu^d^rt
+A :  So , Hynek will try to push for trying to combine , uh , different things ?
+
+dialogue type : qrr.%--
+A :  Or
+
+dialogue type : b.x
+A :  Hmm ?
+
+dialogue type : h|s^aa
+A :  Uh , yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy^bu^rt
+A :  They are working on this already ?
+
+dialogue type : s^df
+A :  Because yeah , Su - Sunil told me that he was trying already to put some kind of , uh , filtering in the France Telecom .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg
+A :  Uh , well
+
+dialogue type : h
+A :  Hmm
+
+dialogue type : s
+A :  Well , first , uh , to really have a look at at the speech from these databases
+
+dialogue type : s^df
+A :  because , well , we tried several thing ,
+
+dialogue type : s.%--
+A :  but we did not really look at what what 's happening , and where is the noise , and
+
+dialogue type : fh
+A :  Eh
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s^aa^r
+A :  yeah .
+
+dialogue type : s
+A :  Actually , there is one thing that well Um , generally we we think that most of the errors are within phoneme classes ,
+
+dialogue type : %--
+A :  and
+
+dialogue type : sj^cs
+A :  so I think it could be interesting to to see if it I don't think it 's still true when we add noise ,
+
+dialogue type : fh|s
+A :  and so we have I I guess the confusion ma the confusion matrices are very different when when we have noise , and when it 's clean speech .
+
+dialogue type : sj^cs
+A :  And probably , there is much more between classes errors for noisy speech .
+
+dialogue type : fh
+A :  And so , um
+
+dialogue type : fg|sj^cs
+A :  Yeah , so perhaps we could have a a large gain , eh , just by looking at improving the , uh , recognition , not of phonemes , but of phoneme classes , simply .
+
+dialogue type : fh|s
+A :  And which is a s a s a simpler problem , perhaps , but which is perhaps important for noisy speech .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  No .
+
+dialogue type : s^aa
+A :  Sure .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^ar
+A :  No ,
+
+dialogue type : s
+A :  actually actually the well - matched condition is still quite di still quite difficult .
+
+dialogue type : s^rt
+A :  I mean , it 's they have all these data from the close mike and from the distant mike , from different driving condition , open window , closed window ,
+
+dialogue type : s
+A :  and they take all of this
+
+dialogue type : s
+A :  and they take seventy percent , I think , for training and thirty percent for testing .
+
+dialogue type : fh|s^rt
+A :  So , training is done on different conditions and different microphones ,
+
+dialogue type : s
+A :  and testing also is done on different microphone and conditions .
+
+dialogue type : fh|sj
+A :  So , probably if we only take the close microphones , I guess the results should be much much better than this .
+
+dialogue type : b.x
+A :  Mmm .
+
+dialogue type : fg
+A :  Uh
+
+dialogue type : fg
+A :  Yeah ,
+
+dialogue type : fg|s
+A :  so there is this , the mismatched is , um the same kind of thing ,
+
+dialogue type : s^rt
+A :  but the driving conditions , I mean the speed and the kind of road , is different for training and testing ,
+
+dialogue type : qy^bu^rt
+A :  is that right ?
+
+dialogue type : s
+A :  And the last condition is close microphone for training and distant for testing .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : fg
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : fg|s^aa
+A :  Actually , yeah , it 's very close to clean speech training because , well , because the close microphone and noisy speech testing ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg|%-
+A :  But the I mean , the th th
+
+dialogue type : s
+A :  it doesn't work .
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Yeah ,
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg
+A :  Yeah ,
+
+dialogue type : %--
+A :  so d
+
+dialogue type : fg
+A :  well
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : s
+A :  well , it 's a different kind of data .
+
+dialogue type : s
+A :  We 're not we 're not used to work with this kind of data .
+
+dialogue type : s^df^rt
+A :  That 's why we should have a loo more closer look at what 's going on .
+
+dialogue type : fh
+A :  Um
+
+dialogue type : h
+A :  Yeah .
+
+dialogue type : s
+A :  So this would be the first thing ,
+
+dialogue type : s^e
+A :  and then , of course , try to well , kind of debug what was wrong , eh , when we do Aurora test on the MSG particularly , and on the multi - band .
+
+dialogue type : h
+A :  Uh
+
+dialogue type : fg|%--
+A :  Yeah , but
+
+dialogue type : s
+A :  Again , it 's the kind of of thing that , uh , we were thin thinking thinking that it would work , but it didn't work .
+
+dialogue type : fh|s.x
+A :  And , eh , so there is kind of of not a bug , but something wrong in what we are doing , perhaps .
+
+dialogue type : fh|s^e.%--
+A : 
+
+dialogue type : fh
+A :  well
+
+dialogue type : s^rt
+A :  What worked best is the hand - labeled data .
+
+dialogue type : fh
+A :  Um
+
+dialogue type : fh
+A :  Uh , so , yeah .
+
+dialogue type : s^no^rt
+A :  I don't know if we can get some hand - labeled data from other languages .
+
+dialogue type : s^rt
+A :  It 's not so easy to find .
+
+dialogue type : sj^ba
+A :  But that would be something interesting t to to see .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qr^d^rt
+A :  You on Friday or S on Saturday
+
+dialogue type : qr.%--
+A :  or ?
+
+dialogue type : s^bk
+A :  S oh yeah , Sunday , yeah .
+
+dialogue type : s
+A :  I 'll be back on Tuesday .
+
+dialogue type : s^aa
+A :  Yeah , Amsterdam .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+

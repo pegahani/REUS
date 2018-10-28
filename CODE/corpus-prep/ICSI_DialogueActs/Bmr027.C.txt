@@ -1,0 +1,201 @@
+dialogue type : z
+C :  Adam , what is the mike that , uh , Jeremy 's wearing ?
+
+dialogue type : z
+C :  Is that a wireless ,
+
+dialogue type : z
+C :  or ?
+
+dialogue type : z
+C :  Oh .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : qy^rt
+C :  Was my was my response OK ?
+
+dialogue type : s
+C :  I just wrote you replied to the email saying they 're all fine .
+
+dialogue type : s^bk
+C :  OK , good .
+
+dialogue type : s^ba
+C :  That makes it easy .
+
+dialogue type : qy^bu^d^rt
+C :  The German ones ?
+
+dialogue type : qy^bu^d^rt
+C :  Oh , those are the NSA meetings ?
+
+dialogue type : s^bk
+C :  Oh , oh ! OK .
+
+dialogue type : s^bk|%-
+C :  OK . I 'd I d
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  Twelve hours .
+
+dialogue type : qy^tc
+C :  Do you track , um , when people log in
+
+dialogue type : s^e.%--
+C :  to look at the ?
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^2^aap
+C :  Except that you know they got the mail .
+
+dialogue type : s
+C :  All my files were still here .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : %-
+C :  And the other th
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  I was thinking that it also lets them know that they don't have to go to the page to accept this .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s
+C :  So that way they could they can see from that email that if they just write back and say " I got it , no changes " , they 're off the hook .
+
+dialogue type : s
+C :  They don't have to go to the web page
+
+dialogue type : fh
+C : 
+
+dialogue type : qy^bu^d^rt
+C :  Just that channel .
+
+dialogue type : s^ar|s.%-
+C : 
+
+dialogue type : qy^rt
+C :  Do you have to do the other close - talking ?
+
+dialogue type : s^cs^j^t3
+C :  Or we 'll tell people the frequency of the beep
+
+dialogue type : s^cs^e^j^t3
+C :  and then they could subtract the beep out .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s
+C :  Here we go .
+
+dialogue type : s
+C :  That 's cuz they use forward - backward .
+
+dialogue type : s^cs^j
+C :  Move them to the bottom .
+
+dialogue type : s^cs
+C :  Just re - mail them to yourself and then they 're at the bottom .
+
+dialogue type : h|s
+C :  Uh . Let 's see .
+
+dialogue type : %--
+C : 
+
+dialogue type : s^bk
+C :  Yeah , right .
+
+dialogue type : s
+C :  So we got the transcript back from that one meeting .
+
+dialogue type : s^ba^rt
+C :  Everything seemed fine .
+
+dialogue type : s
+C :  Adam had a script that will put everything back together and there was Well , there was one small problem but it was a simple thing to fix .
+
+dialogue type : s
+C :  And then , um , we , uh I sent him a pointer to three more .
+
+dialogue type : s
+C :  And so he 's off and working on those .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Yeah . It 's gonna have to go through our regular process .
+
+dialogue type : s^aa|s
+C :  Mm - hmm . Yeah , I pointed them to the set that Andreas put , uh , on the web
+
+dialogue type : s
+C :  so th if they want to compare directly with his results they can .
+
+dialogue type : s.%--
+C :  And , um , then once , uh ,
+
+dialogue type : s
+C :  th we can also point them at the , um , uh , the original meetings
+
+dialogue type : s
+C :  and they can grab those , too , with SCP .
+
+dialogue type : s^ar|s
+C :  No , no . They d they wanted the audio .
+
+dialogue type : s
+C :  Jane sent them the , uh , transcripts .
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : s
+C :  Uh , for recognition .
+
+dialogue type : s
+C :  Markham 's ordering and they should be coming in soon .
+
+dialogue type : s
+C :  These are gonna go onto Abbott .
+
+dialogue type : s^rt
+C :  They should be I I imagine next week or something .
+
+dialogue type : s
+C :  It should be soon .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^ba
+C :  She 's either really late or really early .
+
+dialogue type : s^no
+C :  I don't know .
+
+dialogue type : s^ba
+C :  Good update .
+

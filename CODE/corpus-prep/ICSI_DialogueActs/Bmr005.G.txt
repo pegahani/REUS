@@ -1,0 +1,666 @@
+dialogue type : z
+G :  So I think maybe what 's causing it to crash is I keep starting it and then stopping it to see if it 's working .
+
+dialogue type : z
+G :  And so I think starting it and then stopping it and starting it again causes it to crash .
+
+dialogue type : z
+G :  So , I won't do that anymore .
+
+dialogue type : z
+G :  No .
+
+dialogue type : z
+G :  I 'm gonna collect the digit forms and write it down .
+
+dialogue type : z
+G :  So
+
+dialogue type : z
+G :  So they should be right
+
+dialogue type : z
+G :  with what 's on the digit forms .
+
+dialogue type : z
+G :  OK , so I 'll go ahead and start with digits .
+
+dialogue type : z
+G :  u
+
+dialogue type : z
+G :  And I should say that uh , you just pau you just read each line an and then pause briefly .
+
+dialogue type : s
+G :  And I 'm surprised I sort of I 'm surprised I forgot that ,
+
+dialogue type : fh|s
+G :  but uh I think that would be a good thing to add .
+
+dialogue type : s^e
+G :  After I just printed out a zillion of them .
+
+dialogue type : qy^d^rt
+G :  You wanna just go around ?
+
+dialogue type : fg|s
+G :  Hmm , metaphorically .
+
+dialogue type : qy^rt
+G :  So , do you think his interest is in using this as a data source ,
+
+dialogue type : qrr^rt
+G :  or training material ,
+
+dialogue type : qrr
+G :  or what ?
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^2
+G :  Wrong ,
+
+dialogue type : b
+G :  yeah .
+
+dialogue type : s
+G :  And I imagine that transcripts of speech I mean text that is speech probably has more of those than sort of prepared writing .
+
+dialogue type : s^no.x
+G :  I I don't know whether it would or not , but it seems like it would .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s
+G :  Yeah , I 'm just thinking , you know , when you 're when you 're face to face , you have a lot of backchannel
+
+dialogue type : %-
+G : 
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : sj
+G :  And so I think it 's just easier to do that sort of broad inference jumping if it 's face to face .
+
+dialogue type : s^rt:s
+G :  I mean , so , if I just read that Dan was saying " we 're ahead of the game " in that in that context ,
+
+dialogue type : s.x
+G :  I might not realize that he was talking about disk space as opposed to anything else .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^2
+G :  I guess it would be the same .
+
+dialogue type : s^ng^rt
+G :  It 's in my notes .
+
+dialogue type : s^df
+G :  Well , I think he 's doing that intentionally ,
+
+dialogue type : qy^g^rt
+G :  aren't you ?
+
+dialogue type : sj^ba
+G :  Oh , that would be interesting .
+
+dialogue type : s
+G :  Well , especially with Morgan , with the way we have the microphones arranged . I 'm sort of right on axis
+
+dialogue type : s
+G :  and it would be very hard to tell .
+
+dialogue type : fh
+G :  Uh .
+
+dialogue type : s^aap^rt.%--
+G :  Sure , but I think if I 'm talking like this ?
+
+dialogue type : s
+G :  Right now I 'm looking at Jane and talking ,
+
+dialogue type : s^rt
+G :  now I 'm looking at Chuck and talking ,
+
+dialogue type : sj
+G :  I don't think the microphones would pick up that difference .
+
+dialogue type : s
+G :  So if I 'm talking at you , or I 'm talking at you .
+
+dialogue type : s^2^rt
+G :  Lawyers .
+
+dialogue type : s:s
+G :  And we did mention who " he " was .
+
+dialogue type : s^e
+G :  Early in the conversation .
+
+dialogue type : qy^rt.%--
+G :  Do Sh - Can I say
+
+dialogue type : qrr
+G :  or or is that just too sensitive ?
+
+dialogue type : s.x
+G :  It 's not a meeting .
+
+dialogue type : fg|s
+G :  Well , we t we t we talked about this during the anon anonymization .
+
+dialogue type : s^e
+G :  If we wanna go through and extract from the audio and the written every time someone says a name .
+
+dialogue type : s^bu
+G :  And I thought that our conclusion was that we didn't want to do that .
+
+dialogue type : s.x
+G :  Well , the inference structures was Lokendra .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s
+G :  Oh , I don't think we 've been doing it at that level of detail .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : fg|s^bu
+G :  Well You weren't talking about just overlaps
+
+dialogue type : qy^d^g^rt
+G :  were you ?
+
+dialogue type : s^bs
+G :  You were just talking about acoustic events .
+
+dialogue type : s
+G : 
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^fe
+G :  Oh , God !
+
+dialogue type : sj^ba
+G :  Ugh .
+
+dialogue type : fg|s^cs.%-
+G : 
+
+dialogue type : s
+G :  So let 's say me and Jane are talking at the same time ,
+
+dialogue type : s^e
+G :  and then Liz starts talking also over all of us .
+
+dialogue type : qw
+G :  How many events would that be ?
+
+dialogue type : fg|s
+G :  So , two people are talking , and then a third person starts talking .
+
+dialogue type : qy^rt
+G :  Is there an event right here ?
+
+dialogue type : s.%-
+G :  So i if two or more people are talking .
+
+dialogue type : fg|s^na
+G :  Well , but But you could imagine that three people talking has a different spectral characteristic than two .
+
+dialogue type : s^2
+G :  So . You had to start somewhere .
+
+dialogue type : b
+G :  Yep .
+
+dialogue type : s^m
+G :  That 's a lot of overlap ,
+
+dialogue type : qy^d^g^rt
+G :  yeah ,
+
+dialogue type : s^e
+G :  for forty - five minutes .
+
+dialogue type : qy.%--
+G : 
+
+dialogue type : b
+G :  Yep .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : fg
+G :  Right .
+
+dialogue type : s^df
+G :  The the reason that I generated the mixed file was for IBM to do word level transcription , not speech event transcription .
+
+dialogue type : s
+G : 
+
+dialogue type : s
+G :  I mean , if I 'm tapping on the table , you it 's not gonna show up on any of the mikes , but it 's gonna show up rather loudly in the PZM .
+
+dialogue type : fh
+G :  So .
+
+dialogue type : s^df
+G :  If you use the combination of the close - talking mikes , you would hear Jane interrupting me ,
+
+dialogue type : s^df
+G :  but you wouldn't hear the paper rustling .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s^aap.%--
+G : 
+
+dialogue type : s
+G :  I mean , I 'm doing weird normalizations and things like that .
+
+dialogue type : s^aa
+G :  Yep .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : b
+G :  Yep .
+
+dialogue type : s^aa
+G :  Yep .
+
+dialogue type : qy.%-
+G :  Did Did you
+
+dialogue type : sj^ba
+G :  Well , it 's more realistic but it 'll it 'll be a lot harder .
+
+dialogue type : s^bc
+G :  Twelve minutes .
+
+dialogue type : s^nd
+G :  Well , not just the overlaps , everything .
+
+dialogue type : s
+G :  Well , also Jane Jane was doing word level .
+
+dialogue type : s
+G :  So we weren't concerned with exactly when an overlap started and stopped .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Yep .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^nd.%--
+G : 
+
+dialogue type : %-
+G :  And
+
+dialogue type : b.%
+G :  Right .
+
+dialogue type : %-
+G : 
+
+dialogue type : s
+G :  That 's what I was gonna bring up .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s.%-
+G : 
+
+dialogue type : fg
+G : 
+
+dialogue type : s^rt
+G :  I 've I 've written a program to do that ,
+
+dialogue type : s.%-
+G : 
+
+dialogue type : fh|s
+G :  and so but it 's it 's doing something very , very simple .
+
+dialogue type : s^e
+G :  It just takes a threshold , based on on the volume ,
+
+dialogue type : fg|s^e
+G :  um , and then it does a median filter , and then it looks for runs .
+
+dialogue type : sj
+G :  And , it seems to work ,
+
+dialogue type : s
+G :  I 've I 'm sort of fiddling with the parameters , to get it to actually generate something ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  I don't what I 'm working on was working on was getting it to a form where we can import it into the user interface that we have , into Transcriber .
+
+dialogue type : fh|s^cc
+G :  And so I told I said it would take about a day .
+
+dialogue type : s
+G :  I 've worked on it for about half a day ,
+
+dialogue type : fh|s^cc
+G :  so give me another half day and I we 'll have something we can play with .
+
+dialogue type : fg
+G : 
+
+dialogue type : s^ft^t3.%
+G :  Thanks .
+
+dialogue type : s^aa
+G :  Yeah ,
+
+dialogue type : s
+G :  and I haven't tried using that .
+
+dialogue type : s
+G :  It would probably help the program that I 'm doing to first feed it through that .
+
+dialogue type : s^e
+G :  It 's a cross - correlation filter .
+
+dialogue type : sj
+G :  So I I haven't tried that , but that If It it might be something it might be a good way of cleaning it up a little .
+
+dialogue type : s^aa
+G :  Exactly . Yep .
+
+dialogue type : b
+G :  Yep .
+
+dialogue type : s
+G :  It seemed like the right thing to do .
+
+dialogue type : s
+G :  That was with zero literature search .
+
+dialogue type : sj^ba
+G :  That 's good validation .
+
+dialogue type : qy^rt
+G :  Yeah , do you have a patent on it ?
+
+dialogue type : s
+G :  Just output .
+
+dialogue type : qw
+G : 
+
+dialogue type : s^ba.%
+G :  That 's alright .
+
+dialogue type : s
+G :  I was doing pretty short , you know , tenth of a second , sorts of numbers .
+
+dialogue type : sj
+G :  I b I bet they 're more , because the beginning of the meeting had a lot more overlaps than than sort of the middle .
+
+dialogue type : s^bsc
+G :  Middle or end .
+
+dialogue type : s^rt
+G :  Because i we 're we 're dealing with the Uh , in the early meetings ,
+
+dialogue type : s^rt
+G :  we 're recording while we 're saying who 's talking on what microphone , and things like that ,
+
+dialogue type : s
+G :  and that seems to be a lot of overlap .
+
+dialogue type : s^aa
+G :  Yep .
+
+dialogue type : qw^bu^rt
+G :  What 's that ?
+
+dialogue type : s^aa
+G :  Yeah , something like that .
+
+dialogue type : %-
+G :  And then then we
+
+dialogue type : s^ng
+G :  Well , I haven't sent them yet because I was having this problem with the missing files .
+
+dialogue type : s
+G :  About twelve by now . Twelve or thirteen .
+
+dialogue type : s^ar
+G :  Nope .
+
+dialogue type : s
+G :  Jerry .
+
+dialogue type : s^na
+G :  That 's what we 're aiming for .
+
+dialogue type : %--
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^rt
+G :  We 'll find out tomorrow whether we can really do this or not .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s
+G :  Actually that 's something I wanted to ask ,
+
+dialogue type : s
+G :  is I have a bunch of scripts to help with the transcription of the digits .
+
+dialogue type : s
+G :  We don't have to hand - transcribe the digits because we 're reading them and I have those .
+
+dialogue type : s
+G :  And so I have some scripts that let you very quickly extract the sections of each utterance .
+
+dialogue type : s
+G :  But I haven't been ru I haven't been doing that .
+
+dialogue type : fh|qy^rt
+G :  Um , if I did that , is someone gonna be working on it ?
+
+dialogue type : qy^rt
+G :  I mean , is it something of interest ?
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s
+G :  I mean , I I 'm I 'm interested in it ,
+
+dialogue type : s
+G :  I just don't have time to do it now .
+
+dialogue type : fh
+G :  So
+
+dialogue type : s^aa
+G :  Yep . Yep .
+
+dialogue type : s
+G :  I I would really like someone to do adaptation .
+
+dialogue type : sj^ba
+G :  So if we got someone interested in that , I think it would be great for Meeting Recorder .
+
+dialogue type : s^df
+G :  Since it 's the same people over and over .
+
+dialogue type : s
+G :  We had some good ones earlier .
+
+dialogue type : sj^ba
+G :  I think it 's hard to record those .
+
+dialogue type : sj^ba
+G :  Oh , that 's a good idea .
+
+dialogue type : sj^ba
+G :  That 's That would be a good match .
+
+dialogue type : s
+G :  Right , as we are .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s^cs^rt
+G :  Stage some political debates .
+
+dialogue type : s
+G :  We don't have to do the digits at all if we don't want to .
+
+dialogue type : b
+G :  Yep .
+
+dialogue type : s
+G :  It seems like it 's a big part of this corpus is to have the close - talking mikes .
+
+dialogue type : h|s
+G :  Well , I 've been burning two C Ds a day , which is about all I can do with the time I have .
+
+dialogue type : s^cc
+G :  So it 'll be early next week .
+
+dialogue type : b
+G :  Yep .
+
+dialogue type : b.%
+G :  Yep .
+
+dialogue type : s^aap.%--
+G : 
+
+dialogue type : qy^bh
+G :  Yeah , who knows where they are .
+
+dialogue type : s^ar
+G :  Nope .
+
+dialogue type : s
+G :  Yeah , you we can't complain .
+
+dialogue type : s^aa|s
+G :  Yep . I think that 's probably true .
+
+dialogue type : s
+G :  It 's pipeline , pipeline issues .
+
+dialogue type : s.%-
+G :  Once the pipeline fills .
+
+dialogue type : qy^bu^d^rt
+G :  Oh , and we 're just chatting ?
+
+dialogue type : s^bk
+G :  Yeah , we have a lot of those .
+
+dialogue type : s^am|s
+G : 
+
+dialogue type : qy^d^rt:s
+G :  You know , our " soccer ball " meeting ?
+
+dialogue type : s
+G :  I guess none of you were there for our soccer ball meeting .
+
+dialogue type : sj^ba
+G :  That was hilarious .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : s^bk
+G :  Yep .
+
+dialogue type : s^ng
+G :  I just really doubt that uh any of the State of California meetings would be recordable and then releasable to the general public .
+
+dialogue type : s
+G :  So I I mean I talked with some people at the Haas Business School who are i who are interested in speech recognition
+
+dialogue type : s
+G :  and , they sort of hummed and hawed and said " well maybe we could have meetings down here " ,
+
+dialogue type : s:s
+G :  but then I got email from them that said " no , we decided we 're not really interested and we don't wanna come down and hold meetings . "
+
+dialogue type : s
+G :  So , I think it 's gonna be a problem to get people regularly .
+
+dialogue type : b.%
+G :  Yep .
+
+dialogue type : s^t
+G :  Um . We 're getting towards the end of our disk space ,
+
+dialogue type : fh|s^co
+G :  so we should think about trying to wrap up here .
+
+dialogue type : s^co
+G :  OK , leave leave them on for a moment until I turn this off , cuz that 's when it crashed last time .
+

@@ -1,0 +1,417 @@
+dialogue type : b
+A :  Right .
+
+dialogue type : s^bk
+A :  Ah , the messages .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s
+A :  " Alumni " .
+
+dialogue type : s^aa
+A :  Yeah , yeah .
+
+dialogue type : s^na
+A :  It is .
+
+dialogue type : s
+A :  So there are some gaps .
+
+dialogue type : s^r
+A :  Yeah , so there are some gaps left
+
+dialogue type : fh
+A :  and ,
+
+dialogue type : fh
+A :  I don't know ,
+
+dialogue type : s^cs
+A :  you Maybe you can also read through the all the text which is on the web pages
+
+dialogue type : s^df
+A :  cuz I 'd like to change the text a bit
+
+dialogue type : s^df
+A :  cuz sometimes it 's too long ,
+
+dialogue type : s^df
+A :  sometimes it 's too short ,
+
+dialogue type : s^df
+A :  maybe the English is not that good ,
+
+dialogue type : fh
+A :  so
+
+dialogue type : fh
+A :  um ,
+
+dialogue type : fg
+A : 
+
+dialogue type : s
+A :  So I tried to do this today
+
+dialogue type : s^cs
+A :  and if you could do it afterwards it would be really nice
+
+dialogue type : s^df
+A :  cuz I 'm quite sure that I can't find every , like , orthographic mistake in it or something .
+
+dialogue type : s^ba
+A :  Good .
+
+dialogue type : s^aa
+A :  Yeah , yeah , yeah ,
+
+dialogue type : s^ba^na
+A :  the graphics are too bad .
+
+dialogue type : s^na
+A :  I know .
+
+dialogue type : s^ng
+A :  I can't change something with a logo .
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s^aa
+A :  OK .
+
+dialogue type : s^ba
+A :  Good ,
+
+dialogue type : s^bk|%--
+A :  yeah I ju
+
+dialogue type : %--
+A :  an
+
+dialogue type : s^cs
+A :  another thing is I 'd want to get a link on the logo so that you can come from the logo to the ICSI web p home page back .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  That 's these are th some things I have to do .
+
+dialogue type : fh
+A :  Yeah ,
+
+dialogue type : s.%--
+A :  and if you have something which I should put on the web page for you ,
+
+dialogue type : fh
+A :  so
+
+dialogue type : s^bk|s^ba^cs
+A :  yeah , some pictures will be nice ,
+
+dialogue type : s^ba^cs
+A :  a few sentences will be nice ,
+
+dialogue type : fh
+A :  and
+
+dialogue type : s^bk|s^df
+A :  yeah , it depends on how much time you have .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A :  So , some information for people who are new comers or ,
+
+dialogue type : s^no
+A :  I don't know a good word for it ,
+
+dialogue type : qy^rt
+A :  should we use uh " new comers "
+
+dialogue type : qrr.%--
+A : 
+
+dialogue type : s
+A :  So , with somebody who is new , arriving here , or wants to to , uh , send an application ?
+
+dialogue type : %-
+A :  S
+
+dialogue type : qw^br^rt
+A :  Huh ?
+
+dialogue type : qy^bu^d^m^rt
+A :  Newbies ?
+
+dialogue type : s^aa
+A :  Yeah , OK .
+
+dialogue type : s
+A :  So , there I have to add some information ,
+
+dialogue type : s
+A :  I don't know , I t I tried to set up everything by today for this page
+
+dialogue type : s^df
+A :  cuz I 've started with this ,
+
+dialogue type : fh|s^cs.%--
+A :  um , if you have any kind of ideas what was important for you then just let m
+
+dialogue type : s
+A :  cuz I have some points like um I don't know f yeah , like Pacific Bell ,
+
+dialogue type : s^e
+A :  like uh , long - distance carriers ,
+
+dialogue type : s^e
+A :  then like uh , cars and car insurances ,
+
+dialogue type : s^e
+A : 
+
+dialogue type : s^df
+A :  So , health insurance is k something I can only say for German people .
+
+dialogue type : s.%--
+A :  So maybe
+
+dialogue type : s^no
+A :  I don't know if this is different in Spain .
+
+dialogue type : s
+A :  That would be fine too , to have some information , or in D nnn Holland .
+
+dialogue type : s^no
+A :  I don't know .
+
+dialogue type : s^bk
+A :  Yeah ,
+
+dialogue type : s
+A :  so how maybe how you did it or whatsoever .
+
+dialogue type : fh
+A :  So
+
+dialogue type : s^bk
+A :  yeah ,
+
+dialogue type : qw
+A :  then what else did I have ?
+
+dialogue type : fh
+A :  Then
+
+dialogue type : s^tc
+A :  another point 's like , uh , what about the bank ,
+
+dialogue type : qw
+A :  uh , so , transferring your money from Europe t over here , what is the cheapest way or what could you recommend or something .
+
+dialogue type : fh
+A :  um
+
+dialogue type : s
+A :  another point
+
+dialogue type : s
+A :  yeah , and then there 's there 's another point like going out in Berkeley or what to do in Berkeley or in the neighborhood .
+
+dialogue type : s^aa
+A :  No ,
+
+dialogue type : s^na
+A :  I know .
+
+dialogue type : s^na
+A :  I know .
+
+dialogue type : s^df
+A :  But there 's nothing like this on the on the ICSI page as far as I know .
+
+dialogue type : s^bk|s^ng.%-
+A : 
+
+dialogue type : s
+A :  This is not on the web .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : fh
+A :  I don't know ,
+
+dialogue type : s^cs
+A :  maybe I talk with Jane about this .
+
+dialogue type : s
+A :  If we can use this information , I don't know , somewhere on the ICSI home page too .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^am
+A :  Maybe .
+
+dialogue type : s^bk|s
+A :  Yeah , I talk to Jane about this .
+
+dialogue type : s^ar
+A :  No ,
+
+dialogue type : s^df
+A :  this is why I have to talk to Jane .
+
+dialogue type : s^bk|s^ng
+A :  Yeah , but this is not a problem at all ,
+
+dialogue type : s:qy^cs
+A :  I I mean , if y you are coming from Germany and you know that there is something changed with the health insurance , then you send Jane an email like " Could you please change this , blah - blah - blah . "
+
+dialogue type : s^bk
+A :  Yeah , OK .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : s^aa|s^na
+A :  Yes , also fine .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^cs
+A :  Another point is I want I want to would like to add a another button , something which is called like " events " or , I don't know , yeah , I guess I call it " events "
+
+dialogue type : s^cs^df
+A :  like where we could s uh , announce talks which are , you know , future talks for the future ,
+
+dialogue type : s^cs^df
+A :  or and where we could also have a link on for instance the two workshops which have going on , uh , last summer ,
+
+dialogue type : s^e
+A :  so , Hannes ' workshop and then the workshop from Oliver ,
+
+dialogue type : s
+A :  that there might be a link behind these workshops and or former talks we have ,
+
+dialogue type : s^e
+A :  so like from people who have been here before
+
+dialogue type : s^e
+A :  and he wants to , uh , publish their slides , or an article , or whatsoever , behind there .
+
+dialogue type : s^df
+A :  So , that we have like a button for events which are where workshops can be announced or old workshops could could be , um , shown or whatever .
+
+dialogue type : s^aa|s^df^na
+A :  No , it 's easy to to add it ,
+
+dialogue type : fh
+A :  I mean .
+
+dialogue type : s^aa
+A :  Yeah , yeah .
+
+dialogue type : s^bk
+A :  Yeah , OK .
+
+dialogue type : s^bk|s^ng
+A :  Yeah but this will be then down on the button of the page anyways .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : b
+A :  Huh !
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  See for me it 's the same
+
+dialogue type : s.%--
+A :  I can also say , uh ,
+
+dialogue type : s
+A :  for me everything has completely changed ,
+
+dialogue type : s
+A :  so now I go back and I don't anything what to do ,
+
+dialogue type : s
+A :  so it 's like I have to sort everything out when I 'm back in Germany
+
+dialogue type : s
+A :  but I won't go back to the university
+
+dialogue type : fh
+A :  so
+
+dialogue type : s^nd
+A :  I don't think so .
+
+dialogue type : s.%-
+A :  Then it 's like
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : b
+A :  Yeah ,
+
+dialogue type : s^ar
+A :  No , no , no .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  That must be three weeks ago ,
+
+dialogue type : s^df
+A :  cuz I r I just met him when I arrived .
+
+dialogue type : qy^d^rt
+A :  Oh , again ?
+
+dialogue type : s^no
+A :  I don't know .
+
+dialogue type : z
+A :  Should I ?
+
+dialogue type : z
+A :  OK ,
+
+dialogue type : z
+A :  Oh , oh Wilbert
+
+dialogue type : z
+A :  Oh , I 'm sorry .
+
+dialogue type : z
+A :  Oh , I 'm so sorry .
+
+dialogue type : z
+A :  That was mean ,
+
+dialogue type : z
+A :  OK .
+

@@ -1,0 +1,60 @@
+dialogue type : s^ng
+F :  But these are two different scenarios entirely .
+
+dialogue type : s^e
+F :  I mean , one is a planner The other , it kind of give you instructions on the spot
+
+dialogue type : s
+F :  But I mean i it seem that um there is a difference between going to see something , and things like " exchange money " or " dine out "
+
+dialogue type : s.%
+F :  uh @ @ function , yeah .
+
+dialogue type : qy^d
+F :  So all tours b a tour happens only within one day ?
+
+dialogue type : qy^d
+F :  So the next tour will be tomorrow ?
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : qw
+F :  What ab What do you have in mind in terms of um socializing ?
+
+dialogue type : qw.%-
+F :  What kind of activities ?
+
+dialogue type : %-
+F : 
+
+dialogue type : s^2
+F :  Socializing , I guess .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s
+F :  I must say that thi this one looks a bit strange to me .
+
+dialogue type : s
+F :  Um maybe It seems like appropriate if I go to Las Vegas .
+
+dialogue type : s.x
+F :  Well but I decide k kind of how much money uh I 'm willing to lose .
+
+dialogue type : s
+F :  But a I as a tourist , I 'll just paying what 's what 's more or less is required .
+
+dialogue type : s^2
+F :  The best seat or or Right .
+
+dialogue type : s^aa
+F :  Right , that 's true .
+

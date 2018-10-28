@@ -1,0 +1,870 @@
+dialogue type : s^rt^t
+C :  OK . So the one one thing I knew I wanted to talk about was about , uh , sort of last minute stuff to to , uh , try to get some recognition results .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^rt
+C :  So , uh , on on on meeting data .
+
+dialogue type : s
+C :  And so , I 'm I 'm not sure exactly what you 're doing already ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fg
+C : 
+
+dialogue type : s^aa|s
+C :  Right . So so , we have some stuff with no overlap , uh , for which there would be near near - field results .
+
+dialogue type : s
+C :  We wanted to get the far - field results for that .
+
+dialogue type : s
+C :  And then this this real , uh , long shot thing would be , that we 'd apply Dave 's processing to , uh , potentially training and test data
+
+dialogue type : s
+C :  and do the look at the same thing .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  We couldn't remember how different the numbers were ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  uh , I think Chuck 's recollection was that when he was doing the feature stuff , it took maybe a day and a half
+
+dialogue type : s^e
+C :  to do the training .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : fg|qw
+C :  Um , how much worse is the short training set than the large one , in terms of the ultimate performance ?
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : s
+C :  So , it 's that should be fine for this , I would think .
+
+dialogue type : qy^bu^d^rt
+C :  So we an and you have the short you have short training results for the close case ?
+
+dialogue type : qw.%--
+C :  So , how do you know it 's ?
+
+dialogue type : s
+C :  Oh , it 's three percent on on , uh , on Hub - five .
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : fg|s
+C :  Yeah . But we have the models so we could get that number ,
+
+dialogue type : fh
+C : 
+
+dialogue type : qw.%-
+C :  So the question is , what ? w
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I mean , it 's the non - overlap only .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  it has to be enough to be sort of comparable to what you folks were seeing and what you reported already .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^ar|s
+C :  No . He has to create that .
+
+dialogue type : fg
+C : 
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  We have a whole parallel set of things over here which are all with digits .
+
+dialogue type : s
+C :  And and and Dave has been working with that and there 's all of those issues .
+
+dialogue type : s
+C :  But I know that if I go in with something that 's not just digits it would be good .
+
+dialogue type : fh
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I mean , on uh , a l a lot tha tha a particular test set , that you that we reported at HLT .
+
+dialogue type : s^cs
+C :  Um , it 'd be nice to have something more than that .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C :  Um , and then ,
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : s
+C :  I mean , so this is gonna be a lot worse .
+
+dialogue type : qy^d^f^g^rt
+C :  Right ?
+
+dialogue type : s^e
+C :  Whatever comparison we w w one would presume .
+
+dialogue type : s.%--
+C :  But we don't know how much worse ,
+
+dialogue type : s^ba
+C :  w w uh , which is certainly one interesting thing .
+
+dialogue type : fh
+C :  And then , um ,
+
+dialogue type : %--
+C : 
+
+dialogue type : s.%--
+C :  I think we figured that it 'd probably take a day or two to compute the the ,
+
+dialogue type : fh
+C : 
+
+dialogue type : fh|qw.%-
+C :  Well How many hours of training ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aap|s^ng
+C :  Yeah , but we also have to do this other processing , so having a smaller training set ,
+
+dialogue type : s
+C :  if it 's only a few percent difference , it might be be worth doing it .
+
+dialogue type : qw
+C :  But - m How big is the small training set ?
+
+dialogue type : qy
+C :  Do you remember ?
+
+dialogue type : s
+C :  It 's around there .
+
+dialogue type : qy^bu^d^rt
+C :  And ha and and male is roughly half of that ,
+
+dialogue type : qrr^g.%--
+C :  or ?
+
+dialogue type : qrr
+C :  Or or or was that only
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : fg
+C : 
+
+dialogue type : s
+C :  Yeah . So that 's certainly part of the issue , is that right now he 's he hasn't written his stuff for efficiency .
+
+dialogue type : fh|s
+C :  Yeah . It 's it 's in Matlab
+
+dialogue type : s
+C :  and so on ,
+
+dialogue type : s
+C :  and And , uh , it 's not an impossible amount of time .
+
+dialogue type : s^rt
+C :  We we were guestimating it was like one and a half times faster than real time , or something ?
+
+dialogue type : s
+C :  So , if there 's thirty hours of data , you can calculate that he can do , uh , the enhancement in a day
+
+dialogue type : s
+C :  and something .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  But if we were dealing with two hundred hours or something , I think it 'd be prohibitive .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Yeah . So , I mean , it 's a bit of a push ,
+
+dialogue type : s.%--
+C :  but it seems like ,
+
+dialogue type : s
+C :  OK , we 've got some models ,
+
+dialogue type : s
+C :  we 've got some training data , we have software that works , he 's got a method that helps with , you know , other ta another task .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  It , you know , appears to be , you know , debugged .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s^bk|s^ba
+C :  Oh . Well , that 's not bad .
+
+dialogue type : s^bu
+C :  You mean the training .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aap
+C :  For the test .
+
+dialogue type : s^aa.%-
+C :  Yeah , fo
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s.%--
+C :  I mean , it it 'd be really great if it was all automatic , but I think that , you know , given the pressure of time , if i i
+
+dialogue type : s
+C :  I mean , since you 're gonna find out in a short amount of time , that 's great .
+
+dialogue type : s^cs
+C :  But i if if it doesn't work out , I think we would rather charge ahead with the older segmentations
+
+dialogue type : fh
+C :  and Um ,
+
+dialogue type : s
+C :  and we were gonna use one of the P Z
+
+dialogue type : s^no.%--
+C : 
+
+dialogue type : s^cs
+C :  Probably whatever one you 've been using for for for the digits .
+
+dialogue type : qy^rt
+C :  Is it this one ?
+
+dialogue type : s.%-
+C :  I I 'd which ?
+
+dialogue type : qy^bu^d^rt
+C :  That 's F ?
+
+dialogue type : qw^rt
+C :  How do you know ?
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^ft.%--
+C :  Bien sur
+
+dialogue type : fg
+C : 
+
+dialogue type : s
+C :  Bet they 'll have fun with that one .
+
+dialogue type : fh
+C :  OK , so .
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : h|s^am
+C :  Well Maybe .
+
+dialogue type : qw
+C :  But , I I mean , how long does it take for the test ?
+
+dialogue type : b
+C :  Right .
+
+dialogue type : qw
+C :  Bu - But what what was your result for uh , that we had at the HLT ?
+
+dialogue type : qy^e^rt
+C :  Was that a combination of me ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fg|s
+C :  Yeah . But if you So , if you do half a dozen meetings , that 's that 's about a day .
+
+dialogue type : s
+C :  We also have more machines now .
+
+dialogue type : %--
+C :  well
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ba^bu
+C :  I mean , if we had about six A six hour test set 's not bad .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : qy^d^f^g
+C :  You know ?
+
+dialogue type : qy^d^f^g
+C :  Right ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : qy^bu^d^m^rt
+C :  Four that you worked with ?
+
+dialogue type : s^ba
+C :  That would be OK , too .
+
+dialogue type : s.%--
+C :  I mean , I 'm i
+
+dialogue type : s.%--
+C :  So , if they have a set that they worked with ,
+
+dialogue type : %--
+C : 
+
+dialogue type : qy^rt
+C :  Did you do similarly in performance between them and the other meetings ,
+
+dialogue type : qrr.%--
+C :  or was it ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^2
+C :  And overlap or not .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^cs^rt
+C :  So maybe just with the the the Meeting Recorder set of the De - th that you did before .
+
+dialogue type : s^aa|s^cs^na
+C :  Yeah . So we want to do the same same thing .
+
+dialogue type : s^aa|s^aap
+C :  Yeah . Once we know which segmentations we 're using .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : h|s^ba
+C :  Um , I I agree that that would be an interesting thing to do ,
+
+dialogue type : s^ng^rt
+C :  but I sort of regard it as secondary .
+
+dialogue type : s
+C :  So if there 's sort of machines sitting around and people sitting around and they 're waiting for other things to finish , then sure .
+
+dialogue type : fh
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Cuz , I mean , you could imagine a fantasy in which you said that Dave 's processing made the , uh , far microphone like the near microphone .
+
+dialogue type : s
+C :  In which case you shouldn't have to actually retrain .
+
+dialogue type : s
+C :  But it 's it 's not really true .
+
+dialogue type : s^ba
+C :  It 's it 's sort of fantasy .
+
+dialogue type : s
+C :  It does it does muck up the data in in some funny ways .
+
+dialogue type : fh
+C :  And so ,
+
+dialogue type : s
+C :  I 'm I 'm kind of questioning that .
+
+dialogue type : fg
+C : 
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^na
+C :  Uh , that 's right .
+
+dialogue type : s^cs^rt
+C :  I mean the other thing which which it might come in to is if there was some problem in the retraining .
+
+dialogue type : s^e
+C :  I mean , maybe you 'd just have some mechanical thing we do wrong .
+
+dialogue type : s
+C :  Uh , that , uh since Dave 's experience was that it didn't help as much if you didn't retrain , but it does help some , that we would hopefully see that .
+
+dialogue type : s^aa
+C :  So , that that 's that 's true .
+
+dialogue type : %-
+C :  I i
+
+dialogue type : fg
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : qy^rt
+C :  I mean , do you ha do you have to rely on his segmentations at all to do the top one ?
+
+dialogue type : s^bk
+C :  Oh . OK .
+
+dialogue type : s^bk
+C :  Got it .
+
+dialogue type : s
+C :  We we talked about this before .
+
+dialogue type : s
+C :  I think what we were saying was that , um , the very fact that in both cases we 're ignoring the overlap section means that , um , uh , we 're to some extent finessing that .
+
+dialogue type : fh
+C :  So , um ,
+
+dialogue type : s^cs
+C :  I think , for the purposes of just determining whether a far - field microphone uh , what the effect of the far - field microphone is , we should do the same to both .
+
+dialogue type : %--
+C : 
+
+dialogue type : s^df^ng
+C :  We want to i incorporate certain data that would not be available during final tests , uh , under a a full fair test of it , much as we are in the all the numbers that we have so far .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  We we simply wanna determine what 's the difference in performance due to being distant versus close .
+
+dialogue type : s
+C :  I mean to a lesser extent you had that same magic the other way , too ,
+
+dialogue type : s^bu^df
+C :  because you have leakage into other microphones .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : s
+C :  But , it 's just you 're using the fact that this is where this person is .
+
+dialogue type : qy^d^f^g^rt
+C :  Right ?
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^ba
+C :  It 's just easier to do .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qw.%-
+C :  So , how do you determine what you use to group together to be a a ?
+
+dialogue type : s
+C :  The only other alternative would be to turn off speaker adaptation in both .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fg|s
+C :  Yeah . An - and e so that will tell us what the difference it between the mikes ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C :  The the other difference that we 'd have to take care of is that ,
+
+dialogue type : fh|s
+C :  uh yeah , we we don't have a mike that , uh , is particular to a person .
+
+dialogue type : s
+C :  And so we 'll have to do some clustering ,
+
+dialogue type : s
+C :  and that 'll be another another , uh , issue , too .
+
+dialogue type : s^bd
+C :  But , it it I could be wrong ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  the the level of degradation that you get from having the distant mike in a normal acoustic is much greater than what you get from , say , not applying speaker adaptation or applying speaker adaptation .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I mean , we 'll see .
+
+dialogue type : s
+C :  But but , I think that the kind of gains that we 've seen from speaker adaptation on Hub - five sort of things are like a few percent .
+
+dialogue type : qy^d^f^g
+C :  Right ?
+
+dialogue type : fh
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^nd
+C :  It doesn't make that much difference , I think .
+
+dialogue type : s^e
+C :  I would doubt that it would be a huge amount of difference for that .
+
+dialogue type : s^ba
+C :  So , I mean , I I think that that difference would definitely be marginal .
+
+dialogue type : s^cs
+C : 
+
+dialogue type : s^cs^e
+C :  to do some cepstral mean subtraction on some level .
+
+dialogue type : fh|s
+C :  And , uh , so what 's different about this processing is just that we 're doing it at a much longer time scale .
+
+dialogue type : qy^d^f^g
+C :  Right ?
+
+dialogue type : fh
+C : 
+
+dialogue type : s^aa
+C :  That 's right .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : h|s^am
+C :  Um . Yeah , I guess .
+
+dialogue type : fh
+C :  But , um ,
+
+dialogue type : s^bd^cs
+C :  I also think that a again once we got into it , that , um , using some kind of clustering would probably work reasonably well there , too .
+
+dialogue type : s.%--
+C :  Certainly for the the two microphone case ,
+
+dialogue type : s
+C :  which we 're not gonna mess with because it 's another whole deal with the low - quality microphones ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : s
+C :  we ought to be able to at least tell that it appears that things are coming from a particular direction .
+
+dialogue type : s
+C :  So we ought to be able to use that information , um , as well .
+
+dialogue type : s^cs
+C :  But , I think we might be able to do not too bad a job of separating out sp uh , segments that appear to come from a single speaker
+
+dialogue type : s^e
+C :  both in terms of s acoustic similarity and in terms of direction .
+
+dialogue type : s^bd
+C :  So , I mean But that 's another research thing to do
+
+dialogue type : s^bd^e
+C :  and probably won't get done the next week .
+
+dialogue type : s
+C :  Well , I mean , I 'm I 'm leaving for for the , uh , the New Orleans meeting , uh , next Saturday ,
+
+dialogue type : fh
+C :  and and , um ,
+
+dialogue type : s
+C :  it 'd be kinda nice to have some results at least a day or two before that , so that I could figure out what I wanted to say about it .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  Uh , not to mention that that , uh , Mari 's putting together this report next week , too , you know .
+
+dialogue type : fh
+C :  So Uh ,
+
+dialogue type : s
+C :  what we were hoping was that over the weekend we could do , uh , the , um , calculation on the training set
+
+dialogue type : h
+C : 
+
+dialogue type : s^cs
+C :  uh , maybe , you know , we could by the end of the weekend , we could have the top one ,
+
+dialogue type : s^cs
+C :  and and then early next week , do these .
+
+dialogue type : s
+C :  If we had enough machines , maybe do them in parallel .
+
+dialogue type : s
+C :  So that by the middle of the week we had s had some kind of result .
+
+dialogue type : s
+C :  I mean , it 's it 's one of these Hail Mary kinds of things .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bd
+C :  it , uh might might not work out .
+
+dialogue type : s
+C :  But , uh , f figured I may as well ask for it .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : qy^bu^d^j^rt
+C :  You have models of short males ?
+
+dialogue type : s
+C :  I think Markham 's out on vacation .
+
+dialogue type : s^cs
+C :  I think , che check with Dave .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  I thought they were like mushrooms .
+
+dialogue type : s
+C :  They 're popping up .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Cuz we still all have tha the that other one going ,
+
+dialogue type : s
+C :  which is the , uh the Macrophone training .
+
+dialogue type : qy^bu^d^rt
+C :  That was in the Hub - five small training set ?
+
+dialogue type : s^bk
+C :  Yes .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^am
+C :  I wonder about that , though .
+
+dialogue type : s
+C :  I mean , because all we 're doing The only reason we 're using the short training set is is for speed .
+
+dialogue type : s
+C :  And there we 're not really making any claims about using a smaller training set .
+
+dialogue type : s^cs.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk|s^bu
+C :  Oh , you mean for for his normalizations .
+
+dialogue type : s^bk|s^fa
+C :  Oh , oh , oh . I 'm sorry .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^br^co
+C :  Say this again ?
+
+dialogue type : s^fa|s^df
+C :  Sorry I missed it .
+
+dialogue type : s^aap
+C :  He throws out some speakers that are that are very small .
+
+dialogue type : s^aa|s.%-
+C :  Yeah . I think there was only a few
+
+dialogue type : s
+C :  we thought to be the case .
+
+dialogue type : qy^d^g.%-
+C :  Righ - ?
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  At that one ? Maybe .
+
+dialogue type : fg
+C : 
+
+dialogue type : qy^bu^d^rt^t
+C :  Been looking at synthesizers ?
+
+dialogue type : s
+C :  You were looking at Festival .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  This was a business about , uh , um , coming up with something that that was purely prosodic .
+
+dialogue type : s
+C :  And so , uh , we 're just gonna use a pitch detector ,
+
+dialogue type : s
+C :  drive a synthesizer ,
+
+dialogue type : s
+C :  and since it doesn't have a hook in it for , uh , modifying energy , we 'll have a little box at the output that 'll modify the energy .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^rt
+C :  So . Rrrrr - rrrrm
+
+dialogue type : s
+C :  Something like that .
+
+dialogue type : qy^bu^d^rt^tc
+C :  OK ?
+
+dialogue type : qy^bu^d^rt^tc
+C :  Digits ?
+
+dialogue type : z
+C :  That 's all folks .
+

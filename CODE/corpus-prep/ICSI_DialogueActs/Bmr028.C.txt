@@ -1,0 +1,957 @@
+dialogue type : qw.%--
+C :  Wha - what was on the list ? Th - the
+
+dialogue type : s
+C :  I mean , I sent you a couple things ,
+
+dialogue type : s
+C :  although I don't remember them .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^bk|s
+C :  Ah . That was the second thing .
+
+dialogue type : s^bk
+C :  Right . Right .
+
+dialogue type : s
+C :  By the way , I 'll I I won't be here next Thursday .
+
+dialogue type : s
+C :  I 'll be out of town .
+
+dialogue type : fh
+C : 
+
+dialogue type : qw^rt
+C :  What 's a shape file ?
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : s^t1.%--
+C : 
+
+dialogue type : s^t1
+C :  No .
+
+dialogue type : s^no
+C :  I don't know .
+
+dialogue type : s^df
+C :  U I 'm I 'm confused .
+
+dialogue type : qy^rt
+C :  Uh , is is this downloading something that happens once ?
+
+dialogue type : qy^bu^d^rt
+C :  And and then when you d display different things , it 's fine ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s|s^aa
+C :  Well , a new meeting , a transcript . Right .
+
+dialogue type : %--
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : qy^bu^d^m^rt
+C :  Go wrong ?
+
+dialogue type : s^bk
+C :  I see . Yeah .
+
+dialogue type : s^bk|s^bu
+C :  Oh ! Oh , you 're downloading a whole meeting .
+
+dialogue type : s^na
+C :  Oh , yeah that @ @ .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  And then still do it ahead of time ,
+
+dialogue type : s
+C :  but then at least you 're covered if if , uh if there 's a problem .
+
+dialogue type : s^bk|s
+C :  OK . Well , I 'm gonna start working on this the week after next ,
+
+dialogue type : s
+C :  so that 's the point when I 'll need to look more carefully at what y what what you guys have .
+
+dialogue type : s^aa|s.%--
+C :  Right . The week after th th
+
+dialogue type : s
+C :  The Monday the week after next is July second ,
+
+dialogue type : s
+C :  which is the first day I get back .
+
+dialogue type : fh
+C :  So
+
+dialogue type : fh|s
+C :  Well , uh , I 'm giving a talk on July sixteenth .
+
+dialogue type : s^bu^rt
+C :  It 's a Mon - Monday in four weeks ?
+
+dialogue type : qrr^d^rt
+C :  Three weeks ?
+
+dialogue type : s^ba^j
+C :  It 's always exciting to hear that Java 's faster than something .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^j
+C :  Beep .
+
+dialogue type : s
+C :  We 're all entitled to our opinions here .
+
+dialogue type : fg|s^t^tc
+C :  Um . Yeah . So it 's Yeah . I think it must be three and a half weeks .
+
+dialogue type : s^df
+C :  Uh , cuz July The the meeting is July sixteenth through eighteenth .
+
+dialogue type : s
+C :  And , uh , my talk 's the first day .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s
+C :  I 'm flying out there the Sunday before .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  I guess , you know , it 'd be desirable if , a week ahead of that , we basically had thought we had it ,
+
+dialogue type : s.%-
+C :  which would allow a week for
+
+dialogue type : s
+C :  re - iterating .
+
+dialogue type : s^aa
+C :  Yeah . Pretty much .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  I th I saw that .
+
+dialogue type : s
+C :  And it 's it 's case insensitive ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  So , we have our first information retrieval example .
+
+dialogue type : s
+C :  It 's a regular expression
+
+dialogue type : s
+C :  searcher .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s:s^co
+C :  You wanna say , " Where are al where Find all the contentious things I said . "
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Um Right .
+
+dialogue type : qy^rt
+C :  Has has has Joachim Sokol replied ?
+
+dialogue type : qrr.%--
+C :  Or ?
+
+dialogue type : s^ng
+C :  He 's not around , is the only problem .
+
+dialogue type : s^aa|s^ba
+C :  Yeah . Otherwise , it 'd be a good idea .
+
+dialogue type : s
+C :  Yeah . He popped in .
+
+dialogue type : s^e
+C :  But , I mean , he 's basically gone .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fh|s
+C :  Yeah . And and tell her You know . Tell her your specific problem .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s|s^aa
+C :  He 's right there . Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  I i in in other meetings .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Well , SRI people , easy to f find .
+
+dialogue type : s
+C :  And , uh , IBM people , also . Just let us know .
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  Just we certainly have their email .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^na
+C :  Uh . I know they 're in .
+
+dialogue type : qy.%-
+C :  And , uh But I don't know . I think he was Wasn't he asking about ?
+
+dialogue type : s
+C :  Well , there was an issue .
+
+dialogue type : s
+C :  He wanted to take it down .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : %-
+C :  Wel
+
+dialogue type : s^bu
+C :  Markham probably needs u H he probably needs us to approve another time to take things down .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : s^e^rt
+C :  In order to do that ?
+
+dialogue type : s
+C :  I thought he I thought he said in that mail that he would need to take it down another time .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  Well , no . I think he wanted u us to tell him when .
+
+dialogue type : fg|s.%--
+C : 
+
+dialogue type : s^ba^j
+C :  Fortunately , Markham 's not a transcriber .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^t1
+C :  " I might not work . "
+
+dialogue type : s^m
+C :  " I 'm I 'm willing to not work for an hour . "
+
+dialogue type : s^j
+C :  I know you 're willing to not work for an hour .
+
+dialogue type : %-
+C :  But , I th
+
+dialogue type : %-
+C :  I
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  We store we store our data on Popcorn .
+
+dialogue type : s^ba
+C :  That 's really great .
+
+dialogue type : s
+C :  I was just thinking we store our data on Popcorn .
+
+dialogue type : qw
+C :  How many how many institutes can you say do that ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  Uh , g megabytes and mega many megabytes , too .
+
+dialogue type : qw.%-
+C :  Um , what what , uh ?
+
+dialogue type : qw
+C :  So uh , what what 's on your queue for for recognition experiments ?
+
+dialogue type : s^cs^t^tc
+C :  Let 's talk about that for a second , maybe .
+
+dialogue type : qw^r
+C :  What what was on his queue for recognition experiments ?
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^t3
+C : 
+
+dialogue type : fg
+C : 
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s^cs.%--
+C :  Um , I think it would be ne neat at some point in this to do , um , a recognition , uh , pass on one of the PZM mikes for these s same meetings that you 've been gi n gi bi
+
+dialogue type : s^ba
+C :  I mean , it 's gonna be terrible ,
+
+dialogue type : s
+C :  but , you know , we we just don't know how terrible .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg|s
+C :  Yeah . Cuz you have a set of scores about that ,
+
+dialogue type : s
+C :  so maybe then , that wouldn't be so bad .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ba
+C :  But that 'd be a hell of a lot better than what we do with just these .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  and and , again , if you rule out the overlap , you have some numbers for that ,
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^df
+C :  Cuz you have scores for that for the other case .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  We just don't know how bad it will be .
+
+dialogue type : s
+C :  I mean , one of the things that Dave was noticing we were talking this morning is that i it seems like and we do don't know this in detail , but it seems like you 're getting a lot from the channel adaptation , the speaker adaptation , and so forth .
+
+dialogue type : s
+C :  Um . So you are , already , in that recognizer , doing something that is likely to affect , uh , the the far - field microphone , uh , formant .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I mean , it 's gonna be bad ,
+
+dialogue type : s
+C :  but , uh , it may not be , like , " won't decode " kind of bad .
+
+dialogue type : s
+C :  It might might only be that it goes from forty percent to eighty , or something like that .
+
+dialogue type : s
+C :  I want us to assume the exac whatever it was you assumed when you did the other the the close mike .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bu
+C :  But you 're saying for this For the adaptation , you mean .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : %-
+C : 
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  I I have a suggestion .
+
+dialogue type : s^cs
+C :  Do the simplest thing first .
+
+dialogue type : s^df
+C :  Because we 're gonna want to know that anyway .
+
+dialogue type : s.%-
+C :  In other words , if you d
+
+dialogue type : s^ar|s
+C :  No . It 's No . It 's even simpler thing than that , is just that you don't know .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa|s^df
+C :  Yeah . Because you can get a number uh , for that with the other as well .
+
+dialogue type : qy^d^f^g
+C :  Right ?
+
+dialogue type : s
+C :  You can turn those things off .
+
+dialogue type : qy^d^f^g
+C :  Right ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Yeah . And then put it in correctly and see how much that helps .
+
+dialogue type : s.%--
+C :  I mean , I was just thinking , do the one that 's easiest first ,
+
+dialogue type : s^df
+C :  because you wanna know how much that 's helping you in these cases anyhow .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg|s
+C :  Yeah . If you don't have one more than one mike , you don't have a very good handle on location .
+
+dialogue type : s^nd
+C :  That 's it 's not enough .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  But , say , if if you had a a cardioid mike or something sitting someplace , then sitting there , then it would Its its response to him would be about the same as the response to him , and so on .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s^ba^cs
+C :  But Anyway , I I 'd it 'd be neat to have that ,
+
+dialogue type : s^df
+C :  because you know we 've been at this for a little while
+
+dialogue type : s
+C :  and we don't have have any results yet with with conversational speech at a distance .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^cs
+C :  We should at least get a first one .
+
+dialogue type : s^bd^df
+C :  Um , and the other thing This would kind of be a Hail Mary ,
+
+dialogue type : s
+C :  but but , uh Uh , Dave does have this stuff that is helping on digits ,
+
+dialogue type : s
+C :  and , you know , and so with then it 'd be , you know , just throw that in and see .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aap
+C :  Uh , well , he can do it in something else .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  Actually , we 're experimenting with phase stuff now ,
+
+dialogue type : s
+C :  and and , uh , thi this , uh first result he got , uh , was really great .
+
+dialogue type : s
+C :  It actually , uh uh didn't exactly eliminate the reverberation ,
+
+dialogue type : s
+C :  but it completely got rid of the speech .
+
+dialogue type : s^aa|s
+C :  Yeah . Well , I was thinking that .
+
+dialogue type : %-
+C : 
+
+dialogue type : %-
+C : 
+
+dialogue type : qy^d^rt
+C :  You think I didn't s tell him that ?
+
+dialogue type : s
+C :  No . I got pretty excited ,
+
+dialogue type : s^df
+C :  because it completely got rid of the speech .
+
+dialogue type : s.%--:s.%--
+C :  So , I was thinking " well , so ,
+
+dialogue type : s
+C :  you know , it could be useful for lots of things " .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : qw^br
+C :  What ?
+
+dialogue type : s
+C :  Well , we have to sort of check that out .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Reminds me of when th when Herve and I were first playing with c uh , context - dependent things for nets ,
+
+dialogue type : s
+C :  and and at one point we took out the speech input ,
+
+dialogue type : s
+C :  so we only had priors , and our performance went up .
+
+dialogue type : b
+C :  S Yeah .
+
+dialogue type : s
+C :  Well , of course it was a bug .
+
+dialogue type : s
+C :  But , I mean , it 's it 's a but it was pretty f f It was pretty funny anyway .
+
+dialogue type : s
+C :  So that 's how it was generated .
+
+dialogue type : fg|s.%-
+C :  Uh , but cheating is is p
+
+dialogue type : s^bk|s
+C :  Sure . But chea but cheating is is is pretty commonly used to mean this .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : fg|%-
+C :  Yeah . I i i i
+
+dialogue type : %-
+C :  I it 's i
+
+dialogue type : s
+C :  It 's even more than that .
+
+dialogue type : s
+C :  I think it it really gives a very strong perspective , that you know that what you were doing is not an un - biased experiment .
+
+dialogue type : s:s
+C :  If you don't say that , then people think " oh , they did that and they threw that , but that doesn't represent what would happen in the real world " .
+
+dialogue type : s
+C :  But if you say " we did a n cheating experiment " , which is really the standard way you 'd say it , it says you deliberately put in a piece of me information that you would not have in the real world so that you can learn something .
+
+dialogue type : s^e
+C :  Just as part as your process .
+
+dialogue type : s^no
+C :  So it 's I d I don't know ,
+
+dialogue type : %-
+C : 
+
+dialogue type : %-
+C :  i
+
+dialogue type : s^am|s
+C :  Maybe . I I 've heard this at ICSLP for years and years and years , though .
+
+dialogue type : s
+C :  I mean , it 's it 's pretty pretty common . People say this .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa|s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Right .
+
+dialogue type : fg|s
+C :  Yeah . It 's machine machine experiments .
+
+dialogue type : fh|s.%--
+C :  Um , I mean , w when when the , uh , the neural net w uh wave hit in the mid - eighties ,
+
+dialogue type : s
+C :  and by the late eighties there were uh , we were reviewing thousands of papers that were coming out in neural nets .
+
+dialogue type : s
+C :  It was really hot .
+
+dialogue type : s
+C :  Everybody thought it would do everything .
+
+dialogue type : s
+C :  Um , and a really common error that people were making was , they were just reporting their , uh uh , classification results on the data that they were training on .
+
+dialogue type : s:s
+C :  And so I think it was it was it was very important for people then who were doing something diagnostic to say " hey , I know I 'm doing something that isn't kosher " .
+
+dialogue type : s^df^e
+C :  And to make it really clear that they knew it .
+
+dialogue type : s
+C :  So that was , I think , why why it became a popular term .
+
+dialogue type : s^nd
+C :  But it isn't bootstrapping .
+
+dialogue type : s
+C :  Uh , it 's it 's really cheating .
+
+dialogue type : %-
+C :  It 's just ng
+
+dialogue type : s^aa
+C :  Yeah . Yeah .
+
+dialogue type : s:s
+C :  But it 's cheating in a way that 's pril It 's it 's announcing to everybody " hey , I 'm cheating , by doing this . "
+
+dialogue type : s
+C :  It 's saying so it 's all above the table .
+
+dialogue type : s
+C :  I 'm actually using this other thing .
+
+dialogue type : s
+C :  That 's that 's that 's the reason .
+
+dialogue type : s
+C :  Bootstrapping would imply it was actually legitimate in some kind of way .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Anyway .
+
+dialogue type : s^m^na
+C :  It has some shock value .
+
+dialogue type : s
+C :  Which is part of why it 's used .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^ar|s
+C :  No , no . It has I don't think you 're saying the data is cheating .
+
+dialogue type : s:s
+C :  I think you 're saying " in my experiment , I cheated in this way " .
+
+dialogue type : s
+C :  I mean , another is what Liz was talking about , how in the Switchboard tests in all the Switchboard tests we 've been g doing , we 've been making the same er uh , same uh , uh , standard using the same standard way of of getting the data to test on .
+
+dialogue type : s
+C :  Which means that we weren't actually running it on on , uh , on data that had had no speech .
+
+dialogue type : s
+C :  And , in a sense , that was cheating .
+
+dialogue type : s:s
+C :  So i so it it 's it 's a good wake - up call if people " well , we have this performance but you have to keep in mind , we 're doing we 're we 're not doing the whole real task in this way and this way and this way .
+
+dialogue type : s
+C :  But , I 'll convince you that that it 's still important for you to listen to what I have to say next because of this and this . "
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah . Sure .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : s:qo
+C :  In the multi - band experiments , in the first one , we really wanted to find out , " what if you knew which band was really noisy ? "
+
+dialogue type : s
+C :  I mean , suppose you just know that .
+
+dialogue type : qo
+C :  And then then , even if you know that , can that help you ?
+
+dialogue type : qw
+C :  I mean , what can what strategy can you do , to do well without that particular band in the spectrum ?
+
+dialogue type : s
+C :  And so that was important to know as a baseline .
+
+dialogue type : s:qw
+C :  And and then , once you knew that , then s you go " well , now how do I know that that 's noisy ? "
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  But , y you know , I I should also say that there 's a lot of It 's not just the word " cheating " . But there 's lots of other things that we talk about , which , as soon as you go outside of your narrow little group , it gets very , very confusing to people .
+
+dialogue type : %-
+C :  And I i i i
+
+dialogue type : s
+C :  Well , the example I was thinking of , also , was this w thing that that Herve and and Hynek and I made about , uh , increasing the error rate .
+
+dialogue type : s
+C :  And , so we we did a number of papers , and talks , and so forth about , uh w uh , i the the virtues of increasing the error rate .
+
+dialogue type : s^f
+C :  OK .
+
+dialogue type : s.%--
+C :  And I mean , and the whole point of it was , not that it was good to increase your error rate , but it was good to be willing to risk increasing your error rate by trying risky things , and trying Because there 's this notion of a local minimum , that if you just have some system that 's very complex ,
+
+dialogue type : s
+C :  and you t you you turn some knobs to try to make it better and better , you 'll never get out of this local minimum .
+
+dialogue type : s
+C :  You have to be willing to jump to something that 's quite different .
+
+dialogue type : s
+C :  And the first time you jump to something quite different , or maybe the first ten times or a hundred times you do , it 's gonna be much much worse ,
+
+dialogue type : s^df
+C :  because you 've optimized the other system .
+
+dialogue type : s
+C :  So the effect the immediate effect is gonna be to increase your error rate .
+
+dialogue type : s:s
+C :  And so it was we had a couple papers like " Towards increasing the error rate in speech " and and so on .
+
+dialogue type : s
+C :  And we really did get feedback from a few people , some of whom were , you know , fairly senior , that that , um , " Well , you know , you sh you you c We 're c really concerned about you misleading people into thinking they should be increasing the error rate . "
+
+dialogue type : s
+C :  And , uh , and we go we thought " Oh , come on . "
+
+dialogue type : fh
+C :  But .
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  we weren't .
+
+dialogue type : s
+C :  That 's why we increased the error rate .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Anyway , it 's colloquial ,
+
+dialogue type : s
+C :  an and and , uh , it 's it 's interesting to hear that that someone coming from a different direction it s it sounds the way it sounds to you .
+
+dialogue type : s
+C :  But but , uh , I I 'd never heard that before .
+
+dialogue type : s^ba
+C :  So , so i so , that 's interesting .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+C :  Just so it doesn't when the microphone 's dead , it doesn't put out zeros ?
+
+dialogue type : qrr.%--
+C :  Or ?
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s
+C :  Johnson noise ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk|s^nd.%-
+C : 
+
+dialogue type : s
+C :  There 's tea , also , though .
+
+dialogue type : s^cs
+C :  So , maybe we should maybe we should do a , uh , simultaneous digits digits read . In the interest of of getting the snacks .
+
+dialogue type : s^bk|qy^bh^d^rt
+C :  Oh , you never have ?
+
+dialogue type : s^ba
+C :  Oh , it 's a treat .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : z
+C :  OK , another successful babble .
+

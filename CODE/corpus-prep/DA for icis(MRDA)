@@ -1,0 +1,103 @@
+Background noise: 0 : Back channel;Stall;Fragment
+--------------------------------------
+Indecipherable = %
+Abandoned = %--
+Interuption = %-
+Nonspeech = x
+Downplayer = bd
+Misspeak Correction = bc
+Rhetorical-Question Backchannel = bh
+Backchannel = b
+Self-talk = t1
+3rd-Party talk = t3
+Dispreferred answers = nd
+
+
+
+Information Exchange = 1 (0) : Inform;Elicit-Inform
+--------------------------------------
+Statement = s
+Subjective Statement = s
+Narrative-affirmative Answers = na
+Narrative-negative Answers = ng
+No Knowledge Answers = no
+Acknowledgement = bk
+Collaborative-Completion = 2
+
+
+
+
+Acts about possible actions = 2 (1) : Suggest; Offer;Elicit-Offer-or-Suggest
+--------------------------------------
+Suggestion = cs
+Command = co
+Topic Change = tc
+Narrative-affirmative Answers = na
+Narrative-negative Answers = ng
+
+
+
+Comment on Previous discussions (Assessment) = 3 (2)
+Accept-Offer;
+Agreement-Disagreement;
+Opinion-about-some-Information;
+Uncertainty-about-Suggestion;
+Evaluate Actions;
+Comment-about-Understanding;
+--------------------------------------
+Commit (self-inclusive) = cc
+Accept, Yes Answers = aa
+Understanding Check = bu
+Repeat = r
+Reformulation = bs
+Partial Accept = aap
+Partial Reject = arp
+Maybe = am
+Reject, No Answers = ar
+Signal Non Understanding = br
+Defending/Explanation = df
+Expansion/Supporting addition = e
+
+
+
+
+Social Acts (Emotional Feelings) = 4 : Be-Positive;Be-Negative
+--------------------------------------
+Exclamation = fe
+Thanks = ft
+Welcome = fw
+Apology = fa
+Appreciation = ba
+Sympathy = by
+Humorous Material = j
+
+
+other: 5
+------------
+Nonlabeles = z
+Hold = h
+Mimic = m
+Follow Me = f
+Floor-Holder = fh
+Floor-Grabber = fg
+Misspeak Self-Correction = bsc
+Task Management = t
+
+
+Questions: -1 (does not exist in AMI)
+---------------
+Wh-Question = qw
+Y/N Question = qy
+Open-Ended Question = qo
+or Question = qr
+Or Clause After Y/N Question = qrr
+Rhetorical Question = qh
+Declarative-Question = d
+Tag Question = g
+
+
+
+
+
+
+

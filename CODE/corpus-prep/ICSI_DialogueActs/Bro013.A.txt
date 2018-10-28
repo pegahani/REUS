@@ -1,0 +1,1098 @@
+dialogue type : z
+A :  We 're going ?
+
+dialogue type : z
+A :  OK .
+
+dialogue type : z
+A :  Sh - Close your door on door on the way out ?
+
+dialogue type : z
+A :  Thanks .
+
+dialogue type : z
+A :  Yeah .
+
+dialogue type : z
+A :  Probably wanna get this other door , too .
+
+dialogue type : fg
+A :  OK .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : fh|qw^rt^t
+A :  Um . What are we talking about today ?
+
+dialogue type : s^bk|s
+A :  Oh , yeah . That was kind of uh interesting .
+
+dialogue type : s.%--
+A :  The both the uh the SRI System and the oth
+
+dialogue type : s
+A :  And for one thing that that sure shows the difference between having a lot of uh training data or not ,
+
+dialogue type : fh|s
+A :  uh , the uh The best kind of number we have on the English uh on near microphone only is is uh three or four percent .
+
+dialogue type : fh|s
+A :  And uh it 's significantly better than that , using fairly simple front - ends on on the uh uh , with the SRI system .
+
+dialogue type : s.%--
+A :  So I th I think that the
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  But that 's that 's using uh a a pretty huge amount of data ,
+
+dialogue type : s
+A :  mostly not digits , of course ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fg
+A :  Well , yeah .
+
+dialogue type : s
+A :  In fact , mostly not digits for the actual training the H M Ms whereas uh in this case we 're just using digits for training the H M
+
+dialogue type : qr
+A :  Did anybody mention about whether the the SRI system is a is is doing the digits um the wor as a word model or as uh a sub s sub - phone states ?
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^aap
+A :  Probably .
+
+dialogue type : qy^d^g
+A :  Huh ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  That 's true .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bu|qy^d^g
+A :  It 's tha it 's that much , huh ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  Still .
+
+dialogue type : s^cs.%--
+A : 
+
+dialogue type : s
+A :  I guess that somebody 's gonna do this ,
+
+dialogue type : qy^d^g
+A : 
+
+dialogue type : s^cs
+A :  is to take some of these tandem things and feed it into the SRI system ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : fg
+A :  Yeah ,
+
+dialogue type : s|qy^d^g
+A :  but he 's doing it with the same data , right ?
+
+dialogue type : s
+A :  I mean so to So there 's there 's there 's two things being affected .
+
+dialogue type : s
+A :  I mean . One is that that , you know , there 's something simple that 's wrong with the back - end .
+
+dialogue type : s
+A :  We 've been playing a number of states
+
+dialogue type : fh|s
+A :  uh I I don't know if he got to the point of playing with the uh number of Gaussians yet
+
+dialogue type : fh
+A :  but but uh ,
+
+dialogue type : fh
+A :  uh , you know .
+
+dialogue type : s
+A :  But , yeah , so far he hadn't gotten any big improvement ,
+
+dialogue type : s^df
+A :  but that 's all with the same amount of data which is pretty small .
+
+dialogue type : fh
+A :  And um .
+
+dialogue type : s^na|s^ng
+A :  Well , you could do that , but I 'm saying even with it not with that part not retrained ,
+
+dialogue type : s
+A :  just just using having the H M Ms much better H M
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : fh|s^co
+A :  Um . But just train those H M Ms using different features ,
+
+dialogue type : s^e
+A :  the features coming from our Aurora stuff .
+
+dialogue type : x
+A :  So .
+
+dialogue type : b
+A :  Well , yeah .
+
+dialogue type : s^fa
+A :  I I I 'm sorry .
+
+dialogue type : qw
+A :  What what is the problem that you 're trying to explain ?
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Oh .
+
+dialogue type : qy^2^cs^d^rt
+A :  So much worse ?
+
+dialogue type : fg
+A :  Oh .
+
+dialogue type : s
+A :  I uh but I 'm I 'm almost certain that it it I mean , that it has to do with the um amount of training data .
+
+dialogue type : s
+A :  It it 's it 's orders of magnitude off .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  If if you look at what
+
+dialogue type : s^ng
+A :  This is a modest amount of data .
+
+dialogue type : fh|s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  But if you have a huge amount of data then you 're going to have many occurrences of similar uh allophones .
+
+dialogue type : s
+A :  And that 's just a huge amount of training for it .
+
+dialogue type : fh|s
+A :  So it 's um I I think it has to be that , because , as you say , this is , you know , this is near - microphone ,
+
+dialogue type : s^rt
+A :  it 's really pretty clean data .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s.%--
+A :  Now , some of it could be the fact that
+
+dialogue type : fh
+A : 
+
+dialogue type : qy^rt
+A :  let 's see , in the in these multi - train things did we include noisy data in the training ?
+
+dialogue type : s
+A :  I mean , that could be hurting us actually , for the clean case .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^na
+A :  Cuz this is clean data ,
+
+dialogue type : s
+A :  and so that 's not too surprising .
+
+dialogue type : fh
+A :  But um . Uh .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw
+A :  What kind of numbers are we getting on TI - digits ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s^bu
+A :  So in the actual TI - digits database we 're getting point eight percent ,
+
+dialogue type : s
+A :  and here we 're getting three or four three ,
+
+dialogue type : qy^d
+A :  let 's see , three for this ?
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^bk|s.%--
+A :  Sure , but I mean ,
+
+dialogue type : fh|s
+A :  um point eight percent is something like double uh or triple what people have gotten who 've worked very hard at doing that .
+
+dialogue type : s
+A :  And and also , as you point out , there 's adaptation in these numbers also .
+
+dialogue type : s^cs
+A :  So if you , you know , put the ad adap take the adaptation off , then it for the English - Near you get something like two percent .
+
+dialogue type : s
+A :  And here you had , you know , something like three point four .
+
+dialogue type : s
+A :  And I could easily see that difference coming from this huge amount of data that it was trained on .
+
+dialogue type : %--
+A : 
+
+dialogue type : s
+A :  You know , I don't think there 's anything magical here .
+
+dialogue type : s^bs
+A :  It 's , you know , we used a simple HTK system with a modest amount of data .
+
+dialogue type : s
+A :  And this is a a , you know , modern uh system
+
+dialogue type : s
+A :  uh has has a lot of nice points to it .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : fh|s
+A :  So . I mean , the HTK is an older HTK , even .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  Yeah it it 's not that surprising .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  Cuz we 've had the problem before that you get show some nice improvement on something that 's that 's uh , uh it seems like too large a number ,
+
+dialogue type : fh|s
+A :  and uh uh people don't necessarily take it so seriously .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s.%--
+A :  So the three point four percent for this uh is is
+
+dialogue type : fh
+A : 
+
+dialogue type : qw.%--
+A : 
+
+dialogue type : s
+A :  It 's an interesting question though , still .
+
+dialogue type : qw
+A :  Why is why is it three point four percent for the d the digits recorded in this environment as opposed to the uh point eight percent for for for the original TI - digits database ?
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  Yeah . So ignore ignoring the the the SRI system for a moment ,
+
+dialogue type : s
+A :  just looking at the TI - di the uh tandem system ,
+
+dialogue type : s
+A :  if we 're getting point eight percent , which , yes , it 's high .
+
+dialogue type : s
+A :  It 's , you know , it it 's not awfully high ,
+
+dialogue type : s
+A :  but it 's , you know it 's it 's high .
+
+dialogue type : fh|qw
+A :  Um . Why is it uh four times as high , or more ?
+
+dialogue type : qy^d^f^g
+A :  Right ?
+
+dialogue type : s
+A :  I mean , there 's even though it 's close - miked there 's still there really is background noise .
+
+dialogue type : fh|s
+A :  Um . And uh I suspect when the TI - digits were recorded if somebody fumbled or said something wrong or something that they probably made them take it over .
+
+dialogue type : s
+A :  It was not I mean there was no attempt to have it be realistic in any in any sense at all .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^t3
+A :  Bless you .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fg
+A :  So . Yes .
+
+dialogue type : s
+A :  It 's I think it 's it 's the indication it 's harder .
+
+dialogue type : fh|s
+A :  Uh . Yeah and again , you know , i that 's true either way .
+
+dialogue type : s
+A :  I mean so take a look at the uh um , the SRI results .
+
+dialogue type : s
+A :  I mean , they 're much much better ,
+
+dialogue type : s
+A :  but still you 're getting something like one point three percent for uh things that are same data as in T TI - digits the same same text .
+
+dialogue type : fh|s
+A :  Uh . And uh , I 'm sure the same same system would would get , you know , point point three or point four or something on the actual TI - digits .
+
+dialogue type : s
+A :  So this I think , on both systems the these digits are showing up as harder .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fh|s
+A :  uh I mean it 's still read .
+
+dialogue type : s
+A :  But I still think it 's much closer to to what what people actually face , um when they 're they 're dealing with people saying digits over the telephone .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I mean , I 'm sure they wouldn't release the numbers ,
+
+dialogue type : s
+A :  but I don't think that uh the uh the the companies that that do telephone speech get anything like point four percent on their digits .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fh|s.%--
+A :  Uh , I mean , for one thing people do phone up who don't have uh uh Middle America accents and
+
+dialogue type : s
+A :  it 's a we we it 's it 's it 's US .
+
+dialogue type : s
+A :  it has has many people who sound in many different ways .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : fh
+A :  I mean .
+
+dialogue type : fg
+A :  OK .
+
+dialogue type : s^tc
+A :  That was that topic .
+
+dialogue type : qw^t^tc
+A :  What else we got ?
+
+dialogue type : qy
+A :  Did we end up giving up on on , any Eurospeech submissions ,
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : s
+A :  I know Thilo and Dan Ellis are are submitting something ,
+
+dialogue type : fh
+A :  but uh .
+
+dialogue type : s.%--
+A :  Um . Now , actually for the for the Aur - uh
+
+dialogue type : s|qy^d^g
+A :  we do have stuff for Aurora , right ?
+
+dialogue type : s
+A :  Because because we have ano an extra month or something .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  Well , that 's fine .
+
+dialogue type : s
+A :  So th so so we have a couple a couple little things on Meeting Recorder
+
+dialogue type : s
+A :  and we have We don't we don't have to flood it with papers .
+
+dialogue type : s
+A :  We 're not trying to prove anything to anybody .
+
+dialogue type : fh
+A :  so .
+
+dialogue type : s
+A :  That 's fine .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : qo^d^rt
+A :  Anything else ?
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw^rt
+A :  So wha where did this good VAD come from ?
+
+dialogue type : qy^bu^d
+A :  This is the one they had originally ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^bk|s
+A :  Yeah , but they had to get rid of it because of the space ,
+
+dialogue type : qy^g
+A :  didn't they ?
+
+dialogue type : s^ng
+A :  Well . So that 's a problem .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s^cs
+A :  But the other thing is uh to use a different VAD entirely .
+
+dialogue type : %--
+A : 
+
+dialogue type : s^no
+A :  I I don't know what the thinking was amongst the the the the ETSI folk
+
+dialogue type : fh|s.%-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^2
+A :  Determined .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s^df
+A :  But I was thinking that that uh s " Sure , there may be some interaction ,
+
+dialogue type : s^ng
+A :  but I don't think we need to be stuck on using our or OGI 's VAD .
+
+dialogue type : s^cs
+A :  We could use somebody else 's if it 's smaller
+
+dialogue type : fh
+A : 
+
+dialogue type : s^df
+A :  You know , as long as it did the job .
+
+dialogue type : s^ba
+A :  So that 's good .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bu|qy^d^g
+A :  You didn't gain anything , right ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bu
+A :  So that means logically , in principle , it should be better .
+
+dialogue type : qy^bu^d^rt
+A :  So probably it 'll be worse .
+
+dialogue type : s
+A :  Or in the basic perverse nature uh of reality .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : x
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : b
+A :  Huh ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : fg
+A :  Uh .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  None of these axes are labeled ,
+
+dialogue type : s^no.%--
+A : 
+
+dialogue type : qw^rt
+A :  What 's this axis ?
+
+dialogue type : s^bk^m^rt
+A :  Frame .
+
+dialogue type : qw^rt
+A :  And what 's th what this ?
+
+dialogue type : s^bu
+A :  For this one .
+
+dialogue type : s^bu.%-
+A :  For the noi
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^bu
+A :  There 's two things on the same graph .
+
+dialogue type : qw^rt
+A :  So w which is clean and which is noise ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  So it 's harder to distinguish
+
+dialogue type : s.%--
+A :  but it but it g
+
+dialogue type : s
+A :  with noise of course
+
+dialogue type : %--
+A : 
+
+dialogue type : fh
+A :  Uh .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Uh - huh .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yeah
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : qy^bu^d^rt
+A :  And this is the difference ?
+
+dialogue type : s
+A :  No pre - emphasis ?
+
+dialogue type : qy^d^g^rt
+A :  Yeah .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  doesn't do too well there .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : qy.%--
+A : 
+
+dialogue type : s
+A :  I know you want to get at something orthogonal from what you get with the smooth spectrum
+
+dialogue type : fh|qy^rt
+A :  Um . But if you were to really try and get a voiced - unvoiced , do you do you want to totally ignore that ?
+
+dialogue type : qy.%--
+A : 
+
+dialogue type : s
+A :  I mean , clearly a a very big very big cues for voiced - unvoiced come from uh spectral slope and so on ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I mean , certainly if you want to do good voiced - unvoiced detection , you need a few features .
+
+dialogue type : s
+A :  Each each feature is by itself not enough .
+
+dialogue type : fh|s
+A :  But , you know , people look at at slope and uh first auto - correlation coefficient , divided by power .
+
+dialogue type : fh
+A :  Or or uh
+
+dialogue type : fh
+A :  um
+
+dialogue type : s.%--
+A : 
+
+dialogue type : qy^d^rt
+A :  I guess we prob probably don't have enough computation to do a simple pitch detector or something ?
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fh
+A :  Uh .
+
+dialogue type : s^cs
+A :  Or maybe you could you just do it going through the P FFT 's figuring out some um probable um harmonic structure .
+
+dialogue type : qy^d^g^rt
+A :  Right .
+
+dialogue type : fh
+A :  And and uh .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s
+A :  That 's as as a separate thing .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : qy^bu^d
+A :  Separate thing ?
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^am
+A :  Maybe so .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : %--
+A : 
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : s^cs
+A :  What I was talking about was just , starting with the FFT
+
+dialogue type : s^cs
+A :  you could you could uh do a very rough thing to estimate estimate uh pitch .
+
+dialogue type : fh|s
+A :  And uh uh , given you know , given that , uh you could uh uh come up with some kind of estimate of how much of the low frequency energy was was explained by by uh uh those harmonics .
+
+dialogue type : fh
+A :  Uh .
+
+dialogue type : s^df
+A :  It 's uh a variant on what you 're s what you 're doing .
+
+dialogue type : s^df
+A :  The I mean , the the the mel does give a smooth thing .
+
+dialogue type : s
+A :  But as you say it 's not that smooth here .
+
+dialogue type : s^cs
+A :  And and so if you if you just you know subtracted off uh your guess of the harmonics then something like this would end up with quite a bit lower energy in the first fifteen hundred hertz or so
+
+dialogue type : s^e
+A :  and and our first kilohertz , even .
+
+dialogue type : fh|s.%--
+A :  And um if was uh noisy , the proportion that it would go down would be
+
+dialogue type : s
+A :  if it was if it was unvoiced or something .
+
+dialogue type : s
+A :  So you oughta be able to pick out voiced segments .
+
+dialogue type : s
+A :  At least it should be another another cue .
+
+dialogue type : %
+A :  So . Anyway .
+
+dialogue type : fg
+A :  OK ?
+
+dialogue type : s^rt
+A :  That 's what 's going on .
+
+dialogue type : fh
+A :  Uh .
+
+dialogue type : qo^tc
+A :  What 's up with you ?
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : fg
+A :  OK .
+
+dialogue type : fh|s^tc
+A :  Um . I think we 're sort of done .
+
+dialogue type : s^co^t
+A :  So let 's read our digits and go home .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^ar
+A :  No . " O " " O " " O "
+
+dialogue type : s^nd
+A :  " O " " O " " O " and " zero " are two ways that we say that digit .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%-
+A :  so it 's i
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s
+A :  I mean . I think people will do what they say .
+
+dialogue type : s
+A :  It 's OK .
+
+dialogue type : s
+A :  I mean in digit recognition we 've done before , you have you have two pronunciations for that value , " O " and " zero " .
+
+dialogue type : s^nd.%--
+A : 
+
+dialogue type : s
+A :  they they write down OH .
+
+dialogue type : s
+A :  or they write down ZERO
+
+dialogue type : s
+A :  a and they and they each have their own pronunciation .
+
+dialogue type : s^nd.%--
+A :  But people wouldn't know what that wa
+
+dialogue type : s^df
+A :  I mean there is no convention for it .
+
+dialogue type : s.%--
+A :  See . I mean , you 'd have to tell them " OK when we write this , say it tha " ,
+
+dialogue type : qy^d^f^g
+A :  you know ,
+
+dialogue type : s
+A :  and you just They just want people to read the digits as you ordinarily would
+
+dialogue type : s
+A :  and and people say it different ways .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : s^aa
+A :  That 's right .
+
+dialogue type : s^na
+A :  It was it was spelled out , and they decided they wanted to get at more the way people would really say things .
+
+dialogue type : s
+A :  That 's also why they 're they 're bunched together in these different groups .
+
+dialogue type : %--
+A : 
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : %--
+A : 
+
+dialogue type : s
+A :  Everything 's fine .
+
+dialogue type : fh
+A :  OK .
+
+dialogue type : s
+A :  Actually , let me just s since since you brought it up , I was just it was hard not to be self - conscious about that when it after we since we just discussed it .
+
+dialogue type : s
+A :  But I realized that that um when I 'm talking on the phone , certainly , and and saying these numbers , I almost always say zero .
+
+dialogue type : s
+A :  And uh cuz because uh i it 's two syllables .
+
+dialogue type : s
+A :  It 's it 's more likely they 'll understand what I said .
+
+dialogue type : s
+A :  So that that that 's the habit I 'm in ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^na
+A :  Yeah it 's shorter .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fh
+A :  So it 's So . So uh .
+
+dialogue type : s^co
+A :  Now , don't think about it .
+
+dialogue type : s
+A :  OK .
+
+dialogue type : s^t
+A :  We 're done .
+

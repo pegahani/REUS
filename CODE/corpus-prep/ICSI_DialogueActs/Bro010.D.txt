@@ -1,0 +1,126 @@
+dialogue type : s^2
+D :  Yesterday
+
+dialogue type : s
+D :  Yesterday morning on video conference .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^2
+D :  To improve
+
+dialogue type : %
+D : 
+
+dialogue type : s.%-
+D :  The low f f
+
+dialogue type : s
+D :  Also we were thinking to to , uh , apply the eh , spectral subtraction from Ericsson
+
+dialogue type : s
+D :  and to to change the contextual KLT for LDA .
+
+dialogue type : s
+D :  The contextual KLT .
+
+dialogue type : s
+D : 
+
+dialogue type : s^r
+D :  KLT ,
+
+dialogue type : s^fa
+D :  I 'm sorry .
+
+dialogue type : s
+D :  Uh , to change and use LDA discriminative .
+
+dialogue type : fh
+D : 
+
+dialogue type : fh
+D :  I don't know .
+
+dialogue type : h
+D : 
+
+dialogue type : s^am
+D :  S maybe .
+
+dialogue type : s^am^r
+D :  Maybe .
+
+dialogue type : s.%-
+D :  We was think
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : %-
+D :  we no nnn
+
+dialogue type : s
+D :  We we was thinking to do before after VAD
+
+dialogue type : fh
+D :  or
+
+dialogue type : s^no
+D :  Oh , we don't know exactly when it 's better .
+
+dialogue type : s
+D :  Before after VAD
+
+dialogue type : %--
+D : 
+
+dialogue type : s.%-
+D :  and then
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^2
+D :  Begin to work .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : s^no
+D :  I don't remember .
+
+dialogue type : s^am
+D :  Hmm , maybe .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  It 's the same .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^2
+D :  A dictionary .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^na
+D :  I think so .
+
+dialogue type : s^df
+D :  I have not here the proposal .
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : s^df
+D :  I do I have not here the proposal .
+

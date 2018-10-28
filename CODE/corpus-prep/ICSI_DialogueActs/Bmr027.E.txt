@@ -1,0 +1,558 @@
+dialogue type : z
+E :  That 's good .
+
+dialogue type : s.%-
+E :  Spanish .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%-
+E :  The non - native
+
+dialogue type : s^r.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  And nobody nobody really reads it anyway .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I 'm not as diligent as Chuck ,
+
+dialogue type : s
+E :  but I had the feeling I should probably respond
+
+dialogue type : s:s
+E :  and tell Adam , like , " I got this and I will do it by this date ,
+
+dialogue type : s^cs:s
+E :  and if you don't hear from me by then " You know , in other words responding to your email once , right away , saying " as soon as you get this could you please respond . "
+
+dialogue type : s^cs^rt
+E :  And then if you if the person thinks they 'll need more time because they 're out of town or whatever , they can tell you at that point ?
+
+dialogue type : %-
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bk|s.%-
+E : 
+
+dialogue type : s
+E :  Or they they might never have gotten the email ,
+
+dialogue type : s^df
+E :  because although they signed this , they don't know by which date to expect your email .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  in internally we know that people are there ,
+
+dialogue type : s
+E :  but we have no confirmation that they got the mail .
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  It we 're hoping that doesn't happen ,
+
+dialogue type : s
+E :  but that 's why there 's such a thing as registered mail
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  You 'll either wonder at the beginning or you 'll wonder at the end .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I It 's pretty much the same am amount of work
+
+dialogue type : s
+E :  except for an additional email just saying they got the email .
+
+dialogue type : s^am^cs.%--
+E : 
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^2
+E :  Or the date at which they would be receiving the email from you .
+
+dialogue type : s
+E :  They probably forgot all about it .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^j
+E :  That 's why you never open these things that come in the mail .
+
+dialogue type : s
+E :  The other thing that there 's a psychological effect that at least for most people , that if they 've responded to your email saying " yes , I will do it " or " yes , I got your email " , they 're more likely to actually do it later than to just ignore it .
+
+dialogue type : s
+E :  And of course we don't want them to bleep things out ,
+
+dialogue type : s
+E :  but it it 's a little bit better if we 're getting the their , uh , final response , once they 've answered you once than if they never answer you 'd at al at all .
+
+dialogue type : s
+E :  That 's how these mailing houses work .
+
+dialogue type : s
+E :  So , I mean , it 's not completely lost work
+
+dialogue type : s
+E :  because it might benefit us in terms of getting responses .
+
+dialogue type : s
+E :  You know , an official OK from somebody is better than no answer , even if they responded that they got your email .
+
+dialogue type : s
+E :  And they 're probably more likely to do that once they 've responded that they got the email .
+
+dialogue type : s^2
+E :  Then they just come back .
+
+dialogue type : s
+E :  Same as us .
+
+dialogue type : s^aa|s
+E :  Right . That would that would definitely work on me .
+
+dialogue type : s.%--
+E :  You know , it makes you feel m like ,
+
+dialogue type : fh
+E :  um ,
+
+dialogue type : s
+E :  if you were gonna p if you 're predicting that you might not answer , you have a chance now to say that .
+
+dialogue type : s.%--
+E :  Whereas , I I mean , I would be much more likely myself ,
+
+dialogue type : s:s
+E :  given all my email , t to respond at that point , saying " you know what , I 'm probably not gonna get to it " or whatever ,
+
+dialogue type : s
+E :  rather than just having seen the email , thinking I might get to it ,
+
+dialogue type : s
+E :  and never really , uh , pushing myself to actually do it until it 's too late .
+
+dialogue type : s^aa
+E :  Right . R Right . That 's true .
+
+dialogue type : s^aa
+E :  Yeah . That 's true .
+
+dialogue type : s^aa|s
+E :  Yeah . You have to do all of them ,
+
+dialogue type : s^e
+E :  as well as all of these .
+
+dialogue type : s^cs
+E :  You have to do all You could just do it in that time period , though ,
+
+dialogue type : s^bd
+E :  but I guess it 's a pain .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^aa|s^na
+E :  Yeah . You 're right .
+
+dialogue type : s^cs^j^t3
+E :  Then someday we can sell the unedited versions .
+
+dialogue type : s^aa^j^t3
+E :  Right . Exactly . I see .
+
+dialogue type : s^ba
+E :  See , this is good .
+
+dialogue type : s^rt
+E :  I wanted to create some side conversations in these meetings .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^aa
+E :  Yeah . Yeah .
+
+dialogue type : s^ba^df
+E :  Cuz we don't have enough asides .
+
+dialogue type : s^aa|s.%--
+E : 
+
+dialogue type : s^ba^j
+E :  H - good old HMM .
+
+dialogue type : s^ar|s
+E :  No , it 's backward - forward .
+
+dialogue type : %-
+E :  Uh .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^cs
+E :  You might as well just respond to the mail .
+
+dialogue type : %-
+E :  I mean
+
+dialogue type : s^tc
+E :  Quick question .
+
+dialogue type : qy.%-
+E : 
+
+dialogue type : qy^rt
+E :  Don't you use VI
+
+dialogue type : s^e.%-
+E :  for your mai ?
+
+dialogue type : s^r^tc
+E :  Anyway , quick question .
+
+dialogue type : qw.%-
+E :  How m
+
+dialogue type : s.%-
+E :  Like , there were three meetings this time , or so
+
+dialogue type : qw
+E :  or how many ?
+
+dialogue type : s^bk^rt
+E :  Six ?
+
+dialogue type : s
+E :  But , no of different people .
+
+dialogue type : s^ba
+E :  So I guess if you 're in both these types of meetings , you 'd have a lot .
+
+dialogue type : qw.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^ba
+E :  Like , if we release this time it 's a fairly small number of meetings ,
+
+dialogue type : qh^cs
+E :  but what if we release , like , twenty - five meetings to people ?
+
+dialogue type : %-
+E :  In th
+
+dialogue type : s^bd^no
+E :  I don't know .
+
+dialogue type : s^bk
+E :  Oh . Oh , OK .
+
+dialogue type : s|s^bk
+E :  So this time was just the first chunk . OK .
+
+dialogue type : s^ba
+E :  Well , that 's a good idea .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qy^bu^d^rt.%--
+E :  Wait . So you put the reference files ?
+
+dialogue type : qrr.%-
+E :  Or the ?
+
+dialogue type : s^ar|s
+E :  No , I mean of the transcripts .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s^cs
+E :  Well , we can talk about it off - line .
+
+dialogue type : s.%--
+E :  I think they 're doing w
+
+dialogue type : qy^bu^rt
+E :  didn't they want to do language modeling on , you know , recognition - compatible transcripts
+
+dialogue type : qrr.%--
+E :  or ?
+
+dialogue type : b
+E :  Right .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^cs
+E :  We should order a cou uh , t two or three or four , actually .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^cs
+E :  Sh - Just get the model number
+
+dialogue type : %--
+E : 
+
+dialogue type : qw^rt
+E :  Where do you buy these from ?
+
+dialogue type : %--
+E :  Like ?
+
+dialogue type : s.%--
+E :  You just b go and b
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : s^ba
+E :  That 'd be a good idea .
+
+dialogue type : s^ba
+E :  That 's a great ambiguity .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  it 's it 's social
+
+dialogue type : s^e
+E :  and , uh , discourse level
+
+dialogue type : fh
+E : 
+
+dialogue type : s^fa
+E :  Sorry .
+
+dialogue type : s:s
+E :  See , if I had that little scratch - pad , I would have made an X there .
+
+dialogue type : s
+E :  It was while I was out of town .
+
+dialogue type : s^cs^rt
+E :  I think we need , like , another eighteen gig disk to be safe .
+
+dialogue type : %-
+E :  So .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : %-
+E :  Uh , i
+
+dialogue type : qw
+E :  Do when when is this planned for roughly ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : fg
+E : 
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Good .
+
+dialogue type : s
+E :  Well , each meeting is like a gig or something ,
+
+dialogue type : s.%-
+E : 
+
+dialogue type : qw
+E :  How long does it take you to save the data ?
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^cs
+E :  Guess we should stop , like , twenty of at the latest .
+
+dialogue type : s
+E :  We we have another meeting coming in that they wanna record .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s^rt
+E :  It 's up to you .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : qw^rt
+E :  Wait . Why is everybody looking at me ?
+
+dialogue type : h|s^no
+E :  Uh . I 'm not sure what you were referring to .
+
+dialogue type : s^bk
+E :  Uh - huh .
+
+dialogue type : s^df
+E :  I wasn't here last week .
+
+dialogue type : s^fa
+E :  Sorry .
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : b
+E :  Hhh .
+
+dialogue type : s^bk
+E :  Oh . OK .
+
+dialogue type : fg|%-
+E : 
+
+dialogue type : s^rt.%--
+E : 
+
+dialogue type : %--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  You know , before we were working with these segments that were all synchronous
+
+dialogue type : s
+E :  and that caused a lot of problems
+
+dialogue type : s^df
+E :  because you have timed sp at on either side .
+
+dialogue type : s.%--
+E :  And so that 's sort of a
+
+dialogue type : s^cs
+E :  stage - two of trying the same kinds of alignments with the tighter boundaries with them is really the next step .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^ba
+E :  I guess , good news .
+
+dialogue type : s
+E :  We got our abstract accepted for this conference ,
+
+dialogue type : fh|s^bsc
+E :  um workshop ,
+
+dialogue type : s^e
+E :  ISCA workshop , in , um , uh , New Jersey .
+
+dialogue type : s^ba
+E :  And we sent in a very poor abstract ,
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^ba
+E :  very poor ,
+
+dialogue type : s^ba
+E :  very quick .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : s
+E :  but we 're hoping to have a paper for that as well ,
+
+dialogue type : s^ba.%-
+E : 
+
+dialogue type : s
+E :  The t paper isn't due until August .
+
+dialogue type : s
+E :  The abstracts were already due .
+
+dialogue type : s
+E :  So it 's that kind of workshop .
+
+dialogue type : s
+E : 
+
+dialogue type : s
+E :  sort of a different crowd ,
+
+dialogue type : s^df
+E :  and I think we 're the only people working on prosody in meetings so far ,
+
+dialogue type : s^ba
+E :  so that should be interesting .
+
+dialogue type : h|s
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  Uh , so it 's focused on using prosody in automatic systems
+
+dialogue type : s
+E :  and there 's a um , a web page for it .
+

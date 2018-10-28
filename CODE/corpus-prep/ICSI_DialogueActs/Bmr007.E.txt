@@ -1,0 +1,429 @@
+dialogue type : z
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah Yeah
+
+dialogue type : b
+E :  Yeah , yeah .
+
+dialogue type : b
+E :  Yeah , yeah .
+
+dialogue type : s^t3
+E :  He 's Yeah , yeah , yeah .
+
+dialogue type : b
+E :  Yeah
+
+dialogue type : sj^fe
+E :  Yes , yes !
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Yeah , yeah , I h I have this that infor I have th that information now .
+
+dialogue type : s
+E :  The the duration of eh of each of the overlaps .
+
+dialogue type : s^cc
+E :  M I I haven't averaged it now
+
+dialogue type : s^cc
+E :  but , uh I I will , uh I will do the the study of the with the with the program with the uh , the different , uh the , nnn , distribution of the duration of the overlaps .
+
+dialogue type : s^ng
+E :  mmm , Because the the uh , @ @ is @ @ .
+
+dialogue type : s^na.%--
+E :  The duration is , uh the variation the variation of the duration is uh , very big on the dat
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^na
+E :  Because , on your surface eh a bit of zone of overlapping with the duration eh , overlapped and another very very short .
+
+dialogue type : s
+E :  Uh , i probably it 's very difficult to to because the the overlap is , uh on is only the in the final " S " of the of the the fin the the end the end word of the , um previous speaker with the the next word of the the new speaker .
+
+dialogue type : s
+E :  Um , I considered that 's an overlap but it 's very short , it 's an " X " with a and the idea is probably , eh when eh when eh , we studied th th that zone , eh eh , we h we have eh eh confusion with eh eh noise .
+
+dialogue type : s
+E :  With eh that fricative sounds , but uh I have new information but I have to to study .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah , yeah , yeah .
+
+dialogue type : b
+E :  More , yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^2^aa
+E :  Is the same .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Is possible to get information from the rhythmic f from the ge , eh uh , files .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  The chair Yeah .
+
+dialogue type : s^aa
+E :  A video , yeah .
+
+dialogue type : s.%--
+E :  Only with eh uh ,
+
+dialogue type : s
+E :  but eh I I I think , eh when when , y I I saw the the the the speech from PDA and , eh close talker .
+
+dialogue type : s
+E :  I I think the there is a a great difference in the in the signal .
+
+dialogue type : fg|s
+E :  Um but eh I but eh I I I mean that eh eh in the in the mixed file you can find , uh zone with , eh great different , eh level of energy .
+
+dialogue type : fh|s
+E :  Um I I think for , eh algorithm based on energy , eh , that um h mmm , more or less , eh , like eh eh , mmm , first sound energy detector .
+
+dialogue type : h
+E :  eh nnn .
+
+dialogue type : s
+E :  When y you the detect the the the first at at the end of of the detector of , ehm princ um .
+
+dialogue type : qw^t1
+E :  What is the the name in English ?
+
+dialogue type : s.%-
+E :  the the , mmm , the de detector of , ehm of a word in the in the s in an isolated word in in the background That , uh
+
+dialogue type : s.%-
+E :  I mean that when when you use , eh eh any
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  I I think it 's probably to work well eh , because , eh you have eh , in the mixed files a great level of energy .
+
+dialogue type : s
+E :  eh and great difference between the sp speaker .
+
+dialogue type : s
+E :  And probably is not so easy when you use the the PDA , eh that Because the signal is , eh the in the e energy level .
+
+dialogue type : s
+E :  in in that , eh eh speech file is , eh more similar .
+
+dialogue type : s
+E :  between the different eh , speaker , um I I think is eh , it will i is my opinion .
+
+dialogue type : s
+E :  It will be , eh more difficult to to detect bass - tone energy .
+
+dialogue type : s
+E :  the the change .
+
+dialogue type : s.%-
+E :  I think that , um
+
+dialogue type : s^na
+E :  In the PDA .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  And the the another question , that when I review the the the work of Javier .
+
+dialogue type : s
+E :  I think the , nnn , the , nnn , that the idea of using a neural network to to get a broad class of phonetic , eh from , eh uh a candidate from the the the speech signal .
+
+dialogue type : s
+E :  If you have , eh uh , I 'm considering , only because Javier , eh only consider , eh like candidate , the , nnn , eh the silence , because it is the the only model , eh eh , he used that , eh eh nnn , to detect the the possibility of a a change between the between the speaker ,
+
+dialogue type : fh|s
+E :  Um another another research thing , different groups , eh working , eh on Broadcast News prefer to , eh to consider hypothesis eh between each phoneme .
+
+dialogue type : s
+E :  Because , I I I think it 's more realistic that , uh only consider the the the the silence between the speaker .
+
+dialogue type : s
+E :  Eh there there exists eh silence between between , eh a speaker .
+
+dialogue type : s
+E :  is is , eh eh acoustic , eh event , important to to consider .
+
+dialogue type : s
+E :  I I found that the , eh silence in in many occasions in the in the speech file ,
+
+dialogue type : s^cs
+E :  but , eh when you have , eh eh , two speakers together without enough silence between between them , eh I think eh is better to use the acoustic change detector basically and I I I IX or , mmm , BIC criterion for consider all the frames in my opinion .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah , yeah , yeah , yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah , yeah , yeah , yeah .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : fg|qy
+E :  But , eh do do you think that if you consider all the frames to apply the the , eh the BIC criterion to detect the the the different acoustic change , eh between speaker ,
+
+dialogue type : s^e
+E :  without , uh with , uh silence or with overlapping ,
+
+dialogue type : fh
+E :  uh ,
+
+dialogue type : s
+E :  I think like like , eh eh a general , eh eh way of process the the acoustic change .
+
+dialogue type : s
+E :  In a first step , I mean .
+
+dialogue type : s
+E :  An - and then , eh eh without considering the you you you , um you can consider the energy like a another parameter in the in the feature vector ,
+
+dialogue type : fh
+E :  eh .
+
+dialogue type : s
+E :  This this is the idea .
+
+dialogue type : s
+E :  And if , if you do that , eh eh , with a BIC uh criterion for example , or with another kind of , eh of distance in a first step , and then you , eh you get the , eh the hypothesis to the this change acoustic , eh to po process
+
+dialogue type : s
+E :  Because , eh eh , probably you you can find the the eh a small gap of silence between speaker with eh eh a ga mmm , small duration Less than , eh two hundred milliseconds for example
+
+dialogue type : s
+E :  and apply another another algorithm , another approach like , eh eh detector of ene , eh detector of bass - tone energy to to consider that , eh that , eh zone . of s a small silence between speaker ,
+
+dialogue type : s
+E :  or another algorithm to to process , eh the the segment between marks eh founded by the the the BIC criterion and applied for for each frame .
+
+dialogue type : s
+E :  I think is , eh nnn , it will be a an an a more general approach the if we compare with use , eh a neural net or another , eh speech recognizer with a broad class or or narrow class ,
+
+dialogue type : s
+E :  because , in my opinion eh it 's in my opinion , eh if you if you change the condition of the speech , I mean , if you adjust to your algorithm with a mixed speech file and to , eh to , eh adapt the neural net , eh used by Javier with a mixed file .
+
+dialogue type : s
+E :  uh With a m mixed file ,
+
+dialogue type : s^r
+E :  with a the mix , mix .
+
+dialogue type : s^fa
+E :  Sorry .
+
+dialogue type : s
+E :  And and then you you , eh you try to to apply that , eh , eh , eh , speech recognizer to that signal , to the PDA , eh speech file , I I think you will have problems , because the the the the condition you you will need t t I I suppose that you will need to to to retrain it .
+
+dialogue type : qy^bh
+E :  Really ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah !
+
+dialogue type : s^2
+E :  the candidate .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah Yeah .
+
+dialogue type : fh
+E :  But , eh
+
+dialogue type : s^fa
+E :  I I Sorry .
+
+dialogue type : s
+E :  I I have found that when when I I analyzed the the speech files from the , eh mike , eh from the eh close eh microphone , eh I found zones with a a different level of energy .
+
+dialogue type : s
+E :  including overlap zone .
+
+dialogue type : s^bsc
+E :  including .
+
+dialogue type : s
+E :  because , eh eh depend on the position of the of the microph of the each speaker to , eh , to get more o or less energy i in the mixed sign in the signal .
+
+dialogue type : s
+E :  and then , if you consider energy to to detect overlapping in in , uh , and you process the the in the the the speech file from the the the mixed signals .
+
+dialogue type : s^bsc
+E :  The mixed signals , eh .
+
+dialogue type : s
+E :  I I think it 's it 's difficult , um only to en with energy to to consider that in that zone We have eh , eh , overlapping zone Eh , if you process only the the energy of the , of each frame .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Ah , yeah .
+
+dialogue type : b
+E :  Yeah
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+

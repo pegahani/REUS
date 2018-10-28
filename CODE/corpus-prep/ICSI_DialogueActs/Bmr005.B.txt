@@ -1,0 +1,531 @@
+dialogue type : z
+B :  And it looks like you 've found a way of uh mapping the location to the without having people have to give their names each time ?
+
+dialogue type : z
+B : 
+
+dialogue type : z
+B : 
+
+dialogue type : z
+B :  I mean , are you going to write down that I sat here ?
+
+dialogue type : z
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qy^rt^t
+B :  Shall I shall I just start ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fh|s
+B :  Um , so , uh , he was interested in the question of you know , relating to his to the research he presented recently , um of inference structures ,
+
+dialogue type : fh|s^e
+B :  and uh , the need to build in , um , this this sort of uh mechanism for understanding of language .
+
+dialogue type : s.%--
+B :  And he gave the example in his talk about how um ,
+
+dialogue type : s
+B :  e a I 'm remembering it just off the top of my head right now ,
+
+dialogue type : s
+B :  but it 's something about how um , i " Joe slipped " you know , " John had washed the floor " or something like that .
+
+dialogue type : s^bd
+B :  And I don't have it quite right ,
+
+dialogue type : s^e
+B :  but that kind of thing ,
+
+dialogue type : s^rt:s
+B :  where you have to draw the inference that , OK , there 's this time sequence ,
+
+dialogue type : s
+B :  but also the the the causal aspects of the uh floor and and how it might have been the cause of the fall
+
+dialogue type : s
+B :  and that um it was the other person who fell than the one who cleaned it
+
+dialogue type : s^e
+B :  and it These sorts of things .
+
+dialogue type : fh|s
+B :  So , I looked through the transcript that we have so far , and um , fou identified a couple different types of things of that type
+
+dialogue type : fh|s
+B :  and um , one of them was something like uh , during the course of the transcript , um um , w we had gone through the part where everyone said which channel they were on and which device they were on ,
+
+dialogue type : fh|s:qy
+B :  and um , the question was raised " Well , should we restart the recording at this point ? "
+
+dialogue type : fh|s:s
+B :  And and Dan Ellis said , " Well , we 're just so far ahead of the game right now we really don't need to " .
+
+dialogue type : qh
+B :  Now , how would you interpret that without a lot of inference ?
+
+dialogue type : fh|s:s
+B :  So , the inferences that are involved are things like , OK , so , how do you interpret " ahead of the game " ?
+
+dialogue type : fh|s^co^rt
+B :  You know . So it 's the it 's i What you what you int what you draw you know , the conclusions that you need to draw are that space is involved in recording ,
+
+dialogue type : s^e
+B :  that um , i that i we have enough space ,
+
+dialogue type : s:s
+B :  and he continues , like " we 're so ahead of the game cuz now we have built - in downsampling " .
+
+dialogue type : s^co:s
+B :  So you have to sort of get the idea that um , " ahead of the game " is sp speaking with respect to space limitations ,
+
+dialogue type : s
+B :  that um that in fact downsampling is gaining us enough space ,
+
+dialogue type : s
+B :  and that therefore we can keep the recording we 've done so far .
+
+dialogue type : s
+B :  But there are a lot of different things like that .
+
+dialogue type : s^am
+B :  It 's possible .
+
+dialogue type : s^df
+B :  Uh , he was he he you know We met and he was gonna go and uh you know , y look through them more systematically
+
+dialogue type : s^e
+B :  and then uh meet again .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : fh|s
+B :  But , yeah , I think I think it was optimistic .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  I mentioned several that w had to do with implications drawn from intonational contours
+
+dialogue type : s
+B :  and that wasn't as directly relevant to what he 's doing .
+
+dialogue type : s^e
+B :  He 's interested in these these knowledge structures ,
+
+dialogue type : s^e
+B : 
+
+dialogue type : s^bk|s^nd
+B :  Yeah , I don't think I would make that leap ,
+
+dialogue type : s^df
+B :  because i in narratives , you know I mean , if you spell out everything in a narrative , it can be really tedious ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : s^fe
+B :  Oh .
+
+dialogue type : s^bu
+B :  That aspect .
+
+dialogue type : %
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  I you know , I I had several that had to do with backchannels and this wasn't one of them .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s:s
+B :  So he said , you know , " we 're ahead of the game , w we have built - in downsampling " .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Uh - huh .
+
+dialogue type : s^arp
+B :  But there are others that have backchannelling ,
+
+dialogue type : s
+B :  it 's just he was less interested in those .
+
+dialogue type : qy.%-
+B :  Can we
+
+dialogue type : s^arp.%-
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : qy^bu^rt
+B :  Wouldn't you get fainter reception out here ?
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : s^na
+B :  I am too .
+
+dialogue type : s^r
+B :  I am too .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^nd
+B :  And in fact , it is it is it is sensitive .
+
+dialogue type : s^t
+B :  I I came up with something from the Human Subjects people that I wanted to mention .
+
+dialogue type : s^bd
+B :  I mean , it fits into the m area of the mundane ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s:s
+B :  You know , I asked her very specifically about this clause of how , um , you know , it says " no individuals will be identified
+
+dialogue type : fh|s^e:s
+B :  uh , " in any publication using the data . "
+
+dialogue type : s:s
+B :  OK , well , individuals being identified ,
+
+dialogue type : s:s
+B :  let 's say you have a a snippet that says , " Joe s uh thinks such - and - such about about this field , but I think he 's wrongheaded . "
+
+dialogue type : s^cc:s
+B :  Now I mean , we 're we 're gonna be careful not to have the " wrongheaded " part in there ,
+
+dialogue type : s:s
+B :  but but you know , let 's say we say , you know , " Joe used to think so - and - so about this area , in his publication he says that but I think he 's changed his mind . " or whatever .
+
+dialogue type : s^df
+B :  Then the issue of of being able to trace Joe , because we know he 's well - known in this field , and all this and and tie it to the speaker , whose name was just mentioned a moment ago , can be sensitive .
+
+dialogue type : s^bs^cs
+B :  So I think it 's really really kind of adaptive and wise to not mention names any more than we have to
+
+dialogue type : s^df
+B :  because if there 's a slanderous aspect to it , then how much to we wanna be able to have to remove ?
+
+dialogue type : fg|sj.x
+B :  Well , my feeling on it was that it wasn't really important who said it ,
+
+dialogue type : qy^d^g
+B :  you know .
+
+dialogue type : s^bk
+B :  I understand .
+
+dialogue type : s^ba^df
+B :  No I just I just was suggesting that it 's not a bad policy p potentially .
+
+dialogue type : fh|s^co^tc
+B :  So , we need to talk about this later .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s
+B :  Yeah , depends on which one you mean .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^rt.%--
+B :  Does this ?
+
+dialogue type : qw^rt
+B :  So if you had an overlap involving three people , how many times was that counted ?
+
+dialogue type : %-
+B :  For
+
+dialogue type : s^bu
+B :  That would j just be one .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s.%-
+B :  But a a a th
+
+dialogue type : s.%-
+B : 
+
+dialogue type : fh|s^nd^r
+B :  Well , but a thousand taps in eight minutes is a l in twelve minutes is a lot .
+
+dialogue type : s^m
+B :  Silent .
+
+dialogue type : s^fe
+B :  Oh .
+
+dialogue type : s^bk
+B :  Oh , I see .
+
+dialogue type : fg
+B : 
+
+dialogue type : s^aap
+B :  Well , yeah , b yeah , I would say time bin .
+
+dialogue type : s
+B :  So my my goal is to get words with reference to a time bin , beginning and end point .
+
+dialogue type : s
+B :  And and sometimes , you know , it was like you could have an overlap where someone said something in the middle ,
+
+dialogue type : s
+B :  but , yeah , w it just wasn't important for our purposes to have it that i disrupt that unit in order to have , you know , a the words in the order in which they were spoken ,
+
+dialogue type : s
+B :  it would have it would have been hard with the interface that we have .
+
+dialogue type : s
+B :  Now , my a Adam 's working on a of course , on a revised overlapping interface ,
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Oh .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^t.%-
+B : 
+
+dialogue type : sj^bu
+B :  Was that um there m there was this already a script I believe uh that Dan had written , that uh handle bleedthrough ,
+
+dialogue type : fh|s^df
+B :  I mean cuz you have this this close you have contamination from other people who speak loudly .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  Yeah , having that be a preprocessor and then run it through yours .
+
+dialogue type : s^t
+B :  That 's what we were discussing .
+
+dialogue type : qy^rt
+B :  Is this proprietary ?
+
+dialogue type : qy
+B :  Well , I mean , is this something that we could just co - opt ,
+
+dialogue type : qrr.%--
+B :  or is it ?
+
+dialogue type : s^bk^m
+B :  No .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : sj
+B :  I just thought if it was tried and true , then and he 's gone through additional levels of of development .
+
+dialogue type : qy^rt
+B :  Can I ask one question about his statistics ?
+
+dialogue type : s
+B :  So so in the tw twelve minutes , um , if we took three hundred and divided it by four , which is about the length of twelve minutes , i Um , I 'd expect like there should be seventy - five overlaps .
+
+dialogue type : qr.%-
+B :  Did you find uh more than seventy - five overlaps in that period , or ?
+
+dialogue type : s^m.%--
+B : 
+
+dialogue type : qw
+B :  How many overlaps in your twelve minutes ?
+
+dialogue type : s^2
+B :  The overlaps .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^no
+B :  I 'm not sure .
+
+dialogue type : sj
+B :  I think it 's an empirical question .
+
+dialogue type : s^cs
+B :  I think we could find that out .
+
+dialogue type : s^no
+B :  I 'm I 'm not sure that the beginning had more .
+
+dialogue type : qy^rt
+B :  Is Brian Kingsbury 's work related to that ,
+
+dialogue type : qrr
+B :  or is it a different type of reverberation ?
+
+dialogue type : s
+B :  The a apparently I mean , we 're gonna do a revised form , of course .
+
+dialogue type : fh
+B :  Um
+
+dialogue type : s
+B :  but once a person has signed it once , then that 's valid for a certain number of meetings .
+
+dialogue type : s
+B :  She wanted me to actually estimate how many meetings and put that on the consent form .
+
+dialogue type : s
+B :  I told her that would be a little bit difficult to say .
+
+dialogue type : s
+B :  So I think from a s practical standpoint , maybe we could have them do it once every ten meetings , or something .
+
+dialogue type : s
+B :  It won't be that many people who do it that often ,
+
+dialogue type : fh|s
+B :  but um just , you know , so long as they don't forget that they 've done it , I guess .
+
+dialogue type : s
+B :  It 's also likely that people will cancel out afterwards .
+
+dialogue type : s^t
+B :  But I but I wanted to raise the KPFA idea .
+
+dialogue type : s^ba^fe
+B :  Wow !
+
+dialogue type : s
+B :  Yeah , we need to I think that there 's a possibility that the transcript will need to be adjusted afterwards ,
+
+dialogue type : s^e
+B :  and uh es especially since these people won't be uh used to dealing with multi - channel uh transcriptions .
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  And also if we wanna add things like um , well , more refined coding of overlaps , then definitely I think we should count on having an extra pass through .
+
+dialogue type : s
+B :  I wanted to ask another a a aspect of the data collection .
+
+dialogue type : s
+B :  There 'd be no reason why a person couldn't get together several uh , you know , friends ,
+
+dialogue type : s
+B :  and come and argue about a topic if they wanted to ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : sj
+B :  You could do this ,
+
+dialogue type : sj
+B :  you know . You could .
+
+dialogue type : s^cs
+B :  It seems like you could hold some meetings .
+
+dialogue type : s
+B :  You know , you and maybe Adam ?
+
+dialogue type : s^cs
+B :  You you could you could maybe hold some additional meetings , if you wanted .
+
+dialogue type : s^na
+B :  I agree .
+
+dialogue type : s
+B :  And Mari also ,
+
+dialogue type : s
+B :  we had This came up when she she was here .
+
+dialogue type : sj^ba
+B :  That 's important .
+
+dialogue type : s^ng
+B :  Well , you know , I I do think eating while you 're doing a meeting is going to be increasing the noise .
+
+dialogue type : s^df
+B :  But I had another question , which is um , you know , in principle , w um , I know that you don't want artificial topics ,
+
+dialogue type : s^cs
+B :  but um it does seem to me that we might be able to get subjects from campus to come down and do something that wouldn't be too artificial .
+
+dialogue type : s^e
+B :  I mean , we could political discussions , or or something or other ,
+
+dialogue type : fh
+B :  and
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  Because , you know , there 's also this constraint . We d
+
+dialogue type : s
+B :  it 's like , you know , the the uh goldibears goldi goldilocks ,
+
+dialogue type : s
+B :  it 's like you don't want meetings that are too large , but you don't want meetings that are too small .
+
+dialogue type : s^cs
+B :  And um a and it just seems like maybe we could exploit the subj human subject p p pool , in the positive sense of the word .
+
+dialogue type : s^cs
+B :  We could pay subjects .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^fe
+B :  Oh .
+
+dialogue type : s^ba
+B :  That 's good to know .
+
+dialogue type : s^ba^r
+B :  That 's good to know .
+

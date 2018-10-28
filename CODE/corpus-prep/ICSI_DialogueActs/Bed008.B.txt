@@ -1,0 +1,1719 @@
+dialogue type : z
+B :  OK .
+
+dialogue type : fg|%--
+B :  OK , so uh i um
+
+dialogue type : s
+B :  I don't know whether Ami 's coming or not
+
+dialogue type : fh
+B :  um
+
+dialogue type : s^co^t
+B :  but I think we oughta just get started .
+
+dialogue type : s^no
+B :  Don't know .
+
+dialogue type : b
+B :  Anyway
+
+dialogue type : fg
+B :  Oh ,
+
+dialogue type : s
+B :  so there you go .
+
+dialogue type : s^t^tc.%--
+B :  Anyway , so my idea f for today
+
+dialogue type : s
+B :  and we can uh decide that that isn't the right thing to do
+
+dialogue type : s^t
+B :  was to at spend at least part of the time trying to eh build the influence links ,
+
+dialogue type : s^e
+B :  you know which sets of things are uh relevant to which decisions
+
+dialogue type : s^cs
+B :  and actually I had uh specific s suggestion to start first with the path ones .
+
+dialogue type : s^df
+B :  The database ones being in some sense less interesting to us
+
+dialogue type : s^e
+B :  although probably have to be done
+
+dialogue type : s.%--
+B :  and so to do that
+
+dialogue type : s
+B :  so there 's and the idea was we were gonna do two things
+
+dialogue type : h
+B :  Ah .
+
+dialogue type : s^bk|%--
+B :  Oh right , well .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  We were gonna do two things
+
+dialogue type : s
+B :  one of which is just lay out the influence structure of what we think influences what
+
+dialogue type : s.%--
+B :  and then as a uh separate but related task
+
+dialogue type : s
+B :  uh particularly Bhaskara and I were going to try to decide what kinds of belief nodes are needed in order to um do what we what we need to do .
+
+dialogue type : %--
+B :  Once
+
+dialogue type : s^cs
+B :  so but du we should sort of have all of the uh basic design of what influences what done before we decide exactly how to compute it .
+
+dialogue type : qy^rt
+B :  So I didn't did you get a chance to look at all yet ?
+
+dialogue type : s^bk
+B :  Great .
+
+dialogue type : s^co^t
+B :  OK so let 's start with the uh belief - nets , the general influence stuff
+
+dialogue type : s^t
+B :  and then we 'll then we 'll also at some point break and talk about the techy stuff .
+
+dialogue type : s:qy
+B :  Oh are you gonna go there or not ?
+
+dialogue type : fh|s.%-
+B :  Yeah , so one i
+
+dialogue type : s^aa
+B :  Right ,
+
+dialogue type : s^aa
+B :  true .
+
+dialogue type : s^na
+B :  Does have to be there .
+
+dialogue type : s.%-
+B :  And I 'm sure we 'll find more as we go that
+
+dialogue type : fg
+B : 
+
+dialogue type : fg|s.%-
+B :  so there is this question about
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^na
+B :  When we 're yeah when we 're done .
+
+dialogue type : %--
+B :  So so
+
+dialogue type : s^df:s
+B :  the the reason it might not be true or false is that we did have this idea of when
+
+dialogue type : s
+B :  so it 's , you know uh current @ @ and so forth and so on or not at all ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : fh|s.%--:qy
+B :  And so that a decision would be do we want that
+
+dialogue type : s
+B :  so you could two different things you could do ,
+
+dialogue type : s^cs:s
+B :  you could have all those values for Go - there
+
+dialogue type : s^cs:qw
+B :  or you could have Go - there be binary and given that you 're going there when .
+
+dialogue type : s^aa
+B :  Yeah
+
+dialogue type : s^2
+B :  and so forth .
+
+dialogue type : s^co.%--
+B :  So I 'll let
+
+dialogue type : s^cc
+B :  we 'll see .
+
+dialogue type : s^aa|s^co
+B :  OK , that 's let 's start that way .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : fg
+B :  No uh
+
+dialogue type : qy^rt
+B :  You 've s have you seen this before at all Keith , these belief - net things ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^2
+B :  Or cheapness .
+
+dialogue type : s^ba^m
+B :  Thrift , that 's good .
+
+dialogue type : b
+B :  Great .
+
+dialogue type : fg|s
+B :  Yeah . So Keith w what 's behind this is actually a program that will once you fill all this in actually s solve your belief - nets for you and stuff .
+
+dialogue type : s
+B :  So this is not just a display ,
+
+dialogue type : s
+B :  this is actually a GUI to a simulator that will if we tell it all the right things we 'll wind up with a functioning belief - net at the other end .
+
+dialogue type : s^aa^m
+B :  Doesn't matter .
+
+dialogue type : s^co.%-
+B : 
+
+dialogue type : s^co
+B :  go ahead .
+
+dialogue type : fg|s
+B :  Well yeah . So here 's here 's what 's permissible
+
+dialogue type : s
+B :  is that you can arrange so that the um the value of that is gonna have to be updated
+
+dialogue type : s
+B :  and n it 's not a belief update ,
+
+dialogue type : qy^d^rt
+B :  right ?
+
+dialogue type : s
+B :  It 's you took some actions , you spent money and stuff ,
+
+dialogue type : s
+B :  so the update of that is gonna have to be essentially external to the belief - net .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : s.%--
+B :  And then what you 're going to need is uh for the things that it influences .
+
+dialogue type : s^co
+B :  Well let 's first of all let 's see if it does influence anything .
+
+dialogue type : s^cs
+B :  And if it does influence anything then you 're gonna need something that converts from the the number here to something that 's relevant to the decision there .
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  but for the moment this is just a node that is conditioned externally and might influence various things .
+
+dialogue type : s^bk
+B :  Well that 's fine .
+
+dialogue type : s^co^tc
+B :  Well anyway , go ahead .
+
+dialogue type : fg|s^ba
+B :  Yeah , that 's a good question .
+
+dialogue type : qy^rt
+B :  And uh does it have a lazy mode ?
+
+dialogue type : s^no
+B :  I don't remember .
+
+dialogue type : s^bk^fe
+B :  Oh right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  S probably does .
+
+dialogue type : b
+B :  Yeah
+
+dialogue type : s^co
+B :  someone has to track that down ,
+
+dialogue type : s.%--
+B :  but I but uh
+
+dialogue type : s^t1.%--
+B :  And and and I think actually uh
+
+dialogue type : s^cs
+B :  one of the we w items for the uh user home base uh should be uh essentially non - local .
+
+dialogue type : s
+B :  I they 're only there for the day and they don't have a place that they 're staying .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  So
+
+dialogue type : s
+B :  it 's clear where w w w where we are right now .
+
+dialogue type : s^cs^t^tc.%-
+B :  So my suggestion is we just pick uh
+
+dialogue type : s.%-
+B :  one , you know one uh particular one of the uh
+
+dialogue type : s^cs
+B :  well let 's do the first first one let 's do the one that we sort of already think we did
+
+dialogue type : qy^bu^d^rt
+B :  so w that was the of the endpoint ?
+
+dialogue type : s^ar|%-
+B :  No , that 's that 's a
+
+dialogue type : %-
+B :  although that
+
+dialogue type : %-
+B :  Well , that 's
+
+dialogue type : s
+B :  No , he has he hasn't filled them in yet , is what 's true .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^ar
+B :  No no no ,
+
+dialogue type : s
+B :  these are ju that 's just a point ,
+
+dialogue type : s^r.%-
+B :  this is ju
+
+dialogue type : s^aa|s
+B :  Yeah , would be a f for a given segment .
+
+dialogue type : s
+B :  You know , you y you go first go the town square
+
+dialogue type : s^aa
+B :  That 's subtle , but true .
+
+dialogue type : fg
+B :  Anyway
+
+dialogue type : s^co
+B :  so let 's just leave it three with three for now
+
+dialogue type : s^co
+B :  and let 's see if we can get it linked up just to get ourselves started .
+
+dialogue type : s^df
+B :  You 'll see it you 'll see something comes up immediately , that the reason I wanna do this .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^aap.%--
+B :  We did , but the three things w that that it contributed to this
+
+dialogue type : s
+B :  in fact , the other two aren't up there .
+
+dialogue type : s^rt
+B :  so one was the ontology
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  And the and the third thing we talked about was something from the discourse .
+
+dialogue type : s^bk|s.%--
+B :  OK , so this is w
+
+dialogue type : fh|s.%--
+B :  Right , so what w I what we seem to need here ,
+
+dialogue type : s^df
+B :  this is why it starts getting into the technical stuff
+
+dialogue type : s
+B :  the way we had been designing this , there were three intermediate nodes
+
+dialogue type : fh|s^e
+B :  uh which were the endpoint decision as seen from the uh user model as seen from the ontology and as seen from the discourse .
+
+dialogue type : s.%--
+B :  So each of those
+
+dialogue type : s.%--
+B :  the way we had it designed ,
+
+dialogue type : s^cs
+B :  now we can change the design ,
+
+dialogue type : s.%--
+B :  but the design we had was
+
+dialogue type : s
+B :  there was a decision with the same three outcomes uh based on the th those three separate considerations
+
+dialogue type : s
+B :  so if we wanted to do that would have to put in uh three intermediate nodes
+
+dialogue type : s^co:qw
+B :  and then what you and I have to talk about is , OK if we 're doing that and they get combined somehow uh how do they get combined ?
+
+dialogue type : s
+B :  But the they 're they 're undoubtedly gonna be more things to worry about .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Oh , it was called mode ,
+
+dialogue type : s
+B :  so this this is m mode here means the same as endpoint .
+
+dialogue type : fg|qy^rt
+B :  OK , why don't we ch can we change that ?
+
+dialogue type : s^bk
+B :  Alright .
+
+dialogue type : s.%--
+B :  You know , but that was actually ,
+
+dialogue type : s.%--
+B :  yeah unfortunately that was a um kind of an intermediate versio
+
+dialogue type : s
+B :  that 's I don't think what we would currently do .
+
+dialogue type : %--
+B :  That 's a
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s.%--
+B :  But that 's - that seems to ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s^cs
+B :  So so my advice to do is is get this down to what we think is actually likely to to be a a strong influence .
+
+dialogue type : s
+B :  But yeah , that was what he had in mind .
+
+dialogue type : s^co.%--:qw
+B : 
+
+dialogue type : s
+B :  so there 're two separate things .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh|s^bsc
+B :  uh at least two .
+
+dialogue type : s:qw
+B :  One is how do we want to handle the notion of the ontology
+
+dialogue type : s.%--:qy
+B :  now what we talked about , and this is another technical thing Bhaskara , is uh can we arrange so that
+
+dialogue type : s
+B :  I think we can
+
+dialogue type : s
+B :  so that the belief - net itself has properties
+
+dialogue type : s
+B :  and the properties are filled in uh from on ontology items .
+
+dialogue type : s^co
+B :  So the let 's take the case of the uh this endpoint thing ,
+
+dialogue type : s:qy
+B :  the notion was that if you had a few key properties like is this a tourist site , you know some kind of landmark
+
+dialogue type : s^e:qy
+B :  is it a place of business
+
+dialogue type : fh|s^e:qy
+B :  uh is it something you physically could enter
+
+dialogue type : qy^d^f
+B :  OK ,
+
+dialogue type : s^e
+B :  et cetera .
+
+dialogue type : s
+B :  So that there 'd be certain properties that would fit into the decision node
+
+dialogue type : s
+B :  and then again as part of the ou outer controlling conditioning of this thing those would be set ,
+
+dialogue type : s^df
+B :  so that some somehow someone would find this word , look it up in the ontology , pull out these properties , put it into the belief - net , and then the decision would flow .
+
+dialogue type : fh
+B :  Now
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : s^ba
+B :  I uh that 's I think that 's completely right
+
+dialogue type : fh|s^ba
+B :  and um I think that 's good ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^cs.%--
+B :  So what what that says is that we might be able to uh take and
+
+dialogue type : %--
+B :  in particular
+
+dialogue type : s^rt
+B :  so so the ones we talked about were uh exhibiting and selling
+
+dialogue type : s^nd.%-
+B :  no , accessibility meant
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg
+B :  Alright .
+
+dialogue type : s^co
+B :  So let me suggest this .
+
+dialogue type : fh|qy
+B :  Uh w could you move those up about halfway .
+
+dialogue type : fh|s^e
+B :  Uh The ones that you th And selling I guess .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s
+B :  So here here 's what it looks like to me .
+
+dialogue type : s^bs
+B :  is that you want an intermediate structure which i uh is essentially the or of uh for this purpose of of uh selling , f fixing , or servicing .
+
+dialogue type : s.%--
+B :  So that it uh
+
+dialogue type : s
+B :  that is , for certain purposes , it becomes important
+
+dialogue type : s
+B :  but for this kind of purpose uh one of these places is quite like the other .
+
+dialogue type : qy^bu^rt
+B :  Does that seem right ?
+
+dialogue type : s.%-
+B :  So we di
+
+dialogue type : s.%-
+B :  if we
+
+dialogue type : s^aa
+B :  Yes .
+
+dialogue type : s^arp
+B :  So if well it may be more than endpoint decisions ,
+
+dialogue type : s^cs
+B :  so the idea would be that you might wanna merge those three
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  Eh ser s uh selling , fixing , and servicing .
+
+dialogue type : h|s
+B :  Uh Uh well it it i here 's where it gets a little tricky .
+
+dialogue type : s^aap
+B :  Uh from the belief - net point of view it is
+
+dialogue type : s
+B :  from another point of view of course it 's interest it 's it 's important to know what it 's selling or servicing and so forth .
+
+dialogue type : s^bs
+B :  So for this decision it 's just uh true or false
+
+dialogue type : s
+B :  and in th this is a case where the or seems just what you want .
+
+dialogue type : s.%-
+B :  That that if any of those things is true then it 's the kind of place that you uh
+
+dialogue type : s^aa^m
+B :  are more likely to enter .
+
+dialogue type : s^aa
+B :  You could , yeah .
+
+dialogue type : s^co
+B :  Yeah , so let 's do that .
+
+dialogue type : s^nd
+B :  No no , no eh to to an inter no , an intermediate node .
+
+dialogue type : s.%-
+B :  That 's the p part of the idea , is
+
+dialogue type : %-
+B :  I d
+
+dialogue type : s^co
+B :  Well , o open up object type and let 's see what its values are .
+
+dialogue type : s
+B :  Oh , well OK first of all it 's not objects ,
+
+dialogue type : s^e^rt
+B :  we called them entities ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^cs
+B :  Let 's say I put commercial .
+
+dialogue type : s^co
+B :  Well couldn't I do let 's do commercial
+
+dialogue type : fh|s
+B :  uh landmark
+
+dialogue type : fh
+B :  and
+
+dialogue type : fg
+B :  Well
+
+dialogue type : s^nd
+B :  accessible I think is different
+
+dialogue type : s^df
+B :  cuz that 's tempor that that varies temporally ,
+
+dialogue type : s.%-
+B :  whereas this is a
+
+dialogue type : s
+B :  I would call that a service ,
+
+dialogue type : s^no
+B :  but but I don't know .
+
+dialogue type : s.%--
+B :  Say w w well it 's co I would s a a
+
+dialogue type : s
+B :  again for this purpose I think it 's commercial .
+
+dialogue type : s^e
+B :  Someplace you want to go in to do some kind of business .
+
+dialogue type : s^na
+B :  Well you could ,
+
+dialogue type : s
+B :  that 's a that 's a choice .
+
+dialogue type : fh
+B :  So uh
+
+dialogue type : s^arp
+B :  Yeah , the problem with it is that it sort of putting in a feature just for one decision ,
+
+dialogue type : s
+B :  now w we may wind up having to do that
+
+dialogue type : s.%--
+B :  this i anyway , this i
+
+dialogue type : s^co
+B :  at a mental level that 's what we we 're gonna have to sort out .
+
+dialogue type : s:qw
+B :  So , you know what does this look like ,
+
+dialogue type : s:qw
+B :  what are what are uh intermediate things that are worth computing ,
+
+dialogue type : s:qw
+B :  what are the features we need in order to make all these decisions
+
+dialogue type : s:qw
+B :  and what 's the best way to organize this so that um it 's clean and and consistent and all that sort of stuff .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : s^co
+B :  Anyway so let me suggest you do something else .
+
+dialogue type : fh|s^cs
+B :  Uh which is to get rid get rid of that l long link between who the user and the endpoint .
+
+dialogue type : s^nd
+B :  No no , I don't want the link there at all .
+
+dialogue type : s^df
+B :  Because what we 're gonna want is an intermediate thing
+
+dialogue type : s^e
+B :  which is uh the endpoint decisi the endpoint decision based o on the user models ,
+
+dialogue type : s^bs
+B :  so what we we what we talked about is three separate endpoint decisions ,
+
+dialogue type : s^co
+B :  so let 's make a new node
+
+dialogue type : s.%--
+B :  Well this was
+
+dialogue type : fh|s^co
+B :  uh let 's p put it this let 's do endpoint underbar - U .
+
+dialogue type : s^aa^m.%--
+B :  i endpoint , e end poi
+
+dialogue type : s.%-
+B :  this is sa
+
+dialogue type : s
+B :  it 's the endpoint
+
+dialogue type : s^co
+B :  let 's say underbar - U ,
+
+dialogue type : s.%--
+B :  so that 's the endpoint decision uh as seen through the
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^co.%--
+B :  So let 's let 's actually
+
+dialogue type : s^cs.%--
+B :  yeah so lin you can link that up to the
+
+dialogue type : h|s^na.%--
+B :  uh yeah , so that , I guess that 's endpoint uh
+
+dialogue type : s^aa^m
+B :  underscore - E for entity ,
+
+dialogue type : s
+B :  and we may change all this ,
+
+dialogue type : fh
+B :  but .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : fg
+B :  And
+
+dialogue type : s^no
+B :  Oh I d eh I don't know .
+
+dialogue type : s.%--
+B :  Actually , I guess the easiest thing would move mo move the endpoint ,
+
+dialogue type : s^co
+B :  well , go ahead .
+
+dialogue type : s^co^t
+B :  Just do whatever .
+
+dialogue type : fg
+B :  Well .
+
+dialogue type : b
+B :  Good .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  And uh maybe th maybe it 's just one who is the user ,
+
+dialogue type : s^no
+B :  I don't know ,
+
+dialogue type : s^am
+B :  maybe maybe there 's more .
+
+dialogue type : s^bd
+B :  Never mind .
+
+dialogue type : fg|s^ba
+B :  Uh anyway , this is crude .
+
+dialogue type : s.%--
+B :  Now but the now so so but then the question is
+
+dialogue type : fh
+B :  uh
+
+dialogue type : s
+B :  so and and we assume that some of these properties would come indirectly through an ontology ,
+
+dialogue type : s
+B :  but then we had this third idea of input from the discourse .
+
+dialogue type : s^aa
+B :  Sure ,
+
+dialogue type : s^aa
+B :  OK .
+
+dialogue type : s^am
+B :  Well , maybe ,
+
+dialogue type : s.%--
+B :  I again , I d
+
+dialogue type : s^co^na
+B :  well , OK , put em in
+
+dialogue type : s.%-
+B :  but what we 're gonna wanna do is actually uh
+
+dialogue type : s
+B :  somebody else has built this user model .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : fh|s^co
+B :  So uh you cou and so here let me give you two ways to handle that .
+
+dialogue type : qy^d^rt
+B :  Alright ?
+
+dialogue type : s^cs
+B :  One is um you could ignore it .
+
+dialogue type : s^cs.%--
+B : 
+
+dialogue type : s^e
+B :  and this will give you the flavor of the of what
+
+dialogue type : s^cs
+B :  you could have a node that 's that was a measure of the match between the object 's feature , you know , the match between the object the entity , I 'm sorry and the user .
+
+dialogue type : s^cs
+B :  So you could have a k a " fit " node
+
+dialogue type : s
+B :  and again that would have to be computed by someone else
+
+dialogue type : fh
+B :  but uh
+
+dialogue type : %--
+B :  so that uh
+
+dialogue type : s^tc
+B :  Yeah , that 's all .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^am
+B :  I mean , we could .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s
+B :  Well that 's what we don't wanna do ,
+
+dialogue type : %--
+B :  see that se
+
+dialogue type : s^df
+B :  cuz then we get into huge combinatorics and stuff like that
+
+dialogue type : %-
+B :  an
+
+dialogue type : fg
+B :  Well , but
+
+dialogue type : s
+B :  Well , that that 's we can't do that ,
+
+dialogue type : s^cc.%--
+B :  so we we 're gonna have to
+
+dialogue type : s^ba
+B :  but this is a good discussion ,
+
+dialogue type : s
+B :  we 're gonna have to somehow figure out uh some way to encapsulate that
+
+dialogue type : s
+B :  uh so if there 's some general notion of for example the uh relation to the time to do this to the amount of time the guy has or something like that is is the uh compatibility with his current state ,
+
+dialogue type : s^co
+B :  so that 's what you 'd have to do ,
+
+dialogue type : s^co
+B :  you 'd have to get it down to something which uh was itself relatively compact ,
+
+dialogue type : s^cs
+B :  so it could be compatibility with his current state
+
+dialogue type : s^e
+B :  which would include his money and his time and and his energy
+
+dialogue type : s^aa
+B :  It does .
+
+dialogue type : s^bs
+B :  So it yeah , there are two advantages .
+
+dialogue type : s
+B :  That 's tha there 's one technical one
+
+dialogue type : s^e
+B :  and the other is it it gets used
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s
+B :  But it there 's two advantages ,
+
+dialogue type : s
+B :  one is the technical one that you don't wind up with such big exponential uh CBT 's ,
+
+dialogue type : s^e
+B :  the other is it can be it presumably can be used for multiple decisions .
+
+dialogue type : s.%--
+B :  So that if you have this idea of the compatibility with the requirements of an action to the state of the user one could well imagine that that was u
+
+dialogue type : s
+B :  not only is it sim is it cleaner to compute it separately but it could be that it 's used in multiple places .
+
+dialogue type : fh|s^bs
+B :  Anyway th so in general this is the design , this is really design problem .
+
+dialogue type : s
+B :  OK , you 've got a signal , a d set of decisions
+
+dialogue type : fh|qw
+B :  um how do we do this ?
+
+dialogue type : s^cs:s
+B :  Or fat user fatigue even .
+
+dialogue type : s
+B :  Whatever .
+
+dialogue type : s
+B :  What 's th what we 're talking about is compatibility .
+
+dialogue type : s^e^no
+B :  Uh or something , I don't know ,
+
+dialogue type : fh
+B :  but .
+
+dialogue type : fg|s.%--
+B :  Oh but the thing is that we uh uh we had some things that uh
+
+dialogue type : s^aa^m
+B :  that don't
+
+dialogue type : %-
+B :  the
+
+dialogue type : s^aa
+B :  right
+
+dialogue type : s^nd
+B :  Uh maybe not .
+
+dialogue type : s.%--
+B :  I mean the that 's the the issue is um
+
+dialogue type : s
+B :  would Even if it was true in some abstract general sense it might not be true in terms of the information we actually had and can make use of .
+
+dialogue type : s^co
+B :  And anyway we 're gonna have to find some way to cl uh get this sufficiently simple to make it feasible .
+
+dialogue type : %-
+B :  W w
+
+dialogue type : s
+B :  but that eh viewing it without ent yeah view w with our definition of view it 's free
+
+dialogue type : %--
+B :  cuz you
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ng
+B :  No we have to enter the park .
+
+dialogue type : s
+B :  Eh almost by definition um paying involves entering ,
+
+dialogue type : s.%-
+B :  ge going through some
+
+dialogue type : s^bk^m
+B :  Right .
+
+dialogue type : fg
+B :  Uh
+
+dialogue type : s^co^t^tc
+B :  So let me suggest we switch to another one ,
+
+dialogue type : s
+B :  I mean clearly there 's more work to be done on this
+
+dialogue type : s^cs^t
+B :  but I think it 's gonna be more instructive to to think about uh other decisions that we need to make in path land .
+
+dialogue type : s^e
+B :  And what they 're gonna look like .
+
+dialogue type : s^na
+B :  Why , I think it 's worth saving this one
+
+dialogue type : s
+B :  but I think I 'd I 'd like to keep this one
+
+dialogue type : s^df
+B :  cuz I wanna see if if we 're gonna reuse any of this stuff .
+
+dialogue type : s^co
+B :  Well you tell me ,
+
+dialogue type : qw
+B :  so in terms of the uh planner what 's what 's a good one to do ?
+
+dialogue type : b
+B :  Uh
+
+dialogue type : fg|s
+B :  Well the fir see the first thing is , getting back to thing we left out of the other is the actual discourse .
+
+dialogue type : s
+B :  So Keith this is gonna get into your world
+
+dialogue type : s^df
+B :  because uh we 're gonna want to know you know , which constructions indicate various of these properties
+
+dialogue type : %--
+B :  s
+
+dialogue type : fh
+B :  and so
+
+dialogue type : s^no
+B :  I I don't yet know how to do this ,
+
+dialogue type : s
+B :  I guess we 're gonna wind up pulling out uh discourse properties like we have object properties
+
+dialogue type : s
+B :  and we don't know what they are yet .
+
+dialogue type : s
+B :  So that that the Go - there decision will have a node from uh discourse ,
+
+dialogue type : qw^cs.%-
+B :  and I guess why don't we just stick a discourse thing up there to be as a placeholder for
+
+dialogue type : s^aa
+B :  Of of course .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ng
+B :  Well the ontology we sort of said we would pull these various kinds of properties from the ontology like exhibiting , selling , and so forth .
+
+dialogue type : s^nd
+B :  So in some sense it 's it 's there .
+
+dialogue type : s
+B :  But the discourse we don't have it represented at all yet .
+
+dialogue type : s
+B :  But if we do it 'll have the three values .
+
+dialogue type : s
+B :  It 'll have the EVA values
+
+dialogue type : s^e
+B :  if if we have it .
+
+dialogue type : s^cs:s
+B :  For Go - there , probably is true and false , let 's say .
+
+dialogue type : s^df
+B :  That 's what we talked about .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s
+B :  Yeah , but that doesn't change the fact that you 're you want these two values .
+
+dialogue type : s:s^co
+B :  And they 'll be a y uh , a user Go - there
+
+dialogue type : s^am
+B :  and maybe that 's all ,
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : s^ba
+B :  OK , good .
+
+dialogue type : b
+B :  Yep .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : fg|s^ba
+B :  Right , so that 's that 's where it starts getting to be uh uh essentially more interesting ,
+
+dialogue type : s
+B :  so what uh Bhaskara says which is completely right is if you know that they 're only going to view it then it doesn't matter whether it 's closed or not
+
+dialogue type : s^e
+B :  in terms of uh uh you know , whether whether you wanna go there .
+
+dialogue type : s^aa|s^na
+B :  Absolutely there are other situational things that do matter .
+
+dialogue type : s^nd
+B :  Well i i it can have di various values .
+
+dialogue type : s^na
+B :  Yeah , but we eh you you 're right it might not be enough .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Ah .
+
+dialogue type : s^bk
+B :  I see
+
+dialogue type : s^am
+B :  that could be .
+
+dialogue type : s^am
+B :  Could be .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %-
+B :  N
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Yeah . So so now the other thing that Bhaskara eh pointed out is what this says is that uh there sh should be a link ,
+
+dialogue type : s^e
+B :  and this is where things are gonna get very messy
+
+dialogue type : s^e
+B :  from the endpoint uh decision
+
+dialogue type : s:s
+B :  maybe the t they 're final re and , I guess the very bottom endpoint decision uh to the Go - there node .
+
+dialogue type : s^co
+B :  And I don't worry about layout ,
+
+dialogue type : s
+B :  I mean then we 'll go we 'll go nuts
+
+dialogue type : fh
+B :  but
+
+dialogue type : s^am
+B :  Could be ,
+
+dialogue type : s^am
+B :  yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^cs
+B :  Well the Go - there , actually the Endpoint node could feed feed into the Go - there S
+
+dialogue type : s^bk
+B :  That 's right ,
+
+dialogue type : s.%--
+B :  so the Endpoint node ,
+
+dialogue type : s^co:s
+B :  make that up t t to the Go - there then
+
+dialogue type : s^cc
+B :  and again we 'll have to do layout at some point ,
+
+dialogue type : s^e
+B :  but something like that .
+
+dialogue type : s
+B :  Now it 's gonna be important not to have loops by the way .
+
+dialogue type : s
+B :  Uh really important in in the belief worl net world not to have loops
+
+dialogue type : fh
+B :  uh
+
+dialogue type : s
+B :  No it 's much worse than that .
+
+dialogue type : s
+B :  It if i loo it it it it it 's not def i it 's not well defined if you 're there are loops ,
+
+dialogue type : s^co.%--
+B :  you just you have to
+
+dialogue type : s.%--
+B :  there are all sorts of ways of breaking it up so that there isn't
+
+dialogue type : fh
+B :  uh
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg|s.%-
+B :  Yeah , no it 's not a loop yet , I 'm just saying we we , in no , in
+
+dialogue type : b
+B :  Right .
+
+dialogue type : fg|s
+B :  OK , so anyway , so that 's another decision .
+
+dialogue type : h|qw
+B :  Uh what 's what 's another decision you like ?
+
+dialogue type : s
+B :  Well , the idea is that you go there , you go comes from something about the user from something about the situation and the uh the discourse is is a mystery .
+
+dialogue type : s^aa
+B :  Sure , if you want .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^aa
+B :  Sure .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  And then also the discourse endpoint ,
+
+dialogue type : s^bc^e
+B :  I I guess endpoint sub - D is if you wanna make it consistent .
+
+dialogue type : s^aa
+B :  I think so .
+
+dialogue type : %-
+B :  S
+
+dialogue type : s^am
+B :  Maybe not ,
+
+dialogue type : %-
+B :  a
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^na
+B :  Uh y you yeah you i you if you needed to do that .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  Ah .
+
+dialogue type : s^no.%--
+B :  Good point , I don't I don't know how we 're going to t uh
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s
+B :  Uh I gu yes my curr you know , don't yeah yeah yeah that 's enough .
+
+dialogue type : fh|s^cs
+B :  Uh My current idea on that would be that each of these decision nodes has questions associated with it .
+
+dialogue type : s
+B :  And the question wouldn't itself be one of these conditional things
+
+dialogue type : s:qy
+B :  you know , given that you know there 's a strike do you still wanna go ?
+
+dialogue type : s:qy
+B :  But uh if you told him a bunch of stuff , then you would ask him do you wanna go ?
+
+dialogue type : s
+B :  But I think trying to formulate the conditional question , that sounds too much .
+
+dialogue type : s^e
+B :  To me .
+
+dialogue type : s^co^t
+B :  Alright , but let me let let 's stay with this a minute
+
+dialogue type : s^df
+B :  because I want to do a little bit of organization .
+
+dialogue type : s^e
+B :  Before we get more into details .
+
+dialogue type : s.%--
+B :  The organization is going to be that uh
+
+dialogue type : s.%--
+B :  the flavor of what 's going on is going to be that uh
+
+dialogue type : s
+B :  as we s e sort of going to this detail indeed Keith is going to to worry about the various constructions that people might use
+
+dialogue type : fh|s
+B :  and Johno has committed himself to being the parser wizard ,
+
+dialogue type : s.%--
+B :  so what 's going to happen is that eventually
+
+dialogue type : s^e
+B :  like by the time he graduates ,
+
+dialogue type : qy^d^f^rt
+B :  OK
+
+dialogue type : fh|s
+B :  uh they 'll be some sort of system which is able to take the discourse in context and have outputs that can feed the rest of belief - net .
+
+dialogue type : s
+B :  I j wa I I assume everybody knows that ,
+
+dialogue type : s^df
+B :  I just wanna you know , get closure that that 'll be the game then ,
+
+dialogue type : s
+B :  so the semantics that you 'll get out of the discourse will be of values that go into the various discourse - based decision nodes .
+
+dialogue type : s
+B :  And now some of those will get fancier like mode of transportation and stuff
+
+dialogue type : s
+B :  so it isn't by any means uh necessarily a simple thing that you want out .
+
+dialogue type : s.%-
+B :  So uh if there is an and there is mode of transportation
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Yeah , well that , well , we 'll have to decide uh how much of th where that goes .
+
+dialogue type : s
+B :  an and it 's not clear yet .
+
+dialogue type : s
+B :  I mean it could be those are two separate things ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  which would be my guess
+
+dialogue type : s:s
+B :  that you 'd have to do see in order to do reference and stuff like that um you 've gotta have both the current discourse and the context to say I wanna go back there ,
+
+dialogue type : s:qr
+B :  wow , what does that mean
+
+dialogue type : fh
+B :  and uh
+
+dialogue type : s^bk
+B :  Alright .
+
+dialogue type : fh
+B :  So
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : s^am
+B :  It could be .
+
+dialogue type : s
+B :  This is this is getting into the thing I wanna talk about next ,
+
+dialogue type : qr
+B :  which is s if that 's true uh how do we wanna combine those ?
+
+dialogue type : s
+B :  O or when it 's true ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s
+B :  Well i i it see i if it 's fou if it 's four things and each of them has four values it turns out to be a big CPT ,
+
+dialogue type : s.%--
+B :  it 's not s completely impossi
+
+dialogue type : s
+B :  I mean it 's it 's not beyond what the system could solve
+
+dialogue type : s^ba^df
+B :  but it 's probably beyond what we could actually uh write down . or learn .
+
+dialogue type : fh|s
+B :  Uh but , you know it 's four to the fourth .
+
+dialogue type : s^ba
+B :  It 's pretty big .
+
+dialogue type : fh
+B :  Uh .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa|s.%-
+B :  Yeah , I mean
+
+dialogue type : s
+B :  it 's and I don't think it 's gonna g e I don't think it 'll get worse than that by the way ,
+
+dialogue type : s^ba.%-
+B :  so le that 's a that 's a good
+
+dialogue type : s.x
+B :  Uh for go there ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  the other one 's three values for endpoint already .
+
+dialogue type : s
+B :  EV - it 's the EVA .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s
+B :  Since ta they will still have three .
+
+dialogue type : s
+B :  Each so you 're uh uh from each point of view you 're making the same decision .
+
+dialogue type : s.%--
+B :  So from the point of view of the ob of the entity
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^2
+B :  Those are not necessarily binary .
+
+dialogue type : s
+B :  S so we 're we 're gonna have to use some t care in the knowledge engineering to not have this explode .
+
+dialogue type : s.%--
+B :  And in fact I think it doesn't in the sense that
+
+dialogue type : fh
+B :  um
+
+dialogue type : s^rt.%-
+B :  Read it ,
+
+dialogue type : s
+B :  you know actually with the underlying semantics and stuff I think it isn't like you have two hundred and fifty - six different uh ways of of thinking about whether this user wants to go to some place .
+
+dialogue type : s^bk
+B :  Alright .
+
+dialogue type : s^cs
+B :  So we we just have to figure out what the regularities are and and code them .
+
+dialogue type : s
+B :  But um What I was gonna suggest next is maybe we wanna work on this a little longer
+
+dialogue type : s.%--
+B :  but I do want to also talk about the thing that we started into now of
+
+dialogue type : fh
+B :  uh
+
+dialogue type : s^ba
+B :  well it 's all fine to say all these arrows come into the si same place
+
+dialogue type : qr
+B :  what rule of combination is used there .
+
+dialogue type : s
+B :  So th yes they so these things all affect it ,
+
+dialogue type : qr
+B :  how do they affect it ?
+
+dialogue type : s
+B :  And belief - nets have their own beliefs about uh what are good ways to do that .
+
+dialogue type : s
+B :  So is it it 's it 's clearer n clear enough what the issue is ,
+
+dialogue type : qy^d^f^g^rt
+B :  right ?
+
+dialogue type : qr^t
+B :  So do we wanna switch that now or we wanna do some more of this ?
+
+dialogue type : s.%--
+B :  Well , here he here 's one of the things that that I th you sh
+
+dialogue type : %-
+B :  you no ,
+
+dialogue type : s^bd^df^no
+B :  I don't know how easy it is to do this in the interface
+
+dialogue type : s^cs.%--
+B :  but you it would be great if you could actually just display at a given time uh all the things that you pick up ,
+
+dialogue type : s
+B :  you click on " endpoint " ,
+
+dialogue type : s^f
+B :  OK
+
+dialogue type : s
+B :  and everything else fades
+
+dialogue type : s
+B :  and you just see the links that are relevant to that .
+
+dialogue type : %-
+B :  And I
+
+dialogue type : qy
+B :  does anybody remember the GUI on this ?
+
+dialogue type : s^am|%-
+B :  Yeah the well the b
+
+dialogue type : fg|s
+B :  anyway so uh it clear that even with this if we put in all the arrows nobody is gonna be able to read the diagram .
+
+dialogue type : s^bk
+B :  Alright ,
+
+dialogue type : s^cs
+B :  so e we have to figure out some eh eh uh basically display hack or something to do this
+
+dialogue type : s^df.%-
+B :  because
+
+dialogue type : fg|s^t^tc
+B :  anyway I I let me consi suggest that 's a s not a first - order consideration ,
+
+dialogue type : s^t
+B :  we have two first - order considerations
+
+dialogue type : s
+B :  which is what are the uh influences A ,
+
+dialogue type : s
+B :  A ,
+
+dialogue type : qr
+B :  and B how do they get combined mathematically ,
+
+dialogue type : s
+B :  how do we display them is an issue ,
+
+dialogue type : %-
+B :  but
+
+dialogue type : fh
+B :  um
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : fg|s
+B :  Yeah , and Um I that seems like a perfectly feasible thing to get into ,
+
+dialogue type : s
+B :  but um we have to know what we want first .
+
+dialogue type : qo^cs^t^tc
+B :  OK , so why don't you tell us a little bit about decision nodes and what what the choices might be for these ?
+
+dialogue type : s^cs.%-
+B :  Put it in your ,
+
+dialogue type : s^bk
+B :  yeah .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : s^bk|%--
+B :  Alright , so
+
+dialogue type : fh
+B :  um
+
+dialogue type : qy.%--
+B :  Is that uh
+
+dialogue type : s^df
+B :  I yeah , I just wanna make sure everybody is with us before he goes on .
+
+dialogue type : qy^rt
+B :  It 's it 's cl e is is it clear what he wants to compute ?
+
+dialogue type : qw^br
+B :  What ?
+
+dialogue type : s^aa
+B :  Y right .
+
+dialogue type : b
+B :  Yep .
+
+dialogue type : s^bu
+B :  S so this assumes symmetry and equal weights and all this sort of things , which may or may not be a good assumption ,
+
+dialogue type : s.%--
+B :  so that
+

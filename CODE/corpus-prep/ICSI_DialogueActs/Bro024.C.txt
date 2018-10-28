@@ -1,0 +1,564 @@
+dialogue type : z
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : fh|s
+C :  so , yeah , the this past week I 've been main mainly occupied with , um , getting some results , u from the SRI system trained on this short Hub - five training set for the mean subtraction method .
+
+dialogue type : fh
+C :  And , um ,
+
+dialogue type : s
+C :  I ran some tests last night .
+
+dialogue type : fh
+C :  But , um ,
+
+dialogue type : %--
+C :  c
+
+dialogue type : s
+C :  the results are suspicious .
+
+dialogue type : fh|s^df
+C :  Um , it 's , um , cuz they 're the baseline results are worse than , um , Andreas than results Andreas got previously .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^m^na
+C :  That 's on digits .
+
+dialogue type : s^df
+C :  It c it it could h it could have something to do with , um , downsampling .
+
+dialogue type : s^ba^cs
+C :  That 's that 's worth looking into .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : fh
+C :  d and , um ,
+
+dialogue type : s
+C :  ap ap apart from that , I guess the the main thing I have t ta I have to talk is , um , where I 'm planning to go over the next week .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s
+C :  So I 've been working on integrating this mean subtraction approach into the SmartKom system .
+
+dialogue type : s
+C :  And there 's this question of , well , so , um , in my tests before with HTK I found it worked it worked the best with about twelve seconds of data used to estimate the mean ,
+
+dialogue type : s^rt
+C :  but , we 'll often have less in the SmartKom system .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s
+C :  So I think we 'll use as much data as we have at a particular time ,
+
+dialogue type : s
+C :  and we 'll we 'll concatenate utterances together , um , to get as much data as we possibly can from the user .
+
+dialogue type : fh|s
+C :  But , um , there 's a question of how to set up the models . So um , we could train the models .
+
+dialogue type : s
+C :  If we think twelve seconds is ideal we could train the models using twelve seconds to calculate the mean , to mean subtract the training data .
+
+dialogue type : s
+C :  Or we could , um , use some other amount .
+
+dialogue type : fh|s
+C :  So like I did an experiment where I , um , was using six seconds in test ,
+
+dialogue type : fh|s
+C :  um , but , for I tried twelve seconds in train .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  I 'm a I tried six seconds in train .
+
+dialogue type : s
+C :  And six seconds in train was about point three percent better .
+
+dialogue type : fh|s^no
+C :  Um , and um , it 's not clear to me yet whether that 's something significant .
+
+dialogue type : s
+C :  So I wanna do some tests and , um , actually make some plots of , um for a particular amount of data and test what happens if you vary the amount of data in train .
+
+dialogue type : s
+C :  y s so I was I actually ran the experiments mostly
+
+dialogue type : s
+C :  and I I was I was hoping to have the plots with me today .
+
+dialogue type : s
+C :  I just didn't get to it .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  yeah , I wou I would be curious about people 's feedback on this
+
+dialogue type : s^df
+C :  cuz I 'm @ @ I p I think there are some I think it 's it 's kind of like a a bit of a tricky engineering problem .
+
+dialogue type : s
+C :  I 'm trying to figure out what 's the optimal way to set this up .
+
+dialogue type : fh|s^cc
+C :  So , um , I 'll try to make the plots and then put some postscript up on my on my web page .
+
+dialogue type : s^cc
+C :  And I 'll mention it in my status report if people wanna take a look .
+
+dialogue type : %--
+C :  w Well , it c
+
+dialogue type : s^nd
+C :  I I don't think it it 's just for any mismatch you take a hit .
+
+dialogue type : s
+C :  i In some cases it might be u better to have a mismatch .
+
+dialogue type : s^e
+C :  Like I think I saw something like like if you only have two seconds in test , or , um , maybe it was something like four seconds , you actually do a little better if you , um , train on six seconds than if you train on four seconds .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s
+C :  but the case , uh with the point three percent hit was using six seconds in test , um , comparing train on twelve seconds versus
+
+dialogue type : s
+C :  The train on twelve seconds .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Huh .
+
+dialogue type : s^ba
+C :  That 's that 's interesting .
+
+dialogue type : s^bk
+C :  Alright , the e uh , I see your point .
+
+dialogue type : s^df
+C :  I guess I was thinking of it as , um , an interesting research problem .
+
+dialogue type : s
+C :  The how to g I was thinking that for the ASRU paper we could have a section saying , " For SmartKom , we we d in we tried this approach in , uh , interactive system " , which I don't think has been done before .
+
+dialogue type : s
+C :  And and then there was two research questions from that .
+
+dialogue type : s^e
+C :  And one is the k does it still work if you just use the past history ?
+
+dialogue type : s^bk
+C :  Alright ,
+
+dialogue type : s^e
+C :  and the other was this question of , um what I was just talking about now .
+
+dialogue type : s
+C :  So I guess that 's why I thought it was interesting .
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : b
+C :  um .
+
+dialogue type : s^bk
+C :  Oh , o Oh , OK .
+
+dialogue type : s^bu
+C :  So that 's that 's that 's standard .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fg
+C :  And , um ,
+
+dialogue type : fh
+C :  Let 's l let 's see .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^tc
+C :  And then there 's um , another thing I wanna start looking at , um , wi is , um , the choice of the analysis window length .
+
+dialogue type : s
+C :  So I 've just been using two seconds
+
+dialogue type : s^df
+C :  just because that 's what Carlos did before .
+
+dialogue type : fh|s
+C :  Uh , I wrote to him asking about he chose the two seconds .
+
+dialogue type : s
+C :  And it seemed like he chose it a bit informally .
+
+dialogue type : fh
+C :  So , um ,
+
+dialogue type : s
+C :  with the with the HTK set - up I should be able to do some experiments , on just varying that length ,
+
+dialogue type : s^e
+C :  say between one and three seconds , in a few different reverberation conditions ,
+
+dialogue type : fh|s^e
+C :  um , say this room and also a few of the artificial impulse responses we have for reverberation ,
+
+dialogue type : s^e
+C :  just , um , making some plots and seeing how they look .
+
+dialogue type : fh
+C :  And , um ,
+
+dialogue type : fh
+C :  so ,
+
+dialogue type : s
+C :  with the the sampling rate I was using , one second or two seconds or four seconds is at a power of two um , number of samples
+
+dialogue type : s^cc
+C :  and , um , I 'll I 'll jus f for the ones in between I guess I 'll just zero - pad .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : b
+C :  Huh .
+
+dialogue type : s^bk
+C :  Uh , yeah ,
+
+dialogue type : s^ng
+C :  I don't I don't think the TI - digits data that I have , um , i is would be appropriate for that .
+
+dialogue type : qw^cs
+C :  But what do you What about if I w I fed it through some kind of , um , speech processing algorithm that changed the speech rate ?
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^ng
+C :  Well , uh , just if you think it 's worth looking into .
+
+dialogue type : s^df
+C :  I mean , it it is getting a little away from reverberation .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^tc
+C :  And and th the third thing , um , uh , is , um , Barry explained LDA filtering to me yesterday .
+
+dialogue type : fh|s
+C :  And so , um , Mike Shire in his thesis um , did a a series of experiments , um , training LDA filters in d on different conditions .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : qy^bu^d^rt
+C :  for this mean subtraction approach ?
+
+dialogue type : qy
+C :  Is is that right ?
+
+dialogue type : s^e
+C :  Or for these long analysis windows , I guess , is the right way to put it .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Huh .
+
+dialogue type : fg
+C :  o OK .
+
+dialogue type : fh
+C :  So , um ,
+
+dialogue type : s
+C :  a actually I was just thinking about what I was asking about earlier , wi which is about having less than say twelve seconds in the SmartKom system to do the mean subtraction .
+
+dialogue type : s^bu
+C :  You said in systems where you use cepstral mean subtraction , they concatenate utterances
+
+dialogue type : qy^rt
+C :  and , do you know how they address this issue of , um , testing versus training ?
+
+dialogue type : %--
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : fh|qw
+C :  and , um , so so in tha in that case , wh what do they do when they 're t um , performing the cepstral mean subtraction on the training data ?
+
+dialogue type : s^df
+C :  So because you 'd have hours and hours of training data .
+
+dialogue type : qy^rt
+C :  So do they cut it off and start over ?
+
+dialogue type : s^e^rt
+C :  At intervals ?
+
+dialogue type : qrr.%--
+C :  Or ?
+
+dialogue type : s^ar
+C :  Oh , well , no .
+
+dialogue type : s^nd
+C :  I guess not .
+
+dialogue type : %--
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : %--
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ng
+C :  So if someone 's interacting with the system , though , uh , Morgan uh , Morgan said that you would tend to , um , chain utterances together
+
+dialogue type : fh
+C :  um , r
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  I g I guess the question I had was , um , amount of data e u was the amount of data that you 'd give it to , um update this estimate .
+
+dialogue type : s^df
+C :  Because say you if you have say five thousand utterances in your training set , um , and you you keep the mean from the last utterance ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : %-
+C : 
+
+dialogue type : %
+C :  g s
+
+dialogue type : %--
+C : 
+
+dialogue type : s^aa
+C :  right .
+
+dialogue type : s^bk
+C :  OK ,
+
+dialogue type : s
+C :  so you 'd you and so in training you would start over at at every new phone call or at every new speaker .
+
+dialogue type : fh
+C :  Yeah ,
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  R right .
+
+dialogue type : s^bk
+C :  Right ,
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : s
+C :  Bec - because I so this SmartKom task first off , it 's this TV and movie information system .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^bk^r
+C :  Right .
+
+dialogue type : s^bk
+C :  I I see .
+
+dialogue type : s:qw
+C :  I was I was about to say . So if if you ask it " What what movies are on TV tonight ? " ,
+
+dialogue type : s
+C :  if I look at my wristwatch when I say that it 's about two seconds .
+
+dialogue type : s
+C :  The way I currently have the mean subtraction , um , set up , the the analysis window is two seconds .
+
+dialogue type : s
+C :  So what you just said , about what do you start with , raises a question of what do I start with then ?
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bk
+C :  Oh ,
+
+dialogue type : s^aa
+C :  right .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s
+C :  And I I g I guess I s just started thinking of another question ,
+
+dialogue type : s^e
+C :  which is , for for the very first frame , w what what do I do
+
+dialogue type : s
+C :  if I 'm if I take if I use that frame to calculate the mean , then I 'm just gonna get n nothing .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s^bu^cs
+C :  so I should probably have some kind of default mean for the first f couple of frames ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk^m
+C :  Or subtract nothing .
+
+dialogue type : qy^bu^d^rt
+C :  And and that 's that 's I guess that 's something that 's p people have figured out how to deal with in cepstral mean subtraction as well ?
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s
+C :  So that was all I had , for now .
+
+dialogue type : b
+C :  Yeah .
+

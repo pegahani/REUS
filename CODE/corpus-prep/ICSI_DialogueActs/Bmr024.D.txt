@@ -1,0 +1,1173 @@
+dialogue type : h|s
+D :  Well , so , here 's the thing .
+
+dialogue type : fh|qh^cs^t^tc.%--
+D :  Um , why don't we s again start off with with ,
+
+dialogue type : fh
+D :  uh ,
+
+dialogue type : s^cc^t3
+D :  Yeah , I 'll get it .
+
+dialogue type : s^cc^t3.%
+D :  I 'll get the door .
+
+dialogue type : fh|sj^cs^rt^t
+D :  Um , I think we want to start off with the agenda .
+
+dialogue type : s^cs
+D :  And then , given that , uh , Liz and Andreas are gonna be ten , fifteen minutes late , we can try to figure out what we can do most effectively without them here .
+
+dialogue type : fg|s^co^t
+D :  So So so , one thing is , yeah , talk about demo ,
+
+dialogue type : s^bk^rt^t1
+D :  IBM transcription .
+
+dialogue type : qw^t
+D :  Uh , what else ?
+
+dialogue type : s^t
+D :  What 's SmartKom ?
+
+dialogue type : qw^rt
+D :  SmartKom ?
+
+dialogue type : qw^bu^rt
+D :  What what what are we collecting here ?
+
+dialogue type : b
+D :  Yeah , right .
+
+dialogue type : b
+D :  Uh , right .
+
+dialogue type : fg
+D :  Uh .
+
+dialogue type : s^bk^t1
+D :  Reorganization status .
+
+dialogue type : s^t1
+D :  Files and directories .
+
+dialogue type : fg
+D : 
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : fg|s^t1
+D :  Well , let 's see .
+
+dialogue type : s^co
+D :  I think the a certainly the segmentation and recognition we wanna maybe focus on when An - Andreas is here since that was particularly his thing .
+
+dialogue type : s^bk^t1
+D :  SmartKom also , Andreas .
+
+dialogue type : s
+D :  Absinthe , I think also he has sort of been involved in a lot of those things .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : fg
+D :  Um
+
+dialogue type : fg|sj^na
+D :  So , I mean , I think they 'll be inter I 'll be interested in all this ,
+
+dialogue type : qy^cs^d^rt
+D :  but but , uh , probably , if we had to pick something that we would talk on for ten minutes or so while they 're coming here . Or I guess it would be , you think , reorganization status ,
+
+dialogue type : fh
+D :  or ?
+
+dialogue type : b.%
+D :  OK .
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : s^cs^t^tc
+D :  Well , maybe uh , since that that was a pretty short one , maybe we should talk about the IBM transcription status .
+
+dialogue type : s^co
+D :  Someone can fill in Liz and Andreas later .
+
+dialogue type : b
+D :  Uh
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^co
+D :  Le - let 's talk about it ,
+
+dialogue type : s^df
+D :  because that 's that 's something that I I know Andreas is less interested in than Liz is ,
+
+dialogue type : fh
+D :  so , you know .
+
+dialogue type : s.%
+D : 
+
+dialogue type : s^ng
+D :  Actually , maybe I One one relate more related thing in transcription .
+
+dialogue type : s
+D :  So that 's the IBM stuff .
+
+dialogue type : s
+D :  We 've got that sorted out .
+
+dialogue type : fh|qw
+D :  Um , how 're we doing on the on the rest of it ?
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : fg
+D :  Yeah , uh ,
+
+dialogue type : s^bk
+D :  so twenty hours .
+
+dialogue type : s
+D :  But I guess the other thing is that , um , that that 's kinda twenty hours ASAP because the longer before the demo we actually have the twenty hours , the more time it 'll be for people to actually do cool things with it .
+
+dialogue type : b
+D :  So . OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : sj^ba
+D :  Well , that 's good .
+
+dialogue type : fg|qy^d^rt
+D :  Yeah , I mean , I guess the So the difference if if , um , if the IBM stuff works out , the difference in the job would be that they p primarily would be checking through things that were already done by someone else ?
+
+dialogue type : qy^rt.%-
+D :  Is that most of what it ?
+
+dialogue type : s^bk
+D :  I mean Correcting .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Uh , yeah .
+
+dialogue type : fg
+D : 
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : s^co^t^tc
+D :  So let 's talk about the digits , since they 're not here yet .
+
+dialogue type : s
+D :  Well , forced alignment would be one thing .
+
+dialogue type : qw^rt
+D :  What about just actually doing recognition ?
+
+dialogue type : s^ar|s^ng
+D :  No , they make mistakes .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : h
+D : 
+
+dialogue type : s
+D :  Yeah , I 'm I 'm not quite sure what I 'm talking about .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^r
+D :  I mean , uh , we 're talking about digits now .
+
+dialogue type : fh|s
+D :  And and so , um , there 's a bunch of stuff that hasn't been marked yet .
+
+dialogue type : fh
+D :  Uh .
+
+dialogue type : fh|qy
+D :  And , um , there 's the issue that that they we know what what was said , but do we ?
+
+dialogue type : s
+D :  Because people make mistakes and stuff .
+
+dialogue type : s
+D :  I was just asking , just out of curiosity , if if with , uh uh , the SRI recognizer getting one percent word error ,
+
+dialogue type : fh|qy
+D :  uh , would we would we do better ?
+
+dialogue type : qy^bu^d^rt
+D :  So , if you do a forced alignment but the force but the but the transcription you have is wrong because they actually made mistakes , uh , or false starts , it 's it 's much less c it 's much less common than one percent ?
+
+dialogue type : s
+D :  We should be able to .
+
+dialogue type : qy^bu^d^g^rt
+D :  Right ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  So that 's just my question .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : fg
+D : 
+
+dialogue type : sj
+D : 
+
+dialogue type : s
+D :  but , I mean , m maybe it is a serious problem .
+
+dialogue type : qw
+D : 
+
+dialogue type : qy^d.%-
+D :  I mean , you think they 'll we 'll get ?
+
+dialogue type : b
+D :  Yeah ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : fg|s^ng
+D :  Well , I I I dunno ,
+
+dialogue type : s^cs
+D :  I I think that that 's if they are in fact going to transcribe these things , uh , certainly any process that we 'd have to correct them , or whatever is needs to be much less elaborate for digits than for other stuff .
+
+dialogue type : qh
+D :  So , why not ?
+
+dialogue type : s^aa
+D :  Sure .
+
+dialogue type : qy^d
+D :  That was it ?
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s
+D :  Well , we we we wanna have them .
+
+dialogue type : %
+D : 
+
+dialogue type : s
+D :  I in Berkeley , yeah .
+
+dialogue type : fg|s
+D :  So , uh You you have to go a little early ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : %
+D : 
+
+dialogue type : fg
+D :  Alright .
+
+dialogue type : s^co^t^tc
+D :  So le let 's make sure we do the ones that that , uh , saved you .
+
+dialogue type : s
+D :  So there was some Uh In in Adam 's agenda list ,
+
+dialogue type : qy^d
+D :  he had something from you about segmentation this last recognition ?
+
+dialogue type : b
+D :  OK .
+
+dialogue type : fg|qy^d^t^tc
+D :  Um another one that we had on Adam 's agenda that definitely involved you was s something about SmartKom ?
+
+dialogue type : s^co
+D :  Wait a minute .
+
+dialogue type : fg|s
+D :  So , I just wanted to understand it , cuz I I 'm uh , hadn't quite followed this process .
+
+dialogue type : fh|qy^bu^d
+D :  Um . So , it 's wizard in the sen usual sense that the person who is asking the questions doesn't know that it 's , uh , a machi not a machine ?
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^co
+D :  You might wanna try collecting it the other way around sometime , saying that th the computer isn't up yet
+
+dialogue type : s
+D :  and then so then you can separate it out whether it 's the beginning or end kind of effects .
+
+dialogue type : fh
+D :  But ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : %-
+D :  S
+
+dialogue type : fg
+D : 
+
+dialogue type : qw^rt
+D :  So , what is the purpose of this recording ?
+
+dialogue type : s^bu^m
+D :  This is to get acoustic and language model training data for SmartKom. OK .
+
+dialogue type : fg
+D :  Well ,
+
+dialogue type : qw.%-
+D :  so why not ?
+
+dialogue type : s
+D :  We 've never signed anything that said that we couldn't use anything that we did .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  No that 's not a problem .
+
+dialogue type : s^co
+D :  I L look , it seems to me that if we 're doing it anyway and we 're doing it for these these purposes that we have , and we have these distant mikes , we definitely should re should save it all as long as we 've got disk space ,
+
+dialogue type : s
+D :  and disk is pretty cheap .
+
+dialogue type : qy
+D :  So should we save it ?
+
+dialogue type : %--
+D :  Now th
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  So we save it because it 's it it 's potentially useful .
+
+dialogue type : s
+D :  And now , what do we do with it is is a s separate question .
+
+dialogue type : s
+D :  I mean , anybody who 's training something up could choose to put it eh , to u include this or not .
+
+dialogue type : s
+D :  I I would not say it was part of the meetings corpus .
+
+dialogue type : s
+D :  It isn't .
+
+dialogue type : s
+D :  But it 's some other data we have ,
+
+dialogue type : s
+D :  and if somebody doing experiment wants to train up including that then they can .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s
+D :  I think it 's I I think I th think the idea of two or more people conversing with one another is key .
+
+dialogue type : fg
+D :  Nnn , well
+
+dialogue type : s^ar
+D :  No , it doesn't .
+
+dialogue type : qy^d^g^rt
+D :  Right ?
+
+dialogue type : %--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%-
+D :  I think it is a s
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  It 's scenario - based , it 's it 's human - computer interface it 's really pretty different .
+
+dialogue type : s
+D :  But I I I have no problem with somebody folding it in for some experiment they 're gonna do ,
+
+dialogue type : s
+D :  but I don't think i it it doesn't match anything that we 've described about meetings .
+
+dialogue type : s
+D :  Whereas everything that we talked about them doing at at UW and so forth really does .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bs
+D :  Again , as as I think Andreas was saying , if you wanna use the same tools and the same conventions , there 's no problem with that .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh
+D :  you know .
+
+dialogue type : s
+D :  It is different .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I mean , digits are different , too .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : s
+D :  Well , I don I wouldn't call reading digits " meetings " .
+
+dialogue type : qy^d^f^g^rt
+D :  Right ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : fg
+D : 
+
+dialogue type : s
+D :  I mean , I don't care what directory tree you have it under .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^co
+D :  O - You you can use whatever procedure you want that 's p convenient for you .
+
+dialogue type : s^co
+D :  All I 'm saying is that there 's no way that we 're gonna tell people that reading digits is meetings .
+
+dialogue type : s^co
+D :  And similarly we 're not gonna tell them that someone talking to a computer to get travel information is meetings .
+
+dialogue type : s
+D :  Those aren't meetings .
+
+dialogue type : s^cs
+D :  But if it makes it easier for you to pu fold them in the same procedures and have them under the same directory tree , knock yourself out .
+
+dialogue type : qy^d^g
+D :  You know ?
+
+dialogue type : b
+D :  Alright .
+
+dialogue type : b
+D :  Ah .
+
+dialogue type : sj^ba
+D :  Good point .
+
+dialogue type : sj^ba^r
+D :  Good point .
+
+dialogue type : sj
+D :  But I 'm sure no one would have a problem with our folding it in for some acoustic modeling or or some things .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : qy^rt
+D :  Do we h do we have , uh , um , American - born folk , uh , reading German German , uh , pla uh , place names and so forth ?
+
+dialogue type : qy.%-
+D :  Is that ?
+
+dialogue type : sj^ba
+D :  Yeah , great .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  Heidelberg
+
+dialogue type : s^j^t3
+D :  Yeah , I be pretty good .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s.%--
+D : 
+
+dialogue type : s^j^na.%--
+D : 
+
+dialogue type : s
+D :  Da - we had allowed Dave to listen to these these , uh , recordings .
+
+dialogue type : fh
+D :  Um Yeah ,
+
+dialogue type : s^tc
+D :  I me and there 's been this conversation going on about getting another file server ,
+
+dialogue type : s^co
+D :  and and we can do that .
+
+dialogue type : s^co
+D :  We 'll take the opportunity and get another big raft of of disk , I guess .
+
+dialogue type : s
+D :  Soon .
+
+dialogue type : qy^bu^d^rt
+D :  Year or two ?
+
+dialogue type : sj^fe
+D :  Wow .
+
+dialogue type : fg|s.%-
+D :  I mean , yeah , all the L
+
+dialogue type : s^nd
+D :  LDC - all the LDC distributions are on CD - ROM .
+
+dialogue type : s^na
+D :  We have all sorts of CD - ROMs from a long time ago .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Oh , I see .
+
+dialogue type : b
+D : 
+
+dialogue type : fg|s.%-
+D : 
+
+dialogue type : s
+D :  The b I think th the at least the once tha that you put it on , it would it would kill that .
+
+dialogue type : b
+D :  So .
+
+dialogue type : %-
+D :  Wh
+
+dialogue type : qy^bu^d
+D :  The o the one that we have ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : qy^rt
+D :  No , we have s we Don't we have our own ?
+
+dialogue type : qy^d^rt
+D :  Something wi th that doesn't that isn't used by the back - up gang ?
+
+dialogue type : qy^rt
+D :  Don't we have something downstairs ?
+
+dialogue type : %-
+D :  Just in ?
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s^na
+D :  Yeah , that 's basically what I was gonna say , is that a disk is is so cheap it 's es essentially , you know , close to free .
+
+dialogue type : s
+D :  And the only thing that costs is the back - up issue , eh , to first order .
+
+dialogue type : s^co
+D :  And we can take care of that by putting it on non - back up drives and just backing it up once onto this tape .
+
+dialogue type : b
+D :  Oh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Good .
+
+dialogue type : b
+D :  It 's good .
+
+dialogue type : s^na
+D :  He - I Dave has has promoted this in the past .
+
+dialogue type : s^na
+D :  So I don't think he 's actually against it .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|qy^d^rt^t^tc
+D :  Um , another , thing on the agenda said SRI recognition experiments ?
+
+dialogue type : qw
+D :  What 's that ?
+
+dialogue type : b.%
+D :  Uh .
+
+dialogue type : qw.%
+D :  Who 's that ?
+
+dialogue type : fg|s
+D :  Yeah , I got confused by the results .
+
+dialogue type : s
+D :  It sai because uh , the meeting before , you said " OK , we got it down to where they 're they 're within a tenth of a percent " .
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^2^j
+D :  It 's the women are the problem .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Oh .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^ar.%
+D :  No .
+
+dialogue type : b
+D :  Aha !
+
+dialogue type : b
+D :  OK .
+
+dialogue type : fg|s
+D :  So but you see , now , between between the males and the females , there 's certainly a much bigger difference in the scaling range , than there is , say , just within the males .
+
+dialogue type : s
+D :  And what you were using before was scaling factors that were just from the the m the SRI front - end .
+
+dialogue type : s
+D :  And that worked that worked fine .
+
+dialogue type : fh|s
+D :  Uh , but now you 're looking over a larger range and it may not be so fine .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Huh .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  No no .
+
+dialogue type : s
+D :  I I remember that .
+
+dialogue type : s.%--
+D :  You 're This is lemme ask a q more basic que
+
+dialogue type : qy^rt
+D :  I mean , is this , uh uh , iterative , Baum - Welch training ?
+
+dialogue type : qrr^rt
+D :  Or is it Viterbi training ?
+
+dialogue type : qrr.%--
+D :  Or ?
+
+dialogue type : s^bk^m
+D :  Baum - Welch training .
+
+dialogue type : qw
+D :  And how do you determine when to to stop iterating ?
+
+dialogue type : s^ng
+D :  Or maybe or maybe you 're doing one too many .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^arp^rt
+D :  Uh . Well , there can be .
+
+dialogue type : b
+D :  Sure .
+
+dialogue type : s
+D :  It d if you if you remember some years ago Bill Byrne did a thing where he was he was looking at that ,
+
+dialogue type : s
+D :  and he showed that you could get it .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : %--
+D :  And in each case , ho
+
+dialogue type : s^fa
+D : 
+
+dialogue type : qw^rt
+D :  in each case how do you determine , you know , the the usual fudge factors ?
+
+dialogue type : fh|s
+D :  The , uh the , uh , language , uh , scaling , acoustic scaling ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  And the pru the question he was asking at one point about pruning ,
+
+dialogue type : fh
+D : 
+
+dialogue type : qy^d^rt
+D :  Remember that one ?
+
+dialogue type : s^rt
+D :  Well , he was he 's it looked like the probabil at one point he was looking at the probabilities he was getting out at the likelihoods he was getting out of PLP versus mel cepstrum , and they looked pretty different ,
+
+dialogue type : s
+D :  as I recall .
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D : 
+
+dialogue type : qy^d^rt
+D :  if you have some threshold somewhere in terms of beam search or something ,
+
+dialogue type : qrr.%--
+D :  or ?
+
+dialogue type : s
+D :  But , you 're only talking about a percent or two .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s
+D :  Here we 're - we 're saying that we there gee , there 's this b eh , there 's this difference here .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  See cuz , i i there could be lots of things .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s^cs
+D :  But but but but , um , let 's suppose just for a second that , uh , we 've sort of taken out a lot of the the major differences , uh , between the two .
+
+dialogue type : s
+D :  I mean , we 're already sort of using the mel scale and we 're using the same style filter integration ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  Before we i i th with straight PLP , it 's trapezoidal also .
+
+dialogue type : s
+D :  But then we had a slight difference in the in the scale .
+
+dialogue type : fh
+D :  Uh , so .
+
+dialogue type : s^2
+D :  Coup - Couple tenths of a percent or something .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh
+D :  So , f
+
+dialogue type : %
+D :  i
+
+dialogue type : s
+D :  We 've always viewed it , anyway , as the major difference between the two , is actually in the smoothing ,
+
+dialogue type : s
+D :  that the that the , um , PLP , and and the reason PLP has been advantageous in , uh , slightly noisy situations is because , PLP does the smoothing at the end by an auto - regressive model ,
+
+dialogue type : s
+D :  and mel cepstrum does it by just computing the lower cepstral coefficients .
+
+dialogue type : fh
+D :  Um . So , um Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^na
+D :  Could be .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qw
+D :  Now the other que related question , though , is is , uh , what 's the boot models for these things ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s
+D :  Well , mis for making things better .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s
+D :  But , this for making things worse .
+
+dialogue type : s.%--
+D :  This it migh
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  Which you got from a different feature set .
+
+dialogue type : s
+D :  So , those features look at the data differently , actually .
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  You know , all th all that sort of thing is actually slightly different .
+
+dialogue type : s
+D :  I 'd expect it to be a minor effect ,
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^aa
+D :  Yeah , maybe not .
+
+dialogue type : s
+D :  But it it I st still see it as I mean , there 's there 's a history to this , too ,
+
+dialogue type : s
+D :  but I uh , I don't wanna go into ,
+
+dialogue type : s
+D :  but but I I I th I think it could be the things that it the data is being viewed in a certain way , uh , that a beginning is here rather than there and so forth ,
+
+dialogue type : s^df
+D :  because the actual signal - processing you 're doing is slightly different .
+
+dialogue type : s
+D :  But , it 's it 's that 's probably not it .
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : s^cs
+D :  At some point you also might wanna take the same thing and try it on , uh , some Broadcast News data or something else that actually has has some noisy noisy components , so we can see if any conclusions we come to holds across different data .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : qy^tc.%--
+D :  So , is there something quick about Absinthe that you ?
+
+dialogue type : s^cs
+D :  Yeah , we 'll just go buy them , I guess .
+
+dialogue type : s^2
+D :  Probably just throw away the old ones ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^ft
+D :  Thank you for the box ,
+
+dialogue type : s^t1
+D :  and I 'll just go buy their process .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : qy^rt^tc
+D :  Is is Liz coming back , do you know ,
+
+dialogue type : qrr.%--
+D :  or ?
+
+dialogue type : s^no
+D :  I dunno .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Oh , you don't .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Alright .
+
+dialogue type : s^bk
+D :  Alright .
+
+dialogue type : s
+D :  See you .
+
+dialogue type : b
+D :  Um .
+
+dialogue type : fg
+D :  Alright .
+
+dialogue type : fg
+D : 
+
+dialogue type : fh|s
+D :  Uh , they 're having tea out there .
+
+dialogue type : s^t^tc
+D :  So I guess the other thing that we were gonna talk about is is , uh , demo .
+
+dialogue type : fh|s.%-
+D :  And , um , so , these are the demos for the uh , July , uh , meeting and , um DARPA mee
+
+dialogue type : s^rt
+D :  Oh , I think it 's July fifteenth .
+
+dialogue type : qy^bu^rt
+D :  Is that it ?
+
+dialogue type : s^aa
+D :  Yeah , sixteenth , eighteenth .
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : s
+D :  So , we talked about getting something together for that ,
+
+dialogue type : s^cs.%--
+D : 
+
+dialogue type : s^cs
+D :  But I think maybe we should have a a sub - meeting ,
+
+dialogue type : s^cs
+D :  I think , uh , probably , uh , Adam and and , uh , Chuck and me should talk about should get together and talk about that sometime soon .
+
+dialogue type : s^aa|s^na
+D :  Yeah something like that .
+
+dialogue type : fh|s^co
+D :  Um , uh , you know , maybe maybe we 'll involve Dan Ellis at some some level as well .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s^cs^tc
+D :  OK . The the tea is is going , so , uh , I suggest we do , uh uh , a unison .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : fh|sj^ba
+D :  Well , that 'll be interesting .
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : z
+D :  OK we 're done .
+

@@ -1,0 +1,384 @@
+dialogue type : qw^rt
+A :  And what was that , Morgan ?
+
+dialogue type : qw^e^rt
+A :  What project ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s
+A :  It was true for two years .
+
+dialogue type : qy^cs^rt^t^tc
+A :  So , should we just do the same kind of deal where we go around and do , uh , status report kind of things ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^cs
+A :  And I guess when Sunil gets here he can do his last or something .
+
+dialogue type : %-
+A :  So .
+
+dialogue type : s^aa
+A :  OK .
+
+dialogue type : s^ba^na
+A :  That 's a good idea .
+
+dialogue type : qo^d^rt
+A :  Any objection ?
+
+dialogue type : %--
+A :  Do y
+
+dialogue type : s^bk
+A :  OK ,
+
+dialogue type : %--
+A :  M
+
+dialogue type : qy^cs^rt
+A :  Do you want to start , Morgan ?
+
+dialogue type : qy^rt
+A :  Do you have anything ,
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : qw^cs
+A :  Why don't you go ahead , Barry ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qw^rt
+A :  When is your , uh , meeting ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^m^na
+A :  The quals .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^bk^fe
+A :  Oh .
+
+dialogue type : s
+A :  Soon .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy^bu
+A :  So , is the idea you 're going to do this paper
+
+dialogue type : qy^bu
+A :  and then you pass it out to everybody ahead of time
+
+dialogue type : %--
+A :  and ?
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s
+A :  I remember now .
+
+dialogue type : x
+A :  Have you d ?
+
+dialogue type : qy^cs^rt
+A :  I was just gonna ask , do you want to say any a little bit about it ,
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  You said you were talking about the , uh , particular features that you were looking at ,
+
+dialogue type : %--
+A : 
+
+dialogue type : qy^bu^d^rt
+A :  So you 're gonna use TIMIT ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bu
+A :  Oh . So that 's why you were interested in getting your own features into the SRI files .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^ba
+A :  Sounds good .
+
+dialogue type : s^bu
+A :  So you just have a few more weeks ,
+
+dialogue type : qy^d^g^rt
+A :  huh ?
+
+dialogue type : qy^bu^d^rt
+A :  It 's about a month from now ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg|qy^co^rt
+A :  So , uh , you want to go next , Dave ?
+
+dialogue type : s.%-
+A : 
+
+dialogue type : qy^rt
+A :  Did you add this data to the training set , for the Aurora ?
+
+dialogue type : qrr
+A :  Or you just tested on this ?
+
+dialogue type : s
+A :  Well , Morgan was just saying that , uh , as long as you do it in both training and testing , it shouldn't have any effect .
+
+dialogue type : s
+A :  But I I was sort of under the impression that you just tested with this data .
+
+dialogue type : s
+A :  You didn't train it also .
+
+dialogue type : s
+A :  I wonder if there could be something like , uh for s for the PZM data ,
+
+dialogue type : s^e
+A :  uh , you know , if occasionally , uh , somebody hits the table or something , you could get a spike .
+
+dialogue type : fh
+A :  Uh .
+
+dialogue type : s
+A :  I 'm just wondering if there 's something about the , um you know , doing the mean normalization where , uh , it it could cause you to have better signal - to - noise ratio .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qo^rt
+A :  So was that was that everything , Dave ?
+
+dialogue type : qw
+A :  What does it leave ?
+
+dialogue type : qy
+A :  Well , could you take what was left over and then subtract that ?
+
+dialogue type : qy^d^rt
+A :  All set ?
+
+dialogue type : qy^cs^rt
+A :  Do you want to go , Stephane ?
+
+dialogue type : s
+A :  It didn't seem to help in the HTK system .
+
+dialogue type : s
+A :  Well , there 's also the normalization .
+
+dialogue type : s.%--
+A :  Like they do ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s^no
+A :  I 'm not sure how they would do it when they 're working with the digits ,
+
+dialogue type : s^e
+A :  but , like , in the Switchboard data , there 's , um conversation - side normalization for the non - C - zero
+
+dialogue type : s^e
+A :  components ,
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg
+A : 
+
+dialogue type : qy^rt
+A :  so the n stuff on the numbers you got , the two point seven , is that using the same training data that the SRI system used and got one point two ?
+
+dialogue type : qy^bu^d
+A :  So exact same training data ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^cs
+A :  You know , it would also be interesting to see , uh to do the regular Aurora test ,
+
+dialogue type : fh
+A :  um ,
+
+dialogue type : s^cs
+A :  but use the SRI system instead of HTK .
+
+dialogue type : qw^rt
+A :  Why not the full Aurora , uh , test ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^na
+A :  That 's what I mean .
+
+dialogue type : s.%-
+A :  So , like , comple
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s.%--
+A :  Well , I mean ,
+
+dialogue type : fh
+A :  uh ,
+
+dialogue type : fh
+A :  uh ,
+
+dialogue type : s^bu
+A :  I guess the work would be into getting the the files in the right formats , or something .
+
+dialogue type : qy^d^g^rt
+A :  Right ?
+
+dialogue type : fh
+A : 
+
+dialogue type : s^df
+A :  Because when you train up the Aurora system , you 're , uh you 're also training on all the data .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : %-
+A :  No
+
+dialogue type : s
+A :  Something that that I 've used in the past is , um when just looking at the energy , is to look at the derivative .
+
+dialogue type : s
+A :  And you make your decision when the derivative is increasing for so many frames .
+
+dialogue type : s
+A :  Then you say that 's beginning of speech .
+
+dialogue type : s
+A :  But , I 'm I 'm trying to remember if that requires that you keep some amount of speech in a buffer .
+
+dialogue type : s
+A :  I guess it depends on how you do it .
+
+dialogue type : s
+A :  But I mean , that 's that 's been a useful thing .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qo^rt
+A :  How about you , Carmen ?
+
+dialogue type : qy^rt^tc
+A :  Is that it ?
+
+dialogue type : s^bk
+A :  OK ?
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : qy^cs^rt
+A :  Want to go ahead , Morgan ?
+
+dialogue type : z
+A :  Transcript L dash two one five .
+

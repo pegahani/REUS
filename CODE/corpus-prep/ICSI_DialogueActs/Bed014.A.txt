@@ -1,0 +1,840 @@
+dialogue type : s
+A :  That 's good to know .
+
+dialogue type : s^2
+A :  But I will not give them to you unless you come into my lair .
+
+dialogue type : s^j
+A :  You know , the usual party voices .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm !
+
+dialogue type : s|qy^d^f^g^rt
+A :  This is something you ha you get used to as a programmer , right ?
+
+dialogue type : s^f|s
+A :  You know , and it 's cool , it works out that way .
+
+dialogue type : s^bk^m.%--
+A :  Where
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qw
+A :  What what thing is this ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^2
+A :  And so on .
+
+dialogue type : s
+A :  It was written by committee .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^bk^fe
+A :  Oh !
+
+dialogue type : b
+A :  Hmm !
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : fg|s.%--
+A : 
+
+dialogue type : s
+A :  various issues of how come a plural noun gets to quote " count as a noun phrase " ,
+
+dialogue type : s
+A :  you know , occur as an argument of a higher construction , but a bare singular stem doesn't get to act that way .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s
+A :  and it would take a really long time to explain it now ,
+
+dialogue type : s
+A :  but I 'm about to write it up this evening .
+
+dialogue type : s:s
+A :  I solved that at the same time as " how do we keep adjectives from floating to the left of determiners and how do we keep all of that from floating outside the noun phrase " to get something like " I the kicked dog " .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s
+A :  Did it did it at once .
+
+dialogue type : s
+A :  So maybe maybe it 'll be a similar thing .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm !
+
+dialogue type : b
+A :  Hmm !
+
+dialogue type : s^j
+A :  Same thing .
+
+dialogue type : s^bk
+A :  Alright .
+
+dialogue type : fg|s
+A :  Right . I do .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^2
+A :  Knows .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  There 's The group as a whole knows
+
+dialogue type : s.%--
+A :  but no individual member kno
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Hunh !
+
+dialogue type : qw
+A :  So , uh , what was the date there ?
+
+dialogue type : qy^bu^d^rt
+A :  Monday
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : s
+A :  It 's a Friday .
+
+dialogue type : s^bk^m
+A :  End of next week .
+
+dialogue type : s.%-
+A :  I thought you said beginning of n
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  Yeah , I have a busy weekend
+
+dialogue type : s
+A :  but after that Yeah ,
+
+dialogue type : s
+A :  gung - ho .
+
+dialogue type : s^ba^bk
+A :  Great ,
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  But at at least sort of try and work out what the state of the art is right now .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : h|qh
+A :  Well . Uh , what was supposed to happen ?
+
+dialogue type : s
+A :  I 've sort of been actually caught up in some other ones ,
+
+dialogue type : s
+A :  so , um , you know , I don't have a write - up of or I haven't elaborated on the ideas that we were already talking about
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  It 's gone .
+
+dialogue type : s
+A :  The question of whether the polysemy is sort of like in the construction or pragmatic .
+
+dialogue type : s
+A :  I think it has to be the the second case .
+
+dialogue type : fg|qy
+A :  Um , so d ' you Is it clear what we 're talking about here ?
+
+dialogue type : s
+A :  The question is whether the construction is semantic or like ambiguous between asking for location and asking for path .
+
+dialogue type : fh
+A :  Um
+
+dialogue type : s
+A :  or or whether the construction semantically , uh , is clearly only asking for location
+
+dialogue type : s:s
+A :  but pragmatically that 's construed as meaning " tell me how to get there " .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b.%
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm . Yeah .
+
+dialogue type : fg|s
+A :  So right , this one is maybe in the gray area .
+
+dialogue type : qrr
+A :  Is it is it like that or is it just sort of obvious from world knowledge that no one you wouldn't want to know the location without wanting to know how to get there or whatever .
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : s
+A :  Well the question is basically , is this conventional or conversational implicature ?
+
+dialogue type : s^bk
+A :  OK , right .
+
+dialogue type : s^2|s^bk
+A :  Which of that is . Yeah , OK
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  So if someone mentions admission f fees , that activates an Enter schema which sticks around for a little while in your rep in the representation of what 's being talked about .
+
+dialogue type : s:qw
+A :  And then when someone asks " where is X ? " you 've already got the the Enter schema activated
+
+dialogue type : s
+A :  and you 're able to to conclude on it .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah , sure .
+
+dialogue type : s.%-
+A :  No , I mean
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yeah , right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  " Here 's my plan for today .
+
+dialogue type : s
+A :  Here 's my plan for tomorrow . "
+
+dialogue type : s^e
+A :  hypothetically .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^na
+A :  There 's a few of us around now .
+
+dialogue type : s^bk
+A :  Oh yeah .
+
+dialogue type : b.%
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg|s
+A :  Yeah , it seems to always land in your category .
+
+dialogue type : s^ba^j
+A :  You 're lucky .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^ba^j
+A :  Made it much easier to make these decisions .
+
+dialogue type : fh
+A :  Uh .
+
+dialogue type : s^bk
+A :  Yeah . Right , right , right .
+
+dialogue type : s^aa^j|s^fa^j
+A :  Yes . Excuse me .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s
+A :  Anyhow .
+
+dialogue type : s^ba
+A :  Always good .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^ba
+A :  That 's normal .
+
+dialogue type : s^bk
+A :  Good .
+
+dialogue type : s
+A :  Either way .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy^rt
+A :  It 's i Is it staying basically at the Wednesday noon ?
+
+dialogue type : s^bk|s
+A :  OK . It was th off this week ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : s
+A :  To tell you the truth , I 'd rath I 'd , I 'd would like to avoid more than one ICSI meeting per day , if possible .
+
+dialogue type : s^bd^no
+A :  But I mean . I don't know .
+
+dialogue type : s
+A :  Whatever .
+
+dialogue type : s^bk|s^ba
+A :  Yeah , I can understand that .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^bk
+A :  Ah , yeah .
+
+dialogue type : s^2
+A :  Next week .
+
+dialogue type : s^bk
+A :  That 's right .
+
+dialogue type : s^t3.%-
+A : 
+
+dialogue type : s.%-
+A :  That should be relatively flexible be
+
+dialogue type : s^aa|s
+A :  Yeah . There 's just sort of the two to four of us .
+
+dialogue type : qy^d^g^rt
+A :  Right ?
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  And , you know , of course Nancy and I are just sort of always talking anyway and sometimes we do it in that room .
+
+dialogue type : s.%--
+A :  So , you know , I mean .
+
+dialogue type : s
+A :  Um , all of the proposed times sound fine with me .
+
+dialogue type : s^2
+A :  Earlier in the week
+
+dialogue type : b
+A :  Mm - hmm . Yeah .
+
+dialogue type : s^aa
+A :  OK .
+
+dialogue type : s:s^aa|s^na
+A :  Sure . Sounds great .
+
+dialogue type : s
+A :  Uh , so that 's the eighteenth .
+
+dialogue type : s^aa
+A :  Yeah , exactly .
+
+dialogue type : s^fa|s
+A :  Sorry , two PM .
+
+dialogue type : s^bk
+A :  Alright .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^cs
+A :  Why don't w Maybe you and I should meet sort of more or less first thing Monday morning and then we can work on this .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^aa|s
+A :  Yeah , sort of through the weekend
+
+dialogue type : s^df
+A :  because Kate has a photography show .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  Um , if you have time after this I 'll show you the noun phrase thing .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Alright .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b.%
+A :  Yeah .
+
+dialogue type : s
+A :  Oy , deadlines .
+
+dialogue type : s^cs:qw
+A :  Someday we also have to we should probably talk about the other side of the " where is X " construction ,
+
+dialogue type : qh
+A :  which is the issue of , um , how do you simulate questions ?
+
+dialogue type : qh^e
+A :  What does the simspec look like for a question ?
+
+dialogue type : s^df
+A :  Because it 's a little different .
+
+dialogue type : s
+A :  We had to we had an idea for this which seemed like it would probably work .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^2
+A :  It 's more general
+
+dialogue type : s^ba
+A :  Cool .
+
+dialogue type : s^aa|s
+A :  Yeah . It 's good for you .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : %-
+A :  Um , I
+
+dialogue type : s^rt
+A :  To tell you the truth , what I 've been looking at has not been the data so far ,
+
+dialogue type : s
+A :  I just sort of said " alright let 's see if I can get noun phrases and , uh , major verb co uh , constructions out of the way first . " And I have not gotten them out of the way yet .
+
+dialogue type : s^j
+A :  Surprise .
+
+dialogue type : fh
+A :  So , um .
+
+dialogue type : s
+A :  So , I have not really approached a lot of the data ,
+
+dialogue type : s
+A :  but I mean obviously like these the the question one ,
+
+dialogue type : s
+A :  since we have this idea about the indefinite pronoun thing and all that , you know , I ca can try and , um run with that ,
+
+dialogue type : s
+A :  you know , try and do some of the sentence constructions now .
+
+dialogue type : s
+A :  It would make sense .
+
+dialogue type : s^bk|s.%--
+A :  Oh yeah , the basic idea is that
+
+dialogue type : fh|%--
+A : 
+
+dialogue type : s
+A :  Uh , let 's see if I can formulate this .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^2
+A :  Means .
+
+dialogue type : s:s
+A :  The WH question has this as sort of extra thing which says " and when you 're done , tell me who fills that slot " or w you know .
+
+dialogue type : fh
+A :  So , um .
+
+dialogue type : s
+A :  And , you know , this is sort of a nice way to do it ,
+
+dialogue type : s
+A :  the idea of sort of saying that you treat from the simulation point of view or whatever you treat , uh , WH constructions similarly to uh , indefinite pronouns
+
+dialogue type : s:s
+A :  like " someone fixed the car "
+
+dialogue type : s^df
+A :  because lots of languages , um , have WH questions with an indefinite pronoun in situ or whatever ,
+
+dialogue type : s
+A :  and you just get intonation to tell you that it 's a question .
+
+dialogue type : s
+A :  So it makes sense
+
+dialogue type : fh
+A :  um
+
+dialogue type : qw^br^rt
+A :  Hmm ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%--
+A :  shko
+
+dialogue type : s^bk
+A :  Sure .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Right . Right . No . Of course .
+
+dialogue type : s^bk
+A :  That 's right .
+
+dialogue type : s
+A :  It makes sense from that point of view , too , which is actually better .
+
+dialogue type : fh
+A :  So yeah , um .
+
+dialogue type : fg|s
+A :  Anyway , but just that kind of thing
+
+dialogue type : s^cc
+A :  and we 'll figure out exactly how to write that up and so on ,
+
+dialogue type : fh
+A :  but
+
+dialogue type : s
+A :  Uh , no , all the focus stuff .
+
+dialogue type : s
+A :  We sort of just dropped that
+
+dialogue type : s^df
+A :  cuz it was too weird
+
+dialogue type : s
+A :  and we didn't even know , like , what we were talking about exactly ,
+
+dialogue type : s
+A :  what the object of study was .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk|s^na
+A :  OK , then certainly we will .
+
+dialogue type : s^ba
+A :  Good .
+
+dialogue type : fg|s
+A :  Yeah . w We should figure out what our questions are , for example , to ask you .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^rt
+A :  Sometimes Hans has been sort of coming in there as sort of like a devil 's advocate type role or something ,
+
+dialogue type : s^rt:s^rt
+A :  like " This make you know , I 'm going to pretend I 'm a linguist who has nothing to do with this .
+
+dialogue type : s:s^ba
+A :  This makes no sense . "
+
+dialogue type : s
+A :  And he 'll just go off on parts of it which definitely need fixing
+
+dialogue type : s
+A :  but aren't where we 're at right now ,
+
+dialogue type : s.%-
+A :  so it 's
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa|s^ba
+A :  No , right . I mean , tha that role is is , uh , indispensable
+
+dialogue type : s^df
+A :  but that 's not where sort of our heads were at in these meetings .
+
+dialogue type : s
+A :  It was a little strange .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s
+A :  So I don't know what his take will be on these meetings exactly , you know .
+
+dialogue type : s^df
+A :  Cuz sometimes he sort of sounds like we 're talking a bunch of goobledy - gook from his point of view .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yep .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^ba
+A :  Shoot .
+
+dialogue type : s^ba
+A :  Bummer .
+

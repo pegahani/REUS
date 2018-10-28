@@ -1,0 +1,516 @@
+dialogue type : s
+A :  Eh , we should be going .
+
+dialogue type : qy^cs^rt
+A :  Couldn't you t couldn't you , um , test the human performance on just the original audio ?
+
+dialogue type : s^bk
+A :  Oh , oh . OK ,
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s^bu
+A :  OK . So , y uh , your performance was one percent ,
+
+dialogue type : s
+A :  and then when you re - synthesize with LPC - twelve it went to five .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : %-
+A :  But
+
+dialogue type : s^bu
+A :  But from this it 's pretty safe to say that the system is with either two to seven percent away from the performance of a human .
+
+dialogue type : qy^d^g
+A :  Right ?
+
+dialogue type : s^bu^e
+A :  So it 's somewhere in that range .
+
+dialogue type : s^bu^e
+A :  Two two to six percent .
+
+dialogue type : qy^bu^d^rt
+A :  In the LPC synthesis ?
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  So I 've , um , downloaded , uh , a couple of things from Mississippi State .
+
+dialogue type : s
+A : 
+
+dialogue type : s^e
+A :  their , uh , LVCSR system .
+
+dialogue type : s
+A :  Downloaded the latest version of that .
+
+dialogue type : s
+A :  Got it compiled and everything .
+
+dialogue type : s
+A :  Um , downloaded the scripts .
+
+dialogue type : s
+A :  They wrote some scripts that sort of make it easy to run the system on the Wall Street Journal , uh , data .
+
+dialogue type : fh|s
+A :  Um , so I haven't run the scripts yet .
+
+dialogue type : s
+A :  Uh , I 'm waiting there was one problem with part of it
+
+dialogue type : s
+A :  and I wrote a note to Joe asking him about it .
+
+dialogue type : s
+A :  So I 'm waiting to hear from him .
+
+dialogue type : s
+A :  But , um , I did print something out just to give you an idea about where the system is .
+
+dialogue type : s
+A :  Uh , they on their web site they , uh , did this little table of where their system performs relative to other systems that have done this this task .
+
+dialogue type : s
+A :  And , um , the Mississippi State system using a bigram grammar , uh , is at about eight point two percent .
+
+dialogue type : s
+A :  Other comparable systems from , uh were getting from , uh , like six point nine , six point eight percent .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^m^na|s^aa
+A :  This is on clean on clean stuff . Yeah .
+
+dialogue type : s
+A :  They they 've started a table where they 're showing their results on various different noise conditions
+
+dialogue type : s
+A :  but they they don't have a whole lot of it filled in
+
+dialogue type : s
+A :  and and I didn't notice until after I 'd printed it out that , um , they don't say here what these different testing conditions are .
+
+dialogue type : s^e
+A :  You actually have to click on it on the web site to see them .
+
+dialogue type : s^no
+A :  So I I don't know what those numbers really mean .
+
+dialogue type : s
+A :  Well , see , I was a little confused
+
+dialogue type : s^df
+A :  because on this table , I 'm the they 're showing word error rate .
+
+dialogue type : s.%--
+A :  But on this one ,
+
+dialogue type : s^rt
+A :  I I don't know if these are word error rates
+
+dialogue type : s^ba^df
+A :  because they 're really big .
+
+dialogue type : s
+A :  So , under condition one here it 's ten percent .
+
+dialogue type : s
+A :  Then under three it goes to sixty - four point six percent .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s
+A :  So m I guess maybe they 're error rates
+
+dialogue type : s^ba
+A :  but they 're , uh they 're really high .
+
+dialogue type : fh
+A : 
+
+dialogue type : qy^bu^d^rt
+A :  Correct ?
+
+dialogue type : qy^bu^d^e^rt
+A :  Accuracy ?
+
+dialogue type : s^bk|s^bk^m
+A :  Oh , oh , on digits .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^bk.%
+A :  OK .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk|qy^bh^rt
+A :  Oh , is it ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  So , yeah , that 's probably what it is then .
+
+dialogue type : fh|s
+A :  Yeah . So they have a lot of different conditions that they 're gonna be filling out .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : fg|s^ba
+A :  Yeah . It 's it 's gonna be hard .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s
+A :  they 're I I 'm still waiting for them to release the , um , multi - CPU version of their scripts ,
+
+dialogue type : s^df
+A :  cuz right now their script only handles processing on a single CPU ,
+
+dialogue type : s
+A :  which will take a really long time to run .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : %-
+A :  But their s
+
+dialogue type : h|s.%--
+A :  Uh I beli
+
+dialogue type : s^aa|s^na
+A :  Yes , for the training also .
+
+dialogue type : s
+A :  And , um , they 're supposed to be coming out with it any time ,
+
+dialogue type : s
+A :  the multi - CPU one .
+
+dialogue type : s
+A :  So , as soon as they get that , then I 'll I 'll grab those too
+
+dialogue type : %-
+A :  and so w
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : fg|s
+A :  Yeah . I 'll go ahead and try to run it though with just the single CPU one ,
+
+dialogue type : s
+A :  and I they they , um , released like a smaller data set that you can use that only takes like sixteen hours to train and stuff .
+
+dialogue type : s
+A :  So I can I can run it on that just to make sure that the the thing works and everything .
+
+dialogue type : qy^bu^d^rt
+A :  It wasn't on the conference call this morning ?
+
+dialogue type : s^bk.%
+A :  Hmm .
+
+dialogue type : qy^rt
+A :  Did they say anything on the conference call about , um , how the Wall Street Journal part of the test was going to be run ?
+
+dialogue type : s^df
+A :  Because I I thought I remembered hearing that some sites were saying that they didn't have the compute to be able to run the Wall Street Journal stuff at their place ,
+
+dialogue type : s
+A :  so there was some talk about having Mississippi State run the systems for them .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : qy^rt
+A :  Did did that come up at all ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s^ar
+A :  Hmm - mm .
+
+dialogue type : s
+A : 
+
+dialogue type : fh
+A : 
+
+dialogue type : s^e
+A :  about their system .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa|s^na
+A :  Yeah . It does .
+
+dialogue type : fg|s
+A :  Yeah . I 'm I 'm wondering about that
+
+dialogue type : s^df
+A :  because there 's this whole issue about , you know , simple tuning parameters , like word insertion penalties .
+
+dialogue type : s
+A :  And whether or not those are going to be tuned or not ,
+
+dialogue type : fh
+A :  and So .
+
+dialogue type : s
+A :  I mean , it makes a big difference .
+
+dialogue type : s
+A :  If you change your front - end , you know , the scale is completely can be completely different ,
+
+dialogue type : fh
+A :  so .
+
+dialogue type : s
+A :  It seems reasonable that that at least should be tweaked to match the front - end .
+
+dialogue type : fh
+A : 
+
+dialogue type : s^na
+A :  I did ,
+
+dialogue type : s:s
+A :  but Joe said , you know , " what you 're saying makes sense
+
+dialogue type : s:s^no
+A :  and I don't know " .
+
+dialogue type : s^e
+A :  So he doesn't know what the answer is .
+
+dialogue type : qh
+A :  I mean , that 's th We had this back and forth a little bit about , you know , are sites gonna are you gonna run this data for different sites ?
+
+dialogue type : s
+A :  And , well , if if Mississippi State runs it , then maybe they 'll do a little optimization on that parameter ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  But then he wasn't asked to run it for anybody .
+
+dialogue type : s
+A :  So i it 's it 's just not clear yet what 's gonna happen .
+
+dialogue type : s
+A :  Uh , he 's been putting this stuff out on their web site and for people to grab
+
+dialogue type : s
+A :  but I haven't heard too much about what 's happening .
+
+dialogue type : s^cs
+A :  I wonder if it it might be possible to , uh , simulate the back - end with some other system .
+
+dialogue type : s
+A :  So we we get our f front - end features ,
+
+dialogue type : s.%--
+A :  and then ,
+
+dialogue type : fh
+A :  uh ,
+
+dialogue type : s
+A :  as part of the process of figuring out the scaling of these features , you know , if we 're gonna take it to a root or to a power or something , we have some back - end that we attach onto our features that sort of simulates what would be happening .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s^m^na.%-
+A : 
+
+dialogue type : s^aa
+A :  Yeah . Oh , yeah .
+
+dialogue type : s^na
+A :  That 's true .
+
+dialogue type : s
+A :  And then we just use that to determine some scaling factor that we use .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qw
+A :  Uh , w what do you mean when you say " what kind " ?
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^m^na
+A :  Gaussian mixture model .
+
+dialogue type : s
+A :  It 's the same system that they use when they participate in the Hub - five evals .
+
+dialogue type : s
+A :  It 's a , um sort of came out of , uh uh , looking a lot like HTK .
+
+dialogue type : s
+A :  I mean , they started off with um , when they were building their system they were always comparing to HTK to make sure they were getting similar results .
+
+dialogue type : s
+A :  And so , it 's a Gaussian mixture system ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s^no
+A :  I don't know .
+
+dialogue type : fg|s^2
+A :  Yeah . And then divide the mixtures in half .
+
+dialogue type : s^no
+A :  I don't know if they do that .
+
+dialogue type : s^no
+A :  I 'm not really sure .
+
+dialogue type : s^bk|s
+A :  Yeah , th I have I I I don't have it up here
+
+dialogue type : s
+A :  but I have a the whole system description , that describes exactly what their system is
+
+dialogue type : s^no
+A :  and I I 'm not sure .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  It 's some kind of a mixture of Gaussians and , uh , clustering
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  They 're they 're trying to put in sort of all of the standard features that people use nowadays .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : qy^rt
+A :  So is this a histogram across different frequency bins ?
+
+dialogue type : qrr.%-
+A :  Or ?
+
+dialogue type : s^bu
+A :  So , one histogram per frequency bin .
+
+dialogue type : %-
+A : 
+
+dialogue type : %-
+A :  So th
+
+dialogue type : s^bk.%
+A :  Oh .
+
+dialogue type : s^bk
+A :  Huh .
+
+dialogue type : qy^bu^d^rt
+A :  And and that that , um , histogram represents the different energy levels that have been seen at that frequency ?
+
+dialogue type : s^aa
+A :  Uh - huh .
+
+dialogue type : %--
+A : 
+
+dialogue type : qy
+A :  Is the idea that you you run a test utterance through some histogram generation thing
+
+dialogue type : s.%-
+A :  and then you compare the histograms and that tells you what to do to the utterance to make it more like ?
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : %-
+A :  H
+
+dialogue type : qw
+A :  What does he do to choose those ?
+
+dialogue type : s^bk
+A :  Hmm !
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  it 's a little bit like a genetic algorithm or something in a way .
+
+dialogue type : s^e
+A :  Greedy .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^bk.%--
+A :  That 's ri
+
+dialogue type : s^bk^rt
+A :  OK .
+

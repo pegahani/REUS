@@ -1,0 +1,102 @@
+dialogue type : qy^bu^d.%--
+E :  Eh , you
+
+dialogue type : s^bk
+E :  Oh !
+
+dialogue type : s^bk
+E :  Of course .
+
+dialogue type : fh|s.%-
+E :  Eh , well , I 'm working in the em Broadband Commu
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bu
+E :  It works like like this .
+
+dialogue type : s^bk
+E :  Ah ,
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bk
+E :  Ah ,
+
+dialogue type : s
+E :  that 's uh much more comfortable .
+
+dialogue type : s^ft
+E :  Thank - thank you .
+
+dialogue type : s
+E :  I 'm uh working in the Broadband Communications Group
+
+dialogue type : fh
+E :  and eh ,
+
+dialogue type : fh
+E :  eh
+
+dialogue type : fh|s
+E :  well , the research topics at this moment is uh , I P - eighty traffic monitoring and characterization and em eh tool developing tools uh for quality of service , eh performance analysis .
+
+dialogue type : s
+E :  That 's eh And we have several projects eh both Spanish and European projects , ongoing
+
+dialogue type : fh|s^e
+E :  eh in this area .
+
+dialogue type : fg
+E :  Excuse me @ @ .
+
+dialogue type : s^cs
+E :  If I understood correctly , the mechanism eh you should eh look for um the minimum eh coverage range
+
+dialogue type : s^df
+E :  in order to maximize the throughput of the network .
+
+dialogue type : s.%-
+E :  So there the the power control eh algorithm should work , in order to use at each instant of time the minimum power need to reach
+
+dialogue type : s^e
+E :  the neighbor .
+
+dialogue type : s^df.%--
+E :  That Because this is the way eh eh more transmissions uh
+
+dialogue type : s^2
+E :  may take take place at the same time .
+
+dialogue type : s^rt
+E :  So you need the adaptive mechanism to minimize the coverage range .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^ft
+E :  Ah , thank you thank you very much .
+
+dialogue type : qw^rt
+E :  Who is ?
+
+dialogue type : s
+E :  Perez .
+
+dialogue type : s^bk|s
+E :  Ah , Peire .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^no
+E :  I don't know .
+
+dialogue type : s^no
+E :  I don't know who he is .
+
+dialogue type : s^bk
+E :  OK .
+

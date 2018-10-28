@@ -1,0 +1,663 @@
+dialogue type : s^tc.%
+B :  Alright .
+
+dialogue type : fg|qy^t
+B :  Um , do we wanna say something about the , an update of the , uh , transcript ?
+
+dialogue type : s^aa
+B :  Mmm .
+
+dialogue type : s
+B :  It 'll it 'll be basically it 'll be a re - cap of a meeting that we had jointly this morning .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : sj.%--
+B :  My feeling is that
+
+dialogue type : s
+B :  we discussed this right before coffee
+
+dialogue type : sj^ba^na
+B :  and I think it 's a it 's a fine idea partly because , um , it 's not un unrelated to their present skill set ,
+
+dialogue type : s
+B :  but it will add , for them , an extra dimension , it might be an interesting break for them .
+
+dialogue type : s
+B :  And also it is contributing to the , uh , c composition of the transcript
+
+dialogue type : s
+B :  cuz we can incorporate those numbers directly and it 'll be a more complete transcript .
+
+dialogue type : sj^ba
+B :  So I 'm I think it 's fine , that part .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : sj^ng
+B :  And , that , you know , I 'm not , that that one I 'm not so sure if it 's into the
+
+dialogue type : s^df
+B :  because the , the time that they 'd be spending doing that they wouldn't be able to be putting more words on .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : sj
+B :  It 's gonna be fun to see how we , compare at this .
+
+dialogue type : sj^ba
+B :  Very exciting . s @ @ .
+
+dialogue type : s
+B :  s @ @ . It s strikes me that there are more each of them is more informative because it 's so , random ,
+
+dialogue type : s
+B :  and that people might articulate more ,
+
+dialogue type : sj
+B :  and you that might end up with more a closer correspondence .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  H That could could be an interesting design , too , cuz then you 'd have the com the comparison of the , uh , predictable speech versus the less predictable speech
+
+dialogue type : s
+B :  and maybe you 'd find that it worked in , in the , case of the pr of the , uh , non - predictable .
+
+dialogue type : fg
+B :  Well .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bk
+B :  Yeah , sure .
+
+dialogue type : s^bk^r
+B :  Sure .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah
+
+dialogue type : b
+B :  OK .
+
+dialogue type : sj.%--
+B :  It would seem to me that the points of articulation would be m more , g
+
+dialogue type : s
+B :  uh , I mean that 's I think about articulatory features , I think about , points of articulation , which means , uh , rather than vowels .
+
+dialogue type : s
+B :  So , is it , uh , bilabial or dental or is it , you know , palatal .
+
+dialogue type : s^e
+B :  Which which are all like where where your tongue comes to rest .
+
+dialogue type : s^bsc^m
+B :  Place .
+
+dialogue type : s^ft.%--
+B : 
+
+dialogue type : s
+B :  I really meant place .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : qy^bu^rt
+B :  That 's Well , isn't that I thought that was , well but that wasn't that kinda the direction ?
+
+dialogue type : sj.%--
+B :  I thought
+
+dialogue type : sj^cs
+B :  W Well it seems like you could do both .
+
+dialogue type : s^cs.%--
+B :  I mean , I was thinking that it would be interesting , to do it with respect to , parts of Switchboard anyway , in terms of ,
+
+dialogue type : fh|s^df
+B :  uh partly to see , if you could , generate first guesses at what the articulatory feature would be , based on the phone representation at that lower level .
+
+dialogue type : s
+B :  It might be a time gain .
+
+dialogue type : s.%-
+B :  But also in terms of comparability of , um ,
+
+dialogue type : s^t1
+B :  what you gain
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  And you get the relative gain up ahead .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^bu^d^rt
+B :  So in in our case you 'd think about us s starting with maybe the regular dictionary entry ,
+
+dialogue type : s.%--
+B :  and then ?
+
+dialogue type : qrr
+B : 
+
+dialogue type : fg
+B : 
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : s^bk.%
+B :  Oh .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s
+B :  And I 'm and these people might they they are , s most of them are trained with IPA .
+
+dialogue type : s
+B :  They 'd be able to do phonetic - level coding , or articulatory .
+
+dialogue type : s^na^rt
+B :  Well , you know , I mean they , they they 're interested in continuing working with us ,
+
+dialogue type : s
+B :  so I mean I , and this would be up their alley , so , we could when the when you d meet with , with John Ohala and find , you know what taxonomy you want to apply , then , they 'd be , good to train onto it .
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : sj^ba
+B :  I think so , too .
+
+dialogue type : sj^ba
+B :  Interesting idea .
+
+dialogue type : s.x
+B :  He 's got lip lipsmacks .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^fe
+B :  Wow .
+
+dialogue type : sj^ba
+B :  Interesting .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : fg|s.%-
+B : 
+
+dialogue type : fg
+B :  so , um ,
+
+dialogue type : sj
+B :  I think I might have done what you 're requesting , though I did it in the service of a different thing .
+
+dialogue type : s
+B :  I have thirty minutes that I 've more tightly transcribed with reference to individual channels .
+
+dialogue type : s^cs.%-
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^ar|s^nd
+B :  No , actually it 's a different meeting .
+
+dialogue type : fh|s
+B :  So , um , e so the , you know , we have the , th they transcribe as if it 's one channel with these with the slashes to separate the overlapping parts .
+
+dialogue type : s
+B :  And then we run it through then it then I 'm gonna edit it and I 'm gonna run it through channelize which takes it into Dave Gelbart 's form format .
+
+dialogue type : s
+B :  And then you have , all these things split across according to channel ,
+
+dialogue type : s
+B :  and then that means that , if a person contributed more than once in a given , overlap during that time bend that that two parts of the utterance end up together , it 's the same channel ,
+
+dialogue type : s
+B :  and then I took his tool , and last night for the first thirty minutes of one of these transcripts , I , tightened up the , um , boundaries on individual speakers ' channels ,
+
+dialogue type : s
+B :  cuz his his interface allows me to have total flexibility in the time tags across the channels .
+
+dialogue type : fh
+B :  And um , so .
+
+dialogue type : b
+B :  Yes .
+
+dialogue type : s^2
+B :  Might not be what you need .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : qw.%-
+B :  Uh , how how m much
+
+dialogue type : s
+B :  time so the meetings vary in length ,
+
+dialogue type : qw
+B :  what are we talking about in terms of the number of minutes you 'd like to have as your as your training set ?
+
+dialogue type : qr^bu^d^rt.%--
+B :  OK , now you 're saying different meetings because of different speakers or because of different audio quality or both or ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^2
+B :  The pre presegment
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s^ng|qy^cs^d^rt
+B :  Well , no , if we were to start with this and then tweak it h manually , would that that would be OK ?
+
+dialogue type : b.%
+B :  OK .
+
+dialogue type : qw^rt.%--
+B : 
+
+dialogue type : s
+B :  I mean , we could easily , get a section , you know , like say a minute or so , from every meeting that we have so f from the newer ones that we 're working on , everyone that we have .
+
+dialogue type : %--
+B :  And then ,
+
+dialogue type : s
+B :  should provide this .
+
+dialogue type : s^bs
+B :  Somewhere not in the very beginning , five minutes , OK .
+
+dialogue type : s
+B :  And , then I wanted to ask you just for my inter information ,
+
+dialogue type : qy.%--
+B :  then , would you , be trai
+
+dialogue type : s^df.%--
+B :  cuz I don't quite unders
+
+dialogue type : qy^rt
+B :  so , would you be training then , um , the segmenter so that , it could , on the basis of that , segment the rest of the meeting ?
+
+dialogue type : qy^rt
+B :  So , if I give you like five minutes is the idea that this would then be applied to , uh , to , providing tighter time bands ?
+
+dialogue type : sj^ba
+B :  Wow , interesting .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s^bk
+B :  Excellent .
+
+dialogue type : s^bk^r
+B :  Excellent , OK .
+
+dialogue type : sj^ba
+B :  Wonderful .
+
+dialogue type : s
+B : 
+
+dialogue type : qr.%--
+B :  Well oh wa in terms of the speakers or the conditions or the ?
+
+dialogue type : h|s^aa^rt
+B :  Um , we have different combinations of speakers .
+
+dialogue type : s^e
+B :  I mean , just from what I 've seen , uh , there are some where , um , you 're present or not present ,
+
+dialogue type : s^e
+B :  and , then then you have the difference between the networks group and this group
+
+dialogue type : s^aa
+B :  Yep , we do .
+
+dialogue type : h|s^ar
+B :  Um , no .
+
+dialogue type : s^bsc^rt.%--
+B :  We could ,
+
+dialogue type : s
+B :  I mean you you recorded one last week or so .
+
+dialogue type : s^cc
+B :  I could get that new one in this week I get that new one in .
+
+dialogue type : b
+B :  Great .
+
+dialogue type : s.%--
+B :  OK , so if I ,
+
+dialogue type : s^t1.%--
+B :  OK , included include ,
+
+dialogue type : s
+B :  OK , then , uh , if I were to include all together samples from twelve meetings that would only take an hour
+
+dialogue type : s^cc
+B :  and I could get the transcribers to do that
+
+dialogue type : qy^d^g^rt
+B : 
+
+dialogue type : s
+B :  I mean , what I mean is , that would be an hour sampled , and then they 'd transcribe those that hour ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : qy^rt
+B :  That 's what I should do ?
+
+dialogue type : s^bsc
+B :  I don't mean transcribe
+
+dialogue type : s
+B :  I mean I mean adjust .
+
+dialogue type : s^e
+B :  So they get it into the multi - channel format and then adjust the timebands so it 's precise .
+
+dialogue type : s^aa
+B :  Absolutely .
+
+dialogue type : s.%--
+B :  I did I did , um , uh , so , last night I did , uh ,
+
+dialogue type : s^t1
+B :  Oh gosh ,
+
+dialogue type : s
+B :  well , last night , I did about half an hour in , three hours , which is not , terrific ,
+
+dialogue type : fh
+B :  but , um ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Well , I can't calculate on my , on my feet .
+
+dialogue type : h|s^ng
+B :  Well , um they 're still working they still have enough to finish that I haven't assigned a new meeting ,
+
+dialogue type : %--
+B :  but the next , m m
+
+dialogue type : s
+B :  I was about to need to assign a new meeting
+
+dialogue type : s^e
+B :  and I was going to take it from one of the new ones ,
+
+dialogue type : s^e
+B :  and I could easily give them Jerry Feldman 's meeting ,
+
+dialogue type : s
+B :  no problem .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s
+B :  Uh , that first set .
+
+dialogue type : s
+B :  And so I was in the process of like editing them but this is wonderful news .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  also we were thinking maybe applying that that to getting the ,
+
+dialogue type : fh|s
+B :  Yeah , that 'll be , very useful to getting the overlaps to be more precise all the way through .
+
+dialogue type : s^aa
+B :  Yes , it does .
+
+dialogue type : s^t^tc
+B :  So , um , um , Liz , and and Don , and I met this morning , in the BARCO room , with the lecture hall ,
+
+dialogue type : s^m
+B :  and this afternoon ,
+
+dialogue type : s
+B :  it drifted into the afternoon , uh , concerning this issue of , um , the , well there 's basically the issue of the interplay between the transcript format and the processing that , they need to do for , the SRI recognizer .
+
+dialogue type : fh|s
+B :  And , um , well , so , I mentioned the process that I 'm going through with the data ,
+
+dialogue type : s
+B :  so , you know , I get the data back from the transcri Well , s uh , metaphorically , get the data back from the transcriber ,
+
+dialogue type : s
+B :  and then I , check for simple things like spelling errors and things like that .
+
+dialogue type : s
+B :  And , um , I 'm going to be doing a more thorough editing , with respect to consistency of the conventions .
+
+dialogue type : s
+B :  But they 're they 're generally very good .
+
+dialogue type : s
+B :  And , then , I run it through , uh , the channelize program to get it into the multi - channel format , OK .
+
+dialogue type : s
+B :  And the , what we discussed this morning , I would summarize as saying that , um , these units that result , in a a particular channel and a particular timeband , at at that level , um , vary in length .
+
+dialogue type : s
+B :  And , um , their recognizer would prefer that the units not be overly long .
+
+dialogue type : s
+B :  But it 's really an empirical question , whether the units we get at this point through , just that process I described might be sufficient for them .
+
+dialogue type : s^cc
+B :  So , as a first pass through , a first chance without having to do a lot of hand - editing , what we 're gonna do , is , I 'll run it through channelize , give them those data after I 've done the editing process and be sure it 's clean .
+
+dialogue type : s
+B :  And I can do that , pretty quickly , with just , that minimal editing , without having to hand - break things .
+
+dialogue type : s
+B :  And then we 'll see if the units that we 're getting , uh , with the at that level , are sufficient .
+
+dialogue type : s
+B :  And maybe they don't need to be further broken down .
+
+dialogue type : s
+B :  And if they do need to be further broken down then maybe it just be piece - wise , maybe it won't be the whole thing .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  also we discussed some adaptational things ,
+
+dialogue type : s.%-
+B :  so it 's like ,
+
+dialogue type : fh|s
+B :  uh You know I hadn't , uh , incorporated , a convention explicitly to handle acronyms , for example ,
+
+dialogue type : s:s
+B :  but if someone says , PZM it would be nice to have that be directly interpretable from , the transcript what they said ,
+
+dialogue type : s^bsc
+B :  or Pi - uh Tcl TCL I mean .
+
+dialogue type : s.%--
+B :  It 's like
+
+dialogue type : s
+B :  y it 's and so , um , I 've I 've incorporated also convention , with that
+
+dialogue type : s
+B :  but that 's easy to handle at the post editing phase ,
+
+dialogue type : s^cc
+B :  and I 'll mention it to , transcribers for the next phase
+
+dialogue type : s^ba
+B :  but that 's OK .
+
+dialogue type : s
+B :  And then , a similar conv uh , convention for numbers .
+
+dialogue type : s
+B :  So if they say one - eighty - three versus one eight three .
+
+dialogue type : fh|s
+B :  Um , and also I 'll be , um , encoding , as I do my post - editing , the , things that are in curly brackets , which are clarificational material .
+
+dialogue type : s
+B :  And eh to incorporate , uh , keyword , at the beginning .
+
+dialogue type : s
+B :  So , it 's gonna be either a gloss or it 's gonna be a vocal sound like a , laugh or a cough , or , so forth .
+
+dialogue type : s
+B :  Or a non - vocal sound like a doors door - slam , and that can be easily done with a , you know , just a one little additional thing in the , in the general format .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s
+B :  I 've been I 've been adding that to the ones I 've been editing .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^ba
+B :  And that doesn't the amount of editing that it would require is not very much either .
+
+dialogue type : s
+B :  I 'm just hoping that the units that are provided in that way , will be sufficient
+
+dialogue type : s^df
+B :  cuz I would save a lot of , uh , time , dividing things .
+
+dialogue type : fg|%-
+B :  Well n
+
+dialogue type : s
+B :  One question ,
+
+dialogue type : qr
+B :  e w would that be a single speaker or is that multiple speakers overlapping ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ba
+B :  That 's very important .
+
+dialogue type : qy^bu^d
+B :  In in doing the hand - marking ?
+
+dialogue type : s^aa|s^na
+B :  Yeah that 's what I was thinking , too .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Oh I wanted to ask one thing ,
+
+dialogue type : s^rt
+B :  the microphones the new microphones ,
+
+dialogue type : qw.%-
+B :  when do we get , uh ?
+
+dialogue type : s^bk|s^ba
+B :  Oh , exciting . K .
+
+dialogue type : s^bk
+B :  K .
+
+dialogue type : qy^bu^d^rt
+B :  You said it was used by aerobics instructors ?
+
+dialogue type : s^ba
+B :  That says a lot .
+
+dialogue type : s^bk
+B :  Oh .
+

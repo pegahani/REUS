@@ -1,0 +1,879 @@
+dialogue type : s
+B :  I think Well , this should be off the record ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^na
+B :  Yeah , I know .
+
+dialogue type : s
+B :  It just it really hurts .
+
+dialogue type : s
+B :  It gives you a headache ,
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : s^e.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : s^aa|s
+B :  Yeah , with the We kno I know .
+
+dialogue type : s
+B :  We know exactly how much you have left in your cup .
+
+dialogue type : qy^rt
+B :  Were we gonna do digits ?
+
+dialogue type : s^cs
+B :  You can write them on the board , if you want .
+
+dialogue type : s
+B :  Liz , on channel one .
+
+dialogue type : %-
+B : 
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  I actually want to say something about the note pad .
+
+dialogue type : s
+B :  So , if you could sense just when people are writing , and you tell them not to doodle , or try not to be using that for other purposes , and each person has a note pad . They just get it when they come in the room . Then you c you can just have a fff plot of wh you know , who 's writing when .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  And , you can also have notes of the meeting .
+
+dialogue type : s
+B :  But I bet that 's that will allow you to go into the sort of the hot places where people are writing things down .
+
+dialogue type : s
+B :  I mean , you can tell when you 're in a meeting when everybody stops to write something down that something was just said .
+
+dialogue type : s
+B :  It may not be kept in the later summary ,
+
+dialogue type : s
+B :  but at that point in time is was something that was important .
+
+dialogue type : s^df.%--
+B : 
+
+dialogue type : s^cs
+B :  Or someone could just pu you could just put your hand on the pad
+
+dialogue type : s^cs^e
+B :  and go like that if you want to .
+
+dialogue type : %-
+B : 
+
+dialogue type : fg|s^df
+B :  Well , then you can go to the points where the you could actually go to those points in time
+
+dialogue type : s^df^e
+B :  and find out what they were talking about .
+
+dialogue type : s.%-
+B :  And you r
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^df^ng
+B :  But I bet it 's a good superset of it .
+
+dialogue type : s
+B :  At least you can find the locations where there are maybe keywords
+
+dialogue type : %-
+B : 
+
+dialogue type : s^aa
+B :  Right , right .
+
+dialogue type : s
+B :  But I think I think thinking about queries is a little bit dangerous right now .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I mean , if you want to find out what any user will use , that might be true for one domain and one user ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s
+B :  The summary is actually gonna drive the queries then .
+
+dialogue type : s^e
+B :  I mean , your research is going to be very circular .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^cs^df
+B :  But you could always post - hoc label them .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^cs
+B :  Maybe Landay can put a student in to be a note - taker .
+
+dialogue type : qw^br^m
+B :  No ?
+
+dialogue type : s^ar|s^df.%--
+B : 
+
+dialogue type : s
+B :  And that way that one student has , you know , a rough idea of what was going on ,
+
+dialogue type : s
+B :  and they can use it for their research .
+
+dialogue type : s
+B :  I mean , this isn't really necessarily what you would do in a real system ,
+
+dialogue type : s^df
+B :  because that that 's a lot of trouble
+
+dialogue type : s
+B :  and maybe it 's not the best way to do it .
+
+dialogue type : s^cs
+B :  But if he has some students that want to study that then they should sort of get to know the people and attend those meetings ,
+
+dialogue type : s^cs^e
+B :  and get the notes from the note - taker or something .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qw
+B :  So how does the summary get generated ?
+
+dialogue type : s^df^rt
+B :  I 'm not against the idea of a summary ,
+
+dialogue type : s^df
+B :  but I wanted to think carefully about who 's generating it
+
+dialogue type : s^df^e.%--
+B : 
+
+dialogue type : s^df
+B :  because the summary will drive the queries .
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s
+B :  Dan ?
+
+dialogue type : s^cs
+B :  Y you should also have a record of what 's on the board .
+
+dialogue type : s^df
+B :  I mean , I find it very hard to reconstruct what 's going on .
+
+dialogue type : s^no
+B : 
+
+dialogue type : s^r
+B :  I don't know how ,
+
+dialogue type : s
+B :  but for instance , I mean , the outline is sort of up here
+
+dialogue type : s
+B :  and that 's what people are seeing .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^cs
+B :  Or you shou could tell people not to to use the boards .
+
+dialogue type : s
+B :  But there 's sort of this missing information otherwise .
+
+dialogue type : %-
+B :  Uh , y
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^df^na
+B :  People who were never at the meeting will have a very hard time understanding it otherwise .
+
+dialogue type : s^e
+B :  Even people who were at the meeting .
+
+dialogue type : s^na
+B :  I don't mean that you model it .
+
+dialogue type : s^cs.%-
+B : 
+
+dialogue type : s^2
+B :  Like archiving it or storing it .
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : s^df:s
+B :  someone later might be able to take these and say " OK , they , you know at least these are the people who were there
+
+dialogue type : s^df^e:s
+B :  and here 's sort of what they started talking about ,
+
+dialogue type : fh
+B :  and "
+
+dialogue type : %-
+B : 
+
+dialogue type : s^na
+B :  Big , big interest .
+
+dialogue type : s^na
+B :  Huge .
+
+dialogue type : s
+B :  I mean , it personally , I don't I would never want to deal with it .
+
+dialogue type : s
+B :  But I 'm just saying first of all there 's a whole bunch of fusion issues that DARPA 's interested in .
+
+dialogue type : s
+B :  You know , fusing gesture and face recognition ,
+
+dialogue type : s^e
+B :  even lip movement and things like that ,
+
+dialogue type : s^e
+B :  for this kind of task .
+
+dialogue type : s
+B :  And there 's also I think a personal interest on the part of Mark Liberman in this kind of in storing these images in any data we collect
+
+dialogue type : s
+B :  so that later we can do other things with it .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^cs.%--
+B : 
+
+dialogue type : s^e
+B :  Like I know with ATIS , we just had a tape recorder running all the time .
+
+dialogue type : s
+B :  And later on it turned out it was really good that you had a tape recorder of what was happening ,
+
+dialogue type : s
+B :  even though you w you just got the speech from the machine .
+
+dialogue type : s.%-
+B :  So if you can find some really , you know , low , uh , perplexity ,
+
+dialogue type : s^aa|s
+B :  yeah , way of of doing that , I think it would be worthwhile .
+
+dialogue type : s
+B :  Otherwise you 'd you lose it .
+
+dialogue type : s
+B :  Also CMU has been doing this
+
+dialogue type : s
+B :  and they were the most vocal at this meeting ,
+
+dialogue type : s^e
+B :  Alex Waibel 's group .
+
+dialogue type : s
+B :  And they have said , I talked to the student who had done this , that with two fairly inexpensive cameras they they just recorded all the time
+
+dialogue type : s
+B :  and were able to get all the information from or maybe it was three from all the parts of the room .
+
+dialogue type : s^df
+B :  So I think we would be we might lose the chance to use this data for somebody later who wants to do some kind of processing on it if we don't collect it at all .
+
+dialogue type : s^cs
+B :  Or you could put a paper bag over everybody 's head
+
+dialogue type : s
+B :  and not look at each other
+
+dialogue type : s
+B :  and not look at boards ,
+
+dialogue type : s
+B :  and just all be sitting talking .
+
+dialogue type : s.%-
+B :  That would be an interes Bu
+
+dialogue type : s^aa|s^na
+B :  Yeah . I definitely won't participate if there 's a camera .
+
+dialogue type : s^ar|s.%-
+B : 
+
+dialogue type : s^nd
+B :  Not for not for CMU .
+
+dialogue type : s
+B :  They have a pretty crude set - up .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  they just turn on these cameras .
+
+dialogue type : s
+B :  They were they were not moving or anything .
+
+dialogue type : s^e
+B :  And stored it on analog media .
+
+dialogue type : s
+B :  And they they didn't actually align it or anything .
+
+dialogue type : s
+B :  They just they have it , though .
+
+dialogue type : s^aa^rt
+B :  Hmm - mm .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  I think they just had the videotapes with a c you know , a counter or something .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s^no
+B :  I 'm not sure .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  If LDC collects this data u I mean , and L - if Mark Liberman is a strong proponent of how they collect it and what they collect , there will probably be some video data in there .
+
+dialogue type : s^rt
+B :  And so that could argue for us not doing it
+
+dialogue type : s
+B :  or it could argue for us doing it .
+
+dialogue type : s
+B :  The only place where it sort of overlaps is when some of the summarization issues are actually could be , um , easier made easier if you had the video .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^2
+B :  Of the board .
+
+dialogue type : s^cs
+B :  Or at least make sure that the note - taker takes a sh you know , a snapshot of the board .
+
+dialogue type : s^df
+B :  That 'll make it a lot easier for meetings that are structured .
+
+dialogue type : s^df
+B :  I mean , otherwise later on if nobody wrote this stuff on the board down we 'd have a harder time summarizing it or agreeing on a summary .
+
+dialogue type : s^aa|s
+B :  Right . That would be the other alternative , to make sure that anything that was on the board , um , is in the record .
+
+dialogue type : s^ba^t1.%
+B :  Ow .
+
+dialogue type : s
+B :  I think it 'd be useful to have a small amount of it just as a proof of concept .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^e
+B :  You know , what you can do with things .
+
+dialogue type : s^aa|s^cs
+B :  Yeah . But not not to rely on them for basic modeling .
+
+dialogue type : s^cs
+B :  I just wouldn't base any of the modeling on having those .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^ba^na
+B :  I 'd be sort of cool .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^2
+B :  Without hearing each other though , probably .
+
+dialogue type : s^cs^j
+B :  Well , then you should try them a few weeks later
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  They have all these memory experiments about how little you actually retain
+
+dialogue type : qy.%-
+B : 
+
+dialogue type : s^aa
+B :  Right , right .
+
+dialogue type : s
+B :  Oh , it is it is like OK .
+
+dialogue type : qy
+B :  Shouldn't Landay and his group be in charge of figuring out how to do this ?
+
+dialogue type : s
+B :  I mean , this is an issue that goes a little bit beyond where we are right now .
+
+dialogue type : s.%--
+B :  They 're the expert
+
+dialogue type : s^no
+B :  We - I don't remember it .
+
+dialogue type : s
+B :  I have like no recall memory .
+
+dialogue type : s^t3
+B :  It 's interesting that he 's got , like , this discussion free
+
+dialogue type : s^e^t3
+B :  yet it 's separate .
+
+dialogue type : s^nd
+B :  But the people will just look at the summaries or the minutes and re and sort of back - generate the queries .
+
+dialogue type : s
+B :  That 's what I 'm worried about .
+
+dialogue type : s^cs
+B :  So you might as well just give him the summaries .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : qw.%--
+B :  How to do this
+
+dialogue type : s^2
+B :  from the summary .
+
+dialogue type : s.%--
+B :  So what you want to h to do is , people who were there , who later see , uh , minutes and s put in summary form , which is not gonna be at the same time as the meeting . There 's no way that can happen . Are we gonna later go over it
+
+dialogue type : s
+B :  and , like , make up some stuff to which these notes would be an answer ,
+
+dialogue type : s^e
+B : 
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B :  But that 's done off they have to do that off - line .
+
+dialogue type : %-
+B :  You
+
+dialogue type : s^ba
+B :  That 's a good one .
+
+dialogue type : s^j
+B :  Dan doesn't know what sex he is .
+
+dialogue type : %-
+B :  Ah
+
+dialogue type : s^t3
+B :  Going to see the kids .
+
+dialogue type : s
+B :  I think I just wanted to say one thing about queries .
+
+dialogue type : s^rt
+B :  I mean , the level of the query could be , you know , very low - level or very high - level .
+
+dialogue type : s|qy^d^f^g
+B :  And it gets fuzzier and fuzzier as you go up , right ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^cs.%--
+B : 
+
+dialogue type : s.%--:qy.%--
+B :  you know , if this is something that requires a a one - word answer or it 's one place in the recording versus was there general agreement on this issue of all the people who ha
+
+dialogue type : s
+B :  You know , you can gen you can ask queries that are meaningful for people .
+
+dialogue type : s
+B :  In fact , they 're very meaningful
+
+dialogue type : s^df
+B :  cuz they 're very high - level .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  Well , probably if you have to sit there at the end of a meeting and say one thing you remember , it 's probably whatever action item was assigned to you .
+
+dialogue type : s^df
+B :  I mean , in gen that 's all I remember from most meetings .
+
+dialogue type : s^bu|qy^d^g
+B :  So , in general , I mean , that could be something you could say , right ?
+
+dialogue type : s^e:s
+B :  I 'm supposed to do this .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I mean , that 's realistically what people might well be remembering .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^cs
+B : 
+
+dialogue type : s^df
+B :  I mean , they 're not gonna easily be able to do that , probably .
+
+dialogue type : s^bk
+B :  Ah , yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : %-
+B :  I
+
+dialogue type : %-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  You should that may be all that they want to send off to their transcribers .
+
+dialogue type : s
+B :  And Xerox .
+
+dialogue type : s^cs
+B :  And there 's You should l look under , like , intelligent environments ,
+
+dialogue type : s
+B :  smart rooms ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^aa|%--
+B : 
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : %--
+B : 
+
+dialogue type : %--
+B :  th
+
+dialogue type : s
+B :  That 's where I thought you would want to eventually be able to have a board or a camera ,
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  They 're still gonna overlap ,
+
+dialogue type : s
+B :  but Mark and others have said that there 's quite a lot of found data from the discourse community that has this characteristic
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Y you know , anything that was televised for a third party has the characteristic of not very much overlap .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  Like the , um , dominance relations of the people in the meeting .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s
+B :  And there was a big division ,
+
+dialogue type : s
+B :  so Liberman and others were interested in a lot of found data .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  They 're not close - talk mike ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B :  And and there 's lots of television , you know , stuff on , um , political debates and things like that ,
+
+dialogue type : s
+B :  congre congressional hearings .
+
+dialogue type : s
+B :  Boring stuff like that .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^df
+B :  cuz they had collected a lot of meetings that were sort of like this
+
+dialogue type : s
+B :  and said that those are nothing like these meetings .
+
+dialogue type : s
+B :  Um , so there 're really two different kinds of data .
+
+dialogue type : s
+B :  And , I guess we just left it as @ @ that if there 's found data that can be transformed for use in speech recognition easily , then of course we would do it ,
+
+dialogue type : s
+B :  but newly collected data would would be natural meetings .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  As far as I know , they h have not .
+
+dialogue type : %-
+B :  Um , but e
+
+dialogue type : s^no
+B :  I 'm not sure .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s
+B :  if people were interested they could talk to them ,
+
+dialogue type : s
+B :  but I I got the feeling there was some politics involved .
+
+dialogue type : %-
+B :  No .
+
+dialogue type : s^no
+B :  I I don't know .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^cs
+B :  I think you need to talk to Waibel
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  But they had multiple mikes
+
+dialogue type : s
+B :  and they did do recognition ,
+
+dialogue type : s
+B :  and they did do real conversations .
+
+dialogue type : s
+B :  But as far as I know they didn't offer that data to the community at this meeting .
+
+dialogue type : s
+B :  But that could change
+
+dialogue type : s^df
+B :  cuz Mark you know , Mark 's really into this .
+
+dialogue type : s^cs
+B :  We should keep in touch with him .
+
+dialogue type : s
+B :  What they mean is stuff they don't have to fund to collect ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Well , I mean , " found " has , uh , also the meaning that 's it very natural .
+
+dialogue type : s^e.%--
+B : 
+
+dialogue type : s
+B :  You know , the pe these people weren't wearing close - talking mikes ,
+
+dialogue type : s
+B :  but they were recorded anyway , like the congressional hearings and , you know , for legal purposes or whatever .
+
+dialogue type : s^na
+B :  Mark 's aware of those , too .
+
+dialogue type : s
+B :  That would be found data
+
+dialogue type : s^df
+B :  because they found it and it exists .
+
+dialogue type : s^rt
+B :  They didn't have to collect it .
+
+dialogue type : s
+B :  Of course it 's not " found " in the sense that at the time it was collected for the purpose .
+
+dialogue type : s
+B :  But what he means is that You know , Mark was really a fan of getting as much data as possible from you know , reams and reams of stuff , of broadcast stuff ,
+
+dialogue type : s^e
+B :  web stuff ,
+
+dialogue type : s^e
+B :  TV stuff ,
+
+dialogue type : s^e
+B :  radio stuff .
+
+dialogue type : s
+B :  But he well understands that that 's very different than these this type of meeting .
+
+dialogue type : qh^df
+B :  But , so what ?
+
+dialogue type : s^df^e
+B :  It 's still it 's interesting for other reasons .
+
+dialogue type : s^na
+B :  You can tell by the prosody .
+
+dialogue type : s^ba^fe
+B :  Rrrh !
+
+dialogue type : s^ba
+B :  This is painful task .
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  Pass .
+

@@ -1,0 +1,48 @@
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Uh . OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : %
+C :  Mmm .
+
+dialogue type : %-
+C :  Uh ,
+
+dialogue type : s^2
+C :  And like thirty input nodes
+
+dialogue type : %-
+C :  or some
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^no
+C :  I don't really know .
+
+dialogue type : s
+C :  Ooo , it 's just big .
+
+dialogue type : s^nd
+C :  Can't .
+
+dialogue type : %-
+C :  An
+
+dialogue type : %--
+C :  like
+
+dialogue type : qw.%
+C :  What ?
+
+dialogue type : s
+C :  Discourse .
+
+dialogue type : s^t1
+C :  Ouch .
+

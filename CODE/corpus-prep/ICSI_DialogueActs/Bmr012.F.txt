@@ -1,0 +1,258 @@
+dialogue type : z
+F :  Test .
+
+dialogue type : z
+F :  Channel five , channel five .
+
+dialogue type : z
+F :  Test , test test .
+
+dialogue type : z
+F :  Test test .
+
+dialogue type : z
+F :  Adam , I 'm not
+
+dialogue type : z
+F : 
+
+dialogue type : z
+F :  no ?
+
+dialogue type : z
+F :  Maybe not .
+
+dialogue type : z
+F :  Hello ?
+
+dialogue type : z
+F :  It 's OK ?
+
+dialogue type : z
+F :  Is this OK ?
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : qy^rt
+F :  Do you want this Adam ?
+
+dialogue type : qy^rt
+F :  Was it twenty minutes in ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : fg|s
+F :  Yeah , that might be that might be that might be my fault .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : fg|s
+F :  yeah , I was pretty certain that it worked up until that time ,
+
+dialogue type : fh
+F :  so
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s
+F :  Yeah , I don't know exactly what affected it
+
+dialogue type : s^cc
+F :  but I 'll I 'll talk to you about it ,
+
+dialogue type : s^cc
+F :  I 'll show you the point .
+
+dialogue type : s^na
+F :  That 's what happened .
+
+dialogue type : %-
+F : 
+
+dialogue type : fg|%-
+F : 
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : qy^2^d^rt
+F :  Non - zero ?
+
+dialogue type : s
+F :  Um there are like more cuz there 's a lot of zeros I tacked on just because of the way the script ran ,
+
+dialogue type : s
+F :  I mean but there were there was a point .
+
+dialogue type : %
+F :  OK .
+
+dialogue type : fg
+F :  Uh .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^na
+F :  There are lots of w there are lots of ways to do the downsampling um different filters to put on ,
+
+dialogue type : s^e
+F :  like anti - aliasing stuff .
+
+dialogue type : s^ar|s^ng
+F :  No , I 'm using uh SN SND uh are resample .
+
+dialogue type : s
+F :  RSMP .
+
+dialogue type : s
+F :  Yeah , I don't really .
+
+dialogue type : s
+F :  I just yeah I found it .
+
+dialogue type : %-
+F : 
+
+dialogue type : s
+F :  I mean that 's just one line that 's one line of code to comment at
+
+dialogue type : fh
+F :  so
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^nd
+F :  Although those eighty meg files take a while to copy into my directories
+
+dialogue type : fh
+F :  so ,
+
+dialogue type : fh
+F :  but
+
+dialogue type : fh
+F :  no ,
+
+dialogue type : s^cs^na
+F : 
+
+dialogue type : %-
+F : 
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s^cs
+F :  In the front - end we could do that .
+
+dialogue type : fg
+F : 
+
+dialogue type : fg|s
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^t3
+F :  There 's there 's your answer .
+
+dialogue type : s^na
+F :  Yeah , it 's it 's really not a problem .
+
+dialogue type : s^j
+F :  Keep going .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : fg|s
+F :  Yeah , I mean I 'll I have to do is eh e the reference file would stay the same ,
+
+dialogue type : s
+F :  it 's just the individual segments would be approximately twice as long
+
+dialogue type : s^cc
+F :  and I could just replace them with the bigger ones in the directory ,
+
+dialogue type : s
+F :  that 's not a problem .
+
+dialogue type : b
+F :  Oh .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : qy
+F :  Is eight kilohertz is is eighty kilohertz generally accepted as like standard for voice ?
+
+dialogue type : s^na
+F :  Yeah that 's what I was gonna say ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fh
+F :  so
+
+dialogue type : s^bk
+F :  Oh , I see ,
+
+dialogue type : fh
+F :  so .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  It 's a long time to get from LA .
+
+dialogue type : s^t3
+F :  That 's like the Conch .
+
+dialogue type : %
+F :  See , look .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  We were just talking about something like this yesterday
+
+dialogue type : %--
+F :  or
+
+dialogue type : s
+F :  yeah yesterday with Liz .
+
+dialogue type : s
+F :  About doing some of the echo cancellation stuff or possibly the spectroanalysis over the overlaps ,
+
+dialogue type : fh
+F :  so .
+
+dialogue type : b
+F :  Cool .
+

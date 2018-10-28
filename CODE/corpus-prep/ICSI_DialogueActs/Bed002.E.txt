@@ -1,0 +1,198 @@
+dialogue type : s
+E :  I guess .
+
+dialogue type : s
+E :  Check one .
+
+dialogue type : s
+E :  Check one .
+
+dialogue type : s
+E :  Sibilance .
+
+dialogue type : s
+E :  Sibilance .
+
+dialogue type : qy
+E :  Are we supposed to read digits at the same time ?
+
+dialogue type : s^bk
+E :  Oh , OK .
+
+dialogue type : s^na
+E :  Everyone would need extreme focus .
+
+dialogue type : qy
+E :  Does Nancy know that we 're meeting in here ?
+
+dialogue type : s^bk|s.%--
+E :  Oh yeah , she got an e
+
+dialogue type : s^bk
+E :  Yeah , yeah .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : qw^rt
+E :  What was the nature of the email ?
+
+dialogue type : s^nd
+E :  I don't think I did .
+
+dialogue type : b
+E :  Ah .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : qw
+E :  What 's it what 's it made out of ?
+
+dialogue type : s
+E :  So maybe you would wanna touch it .
+
+dialogue type : s
+E :  You have to al also have to read some digits .
+
+dialogue type : s^ar|s^nd
+E :  No , that one 's already on , I thought he said .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Huh .
+
+dialogue type : s
+E :  Still , I have no recollection whatsoever of the email .
+
+dialogue type : s
+E :  I 'll have to go back and check .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bu
+E :  The M - three - L is the old SmartKom output ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  It 's just a language .
+
+dialogue type : s^aa
+E :  Right , yeah .
+
+dialogue type : qy^bu^d^rt
+E :  So , if someone says , " I wanna touch the side of the Powder - Tower " , that would basically , we need to pop up Tango mode and the and the directions ?
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bu|qy^d^g^rt
+E :  But we 'd have to infer a Source - Path - Goal to some degree for touching the side , right ?
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I 'm just trying to figure out what the SmartKom system would output ,
+
+dialogue type : s^e
+E :  depending on these things .
+
+dialogue type : qw
+E :  How exactly does the data collection work ?
+
+dialogue type : qy^e
+E :  Do they have a map ,
+
+dialogue type : s^bu^e
+E :  and then you give them a scenario of some sort ?
+
+dialogue type : fg|s^na
+E :  Yeah , uh , actually I guess that was my question .
+
+dialogue type : qy
+E :  Is the intention implicit in the scenario that 's given ?
+
+dialogue type : qy.%-
+E : 
+
+dialogue type : s^aa|s^df^no
+E :  Yeah , I just wasn't sure to what level of detail the task was .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^ng
+E :  See , I would have thought it was more of a waltz .
+
+dialogue type : s^aa|s^df.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qw
+E :  What 's the time frame for this ?
+
+dialogue type : s^bu
+E :  So we 're supposed to @ @ about features and whatnot ,
+
+dialogue type : fh
+E : 
+
+dialogue type : qw
+E :  And what 's the relation to this with Changing the table so that the system works in English ?
+
+dialogue type : s
+E :  I guess my question was more about time frame .
+
+dialogue type : s
+E :  So we 're gonna do belief - nets this week ,
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^tc
+E :  The Powder - Tower is made of red limestone .
+
+dialogue type : s^aa
+E :  Sure !
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^2
+E :  It exploded .
+
+dialogue type : s^df
+E :  That 's why they call it the Powder - Tower .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^df
+E :  I first thought it had something to do with the material
+
+dialogue type : s^df
+E :  that it w that 's why I asked .
+

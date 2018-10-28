@@ -1,0 +1,663 @@
+dialogue type : z
+F :  We can say the word " zero " all we want ,
+
+dialogue type : z
+F :  but just
+
+dialogue type : z
+F :  Curly brackets .
+
+dialogue type : z
+F :  Well ,
+
+dialogue type : z
+F :  correction for transcribers .
+
+dialogue type : z
+F :  Yeah .
+
+dialogue type : z
+F :  u
+
+dialogue type : z
+F :  u
+
+dialogue type : z
+F :  Yeah .
+
+dialogue type : z
+F :  Uh ,
+
+dialogue type : z
+F :  I probably just should have left it on .
+
+dialogue type : z
+F :  Yeah I did have to run ,
+
+dialogue type : z
+F : 
+
+dialogue type : z
+F :  Well , I u I actually don't know what the default is anymore as to how we 're using the the front - end stuff but for for when we use the ICSI front - end ,
+
+dialogue type : z
+F :  but um ,
+
+dialogue type : z
+F :  there is an there is an o an option in in RASTA ,
+
+dialogue type : z
+F :  which ,
+
+dialogue type : z
+F :  um , in when I first put it in , uh , back in the days when I actually wrote things , uh , I did actually put in a random bit or so that was in it ,
+
+dialogue type : z
+F :  but then I realized that putting in a random bit was equivalent to adding uh adding flat spectrum ,
+
+dialogue type : z
+F :  and it was a lot faster to just add a constant to the to the spectrum . So then I just started doing that
+
+dialogue type : z
+F :  instead of calling " rand " or something ,
+
+dialogue type : z
+F :  so .
+
+dialogue type : z
+F :  So it d it does that .
+
+dialogue type : s^fe^tc
+F :  Gee ! Here we all are !
+
+dialogue type : qy^bu^d^rt^t3
+F :  There 's an agenda ?
+
+dialogue type : fg|s^bu
+F :  Uh , and you just sent off a Eurospeech paper ,
+
+dialogue type : fh
+F :  so .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : fg|s
+F :  Yeah , I guess you first you have to do the first one ,
+
+dialogue type : %--
+F : 
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : qy^bu^d^rt
+F :  Oh they they had some extension that they announced or something ?
+
+dialogue type : qy^bu^d^rt
+F :  Oh this isn't the Aurora one ?
+
+dialogue type : qy^bu^d
+F :  It 's another one ?
+
+dialogue type : s^fe
+F :  Oh !
+
+dialogue type : %-
+F : 
+
+dialogue type : fg
+F :  Well ,
+
+dialogue type : s^ba
+F :  that 's that 's a great idea .
+
+dialogue type : s^ar
+F :  n No .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  Well we have now ,
+
+dialogue type : fh
+F : 
+
+dialogue type : fh
+F :  Well .
+
+dialogue type : s^j
+F :  I mean I get these AARP things ,
+
+dialogue type : s^j
+F :  but I 'm not se really senior yet ,
+
+dialogue type : fh
+F : 
+
+dialogue type : fg
+F :  Um ,
+
+dialogue type : qw^rt
+F :  but uh , other than that delightful result , what was the rest of the paper about ?
+
+dialogue type : s
+F :  You sent it to me
+
+dialogue type : s
+F :  but I haven't seen it yet .
+
+dialogue type : s^bk|s
+F :  Yeah , we we have pretty limited sample here .
+
+dialogue type : qw
+F :  But what was it like , say , in the Robustness meeting , for instance ?
+
+dialogue type : qy^d^rt
+F :  Maybe ten percent ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fh
+F : 
+
+dialogue type : b
+F :  Right .
+
+dialogue type : qy^rt
+F :  Were you including the the lapel in this ?
+
+dialogue type : qy^rt
+F :  And did the did did the la did the the problems with the lapel go away also ?
+
+dialogue type : qrr.%--
+F : 
+
+dialogue type : qy^d^rt
+F :  fray for for insertions ?
+
+dialogue type : s^2
+F :  Less so .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fh
+F :  Yeah .
+
+dialogue type : s^df.%-
+F : 
+
+dialogue type : s
+F :  i it 's the high signal - to - noise ratio
+
+dialogue type : s^t3
+F :  here that that helps you .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^na
+F :  But he yeah , he 's he 's right ,
+
+dialogue type : s.%--
+F :  y I mean maybe
+
+dialogue type : s
+F :  you weren't intending to pause at all ,
+
+dialogue type : s
+F :  but You were intending to stop for fifty - seven milliseconds ,
+
+dialogue type : s
+F :  but then Chuck came in
+
+dialogue type : s
+F :  and so you paused for a second
+
+dialogue type : s^e
+F :  or more .
+
+dialogue type : b
+F : 
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Huh .
+
+dialogue type : s^j
+F :  Actually for a lot of these people I think you could just sort of backchannel continuously
+
+dialogue type : s^j
+F :  and it would pretty much be fine .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  u R D RDR ,
+
+dialogue type : s^bk
+F :  yeah .
+
+dialogue type : s^bk
+F :  Yeah ,
+
+dialogue type : s
+F :  the No vowels .
+
+dialogue type : b
+F :  Yeah
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : qrr^bu
+F :  Is that a dash or a dot in there ?
+
+dialogue type : fg
+F :  So ,
+
+dialogue type : s
+F :  that 's why it was good to have Andreas , say these things
+
+dialogue type : %--
+F : 
+
+dialogue type : s^cs^t^tc.%--
+F : 
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^ba^t3
+F :  Uh , it looks much better .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^aa|s
+F :  Yeah , if it 's working well ,
+
+dialogue type : s^ba
+F :  that sounds like a good idea
+
+dialogue type : s^df
+F :  since as you say you have to do stuff with the other end anyway .
+
+dialogue type : s
+F :  What 's the problem the l I forget .
+
+dialogue type : qy^rt
+F :  Is the problem the lapel ,
+
+dialogue type : qrr.%--
+F : 
+
+dialogue type : s^bk
+F :  Oh ,
+
+dialogue type : s^j
+F :  the dead meetings .
+
+dialogue type : s^no
+F :  I I I don't know .
+
+dialogue type : s^aap
+F :  It would be kind of quick
+
+dialogue type : s^ng
+F :  but they 're still listening to everything .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^no
+F :  I don't know ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : qw
+F :  I mean , what 's the worst that happens ?
+
+dialogue type : qy.%--
+F : 
+
+dialogue type : s
+F :  I mean as long as th on the other end they can say there 's there 's something conventions so that they say " huh ? "
+
+dialogue type : s^cs
+F :  and then we can flag those later .
+
+dialogue type : %-
+F :  i i It i
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : %-
+F : 
+
+dialogue type : s
+F :  but but I I I have another suggestion on that , which is , since , really what this is , is is is trying to in the large , send the right thing to them and there is gonna be this this post - processing step ,
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : qh^cs
+F :  why don't we check through a bunch of things by sampling it ?
+
+dialogue type : qy^d^f^g^rt
+F :  Right ?
+
+dialogue type : s^cs.%-
+F : 
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^cs
+F :  So y you do a bunch of meetings ,
+
+dialogue type : s^cs
+F :  you listen to to a little bit here and there ,
+
+dialogue type : s^cs
+F :  if it sounds like it 's almost always right and there 's not any big problem you send it to them .
+
+dialogue type : s
+F :  And , you know , then they 'll send us back what we w what what they send back to us ,
+
+dialogue type : s
+F :  and we 'll we 'll fix things up
+
+dialogue type : s^e
+F :  and some meetings will cost more time to fix up than others .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : qy^cs.%--
+F : 
+
+dialogue type : s
+F :  it 's probably in your paper that I haven't looked at lately ,
+
+dialogue type : %--
+F : 
+
+dialogue type : fh|s
+F :  Uh , an order of magnitude
+
+dialogue type : qw
+F :  notion of of how on a good meeting , how often uh , do you get segments that come in the middle of words and so forth ,
+
+dialogue type : qw
+F :  and uh in a bad meeting how often ?
+
+dialogue type : s
+F :  Well he 's saying , you know , that the the EDU meeting was a good good meeting ,
+
+dialogue type : qy^d^f^g
+F :  right ?
+
+dialogue type : s
+F :  Uh , and so so so it was almost it was almost always doing the right thing .
+
+dialogue type : s
+F :  So I wanted to get some sense of what what almost always meant .
+
+dialogue type : s
+F :  And then , uh in a bad meeting , or p some meetings where he said oh he 's had some problems , what does that mean ?
+
+dialogue type : qy^rt
+F :  So I mean does one of the does it mean one percent and ten percent ?
+
+dialogue type : qrr^rt
+F :  Or does it mean five percent and fifty percent ?
+
+dialogue type : fh
+F : 
+
+dialogue type : s^e
+F :  Or Maybe percentage isn't the right word ,
+
+dialogue type : s^e
+F :  but you know how many how many per minute ,
+
+dialogue type : fh
+F : 
+
+dialogue type : fh
+F :  You know .
+
+dialogue type : s^nd
+F :  But I think that 's less of a problem .
+
+dialogue type : s
+F :  They 'll just listen .
+
+dialogue type : s
+F :  It 's just wasted time .
+
+dialogue type : s^e
+F :  And th and that 's for a good meeting .
+
+dialogue type : qo
+F :  Now what about in a meeting that you said we 've you 've had some more trouble with ?
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^cs
+F :  So I So i Sometime , we might wanna go back and look at it more in terms of how many times is there a spurt that 's that 's uh , interrupted ?
+
+dialogue type : s^e
+F :  Something like that ?
+
+dialogue type : fh
+F : 
+
+dialogue type : s^bk|s^ng
+F :  Yeah again I I think that that is probably less of a problem
+
+dialogue type : s^df
+F :  because if you 're if there 's If if a if a word is is split , then they might have to listen to it a few times to really understand that they can't quite get it .
+
+dialogue type : s^df
+F :  Whereas if they listen to it and there 's don't hear any speech I think they 'd probably just listen to it once .
+
+dialogue type : s^e
+F :  So there 'd you 'd think there 'd be a a factor of three or four in in , uh , cost function ,
+
+dialogue type : s^e
+F :  you know , between them or something .
+
+dialogue type : s^bu
+F :  So so what you 're saying is that nearly always what happens when there 's a problem is that is that uh , there 's some uh , uh nonspeech that uh that is b interpreted as speech .
+
+dialogue type : s^cs
+F :  Well then , we really should just send the stuff .
+
+dialogue type : qy^d^f^g^rt
+F :  Right ?
+
+dialogue type : s^df
+F :  Because that doesn't do any harm .
+
+dialogue type : s^df
+F :  You know , if they they hear you know , a dog bark and they say what was the word ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^fe^j
+F :  Ruff ruff !
+
+dialogue type : qy^bh^rt
+F :  Yeah ?
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^na
+F :  But I think I th Again , I think that sort of that that would be good ,
+
+dialogue type : s^na
+F :  and what that 'll do is just cut the time a little further .
+
+dialogue type : s
+F :  But I think none of this is stuff that really needs somebody doing these these uh , uh , explicit markings .
+
+dialogue type : s
+F :  Yeah , cuz the other thing that was concerning me about it was that it seemed kind of specialized to the EDU meeting ,
+
+dialogue type : s
+F :  and and that then when you get a meeting like this or something ,
+
+dialogue type : s
+F :  and and you have a b a bunch of different dominant speakers
+
+dialogue type : qw
+F :  you know , how are you gonna handle it .
+
+dialogue type : s^df
+F :  Whereas this sounds like a more general solution
+
+dialogue type : %--
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : s^cs
+F :  I I would just use some samples ,
+
+dialogue type : s^cs
+F :  make sure you don't send them three hours of " bzzz " or something .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^ba
+F :  Great .
+
+dialogue type : s^ng
+F :  That 's life .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : qw
+F :  What was the l what was the laptop sound ?
+
+dialogue type : qy^e^rt
+F :  I mean was it speech ,
+
+dialogue type : qrr.%-
+F : 
+
+dialogue type : s^ba
+F :  Great .
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : fg
+F :  Well , I mean ,
+
+dialogue type : qy^rt
+F :  isn't there a category something like uh , " sounds for someone for whom there is no i close mike " ?
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b.x
+F :  Yeah .
+
+dialogue type : fg
+F :  So .
+
+dialogue type : qy^cs^rt^t^tc
+F :  Shall we uh , do digits and get out of here ?
+
+dialogue type : s^bk.%
+F :  Yes ma '
+
+dialogue type : qw^bu
+F :  Which part ?
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^df^na
+F :  Cuz , I wouldn't don't think we would mind having that transcribed , if they did it .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^co^t^tc
+F :  Let 's do digits .
+
+dialogue type : qh^cs^rt
+F :  Uh , why don't we do it together ,
+
+dialogue type : s^df
+F :  that 's that 's a nice fast way to do it .
+
+dialogue type : s
+F :  One , two , three ,
+
+dialogue type : s^co
+F :  go !
+
+dialogue type : z
+F :  I haven't been ,
+
+dialogue type : z
+F :  no .
+
+dialogue type : z
+F :  Uh , concentration .
+
+dialogue type : z
+F :  Yeah .
+

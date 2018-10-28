@@ -1,0 +1,414 @@
+dialogue type : z
+B :  Ah .
+
+dialogue type : z
+B :  Ah , yeah .
+
+dialogue type : z
+B :  Uh , do you want @ @ .
+
+dialogue type : s^aa.%--
+B :  Yes , I can s
+
+dialogue type : s^rt
+B :  I would like to say that , for example , um , mmm , if we doesn't use the delta - delta , uh we have an improve when we use s some combination .
+
+dialogue type : %-
+B :  But when
+
+dialogue type : s^bk|s.%--
+B :  w Yeah , this Yeah , this number recognition acc
+
+dialogue type : s
+B :  Yes , and the baseline the baseline have i is eighty - two .
+
+dialogue type : s^aa
+B :  Yeah
+
+dialogue type : s^aa^m
+B :  Yeah , by the moment .
+
+dialogue type : s^rt
+B :  And first in the experiment - one I I do I I use different MLP ,
+
+dialogue type : s
+B :  and is obviously that the multi - English MLP is the better .
+
+dialogue type : fh|s
+B :  Um . for the ne rest of experiment I use multi - English ,
+
+dialogue type : s^e
+B :  only multi - English .
+
+dialogue type : s
+B :  And I try to combine different type of feature ,
+
+dialogue type : s
+B :  but the result is that the MSG - three feature doesn't work for the Italian database
+
+dialogue type : s
+B :  because never help to increase the accuracy .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa^rt
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : qy^bu^d^rt
+B :  The train the training of the HTK ?
+
+dialogue type : s^aa
+B :  Yes .
+
+dialogue type : fg
+B :  Ah yes !
+
+dialogue type : s.%--
+B :  This h
+
+dialogue type : s^aa^r
+B :  Yes .
+
+dialogue type : b
+B :  Th - Yes .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : h|s^aa^rt
+B :  Uh yes ?
+
+dialogue type : s^2
+B :  Another table .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s
+B :  Eighty .
+
+dialogue type : s^r
+B :  Eighty .
+
+dialogue type : s^rt
+B :  It 's plus six .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa^rt
+B :  Yeah ,
+
+dialogue type : s^bk
+B :  yeah yeah yeah yeah ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^m^na
+B :  Yes , better .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ng
+B :  Nnn , we don't know exactly .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  We select these these these tasks
+
+dialogue type : s^df
+B :  because it 's the more difficult .
+
+dialogue type : s
+B :  You have here the information .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^2
+B :  The Spanish .
+
+dialogue type : s
+B :  Maybe for that .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s^rt
+B :  Mmm , with the experiment type - two ,
+
+dialogue type : s^rt
+B : 
+
+dialogue type : s^bsc
+B :  another feature .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^rt
+B :  first the feature are without delta and delta - delta ,
+
+dialogue type : s
+B :  and we can see that in the situation , uh , the MSG - three , the same help nothing .
+
+dialogue type : s^rt
+B :  And then I do the same
+
+dialogue type : s^rt
+B :  but with the delta and delta - delta PLP delta and delta - delta .
+
+dialogue type : s
+B :  And they all p but they all put off the MLP is it without delta and delta - delta .
+
+dialogue type : s
+B :  And we have a l little bit less result than the the the baseline PLP with delta and delta - delta .
+
+dialogue type : s^cs.%--
+B :  Maybe if when we have the new the new neural network trained with PLP delta and delta - delta ,
+
+dialogue type : s^cs
+B :  maybe the final result must be better .
+
+dialogue type : s^bd
+B :  I don't know .
+
+dialogue type : fg
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^ar
+B :  Yes .
+
+dialogue type : s^ar|s^df.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s^rt
+B : 
+
+dialogue type : s
+B :  but maybe if we have the neural network trained with the PLP delta and delta - delta , maybe tha this can help .
+
+dialogue type : s
+B :  And , with this type of configuration which I do on experiment using the new neural net with name broad klatt s twenty - seven ,
+
+dialogue type : s
+B :  uh , d I have found more or less the same result .
+
+dialogue type : sj
+B :  Little bit better ?
+
+dialogue type : s^aa^m
+B :  Slightly bet better .
+
+dialogue type : s^aa^r
+B :  Yes , is better .
+
+dialogue type : fg|s^am
+B :  Yeah , maybe . Maybe . Maybe .
+
+dialogue type : s^bk
+B :  Oh , yeah .
+
+dialogue type : s^aa
+B :  Oh , yeah .
+
+dialogue type : %-
+B :  i
+
+dialogue type : b
+B :  Yeah ,
+
+dialogue type : s
+B :  and we have only forty forty feature
+
+dialogue type : s
+B :  because in this situation we have one hundred and three feature .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  uh , well , work ,
+
+dialogue type : s
+B :  but is better , the second configuration .
+
+dialogue type : s
+B :  Because I for the del Engli - PLP delta and delta - delta , here I have eighty - five point three accuracy ,
+
+dialogue type : s
+B :  and with the second configuration I have eighty - seven point one .
+
+dialogue type : s^am
+B :  Maybe .
+
+dialogue type : b
+B :  Yeah . Yeah .
+
+dialogue type : s
+B :  so this is what we decided to do .
+
+dialogue type : %-
+B :  do ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Ah , yes .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^am.%-
+B : 
+
+dialogue type : s^ar^t3
+B :  No ?
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^ar
+B :  No ?
+
+dialogue type : s^fe
+B :  Oh !
+
+dialogue type : s^aa^fe
+B :  Yeah , yeah , yeah !
+
+dialogue type : s
+B :  With " two " , with " on - line - two " .
+
+dialogue type : b
+B :  Yeah , yeah ,
+
+dialogue type : b
+B :  yeah . Yep ,
+
+dialogue type : s^aa^m
+B :  it 's a good .
+
+dialogue type : s
+B :  Well , actually , it 's good with the ch with the good .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  Um .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : h|s^ar
+B :  Mmm , no .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^br^d^rt
+B :  Sunil ?
+
+dialogue type : s^no
+B :  I I don't re I didn't remember .
+
+dialogue type : s^am
+B :  Maybe he 's working with neural network .
+
+dialogue type : s^am
+B :  Yeah , I think so .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %-
+B :  to work
+
+dialogue type : s^2.%-
+B : 
+
+dialogue type : s
+B :  You know .
+
+dialogue type : %
+B :  batteries ?
+

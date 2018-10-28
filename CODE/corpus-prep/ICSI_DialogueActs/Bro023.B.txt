@@ -1,0 +1,1428 @@
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : s^bk
+B :  Oh !
+
+dialogue type : s^ba
+B :  That 's nice .
+
+dialogue type : b
+B :  Oh .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : fg|s
+B :  Yeah , we met him in Amsterdam .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : s
+B :  I haven't noticed him .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s|qy^d^g
+B :  You need twelve seconds in the past to estimate , right ?
+
+dialogue type : qrr.%--
+B :  Or l or you 're looking at six sec
+
+dialogue type : s
+B : 
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy
+B :  But do you really want to calculate the mean ?
+
+dialogue type : qr^d
+B :  And you neglect all the silence regions or you just use everything that 's twelve seconds ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s^aa
+B :  Ye - yeah .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  And they are , like , pretty short .
+
+dialogue type : %--
+B :  Shor
+
+dialogue type : s^bk
+B :  Yeah ,
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  So you really need a lot of speech to estimate the mean of it .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Huh .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : fh
+B :  Um , so ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  So I 've been working on that Wiener filtering .
+
+dialogue type : fh
+B :  And ,
+
+dialogue type : fh
+B :  uh ,
+
+dialogue type : s
+B :  found that , uh , s single like , I just do a s normal Wiener filtering , like the standard method of Wiener filtering .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I mean , uh , b it actually improves over the baseline
+
+dialogue type : s
+B :  but it 's not like it doesn't meet something like fifty percent or something .
+
+dialogue type : s.%-
+B :  So , I 've been playing with the v
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa^r
+B :  Yeah .
+
+dialogue type : s^aa^r
+B :  Yeah .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  So that 's The improvement is somewhere around , like , thirty percent over the baseline .
+
+dialogue type : s^ar
+B :  No ,
+
+dialogue type : s^nd
+B :  just just one stage Wiener filter
+
+dialogue type : s^e
+B :  which is a standard Wiener filter .
+
+dialogue type : s^bk
+B :  Yeah , yeah , yeah , yeah .
+
+dialogue type : s
+B :  So I just plug in the Wiener filtering .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%-
+B :  So , I di i di
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s^df^nd
+B :  It actually improves over the baseline of not having a Wiener filter in the whole system .
+
+dialogue type : s^e
+B :  Like I have an LDA f LDA plus on - line normalization ,
+
+dialogue type : s
+B :  and then I plug in the Wiener filter in that ,
+
+dialogue type : s^nd
+B :  so it improves over not having the Wiener filter .
+
+dialogue type : s^nd
+B :  So it improves
+
+dialogue type : s^df
+B :  but it it doesn't take it like be beyond like thirty percent over the baseline .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^ar
+B :  No ,
+
+dialogue type : s.%--
+B :  it 's like , uh ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^ar|s^nd
+B :  No , it 's the old VAD .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : qw^br^rt
+B :  What was that ?
+
+dialogue type : qw^br
+B :  Sorry ?
+
+dialogue type : s^bk
+B :  Oh ,
+
+dialogue type : s^bk
+B :  OK , OK , OK .
+
+dialogue type : s
+B :  Errors , right , I don't have .
+
+dialogue type : s
+B :  It 's all accuracies .
+
+dialogue type : s^aa
+B :  The t yeah ,
+
+dialogue type : s
+B :  there are two baselines .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^na
+B :  So the baseline One baseline is MFCC baseline
+
+dialogue type : s
+B :  that When I said thirty percent improvement it 's like MFCC baseline .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  it 's just the mel frequency and that 's it .
+
+dialogue type : h|s^no
+B :  Uh , so I I don't have that number here .
+
+dialogue type : s^bk
+B :  OK , OK , OK ,
+
+dialogue type : s
+B :  I have it here .
+
+dialogue type : fh|s
+B :  Uh , it 's the VAD plus the baseline actually .
+
+dialogue type : s^df
+B :  I 'm talking about the the MFCC plus I do a frame dropping on it .
+
+dialogue type : s^rt
+B :  So that 's like the word error rate is like four point three .
+
+dialogue type : s
+B :  Like Ten point seven .
+
+dialogue type : s.%--
+B :  It 's a medium misma
+
+dialogue type : s^fa
+B :  OK , sorry .
+
+dialogue type : s
+B :  There 's a well ma well matched , medium mismatched , and a high matched .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  And forty forty .
+
+dialogue type : s
+B :  Forty percent is the high mismatch .
+
+dialogue type : s
+B : 
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^rt
+B :  it 's like ten point one .
+
+dialogue type : s^na
+B :  Still the same .
+
+dialogue type : s
+B :  And the high mismatch is like eighteen point five .
+
+dialogue type : s^2.%
+B :  Five .
+
+dialogue type : s^bk|s
+B :  Oh , the one is this one is just the baseline plus the , uh , Wiener filter plugged into it .
+
+dialogue type : s^bk
+B :  Oh ,
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : %--
+B : 
+
+dialogue type : s^fa
+B :  Sorry .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bk|s^rt
+B :  OK , so it 's like four point three .
+
+dialogue type : fh
+B :  Uh ,
+
+dialogue type : s
+B :  and again , that 's the ba the ten point , uh , four and twenty point one .
+
+dialogue type : s
+B :  That was with on - line normalization and LDA .
+
+dialogue type : s
+B :  So the h well matched has like literally not changed by adding on - line or LDA on it .
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B :  I mean , even the medium mismatch is pretty much the same .
+
+dialogue type : s
+B :  And the high mismatch was improved by twenty percent absolute .
+
+dialogue type : s
+B :  It 's the It - it 's Italian .
+
+dialogue type : s
+B :  I 'm talking about Italian ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : qy^rt
+B :  You have it ?
+
+dialogue type : b
+B :  Yep .
+
+dialogue type : s^ft^t3
+B :  So Thanks .
+
+dialogue type : fg
+B :  So ,
+
+dialogue type : fh|s^rt
+B :  uh , this is the single stage Wiener filter ,
+
+dialogue type : s
+B :  with The noise estimation was based on first ten frames .
+
+dialogue type : s
+B :  Actually I started with using the VAD to estimate the noise
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  it doesn't work for Finnish and Spanish
+
+dialogue type : s^df
+B :  because the VAD endpoints are not good to estimate the noise
+
+dialogue type : s^df
+B :  because it cuts into the speech sometimes ,
+
+dialogue type : s
+B :  so I end up overestimating the noise and getting a worse result .
+
+dialogue type : fh|s
+B :  So it works only for Italian by u for using a VAD to estimate noise .
+
+dialogue type : s^df
+B :  It works for Italian because the VAD was trained on Italian .
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh
+B :  um ,
+
+dialogue type : s
+B :  this this was like not improving a lot on this baseline of not having the Wiener filter on it .
+
+dialogue type : fh
+B :  And ,
+
+dialogue type : fh
+B :  so ,
+
+dialogue type : fh|s
+B :  uh , I ran this stuff with one more stage of Wiener filtering on it
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  I mean , I have I 've I 've observed there are , like , a lot of bumps in the frequency when I do this Wiener filtering
+
+dialogue type : s^e
+B :  which is more like a musical noise or something .
+
+dialogue type : fh|s.%--
+B :  And so by adding another stage of Wiener filtering , the results on the SpeechDat - Car was like ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  So , I still don't have the word error rate .
+
+dialogue type : s^fa
+B :  I 'm sorry about it .
+
+dialogue type : s
+B :  But the overall improvement was like fifty - six point four six .
+
+dialogue type : s^df
+B :  This was again using ten frames of noise estimate and two stage of Wiener filtering .
+
+dialogue type : s
+B :  And the rest is like the LDA plu and the on - line normalization all remaining the same .
+
+dialogue type : fh
+B :  Uh ,
+
+dialogue type : s^bu
+B :  so this was , like , compared to , uh , uh Fifty - seven is what you got by using the French Telecom system ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : %
+B :  Y i
+
+dialogue type : s^ar
+B :  No ,
+
+dialogue type : s^nd
+B :  this is over the whole SpeechDat - Car .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^2.%--
+B : 
+
+dialogue type : s^bk
+B :  Yeah ,
+
+dialogue type : s
+B :  so the new the new Wiener filtering schema is like some fifty - six point four six
+
+dialogue type : s^e
+B :  which is like one percent still less than what you got using the French Telecom system .
+
+dialogue type : s^na
+B :  It 's very similar .
+
+dialogue type : s^nd.%--
+B :  It 's it 's different in a sense like
+
+dialogue type : s^df
+B :  I 'm actually cleaning up the cleaned up spectrum
+
+dialogue type : s^e
+B :  which they 're not doing .
+
+dialogue type : s
+B :  They 're d what they 're doing is , they have two stage stages of estimating the Wiener filter ,
+
+dialogue type : s
+B :  but the final filter , what they do is they they take it to their time domain by doing an inverse Fourier transform .
+
+dialogue type : s
+B :  And they filter the original signal using that fil filter ,
+
+dialogue type : s^e
+B :  which is like final filter is acting on the input noisy speech rather than on the cleaned up .
+
+dialogue type : s
+B :  So this is more like I 'm doing Wiener filter twice ,
+
+dialogue type : s
+B :  but the only thing is that the second time I 'm actually smoothing the filter and then cleaning up the cleaned up spectrum first level .
+
+dialogue type : s
+B :  And so that that 's that 's what the difference is .
+
+dialogue type : s
+B :  And actually I tried it on s the original clean I mean , the original spectrum where , like , I the second time I estimate the filter but actually clean up the noisy speech rather the c s first output of the first stage
+
+dialogue type : s
+B :  and that doesn't seems to be a giving , I mean , that much improvement .
+
+dialogue type : s
+B :  I I didn didn't run it for the whole case .
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%--
+B :  and what I t what I tried was , by using the same thing
+
+dialogue type : fh
+B :  but Uh ,
+
+dialogue type : s
+B :  so we actually found that the VAD is very , like , crucial .
+
+dialogue type : s^df
+B :  I mean , just by changing the VAD itself gives you the a lot of improvement
+
+dialogue type : s^df
+B :  by instead of using the current VAD , if you just take up the VAD output from the channel zero , when instead of using channel zero and channel one ,
+
+dialogue type : s^df
+B :  because that was the p that was the reason why I was not getting a lot of improvement for estimating the noise .
+
+dialogue type : s
+B :  So I just used the channel zero VAD to estimate the noise so that it gives me some reliable mar markers for this noise estimation .
+
+dialogue type : h
+B :  Um ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  So because the channel zero and channel one are like the same speech , but only w I mean , the same endpoints .
+
+dialogue type : s
+B :  But the only thing is that the speech is very noisy for channel one ,
+
+dialogue type : s
+B :  so you can actually use the output of the channel zero for channel one for the VAD .
+
+dialogue type : s
+B :  I mean , that 's like a cheating method .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  Which is the channel zero .
+
+dialogue type : s
+B :  But actually their alignment actually is not seems to be improving in like on all cases .
+
+dialogue type : b
+B :  Yeah ,
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  It gives like negative Well , in in like some Italian and TI - digits ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s
+B :  So by using the endpointed speech , actually it 's worse than the baseline in some instances ,
+
+dialogue type : s^e
+B :  which could be due to the word pattern .
+
+dialogue type : s^aa|s
+B : 
+
+dialogue type : b
+B :  Yeah , yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^bk
+B :  OK ,
+
+dialogue type : fh
+B :  so
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I mean , so the basic principle of Wiener filter is like you try to minimize the , uh , d uh , difference between the noisy signal and the clean signal
+
+dialogue type : s^e
+B :  if you have two channels .
+
+dialogue type : s
+B :  Like let 's say you have a clean t signal and you have an additional channel where you know what is the noisy signal .
+
+dialogue type : s
+B :  And then you try to minimize the error between these two .
+
+dialogue type : s
+B :  So that 's the basic principle .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I mean , if if you have only a c noisy signal , at a level which you , you w try to estimate the noise from the w assuming that the first few frames are noise
+
+dialogue type : s
+B :  or if you have a w voice activity detector , uh , you estimate the noise spectrum .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa|s^na
+B :  in yeah , after the speech starts .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  but that 's not the case in , uh , many many of our cases
+
+dialogue type : s^df
+B :  but it works reasonably well .
+
+dialogue type : s.%--
+B :  And and then you What you do is you , uh b
+
+dialogue type : x
+B :  fff .
+
+dialogue type : %--
+B :  So again ,
+
+dialogue type : s^t3.%--
+B :  I can write down some of these eq
+
+dialogue type : s^bk^t3
+B :  Oh , OK .
+
+dialogue type : s^bk^t3
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  uh , this is the transfer function of the Wiener filter ,
+
+dialogue type : s
+B :  so " SF " is a clean speech spectrum , power spectrum
+
+dialogue type : s
+B :  And " N " is the noisy power spectrum .
+
+dialogue type : s
+B :  And so this is the transfer function .
+
+dialogue type : fh
+B :  And ,
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s
+B :  And then you multiply your noisy power spectrum with this .
+
+dialogue type : s
+B :  You get an estimate of the clean power spectrum .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  but the thing is that you have to estimate the SF from the noisy spectrum , what you have .
+
+dialogue type : s
+B :  So you estimate the NF from the initial noise portions
+
+dialogue type : s
+B :  and then you subtract that from the current noisy spectrum to get an estimate of the SF .
+
+dialogue type : s
+B :  So sometimes that becomes zero
+
+dialogue type : s^df
+B :  because you do you don't have a true estimate of the noise .
+
+dialogue type : s
+B :  So the f filter will have like sometimes zeros in it
+
+dialogue type : s^df
+B :  because some frequency values will be zeroed out because of that .
+
+dialogue type : s
+B :  And that creates a lot of discontinuities across the spectrum because @ @ the filter .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : fh
+B :  uh ,
+
+dialogue type : s
+B :  so that 's what that was just the first stage of Wiener filtering that I tried .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  Not seen .
+
+dialogue type : s^na
+B :  They are very s similar techniques .
+
+dialogue type : s
+B :  So it 's like I haven't seen anybody using s Wiener filter with spectral subtraction .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : h|s
+B :  Uh , the reason was , like , we had this choice of using spectral subtraction , Wiener filtering , and there was one more thing which I which I 'm trying , is this sub space approach .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s
+B :  Stephane is working on spectral subtraction .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Y Yeah ,
+
+dialogue type : s^df
+B :  we just wanted to have a few noise production compensation techniques
+
+dialogue type : s^df
+B : 
+
+dialogue type : s^df
+B :  pick one .
+
+dialogue type : s^bk
+B :  VA Yeah , VAD .
+
+dialogue type : b
+B :  w Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B : 
+
+dialogue type : s
+B :  so one of one of the things that I tried , like I said , was to remove those zeros in the fri filter by doing some smoothing of the filter .
+
+dialogue type : s
+B :  Like , you estimate the edge of square
+
+dialogue type : s
+B :  and then you do a f smoothing across the frequency so that those zeros get , like , flattened out .
+
+dialogue type : s
+B :  And that doesn't seems to be improving by trying it on the first time .
+
+dialogue type : s
+B :  So what I did was like I p did this
+
+dialogue type : s
+B :  and then you I plugged in the one more the same thing but with the smoothed filter the second time .
+
+dialogue type : s
+B :  And that seems to be working .
+
+dialogue type : s
+B :  So that 's where I got like fifty - six point five percent improvement on SpeechDat - Car with that .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  So the other thing what I tried was I used still the ten frames of noise estimate
+
+dialogue type : s
+B :  but I used this channel zero VAD to drop the frames .
+
+dialogue type : s
+B :  So I 'm not still not estimating .
+
+dialogue type : s
+B :  And that has taken the performance to like sixty - seven percent in SpeechDat - Car ,
+
+dialogue type : s^e
+B :  which is which which like sort of shows that by using a proper VAD you can just take it to further , better levels .
+
+dialogue type : fh
+B : 
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^ar
+B :  I mean , no ,
+
+dialogue type : s
+B :  I haven't seen s like sixty - seven percent .
+
+dialogue type : fh
+B :  And , uh ,
+
+dialogue type : s
+B :  using the channel zero VAD to estimate the noise also seems to be improving
+
+dialogue type : s
+B :  but I don't have the results for all the cases with that .
+
+dialogue type : s
+B :  So I used channel zero VAD to estimate noise as a lesser 2 x frame ,
+
+dialogue type : s^e
+B :  which is like , everywhere I use the channel zero VAD .
+
+dialogue type : s
+B :  And that seems to be the best combination , uh , rather than using a few frames to estimate and then drop a channel .
+
+dialogue type : h
+B :  Nnn ,
+
+dialogue type : s^ar
+B :  no .
+
+dialogue type : s^df^nd
+B :  This is just to test whether we can really improve by using a better VAD .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s
+B :  I mean So this is like the noise compensation f is fixed
+
+dialogue type : s
+B :  but you make a better decision on the endpoints .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  so we c
+
+dialogue type : s
+B :  so I mean , which which means , like , by using this technique what we improve just the VAD
+
+dialogue type : s
+B :  we can just take the performance by another ten percent or better .
+
+dialogue type : s
+B :  So , that that was just the , uh , reason for doing that experiment .
+
+dialogue type : fh
+B : 
+
+dialogue type : fg|s
+B :  Yeah , but this all these things , I have to still try it on the TI - digits ,
+
+dialogue type : s^e
+B :  which is like I 'm just running .
+
+dialogue type : s
+B :  And there seems to be not improving a a lot on the TI - digits ,
+
+dialogue type : s
+B :  so I 'm like investigating that , why it 's not .
+
+dialogue type : fh
+B :  And ,
+
+dialogue type : fh
+B :  um ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^t1
+B :  Well after that .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  so the other the other thing is like I 've been I 'm doing all this stuff on the power spectrum .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B : 
+
+dialogue type : s^e
+B :  mel and the magnitude , and mel magnitude , and all those things .
+
+dialogue type : s
+B :  But it seems to be the power spectrum seems to be getting the best result .
+
+dialogue type : s
+B :  So , one of one of reasons I thought like doing the averaging , after the filtering using the mel filter bank , that seems to be maybe helping rather than trying it on the mel filter ba filtered outputs .
+
+dialogue type : s.%-
+B :  So just th
+
+dialogue type : s^bk
+B :  Yeah ,
+
+dialogue type : s
+B :  th that 's that 's the only thing that I could think of why why it 's giving improvement on the mel .
+
+dialogue type : fh
+B :  And , yep .
+
+dialogue type : s
+B :  So that 's it .
+
+dialogue type : s^ng
+B :  Subspace , I 'm I 'm like that 's still in a little bit in the back burner
+
+dialogue type : s^df
+B :  because I 've been p putting a lot effort on this to make it work , on tuning things and other stuff .
+
+dialogue type : fh
+B :  So
+
+dialogue type : s
+B :  I was like going parallely
+
+dialogue type : s
+B :  but not much of improvement .
+
+dialogue type : s
+B :  I 'm just have some skeletons ready ,
+
+dialogue type : s
+B :  need some more time for it .
+
+dialogue type : fh
+B :  Mmm .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : s^aa^r
+B :  Yep .
+
+dialogue type : qy
+B :  Is that the log ?
+
+dialogue type : s^nd
+B :  After that .
+
+dialogue type : s^ar
+B :  No ,
+
+dialogue type : s^nd
+B :  after .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bu|qy^d^g^rt
+B :  But you end up reducing some neighboring frequency bins @ @ in the average , right ?
+
+dialogue type : s^e
+B :  When you add the negative to the positive value
+
+dialogue type : s^e
+B :  which is the true estimate .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^aa
+B :  Yeah , yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s^aa
+B :  That is true .
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  For frames , frequency bins .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s^aa|s
+B :  Yeah , the one you showed yesterday .
+
+dialogue type : qy^d^g
+B :  Right ?
+
+dialogue type : x
+B :  Fff .
+
+dialogue type : s^ar|s^nd
+B :  No , I don't have , for each ,
+
+dialogue type : s^df
+B :  I I just just have the final number here .
+
+dialogue type : s^aa
+B :  Yeah , yeah , yeah .
+
+dialogue type : fg|s^ar
+B :  So so , no ,
+
+dialogue type : s^df
+B :  I actually didn't give you the number which is the final one ,
+
+dialogue type : s^e
+B :  which is , after two stages of Wiener filtering .
+
+dialogue type : s
+B :  I mean , that was I just well , like the overall improvement is like fifty - six point five .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s
+B :  I mean , his number is still better than what I got in the two stages of Wiener filtering .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk^t3
+B :  Oh , OK .
+
+dialogue type : s^aa^t3
+B :  Yeah , right ,
+
+dialogue type : s^bk^t3
+B :  OK .
+
+dialogue type : s
+B :  They use spectral subtraction ,
+
+dialogue type : s^aa
+B :  right .
+
+dialogue type : s
+B :  French Telecom .
+
+dialogue type : s^bk|s^na
+B :  Oh , it 's it 's Wiener filtering .
+
+dialogue type : s^ft
+B :  Sorry .
+
+dialogue type : s^na
+B :  Yeah , filtering .
+
+dialogue type : s^na
+B :  Yeah , it 's not exactly Wiener filtering
+
+dialogue type : s^df^na
+B :  but some variant of Wiener filtering .
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : %
+B :  s
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bk
+B :  yeah ,
+
+dialogue type : s
+B :  th the just noise compensation technique is a variant of Wiener filtering ,
+
+dialogue type : s
+B :  plus they do some some smoothing techniques on the final filter .
+
+dialogue type : s
+B :  The th they actually do the filtering in the time domain .
+
+dialogue type : s
+B :  So they would take this HF squared back , taking inverse Fourier transform .
+
+dialogue type : s
+B :  And they convolve the time domain signal with that .
+
+dialogue type : s
+B :  And they do some smoothing on that final filter , impulse response .
+
+dialogue type : s.%
+B :  I mean , I 'm I 'm @ @ .
+
+dialogue type : %
+B :  But .
+
+dialogue type : s^2
+B :  It 's similar in the smoothing
+
+dialogue type : %--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^2
+B :  The frequency domain .
+
+dialogue type : s^ar|s^nd
+B :  No , you get it with Wiener filtering also .
+
+dialogue type : s^ar
+B :  Oh , no ,
+
+dialogue type : s^df
+B :  you still end up with zeros in the s spectrum .
+
+dialogue type : s^e
+B :  Sometimes .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%
+B :  Yeah , I know .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah ,
+
+dialogue type : b
+B :  yeah ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : qy^bu^d^rt
+B :  You mean , the m the mean is computed o based on some frames in the future also ?
+
+dialogue type : qrr
+B :  Or or no ?
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s^ft
+B :  I 'm sorry ,
+
+dialogue type : qw^rt
+B :  why why is that delay coming ?
+
+dialogue type : qy^d^rt
+B :  Like , you estimate the mean ?
+
+dialogue type : b
+B :  Oh , yeah .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bk
+B :  OK ,
+
+dialogue type : s^bu
+B :  so it 's like it looks into the future also .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : %--
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  We can do something in parallel also , in some like some cases like , if you wanted to do voice activity detection .
+
+dialogue type : s
+B :  And we can do that in parallel with some other filtering you can do .
+
+dialogue type : s
+B :  So you can make a decision on that voice activity detection
+
+dialogue type : s
+B :  and then you decide whether you want to filter or not .
+
+dialogue type : s
+B :  But by then you already have the sufficient samples to do the filtering .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  So , sometimes you can do it anyway .
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : qy^bu^d^rt
+B :  You mean , the the data , the super frame or something ?
+
+dialogue type : s^bk|s^ng
+B :  Yeah , but that has a variable latency
+
+dialogue type : s^df
+B :  because the last frame doesn't have any latency
+
+dialogue type : s^df
+B :  and first frame has a twenty framed latency .
+
+dialogue type : s
+B :  So you can't r rely on that latency all the time .
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B :  I mean the transmission over over the air interface is like a buffer .
+
+dialogue type : s
+B : 
+
+dialogue type : s^bsc
+B :  twenty four frames .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  But the only thing is that the first frame in that twenty - four frame buffer has a twenty - four frame latency .
+
+dialogue type : s
+B :  And the last frame doesn't have any latency .
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s
+B :  I used ten just ten frames .
+
+dialogue type : s^aa|%--
+B : 
+
+dialogue type : s^df
+B :  I mean , the reason was like in TI - digits I don't have a lot .
+
+dialogue type : s^e
+B :  I had twenty frames most of the time .
+
+dialogue type : s
+B :  Well , that 's that 's using the channel zero .
+
+dialogue type : s^rt
+B :  If I use a channel zero VAD to estimate the noise .
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  Channel zero dropping .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : %-
+B : 
+
+dialogue type : %
+B :  f
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  So I 'm also using that n new noise estimate technique on this Wiener filtering what I 'm trying .
+
+dialogue type : s
+B :  So I I have , like , some experiments running , I don't have the results .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  I don't estimate the f noise on the ten frames but use his estimate .
+
+dialogue type : %
+B : 
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s
+B :  So , it doesn't seems to help by their use of channel zero or channel one .
+
+dialogue type : s^bu|qy^d^g
+B :  Uh , you mean their d the frame dropping , right ?
+
+dialogue type : s^bk|s
+B : 
+
+dialogue type : s^2
+B :  Italian .
+
+dialogue type : s
+B :  TI - digits .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  The energy also .
+
+dialogue type : b
+B :  Yeah .
+

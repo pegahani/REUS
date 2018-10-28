@@ -1,0 +1,87 @@
+dialogue type : s
+F :  Hello .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  I was Yeah , I was I was here I was here before once .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^am
+F :  Oh , I think so .
+
+dialogue type : qy^rt^t1
+F :  Did I ?
+
+dialogue type : s^no
+F :  I don't know .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : qy^rt
+F :  Can I verbally consent ?
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  I don't care .
+
+dialogue type : s^cs
+F :  You can do whatever you want with it .
+
+dialogue type : s^ba
+F :  That 's fine .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s^nd.%-
+F : 
+
+dialogue type : s^aa
+F :  Yeah . Exactly .
+
+dialogue type : s^cs
+F :  We can just discu we can just have a political discussion one day .
+
+dialogue type : s^cs^j.%-
+F : 
+
+dialogue type : s
+F : 
+
+dialogue type : %-
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  someone said that they had a special room to get all your frustrations out
+
+dialogue type : s
+F :  that you can go to and like throw things and break things .
+
+dialogue type : s^cs.%-
+F : 
+
+dialogue type : s^aap
+F :  No , not to that extent
+
+dialogue type : fh
+F :  but , um .
+
+dialogue type : s^aa^j
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mmm .
+

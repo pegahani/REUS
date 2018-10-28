@@ -1,0 +1,2007 @@
+dialogue type : s
+D :  It 's great how the br brain sort of does that .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^rt
+D :  So the news for me is A , my forthcoming travel plans
+
+dialogue type : s^rt
+D :  in two weeks from today ?
+
+dialogue type : qy^d^f^g^rt
+D :  Yeah ?
+
+dialogue type : s^rt
+D :  More or less ?
+
+dialogue type : s^rt
+D :  I 'll be off to Sicily and Germany for a couple , three days .
+
+dialogue type : s^bk|s
+D :  OK , I 'm flying to Sicily basically to drop off Simon there with his grandparents .
+
+dialogue type : s
+D :  And then I 'm flying to Germany t to go to a MOKU - Treffen
+
+dialogue type : s
+D :  which is the meeting of all the module - responsible people in SmartKom ,
+
+dialogue type : s^rt
+D :  and , represent ICI
+
+dialogue type : s
+D :  and myself I guess there .
+
+dialogue type : fh
+D :  And um .
+
+dialogue type : s
+D :  That 's the mmm actual reason .
+
+dialogue type : s
+D :  And then I 'm also going up to EML for a day ,
+
+dialogue type : s
+D :  and then I 'm going to meet the very big boss , Wolfgang Walster , in Saarbruecken and the System system integration people in Kaiserslautern
+
+dialogue type : s
+D :  and then I 'm flying back via Sicily
+
+dialogue type : s
+D :  pick up my son
+
+dialogue type : s
+D :  come back here on the fourth of July .
+
+dialogue type : fh
+D :  And uh .
+
+dialogue type : s^j
+D :  And I 'm sure all the the people at the airport will be happy to work on that day .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^ng
+D :  Alitalia .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : fg
+D :  And um ,
+
+dialogue type : s^t^tc
+D :  that 's that bit of news ,
+
+dialogue type : s^rt^t^tc
+D :  and the other bit of news is we had you know , uh , I was visited by my German project manager
+
+dialogue type : s^rt
+D : 
+
+dialogue type : s^e^rt
+D :  what we 're doing here ,
+
+dialogue type : s
+D :  and B , is planning to come here either three weeks in July or three weeks in August , to actually work .
+
+dialogue type : s
+D :  With us .
+
+dialogue type : s
+D :  And we sat around and we talked
+
+dialogue type : s
+D :  and he came up we came up with a pretty strange idea .
+
+dialogue type : s^t
+D :  And that 's what I 'm gonna lay on you now .
+
+dialogue type : fh|s
+D :  And um , maybe it might be ultimately the most interesting thing for Eva
+
+dialogue type : s
+D :  because she has been known to complain about the fact that the stuff we do here is not weird enough .
+
+dialogue type : s
+D :  So this is so weird it should even make you happy .
+
+dialogue type : s
+D :  Imagine if you will , that we have a system that does all that understanding that we want it to do based on utterances .
+
+dialogue type : s
+D :  It should be possible to make that system produce questions .
+
+dialogue type : s:qw
+D :  So if you have the knowledge of how to interpret " where is X ? " under given conditions , situational , user , discourse and ontological conditions , you should also be able to make that same system ask " where is X ? "
+
+dialogue type : s^e
+D :  in a sper certain way ,
+
+dialogue type : s^e
+D :  based on certain intentions .
+
+dialogue type : s
+D :  So in instead of just being able to observe phenomenon , um , and , guess the intention we might be able just to sort of give it an intention , and make it produce an utterance .
+
+dialogue type : s^aa
+D :  Absolutely .
+
+dialogue type : s
+D :  And once you 've done that what we can do is have the system ask itself .
+
+dialogue type : s
+D :  And answer ,
+
+dialogue type : s
+D :  understand the answer ,
+
+dialogue type : s
+D :  ask something else ,
+
+dialogue type : s
+D :  and enter a dialogue with itself .
+
+dialogue type : s
+D :  So the the ba basic the same idea as having two chess computers play against each other .
+
+dialogue type : s^aa|s
+D :  Yeah you c if you want , you can have two parallel machines um , asking each other .
+
+dialogue type : qh
+D :  What would that give us ?
+
+dialogue type : s
+D :  Would A be something completely weird and strange ,
+
+dialogue type : s
+D :  and B , i if you look at all the factors , we will never observe people let 's say , in wheelchairs under you know , in under all conditions ,
+
+dialogue type : s
+D :  you know , when they say " X " , and there is a ride at the goal , and the parking is good , we can never collect enough data .
+
+dialogue type : s^e
+D :  It 's it 's it 's not possible .
+
+dialogue type : s
+D :  But maybe one could do some learning .
+
+dialogue type : s
+D :  If you get the system to speak to itself , you may find n break downs and errors and you may be able to learn .
+
+dialogue type : s
+D :  And make it more robust ,
+
+dialogue type : s
+D :  maybe learn new things .
+
+dialogue type : fh
+D :  And um ,
+
+dialogue type : s
+D :  so there 's no no end of potential things one could get out of it , if that works .
+
+dialogue type : s
+D :  And he would like to actually work on that with us .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s^aap|s.%--
+D :  Yeah , I w
+
+dialogue type : s^ba^df
+D :  See the the generation bit , making the system generate generate something , is shouldn't be too hard .
+
+dialogue type : s^bk|s
+D :  Yeah . Well , if we can get it to understand one thing , like our " where is " run through we can also , maybe , e make it say , or ask " where is X ? " Or not .
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D :  Well , I 've I 've done generation and language production research for fo four four and a half years .
+
+dialogue type : s
+D :  And so it 's it 's you 're right ,
+
+dialogue type : s^e
+D :  it 's not the same as the understanding .
+
+dialogue type : s|qy^d^f^g
+D :  It 's in some ways easier and some ways harder . nuh ?
+
+dialogue type : fh
+D :  But , um ,
+
+dialogue type : s
+D :  I think it 'd be fun to look at it , or into that question .
+
+dialogue type : s^ba
+D :  It 's a pretty strange idea .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s.%-
+D :  Well , look at th
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  What it would be the the prior intention .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  No . Let 's we have to we have some some top - down processing , given certain setting .
+
+dialogue type : s:s
+D :  OK , now we change nothing , and just say ask something .
+
+dialogue type : qy^d^f^g^rt
+D :  Right ?
+
+dialogue type : qw
+D :  What would it ask ?
+
+dialogue type : s.%-
+D :  It shur
+
+dialogue type : s^aa
+D :  Yeah !
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : %-
+D :  Eh , n
+
+dialogue type : qy
+D :  Ooh , do we really need to do that ?
+
+dialogue type : s^df.%-
+D :  Because ,
+
+dialogue type : %--
+D :  s
+
+dialogue type : s^ba
+D :  It 's i I know it 's it 's strange ,
+
+dialogue type : s
+D :  but look at it look at our Bayes - net .
+
+dialogue type : s|qy^d^f^g^rt
+D :  If we don't have Let 's assume we don't have any input from the language . Right ?
+
+dialogue type : s
+D :  So there 's also nothing we could query the ontology ,
+
+dialogue type : s
+D :  but we have a certain user setting .
+
+dialogue type : s
+D :  If you just ask , what is the likelihood of that person wanting to enter some something , it 'll give you an answer .
+
+dialogue type : qy^d^g^rt
+D :  Right ?
+
+dialogue type : s
+D :  That 's just how they are .
+
+dialogue type : s
+D :  And so , @ @ whatever that is , it 's the generic default intention . That it would find out .
+
+dialogue type : s
+D :  Which is , wanting to know where something is ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I don't know what it 's gonna be ,
+
+dialogue type : s.%-
+D :  but there 's gonna be something that
+
+dialogue type : s:qw
+D :  Well you can observe some user and context stuff and ask , what 's the posterior probabilities of all of our decision nodes .
+
+dialogue type : s:s
+D :  You could even say , " let 's take all the priors ,
+
+dialogue type : s:s
+D :  let 's observe nothing " , and query all the posterior probabilities .
+
+dialogue type : s
+D :  It - it 's gonna tell us something .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa|s
+D :  Yes . And come up with posterior probabilities for all the values of the decision nodes .
+
+dialogue type : s
+D :  Which , if we have an algorithm that filters out whatever the the best or the most consistent answer out of that , will give us the intention ex nihilo .
+
+dialogue type : s
+D :  And that is exactly what would happen if we ask it to produce an utterance ,
+
+dialogue type : s
+D :  it would be b based on that extension , ex nihilo ,
+
+dialogue type : s
+D :  which we don't know what it is ,
+
+dialogue type : s^rt
+D :  but it 's there .
+
+dialogue type : s
+D :  So we wouldn't even have to t to kick start it by giving it a certain intention or observing anything on the decision node .
+
+dialogue type : s:qw
+D :  And whatever that maybe that would lead to " what is the castle ? " ,
+
+dialogue type : s:qw
+D :  or " what is that whatever " .
+
+dialogue type : s^ar
+D : 
+
+dialogue type : fg|s
+D :  Yeah . So what we actually then need to do is is write a little script that changes all the settings ,
+
+dialogue type : s^e
+D :  you know , go goes through all the permutations ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : qy
+D :  didn't we calculate that once ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk|%-
+D :  Oh ! That 's n
+
+dialogue type : s
+D :  that 's that 's nothing for those neural guys .
+
+dialogue type : s
+D :  I mean , they train for millions and millions of epochs .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk|s.%--
+D :  Yeah . So , it be it it 's an idea that one could n for for example run run past , um ,
+
+dialogue type : qw
+D :  what 's that guy 's name ?
+
+dialogue type : s
+D :  You know ? He - he 's usually here .
+
+dialogue type : x
+D :  Tsk .
+
+dialogue type : s.%--
+D :  J J Jer - Jerj
+
+dialogue type : s^aa|s
+D :  Oh , yeah . That 's the guy .
+
+dialogue type : %--
+D :  We we we we g
+
+dialogue type : fg
+D :  And um .
+
+dialogue type : s
+D :  so this is just an idea that 's floating around
+
+dialogue type : s^rt
+D :  and we 'll see what happens .
+
+dialogue type : fh
+D :  And um , hmm ,
+
+dialogue type : qw^t
+D :  what other news do I have ?
+
+dialogue type : s^t^tc
+D :  Well we fixed some more things from the SmartKom system ,
+
+dialogue type : s^rt
+D :  but that 's not really of general interest ,
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : fg|s
+D :  Oh ! Questions ,
+
+dialogue type : fh
+D :  yeah .
+
+dialogue type : s
+D :  I 'll ask Eva about the E Bayes and she 's working on that .
+
+dialogue type : qw
+D :  How is the generation XML thing ?
+
+dialogue type : s^bk|s
+D :  OK . No need to do it today or tomorrow even .
+
+dialogue type : s^cs.%-
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : %-
+D :  But st
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^am
+D :  Maybe .
+
+dialogue type : qh
+D :  Who knows .
+
+dialogue type : s^ba
+D :  That 's good .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s^t^tc
+D :  The paper .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bu
+D :  So you would say it 's funky
+
+dialogue type : s^bu^e
+D :  cool .
+
+dialogue type : %-
+D :  Well
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : qw
+D :  Um , what 's your input ?
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : h|s^aap
+D : 
+
+dialogue type : s^e|qy^d^f^g
+D :  It 's both , right ?
+
+dialogue type : s
+D :  It 's it 's sort of t cognitive , neural , psycho , linguistic ,
+
+dialogue type : s
+D :  but all for the sake of doing computer science .
+
+dialogue type : s
+D :  So it 's sort of cognitive , psycho , neural , plausibly motivated , architectures of natural language processing .
+
+dialogue type : s
+D :  So it seems pretty interdisciplinary ,
+
+dialogue type : s^rt
+D :  and I mean , w w the keynote speaker is Tomasello
+
+dialogue type : s
+D :  and blah - blah - blah ,
+
+dialogue type : fh
+D :  so ,
+
+dialogue type : s
+D :  W the the question is what could we actually do and and and keep a straight face while doing it .
+
+dialogue type : s.%-
+D :  And i
+
+dialogue type : s.%--
+D :  My idea is ,
+
+dialogue type : s
+D :  well , you can say we have done a little bit
+
+dialogue type : s^rt
+D :  and that 's this ,
+
+dialogue type : s
+D :  and uh sort of the rest is position paper ,
+
+dialogue type : s
+D :  " we wanna also do that " .
+
+dialogue type : s
+D :  Which is not too good .
+
+dialogue type : s
+D :  Might be more interesting to do something like let 's assume um , we 're right ,
+
+dialogue type : s:s
+D :  we have as Jerry calls it , a delusion of adequacy ,
+
+dialogue type : s:qw
+D :  and take a " where is X " sentence ,
+
+dialogue type : s
+D :  and say , " we will just talk about this ,
+
+dialogue type : s
+D :  and how we cognitively , neurally , psycho - linguistically , construction grammar - ally , motivated , envision uh , understanding that " .
+
+dialogue type : s^rt
+D :  So we can actually show how we parse it .
+
+dialogue type : s
+D :  That should be able to we should be able to come up with , you know , a sort of a a parse .
+
+dialogue type : s
+D :  It 's on ,
+
+dialogue type : s^co
+D :  just just put it on .
+
+dialogue type : %-
+D :  You don
+
+dialogue type : s^j
+D :  You will suffer in hell ,
+
+dialogue type : s^j
+D :  you know that .
+
+dialogue type : s
+D :  This is it .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa|s^na
+D :  Yeah , it is .
+
+dialogue type : s.%-
+D :  We 're talking about this um , alleged paper that we may , just , sort of w
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s:qw
+D :  And I just sort of brought forth the idea that we take a sentence , " Where is the Powder - Tower " ,
+
+dialogue type : s
+D :  and we we p pretend to parse it ,
+
+dialogue type : s
+D :  we pretend to understand it ,
+
+dialogue type : s
+D :  and we write about it .
+
+dialogue type : s^bk|s^cs^j
+D :  OK , then we pretend to write about .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  There is this conference , it 's the seventh already international conference , on neu neurally , cognitively , motivated , architectures of natural language processing .
+
+dialogue type : fh|s^rt
+D :  And the keynote speakers are Tomasello , MacWhinney ?
+
+dialogue type : s^rt
+D :  We - MacWhinney , I think .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : s^rt
+D :  So maybe you wanna write something too .
+
+dialogue type : s^ar|s.%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah . Yeah .
+
+dialogue type : s
+D :  Even neuro .
+
+dialogue type : s^e
+D :  Psycho .
+
+dialogue type : s
+D :  You could look at the web site .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  And the ad and and the deadline is the fifteenth of June .
+
+dialogue type : s^ng
+D :  Hey . Plenty of time .
+
+dialogue type : s^cs
+D :  It would be nice to go write two papers actually .
+
+dialogue type : s.%-
+D :  Yeah . And one one from your perspective , and one from our peve per per
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : fg|s^cs
+D :  Well , I I also think that if we sort of write about what we have done in the past six months , we we we could sort of craft a nice little paper that if it gets rejected , which could happen , doesn't hurt
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : s^m^na
+D :  having it is a good good thing .
+
+dialogue type : s^ba^e
+D :  It 's a nice exercise ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I usually enjoy writing papers .
+
+dialogue type : s^e
+D :  It 's not I don't re regard it as a painful thing .
+
+dialogue type : s^cs
+D :  And um , we should all do more for our publication lists .
+
+dialogue type : fh|s^df
+D :  And . It just never hurts .
+
+dialogue type : fh|s^rt
+D :  And Keith and - or Johno will go , probably .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  It 's on the twenty second of September , in Saarbruecken Germany .
+
+dialogue type : s
+D :  What to write about .
+
+dialogue type : s
+D :  What is our what 's our take home message .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^df
+D :  Because I mean , it I don't like papers where you just talk about what you plan to do .
+
+dialogue type : s
+D :  I mean , it 's obvious that we can't do any kind of evaluation ,
+
+dialogue type : s:s
+D :  and have no you know , we can't write an ACL type paper where we say , " OK , we 've done this
+
+dialogue type : s^e:s|s^f
+D :  and now we 're whatever percentage better than everybody else " . You know .
+
+dialogue type : s^e
+D :  It 's far too early for that .
+
+dialogue type : s^df^rt
+D :  But uh , we we can tell them what we think .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^df
+D :  never hurts to try .
+
+dialogue type : fh
+D :  And um ,
+
+dialogue type : s^cs^rt
+D :  maybe even That 's maybe the time to introduce the the new formalism that you guys have cooked up .
+
+dialogue type : s
+D :  It 's just like four pages .
+
+dialogue type : s.%-
+D :  I mean it 's it 's not even a h
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : s^no
+D :  I don't know
+
+dialogue type : qy^rt
+D :  w Did you look at it ?
+
+dialogue type : fg|s^aap
+D :  Yeah , it depends on the format .
+
+dialogue type : s^ar|s
+D :  No that 's I mean that 's actually a problem .
+
+dialogue type : s^e
+D :  It 's difficu it 's more difficult to write on four pages than on eight .
+
+dialogue type : s
+D :  Well I uh maybe it 's just four thousand lines .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^e
+D :  They don't have a TeX f style @ @ guide .
+
+dialogue type : s
+D :  They just want ASCII .
+
+dialogue type : s^e
+D :  Pure ASCII lines ,
+
+dialogue type : s
+D :  whatever .
+
+dialogue type : s
+D :  Why , for whatever reason ,
+
+dialogue type : s
+D :  I don't know .
+
+dialogue type : s^no
+D :  I don't know .
+
+dialogue type : s^ba
+D :  Very unspecific unfortunately .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bk
+D :  OK then .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^co
+D :  I d don't quote me on this .
+
+dialogue type : s^df.%-
+D :  This is numbers I I have from looking o
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : qy^cs^rt
+D :  Let 's let 's wh wh what should we should should we uh , um , discuss this over tea
+
+dialogue type : s^e^rt
+D :  and all of us look at the web ?
+
+dialogue type : s
+D :  Oh , I can't .
+
+dialogue type : s^df
+D :  I 'm wizarding today .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s^m^na|s^cs^rt
+D :  Look at the web page and let 's talk about it maybe tomorrow afternoon ?
+
+dialogue type : s
+D :  Johno will send you a link .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^rt
+D :  I 'm flying to Sicily next in a w two weeks from now ,
+
+dialogue type : s^rt
+D :  w and a week of business in Germany .
+
+dialogue type : s
+D :  I should mention that for you .
+
+dialogue type : s^rt
+D :  And otherwise you haven't missed much ,
+
+dialogue type : s
+D :  except for a really weird idea ,
+
+dialogue type : s.%-
+D :  but you 'll hear about that soon enough .
+
+dialogue type : s^ar
+D :  No , no , no .
+
+dialogue type : fg|s.%-
+D :  Yeah , that is something for the rest of the gang to to g
+
+dialogue type : s:s
+D :  Change the watchband .
+
+dialogue type : s:s
+D :  It 's time to walk the sheep .
+
+dialogue type : fg
+D :  Um .
+
+dialogue type : qy^rt
+D :  Did you catch that allusion ?
+
+dialogue type : s^e^rt
+D :  It 's time to walk the sheep ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fg|%-
+D :  Anyways , th
+
+dialogue type : fh
+D :  um , um ,
+
+dialogue type : s^co^tc
+D :  don't make any plans for spring break next year .
+
+dialogue type : %-
+D : 
+
+dialogue type : s
+D :  That 's the other thing .
+
+dialogue type : s
+D :  We 're gonna do an int EDU internal workshop in Sicily .
+
+dialogue type : s^df
+D :  I 've already got the funding .
+
+dialogue type : s.%-
+D :  So , I mean .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa|s^na
+D :  Yeah , that 's what it means .
+
+dialogue type : s^bk.%
+D :  OK .
+
+dialogue type : s^ba
+D :  Mmm , too easy .
+
+dialogue type : %-
+D :  Ki
+
+dialogue type : s^ba
+D :  Too easy .
+
+dialogue type : s^aa|s^df
+D :  Yeah , mangos go everywhere .
+
+dialogue type : s
+D :  So do kiwi .
+
+dialogue type : s^ba|s^aa
+D :  But coconut anana pineapple , that 's that 's tricky , yeah .
+
+dialogue type : s^aa|s^cs:s
+D :  Yeah , maybe you have It would be kind of The paper ha would have , in my vision , a nice flow if we could say , well here is th the th here is parsing if you wanna do it c right ,
+
+dialogue type : s^cs^e:s
+D :  here is understanding if you wanna do it right ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  That would be clear ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^ar
+D :  No ,
+
+dialogue type : s
+D :  See this , if you if you 're not around , and don't partake in the discussions , and you don't get any email ,
+
+dialogue type : fh
+D :  and
+
+dialogue type : %-
+D :  Su
+
+dialogue type : s|qy^d^f^g^rt
+D :  So we could we could say this is what what 's sort of state of the art today . Nuh ?
+
+dialogue type : s|qy^d^f^g^rt
+D :  And say , this is bad . Nuh ?
+
+dialogue type : s
+D :  And then we can say , uh well what we do is this .
+
+dialogue type : s^bk.%
+D :  Yeah .
+
+dialogue type : s^aa|%-
+D :  Mm - hmm . Yeah . And
+
+dialogue type : %-
+D :  We
+
+dialogue type : s^aa|s
+D :  Yeah , and you can you can just point to the to the literature ,
+
+dialogue type : s.%
+D :  you can say that construction - based
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  So this will be sort of documenting what we think , and documenting what we have in terms of the Bayes - net stuff .
+
+dialogue type : s|qy^d^g^rt
+D :  And since there 's never a bad idea to document things , no ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^cs
+D :  We we should sketch out the details maybe tomorrow afternoon - ish , if everyone is around .
+
+dialogue type : s^no
+D :  I don't know .
+
+dialogue type : s
+D :  You probably wouldn't be part of it .
+
+dialogue type : s.%--
+D :  Maybe you want ?
+
+dialogue type : s^cs
+D :  Think about it .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s^j
+D :  You may may ruin your career forever , if you appear .
+
+dialogue type : fg
+D :  And um ,
+
+dialogue type : s.%--
+D :  the uh , other thing ,
+
+dialogue type : fg|qy^rt
+D :  yeah we actually Have we made any progress on what we decided , uh , last week ?
+
+dialogue type : s^rt
+D :  I 'm sure you read the transcript of last week 's meeting in red
+
+dialogue type : s
+D :  so sh so you 're up to dated caught up .
+
+dialogue type : s:qw
+D :  We decided t that we 're gonna take a " where is something " question ,
+
+dialogue type : s
+D :  and pretend we have parsed it ,
+
+dialogue type : s
+D :  and see what we could possibly hope to observe on the discourse side .
+
+dialogue type : qy^rt
+D :  Should I introduce it as SUDO - square ?
+
+dialogue type : s^cs
+D :  We have to put this in the paper .
+
+dialogue type : s^e
+D :  If we write it .
+
+dialogue type : s
+D :  This is this is my only constraint .
+
+dialogue type : %--
+D :  The th
+
+dialogue type : fg
+D :  So .
+
+dialogue type : s
+D :  The SUDO - square is , " Situation " , " User " , " Discourse " , right ? " Ontology " .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^bd
+D :  Yeah . Whatever .
+
+dialogue type : qy^rt
+D :  Is it ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qw^br^rt
+D :  Hmm ?
+
+dialogue type : s
+D :  Oh Well , also he 's talking about suicide ,
+
+dialogue type : s
+D :  and that 's that 's not a notion I wanna have evoked .
+
+dialogue type : s^nd
+D :  He is .
+
+dialogue type : %--
+D : 
+
+dialogue type : fg
+D :  So ,
+
+dialogue type : s^bk|s^tc
+D :  OK , so we have tons of little things here ,
+
+dialogue type : s.%-
+D :  and we 've
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : s
+D :  You know , these are our , whatever , belief - net decision nodes ,
+
+dialogue type : s^rt
+D :  and they all contribute to these things down here .
+
+dialogue type : s
+D :  That 's EDU .
+
+dialogue type : %-
+D :  e e Our e e e
+
+dialogue type : s^e
+D :  You .
+
+dialogue type : s^e
+D :  We .
+
+dialogue type : s^e
+D :  Us .
+
+dialogue type : s
+D :  Well , in the moment it 's a Bayes - net .
+
+dialogue type : s
+D :  And it has sort of fifty not - yet - specified interfaces .
+
+dialogue type : fh|s
+D :  OK . Eh I have taken care that we actually can build little interfaces , to other modules that will tell us whether the user likes these things and , n the or these things ,
+
+dialogue type : s
+D :  and he whether he 's in a wheelchair or not ,
+
+dialogue type : s^na|s^aa
+D :  I think so , yeah .
+
+dialogue type : fh
+D :  Mmm . So .
+
+dialogue type : fg|s^rt
+D :  No , this is a RME core by agent design ,
+
+dialogue type : s^no
+D :  I don't know .
+
+dialogue type : s.%-
+D :  There 's maybe a different
+
+dialogue type : s
+D :  Situation , user , d ontology .
+
+dialogue type : s
+D :  That 's here .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  So this this includes the the current utterance plus all the previous utterances .
+
+dialogue type : s
+D :  And for example w i s I Irena Gurevich is going to be here eh , end of July .
+
+dialogue type : s^rt
+D :  She 's a new linguist working for EML .
+
+dialogue type : s
+D :  And what she would like to do for example is great for us .
+
+dialogue type : s.%--
+D :  She would like to take the ent ontolog
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  Think of back at the EVA vector ,
+
+dialogue type : s:qw
+D :  and Johno coming up with the idea that if the person discussed the discussed the admission fee , in eh previously , that might be a good indication that , " how do I get to the castle ? " , actually he wants to enter .
+
+dialogue type : s:qw
+D :  Or , you know , " how do I get to X ? "
+
+dialogue type : s
+D :  discussing the admission fee in the previous utterance , is a good indication .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  we don't want a hard code , a set of lexemes , or things , that person 's you know , sort of filter , or uh search the discourse history .
+
+dialogue type : s
+D :  So what would be kind of cool is that if we encounter concepts that are castle , tower , bank , hotel , we run it through the ontology ,
+
+dialogue type : s
+D :  and the ontology tells us it has um , admission , opening times ,
+
+dialogue type : s
+D :  it has admission fees ,
+
+dialogue type : s^rt
+D :  it has this , it has that ,
+
+dialogue type : s^rt
+D :  and then we we we make a thesaurus lexicon , look up ,
+
+dialogue type : s
+D :  and then search dynamically through the uh , discourse history for occurrences of these things in a given window of utterances .
+
+dialogue type : s
+D :  And that might , you know , give us additional input to belief A versus B .
+
+dialogue type : s^e
+D :  Or E versus A .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : %-
+D :  Well
+
+dialogue type : s
+D :  the the idea is even more general .
+
+dialogue type : s
+D :  The idea is to say , we encounter a certain entity in a in a in a utterance .
+
+dialogue type : s
+D :  So le let 's look up everything we the ontology gives us about that entity ,
+
+dialogue type : s
+D :  what stuff it does , what roles it has ,
+
+dialogue type : s
+D :  what parts , whatever it has .
+
+dialogue type : s^e
+D :  Functions .
+
+dialogue type : s
+D :  And , then we look in the discourse , whether any of that , or any surface structure corresponding to these roles , functions aaa has ever occurred .
+
+dialogue type : s:s
+D :  And then , the discourse history can t tell us , " yeah " , or " no " .
+
+dialogue type : s
+D :  And then it 's up for us to decide what to do with it .
+
+dialogue type : %-
+D :  t So i
+
+dialogue type : s:qw
+D :  So , we may think that if you say um , " where is the theater " , um , whether or not he has talked about tickets before , then we he 's probably wanna go there to see something .
+
+dialogue type : s:qw
+D :  Or " where is the opera in Par - Paris ? ,
+
+dialogue type : s^f
+D :  yeah ?
+
+dialogue type : s
+D :  Lots of people go to the opera to take pictures of it and to look at it ,
+
+dialogue type : s
+D :  and lots of people go to attend a performance .
+
+dialogue type : s
+D :  And , the discourse can maybe tell us w what 's more likely if we know what to look for in previous statements .
+
+dialogue type : s^rt
+D :  And so we can hard code " for opera , look for tickets , look for this , look for that ,
+
+dialogue type : s.%--
+D :  or look for Mozart , look for thi "
+
+dialogue type : s
+D :  but the smarter way is to go via the ontology
+
+dialogue type : s
+D :  and dynamically , then look up u stuff .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s
+D :  Yeah , e ultimately that 's also what we wanna get at .
+
+dialogue type : s
+D :  I think that 's that 's the correct way .
+
+dialogue type : s
+D :  So , of course we have to keep memory of what was the last intention ,
+
+dialogue type : s
+D :  and how does it fit to this , and what does it tell us , in terms of of the the what we 're examining .
+
+dialogue type : s
+D :  And furthermore , I mean we can idealize that , you know , people don't change topics ,
+
+dialogue type : s^e
+D :  but they do .
+
+dialogue type : s
+D :  But , even th for that , there is a student of ours who 's doing a dialogue act um , recognition module .
+
+dialogue type : s^cs
+D :  So , maybe , we 're even in a position where we can take your approach ,
+
+dialogue type : s.%-:qw.%-
+D : 
+
+dialogue type : qw^br^rt
+D :  Hmm ?
+
+dialogue type : s^aa|s^e:qw
+D :  Yeah . How how do these pieces fit together ?
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : fh
+D :  And um .
+
+dialogue type : s
+D :  But , OK , nevertheless . So these are issues
+
+dialogue type : s:qw
+D :  but we what we actually decided last week , is to , and this is , again , for your benefit is to um , pretend we have observed and parsed an utterance such as " where is the Powder - Tower " ,
+
+dialogue type : s
+D :  or " where is the zoo " ,
+
+dialogue type : s
+D :  and specify um , what what we think the the output uh , observe , out i input nodes for our Bayes - nets for the sub sub - D , for the discourse bit , should be .
+
+dialogue type : s
+D :  So that And I will I will then come up with the ontology side uh , bits and pieces ,
+
+dialogue type : s
+D :  so that we can say , OK we we always just look at this utterance .
+
+dialogue type : s^rt
+D :  That 's the only utterance we can do ,
+
+dialogue type : s
+D :  it 's hard coded ,
+
+dialogue type : s
+D :  like Srini , sort of hand parsed ,
+
+dialogue type : s^e
+D :  hand crafted ,
+
+dialogue type : s
+D :  but this is what we hope to be able to observe in general from utterances , and from ontologies ,
+
+dialogue type : s
+D :  and then we can sort of fiddle with these things to see what it actually produces , in terms of output .
+
+dialogue type : fg|s
+D :  So we need to find out what the " where is X " construction will give us in terms of semantics
+
+dialogue type : s
+D :  and Simspec type things .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^ar^fe
+D :  No !
+
+dialogue type : s^co
+D :  Um , look at it this way ,
+
+dialogue type : %--
+D :  i
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : qw
+D :  What did we decide .
+
+dialogue type : s:qw
+D :  We decided sort of the the prototypical " where is X " , where you know , we don't really know , does he wanna go there , or just wanna know where it is .
+
+dialogue type : s^e:qw|s^f
+D :  So the difference of " where is the railway station " , versus where where " where is Greenland " . Nuh ?
+
+dialogue type : s
+D :  We 're not videotaping any of this .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^aa|s.%-
+D : 
+
+dialogue type : %-
+D :  Yea - Nnn
+
+dialogue type : s^ng
+D :  Well actually more m more the other way around .
+
+dialogue type : s
+D :  We wanted something that represents uncertainty uh we in terms of going there or just wanting to know where it is , for example .
+
+dialogue type : s
+D :  Some generic information .
+
+dialogue type : s
+D :  And so this is prototypically @ @ found in the " where is something " question , surface structure ,
+
+dialogue type : s
+D :  which can be p you know , should be maps to something that activates both .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^cs
+D :  let 's have it fit nicely with the paper .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa|s^na
+D :  Yeah , we we wouldn't .
+
+dialogue type : s
+D :  That 's exactly what we want .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^ar|s^nd
+D :  No . We wouldn't .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : qw.%--
+D : 
+
+dialogue type : s^aa
+D :  Exactly .
+
+dialogue type : qw.%--
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aa|s.%--
+D :  Yeah , it should be So we have
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s:s
+D :  i let 's assume we we call something like a loc - X node and a path - X node .
+
+dialogue type : s
+D :  And what we actually get if we just look at the discourse , " where is X " should activate
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh|s
+D :  Hmm . Should be both ,
+
+dialogue type : s:qw
+D :  whereas maybe " where is X located " , we find from the data , is always just asked when the person wants to know where it is ,
+
+dialogue type : s:qw
+D :  and " how do I get to " is always asked when the person just wants to know how to get there .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s:qw
+D :  So we want to sort of come up with what gets uh , input , and how inter in case of a " where is " question .
+
+dialogue type : qh
+D :  So what what would the outcome of of your parser look like ?
+
+dialogue type : qh
+D :  And , what other discourse information from the discourse history could we hope to get , squeeze out of that utterance ?
+
+dialogue type : s:qw
+D :  So define the the input into the Bayes - net based on what the utterance , " where is X " , gives us .
+
+dialogue type : s
+D :  So definitely have an Entity node here which is activated via the ontology ,
+
+dialogue type : s
+D :  so " where is X " produces something that is s stands for X , whether it 's castle , bank , restroom , toilet , whatever .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^ar|s^nd
+D :  No . Not at all .
+
+dialogue type : s
+D :  Where it is located , we have , a user proximity node here somewhere ,
+
+dialogue type : s^e
+D :  e which tells us how far the user how far away the user is in respect to that uh entity .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^ng
+D :  Yeah , you don't need to even do that .
+
+dialogue type : s
+D :  It 's just sort of what what would be @ @ observed in uh in that case .
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : s^na
+D :  That 's exactly what we 're looking for .
+
+dialogue type : s^na
+D :  You wouldn't .
+
+dialogue type : s
+D :  It 's the same .
+
+dialogue type : s^r
+D :  It will be the same .
+
+dialogue type : s:s|qy^d^f^g
+D :  So I think r in here we have " I 'll go there " , right ?
+
+dialogue type : s
+D :  And we have our Info - on .
+
+dialogue type : s:s
+D :  So in my c my case , this would sort of make this happy , and this would make the Go - there happy .
+
+dialogue type : s:qw
+D :  What you 're saying is we have a Where - X question , Where - X node , that makes both happy .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : s
+D :  That 's what you 're proposing , which is , in my mind
+
+dialogue type : s^ba
+D :  just as fine .
+
+dialogue type : s
+D :  So w if we have a construction node , " where is X " , it 's gonna both get the po posterior probability that it 's Info - on up ,
+
+dialogue type : s^e
+D :  Info - on is True - up , and that Go - there is True - up , as well .
+
+dialogue type : s
+D :  Which would be exactly analogous to what I 'm proposing is , this makes uh makes something here true ,
+
+dialogue type : s
+D :  and this makes something also something here true ,
+
+dialogue type : s
+D :  and this makes this True - up , and this makes this True - up as well .
+
+dialogue type : s^aa|s^df
+D :  Yeah , because we get we get tons of constructions I think .
+
+dialogue type : s^df
+D :  Because , you know , mmm people have many ways of asking for the same thing ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^nd|s^ar
+D :  The system doesn't massage you , no . No .
+
+dialogue type : s^aa
+D :  Yep . Yeah .
+
+dialogue type : s^aa
+D :  Yeah . Precisely .
+
+dialogue type : %-
+D : 
+
+dialogue type : %-
+D :  So , w
+
+dialogue type : s^aa|s
+D :  Exactly . We have su we have specified two .
+
+dialogue type : s
+D :  OK , the next one would be here , just for mood .
+
+dialogue type : s.%--
+D :  The next one would be what we can squeeze out of the uh
+
+dialogue type : s^rt
+D :  I don't know , maybe we wanna observe the uh , um , uh the length of of the words used , and , or the prosody
+
+dialogue type : s
+D :  and g a and t make conclusions about the user 's intelligence .
+
+dialogue type : s^no
+D :  I don't know ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  U that 's exactly r um , why I 'm proposing It 's too early to have to think of them of all of these discourse things that one could possibly observe ,
+
+dialogue type : s.%-
+D :  so let 's just assume
+
+dialogue type : s:qw
+D :  human beings are not allowed to ask anything but " where is X " .
+
+dialogue type : s
+D :  This is the only utterance in the world .
+
+dialogue type : qh
+D :  What could we observe from that ?
+
+dialogue type : %-
+D :  In ter
+
+dialogue type : s
+D :  Just just " where is X " .
+
+dialogue type : s:qy|qy^d^f^g
+D :  And , but you know , do it do it in such a way that we know that people can also say , " is the town hall in front of the bank " , so that we need something like a w WH focus . Nuh ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  Well , if you if you can , oh definitely do ,
+
+dialogue type : s^m^na|qy^d^f^g
+D :  where possible . Right ?
+
+dialogue type : s
+D :  If i if if it 's not at all triggered by our thing , then it 's irrelevant ,
+
+dialogue type : s
+D :  and it doesn't hurt to leave it out for the moment .
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : s^bd
+D :  Think Uh , well this is just a mental exercise .
+
+dialogue type : s.%--
+D :  If you think about ,
+
+dialogue type : s^cs:qw
+D :  focus on this question , how would you design that ?
+
+dialogue type : qy
+D :  Is it do you feel confident about saying this is part of the language already to to detect those plans ,
+
+dialogue type : qh
+D :  and why would anyone care about location ,
+
+dialogue type : s.%--
+D :  if not , you know
+
+dialogue type : s
+D :  and so forth .
+
+dialogue type : qrr.%--
+D :  Or do you actually ,
+
+dialogue type : s
+D :  I mean this is perfectly legitimate ,
+
+dialogue type : s
+D :  and I I would not have any problems with erasing this
+
+dialogue type : s:s
+D :  and say , that 's all we can activate , based on the utterance out of context .
+
+dialogue type : qw
+D :  What ?
+
+dialogue type : s:s
+D :  And then the the the miracle that we get out the intention , Go - there , happens , based on what we know about that entity , about the user , about his various beliefs , goals , desires , blah - blah - blah .
+
+dialogue type : s
+D :  Absolutely fine .
+
+dialogue type : s
+D :  But this is the sort of thing , I I propose that we think about ,
+
+dialogue type : s^df
+D :  so that we actually end up with um , um , nodes for the discourse and ontology
+
+dialogue type : s
+D :  so that we can put them into our Bayes - net ,
+
+dialogue type : s
+D :  never change them ,
+
+dialogue type : s:qw
+D :  so we all there is is " where is X " ,
+
+dialogue type : s
+D :  and , Eva can play around with the observed things ,
+
+dialogue type : s
+D :  and we can run our better JavaBayes , and have it produce some output .
+
+dialogue type : s^rt
+D :  And for the first time in th in in the world , we look at our output ,
+
+dialogue type : s
+D :  and um and see uh whether it it 's any good .
+
+dialogue type : qy^d^f^g
+D :  You know ?
+
+dialogue type : fh
+D :  I mean ,
+
+dialogue type : qw^br
+D :  Hmm ?
+
+dialogue type : s^bk|s^df
+D :  Yeah , I I mean , for me this is just a ba matter of curiosity ,
+
+dialogue type : s
+D :  I wanna would like to look at uh , what this ad - hoc process of designing a belief - net would actually produce .
+
+dialogue type : s^e:qw
+D :  If if we ask it where is something .
+
+dialogue type : s
+D :  And , maybe it also h enables you to think about certain things more specifically ,
+
+dialogue type : s^rt
+D :  um , come up with interesting questions , to which you can find interesting answers .
+
+dialogue type : s
+D :  And , additionally it might fit in really nicely with the paper .
+
+dialogue type : s^df
+D :  Because if if if we want an example for the paper , I suggest there it is .
+
+dialogue type : s
+D :  So th this might be a nice opening paragraph for the paper as saying , " you know people look at kinds of at ambiguities " ,
+
+dialogue type : fh
+D :  and um ,
+
+dialogue type : s
+D :  in the literature there 's " bank "
+
+dialogue type : s
+D :  and whatever kinds of garden path phenomenon .
+
+dialogue type : s:s
+D :  And we can say , well , that 's all nonsense . A ,
+
+dialogue type : s
+D :  A , uh these things are never really ambiguous in discourse , B ,
+
+dialogue type : s
+D :  B , don't ever occur really in discourse ,
+
+dialogue type : s:qw
+D :  but normal statements that seem completely unambiguous , such as " where is the blah - blah " , actually are terribly complex , and completely ambiguous .
+
+dialogue type : s
+D :  And so , what every everybody else has been doing so far in in in you know , has been completely nonsensical , and can all go into the wastepaper bin ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^ba
+D :  Nice overture ,
+
+dialogue type : s
+D : 
+
+dialogue type : s^bk|s^bd
+D :  OK , I 'm eja exaggerating ,
+
+dialogue type : s^df
+D :  but that might be , you know , saying " hey " , you know , some stuff is is actually complex , if you look at it in in in the vacuum
+
+dialogue type : s
+D :  and and ceases to be complex in reality .
+
+dialogue type : s
+D :  And some stuff that 's as that 's absolutely straightforward in the vacuum , is actually terribly complex in reality .
+
+dialogue type : s
+D :  Would be nice sort of , uh , also , nice , um bottom - up linguistics , um , type message .
+
+dialogue type : s
+D :  Versus the old top - down school .
+
+dialogue type : s^tc
+D :  I 'm running out of time .
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : s
+D :  At four ten .
+
+dialogue type : s^t^tc
+D :  OK , this is the other bit of news .
+
+dialogue type : s
+D :  The subjects today know Fey ,
+
+dialogue type : s
+D :  so she can't be here , and do the wizarding .
+
+dialogue type : s
+D :  So I 'm gonna do the wizarding
+
+dialogue type : s
+D :  and Thilo 's gonna do the instructing .
+
+dialogue type : s
+D :  Also we 're getting a a person who just got fired uh , from her job .
+
+dialogue type : s
+D :  Uh a person from Oakland who is interested in maybe continuing the wizard bit once Fey leaves in August .
+
+dialogue type : s
+D :  And um , she 's gonna look at it today .
+
+dialogue type : s
+D :  Which is good news in the sense that if we want to continue , after the thir thir after July , we can .
+
+dialogue type : s^bsc
+D :  We could .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  and that 's also maybe interesting for Keith and whoever , if you wanna get some more stuff into the data collection .
+
+dialogue type : s
+D :  Remember this , we can completely change the set - up any time we want .
+
+dialogue type : s
+D :  Look at the results we 've gotten so far for the first , whatever , fifty some subjects ?
+
+dialogue type : s^ar|s
+D :  No , we 're approaching twenty now .
+
+dialogue type : s
+D :  But , until Fey is leaving , we surely will hit the some of the higher numbers .
+
+dialogue type : fh
+D :  And um ,
+
+dialogue type : s
+D :  so that 's cool .
+
+dialogue type : s
+D :  Can a do more funky stuff .
+
+dialogue type : h
+D :  Um .
+
+dialogue type : s
+D :  We have uh , eh found someone here who 's hand st hand transcribing the first twelve .
+
+dialogue type : s^e^rt
+D :  First dozen subjects
+
+dialogue type : s
+D :  just so we can build a a language model for the recognizer .
+
+dialogue type : fh|s
+D :  But , um So those should be available soon .
+
+dialogue type : s
+D :  The first twelve .
+
+dialogue type : fh
+D :  And
+
+dialogue type : %-
+D :  I can ch ch st e
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  a y y y You can listen to all of them from your Solaris box .
+
+dialogue type : s
+D :  If you want .
+
+dialogue type : s^ba
+D :  It 's always fun .
+

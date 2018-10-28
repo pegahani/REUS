@@ -1,0 +1,27 @@
+dialogue type : z
+B :  Channel two .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  True .
+
+dialogue type : s^ng
+B :  I 've used the P - file , I think .
+
+dialogue type : s^bd
+B :  I 've looked at it at least , briefly , I think when we were doing s something .
+
+dialogue type : s^t1
+B :  Oh , in there .
+
+dialogue type : qw^rt
+B :  Where are those annotations coming from ?
+

@@ -1,0 +1,129 @@
+dialogue type : z
+E :  Hello ?
+
+dialogue type : z
+E :  Mm - hmm .
+
+dialogue type : z
+E :  Hi ?
+
+dialogue type : z
+E :  Hello ?
+
+dialogue type : b.%
+E :  OK .
+
+dialogue type : fg|s.%-
+E :  Um . So continuing to um extend
+
+dialogue type : b
+E :  Oh yeah .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^aa.%
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  F right ,
+
+dialogue type : s
+E :  and uh he doesn't have to have hard labels .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  For the full band .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  From uh canonical mappings um at first
+
+dialogue type : s.%--
+E :  and then it 's unclear um eh
+
+dialogue type : s^aa^m
+E :  using TIMIT
+
+dialogue type : b
+E :  right , right .
+
+dialogue type : s^e.x
+E :  And then uh he does some fine tuning um for um special cases .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%
+E :  I I think uh Mike tried it
+
+dialogue type : s.%
+E :  and he says it 's impossible so he went to Octave .
+
+dialogue type : s^e
+E :  Octave is the um UNIX clone of of Matlab which you can batch .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qw
+E :  What 's that ?
+
+dialogue type : h|qy^bu^rt
+E :  Uh , Octave ?
+
+dialogue type : s^aa
+E :  Yeah it 's it 's it 's free .
+
+dialogue type : s
+E :  I think we have it here r running somewhere .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : h|s
+E :  Um i it 's a little behind ,
+
+dialogue type : s.%--
+E :  it 's the same syntax but it 's a little behind in that Matlab went to these like um
+
+dialogue type : s.x
+E :  you can have cells and you can you can uh implement object - oriented type things with Matlab .
+
+dialogue type : s
+E :  Uh Octave doesn't do that yet ,
+
+dialogue type : s.%--
+E :  so I think you ,
+
+dialogue type : s
+E :  Octave is kinda like Matlab
+
+dialogue type : fh|s.%-
+E :  um four point something or .
+
+dialogue type : s
+E :  The basic stuff , right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  OK .
+

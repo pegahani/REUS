@@ -1,0 +1,597 @@
+dialogue type : z
+F :  Yeah .
+
+dialogue type : z
+F :  Self - learning , yeah .
+
+dialogue type : %-
+F :  Can w
+
+dialogue type : s^cs
+F :  I could always say something about transcription .
+
+dialogue type : %--
+F :  I 've been
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Yeah , yeah , yeah .
+
+dialogue type : s^na
+F :  This does sound like we 're doing fine ,
+
+dialogue type : b
+F :  yeah .
+
+dialogue type : s
+F :  That won't do .
+
+dialogue type : s^bk|qy^bu^d^rt
+F :  Oh ! By throw them out completely ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg|s
+F :  Well , and s and you 're talking string - wise ,
+
+dialogue type : s^bu
+F :  you 're not talking about the entire page ?
+
+dialogue type : s^bk
+F :  I get it .
+
+dialogue type : s^aa
+F :  Mm - hmm . Yeah , true .
+
+dialogue type : s^aa
+F :  Mm - hmm . Mm - hmm .
+
+dialogue type : s^ar|s^na
+F :  No , not yet .
+
+dialogue type : s^bk.%
+F : 
+
+dialogue type : b
+F :  Oh .
+
+dialogue type : s.%--
+F :  Well , if there 's space , though , between them .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  With when you space them out they don't look like , uh , forty - three anymore .
+
+dialogue type : b.%
+F :  Yeah .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : s
+F :  uh , you can always search from the beginning or the end of the string .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^bk|s^ba.%-
+F : 
+
+dialogue type : %-
+F :  i
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^ng
+F :  I I would think though that the transcribe the transcripts themselves wouldn't need to have such lengthy names .
+
+dialogue type : s
+F :  So , I mean , you 're dealing with a different domain there , and with start and end times and all that ,
+
+dialogue type : s
+F :  and channels and stuff ,
+
+dialogue type : s
+F :  so , it 's a different set .
+
+dialogue type : s^bk
+F :  Fine . Fine .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : %--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  Start my new sentence .
+
+dialogue type : s
+F :  I I switched to doing the channel - by - channel transcriptions to provide , uh , the uh , tighter time bins for partly for use in Thilo 's work
+
+dialogue type : s
+F :  and also it 's of relevance to other people in the project .
+
+dialogue type : s
+F :  And , um , I discovered in the process a couple of of interesting things ,
+
+dialogue type : %--
+F :  which , um ,
+
+dialogue type : s
+F :  one of them is that , um , it seems that there are time lags involved in doing this ,
+
+dialogue type : fh
+F :  uh , uh ,
+
+dialogue type : s
+F :  using an interface that has so much more complexity to it .
+
+dialogue type : s^cs
+F :  And I and I wanted to maybe ask , uh , Chuck to help me with some of the questions of efficiency .
+
+dialogue type : s^cs
+F :  Maybe I was thinking maybe the best way to do this in the long run may be to give them single channel parts
+
+dialogue type : s^cs
+F :  and then piece them together later .
+
+dialogue type : s^cs
+F :  And I I have a script ,
+
+dialogue type : s^cs
+F :  I can piece them together .
+
+dialogue type : s
+F :  I mean , so it 's like , I I know that I can take them apart and put them together and I 'll end up with the representation
+
+dialogue type : s
+F :  which is where the real power of that interface is .
+
+dialogue type : s^am^ba
+F :  And it may be that it 's faster to transcribe a channel at a time with only one , uh , sound file and one , uh , set of of , uh , utterances to check through .
+
+dialogue type : s^bk
+F :  Oh , yes . OK .
+
+dialogue type : s^ng
+F :  But , um , with the mixed , when you have an overlap , you only have a a choice of one start and end time for that entire overlap ,
+
+dialogue type : s
+F :  which means that you 're not tightly , uh , tuning the individual parts th of that overlap by different speakers .
+
+dialogue type : s
+F :  So someone may have only said two words in that entire big chunk of overlap .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  well , so things like training the speech - nonspeech segmentation thing .
+
+dialogue type : s
+F :  Th - it 's necessary to have it more tightly tuned than that .
+
+dialogue type : s^ba
+F :  And w and w and , you know , is a It would be wonderful if , uh , it 's possible then to use that algorithm to more tightly tie in all the channels after that
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s^no
+F :  I I don't know exactly where that 's going at this point .
+
+dialogue type : s
+F :  But m I was experimenting with doing this by hand
+
+dialogue type : fh
+F :  and
+
+dialogue type : s^ba
+F :  I really do think that it 's wise that we 've had them start the way we have
+
+dialogue type : s
+F :  with , uh , m y working off the mixed signal ,
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : s
+F :  having the interface that doesn't require them to do the ti uh , the time bins for every single channel at a t uh , through the entire interaction .
+
+dialogue type : s
+F :  Um , I did discover a couple other things by doing this though ,
+
+dialogue type : s
+F :  and one of them is that ,
+
+dialogue type : fh
+F :  um , um ,
+
+dialogue type : s
+F :  once in a while a backchannel will be overlooked by the transcriber .
+
+dialogue type : s
+F :  As you might expect ,
+
+dialogue type : s^df.%--
+F :  because when it 's
+
+dialogue type : s
+F :  a b backchannel could well happen in a very densely populated overlap .
+
+dialogue type : s.%--
+F :  And if we 're gonna study types of overlaps ,
+
+dialogue type : s
+F :  which is what I wanna do ,
+
+dialogue type : s^e.%--
+F :  an analysis of that ,
+
+dialogue type : s
+F :  then that really does require listening to every single channel all the way through the entire length for all the different speakers .
+
+dialogue type : s^ba^bd
+F :  Now , for only four speakers , that 's not gonna be too much time ,
+
+dialogue type : s^df
+F :  but if it 's nine speakers , then that i that is more time .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  And I think again it 's like this it 's really valuable that Thilo 's working on the speech - nonspeech segmentation
+
+dialogue type : s^df
+F :  because maybe , um , we can close in on that wi without having to actually go to the time that it would take to listen to every single channel from start to finish through every single meeting .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^cs
+F :  Well so then then , maybe the answer is to , uh , listen especially densely in places of overlap ,
+
+dialogue type : s
+F :  just so that they 're they 're not being overlooked because of that ,
+
+dialogue type : s
+F :  and count on accuracy during the sparser phases .
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : s^ba
+F :  That 's a good point .
+
+dialogue type : s
+F :  There are large spaces where there 's no overlap at all .
+
+dialogue type : s
+F :  Someone 's giving a presentation ,
+
+dialogue type : s^e
+F :  or whatever .
+
+dialogue type : s^ba
+F :  That 's that 's a good that 's a good thought .
+
+dialogue type : fh|s
+F :  And , um , let 's see , there was one other thing I was gonna say .
+
+dialogue type : s^ba
+F :  I I think it 's really interesting data to work with ,
+
+dialogue type : s
+F :  I have to say , it 's very enjoyable .
+
+dialogue type : s
+F :  I really , not not a problem spending time with these data .
+
+dialogue type : s^ba
+F :  Really interesting .
+
+dialogue type : s^df
+F :  And not just because I 'm in there .
+
+dialogue type : s^ba^r
+F :  No , it 's real interesting .
+
+dialogue type : s
+F :  Di - digital camera .
+
+dialogue type : s^t^tc
+F :  I I did i it did occur to me that this is uh , the return to the transcription ,
+
+dialogue type : s^t^tc
+F :  that there 's one third thing I wanted to to ex raise as a to as an issue
+
+dialogue type : s
+F :  which is , um , how to handle breaths .
+
+dialogue type : s
+F :  So , I wanted to raise the question of whether people in speech recognition want to know where the breaths are .
+
+dialogue type : s.%--
+F :  And the reason I ask the question is ,
+
+dialogue type : s.%--
+F :  um , aside from the fact that they 're obviously very time - consuming to encode ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  I had the indication from Dan Ellis in the email that I sent to you ,
+
+dialogue type : s.%--
+F :  and you know about ,
+
+dialogue type : s^cs
+F :  that in principle we might be able to , um , handle breaths by accessi by using cross - talk from the other things ,
+
+dialogue type : %--
+F : 
+
+dialogue type : s^cs
+F :  in principle , maybe we could get rid of them ,
+
+dialogue type : %--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^no
+F :  I I don't know ,
+
+dialogue type : s.%--
+F :  I mean we had this an
+
+dialogue type : s
+F :  and I didn't couldn't get back to you ,
+
+dialogue type : s
+F :  but the question of whether it 'd be possible to eliminate them from the audio signal ,
+
+dialogue type : s^ba
+F :  which would be the ideal situation ,
+
+dialogue type : %-
+F : 
+
+dialogue type : s^nd.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  n the first one that I did for i for this ,
+
+dialogue type : s^df
+F :  where truly w we 're hearing you breathing like as if we 're you 're in our ear ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : %--
+F :  I y i
+
+dialogue type : s^na
+F :  I mean , breath is natural ,
+
+dialogue type : s.%--
+F :  but not
+
+dialogue type : s^nd.%--
+F : 
+
+dialogue type : s^bk
+F :  Oh , I see what you 're saying .
+
+dialogue type : s
+F :  You 're saying that the PDA application would have uh , have to cope with breath .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^bk|s
+F :  OK , then the then I have two questions .
+
+dialogue type : b
+F :  Yeah ?
+
+dialogue type : s^bk|s^cs
+F :  OK , so maybe the question is notating it .
+
+dialogue type : qw
+F :  Yeah ?
+
+dialogue type : s^bk|%-
+F : 
+
+dialogue type : s^ba
+F :  Well this is in very interesting
+
+dialogue type : s^df
+F :  because i it basically has a i it shows very clearly the contrast between , uh , speech recognition research and discourse research
+
+dialogue type : s
+F :  because in in discourse and linguistic research , what counts is what 's communit communicative .
+
+dialogue type : s.%--
+F :  And breath ,
+
+dialogue type : s
+F :  you know , everyone breathes ,
+
+dialogue type : s^e
+F :  they breathe all the time .
+
+dialogue type : s^bd^df
+F :  And once in a while breath is communicative ,
+
+dialogue type : s^df
+F :  but r very rarely .
+
+dialogue type : fg|s
+F :  OK , so now , I had a discussion with Chuck about the data structure
+
+dialogue type : s.%--
+F :  and the idea is that the transcripts will that get stored as a master
+
+dialogue type : s
+F :  there 'll be a master transcript
+
+dialogue type : s
+F :  which has in it everything that 's needed for both of these uses .
+
+dialogue type : s
+F :  And the one that 's used for speech recognition will be processed via scripts .
+
+dialogue type : s
+F :  You know , like , Don 's been writing scripts
+
+dialogue type : fh
+F :  and and ,
+
+dialogue type : s
+F :  uh , to process it for the speech recognition side .
+
+dialogue type : s.%--
+F :  Discourse side will have
+
+dialogue type : %--
+F :  this this side over he the we we 'll have a s ch
+
+dialogue type : s^fa|s
+F :  Sorry , not being very fluent here .
+
+dialogue type : fh
+F :  But , um ,
+
+dialogue type : s
+F :  this the discourse side will have a script which will stri strip away the things which are non - communicative .
+
+dialogue type : s
+F :  OK . So then the then let 's let 's think about the practicalities of how we get to that master copy with reference to breaths .
+
+dialogue type : qy
+F :  So what I would r r what I would wonder is would it be possible to encode those automatically ?
+
+dialogue type : qy
+F :  Could we get a breath detector ?
+
+dialogue type : s^df^na
+F :  Well , I mean , you just have no idea .
+
+dialogue type : s
+F :  I mean , if you 're getting a breath several times every minute ,
+
+dialogue type : s
+F :  and just simply the keystrokes it takes to negotiate , to put the boundaries in , to to type it in , i it 's just a huge amount of time .
+
+dialogue type : s^cs
+F :  And you wanna be sure it 's used ,
+
+dialogue type : s
+F :  and you wanna be sure it 's done as efficiently as possible ,
+
+dialogue type : s
+F :  and if it can be done automatically , that would be ideal .
+
+dialogue type : %-
+F : 
+
+dialogue type : fg|s
+F :  Well , OK . So now there 's there 's another another possibility
+
+dialogue type : s^cs
+F :  which is , um , the time boundaries could mark off words from nonwords .
+
+dialogue type : s
+F :  And that would be extremely time - effective , if that 's sufficient .
+
+dialogue type : s^bk|s
+F :  OK . But that would maybe include a pause as well ,
+
+dialogue type : s
+F :  and that wouldn't be a problem to have it , uh , pause plus breath plus laugh plus sneeze ?
+
+dialogue type : s
+F :  That 's what they 've been doing .
+
+dialogue type : s
+F :  So , within an overlap segment , they they do this .
+
+dialogue type : s^aa|s^na
+F :  Yeah , you 're saying it 's uncharted territory .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk|s^ba
+F :  OK , fair enough .
+
+dialogue type : qw
+F :  I guess , um , I uh , what I was wondering is what what at what level does the breathing aspect enter into the problem ?
+
+dialogue type : s^df.%--
+F :  Because if it were likely that a PDA would be able to be built which would get rid of the breathing , so it wouldn't even have to be processed at thi at this computational le
+
+dialogue type : s^bd
+F :  well , let me see , it 'd have to be computationally processed to get rid of it ,
+
+dialogue type : s.%--
+F :  but if there were , uh , like likely on the frontier , a good breath extractor
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk|s^df
+F :  Yeah , well , see and that 's what I wouldn't know .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s
+F :  I guess there 's another aspect
+
+dialogue type : s^df
+F :  which is that as we 've improved our microphone technique , we have a lot less breath in the in the more recent , uh , recordings ,
+
+dialogue type : s
+F :  so it 's in a way it 's an artifact that there 's so much on the on the earlier ones .
+
+dialogue type : s^bk|s
+F :  OK , and it 's also the fact that they differ a lot from one channel to the other
+
+dialogue type : s^df
+F :  because of the way the microphone 's adjusted .
+
+dialogue type : s^bk
+F :  OK .
+

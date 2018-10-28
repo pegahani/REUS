@@ -1,0 +1,477 @@
+dialogue type : z
+B :  What day is today ?
+
+dialogue type : z
+B :  Nineteenth ?
+
+dialogue type : z
+B :  Right , right .
+
+dialogue type : s
+B :  I made that joke already , Nancy , sadly .
+
+dialogue type : s^rt:s
+B :  The " I don't know myself " joke .
+
+dialogue type : s
+B :  Uh before you came in .
+
+dialogue type : s^rt
+B :  About me .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^cs
+B :  Wizardette .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : qw^rt
+B :  Wait , what what are the days ?
+
+dialogue type : qy^bu^d^rt
+B :  April twenty - sixth to the May fourth ?
+
+dialogue type : s
+B :  I 'll probably be here .
+
+dialogue type : s
+B :  Well I 'll be here working on something .
+
+dialogue type : s^e
+B :  Guaranteed ,
+
+dialogue type : s.%--
+B :  it 's just uh will I be here , you know , in
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  I 'll be here too actually
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  But it 's not like we need to be with them twenty - four hours a day s for the seven days that they 're here .
+
+dialogue type : s
+B :  Yeah , yeah , I guess .
+
+dialogue type : b
+B :  Yep .
+
+dialogue type : %
+B :  e
+
+dialogue type : s
+B :  This is the uh s the schema of the XML here ,
+
+dialogue type : s^e
+B :  not an example or something like that .
+
+dialogue type : s^2.%--
+B : 
+
+dialogue type : s^2
+B :  or that are related to Source - Path - Goal .
+
+dialogue type : s
+B :  And then those actions can be in multiple categories at the same time if necessary .
+
+dialogue type : s
+B :  Uh one question , Robert .
+
+dialogue type : qy
+B :  When you point at the screen is it your shadow that I 'm supposed to look at ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  Whereas I keep looking where your hand is ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s
+B :  Basically , what this is is that there 's an interface between what we are doing and the action planner
+
+dialogue type : s
+B :  and right now the way the interface is " action go " and then they have the what the person claimed was the source and the person claimed as the goal passed on .
+
+dialogue type : s
+B :  And the problem is , is that the current system does not distinguish between goes of type " going into " , goes of type " want to go to a place where I can take a picture of " , et cetera .
+
+dialogue type : s^aa|s^aap
+B :  Right . Currently .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Robert likes to be abstract
+
+dialogue type : s
+B :  and that 's what I just thought he was doing .
+
+dialogue type : s^2
+B :  Which which we 're abbreviating as " RAD " .
+
+dialogue type : s.%--
+B :  So the Source - Path - Goal schema in this case ,
+
+dialogue type : s.%--
+B :  I 've if I understand how we described we set this up ,
+
+dialogue type : fh
+B :  um
+
+dialogue type : s
+B :  cuz we 've been arguing about it all week ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Well in this case it will hold the I mean the the features I guess .
+
+dialogue type : s.%--
+B :  I 'm not it 's hard for me to exactly s
+
+dialogue type : s.%--
+B :  So basically that will store the the object that is w
+
+dialogue type : s^rt
+B :  the Source will store the object that we 're going from ,
+
+dialogue type : s.%-
+B :  the Goal will store the the f
+
+dialogue type : s
+B :  we 'll fill those in fill those roles in ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  See we so those are schemas exist
+
+dialogue type : s.%--
+B :  because in case we need extra information
+
+dialogue type : s
+B :  instead of just making it an attribute and which which is just one thing we we decided to make it 's own entity so that we could explode it out later on in case there is some structure that that we need to exploit .
+
+dialogue type : s
+B :  That 's a block ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^bk|s
+B :  Right , so the the the roles will be filled in with the schema
+
+dialogue type : s
+B :  and then what actual a action is chosen is will be in the in the action schema section .
+
+dialogue type : %--
+B : 
+
+dialogue type : qw^bu.%--
+B :  wa wasn't there supposed to be a link in the
+
+dialogue type : s^bd
+B :  I don't know if this answers your question ,
+
+dialogue type : s^df
+B :  I was just staring at this while you were talking ,
+
+dialogue type : s^fa
+B :  sorry .
+
+dialogue type : fh|s
+B :  Uh a link between the action schema , a field in the s in the schema for the image schemas that would link us to which action schema we were supposed to use
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %-
+B :  St
+
+dialogue type : s
+B :  Basically references from the roles in the schema the bottom schemas to the action schemas is wha uh I 'm assuming .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s:qy
+B :  Well the the the utterance was " is there a bakery around here ? " ,
+
+dialogue type : s:s
+B :  not " I want to go to a bakery . "
+
+dialogue type : s^bk|%-
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  Oh the OK
+
+dialogue type : s.%--
+B : 
+
+dialogue type : %--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bd^no
+B :  I don't know if I 'm gonna answer your question or not with this ,
+
+dialogue type : s.%--
+B :  but the categories inside of action schemas ,
+
+dialogue type : s
+B :  so , SPG action is a category .
+
+dialogue type : %--
+B :  Real
+
+dialogue type : s
+B :  although I think what we 're specifying here is this is a category where the actions " enter , view and approach " would fall into
+
+dialogue type : s^df
+B :  because they have a related Source - Path - Goal schema in our tourist domain .
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : s^br^m.%--
+B :  derived
+
+dialogue type : s^no.%-
+B :  I don't know if I u
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s
+B :  Inside of Enter there will be roles that can be filled basically .
+
+dialogue type : s
+B :  So if I want to go from outside to inside then you 'd have the roles that need to filled , where you 'd have a Source - Path - Goal set of roles .
+
+dialogue type : s
+B :  So you 'd the Source would be outside and Path is to the door or whatever ,
+
+dialogue type : qy^d^f^g^rt
+B :  right ?
+
+dialogue type : s
+B :  So if you wanted to have a new type of action you 'd create a new type of category .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bd
+B : 
+
+dialogue type : s.%--
+B :  We would put a new action in the m uh in the categories that in which it has the
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  Well , every action has a set of related schemas
+
+dialogue type : s
+B :  like Source - Path - Goal or force , whatever ,
+
+dialogue type : qy^d^f^g^rt
+B :  right ?
+
+dialogue type : s.%-:s.%-
+B :  So we would put " write a letter " in the categories uh that in which it had it w had uh schemas u
+
+dialogue type : s^aa
+B :  Exactly .
+
+dialogue type : s
+B :  Schemas uh that of that type .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s
+B :  Well , this is one of things we were arguing about .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s
+B :  The the reason One reason we 're doing it this way is in case there 's extra structure that 's in the Enter action that 's not captured by the schemas ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : fg|%-
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : %-
+B :  I 'd I
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bd^df
+B :  I 'm not sure if I understand your question .
+
+dialogue type : s^rt
+B :  Only one of those things are gonna be lit up when we pass this on .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  if we if our if our module decided that Enter is the case , View and Approach will not be there .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  well the thing is if that 's the case we our I don't think our system can handle that currently .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh|s
+B :  um that 's kind of a contentious point between the two of us
+
+dialogue type : s
+B :  but this is one wa so this is a way to link uh the way these roles are filled out to the action .
+
+dialogue type : s^df.%--
+B :  Because if we know that Enter is a t is an SPG action ,
+
+dialogue type : qy^d^f^g
+B :  right ?
+
+dialogue type : s^df
+B :  we know to look for an SPG schema and put the appropriate fill in the appropriate roles later on .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^bu
+B :  This is a simple way to basically link uh roles to actions .
+
+dialogue type : s
+B :  That 's the that was the intent of of it , basically .
+
+dialogue type : fg|s.%-
+B : 
+
+dialogue type : s
+B :  I b I mean ROLLS
+
+dialogue type : fh
+B :  so
+
+dialogue type : s^aa|s^na
+B :  Yeah , pastries is what I 'm talking about .
+
+dialogue type : s
+B :  You have class until two ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s
+B :  so if we don't want him if we don't want him to run over here
+
+dialogue type : s^aa^m.%-
+B : 
+
+dialogue type : s^na|s^aa^m
+B :  And between now and then yeah .
+
+dialogue type : s^na
+B :  We will .
+
+dialogue type : s^ba
+B :  Don't worry .
+
+dialogue type : s^ba
+B :  The other good thing about it is Jerry can be on here on Friday
+
+dialogue type : s
+B :  and he can weigh in as well .
+
+dialogue type : s^bs
+B :  It 's an a attempt to refine it basically .
+
+dialogue type : s^ba
+B :  RAD 's a great term .
+
+dialogue type : qw^br^m
+B :  Why ?
+
+dialogue type : s
+B :  It just happened to be the acronym .
+
+dialogue type : qw.%-
+B :  Who doesn't like to be a
+
+dialogue type : b
+B :  Yeah .
+

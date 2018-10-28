@@ -1,0 +1,174 @@
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : s
+F :  Aber das wird jetzt geaendert .
+
+dialogue type : s
+F :  Das wird geaendert .
+
+dialogue type : qy^rt
+F :  But the problem is , are you allowed to change anything on the general ICSI server ?
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^cs
+F :  So you may need just a link from the main ICSI page to the NSA page .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk|s
+F :  Yeah , but that 's that 's effort .
+
+dialogue type : s^df^nd
+F :  That 's the whole problem , that nobody wants to do it .
+
+dialogue type : b.%
+F :  Yep .
+
+dialogue type : h|s^cc
+F :  So , I won't change the topic then .
+
+dialogue type : s^rt
+F :  I 'm here until end of May
+
+dialogue type : s
+F :  and after that I presumably going to a Siemens project with some department of gee - mens ,
+
+dialogue type : s
+F :  but related to that topic what I have done here .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s
+F :  it 's some of pre - stage to that ,
+
+dialogue type : s^df
+F :  so it might be more related or loosely related .
+
+dialogue type : s^bu
+F :  So it 's at least it 's in the same topic .
+
+dialogue type : s^rt
+F :  And progress , it 's going on ,
+
+dialogue type : s
+F :  but it 's not that fast going on as I would have like it .
+
+dialogue type : %
+F :  Oh ,
+
+dialogue type : s
+F :  I would like to have it .
+
+dialogue type : s^fa
+F :  Sorry .
+
+dialogue type : fh
+F :  Well
+
+dialogue type : %
+F :  but oder ?
+
+dialogue type : h|s
+F :  Um , I 'm currently I 'm looking into Quality of Service Routing ,
+
+dialogue type : s
+F :  and I had discussions with a post - doc from the U - UCB .
+
+dialogue type : fh
+F :  Well ,
+
+dialogue type : s^rt
+F :  we want to we started to collect information to write the paper about Quality of Serving routing . for MPLS in an MPLS domain .
+
+dialogue type : s
+F :  So you have um distributed routing at the edges ,
+
+dialogue type : s
+F :  and one aspect is that the information is outdated , so that you know to always have the exact information of your links , dates , and so on .
+
+dialogue type : s
+F :  It what we have plans of that .
+
+dialogue type : s
+F :  And trying to look at some routing policies , or routing algorithms .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  It d yeah .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  So at least from the desh definition of Christian Tschudin , MPLS is a subset of of active route active routing .
+
+dialogue type : qy^bu^d^rt
+F :  So it 's very It 's static ?
+
+dialogue type : s^ar|qy^bu^d^rt
+F :  It 's No , active ?
+
+dialogue type : s^df
+F :  But it 's sort of active because they have these program statements .
+
+dialogue type : %-
+F :  But y
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  That 's right .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : %--
+F :  L Lan
+
+dialogue type : qy^d^rt
+F :  Landay ?
+
+dialogue type : s^bk
+F :  Landay .
+
+dialogue type : s^bk.%
+F :  Ah .
+
+dialogue type : s^aa
+F :  Hmm .
+
+dialogue type : s^e
+F :  Several days .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+

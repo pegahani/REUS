@@ -1,0 +1,1269 @@
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  Might wanna close the door so that
+
+dialogue type : z
+D :  Yeah
+
+dialogue type : z
+D :  So that 's the virtual Stephane over there .
+
+dialogue type : z
+D :  Yeah .
+
+dialogue type : fg
+D :  So , uh ,
+
+dialogue type : fg
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Uh , Guenter , I don't know if you t followed this stuff but this is , uh , a uh , uh , long - term long - term window F F
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah , he you talked about it .
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : s
+D :  So you know what he 's doing .
+
+dialogue type : s^bk
+D :  Alright .
+
+dialogue type : s^co
+D :  You could clarify something for me .
+
+dialogue type : s
+D :  You 're saying point three percent ,
+
+dialogue type : qy^bu^d
+D :  you take a point three percent hit , when the training and testing links are don't match or something ?
+
+dialogue type : qy
+D :  Is that what it is ?
+
+dialogue type : qrr.%--
+D :  Or ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : qw^rt
+D :  And which was worse ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : qw^d
+D :  But point three percent , uh , w from what to what ?
+
+dialogue type : s^e
+D : 
+
+dialogue type : s
+D :  So four point four to four point one .
+
+dialogue type : fh
+D :  So yeah .
+
+dialogue type : s
+D :  So about a about an eight percent , uh , seven or eight percent relative ?
+
+dialogue type : fh
+D :  Uh ,
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : s
+D :  Well , I think in a p You know , if if you were going for an evaluation system you 'd care .
+
+dialogue type : s
+D :  But if you were doing a live system that people were actually using nobody would notice .
+
+dialogue type : s
+D :  It 's uh , I think the thing is to get something that 's practical , that that you could really use .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  I mean , a short - time FFT short - time cepstrum calculation , uh , mean u mean calculation work that people have in commercial systems , they do this all the time .
+
+dialogue type : s^df
+D :  They the they calculate it from previous utterances and then use it , you know .
+
+dialogue type : fh
+D :  But but , uh ,
+
+dialogue type : s
+D :  as you say , there hasn't been that much with this long long - time , uh , spectra work .
+
+dialogue type : fh
+D :  Uh ,
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^na
+D :  Pretty common .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : fh
+D :  but , u uh ,
+
+dialogue type : fh
+D :  yes .
+
+dialogue type : s^ba
+D :  No , it is interesting .
+
+dialogue type : s
+D :  And the other thing is , I mean , there 's two sides to these really small , uh , gradations in performance .
+
+dialogue type : fh|s
+D :  Um , I mean , on the one hand in a practical system if something is , uh , four point four percent error , four point one percent error , people won't really tell be able to tell the difference .
+
+dialogue type : s
+D :  On the other hand , when you 're doing , uh , research , you may , eh you might find that the way that you build up a change from a ninety - five percent accurate system to a ninety - eight percent accurate system is through ten or twelve little things that you do that each are point three percent .
+
+dialogue type : s
+D :  So so the they they it 's I don't mean to say that they 're they 're irrelevant .
+
+dialogue type : s
+D :  Uh , they are relevant .
+
+dialogue type : fh|s
+D :  But , um , i for a demo , you won't see it .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  I guess one thing that might also be an issue , uh , cuz part of what you 're doing is you 're getting a a spectrum over a bunch of different kinds of speech sounds .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s
+D :  and so it might matter how fast someone was talking for instance .
+
+dialogue type : s
+D :  You know , if you if if if there 's a lot of phones in one second maybe you 'll get a a really good sampling of all these different things ,
+
+dialogue type : s
+D :  and and , uh , on the other hand if someone 's talking slowly maybe you 'd need more .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^no
+D :  I don't know if you have some samples of faster or slower speech
+
+dialogue type : s
+D :  but it might make a difference .
+
+dialogue type : s^no
+D :  I don't know .
+
+dialogue type : s^na
+D :  Yeah , probably not .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^bk|s^nd
+D :  Yeah , but then you 'll have the degradation of of , uh , whatever you do uh , added onto that .
+
+dialogue type : s^am
+D :  But maybe .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^am^df
+D :  maybe if you get something that sounds that that 's does a pretty job at that .
+
+dialogue type : s
+D :  You could imagine that .
+
+dialogue type : h|s^aa
+D :  Um , yeah .
+
+dialogue type : s
+D : 
+
+dialogue type : s^df.%--
+D : 
+
+dialogue type : s^am
+D :  Could be .
+
+dialogue type : s^no.%
+D :  I don't know .
+
+dialogue type : s
+D :  I guess , the the the issue I was the general issue I was bringing up was that if you 're have a moving moving window , uh , a wa a a set of weights times things that , uh , move along , shift along in time , that you have in fact a linear time invariant filter .
+
+dialogue type : s
+D :  And you just happened to have picked a particular one by setting all the weights to be equal .
+
+dialogue type : s
+D :  And so the issue is what are some other filters that you could use , uh , in that sense of " filter " ?
+
+dialogue type : fh
+D :  And , um ,
+
+dialogue type : s^cs
+D :  as I was saying , I think the simplest thing to do is not to train anything , but just to do some sort of , uh , uh , hamming or Hanning , uh , kind of window , kind of thing ,
+
+dialogue type : s^df
+D :  just sort of to de - emphasize the jarring .
+
+dialogue type : s
+D :  So I think that would sort of be the first thing to do .
+
+dialogue type : s
+D :  But then , yeah , the LDA i uh , is interesting because it would sort of say well , suppose you actually trained this up to do the best you could by some criterion ,
+
+dialogue type : qw
+D :  what would the filter look like then ?
+
+dialogue type : fh
+D :  Uh ,
+
+dialogue type : fh
+D :  and , um ,
+
+dialogue type : s
+D :  that 's sort of what we 're doing in this Aur - Aurora stuff .
+
+dialogue type : fh
+D :  And , uh ,
+
+dialogue type : s^no
+D :  it 's still not clear to me in the long run whether the best thing to do would be to do that or to have some stylized version of the filter that looks like these things you 've trained up , because you always have the problem that it 's trained up for one condition and it isn't quite right for another .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^df
+D :  uh that 's that 's why that 's why RASTA filter has actually ended up lasting a long time ,
+
+dialogue type : s^df
+D :  people still using it quite a bit , because y you don't change it .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  doesn't get any worse .
+
+dialogue type : fh
+D :  Uh ,
+
+dialogue type : fh
+D :  Anyway .
+
+dialogue type : s^co.%
+D :  Go ahead .
+
+dialogue type : s
+D :  Well , I think what I was s I thought what I was saying was that , um , at any given point you are gonna start off with what you had from before .
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D : 
+
+dialogue type : s^df
+D :  So , for instance , in a dialogue system , where you 're gonna be asking , uh , you know , th for some information , there 's some initial th something .
+
+dialogue type : s^df
+D :  And , you know , the first time out you you might have some general average .
+
+dialogue type : s^df
+D :  But you you d you don't have very much information yet .
+
+dialogue type : s^df
+D :  But at after they 've given one utterance you 've got something .
+
+dialogue type : s^df
+D :  You can compute your mean cepstra from that ,
+
+dialogue type : s
+D :  and then can use it for the next thing that they say ,
+
+dialogue type : fh
+D :  uh ,
+
+dialogue type : s^df
+D :  so that , you know , the performance should be better that second time .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s
+D :  and I think the heuristics of exactly how people handle that and how they handle their training I 'm sure vary from place to place .
+
+dialogue type : s
+D :  But I think the ideally , it seems to me anyway , that you you would wanna do the same thing in training as you do in test .
+
+dialogue type : s^bd
+D :  But that 's that 's just , uh , a prejudice .
+
+dialogue type : s
+D :  And I think anybody working on this with some particular task would experiment .
+
+dialogue type : s^ar|s.%--
+D :  No , but those are all different people with different I mean , i in y
+
+dialogue type : s^e
+D :  So for instance , in in the in a telephone task , these are different phone calls .
+
+dialogue type : s^df
+D :  So you don't wanna @ @ chain it together from a from a different phone call .
+
+dialogue type : s
+D :  So it 's within speaker ,
+
+dialogue type : s
+D :  within phone call ,
+
+dialogue type : s
+D :  if it 's a dialogue system , it 's within whatever this characteristic you 're trying to get rid of is expected to be consistent over ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  Now , you know , maybe you 'd use something from the others
+
+dialogue type : s^df
+D :  just because at the beginning of a call you don't know anything ,
+
+dialogue type : s
+D :  and so you might have some kind of general thing that 's your best guess to start with .
+
+dialogue type : %--
+D : 
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D :  you know , a lot of these things are proprietary
+
+dialogue type : s
+D :  so we 're doing a little bit of guesswork here .
+
+dialogue type : qw
+D :  I mean , what do comp what do people do who really face these problems in the field ?
+
+dialogue type : s
+D :  Well , they have companies
+
+dialogue type : s
+D :  and they don't tell other people exactly what they do .
+
+dialogue type : s
+D :  But but I mean , when you the the hints that you get from what they when they talk about it are that they do they all do something like this .
+
+dialogue type : s^bk|s
+D :  Yeah , but you might have somebody who 's using it
+
+dialogue type : s
+D :  and then later you might have somebody else who 's using it .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg
+D :  Well ,
+
+dialogue type : s^bk
+D :  w OK ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  we 're getting a little off track here .
+
+dialogue type : fh
+D : 
+
+dialogue type : fh|s
+D :  Uh , there 's been some discussion about whether the work we 're doing in that project is gonna be for the kiosk or for the mobile or for both .
+
+dialogue type : s^ba
+D :  And I think for this kind of discussion it matters .
+
+dialogue type : s^df
+D :  If it 's in the kiosk , then the physical situation is the same .
+
+dialogue type : s
+D :  It 's gonna you know , the exact interaction of the microphone 's gonna differ depending on the person and so forth .
+
+dialogue type : s
+D :  But at least the basic acoustics are gonna be the same .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^df
+D :  because what you 're really trying to get at is the is the reverberation characteristic .
+
+dialogue type : s
+D :  But in in the case of the mobile , uh , presumably the acoustic 's changing all over the place .
+
+dialogue type : s
+D :  And in that case you probably don't wanna have it be endless because you wanna have some sort of it 's it 's not a question of how long do you think it 's you can get an approximation to a stationary something , given that it 's not really stationary .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa^r
+D :  Yeah .
+
+dialogue type : s^aa^r
+D :  Yeah .
+
+dialogue type : s^cs
+D :  Or subtract nothing .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  Yeah , yeah .
+
+dialogue type : s^aa|s^na
+D :  Yeah , people do something .
+
+dialogue type : s.%--
+D :  They they , uh , they have some , um ,
+
+dialogue type : fh
+D :  uh ,
+
+dialogue type : s
+D :  in in cepstral mean subtraction , for short - term window analysis windows , as is usually done , you 're trying to get rid of some very general characteristic .
+
+dialogue type : fh|s
+D :  And so , uh , if you have any other information about what a general kind of characteristic would be , then you you can do it there .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  The other thing is that and and I I remember B B N doing this , is that if you have a multi - pass system , um , if the first pass ta it takes most of the computation , the second and the third pass could be very , very quick ,
+
+dialogue type : s^e
+D :  just looking at a relatively small n small , uh , space of hypotheses .
+
+dialogue type : s
+D :  Then you can do your first pass without any subtraction at all .
+
+dialogue type : s
+D :  And then your second pass , uh , uh , eliminates those most of those hypotheses by , uh by having an improved improved version o of the analysis .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^na
+D :  Yes , briefly .
+
+dialogue type : s^bu
+D :  Oh , I thought you were finishing your thesis in two weeks .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  I 'm sort of confused
+
+dialogue type : fh
+D : 
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D :  I 'm looking on the second page ,
+
+dialogue type : s
+D : 
+
+dialogue type : s^e
+D :  looking in the lower right - hand corner ,
+
+dialogue type : s
+D :  " fifty percent relative performance " .
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : qy^rt
+D :  is that fifty percent improvement ?
+
+dialogue type : s^bu
+D :  So it 's improvement over the baseline mel cepstrum ?
+
+dialogue type : s
+D :  But the baseline mel cepstrum under those training doesn't do as well
+
+dialogue type : s
+D : 
+
+dialogue type : s^bu
+D :  That 's an accuracy number , I guess ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s
+D :  So that 's not as good as the one up above .
+
+dialogue type : s
+D :  But the fifty is better than the one up above ,
+
+dialogue type : s
+D :  so I 'm confused .
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^bk
+D :  Oh , oh , oh , oh , oh , oh .
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : qy^bu^d^rt
+D :  This is this is TI digits we 're looking at ?
+
+dialogue type : qy^bu^d^rt
+D :  This whole page is TI - digits
+
+dialogue type : qrr.%--
+D :  or this is ?
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : qw
+D :  How does clean training do for the , uh , " Car "
+
+dialogue type : %
+D :  stuff ?
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : s^ng
+D :  I mean , this is added noise .
+
+dialogue type : s^ng
+D :  I mean , this is TI - digits .
+
+dialogue type : s^fa
+D :  I 'm sorry .
+
+dialogue type : s^ng.%--
+D : 
+
+dialogue type : s
+D : 
+
+dialogue type : s^bk
+D :  Oh , right .
+
+dialogue type : s
+D :  So " clean " corresponds to " high mismatch " .
+
+dialogue type : %--
+D :  And " increase " ,
+
+dialogue type : s.%--
+D :  That 's increase e
+
+dialogue type : qy^bu^d^rt
+D :  Which means decrease in word error rate ?
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s^bs
+D :  so " percentage increase " means decrease ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Alright .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : qy^bu^d
+D :  So we have to jiggle it somehow ?
+
+dialogue type : s^co
+D :  S Wait a minute .
+
+dialogue type : qw^br^d^rt
+D :  Start with a different what ?
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : qy^cs^d^rt
+D :  So maybe for that one you need a much smarter VAD ?
+
+dialogue type : fh
+D :  Mmm ,
+
+dialogue type : s^e
+D :  if it 's music .
+
+dialogue type : s^bk|s^ba
+D :  Yeah , so that 's good .
+
+dialogue type : s^cs
+D :  Then if we can improve the noise estimation , then it should get better .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^cs
+D :  We probably should at some point here try the tandem the the the system - two kind of stuff with this , with the spectral subtraction for that reason .
+
+dialogue type : s^df
+D :  Cuz again , it should do a transformation to a domain where it maybe looks more Gaussian .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qy^bu
+D :  But isn't that s again sort of the idea of the additive thing ,
+
+dialogue type : s^e
+D :  if it as as we had in the J stuff ?
+
+dialogue type : s^df
+D :  I mean , basically if if you have random data , um , in in the time domain , then when you look at the s spectrum it 's gonna be pretty flat .
+
+dialogue type : fh
+D :  And and ,
+
+dialogue type : fh
+D :  uh ,
+
+dialogue type : s^cs
+D :  so just add something everywhere rather than just in those places .
+
+dialogue type : s|qy^d^g^rt
+D :  It 's just a constant , right ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  Well , see if you add something everywhere , it has almost no effect up up up on on top .
+
+dialogue type : s
+D :  And it and it and it has significant effect down there .
+
+dialogue type : s
+D :  That was , sort of the idea .
+
+dialogue type : s^cs^j
+D :  I think when it 's noisy people should just speak up .
+
+dialogue type : s^bk
+D :  Oh , they do !
+
+dialogue type : b
+D :  Oh .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : %-
+D :  To the l
+
+dialogue type : qr^d
+D :  To the just the energy , or to the mel uh , to the mel filter ?
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^df
+D :  So it Cuz I mean , I think this is most interesting for the mel filters .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s^e
+D :  Or or F F
+
+dialogue type : s^e
+D :  one or the other .
+
+dialogue type : s^bk|s^ng
+D :  Yeah , but again , that 's just log energy as opposed to filter bank energy .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^bu
+D :  So it could reduce the dependence on the amplitude and so on .
+
+dialogue type : qy^d^g^rt
+D :  Yeah .
+
+dialogue type : s^am
+D :  Maybe .
+
+dialogue type : h|%-
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fg|s
+D :  So So , basically our our position is that , um , we shouldn't be unduly constraining the latency at this point
+
+dialogue type : s^df
+D :  because we 're all still experimenting with trying to make the performance better in the presence of noise .
+
+dialogue type : fh|s
+D :  Uh , there is a minority in that group who is a arguing who are arguing for um , uh , having a further constraining of the latency .
+
+dialogue type : fh|s^df
+D :  So we 're s just continuing to keep aware of what the trade - offs are and , you know , what what do we gain from having longer or shorter latencies ?
+
+dialogue type : s
+D :  But since we always seem to at least get something out of longer latencies not being so constrained , we 're tending to go with that if we 're not told we can't do it .
+
+dialogue type : s
+D :  Well , France Telecom was was was very short latency
+
+dialogue type : s
+D :  and they had a very good result .
+
+dialogue type : s
+D :  It was thirty - five .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : %
+D :  th th
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^bk|s
+D :  Yeah , so it 's possible to get very short latency .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bu^rt
+D :  Well , that the they would need that forty milliseconds also .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : b
+D :  Oh .
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : fg
+D :  Oh .
+
+dialogue type : s^co^tc
+D :  Wait a minute .
+
+dialogue type : %--
+D : 
+
+dialogue type : s^co
+D :  Wait a minute .
+
+dialogue type : s
+D :  I think I 'm confused .
+
+dialogue type : s^bk
+D :  Alright .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s
+D :  I have four now
+
+dialogue type : s^df
+D :  because I left one with Dave because I thought I was dropping one off and passing the others on .
+
+dialogue type : s
+D :  So , no ,
+
+dialogue type : s
+D :  we 're not .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^t3
+D :  Ah , we need one more over here .
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : s^j
+D :  Middle - sized one .
+
+dialogue type : qw^rt
+D :  What 's it trained on ?
+
+dialogue type : s^bk
+D :  Right ,
+
+dialogue type : qw^rt
+D :  what 's it trained on ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qy^bh
+D :  Oh , it 's trained on Italian ?
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : fh
+D :  OK .
+
+dialogue type : s
+D :  Cuz I notice the TI - digits number is exactly the same for these last two ?
+
+dialogue type : s^bk^fe
+D :  Ah !
+
+dialogue type : s^bu.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bu
+D :  So you so you just should look at that fifty - eight perc point O nine percent and so on .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^ba
+D :  Good .
+
+dialogue type : s^fa
+D :  I 'm sorry .
+
+dialogue type : qw^d
+D :  So when you say minus twenty - five or minus thirty DB , with respect to what ?
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : s^bs
+D :  so basically you 're creating a signal - to - noise ratio of twenty - five or thirty DB ?
+
+dialogue type : %-
+D :  uh r
+
+dialogue type : qy^rt
+D :  But did you do that before the thresholding to zero ,
+
+dialogue type : qrr.%--
+D :  or ?
+
+dialogue type : s^bk
+D :  Oh ,
+
+dialogue type : s^bu
+D :  so you 'd really want to do it before ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s^df
+D :  because then the then you would have less of that phenomenon .
+
+dialogue type : s^e
+D :  I think .
+
+dialogue type : %-
+D :  c
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^na
+D :  Yeah , that will reduce the variance .
+
+dialogue type : s
+D :  That 'll help .
+
+dialogue type : s^cs
+D :  But maybe if you does do it before you get less of these funny - looking things he 's drawing .
+
+dialogue type : s
+D :  Right at the point where you 've done the subtraction .
+
+dialogue type : fh|s
+D :  Um , essentially you 're adding a constant into everything .
+
+dialogue type : s^bk
+D :  Oh , yeah ,
+
+dialogue type : s^cs^j
+D :  better do it different , then .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^cs
+D :  Just you you just ta you just set it for a particular signal - to - noise ratio that you want ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^bk
+D :  Uh - huh .
+
+dialogue type : s^fa
+D :  I I 'm sorry .
+
+dialogue type : s
+D :  Then then I 'm confused .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bs
+D :  you 're saying it doesn't depend on the utterance
+
+dialogue type : s^bu
+D :  but I thought you were adding an amount that was twenty - five DB down from the signal energy .
+
+dialogue type : s^bk^fe
+D :  Oh !
+
+dialogue type : s^bk|s^bs
+D :  Oh , it 's just a constant amount over all .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s|qy^d^g
+D :  But in I mean , in the real thing you 're not gonna be able to measure what people are doing over half an hour or an hour , or anything , right ?
+
+dialogue type : s
+D :  So you have to come up with this number from something else .
+
+dialogue type : s
+D :  But what he is doing language dependent is measuring what that number i reference is that he comes down twenty - five down from .
+
+dialogue type : qy^bh^rt
+D :  No ?
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^ba
+D :  So it 's sort of arbitrary .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Uh - huh .
+
+dialogue type : s^2
+D :  Something more adaptive ,
+
+dialogue type : s^bk
+D :  yeah .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s
+D :  The VAD later will be much better .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : s
+D :  Well , our tradition here has always been to focus on the mismatched .
+
+dialogue type : s^df
+D :  Cuz it 's more interesting .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : b
+D :  Uh .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qw
+D :  So what are these numbers here ?
+
+dialogue type : qr
+D :  Are these with the clean or with the noisy ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^bk
+D :  Oh !
+
+dialogue type : fg
+D : 
+
+dialogue type : qw^d.%--
+D : 
+
+dialogue type : s^cs
+D :  So you really might wanna try the clean I think .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk|s
+D :  Yeah , that could be sizeable right there .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s
+D :  Be my guest .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah ,
+
+dialogue type : s^na
+D :  I 'll I 'll borrow the head back and and agree .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : %--
+D : 
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s^df
+D :  In fact , actually I g I guess the , uh the Spanish government , uh , requires that anyway .
+
+dialogue type : s^df
+D :  They want some kind of report from everybody who 's in the program .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^co
+D :  And of course I 'd we 'd we 'd like to see it too .
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : fh
+D :  yeah .
+
+dialogue type : h|qy^bu^d^rt
+D :  Uh , we have them now ?
+
+dialogue type : h|qw^co^rt
+D :  Uh , why don why don't we do it ?
+
+dialogue type : s
+D :  Just just take a minute .
+
+dialogue type : s^bk^t3
+D :  Oh !
+
+dialogue type : s^fa^t3
+D :  Sorry .
+
+dialogue type : z
+D :  Seat ?
+
+dialogue type : z
+D :  Mike ?
+

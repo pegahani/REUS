@@ -1,0 +1,768 @@
+dialogue type : z
+C :  This is Eric on channel three , I believe .
+
+dialogue type : z
+C :  You 're always having one of those days , Dave .
+
+dialogue type : z
+C :  It 's not neck mounted .
+
+dialogue type : z
+C :  It 's supposed to be h head mounted .
+
+dialogue type : z
+C :  Right .
+
+dialogue type : z
+C :  i
+
+dialogue type : z
+C :  Yeah , that 's that 's what I have .
+
+dialogue type : z
+C :  It feels so good when I stop .
+
+dialogue type : z
+C :  You 're always doing digits .
+
+dialogue type : z
+C :  OK , this is Eric on microphone number three ,
+
+dialogue type : z
+C :  Would it make you feel more important ?
+
+dialogue type : z
+C :  I see .
+
+dialogue type : h|s
+C :  Well , I think I mean , for that particular issue ther there are known sources where people go to to find these kind of things like the LDC for instance .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s^aa|s^na
+C :  Yeah , a little bit .
+
+dialogue type : s^cs^j
+C :  It would you know , it would real really mean that we should do short meetings when you turn off the turn off the air conditioning ,
+
+dialogue type : s^j:s
+C :  got to finish this meeting .
+
+dialogue type : s^bk
+C :  That 's right .
+
+dialogue type : s^bk
+C :  Right ,
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : fg
+C :  So ,
+
+dialogue type : fg|s
+C :  um , in addition to this issue about the UW stuff there was announced today , uh , via the LDC , um , a corpus from I believe Santa Barbara .
+
+dialogue type : fh|s^e
+C :  Um , of general spoken English .
+
+dialogue type : s^no
+C :  And I don't know exactly how they recorded it
+
+dialogue type : s
+C :  but apparently there 's a lot of different styles of speech and what not .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : s
+C :  So it is sort of far field stuff .
+
+dialogue type : qy^d^g
+C :  Right ?
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : %-
+C :  S
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^cs
+C :  Well , what I was thinking is it may be useful in transcribing , if it 's far field stuff ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s^df
+C :  In doing , um , some of our first automatic speech recognition models , it may be useful to have that kind of data
+
+dialogue type : s^df
+C :  because that 's very different than any kind of data that we have so far .
+
+dialogue type : s^nd
+C :  That 's that 's not great .
+
+dialogue type : fg|s
+C :  No , and their web their web page didn't answer it either .
+
+dialogue type : s^cs
+C :  So I 'm , I uh , was thinking that we should contact them .
+
+dialogue type : s
+C :  So it 's that 's sort of a beside - the - point point .
+
+dialogue type : fh
+C :  But .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : h|s^nd
+C :  Uh , in fact we get it for free
+
+dialogue type : s^df
+C :  cuz they 're distributing it through the LDC .
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : b
+C :  Huh .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^cs
+C :  Maybe we should maybe we should get a copy of it just to see what they did
+
+dialogue type : s^cs
+C :  so so that we can we can compare .
+
+dialogue type : s^bk|s^cc^na
+C :  Alright , I 'll do that .
+
+dialogue type : s^no
+C :  I can't remember the name of the corpus .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : %
+C : 
+
+dialogue type : s^bk
+C :  Right ,
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  Apparently this was like phase one
+
+dialogue type : s
+C :  and the there 's still more that they 're gonna do apparently or something like that
+
+dialogue type : s
+C :  unless of course they have funding issues
+
+dialogue type : s
+C :  and then then it ma they may not do phase two
+
+dialogue type : s^df:s^bk
+C :  but from all the web documentation it looked like , " oh , this is phase one " ,
+
+dialogue type : s
+C :  whatever that means .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^df.%--
+C :  But , it uh it would also maybe help be helpful for Liz , if she wanted to start working on some discourse issues , you know , looking at some of this data and then ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^cs
+C :  So when she gets here maybe that might be a good thing for her .
+
+dialogue type : s^cs
+C :  Maybe we should have a big meeting meeting .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^cs
+C :  But maybe we should , uh find some day that Liz uh , Liz and Andreas seem to be around more often .
+
+dialogue type : s^cs
+C :  So maybe we should find a day when they 're gonna be here and and Morgan 's gonna be here ,
+
+dialogue type : s^cs
+C :  and we can meet ,
+
+dialogue type : s^e
+C :  at least this subgroup .
+
+dialogue type : s^df
+C :  I mean , not necessarily have the U - dub people down .
+
+dialogue type : s
+C :  We need we need to talk to them some more .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : qw
+C :  How fast are you ?
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : h|s^cs^ng.%--
+C : 
+
+dialogue type : s
+C :  I mean , it depends on the error rate ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s^ng
+C :  But we don't care about the timing of the words .
+
+dialogue type : s.%-
+C :  We cut it s s
+
+dialogue type : b
+C :  Right .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : fg
+C :  So
+
+dialogue type : s^cs
+C :  maybe maybe we could try the following experiment .
+
+dialogue type : s^cs^df
+C :  Take the data that you 've already transcribed
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  Already in the past .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s.%-
+C :  I 'm go
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : fg
+C :  Um ,
+
+dialogue type : s^cs
+C :  and and throw out the words ,
+
+dialogue type : s^cs
+C :  but keep the time markings .
+
+dialogue type : s^cs
+C :  And then go through I mean , and go through and and try and re - transcribe it , given that we had perfect boundary detection .
+
+dialogue type : s^cs
+C :  And see if it see if it see if it feels easier to you .
+
+dialogue type : s^bk|s^df^na
+C :  Yeah , I mean uh , that 's part of the problem is , is that what we really need is somebody else to come along .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^ar
+C :  No , no , no , no .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I mean , the the question is , is it worth giving you the segmentation ?
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s
+C :  I mean , there 's gonna there 's gonna be in the meeting , like the reading group meeting that we had the other day , that 's it 's gonna be a bit of a problem
+
+dialogue type : s^df
+C :  because , like , I wasn't wearing a microphone
+
+dialogue type : s^df
+C :  f and there were other people that weren't wearing microphones .
+
+dialogue type : s^na
+C :  That 's pretty much true
+
+dialogue type : fh
+C : 
+
+dialogue type : s^aa
+C :  but , yes .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  So that 's three that 's three hours .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : %-
+C :  And who
+
+dialogue type : qw
+C :  who knows if they 're gonna be able to m manage multal multiple channel data ?
+
+dialogue type : b
+C :  Right .
+
+dialogue type : fg|%-
+C : 
+
+dialogue type : s^bu|qy^d^g^rt
+C :  So it 's thirty dollars an hour , essentially , right ?
+
+dialogue type : s
+C :  But we can pay a graduate student seven dollars an hour .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bsc
+C :  or ei eight dollars .
+
+dialogue type : qy^rt
+C :  What do you know what the going rate is ?
+
+dialogue type : s^df
+C :  It 's it 's on the order of eight to ten .
+
+dialogue type : s^e
+C :  I think .
+
+dialogue type : s^no
+C :  But I 'm not sure .
+
+dialogue type : s^co
+C :  Let 's say ten .
+
+dialogue type : s^df
+C :  Cuz it 's easier .
+
+dialogue type : s^no.%--
+C : 
+
+dialogue type : s
+C :  but there is a standard pay scale
+
+dialogue type : s^no
+C :  I just don't know what it is .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s^bs
+C :  so that means that even if it takes them thirty times real time it 's cheaper to to do graduate students .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  Oh , so multi multichannels .
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  For transcription .
+
+dialogue type : %
+C : 
+
+dialogue type : s
+C :  They 're they have some connection to the LDC
+
+dialogue type : s^df
+C :  cuz the LDC has been advising them on this process ,
+
+dialogue type : s^e
+C :  the Linguistic Data Consortium .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  but a apart from that .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qw
+C :  How are you handling backchannels ?
+
+dialogue type : qw.%-
+C :  What do you mean by du
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : s^aa
+C :  Well , yeah ,
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : s^df
+C :  Oh , cuz I was I was listening to Dan was agreeing a lot to things that you were saying as you were talking .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bk
+C :  I see .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : fg
+C :  So , s
+
+dialogue type : s
+C :  I was just gonna ask , uh , so I just wanted to c sort of finish off the question I had about backchannels ,
+
+dialogue type : s^e
+C :  if that 's OK ,
+
+dialogue type : s^e
+C :  which which was , so say somebody 's talking for a while
+
+dialogue type : s:b
+C :  and somebody goes " mm - hmm " in the middle of it , and and and what not ,
+
+dialogue type : qy^rt
+C :  does the conversation come out from the or the person who 's speaking for the long time as one segment and then there 's this little tiny segment of this other speaker
+
+dialogue type : qrr
+C :  or does it does the fact that there 's a backchannel split the the the it in two .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  I see ,
+
+dialogue type : s^bk^r
+C :  I see ,
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s^ar^j
+C :  Huh - uh .
+
+dialogue type : qw
+C :  How often does that happen do you think ?
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fg
+C : 
+
+dialogue type : qy.%--
+C : 
+
+dialogue type : s^cs
+C :  Maybe we should s consider also , um , starting to build up a web site around all of these things .
+
+dialogue type : s^bk
+C :  I know .
+
+dialogue type : s^bk
+C :  That 's right .
+
+dialogue type : fg|s.%--
+C :  No , but I 'm
+
+dialogue type : s^cs.%-
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^j
+C :  I I want to introduce the word " snot - head " into the conversation at this point .
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : s^aa
+C :  Exactly .
+
+dialogue type : fg
+C :  Um .
+
+dialogue type : fg
+C :  No .
+
+dialogue type : %-
+C :  The r
+
+dialogue type : %--
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^bk
+C :  Alright ,
+
+dialogue type : s
+C :  see here 's here 's here 's my thought behind it
+
+dialogue type : s^df
+C :  which is that , uh , the the stuff that you 've been describing , Jane , I gu one has to , of course indicate , um , i is very interesting ,
+
+dialogue type : fh
+C :  and
+
+dialogue type : s
+C :  I I 'd like to be able to to pore through , you know , the the types of tr conventions that you 've come up with and stuff like that .
+
+dialogue type : s^cs
+C :  So I would like to see that kind of stuff on the web .
+
+dialogue type : s^na
+C :  Either 's fine .
+
+dialogue type : s^ba
+C :  Ow .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Right ,
+
+dialogue type : s^cs
+C :  so we can add in links and stuff like that to other things .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bk
+C :  Uh , right .
+
+dialogue type : h|s^cs
+C : 
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^ar|s.%-
+C :  No , I think in
+
+dialogue type : s
+C :  I think mostly internal .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s
+C :  Internal to the project .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^ar^r
+C :  No .
+
+dialogue type : qw.%-
+C : 
+
+dialogue type : qw^rt
+C :  What does that mean ?
+
+dialogue type : qy^rt
+C :  Is it a speed bump ?
+
+dialogue type : s^ba^fe
+C :  Wow .
+
+dialogue type : s
+C :  It could go either way .
+
+dialogue type : s
+C :  I guess .
+
+dialogue type : fg
+C : 
+
+dialogue type : %
+C : 
+
+dialogue type : %
+C : 
+
+dialogue type : qw
+C :  What is the , um , projector supposed to be hooked up to ?
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  It 's it really come down to the driver .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bu
+C :  Now , shorter words wouldn't would induce more dynamics ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Huh .
+
+dialogue type : s^nd
+C :  I 'm done .
+
+dialogue type : s^j
+C :  Dan isn't
+
+dialogue type : s^j
+C :  but he 's not gonna say anything .
+

@@ -1,0 +1,1047 @@
+dialogue type : z
+C :  OK , this is Barry Chen and I am reading transcript
+
+dialogue type : s^bk^t3
+C :  OK .
+
+dialogue type : s^bk
+C :  Oh . OK .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^bk
+C :  Oh , yeah , that 's right .
+
+dialogue type : h|s
+C :  Um , I live in , um , the corner of campus .
+
+dialogue type : s^e
+C :  The , um , southeast corner .
+
+dialogue type : s^aa
+C :  Yeah . Sure .
+
+dialogue type : s^bk
+C :  Six , OK .
+
+dialogue type : s^nd
+C :  Oakland .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : %-
+C :  s
+
+dialogue type : %-
+C :  So just
+
+dialogue type : s^bu
+C :  So , s six AM , in front .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^cs
+C :  Wake you up .
+
+dialogue type : s^bk.%
+C :  OK . Wednesday .
+
+dialogue type : s^co
+C :  Tell him about the cube .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^2
+C :  Telephone .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^t3.%-
+C : 
+
+dialogue type : s^t3
+C :  Test on an unseen .
+
+dialogue type : s^bk
+C :  Oh , my turn .
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : h|s
+C :  Um , Let 's see , I I spent the last week , uh , looking over Stephane 's shoulder . And and understanding some of the data .
+
+dialogue type : s
+C :  I re - installed , um , um , HTK , the free version ,
+
+dialogue type : fh|s
+C :  so , um , everybody 's now using three point O ,
+
+dialogue type : s^e
+C :  which is the same version that , uh , OGI is using .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : fh
+C :  So ,
+
+dialogue type : s^e
+C :  without without any licensing big deals , or anything like that .
+
+dialogue type : fh|s
+C :  And , um , so we 've been talking about this this , uh , cube thing ,
+
+dialogue type : s
+C :  and it 's beginning more and more looking like the , uh , the Borge cube thing .
+
+dialogue type : s^e
+C :  It 's really gargantuan .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : %-
+C : 
+
+dialogue type : s^aa
+C :  Exactly .
+
+dialogue type : fg|s^rt
+C :  Um , yeah , so I I 've been looking at , uh , uh , TIMIT stuff .
+
+dialogue type : fh|s^e
+C :  Um , the the stuff that we 've been working on with TIMIT , trying to get a , um a labels file so we can , uh , train up a train up a net on TIMIT and test , um , the difference between this net trained on TIMIT and a net trained on digits alone .
+
+dialogue type : fh|s
+C :  Um , and seeing if if it hurts or helps .
+
+dialogue type : fh.%
+C :  Anyway .
+
+dialogue type : s^aa
+C :  Yeah , yeah .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  Well , the inputs are one dimension of the cube ,
+
+dialogue type : s^e
+C : 
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^aa
+C :  right .
+
+dialogue type : h|s^no
+C :  Um , I I haven't I haven't decided on on the initial thing .
+
+dialogue type : s^na
+C :  Probably probably something like PLP .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b.x
+C :  Right .
+
+dialogue type : b.x
+C :  Right .
+
+dialogue type : b.x
+C :  Right .
+
+dialogue type : b.x
+C :  Yeah .
+
+dialogue type : s^am
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s^aa
+C :  Yeah , yeah ,
+
+dialogue type : %
+C :  b May
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s^bk|s
+C :  Oh , I 'm just I 'm just , uh , transforming them from the , um , the standard TIMIT transcriptions into into a nice long huge P - file to do training .
+
+dialogue type : h|s.%-
+C : 
+
+dialogue type : s^aa
+C :  Oh yeah ,
+
+dialogue type : s
+C :  those were those were automatically derived by by Dan using , um , embedded embedded training and alignment .
+
+dialogue type : h|s
+C :  Uh , Ellis .
+
+dialogue type : b
+C :  Right ?
+
+dialogue type : %
+C :  Yeah . So .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s^aa
+C :  That 's right .
+
+dialogue type : h|qy^bu^d^rt
+C :  Uh , between languages ?
+
+dialogue type : s^bk
+C :  Oh ,
+
+dialogue type : fh|s^bk
+C :  um , right .
+
+dialogue type : s
+C :  Well , there 's a mapping from the sixty - one phonemes in TIMIT to to fifty - six , the ICSI fifty - six .
+
+dialogue type : s^rt
+C :  And then the digits phonemes , um , there 's about twenty twenty - two or twenty - four of them ?
+
+dialogue type : qy
+C :  Is that right ?
+
+dialogue type : s^m^na
+C :  Out of that fifty - six .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : fh
+C :  So ,
+
+dialogue type : s
+C :  it 's it 's definitely broader ,
+
+dialogue type : fh
+C :  yeah .
+
+dialogue type : s^bk
+C :  Oh ,
+
+dialogue type : qy^bu
+C :  you mean why map the sixty - one to the fifty - six ?
+
+dialogue type : s^no
+C :  I don't know .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^na
+C :  w I th I think that 's a good idea
+
+dialogue type : s^e
+C :  to to talk about the whole cube
+
+dialogue type : s^cs
+C :  and maybe we could sections in the cube for people to work on .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fg|qy^t3
+C :  Uh , do you wanna do it ?
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^na
+C :  I have the wireless .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qy^bu^rt
+C :  Can y can you walk around too ?
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : fg
+C :  OK ,
+
+dialogue type : fg
+C :  well ,
+
+dialogue type : fg
+C :  um ,
+
+dialogue type : %--
+C :  s
+
+dialogue type : s
+C :  basically , the the cube will have three dimensions .
+
+dialogue type : s^e
+C :  The first dimension is the the features that we 're going to use .
+
+dialogue type : s^e^rt
+C :  And the second dimension , um , is the training corpus .
+
+dialogue type : s^e
+C :  And that 's the training on the discriminant neural net .
+
+dialogue type : fh
+C :  Um
+
+dialogue type : fh
+C :  and
+
+dialogue type : s^e.%-
+C : 
+
+dialogue type : s^aa
+C :  Right , right .
+
+dialogue type : s^e
+C :  This is this is for for ANN only .
+
+dialogue type : s^e
+C :  And , yeah , the training for the HTK models is always , uh , fixed for whatever language you 're testing on .
+
+dialogue type : s
+C :  And then , there 's the testing corpus .
+
+dialogue type : s^cs
+C :  So , then I think it 's probably instructive to go and and and show you the features that we were talking about .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s
+C :  so , let 's see .
+
+dialogue type : s^co.%-
+C : 
+
+dialogue type : qy^br^d^rt
+C :  With what ?
+
+dialogue type : qy^bu^d^rt
+C :  PLP ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^m
+C :  MSG .
+
+dialogue type : s^m^rt
+C :  JRASTA .
+
+dialogue type : s^m^rt
+C :  JRASTA - LDA .
+
+dialogue type : s^m^rt
+C :  Multi - band .
+
+dialogue type : s^bk
+C :  Yeah ,
+
+dialogue type : s^bu|qy^d^g^rt
+C :  just the multi - band features , right ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk.%--
+C : 
+
+dialogue type : s^cs.%-
+C : 
+
+dialogue type : s
+C :  I think I think Dan did some of that .
+
+dialogue type : fh|s^e
+C :  Um , in his previous Aurora experiments .
+
+dialogue type : s
+C :  And with the net it 's it 's wonderful .
+
+dialogue type : s
+C :  Without the net it 's just baseline .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fh|s
+C :  Um , for the training corpus corpus , um , we have , um , the the d digits from the various languages .
+
+dialogue type : fh|s^e
+C :  Um , English
+
+dialogue type : s^e
+C :  Spanish
+
+dialogue type : fh|s^e
+C :  um , French
+
+dialogue type : qw
+C :  What else do we have ?
+
+dialogue type : s^m^na
+C :  Finnish .
+
+dialogue type : s^m
+C :  Oh . Italian .
+
+dialogue type : qr^bu^d^rt^t3
+C :  One L or two L 's ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fh
+C :  And ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : s^bk
+C :  oh yeah ,
+
+dialogue type : fh.%
+C : 
+
+dialogue type : s
+C :  French French .
+
+dialogue type : s^tc
+C :  And then we have , uh , um , broader broader corpus , um , like TIMIT .
+
+dialogue type : s^bu
+C :  TIMIT so far ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s^m
+C : 
+
+dialogue type : s^bk|qy^bu^d^rt
+C :  Oh , Spanish stories ?
+
+dialogue type : h|s.%--
+C : 
+
+dialogue type : s
+C :  uh all these Aurora f d data p data is from is derived from TI - digits .
+
+dialogue type : fh|s
+C :  Um , basically , they they corrupted it with , uh , different kinds of noises at different SNR levels .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^nd
+C :  Sp - Not Spanish stories ?
+
+dialogue type : s
+C :  Spanish something .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^na
+C :  They they corrupted it , um , themselves ,
+
+dialogue type : s^bu^na
+C :  but they also included the the noise files for us ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : %-
+C : 
+
+dialogue type : s^cs
+C :  so we can go ahead and corrupt other things .
+
+dialogue type : s^m
+C :  From Spain .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^bk
+C :  Oh ,
+
+dialogue type : s^bk^m
+C :  from Paris ,
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  And TIMIT 's from lots of different places .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  OK .
+
+dialogue type : fg
+C :  And , um ,
+
+dialogue type : s
+C :  with within the training corporas um , we 're , uh , thinking about , um , training with noise .
+
+dialogue type : fh
+C :  So ,
+
+dialogue type : s
+C :  incorporating the same kinds of noises that , um , Aurora is in incorporating in their , um in their training corpus .
+
+dialogue type : fh|s^bu
+C :  Um , I don't think we we 're given the , uh the unseen noise conditions , though ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : %
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^bu
+C :  So , I guess we can't train on on the the unseen noise conditions .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk^m
+C :  If Not if it 's unseen .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : h|s
+C :  Um , the testing corporas are , um , just , um , the same ones as Aurora testing .
+
+dialogue type : fh|s
+C :  And , that includes , um , the English Spa - um , Italian . Finnish .
+
+dialogue type : fh|s^bu
+C :  Uh , we ' r we 're gonna get German ,
+
+dialogue type : qy^d^g
+C :  right ?
+
+dialogue type : s^na
+C :  Ge - At the final test will have German .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^bk
+C :  Spanish .
+
+dialogue type : s^bk
+C :  Oh yeah ,
+
+dialogue type : s^cs^na
+C :  we can we can test on s Spanish .
+
+dialogue type : s^bk
+C :  Oh yeah .
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s
+C :  Yeah . One hundred each , about .
+
+dialogue type : %--
+C :  Well , th
+
+dialogue type : fg
+C :  uh ,
+
+dialogue type : s.%--
+C :  when when I put these testings on there , I 'm assumi
+
+dialogue type : s
+C :  There - there 's three three tests .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s^e
+C :  type - A , type - B , and type - C .
+
+dialogue type : s
+C :  And they 're all they 're all gonna be test tested , um , with one training of the HTK system .
+
+dialogue type : s
+C :  Um , there 's a script that tests all three different types of noise conditions .
+
+dialogue type : s^e
+C :  Test - A is like a matched noise .
+
+dialogue type : s^e
+C :  Test - B is a is a slightly mismatched .
+
+dialogue type : s^e
+C :  And test - C is a , um , mismatched channel .
+
+dialogue type : h
+C :  Um ,
+
+dialogue type : s^ar^r
+C :  no , no ,
+
+dialogue type : s^df
+C :  we 're we 're gonna be , um , training on the noise files that we do have .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^ba
+C :  That 's a good question .
+
+dialogue type : s^bk
+C :  Oh !
+
+dialogue type : s^fe
+C :  Och !
+
+dialogue type : qy^bu^d^rt
+C :  Now , this is turning into a four - dimensional cube ?
+
+dialogue type : %
+C : 
+
+dialogue type : s^bk
+C :  Oh , yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : qy^d.%-
+C : 
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^no
+C :  I don't know .
+
+dialogue type : s^no
+C :  I don't know .
+
+dialogue type : s^bk
+C :  Oh ,
+
+dialogue type : s^ng
+C :  I don't know how w how we would P - make this , though .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qy^bk^d^m^rt
+C :  The neural net ?
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  On a SPERT board .
+
+dialogue type : s^r
+C :  Y you did a you did it on a SPERT board .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^na
+C :  It 's it 's still a little faster on the
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^aa^r
+C :  yeah .
+
+dialogue type : s^e
+C :  Ad - Adam Adam did some testing .
+
+dialogue type : s^e
+C :  Or either Adam or or Dan did some testing
+
+dialogue type : s^e
+C :  and they found that the SPERT board 's still still faster .
+
+dialogue type : s
+C :  And the benefits is that , you know , you run out of SPERT and then you can do other things on your your computer ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : h|s^rt
+C :  Um , for the for nets trained on digits , um , we have been using , uh , four hundred order hidden units .
+
+dialogue type : fh|s^cc
+C :  And , um , for the broader class nets we 're we 're going to increase that
+
+dialogue type : s^df
+C :  because the , um , the digits nets only correspond to about twenty phonemes .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : h|s
+C :  Um , the broader broader training corpus nets
+
+dialogue type : s^e
+C :  like TIMIT .
+
+dialogue type : fh|s.%-
+C : 
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk^m
+C :  More classes .
+
+dialogue type : s^aa
+C :  Right , right .
+
+dialogue type : s^bk^m
+C :  More classes .
+
+dialogue type : s
+C :  That 's what I mean .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fh
+C :  And .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Um ,
+
+dialogue type : s
+C :  I I was thinking two things .
+
+dialogue type : fh|s.%--
+C : 
+
+dialogue type : s
+C :  we we actually had thought of this as sort of like , um not not in stages , but more along the the time axis .
+
+dialogue type : s^e
+C :  Just kind of like one stream at a time ,
+
+dialogue type : s^e
+C :  je - je - je - je - je check out the results
+
+dialogue type : s^e
+C :  and and go that way .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Right ,
+
+dialogue type : s^aa^r
+C :  right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : s^rt^tc
+C :  and the the second thing was about scratch space .
+
+dialogue type : s
+C :  And I think you sent an email about , um , e scratch space for for people to work on .
+
+dialogue type : s
+C :  And I know that , uh , Stephane 's working from an NT machine ,
+
+dialogue type : s
+C :  so his his home directory exists somewhere else .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qy^bu^d^rt
+C :  Like a s like a slide ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : %--
+C :  There 's ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^rt
+C :  Carmen was talking about this SAMPA thing ,
+
+dialogue type : s^e
+C :  and it 's , um , it 's an effort by linguists to come up with , um , a machine readable IPA , um , sort of thing ,
+
+dialogue type : fh
+C :  right ?
+
+dialogue type : fh|s^e
+C :  And , um , they they have a web site that Stephane was showing us that has , um has all the English phonemes and their SAMPA correspondent , um , phoneme ,
+
+dialogue type : s^e
+C :  and then , um , they have Spanish ,
+
+dialogue type : s^e
+C :  they have German ,
+
+dialogue type : s^e
+C :  they have all all sorts of languages , um , mapping mapping to the SAMPA phonemes ,
+
+dialogue type : %-
+C : 
+
+dialogue type : s^ar|s.%-
+C : 
+
+dialogue type : s^nd
+C :  y can't print on ASCII .
+
+dialogue type : s^bu
+C :  So so , maybe we could look at articulatory type stuff ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^2
+C :  Superclass .
+
+dialogue type : qw^br^d^rt
+C :  Allows for ?
+
+dialogue type : s^bk
+C :  Oh ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : s
+C :  we have gotten soft targets to to work .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Mmm ,
+
+dialogue type : s^bk.x
+C :  I see .
+
+dialogue type : s^m
+C :  To sum up to one .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : qy^2^d^rt
+C :  Nonlinearity ?
+
+dialogue type : h
+C :  Um ,
+
+dialogue type : s.%-
+C :  it 's sig
+
+dialogue type : s^ar
+C :  No ,
+
+dialogue type : s^nd
+C :  it 's actually sigmoid - X
+
+dialogue type : s^e.%--
+C : 
+
+dialogue type : %--
+C :  You ,
+
+dialogue type : h
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : qw^br^rt
+C :  What 's that ?
+
+dialogue type : qw^br^rt
+C :  Linear outputs ?
+
+dialogue type : h
+C :  Um .
+
+dialogue type : s^bk
+C :  Right , right .
+
+dialogue type : s^bk
+C :  Right ,
+
+dialogue type : s
+C :  but during the training , we would train on sigmoid - X
+
+dialogue type : s
+C :  and then at the end just chop off the final nonlinearity .
+

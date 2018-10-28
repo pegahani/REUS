@@ -1,0 +1,711 @@
+dialogue type : s^bk
+D :  Yep .
+
+dialogue type : s
+D :  Something like that .
+
+dialogue type : s
+D :  That 's the , uh , point .
+
+dialogue type : b
+D :  Yes .
+
+dialogue type : s
+D :  We 'll show you .
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : s^2:s
+D :  Are pl playing at the cinema ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  I changed that file , actually , where it 's on my account .
+
+dialogue type : qy^rt
+D :  You want to get it ?
+
+dialogue type : qy^rt
+D :  Or is di was it easy to get it ?
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : s^aa|s
+D :  Yeah , I mean I changed those sentences to make it , uh , more , uh , idiomatic .
+
+dialogue type : s
+D :  And , of course , you can have i many variations in those sentences , they will still parse fine .
+
+dialogue type : s
+D :  So , in a sense it 's pretty broad .
+
+dialogue type : qy^bu^d^rt
+D :  One thing I was wondering , was , those functions there , are those things that modify the M - three - L basically ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^e
+D :  AV medium .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s:s
+D :  " See " .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s|s^f
+D :  One thing I was wondering was , those percentage signs , right ?
+
+dialogue type : qw
+D :  So , I mean , why do we even have them ?
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s|s^bk
+D :  So that 's the main purpose . Alright .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Fine , yeah .
+
+dialogue type : fg|qw.%--
+D : 
+
+dialogue type : s|s^f
+D :  those functions " Action " , " Goodbye " , and so on , right ?
+
+dialogue type : qy^rt
+D :  Are they actually , um , Are they going to be called ?
+
+dialogue type : qy^rt
+D :  Um , are they present in the code for the parser ?
+
+dialogue type : qw
+D :  What are you looking for ?
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^aa|s^na
+D :  No , that 's not it .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^bu^rt:s
+D :  M - three - L dot DTD ?
+
+dialogue type : s
+D :  That 's just a specification for the XML format .
+
+dialogue type : s
+D :  I think each of those functions act on the current XML structure , and change it in some way , for example , by adding a a l a field to it , or something .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^bk|s^bu
+D :  Oh , you mean that 's not going to actually modify the tree ,
+
+dialogue type : s
+D :  but it 's going to change the event .
+
+dialogue type : s^bk
+D :  Oh . Oh .
+
+dialogue type : s
+D :  When there 's a feature .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : s
+D :  Right there .
+
+dialogue type : s^bu
+D :  But there is some kind of function call ,
+
+dialogue type : qw^df
+D :  because how does it know to put Goodbye in Content , but , uh , Confirm in Features ?
+
+dialogue type : fh
+D :  So
+
+dialogue type : s
+D :  So , it 's not just that it 's adding that field .
+
+dialogue type : %-
+D :  It 's
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^nd
+D :  Well , they 're defined somewhere , presumably .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Ooo !
+
+dialogue type : b.%
+D :  Hmm .
+
+dialogue type : s^aa|s
+D :  Yeah , I thought I should , um , talk a little bit about that ,
+
+dialogue type : s^df
+D :  because that might be a good , uh , sort of architecture to have , in general for , uh , problems with , you know , multiple inputs to a node .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : fg
+D : 
+
+dialogue type : qy^rt
+D :  should I Is there a white board here that I can use ?
+
+dialogue type : fh
+D : 
+
+dialogue type : qrr
+D :  Or shall I just use this ?
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^ba
+D :  Hey !
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : fg|s^tc
+D :  So , um Recall that , uh , we want to have this kind of structure in our Bayes - nets .
+
+dialogue type : s|qy^d^f^g
+D :  Namely , that , um You have these nodes that have several bands , right ?
+
+dialogue type : fh
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^rt
+D :  the typical example is that , um , these are all a bunch of cues for something ,
+
+dialogue type : s
+D :  and this is a certain effect that we 'd like to conclude .
+
+dialogue type : fh
+D : 
+
+dialogue type : s|qy^d^f^g
+D :  Like , let 's just look at the case when , um , this is actually the the final action , right ?
+
+dialogue type : s
+D :  So this is like , uh , you know , touch ,
+
+dialogue type : %--
+D : 
+
+dialogue type : s^fa
+D :  Sorry .
+
+dialogue type : fh
+D :  Uh
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^m|qy^d^f^g
+D :  E - EVA , right ?
+
+dialogue type : s|qy^d^f^g
+D :  Enter , V View , Approach , right ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s:s
+D :  Enter ,
+
+dialogue type : s:s
+D :  View ,
+
+dialogue type : s:s
+D :  Approach .
+
+dialogue type : qy^d^f^g
+D :  Right .
+
+dialogue type : s|qy^d^f^g
+D :  So , I mean , we 'd like to take all these various cues , right ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Well , let me pick a random one
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^no
+D :  I don't know ,
+
+dialogue type : s^df^rt
+D :  it could be , like This isn't the way it really is ,
+
+dialogue type : s.%--
+D :  but let me say that , suppose someone mentioned , uh , admission fees
+
+dialogue type : s^ba^bd
+D :  Ah , it takes too long .
+
+dialogue type : s:s
+D :  Try let me just say " Landmark " .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^rt.%--
+D :  if it 's closed or not , at the moment .
+
+dialogue type : s^bk|s
+D :  Alright , so you have nodes .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : s.%--
+D :  And the , uh , problem that we were having was that , you know , given N - nodes , there 's " two to the N "
+
+dialogue type : s
+D :  Given N - nodes , and furthermore , the fact that there 's three things here , we need to specify " three times " , uh , " two to the N " probabilities .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : s
+D :  That 's assuming these are all binary , which f they may not be .
+
+dialogue type : s
+D :  For example , they could be " time of day " ,
+
+dialogue type : s
+D :  in which case we could , uh , say , you know , " Morning , afternoon , evening , night " .
+
+dialogue type : s
+D :  So , this could be more
+
+dialogue type : s
+D :  So , it 's a lot , anyway .
+
+dialogue type : s
+D :  And , that 's a lot of probabilities to put here , which is kind of a pain .
+
+dialogue type : fh|s
+D :  So Noisy - ORs are a way to , uh , sort of deal with this .
+
+dialogue type : fh
+D :  Um
+
+dialogue type : qw^t1
+D :  Where should I put this ?
+
+dialogue type : s:s
+D :  So , the idea is that , um , Let 's call these , uh , C - one , C - two , C - three , and C - four , and E , for Cause and Effect , I guess .
+
+dialogue type : s
+D :  The idea is to have these intermediate nodes .
+
+dialogue type : s^f
+D :  Right .
+
+dialogue type : s
+D :  Well , actually , the idea , first of all , is that each of these things has a quote - unquote distinguished state ,
+
+dialogue type : s
+D :  which means that this is the state in which we don't really know anything about it .
+
+dialogue type : fh
+D : 
+
+dialogue type : qy^d^f^g
+D :  right ?
+
+dialogue type : s
+D :  So , for example , if we don't really know if the thing is a landmark or not , Or , i if that just doesn't seem relevant , then that would be th sort of the Disting - the Distinguish state .
+
+dialogue type : s.%--
+D :  It 's a really , you know , if there is something for the person talking about the admission fee ,
+
+dialogue type : s
+D :  you know , if they didn't talk about it , that would be the Distinguish state .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Yeah , yeah .
+
+dialogue type : s
+D :  That 's just what they the word they used in that paper .
+
+dialogue type : s|qy^d^f^g
+D :  So , the idea is that , um , you have these intermediate nodes , right ?
+
+dialogue type : s^rt:s^rt
+D :  E - one , E - two , E - three and E - four ?
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s|qy^d^f^g
+D :  So The idea is that , each of these EI is represents what this would be if all the other ones were in the distinguish state . Right ?
+
+dialogue type : s
+D :  So , for example , suppose that the person I mean , suppose the thing that they talked about is a landmark .
+
+dialogue type : s^e
+D :  But none of the other sort of cues really apply .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D :  W The this would just represent the probability distribution of this ,
+
+dialogue type : s
+D :  assuming that this cue is turned on and the other ones just didn't apply ?
+
+dialogue type : s
+D :  So , you know , if it is a landmark , and no none of the other things really ap applicable , then this would represent the probability distribution .
+
+dialogue type : s^rt
+D :  So maybe in this case Maybe we just t k Maybe we decide that , if the thing 's a landmark and we don't know anything else , then we 're gonna conclude that , um They want to view it with probability , you know , point four .
+
+dialogue type : s
+D :  They want to enter it with probability , uh with probability point five
+
+dialogue type : s
+D : 
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : s
+D :  So we come up with these l little tables for each of those
+
+dialogue type : qy^d^f^g
+D :  OK .
+
+dialogue type : s^df
+D :  And the final thing is that , um this is a deterministic function of these ,
+
+dialogue type : s
+D :  so we don't need to specify any probabilities .
+
+dialogue type : s|qy^d^f^g
+D :  We just have to , um , say what function this is , right ?
+
+dialogue type : s:s|qy^d^f^g
+D :  So we can let this be , um G of E - one comma E - two . E - three , E - four . Right ?
+
+dialogue type : s^rt:s
+D :  and our example G would be , um , a majority vote ?
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : s
+D :  it 's Heckerman and Breese .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^cs
+D :  Uh , you can Yeah , you should take a look at it , I guess .
+
+dialogue type : s^bk|s^ba
+D :  Yeah , it 's a good question .
+
+dialogue type : h|s
+D :  Um The so what we want , is basically JavaBayes to support deterministic , uh , functions .
+
+dialogue type : s|qy^d^f^g
+D :  And , um In a sense it sup we can make it supported by , um , manually , uh , entering , you know , probabilities that are one and zeros , right ?
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^nd
+D :  I don't think you can do this ,
+
+dialogue type : s^df
+D :  because G is a function from that to that .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : s
+D :  So there 's no numbers .
+
+dialogue type : s
+D :  There 's just quadruplets of well , N - duplets of , uh , E Vs .
+
+dialogue type : s^fa^t1
+D :  Oops , sorry .
+
+dialogue type : %--
+D : 
+
+dialogue type : s^bk
+D :  Oh , right .
+
+dialogue type : s^m.%--
+D :  W would not be ab able to observe
+
+dialogue type : qw^br
+D :  What ?
+
+dialogue type : b.%
+D : 
+
+dialogue type : s^bk|qy^bu^d
+D :  Oh . A are you saying that we 'll not be able to observe certain nodes ?
+
+dialogue type : s^ba
+D :  That 's fine .
+
+dialogue type : s^df
+D :  That is sort of orthogonal thing .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^rt
+D :  So , specifically in this case you have to f have this many numbers ,
+
+dialogue type : s|qy^d^f^g
+D :  whereas in this case you just have to have three for this , three for this , three for this . Right ?
+
+dialogue type : s^rt
+D :  So you have to have just three N ?
+
+dialogue type : s
+D :  So , this is much smaller than that .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^no
+D :  I don't know .
+
+dialogue type : fg|s:s
+D :  Yeah . This isn't a Noisy - OR anymore .
+
+dialogue type : s:s
+D :  it 's a Noisy - arg - max or a Noisy - whatever .
+
+dialogue type : s^aap
+D :  Well , the " OR " .
+
+dialogue type : s^aa|s^na
+D :  Right . I guess you 're right .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b.%
+D :  Yep .
+
+dialogue type : fh
+D :  So
+
+dialogue type : s.%--
+D : 
+
+dialogue type : qw
+D :  Where else would it be stored ?
+
+dialogue type : s
+D :  That 's the question .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : qy^rt
+D :  So , is the idea to put it in the ontology ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^bu
+D :  So , we are but we we 're not doing the ontology ,
+
+dialogue type : s^bu.%-
+D :  so we have to get to whoever is doing the u ultimately ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : fg|%--
+D : 
+
+dialogue type : s^aa|s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  That requires understanding the classes in JavaBayes , I guess . @ @ .
+
+dialogue type : b.%
+D :  Mmm .
+
+dialogue type : b
+D :  Ah !
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : s^no
+D :  I don't see why the , uh , combining f functions have to be directly hacked into
+
+dialogue type : s^df
+D :  I mean , they 're used to create tables
+
+dialogue type : s
+D :  so we can just make our own little functions that create tables in XML .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^nd.%--
+D : 
+
+dialogue type : s
+D :  I mean , OK .
+
+dialogue type : s|qy^d^f^g
+D :  So say it blows up , right ?
+
+dialogue type : s
+D :  So there 's , like , the you know , ten , f ten , fifteen , uh , things .
+
+dialogue type : s
+D :  It 's gonna be like , two to the that ,
+
+dialogue type : s
+D :  which isn't so bad .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  p Sure .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^aa
+D :  Yep .
+

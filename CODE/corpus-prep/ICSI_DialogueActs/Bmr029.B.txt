@@ -1,0 +1,198 @@
+dialogue type : s
+B :  It 's e F .
+
+dialogue type : s^rt
+B :  u I I I think , um , for the far - mike HTK system I was using , it did help somewhat .
+
+dialogue type : s^rt
+B :  I could re - check that .
+
+dialogue type : s
+B :  But it was such a bad baseline that I don't know what that means .
+
+dialogue type : s
+B :  Cuz the baseline word error rate was around forty percent on digits .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : %-
+B :  What wo
+
+dialogue type : s^cs
+B :  Uh , I I think also for the log spectral mean subtraction , uh , we wanna know which speaker 's talking when ,
+
+dialogue type : s^df
+B :  cuz we wanna chain together the audio from one particular speaker to calculate the mean
+
+dialogue type : s^e
+B :  and subtract it ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^arp^ng
+B :  Well , we also have to mean subtract the test data .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s.%--
+B :  And there 's , um ,
+
+dialogue type : s
+B :  S so the way this means subtraction expects to work , is it expects to have , um , this continuous stream of audio data from a particular speaker to operate on .
+
+dialogue type : s
+B :  And it goes along it with this sliding window , calculating the mean using the data in the window ,
+
+dialogue type : s
+B :  and then subtracting that .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^na
+B :  That 's that 's how I 've been doing it ,
+
+dialogue type : s^e
+B :  just by concatenating files together .
+
+dialogue type : s.%--
+B :  Um , and if these files and the
+
+dialogue type : s
+B :  since they 're individual utterance files , um , s long silence periods are removed ,
+
+dialogue type : s^ba
+B :  which is a good thing .
+
+dialogue type : s^df
+B :  Because this method might estimate the mean badly , if it had to face long silence periods .
+
+dialogue type : s
+B :  But that does mean that I need as much I need twice as much disk space as the original set
+
+dialogue type : s
+B :  cuz I need while I 'm running it cuz I need to create this intermediate set , um , of these big files ,
+
+dialogue type : s
+B :  and then create the finally , the mean subtracted , um , little files .
+
+dialogue type : s
+B :  And then I can get rid of the big files .
+
+dialogue type : s
+B :  But st while I 'm doing the processing , I 'll nee I need twice as much disk space .
+
+dialogue type : s^aa
+B :  Right ,
+
+dialogue type : fg
+B : 
+
+dialogue type : s.%--
+B :  So so , Andreas , um ,
+
+dialogue type : s
+B :  in U doctor speech data SRI Hub - five , there 's this , uh , Hub - five training set .
+
+dialogue type : qy^rt
+B :  Now , is that the long training set there ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk|s^ng
+B :  OK . I th I think you already did , actually .
+
+dialogue type : fg|s^bu
+B :  OK . And so , say the Macrophone files that are included in this short training , are just a subset of the Macrophone files .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  So so , um when you You did some TI - digits t t experiments training on Macrophone .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s^bu.%--
+B :  But that 's not necessarily any less data than the SRI Hub - five
+
+dialogue type : s^bu
+B :  set . It 's not a it 's not a subset of the short SRI Hu - Hub - five set .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : qy^r^rt
+B :  Uh , whe when you trained on Macrophone , um , to do those digits experiments , did you use the entire Macrophone corpus ?
+
+dialogue type : s^bk
+B :  Oh . OK .
+
+dialogue type : s^bk
+B :  OK - OK .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  I I I got confused ,
+
+dialogue type : s^df^rt
+B :  cuz I thought I thought you were using the whole Macrophone set .
+
+dialogue type : s^bk
+B :  Um . OK .
+
+dialogue type : s
+B :  Well , if if if I just need to use that subset , I I can get it processed .
+
+dialogue type : s
+B :  I actually got I think I got f into it before ,
+
+dialogue type : s
+B :  and then I thought I was doing the wrong thing
+
+dialogue type : s
+B :  and I stopped .
+
+dialogue type : s^ba
+B :  And it shouldn it shouldn't take that long to do .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy^br^d^rt
+B :  The segmentations ?
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : h
+B : 
+
+dialogue type : s
+B :  I I have i I have it for for Macrophone , um , already , I think ,
+
+dialogue type : s
+B :  and , um , I think by tomorrow I 'll have it for th for the rest .
+

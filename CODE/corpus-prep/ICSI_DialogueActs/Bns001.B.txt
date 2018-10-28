@@ -1,0 +1,1077 @@
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  OK .
+
+dialogue type : s
+B :  Hi .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK ,
+
+dialogue type : s^ft
+B :  thank you Joe .
+
+dialogue type : s
+B :  Well , I , uh , as all of you know I came from from Spain ,
+
+dialogue type : s^e
+B :  from the uh Polytechnic University of Valencia
+
+dialogue type : fh|s
+B :  and i uh I um , just finished my PHD thesis about uh um power - saving techniques for wireless networking .
+
+dialogue type : fh|s
+B :  uh , In fact , I have developed an algorithm to control the ra radio frequency power uh of a wireless transceiver .
+
+dialogue type : fh|s
+B :  And , uh I 've been working also in routing issues , especially in the so - called ad - hoc netw wireless networks .
+
+dialogue type : s^e
+B :  Where uh , you have a set of , uh , mobile nodes and , no other infrastructure ,
+
+dialogue type : s^e
+B :  no base stations .
+
+dialogue type : s
+B :  So all the routing functions are done by the node by the same nodes .
+
+dialogue type : qy^d^f^g
+B :  OK ?
+
+dialogue type : s
+B :  So , nodes act as both end points and routers .
+
+dialogue type : fh
+B :  eh
+
+dialogue type : s
+B :  I 've in the study for some time these kind of networks .
+
+dialogue type : s
+B :  And , uh , in fact , there are a lot of of research uh articles about this this kind of networks because You know , uh , mmm infrastructure - based network network has been a long topic of research .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s^e
+B :  for example , routing on on wired networks is a a topic still to be researched
+
+dialogue type : s
+B :  but it has an important background .
+
+dialogue type : s
+B :  But mobile network this kind of mobile networks is a little bit uh newer ,
+
+dialogue type : s^df
+B :  especially because uh , until not so long uh , the the things were too heavy to have a computer , a wireless transceiver , on a more or less portable thing .
+
+dialogue type : fh|s
+B :  So , with the advent of this new technology , low power uh , high , uh , processing capability and wireless eh networking capability , in a really small package , new kind of devices are are being built and are appearing , in the market .
+
+dialogue type : fh|s
+B :  And , eh , well this is more or less what I have done .
+
+dialogue type : s
+B :  And the kind of , uh , things , I 'm interested is more or less all , around this these kind of networks .
+
+dialogue type : s
+B :  But I could say , uh in general , mobile service is not only about , uh these specific kind of networks .
+
+dialogue type : s
+B :  But , in general , about , uh services uh over mobile or services that can benefit from the uh , capability of nodes to move around .
+
+dialogue type : fh|s
+B :  And , uh , well , I I 've been teaching now for twelve years , comp eh At a computer sciences school in my university ,
+
+dialogue type : s^e
+B :  I 've been teaching computer networks .
+
+dialogue type : s
+B :  And , well , I am more or less uh , knowledgable about , well , TCP IP networking , ISO uh , networking ,
+
+dialogue type : fh
+B :  and , uh
+
+dialogue type : s
+B :  well I 'm I 'm a computer guy ,
+
+dialogue type : s
+B :  so I 'm really um Well , I can say uh , proudly uh , more or less , computer skilled .
+
+dialogue type : s^e
+B :  I mean , uh , operating systems uh , programming languages uh , networking @ @ .
+
+dialogue type : s
+B :  So this kind of things I think I 'm more or less well - trained .
+
+dialogue type : fh
+B :  So
+
+dialogue type : s
+B :  this is , I think , um , my first presentation .
+
+dialogue type : s^cc
+B :  Next maybe next meeting I will uh , do a small sketch about uh , my past work , and well , presenting some det a little bit more detailed approach with some schemes and and some things from previous talks , so you can have a better idea of w the kind of work I 've been doing .
+
+dialogue type : qy^d^f^g^rt
+B :  OK ?
+
+dialogue type : s^ft
+B :  Thank you .
+
+dialogue type : %
+B :  Y
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  That 's OK .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : s
+B :  Well , like have a blueprint .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : s
+B :  And you can build a a an a a double technology adapter , too .
+
+dialogue type : s
+B :  So you can market these double - technology adapters .
+
+dialogue type : s^df
+B :  And , this can be a a potential uh um you know , uh , income , too .
+
+dialogue type : s^df
+B :  Because you just have to license , uh uh WaveLAN technology .
+
+dialogue type : s
+B :  You can build , uh , the whole thing .
+
+dialogue type : s
+B :  This U - UMTS WaveLAN , uh mixed together .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s
+B :  I think , they are using different , uh , radio technologies .
+
+dialogue type : fh|s
+B :  So , uh , at the physical level , they 're they 're they are not compatible .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^aa
+B :  That that 's right .
+
+dialogue type : s^aa|s
+B :  Yeah but I I have a point uh regarding the this question , is eh the cost function .
+
+dialogue type : fh
+B :  I mean .
+
+dialogue type : fh
+B :  uh
+
+dialogue type : qo
+B :  What about the user who is switching from one let 's say zero - cost area network to another network where he has to pay .
+
+dialogue type : s
+B :  It is OK for the service to continue when he uh switches from one network to another .
+
+dialogue type : s
+B :  But probably , the user wants to be aware that he 's switching from one place from one network to another .
+
+dialogue type : s^df
+B :  Because maybe , while he 's uh having , let 's say , a vide video conference uh over the the WaveLAN oh he 's not paying any extra cost .
+
+dialogue type : s
+B :  But when he continues with this service on the UMTS , he 's having to cover uh an important let 's say , an important cost or some cost , non - null cost .
+
+dialogue type : fh
+B :  So uh
+
+dialogue type : s
+B :  this can be something that probably the user wants to be aware of .
+
+dialogue type : s^df
+B :  Of course , this doesn't mean that the user wants the connection to be dropped when he switches . to the w uh r uh from the zero - cost area network to to the uh um non - null cost area network .
+
+dialogue type : s
+B :  But maybe some users want to do this .
+
+dialogue type : s^df:s^bk
+B : 
+
+dialogue type : s^df:s^nd
+B :  I 'm not willing to pay any back for this service ,
+
+dialogue type : s^df:s^df
+B :  because I 'm just watching uh you know the sports news .
+
+dialogue type : s
+B :  So , if I switch If if , because of my motion , I 'm switching , or I 'm going out of the coverage of the of the uh wave uh wireless uh local area network , well , I I want the service to be uh stopped . "
+
+dialogue type : s
+B :  And this can be some pattern then that some users will follow .
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : s^nd
+B :  But when quality of service comes to the uh scene , well , I think we have a a bigger problem
+
+dialogue type : s^df
+B :  because maybe this this uh uh seamless migration cannot be seamless at all ,
+
+dialogue type : s^df
+B :  because maybe the the quality of service we are getting when we are connected to a certain network , let 's say high - speed networking , cannot be sustained when we are switching to a different technology .
+
+dialogue type : s
+B :  So , this is another thing that is uh putting a little bit in more trouble our our scheme
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^fa
+B :  Oh , sorry .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa^r
+B :  Yeah .
+
+dialogue type : s^na
+B :  It can be done .
+
+dialogue type : s^df
+B :  It is just Mmm uh Trying to to to to poi to pinpoint The the possible problems .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  In fact , if you take the slower technology of the ones you are planning to to support , you can offer this warran this uh this throughput as uh the minimum warranty you you can get .
+
+dialogue type : fh|s
+B :  So , if everybody is is asking for less than this minimum amount , no problem at all .
+
+dialogue type : s^cs
+B :  But in this case , maybe not too much effort should be put on providing this quality of service
+
+dialogue type : s^df
+B :  because you just have a usually a huge bandwidth compared on a a w with what the user is is using .
+
+dialogue type : s^e
+B :  I mean , if you have a ten megabits bandwidth and the user is asking two kilobits per second , of course , you can uh build uh certain reserve mechanisms to warranty the user these two kilobits per second bandwidth .
+
+dialogue type : s^e
+B :  But probably in it isn't it is not worth because you have so many uh available bandwidths that maybe uh it is not a problem .
+
+dialogue type : z
+B :  Hi .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : qy^rt
+B :  Have you have you read about this uh Barwan project held at Berkeley University ?
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^nd
+B :  Barwan .
+
+dialogue type : s^m^na
+B :  Barwan .
+
+dialogue type : s
+B :  Uh da it was another related project called Daedalus .
+
+dialogue type : fh|s^df
+B :  And uh well it seems they what they were doing was some kind of uh things si somehow similar to this .
+
+dialogue type : %
+B :  u
+
+dialogue type : h|s^no
+B :  Uh Don't know .
+
+dialogue type : s
+B :  I I I I just uh take a a quick uh look at the at the thing
+
+dialogue type : s^df
+B :  because I I was uh read about this uh a long time ago .
+
+dialogue type : s
+B :  And it the the latest report I I found was in nineteen ninety eight .
+
+dialogue type : s^df
+B :  And in this report , well , they they pres they have uh some slides , some uh papers , some well , a lot of things .
+
+dialogue type : s
+B :  And well the main thing and the quick uh thing I I was uh looking at was a a video available in MP - thr in MPG M - peg format .
+
+dialogue type : fh
+B :  And uh
+
+dialogue type : s^e
+B :  well what this video was presenting was a kind of test of of one guy with a portable computer , moving across different networks .
+
+dialogue type : s^e
+B :  So starting at the CS department at Berkeley
+
+dialogue type : s^e
+B :  and then going out the street
+
+dialogue type : s^e
+B :  switching to the a campus - wide network ,
+
+dialogue type : fh|s
+B :  uh um I think it 's a Metricom uh network ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^m^na
+B :  Ricochet ,
+
+dialogue type : s^aa
+B :  yeah ,
+
+dialogue type : s^aa
+B :  that 's right .
+
+dialogue type : s^e
+B :  And then , finally switching to I think it was city PD or something like this .
+
+dialogue type : qy^d^f^g
+B :  OK .
+
+dialogue type : s^e
+B :  I as lo uh as the as the user is moving out of the of the coverage area of this second network .
+
+dialogue type : s^e
+B :  And , well , what they have built is a a kind of uh proxy structure .
+
+dialogue type : s^e
+B :  So they are they are putting most of the work of this adaptational layer on on the side of the proxies .
+
+dialogue type : s
+B :  So the client or the server is not changed .
+
+dialogue type : s
+B :  It is the proxy , the one that does the work .
+
+dialogue type : qy^d^f^g
+B :  OK ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : qy^d^rt
+B :  It 's the same ?
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : s
+B :  OK ,
+
+dialogue type : %
+B : 
+
+dialogue type : s^cs
+B :  It is just that that well , maybe we can we can take a look at oh maybe a more in - depth look at this project
+
+dialogue type : s^df
+B :  just to see if we are doing the same , or if we are doing something similar .
+
+dialogue type : s^df
+B :  It would be important for us to to highlight the differences .
+
+dialogue type : s^df:s
+B :  Because if not , well , they can say , " Oh , you are doing the same thing . "
+
+dialogue type : s:s
+B :  " This was done now . "
+
+dialogue type : s^bk|s
+B :  Yeah , well we are close .
+
+dialogue type : s^ar
+B :  Yeah .
+
+dialogue type : s^nd
+B :  No problem .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^na
+B :  UC Ber - uh Berkeley ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : h|s
+B :  I 'll I you uh I seen uh uh reports from nineteen ninety uh ninety - six , ninety - seven and ninety - eight .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : fh
+B :  n uh
+
+dialogue type : s
+B :  I think that that the leader was uh Professor Katz .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Yeah
+
+dialogue type : s^co
+B :  b le let me let me ask you a question about eh UMTS or or third or possible fourth generation communic wireless communication systems .
+
+dialogue type : fh|qy
+B :  Uh , from the point of view of the user , uh is there uh something more that nnn , that than more speed ?
+
+dialogue type : qy
+B :  Is there any other advantage , from the point of view of the user or of of the terminals ?
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  But in fact now , at the GSM level , what you have is that every voice channel you use provides a a p a pretty fine fixed uh data speed .
+
+dialogue type : s
+B :  So , we can say that every voice channel has an i an incr uh implied um quality of service ,
+
+dialogue type : s^e
+B :  which is nnn ninety six hundred bits per second .
+
+dialogue type : s^e
+B :  Full duplex .
+
+dialogue type : qy^g^rt
+B :  Doesn't it ?
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg|s^arp
+B :  No , but um but not only because of of data speed ,
+
+dialogue type : s
+B :  but also about delay ,
+
+dialogue type : fh
+B :  you know ,
+
+dialogue type : s^df
+B :  because GSM networks were developed to y uh with a voice service in mind .
+
+dialogue type : fh|s
+B :  Ah , delay is also considered in these networks .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : fh|s
+B :  uh , in fact for every voice channel you have uh a pretty fine maximum uh delay and jitter , and a a a specified um data speed .
+
+dialogue type : s
+B :  So you can scale up scale up this uh this um thing by using several channels .
+
+dialogue type : s
+B :  So , in fact , you have , using just GSM technology , you have more or less the same building blocks as you can get uh with the UMTS .
+
+dialogue type : s
+B :  I mean that one thing is that the technology is a little bit different ,
+
+dialogue type : s^e
+B :  that uh the base station thing is different
+
+dialogue type : s^am
+B :  and maybe uh the the internal routing uh inside the network is different
+
+dialogue type : s^no.%-
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk|s^nd
+B :  Yeah , but The You know , it is also being d uh developed , this G uh P - DPRS thing , GPRS thing .
+
+dialogue type : s^e
+B :  which is uh pack uh packet data over GSM .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s
+B :  I mean . Uh , I don't see that a a lot of difference .
+
+dialogue type : s
+B :  We can expect a lot of differences f uh from the uh mobile terminal point of view . Uh , when uh UMTS be deployed .
+
+dialogue type : s
+B :  What I 'm trying to say is that is that well , uh maybe uh it is not a big problem that any of us uh be uh um were um a UMTS expert
+
+dialogue type : s^df
+B :  because uh I I don't see it I think that the UMTS thing is more a technology issue , than a research issue .
+
+dialogue type : s^am^bd
+B :  Maybe I 'm wrong .
+
+dialogue type : %--
+B :  Just es
+
+dialogue type : fh
+B :  um
+
+dialogue type : s.%-
+B :  explaining my m
+
+dialogue type : s^df^ng
+B :  I mean to be done here ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^na
+B :  of course , you know , I 'm I I agree with you that there are a lot o of things to be developed
+
+dialogue type : s
+B :  but But the point is that uh this is probably not here .
+
+dialogue type : s^df
+B :  Because uh well , you know the the the orientation of our group which is uh " Networks Services and Applications " , not uh wireless technology or the underlying wireless technology .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^e
+B :  You know , radio frequency technology ,
+
+dialogue type : s^e
+B :  wide - band w uh CDMA .
+
+dialogue type : s
+B :  These kind of things all have a lot of things to be to be uh researched .
+
+dialogue type : s
+B :  But uh I don't think w this is not something we are doing here .
+
+dialogue type : s^2
+B :  Voice ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  One question .
+
+dialogue type : s
+B :  I have a an important doubt about the IP availability over UMTS .
+
+dialogue type : s
+B :  I mean you know that the carriers and some manufacturers have done an important effort in developing this web thing
+
+dialogue type : fh|s^no
+B :  and uh I 'm not sure what they plan to do with next generation .
+
+dialogue type : qh
+B :  I mean , are they maintaining are they holding the same web technology ?
+
+dialogue type : qrr
+B :  Or , are ju just they discarding this technology
+
+dialogue type : s^e
+B :  and forgetting about the thing ?
+
+dialogue type : s^no
+B :  I I don't know what will happen .
+
+dialogue type : s^no
+B :  uh , I I don't have a clue .
+
+dialogue type : s
+B :  Probably , if after searching a little bit on the on the net I can get the answer ,
+
+dialogue type : s
+B :  but initially this is something to to to have in mind .
+
+dialogue type : s^df
+B :  I mean . Because maybe this UMTS thing will appear on the market without IP as a native protocol .
+
+dialogue type : s
+B :  And if this is the case well , thus seamless integration could be we strongly affected .
+
+dialogue type : s
+B :  At least , uh , if you we want to use U M
+
+dialogue type : s^bd^df
+B :  I 'm I 'm just uh throwing the question .
+
+dialogue type : s
+B :  uh I mean , looking for an answer
+
+dialogue type : s^no
+B :  because I don't know if uh some of you have a clue about this .
+
+dialogue type : s^e^no
+B :  I don't know what what carriers are planning to do about this .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  No .
+
+dialogue type : s^aa^r
+B :  No .
+
+dialogue type : s^na
+B :  Not me .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^aap
+B :  In Spain it 's available
+
+dialogue type : s^bd^df
+B :  but uh you know , uh my main complaint has been all the time that it is difficult to me to believe that I can do interesting work with a 4 lines display .
+
+dialogue type : s^cs
+B :  Ah Maybe , check the lottery result or something like this ,
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Huh - huh - huh .
+
+dialogue type : %-
+B :  Well
+
+dialogue type : s^no.%-
+B : 
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : %-
+B :  u
+
+dialogue type : s
+B :  Let me let me propose a a a a reasoning way .
+
+dialogue type : s^rt
+B :  Uh let 's assume that we are successful with this proposal ,
+
+dialogue type : s^rt
+B :  so we get the funding to do whatever what we want to do .
+
+dialogue type : s.%--
+B :  So my question is , what we want to do is ?
+
+dialogue type : s
+B :  Let 's assume that we have the funding .
+
+dialogue type : qh
+B :  What will be our first and or or and second steps ?
+
+dialogue type : qh
+B :  Ah , what kind of things uh we eh we will buy ,
+
+dialogue type : qh^e
+B :  what kind of things we will eh program or we will deploy ?
+
+dialogue type : s^df
+B :  Because answering this these questions we can know much better what the application we want .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^na
+B :  Absolutely .
+
+dialogue type : s
+B :  Let let me put an example .
+
+dialogue type : s^rt
+B :  You know I Some days ago , I bought , like some of you , this kind of things .
+
+dialogue type : s
+B :  This is a PDA
+
+dialogue type : s
+B :  eh three com uh Palm Pilot compatible ,
+
+dialogue type : s^ba^bd^rt
+B :  nothing nothing that great ,
+
+dialogue type : s^df
+B :  but it has some some possibility of being expanded .
+
+dialogue type : s
+B :  But the point is eh , the only in here The only thing wireless thing I can put on on this is just uh this Omnisky modem ,
+
+dialogue type : s
+B :  which is uh , I think it is a subscription - based uh thing .
+
+dialogue type : s
+B :  You have to pay every every month ,
+
+dialogue type : s
+B :  and eh of course , I cannot imagine that uh tomorrow I 'll be able to buy a different thing with four different networks ,
+
+dialogue type : s^e
+B :  four different providers on it .
+
+dialogue type : s^bd
+B :  Maybe I 'm wrong
+
+dialogue type : %--
+B :  but
+
+dialogue type : s:s
+B :  if I have the funding I say " OK , well , I can buy this or even I can buy a mobile computer ,
+
+dialogue type : s^e
+B :  a notebook " .
+
+dialogue type : qy^d^f^g^rt
+B :  OK ?
+
+dialogue type : s^ba^rt
+B :  A lot more expensive ,
+
+dialogue type : s^ba^df
+B :  but that 's OK ,
+
+dialogue type : s
+B :  I have the funding
+
+dialogue type : s
+B :  Then I can add a couple of cards at most ,
+
+dialogue type : s^df
+B :  because mmm the majority of the of the notebooks only have two PC cards uh type two slots .
+
+dialogue type : fh
+B :  So
+
+dialogue type : s
+B :  In in the better case , maybe I 'm only able to add two different networks to this thing .
+
+dialogue type : fh
+B :  So ah
+
+dialogue type : s
+B :  the difficulty I see is that ah if we are if you want to think in in two three four different technologies um , maybe we are uh too advanced too , um , let 's say , uh too in advance for the current technology .
+
+dialogue type : s^ba^rt
+B :  Which is not bad ,
+
+dialogue type : s^df.%--
+B : 
+
+dialogue type : s^fa
+B :  Sorry .
+
+dialogue type : s^df
+B :  It will be difficult for us to develop a a reasonable test bed with the available technology .
+
+dialogue type : qh:s
+B :  If somebody tell us , " OK , now here you have the thing , and just put these four networks you want on the thing . " How can I do it now ?
+
+dialogue type : fh
+B :  So mmm
+
+dialogue type : s
+B :  I 'm still trying to you know , to get used to the uh all the ideas
+
+dialogue type : s
+B :  and to see that all the things are really connecting
+
+dialogue type : s^df
+B :  because this the eh most difficult thing I see to to to get this alignment to this connection point among the different things we are trying to align .
+
+dialogue type : s
+B :  So that 's why I was proposing this this question .
+
+dialogue type : s
+B :  Let 's assume we have the funding .
+
+dialogue type : s
+B :  Now let 's proceed .
+
+dialogue type : qh
+B :  What what kind of things we can buy , we can put together , we can program .
+
+dialogue type : s^df:qy
+B :  Because oh at the end uh somebody will uh be asking us " OK , did you do your homework ?
+
+dialogue type : s.%--:qy.%--
+B : 
+
+dialogue type : fh
+B :  So .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+B :  But for different networks ?
+
+dialogue type : s.%-
+B :  The point is for
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : b
+B :  Hmm - hmm .
+
+dialogue type : s^na
+B :  I think so
+
+dialogue type : s^bk
+B :  Oh yeah .
+
+dialogue type : %-
+B :  W
+
+dialogue type : s^2|s^aa
+B :  A long way , yeah .
+
+dialogue type : s^na
+B :  That 's right .
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : b
+B :  Hmm - hmm .
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : b
+B :  Hmm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^t3
+B :  Bless you .
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : s^bk
+B :  OK
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Hmm - mmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah . Sure .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %-
+B :  And and
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  N Not only this .
+
+dialogue type : s^cs
+B :  We can even use this u platform to to get some European projects in the future
+
+dialogue type : s^df
+B : 
+
+dialogue type : s^aa|s^df
+B :  Yeah but uh , this will I think w This will improve over time , I 'm sure .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^am
+B :  Probably .
+
+dialogue type : s
+B :  You know , this kind of joint work of different countries de companies , universities . This is usually the best ah the best place to to put a project on .
+
+dialogue type : s^df
+B :  Because it is involving different partners from different points of of Europe .
+
+dialogue type : b
+B :  Hm - hmm .
+
+dialogue type : b.%
+B :  Hmm - hmm - hmm .
+
+dialogue type : fg
+B :  Uh .
+
+dialogue type : s
+B :  Unless unless we speak about quality of service ,
+
+dialogue type : s^e
+B :  which is not eh embedded on on IP services .
+
+dialogue type : s^aap|s^df^nd.%-
+B : 
+
+dialogue type : s^aap|s^df^nd
+B :  Yeah but for example nobody 's really using RSVP .
+
+dialogue type : s^bk|s^fa
+B :  OK , sorry , sorry .
+
+dialogue type : b
+B :  Hmm - hmm - hmm .
+
+dialogue type : s^na
+B :  That 's right .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  OK
+
+dialogue type : s^bk
+B :  OK ,
+
+dialogue type : s^aa|s^na
+B :  yeah , that 's right .
+
+dialogue type : fg|qy
+B :  Oh , can you call Adam ?
+
+dialogue type : s^e
+B :  At this number ?
+

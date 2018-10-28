@@ -1,0 +1,459 @@
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  You know how to toggle the display width function
+
+dialogue type : z
+B :  Yo .
+
+dialogue type : h
+B :  Um ,
+
+dialogue type : s^rt
+B :  uh in a in a smaller group we had uh , talked and decided about continuation of the data collection .
+
+dialogue type : s
+B :  So Fey 's time with us is almost officially over ,
+
+dialogue type : fh|s
+B :  and she brought us some thirty subjects and , t collected the data ,
+
+dialogue type : s
+B :  and ten dialogues have been transcribed
+
+dialogue type : s^rt
+B :  and can be looked at .
+
+dialogue type : s^co^rt
+B :  If you 're interested in that , talk to me .
+
+dialogue type : fh|s
+B :  Um , and we found another uh , cogsci student who 's interested in playing wizard for us .
+
+dialogue type : s
+B :  Here we 're gonna make it a little bit more complicated for the subjects , uh this round .
+
+dialogue type : s^cs
+B :  She 's actually suggested to look um , at the psychology department students ,
+
+dialogue type : s^df
+B :  because they have to partake in two experiments in order to fulfill some requirements .
+
+dialogue type : s^df^e
+B :  So they have to be subjected , before they can actually graduate .
+
+dialogue type : fh
+B :  And um ,
+
+dialogue type : s
+B :  we want to design it so that they really have to think about having some time ,
+
+dialogue type : s^e
+B :  two days , for example ,
+
+dialogue type : s^e
+B :  to plan certain things and figure out which can be done at what time ,
+
+dialogue type : fh
+B :  and ,
+
+dialogue type : fh|s^e
+B :  um , sort of package the whole thing in a in a re in a few more complicated um , structure .
+
+dialogue type : s^rt
+B :  That 's for the data collection .
+
+dialogue type : s
+B :  As for SmartKom , I 'm the last SmartKom meeting I mentioned that we have some problems with the synthesis ,
+
+dialogue type : s^rt
+B :  which as of this morning should be resolved .
+
+dialogue type : fh
+B :  And , so ,
+
+dialogue type : s:s
+B :  " should be " means they aren't yet ,
+
+dialogue type : s^rt
+B :  but but I think I have the info now that I need .
+
+dialogue type : s
+B :  Plus , Johno and I are meeting tomorrow ,
+
+dialogue type : s^am
+B :  so maybe uh uh , when tomorrow is over , we 're done .
+
+dialogue type : s
+B :  And ha n hav we 'll never have to look at it again
+
+dialogue type : s^am
+B :  Maybe it 'll take some more time ,
+
+dialogue type : s^e
+B :  to be realistic ,
+
+dialogue type : s
+B :  but at least we 're we 're seeing the end of the tunnel there .
+
+dialogue type : s^rt^tc
+B :  That was that .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : %--
+B :  the uh ,
+
+dialogue type : fh|s
+B :  uh I don't think we need to discuss the formalism
+
+dialogue type : s^df^rt
+B :  that 'll be done officially s once we 're done .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s
+B :  something happened , in on Eva 's side with the PRM that we 're gonna look at today ,
+
+dialogue type : fh
+B :  and um ,
+
+dialogue type : s^rt
+B :  we have a visitor from Bruchsal from the International University .
+
+dialogue type : s
+B :  Andreas , I think you 've met everyone except Nancy .
+
+dialogue type : s^m
+B :  Hi . Hi .
+
+dialogue type : fh
+B :  And , um ,
+
+dialogue type : s^bu
+B :  Andy , you actually go by Andy ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : fh.%
+B : 
+
+dialogue type : qy^bu^rt
+B :  That will be Reuter ?
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : s
+B :  So my scientific director of the EML is also the dean of the International University ,
+
+dialogue type : s
+B :  one of his many occupations that just contributes to the fact that he is very occupied .
+
+dialogue type : fh
+B :  And , um ,
+
+dialogue type : %--
+B : 
+
+dialogue type : fh|s^t
+B :  um , he @ @ might tell us a little bit about what he 's actually doing ,
+
+dialogue type : s
+B :  and why it is s somewhat related ,
+
+dialogue type : s^df
+B :  and by uh using maybe some of the same technologies that we are using .
+
+dialogue type : fh|qy^rt
+B :  And um . Was that enough of an update ?
+
+dialogue type : qy^t^tc
+B :  In what order shall we proceed ?
+
+dialogue type : s^cs.%--
+B : 
+
+dialogue type : s
+B :  Um - hmm , um , well , first of all uh , uh , great looks , mu much cleaner ,
+
+dialogue type : %
+B :  nnn , nnn ,
+
+dialogue type : s
+B :  Certain certain beauty in it ,
+
+dialogue type : s
+B :  so , um , if beauty is truth , then , uh we 're in good shape .
+
+dialogue type : fh
+B :  But ,
+
+dialogue type : %--
+B :  the um ,
+
+dialogue type : s^cs
+B :  as , uh , mentioned before we probably should look at t the details .
+
+dialogue type : s
+B :  So if you have a write - up then uh , I 'd love to read it
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%--
+B :  because , um ,
+
+dialogue type : qy^rt
+B :  i Can you go all the way back to the the very top ?
+
+dialogue type : fh|qy^rt
+B :  Um , uh these @ @ these w w when these are instantiated they take on the same values ? that we had before ?
+
+dialogue type : qrr
+B :  or are they have they changed , in a sense ?
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s
+B :  And the , uh , other question I would have is that presumably , from the way the Stanford people talk about it , you can put the probabilities also on the relations .
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  It 's sort of in the definition or in the in Daphne 's definition of a PRM
+
+dialogue type : s^e
+B :  is that classes and relations ,
+
+dialogue type : s^e
+B :  and you 're gonna have CPT 's over the classes and their relations .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s.%-
+B :  I should say .
+
+dialogue type : s
+B :  Yeah , that would be exactly my question .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk^rt
+B :  OK .
+
+dialogue type : s
+B :  Then I think the w long term perspective is is pretty clear .
+
+dialogue type : s^co
+B :  We get rocking and rolling on this again , once we get a package ,
+
+dialogue type : s^e:qw
+B :  if , when , and how ,
+
+dialogue type : s
+B :  then this becomes foregrounded
+
+dialogue type : s^e
+B :  profiled ,
+
+dialogue type : s^e
+B :  focused , again .
+
+dialogue type : fh
+B :  And um ,
+
+dialogue type : s^cc^rt
+B :  until then we 'll come up with a something that 's @ @ that 's way more complicated for you .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : s^df
+B :  Because this was laughingly easy ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^na.%-
+B : 
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : qw^j^rt
+B :  But what does it uh Would a pote potential result be to to split up and never talk to each other again ?
+
+dialogue type : b
+B :  You know .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg|s^t^tc
+B :  Good . Then , we can move on and see what Andreas has got out his sleeve .
+
+dialogue type : s^e
+B :  Or Andy , for that matter ?
+
+dialogue type : b^rt
+B :  Mm - hmm .
+
+dialogue type : s
+B :  Well , in a in one t one s mmm , small difference in a in a way , is that he doesn't have to come up with an answer ,
+
+dialogue type : s.%-
+B :  but he wants to point to the places w w
+
+dialogue type : s^ng
+B : 
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : qy^d^rt
+B :  Remember the uh , Prashant story ?
+
+dialogue type : s^e
+B :  The absolutely no no linguistic background person that the IU sent over here .
+
+dialogue type : s^e
+B :  And Andreas and I tried to come up wi or we had come up actually with a eh with him working on an interface for FrameNet , as it was back then , that would p do some of the work for this machine ,
+
+dialogue type : s^e
+B :  which uh , never got done because Prashant found a happy occupation
+
+dialogue type : s^e.%-
+B : 
+
+dialogue type : s^aa
+B :  Absolutely . Yeah .
+
+dialogue type : s
+B :  But so I 'm just saying , the uh , we had that idea
+
+dialogue type : s^e
+B :  uh to to exploit FrameNet there as well .
+
+dialogue type : fh
+B :  And um .
+
+dialogue type : s^bu
+B :  And Srini 's doing information extraction also ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^e
+B :  with that FrameNet base .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy^d^rt
+B :  Uh it 's in the program ?
+
+dialogue type : s^co
+B :  You are being recorded right now , so beware .
+
+dialogue type : qw^rt
+B :  Who ?
+
+dialogue type : s^cc
+B :  I can take you to his office .
+
+dialogue type : s
+B :  It 's just around the corner .
+
+dialogue type : s^aa
+B :  Yeah . I 'm sure .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  No . Wh - I had something in my calendar .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s^j
+B :  Uh well , maybe I can I can bribe my way out of this .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  So I did some double checking
+
+dialogue type : s.%-
+B :  and it seems like spring break in two thousand one .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : qy^bu^d^rt
+B :  This uh Oh , they refused the budget again ?
+
+dialogue type : qy^bu^d^rt
+B :  Is it so about CITRIS ?
+
+dialogue type : s^e
+B :  Yeah , still nothing .
+
+dialogue type : fg|s
+B :  OK . So I I did manage to get pull my head out of the sling by sidetracking into CITRIS ,
+
+dialogue type : s^bsc
+B :  but uh or a temporarily putting it out of the sling
+
+dialogue type : s
+B :  but , I I 'll volunteer to put it right back in by stating that I am n uh among some other things in the process of writing up stuff that we have been discussing at our daily meetings ,
+
+dialogue type : s^e.%--
+B :  and also revising ,
+
+dialogue type : s^ft
+B :  thanks for all the comments ,
+
+dialogue type : s^e
+B :  the c the original construal proposal .
+
+dialogue type : s
+B :  And , if I put one and one together , I may end up with a number that 's greater than one and that I I can potentially present once you get back .
+
+dialogue type : s^nd.%-
+B : 
+
+dialogue type : s^aa
+B :  Absolutely . Yeah .
+
+dialogue type : s
+B :  But um , and hopefully all sidetracking um , other things will have disappeared , soon .
+

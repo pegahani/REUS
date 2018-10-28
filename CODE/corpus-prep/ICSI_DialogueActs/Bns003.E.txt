@@ -1,0 +1,300 @@
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s
+E :  No promises .
+
+dialogue type : s^aa
+E :  No .
+
+dialogue type : s
+E :  No promises .
+
+dialogue type : s^aa
+E :  No .
+
+dialogue type : qy^rt
+E :  Did the networks have internet connectivity ?
+
+dialogue type : s
+E :  But normally you should have access to th all the internet , r to outside .
+
+dialogue type : s^e
+E :  Full .
+
+dialogue type : s
+E :  A restricted in .
+
+dialogue type : s^bk
+E :  Not .
+
+dialogue type : qy^bh
+E :  Huh .
+
+dialogue type : s
+E :  Not a no FTP .
+
+dialogue type : %
+E :  H
+
+dialogue type : s^bk
+E :  Hmm .
+
+dialogue type : s^cs
+E :  Newbies .
+
+dialogue type : s^r
+E :  Newbies .
+
+dialogue type : s
+E :  This a lot of this stuff is not networking group NSA , uh , restricted .
+
+dialogue type : %
+E :  M
+
+dialogue type : s^bk|s^cs
+E :  Yeah , but a at least then it should be mmm , I think be , uh , ICSI part , and not network restricted .
+
+dialogue type : s^2
+E :  M move it on the normal ICSI , ICSI .
+
+dialogue type : s^am.%-
+E : 
+
+dialogue type : s^bk|s^df
+E :  Yeah , but eh but my point is that it should not be under the networking group thing .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : fg
+E : 
+
+dialogue type : %-
+E :  b
+
+dialogue type : s^df^nd
+E :  But that could still be applicable if you put it under the ICSI site if you take the responsibility for that .
+
+dialogue type : %
+E :  Uh ,
+
+dialogue type : s^ba
+E :  So I think th I think both arguments are not an ar are arguments against having this under the normal ICSI page .
+
+dialogue type : s^ba^e
+E :  Or only the networking , uh , page .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yes ,
+
+dialogue type : s^aa
+E :  yeah .
+
+dialogue type : s^ar
+E :  No ,
+
+dialogue type : s^aa
+E :  no .
+
+dialogue type : s^df
+E :  Pending .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  Uh , but that 's also for me ,
+
+dialogue type : s^df
+E :  I 'm kind of lost for the NSA group .
+
+dialogue type : s.%-
+E :  And oh , also also
+
+dialogue type : fg
+E :  Well ,
+
+dialogue type : s^rt
+E :  b but I think even also K P N . i is lost for the , uh , for the I C
+
+dialogue type : s^df
+E :  There 's a lot of , uh , z budget cuts going on
+
+dialogue type : s
+E :  and nothing is possible anymore ,
+
+dialogue type : fh
+E :  so .
+
+dialogue type : s^aa
+E :  Yes .
+
+dialogue type : s^na
+E :  Absolutely .
+
+dialogue type : s
+E :  I it It will be different thing .
+
+dialogue type : s
+E :  It will be a it will be a start - up .
+
+dialogue type : s
+E :  And I know they 're they 're working on a w a few of them in this area ,
+
+dialogue type : s
+E :  but it 's ou outside of ICSI .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : %
+E :  u
+
+dialogue type : %
+E :  Th
+
+dialogue type : fg|s
+E :  Um , I am working now on on something ,
+
+dialogue type : s^e^rt
+E :  uh an open source router .
+
+dialogue type : s^ar
+E :  No ,
+
+dialogue type : %--
+E : 
+
+dialogue type : s^arp
+E :  well , it 's a little bit u out of Mark .
+
+dialogue type : %--
+E : 
+
+dialogue type : s
+E :  Right now I 'm interested and I 'm looking into it
+
+dialogue type : s
+E :  and I 'm working started yesterday , actually working on it ,
+
+dialogue type : s
+E :  to do the , uh u to do an implementation of the protocol that was designed by Mark , um , on an open - source router that 's different from the one that of Mark 's project .
+
+dialogue type : %-
+E :  S s
+
+dialogue type : s^na
+E :  I hope so .
+
+dialogue type : %-
+E :  I
+
+dialogue type : s^ba
+E :  That would be cool .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %--
+E :  It 's
+
+dialogue type : s^2
+E :  hard work .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  That 's right .
+
+dialogue type : s^df
+E :  But I 'm working on it .
+
+dialogue type : s
+E :  Lectures .
+
+dialogue type : s
+E :  You can change that .
+
+dialogue type : s.%--
+E :  M uh , maybe you sh
+
+dialogue type : s
+E :  I think it 's pretty healthy for a student to to have a project , eh , where you have to write actually some part of research
+
+dialogue type : fh
+E :  or .
+
+dialogue type : s^aa
+E :  Sure .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : %
+E :  O
+
+dialogue type : s^aa
+E :  Of course .
+
+dialogue type : s^nd
+E :  January ,
+
+dialogue type : s^aa
+E :  yes .
+
+dialogue type : s^aa
+E :  No .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^aa^r
+E :  Right .
+
+dialogue type : qw^rt
+E :  Who is that ?
+
+dialogue type : s^bk|s^bu
+E :  Oh , he was here one day .
+
+dialogue type : s^bk|s
+E :  Yeah , I do remember him ,
+
+dialogue type : s
+E :  but I didn't talk with him about , uh about the research topic .
+
+dialogue type : s^df
+E :  So I didn't know what he was going to do .
+
+dialogue type : qy^d^rt
+E :  We have to do that ?
+
+dialogue type : s^bk
+E :  Oh !
+
+dialogue type : z
+E :  Did you get that ?
+
+dialogue type : z
+E :  No , it wasn't .
+
+dialogue type : z
+E :  I I I saw it already standing there when I was here so then I started laughing ,
+
+dialogue type : z
+E :  oh , oh ,
+

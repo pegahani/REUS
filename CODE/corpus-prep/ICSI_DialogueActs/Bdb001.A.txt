@@ -1,0 +1,786 @@
+dialogue type : s^bk|s
+A :  Oh , I remember seeing an example of this .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^bu
+A :  So you're essentially defining a lattice .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : %
+A :  How - how
+
+dialogue type : s^bk.%-
+A :  Oh , that 's
+
+dialogue type : s
+A :  That 's actually very nicely handled here
+
+dialogue type : s^df
+A :  because you could you could all you 'd have to change is the , um , time - stamps in the time - line without without , uh , changing the I Ds .
+
+dialogue type : s
+A :  Except the time - line is gonna be huge .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^e
+A :  suppose you have a phone - level alignment .
+
+dialogue type : %-
+A : 
+
+dialogue type : %-
+A :  Why
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : qw
+A :  But but why not use it for phone - level ?
+
+dialogue type : s^df
+A :  It 's just a matter of it 's just a matter of it being bigger .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%-
+A :  you know , barring memory limitations , or uh I w I mean this is still the m
+
+dialogue type : s^ar
+A :  Oh , no .
+
+dialogue type : s^nd
+A :  You would use it only for purposes where you actually want the phone - level information , I 'd imagine .
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^cs.%--
+A :  Or you just compre
+
+dialogue type : s^cs
+A :  I mean , I like text formats .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : s^cs^df
+A :  b you can always , uh , G - zip them ,
+
+dialogue type : fh|s^cs^df
+A :  and , um , you know , c decompress them on the fly if y if space is really a concern .
+
+dialogue type : s^bk
+A :  Right ,
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bk|s^na
+A :  OK , so frame - level is probably not a good idea .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  Like phones , or syllables , or anything like that .
+
+dialogue type : s^df
+A :  But but but most of the frames are actually not speech .
+
+dialogue type : fh
+A :  So ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : qy^bu^d^df^rt
+A :  v Look at it , words times the average The average number of phones in an English word is , I don't know , five maybe ?
+
+dialogue type : s^df
+A :  So , look at it , t number of words times five .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^aa
+A :  Exactly .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^na
+A :  I mean , I 've I 've used them .
+
+dialogue type : s^no
+A :  I don't know what their structure is .
+
+dialogue type : s^no.%-
+A :  I 've forgot what the str
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^rt
+A :  Actually , we we use a generalization of the the Sphere format .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s^na
+A :  Yeah , so there is something like that
+
+dialogue type : s.%-
+A :  but it 's , um , probably not as sophist
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I mean , Entropic has their own feature format that 's called , like , S - SD or some so SF or something like that .
+
+dialogue type : %
+A :  Hmm ?
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : qy^rt
+A :  Do they already have tools ?
+
+dialogue type : s
+A :  As long as uh each tag is on one line .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : qy^rt
+A :  Do they already have something that 's that would be useful for us in place ?
+
+dialogue type : s^cs^na
+A :  We should we should find out .
+
+dialogue type : s^ng
+A :  It 's a hassle
+
+dialogue type : %
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bs
+A :  It seems to me you want to keep the frame - level stuff separate .
+
+dialogue type : %-
+A : 
+
+dialogue type : qw
+A :  Now now how would you how would you represent , um , multiple speakers in this framework ?
+
+dialogue type : s.%--
+A : 
+
+dialogue type : qy^d^rt
+A :  You would have like a speaker tag or something ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : %
+A :  Is i ?
+
+dialogue type : s
+A :  Well , channel or speaker or whatever .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Right .
+
+dialogue type : fg|qw
+A :  But but so how in the NIST format do we express a hierarchical relationship between , um , say , an utterance and the words within it ?
+
+dialogue type : qw
+A :  So how do you tell that these are the words that belong to that utterance ?
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : fg
+A : 
+
+dialogue type : s
+A :  So here 's the thing .
+
+dialogue type : fh
+A : 
+
+dialogue type : %
+A :  Hhh .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^ng
+A :  the thing is that some something may be a part of one thing for one purpose and another thing of another purpose .
+
+dialogue type : %-
+A :  So f
+
+dialogue type : %-
+A :  s
+
+dialogue type : fg
+A :  Um ,
+
+dialogue type : fg
+A :  well ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : fg
+A : 
+
+dialogue type : s.%-
+A :  y So for instance @ @ sup
+
+dialogue type : s
+A :  Suppose you have a word sequence
+
+dialogue type : s
+A :  and you have two different segmentations of that same word sequence .
+
+dialogue type : s
+A :  f Say , one segmentation is in terms of , um , you know , uh , sentences .
+
+dialogue type : s
+A :  And another segmentation is in terms of , um , I don't know , prosodic phrases .
+
+dialogue type : s
+A :  And let 's say that they don't nest .
+
+dialogue type : fh|s
+A :  So , you know , a prosodic phrase may cross two sentences or something .
+
+dialogue type : s^no
+A :  I don't know if that 's true or not
+
+dialogue type : fh|s.%-
+A :  but let 's as
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  So , you want to be s you want to say this this word is part of that sentence and this prosodic phrase .
+
+dialogue type : s
+A :  But the phrase is not part of the sentence
+
+dialogue type : s
+A :  and neither is the sentence part of the phrase .
+
+dialogue type : fg|s
+A :  So , you would have to have two different pointers from the word up one level up ,
+
+dialogue type : s.%-
+A :  one to the sent
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^tc
+A :  The the o the other issue that you had was , how do you actually efficiently extract , um find and extract information in a structure of this type ?
+
+dialogue type : fh|s.%--
+A : 
+
+dialogue type : s^ar|s^nd
+A :  No , that 's not clear .
+
+dialogue type : s^df
+A :  I mean , yeah , you c sure you can do it ,
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : s
+A :  y y you gotta you gotta do this you you 're gonna want to do this very quickly
+
+dialogue type : s
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^cs
+A :  You want sort of a grep that 's that works at the structural on the structural representation .
+
+dialogue type : s^bk|s^ng.%--
+A : 
+
+dialogue type : s^df^nd
+A :  That 's relative to the structure of the XML document ,
+
+dialogue type : s^df^nd
+A :  not to the structure of what you 're representing in the document .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : %-
+A :  Be
+
+dialogue type : s
+A :  Because here you 're specifying a lattice .
+
+dialogue type : s
+A :  So the underlying that 's the underlying data structure .
+
+dialogue type : s
+A :  And you want to be able to search in that lattice .
+
+dialogue type : s
+A :  That 's different from searching through the text .
+
+dialogue type : fg
+A : 
+
+dialogue type : %
+A :  Hhh .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : %
+A : 
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^nd
+A :  I I 'm still , um , not convinced that you can do much at all on the text on the flat file that that you know , the text representation .
+
+dialogue type : %
+A :  e
+
+dialogue type : s^df
+A :  Because the text representation is gonna be , uh , not reflecting the structure of of your words and annotations .
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^df
+A :  Y yeah . You can use Perl to read it in and construct a internal representation that is essentially a lattice .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^ng
+A :  But that 's what you 'll have to do .
+
+dialogue type : %-
+A :  Bec - be
+
+dialogue type : %-
+A : 
+
+dialogue type : h
+A : 
+
+dialogue type : fg
+A : 
+
+dialogue type : %--
+A :  Ma
+
+dialogue type : s^cs
+A :  well , maybe you should actually look at it yourself too to get a sense of what it is you 'll you 'll be dealing with ,
+
+dialogue type : s^df
+A :  because , um , you know , Adam might have one opinion but you might have another ,
+
+dialogue type : fh
+A :  so
+
+dialogue type : s^cs^df
+A :  I think the more eyes look at this the better .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : qy^rt
+A :  Is there an is there an IP - API ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^rt
+A :  There used to be a problem that they get too large ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^cs
+A :  Maybe you could extend the API to , uh , support , uh , like splitting up , you know , conceptually one file into smaller files on disk
+
+dialogue type : s^df.%-
+A :  so that you can essentially , you know , have arbitrarily long f
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qw
+A :  What does the P stand for anyway ?
+
+dialogue type : s^ar|s^nd
+A :  No , P - files were around way before Quicknet .
+
+dialogue type : s^df
+A :  P - files were were around when w with , um , RAP .
+
+dialogue type : qy^d^g^rt
+A :  Right ?
+
+dialogue type : s^bu
+A :  You worked with P - files .
+
+dialogue type : s
+A :  I worked with P - files .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg
+A :  Um ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fh
+A :  um ,
+
+dialogue type : s^df
+A :  eh , gr this is sort of r regarding uh , uh it 's related but not directly germane to the topic of discussion ,
+
+dialogue type : s
+A :  but , when it comes to annotations , um , you often find yourself in the situation where you have different annotations of the same , say , word sequence .
+
+dialogue type : qy^d^f^g
+A :  OK ?
+
+dialogue type : s
+A :  And sometimes the word sequences even differ slightly because they were edited s at one place but not the other .
+
+dialogue type : s
+A :  So , once this data gets out there , some people might start annotating this for , I don't know , dialogue acts or , um , you know , topics or what the heck .
+
+dialogue type : fh
+A :  You know ,
+
+dialogue type : s
+A :  there 's a zillion things that people might annotate this for .
+
+dialogue type : s
+A :  And the only thing that is really sort of common among all the versi the various versions of this data is the word sequence ,
+
+dialogue type : s.%-
+A :  or approximately .
+
+dialogue type : s^m^na
+A :  Or the times .
+
+dialogue type : s^ng
+A :  But , see , if you 'd annotate dialogue acts , you don't necessarily want to or topics you don't really want to be dealing with time - marks .
+
+dialogue type : s^df|qy^d^f^g^rt
+A :  You 'd it 's much more efficient for them to just see the word sequence , right ?
+
+dialogue type : s^bd^df
+A :  I mean , most people aren't as sophisticated as as we are here with , you know , uh , time alignments and stuff .
+
+dialogue type : fg
+A : 
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Right .
+
+dialogue type : fh
+A :  So ,
+
+dialogue type : fh
+A :  um ,
+
+dialogue type : s
+A :  the p my point is that you 're gonna end up with , uh , word sequences that are differently annotated .
+
+dialogue type : s
+A :  And you want some tool , uh , that is able to sort of merge these different annotations back into a single , uh , version .
+
+dialogue type : qy^d^f^g
+A :  OK ?
+
+dialogue type : fh|s.%--
+A :  Um , and we had this problem very massively , uh , at SRI when we worked , uh , a while back on , uh well , on dialogue acts as well as , uh , you know ,
+
+dialogue type : fh|qw
+A :  um , what was it ?
+
+dialogue type : fh
+A :  uh ,
+
+dialogue type : s
+A :  utterance types .
+
+dialogue type : s
+A :  There 's , uh , automatic , uh , punctuation and stuff like that .
+
+dialogue type : s^df
+A :  Because we had one set of annotations that were based on , uh , one version of the transcripts with a particular segmentation ,
+
+dialogue type : s^df
+A :  and then we had another version that was based on , uh , a different s slightly edited version of the transcripts with a different segmentation .
+
+dialogue type : s
+A :  So , we had these two different versions which were you know , you could tell they were from the same source but they weren't identical .
+
+dialogue type : s
+A :  So it was extremely hard to reliably merge these two back together to correlate the information from the different annotations .
+
+dialogue type : s^aa
+A :  No .
+
+dialogue type : s^aa^r
+A :  No .
+
+dialogue type : s
+A :  But once you have a file format , I can imagine writing not personally , but someone writing a tool that is essentially an alignment tool , um , that mediates between various versions ,
+
+dialogue type : s^e
+A :  and uh , sort of like th uh , you know , you have this thing in UNIX where you have , uh , diff .
+
+dialogue type : s^df
+A :  There 's the , uh , diff that actually tries to reconcile different two diffs f based on the same original .
+
+dialogue type : s
+A :  Something like that ,
+
+dialogue type : fh|s
+A :  um , but operating on these lattices that are really what 's behind this uh , this annotation format .
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  So somewhere in the API you would like to have like a merge or some some function that merges two two versions .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^2.%-
+A : 
+
+dialogue type : s^aa
+A :  Exactly .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : fg|s.%--
+A :  So so just to let you know what we where we kluged it by , uh , doing uh , by doing Hhh .
+
+dialogue type : s
+A :  Both were based on words ,
+
+dialogue type : s
+A :  so , bo we have two versions of the same words intersp you know , sprinkled with with different tags for annotations .
+
+dialogue type : s
+A :  And we did diff .
+
+dialogue type : s^aa
+A :  Exactly !
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s
+A :  But , you know , it had lots of errors
+
+dialogue type : s
+A :  and things would end up in the wrong order , and so forth .
+
+dialogue type : fh
+A :  Uh ,
+
+dialogue type : fh
+A :  so ,
+
+dialogue type : fh|s.%--
+A : 
+
+dialogue type : fh
+A :  Uh ,
+
+dialogue type : s
+A :  it it was a kluge
+
+dialogue type : s^df
+A :  because it was basically reducing everything to uh , to uh , uh , to textual alignment .
+
+dialogue type : fh
+A :  Um ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  And you 're gonna get that
+
+dialogue type : s^df
+A :  because if the data gets out , people will do all kinds of things to it .
+
+dialogue type : s^e
+A :  And , uh , s you know , several years from now you might want to look into , um , the prosody of referring expressions .
+
+dialogue type : s^e
+A :  And someone at the university of who knows where has annotated the referring expressions .
+
+dialogue type : s
+A :  So you want to get that annotation and bring it back in line with your data .
+
+dialogue type : qy^d^f^g
+A :  OK ?
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^j
+A :  Time time times are ephemeral .
+
+dialogue type : fh
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^ng
+A :  Or she .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^t1
+A :  Ah , well .
+
+dialogue type : s^j
+A :  For th for the for the benefit of science we 'll read the digits .
+

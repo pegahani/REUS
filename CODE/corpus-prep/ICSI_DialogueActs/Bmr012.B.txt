@@ -1,0 +1,774 @@
+dialogue type : z
+B :  Let 's see , I should be
+
+dialogue type : z
+B :  Two .
+
+dialogue type : z
+B :  La
+
+dialogue type : z
+B :  Is this channel one ?
+
+dialogue type : z
+B :  Gee , OK .
+
+dialogue type : z
+B :  Yes .
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  Yeah .
+
+dialogue type : z
+B :  Mm - hmm . What do you do ,
+
+dialogue type : z
+B :  you do it higher ?
+
+dialogue type : z
+B :  Mm - hmm .
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  You wanna close this ,
+
+dialogue type : z
+B :  or
+
+dialogue type : s
+B :  We 're recording ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  So uh
+
+dialogue type : h|sj^ba
+B :  Uh oh that 's a good idea .
+
+dialogue type : s^cc
+B :  I shouldn't run the meeting .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : sj^ba
+B :  good idea .
+
+dialogue type : s^fa
+B :  S sorry I haven't seen the email ,
+
+dialogue type : qw
+B :  what was the score ?
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : fg
+B :  So
+
+dialogue type : fg
+B : 
+
+dialogue type : fg|s^j
+B :  so un unsurprisingly Adam is the golden voice ,
+
+dialogue type : qy^d^rt
+B :  you see this here ?
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Cool .
+
+dialogue type : s
+B :  Well , we don't even know what that means ,
+
+dialogue type : %-
+B :  so I
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Yeah so we 're in better shape than we were say when we did had the ninety - three workshop
+
+dialogue type : s
+B :  and we were all getting like seventy percent error on Switchboard .
+
+dialogue type : fh
+B :  you know
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s.%--
+B :  Oh one thing I guess I didn't get
+
+dialogue type : s^bs
+B :  so you know the language model was straight from from bigram from Switchboard
+
+dialogue type : qr^bu^d^rt.%-
+B :  the acoustic models were also from Switchboard or or
+
+dialogue type : qy^bu^d
+B :  So they didn't have anything from this acoustic data in yet ?
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : fg
+B :  Yeah ,
+
+dialogue type : s
+B :  but for Broadcast News when we we played around between the two there wasn't a huge loss .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : sj^ba
+B :  Good point .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : fg
+B :  Yeah
+
+dialogue type : s^na
+B :  I I I would bet on that too
+
+dialogue type : s^df
+B :  cuz he certainly in that when as a as a burp user he was he was a pretty uh strong one .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Sheep .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : sj
+B :  Sheep is good .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^cs
+B :  Have to add PZM and so on
+
+dialogue type : fh
+B :  but
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %-
+B :  I r
+
+dialogue type : b
+B :  Oh
+
+dialogue type : b
+B :  Yeah ,
+
+dialogue type : %-
+B :  which I would which well n n n n
+
+dialogue type : s
+B :  I mean there 's still just the w the percentages
+
+dialogue type : s.%--
+B :  and , I mean they 're not a
+
+dialogue type : s
+B :  as we 've talked about before there 's probably overlaps
+
+dialogue type : s
+B :  there 's probably overlaps in in uh in fair number in Switchboard as well
+
+dialogue type : fh
+B :  so
+
+dialogue type : s
+B :  but but there 's other phenomena ,
+
+dialogue type : s
+B :  it 's a meeting ,
+
+dialogue type : s
+B :  it 's a different thing and there 's lots of stuff to learn with the close talking mikes
+
+dialogue type : fh
+B :  but uh
+
+dialogue type : fh|s
+B :  yeah certainly I 'd like to see as soon as we could ,
+
+dialogue type : s^cs
+B :  I mean maybe get some of the glitches out of the way
+
+dialogue type : s^cs.%--
+B :  but soon as we could how well it does with say with the P Z Ms or maybe even one of the
+
+dialogue type : s^cs.%--
+B :  and uh see if it 's , you know
+
+dialogue type : qy
+B :  is it a hundred twenty percent
+
+dialogue type : s
+B :  or maybe it 's not
+
+dialogue type : s
+B :  maybe if with some adaptation you get this down to fifty percent or forty - five percent or something
+
+dialogue type : s
+B :  and and then if for the PZM it 's seventy or something like that
+
+dialogue type : s
+B :  that 's actually something we could sort of work with a little bit
+
+dialogue type : fh
+B :  so
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B : 
+
+dialogue type : s^aap
+B :  well certainly if the recognition as opposed to training ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s^aa
+B :  Seems reasonable .
+
+dialogue type : fg|s^co
+B :  Yeah so we just have to go through this process of having people approve the transcriptions ,
+
+dialogue type : s
+B :  say it 's OK .
+
+dialogue type : fg|%--
+B :  Well we ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  hopefully it will be fairly quick
+
+dialogue type : s
+B :  but we get the transcriptions , people approve them and so on
+
+dialogue type : s.%-
+B :  it 's just that we 're
+
+dialogue type : s
+B :  It 's gonna be a rare thing that there 's a bleep for the most part .
+
+dialogue type : qy^bu^d
+B :  So you just train just different filters
+
+dialogue type : qy^bu^d.%-
+B :  and so you 're just wondering whether the filter is
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : qr
+B :  Are you are you using uh uh mel cepstrum or PLP over there ?
+
+dialogue type : s
+B :  So probably doesn't matter .
+
+dialogue type : sj^cs
+B :  But but it wouldn't hurt to try ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s^bk
+B :  Sure .
+
+dialogue type : fg|%--
+B :  No the reason I say this
+
+dialogue type : s
+B :  PLP uses uh auto - regressive filtering and uh modeling and so it can be sensitive to the kind of filtering that you 're doing
+
+dialogue type : s
+B :  but uh uh mel cepstrum uh might not b you wouldn't expect to be so much
+
+dialogue type : fh
+B :  but
+
+dialogue type : s
+B :  This is being recorded at forty - eight kilohertz . Which is more that anybody needs
+
+dialogue type : fh
+B :  so
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  It 's a digital audio orientation for the board
+
+dialogue type : s.%--
+B :  it 's in the monitor so it 's
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : s
+B :  For telephone stuff .
+
+dialogue type : s
+B :  So it 's it 's it 's just that they were operating from Switchboard which was a completely telephone database
+
+dialogue type : s.%-
+B :  and so that was a standard for that sixteen s
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  that isn't music and isn't telephone ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : s^nd
+B :  No actually I would think that you would you would get better you 'd get better high frequencies in the local mike .
+
+dialogue type : fh|qh
+B :  Uh but who knows ?
+
+dialogue type : s
+B :  I mean we do we we we we we wanna find all this stuff out ,
+
+dialogue type : s
+B :  we don't know .
+
+dialogue type : h|s^aa
+B :  Uh yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^rt
+B :  Weren't we gonna do something with a pad at one point ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^cs
+B :  Well what I was just suggesting is is we have these this cross pad just for this purpose
+
+dialogue type : s^cs
+B :  and just use that
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  The other thing is eh
+
+dialogue type : s
+B :  I don't know if you know this or if it 's a question for the mail to Dan
+
+dialogue type : qr^rt
+B :  but is this thing of two eight channel boards a maximum for this setup or could we go to a third board ?
+
+dialogue type : s^bk^m
+B :  Oh it is one board .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B :  if it was possible cuz it is i
+
+dialogue type : s
+B :  you know already we have a a a group of people in this room that cannot all be miked
+
+dialogue type : s
+B :  and it 's not just cuz we haven't been to the store ,
+
+dialogue type : qy^d^f^g^rt
+B :  right
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  It might be a hard limitation ,
+
+dialogue type : s
+B :  I mean one thing is it the whole thing as I said is is all structured in terms of forty - eight kilohertz sampling
+
+dialogue type : s
+B :  so that pushes requirements up a bit
+
+dialogue type : fh
+B :  but
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : sj
+B :  Yeah at least w we got the good ones .
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qy^d^rt
+B :  There isn't this some sort of thing that plugs in ,
+
+dialogue type : qy^d^rt
+B :  you actually have to go and do the soldering yourself ?
+
+dialogue type : s^bk
+B :  No I understand .
+
+dialogue type : s
+B :  The reason I ask is these sort of handmade uh wiring jobs fall apart in use
+
+dialogue type : s^cs
+B :  so the other thing is to see if we can uh get them to do a custom job and put it together for this .
+
+dialogue type : fg
+B :  Well
+
+dialogue type : s^ar|s^ng
+B :  no they 'll just charge us more ,
+
+dialogue type : %-
+B :  so it 's this
+
+dialogue type : s^arp^co
+B :  Not before having one come here and have some people try it out .
+
+dialogue type : s
+B :  Because there 's no point in doing that if it 's not gonna be any better .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^2^cs
+B :  And see if it 's preferable and if it is then we 'll get more .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  We 're in this for the long term ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : s^co^na
+B :  Just order it .
+
+dialogue type : h|s^co
+B :  Uh we 'll do this off - line , yeah .
+
+dialogue type : fg|s^aa
+B :  Uh y right
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B :  so one is for the daisy chain so that 's fifteen instead of sixteen
+
+dialogue type : s
+B :  and there 's six on the table
+
+dialogue type : s
+B :  so that 's nine .
+
+dialogue type : %
+B :  Yeah .
+
+dialogue type : sj^ba^rt
+B :  That 's a good idea .
+
+dialogue type : sj
+B :  That 's not a dumb question ,
+
+dialogue type : sj^ba^r
+B :  it 's a good idea ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : fg
+B :  No that no no
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  if we can't get another board and even if we can I have a feeling they 'll be some work .
+
+dialogue type : s^cs
+B :  Let 's figure that we have eight which are set up
+
+dialogue type : s^cs^e.%--
+B : 
+
+dialogue type : sj^ba
+B :  that 's a good idea
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s
+B :  Kind of rules out overlap
+
+dialogue type : fh
+B :  but but uh
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : h|s^ar
+B : 
+
+dialogue type : s^ar.%--
+B : 
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s^aa
+B :  Yes .
+
+dialogue type : fg
+B : 
+
+dialogue type : fg|s
+B :  no it depends on the hand - held
+
+dialogue type : s^rt
+B :  but hand many hand - helds are built wi with sort of uh anti - shock sort of things so that it it is less uh susceptible to hand noises .
+
+dialogue type : s
+B :  If you hold the lapel mike i you just get all k sorts of junk .
+
+dialogue type : fh
+B :  so
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : qw^br^rt
+B :  What ?
+
+dialogue type : s^ar|s.%--
+B : 
+
+dialogue type : s
+B :  you need a transmitter .
+
+dialogue type : s^bk
+B :  Oh I see .
+
+dialogue type : s^co
+B :  Get a get a different radio ,
+
+dialogue type : fh
+B :  yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  But you need a ra but it has to correspond to the receiver .
+
+dialogue type : fg
+B : 
+
+dialogue type : fg
+B :  so right ,
+
+dialogue type : sj^ba
+B :  so this is a good point ,
+
+dialogue type : s
+B :  so yeah you have these these mikes with a little antenna on the end
+
+dialogue type : qy^d^f^g^rt
+B :  right ?
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : s^cs
+B :  You 'll have to check with them ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : sj^ba
+B :  But that 's that 's a great idea
+
+dialogue type : s^cs
+B :  and then just sort of have that as the and then you can have groups of twenty people or whatever
+
+dialogue type : fh
+B :  and and uh
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^bk
+B :  Off you go ,
+
+dialogue type : fh
+B :  yeah .
+
+dialogue type : sj^ba
+B :  Pretty close ,
+
+dialogue type : sj^ba
+B :  that 's good .
+
+dialogue type : sj^ba
+B :  Super idea .
+
+dialogue type : s
+B :  Now you have eight transcribers and there 's ten of us
+
+dialogue type : qw^d
+B :  so how do we do this , is the only thing .
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s^cs
+B :  So maybe we could they could have a meeting more or less without us that to do this and we should record it
+
+dialogue type : s^cs
+B :  and then maybe one or two of them could come to one of these meetings and and could you know could tell us about it .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Super .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : s^bk
+B :  OK
+
+dialogue type : qy^d^rt
+B :  but the nine o ' cl nine o ' clock will be i be in here .
+
+dialogue type : s^bk
+B :  Yeah , OK .
+
+dialogue type : s^aa.%-
+B : 
+
+dialogue type : b
+B :  Um good .
+
+dialogue type : fg|qy^cs^d^t^tc
+B :  So maybe do digits and recess ?
+
+dialogue type : h|s^aa
+B :  Uh OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ar
+B :  No I don't think it 's confusing .
+
+dialogue type : fh|s^df^j^rt
+B :  Well , it doesn't confuse me .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : sj
+B :  That 's fine .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  He 's in the he 's in the cour two two five D course .
+
+dialogue type : b
+B :  So ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : fg
+B :  OK ,
+
+dialogue type : s^co^na
+B :  let 's do digits .
+
+dialogue type : z
+B :  OK .
+

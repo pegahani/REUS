@@ -1,0 +1,108 @@
+dialogue type : b.%
+F :  OK .
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : s
+F :  Now @ @ this email that you sent , actually .
+
+dialogue type : s
+F :  Now I remember the email .
+
+dialogue type : qw
+F :  So , where exactly is the , uh , deeper understanding being done ?
+
+dialogue type : qy
+F :  Like I mean , s is it before the Bayes - net ?
+
+dialogue type : qy.%--
+F :  Is it , uh
+
+dialogue type : qw
+F :  So , where would we extract that information from ?
+
+dialogue type : s^bu^e^rt
+F :  From the M - three - L ?
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : %-
+F :  All these
+
+dialogue type : s^bu
+F :  So , like , the question is how what features can like , do you wanna try to extract from , say , the parse or whatever ?
+
+dialogue type : s^e.%--
+F :  Like , the presence of a word or the presence of a certain uh , stem , or certain construction or whatever .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b.%
+F :  Right .
+
+dialogue type : qw
+F :  So , how should What 's the uh , plan ?
+
+dialogue type : qw^e.%-
+F : 
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : s^ar|s^nd
+F :  No , not really .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^aa|s^na
+F :  Yeah , I know him .
+
+dialogue type : qy^rt
+F :  Doesn't does SmartKom system have such packages ?
+
+dialogue type : b.%
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^bk
+F :  Sure .
+
+dialogue type : s^aa.%
+F :  Sure .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bu
+F :  So we 'll be like , hand , uh , doing all the probabilities .
+
+dialogue type : s^bk.%
+F :  OK .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s^bk|s^ba
+F :  OK . Sounds good .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg|s^cs
+F :  So , yeah . Later this week we should sort of get together , and sort of start thinking about that , hopefully .
+

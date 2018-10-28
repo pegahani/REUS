@@ -1,0 +1,858 @@
+dialogue type : z
+A :  We 're we 're live by the way , so we 've got a good intro here
+
+dialogue type : z
+A :  Yep .
+
+dialogue type : z
+A :  We can edit that out if you want .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bu
+A :  So . This time the form discussion should be very short ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : sj^ba
+A :  Good point .
+
+dialogue type : s^t3
+A :  Hi Jane !
+
+dialogue type : s
+A :  We just started .
+
+dialogue type : qy^rt
+A :  Could you take that mike there ?
+
+dialogue type : s^ft
+A :  Thanks .
+
+dialogue type : s^ar|s
+A :  No , I just took over the entire s uh entire channel
+
+dialogue type : fh|s
+A :  um sampled ten minutes randomly .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : fg|s
+A :  Yeah , this was quite quick and dirty , and it was just for listening .
+
+dialogue type : sj^df
+A :  And for listening it seems to work really well .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^df
+A :  But , it 's not Not a good measure .
+
+dialogue type : s^bk
+A :  Yes , absolutely .
+
+dialogue type : s
+A :  Except that it 's hard to judge this because the they 're not normalized .
+
+dialogue type : s^e
+A :  It 's just number of frames .
+
+dialogue type : s^bd
+A :  But yeah , even so .
+
+dialogue type : sj^ba^t1
+A :  Interesting
+
+dialogue type : s
+A :  And I was just going to say that that right now we 're just exploring .
+
+dialogue type : s
+A :  What you would imagine eventually , is that you 'll feed all of these features into some discriminative system .
+
+dialogue type : s
+A :  And so even if if one of the features does a good job at one type of overlap , another feature might do a good job at another type of overlap .
+
+dialogue type : s^e
+A :  No prayer .
+
+dialogue type : sj^ba
+A :  That was a great overlap by the way .
+
+dialogue type : s
+A :  Well , but But I think that 's what I was saying about different types of overlap .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : qy
+A :  Mind if I turned that light off ?
+
+dialogue type : s^df
+A :  The flickering is annoying me .
+
+dialogue type : %-
+A :  Tone
+
+dialogue type : s^bk|s.%--
+A :  Sure , but tone might be very
+
+dialogue type : s
+A :  Yeah , you 're " mm - hmm " tone is going to be very different .
+
+dialogue type : s
+A :  You could imagine doing specialized ones for different types of backchannels , if you could if you had a good model for it .
+
+dialogue type : s
+A :  Your " mm - hmm " detector .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s
+A :  It would be interesting , though , to talk , maybe not at the meeting , but at some other time about what are the classes .
+
+dialogue type : sj^ba
+A :  Yeah , it would be interesting .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  Well , I mean we 're also talking about a couple of different things .
+
+dialogue type : s
+A :  I mean , one is your analysis window and then the other is any sort of normalization that you 're doing .
+
+dialogue type : s
+A :  And the And they could be quite different .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A :  Well we 're not any time soon going to get a forced alignment .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  Um If it 's not hand - marked then we 're not going to get the times .
+
+dialogue type : s
+A :  I mean w I guess we could do a very bad one with Broadcast News .
+
+dialogue type : sj^ba
+A :  That might be good enough .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  It 'd be worth a try .
+
+dialogue type : s
+A :  It would be interesting to see what we get .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s
+A : 
+
+dialogue type : sj^ba
+A :  Yeah Right .
+
+dialogue type : s^rt
+A :  Forms Next iteration of forms .
+
+dialogue type : s^t1
+A :  Oops .
+
+dialogue type : s^ar
+A :  Nope .
+
+dialogue type : s
+A :  One 's a digit form ,
+
+dialogue type : s
+A :  one 's a speaker form .
+
+dialogue type : s
+A :  So one is a one time only speaker form and the other is the digits .
+
+dialogue type : s^co
+A :  So don't fill these out .
+
+dialogue type : s^df
+A :  This is just the suggestion for uh what the new forms would look like .
+
+dialogue type : s
+A :  So , they incorporate the changes that we talked about .
+
+dialogue type : qw^d
+A :  On which one ?
+
+dialogue type : qy^rt
+A :  Oh you mean on the digit form ?
+
+dialogue type : s
+A :  Uh , because the user fills out the first three fields and I fill out the rest .
+
+dialogue type : s^rt
+A :  So it was intentional .
+
+dialogue type : sj^ba^rt
+A :  It 's an interesting observation ,
+
+dialogue type : s^df
+A :  but it was intentional .
+
+dialogue type : s.%--
+A :  Because the date is when you actually read the digits and the time and ,
+
+dialogue type : s^fa
+A :  excuse me ,
+
+dialogue type : s^bsc
+A :  the time is when you actually read the digits , but I 'm filling out the date beforehand .
+
+dialogue type : s
+A :  If you look at the form in front of you ? that you 're going to fill out when you read the digits ? you 'll see I 've already filled in the date but not the time .
+
+dialogue type : fg|s
+A :  Yeah , I 've noticed that in the forms .
+
+dialogue type : s
+A :  The the reason I put the time in , is so that the person who 's extracting the digits , meaning me , will know where to look in the meeting , to try to find the digits .
+
+dialogue type : s^aa
+A :  I know .
+
+dialogue type : s
+A :  And I haven't said anything .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s^ar|s
+A :  No , it 's about fifty fifty .
+
+dialogue type : s^bsc
+A :  Actually it 's about one third each .
+
+dialogue type : s
+A :  About one third of them are blank ,
+
+dialogue type : s
+A :  about one third of them are when the digits are read ,
+
+dialogue type : s
+A :  and about one third of them are when the meeting starts .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : qy^d^rt
+A :  I could put instructions ?
+
+dialogue type : s^ar
+A :  Nah .
+
+dialogue type : s^ng
+A :  But if I 'm not at the meeting , I can't do that .
+
+dialogue type : fg|s^rt
+A :  Yep , but that is the reason Name , Email and Time are where they are .
+
+dialogue type : s^rt
+A :  And then the others are later on .
+
+dialogue type : s^aa^rt
+A :  Mm - hmm .
+
+dialogue type : qw^br
+A :  What ?
+
+dialogue type : qw
+A :  What which form are you talking about ?
+
+dialogue type : s^bk
+A :  Oh you 're talking about the digit form .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^bd^rt
+A :  No , that 's alright .
+
+dialogue type : s^df
+A :  The digit form doesn't have a " for official use only " line .
+
+dialogue type : s^e
+A :  It just has a line , which is what you 're supposed to read .
+
+dialogue type : s^rt
+A :  So on the digits form , everything above the line is a fill - in form
+
+dialogue type : s
+A :  and everything below the line is digits that the user reads .
+
+dialogue type : s^ar|s
+A :  No , either way is fine
+
+dialogue type : s
+A :  I just You just started talking about something , and I didn't know which form you were referring to .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s^e
+A :  Just as uh as I have for all the others .
+
+dialogue type : s^df
+A :  That 's because the one , the digit form that has native language is the old form
+
+dialogue type : s
+A :  not the new form .
+
+dialogue type : fg|s^rt
+A :  Yeah this was the problem with these categories ,
+
+dialogue type : s^df^rt
+A :  I I picked those categories from TIMIT .
+
+dialogue type : s^no
+A :  I don't know what those are .
+
+dialogue type : s^2^bu^rt
+A :  With TIMIT ,
+
+dialogue type : qy^d^g^rt
+A :  yeah ?
+
+dialogue type : s.%-
+A :  So , I was gonna ask
+
+dialogue type : %-
+A :  wh w I mean .
+
+dialogue type : qw
+A :  So so what accent are we speaking ?
+
+dialogue type : qy^bu^g^rt
+A :  Western ?
+
+dialogue type : s^bk|s
+A :  Yeah , I mean you could call it whatever you want .
+
+dialogue type : s^df
+A :  For the foreign language we couldn't classify every single one .
+
+dialogue type : s
+A :  So I just left it blank and you can put whatever you want .
+
+dialogue type : s^bk
+A :  Sure .
+
+dialogue type : s^no
+A :  So I 'm not sure what to do about the Region field for English variety .
+
+dialogue type : s
+A :  You know , when I wrote I was writing those down , I was thinking , " You know , these are great if you 're a linguist " .
+
+dialogue type : s^no
+A :  But I don't know how to I don't know how to I don't know how to categorize them .
+
+dialogue type : b
+A :  Yeah
+
+dialogue type : qy^rt
+A :  So I guess my only question was if if you were a South Midland speaking region , person ? Would you know it ?
+
+dialogue type : qy^rt
+A :  Is that what you would call yourself ?
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^nd
+A :  Well , We I think we don't want to get that level of detail at this form .
+
+dialogue type : s^rt
+A :  I think that 's alright if we want to follow up .
+
+dialogue type : %--
+A :  But .
+
+dialogue type : s^df
+A :  Yeah , so I picked these regions cuz we had talked about TIMIT ,
+
+dialogue type : s^e
+A :  and those are right from TIMIT .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^na
+A :  Yeah , I certainly don't .
+
+dialogue type : s^no
+A :  I mean , I was saying I don't even know what I speak .
+
+dialogue type : qy^rt
+A :  Am I speaking Am I speaking Western ?
+
+dialogue type : s^2
+A :  Northwest ?
+
+dialogue type : s
+A :  Yeah , so this is a real problem .
+
+dialogue type : s^no
+A :  I don't know what to do about it .
+
+dialogue type : %-
+A :  I c
+
+dialogue type : s
+A :  I think at the first level , for example , we speak the same .
+
+dialogue type : s
+A :  our our dialects Or whatever you region are the same .
+
+dialogue type : s^no
+A :  But I don't know what it is .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : qy^bu^d^m^rt
+A :  a techno - speak accent ?
+
+dialogue type : qy^bu^d^j^rt
+A :  A a geek region ?
+
+dialogue type : s
+A :  No problem .
+
+dialogue type : s^fe^j^m^t3
+A :  There are hardly any subjects from " beep "
+
+dialogue type : s^aa
+A :  Yeah really .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  Well , I like the idea of asking " what variety of English do you speak " as opposed to where you 're from
+
+dialogue type : s^df:qr
+A :  Because th if we start asking where we 're from , again you have to start saying , " well , is that the language you speak or is that just where you 're from ? "
+
+dialogue type : %-
+A : 
+
+dialogue type : fg|s:s
+A :  I mean . So so I would say Germany
+
+dialogue type : qh
+A :  You know am I speaking with German accent
+
+dialogue type : s^ar
+A :  I don't think so .
+
+dialogue type : s^bk
+A :  Oh , OK yeah .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s^cs
+A :  Yeah , I guess I could try to put squeeze in a little map .
+
+dialogue type : s
+A :  I mean there 's not a lot of r of room
+
+dialogue type : s
+A :  I think of those , Northern is the only one that I don't even know what they 're meaning .
+
+dialogue type : b.x
+A :  Ye
+
+dialogue type : s
+A :  I don't think the Northwest people speak any differently than I do .
+
+dialogue type : qy^d.%--
+A :  That that 's
+
+dialogue type : s^bk
+A :  exactly what we 're arguing about .
+
+dialogue type : s^no
+A :  We don't know .
+
+dialogue type : s
+A :  I mean some of them are very obvious .
+
+dialogue type : s
+A :  If you if you talk to someone speaking with Southern drawl , you know .
+
+dialogue type : s^aa^m
+A :  Or Boston , yeah .
+
+dialogue type : qy^rt
+A :  But is Boston New England ?
+
+dialogue type : s
+A :  W I guess that 's the problem with these categories .
+
+dialogue type : fg|s^cs
+A :  OK , so . I propose , take out Northern add , don't know .
+
+dialogue type : qy^bu^d^rt
+A :  So you want to change the instructions also not just say region ?
+
+dialogue type : s^nd
+A :  I don't know
+
+dialogue type : s^df:qw
+A :  if I if I read this form , I think they 're going to ask it they 're going to answer the same way if you say , " What 's variety of English do you speak ?
+
+dialogue type : s
+A :  Region . "
+
+dialogue type : s:qw
+A :  as if you say " what variety of region region do you speak ?
+
+dialogue type : s:s
+A :  Please characterize your accent ? "
+
+dialogue type : sj
+A :  They 're going to answer the same way .
+
+dialogue type : s^bk
+A :  Oh , I see .
+
+dialogue type : s
+A :  Well what we talked about with that is is so that they would understand the granularity .
+
+dialogue type : s^df^ng
+A :  I mean that 's what I had before , and you told me to list the regions to list them .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s
+A :  I mean I had it wide open last week and and you said TIMIT .
+
+dialogue type : s^ng
+A :  That 's what the " Other " is for .
+
+dialogue type : qy^ng
+A :  Won't they answer the same thing ?
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s
+A :  I mean that 's why I put the " Other " in .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : s
+A :  So I mean , I I mean the way I had it last time was Region was blank ,
+
+dialogue type : s^e
+A :  it just said Region colon .
+
+dialogue type : sj
+A :  And and I think that that 's the best way to do it ,
+
+dialogue type : s^df
+A :  because because of the problems we 're talking about
+
+dialogue type : s^df
+A :  but what we said last week , was no , put in a list ,
+
+dialogue type : s
+A :  so I put in a list .
+
+dialogue type : qy.%-
+A : 
+
+dialogue type : s^aap
+A :  Well , certainly dropping " Northern " I think is right , because none of us know what that is .
+
+dialogue type : qy^rt
+A :  Is " Midwest " one word ?
+
+dialogue type : %-
+A : 
+
+dialogue type : s^df
+A :  But that 's true of New England too .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^df
+A :  Well , I shouldn't say that .
+
+dialogue type : s^no
+A :  I have no clue .
+
+dialogue type : s
+A :  I was going to say the only one that doesn't have a huge variety is New York City .
+
+dialogue type : s^df^no
+A :  But I have no idea whether it does or not .
+
+dialogue type : s
+A :  I think that that was what happened with TIMIT , was that it was an analyst .
+
+dialogue type : s
+A :  New England
+
+dialogue type : s^fe
+A :  Oh , no .
+
+dialogue type : s
+A :  " Other " ,
+
+dialogue type : s
+A :  it goes under " Other " ,
+
+dialogue type : s
+A :  definitely under " Other " .
+
+dialogue type : fg
+A :  OK . So .
+
+dialogue type : s^tc
+A :  Another suggestion .
+
+dialogue type : s
+A :  Rather than have circle fill in forms , say " Region , open paren , E G Southern comma Western comma close paren colon . "
+
+dialogue type : s^cs
+A :  Actually , maybe we do one non - English one as well .
+
+dialogue type : qy^bu^d^rt
+A :  Southern , Cockney ?
+
+dialogue type : qy^rt
+A :  Is that a real accent ?
+
+dialogue type : qw
+A :  How do you spell it ?
+
+dialogue type : qy^bu^d^rt
+A :  N E
+
+dialogue type : s
+A :  OK , we 'll do it that way .
+
+dialogue type : sj^ba
+A :  Actually , I like that a lot .
+
+dialogue type : s^df
+A :  Because that get 's at both of the things we were trying to do ,
+
+dialogue type : s
+A :  the granularity , and the person can just self - assess and we don't have to argue about what these regions are .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : s^bk^rt
+A :  Mm - hmm .
+
+dialogue type : s^na
+A :  Yep , just which one .
+
+dialogue type : s^aa
+A :  I think that 's fine .
+
+dialogue type : s^aa
+A :  Yep .
+
+dialogue type : fg|qy^rt
+A :  Um , did you guys get my email on the multitrans ?
+
+dialogue type : %--
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : fg|s
+A :  Yeah . So . So . I I have a version also which actually displays all the channels .
+
+dialogue type : s
+A :  But it 's hideously slow .
+
+dialogue type : s
+A :  The what the ones I applied , that you can actually do are Dan 's , because it doesn't slow it down .
+
+dialogue type : s
+A :  Just uses a lot of memory .
+
+dialogue type : s
+A :  No , the the one that 's installed is fine .
+
+dialogue type : s
+A :  It 's not slow at all .
+
+dialogue type : s
+A :  I wrote another version . Which , instead of having the one pane with the one view , It has multiple panes with the views .
+
+dialogue type : s
+A :  But the problem with it is the drawing of those waveforms is so slow that every time you do anything it just crawls .
+
+dialogue type : sj^ba
+A :  It 's really bad .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  As you play , as you move , as you scroll .
+
+dialogue type : s^df
+A :  Just about anything , and it it was so slow it was not usable .
+
+dialogue type : s
+A :  So that 's why I didn't install it and didn't pursue it .
+
+dialogue type : fg|sj
+A :  So . I think that the one Dan has is usable enough .
+
+dialogue type : s
+A :  It doesn't display the others .
+
+dialogue type : s
+A :  It displays just the mixed signal .
+
+dialogue type : s
+A :  But you can listen to any of them .
+
+dialogue type : s^ar|s
+A :  No , he suggested that , but he didn't It 's not installed .
+
+dialogue type : s^ar
+A :  No . No .
+
+dialogue type : s^nd
+A :  Um , not if we 're going to use Tcl - TK At least not if we 're going to use Snack .
+
+dialogue type : s^e
+A :  I mean you would have to do something ourselves .
+
+dialogue type : s^cs.%--
+A : 
+
+dialogue type : %-
+A :  I mean .
+
+dialogue type : s^aap
+A :  We we could do that but that would mean changing the code .
+
+dialogue type : s
+A :  I mean this isn't a program we wrote .
+
+dialogue type : s
+A :  This is a program that we got from someone else , and we 've done patches on .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^ar
+A :  Not easily .
+
+dialogue type : s^aap^df
+A :  I mean y yes we could do that .
+
+dialogue type : s
+A :  You could you can write widgets in C .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^cs
+A :  Let 's try it with Dan 's and if that isn't enough , we can do it otherwise .
+
+dialogue type : sj|s^df
+A :  I think it is , cuz when I was playing with it , the mixed signal has it all in there .
+
+dialogue type : s
+A :  And so it 's really It 's not too bad to find places in the in the stream where things are happening .
+
+dialogue type : sj
+A :  So I I don't think it 'll be bad .
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  Depends on how much work they did .
+
+dialogue type : s
+A :  I think if if if one of us sat down and coded it , so that it could be displayed fast enough I 'm sure they would be quite willing to incorporate it .
+
+dialogue type : s
+A :  But it 's not a trivial task .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg|qy^rt^t^tc
+A :  anyway , shall we do digits ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qr.%--
+A :  Well , you want to go first ? Or .
+
+dialogue type : qr
+A :  Do you wanna go do digits or do you wanna just skip digits ?
+
+dialogue type : s^bk|s^co^t
+A :  Then Alright . You go ahead .
+
+dialogue type : qh^co
+A :  Why don't you read the digits ?
+
+dialogue type : s^aa|s^co
+A :  Yeah , don't Don't read the old one .
+
+dialogue type : z
+A :  OK
+
+dialogue type : z
+A :  And
+

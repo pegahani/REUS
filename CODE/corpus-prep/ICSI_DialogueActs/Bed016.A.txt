@@ -1,0 +1,789 @@
+dialogue type : z
+A :  Ah , so comfortable .
+
+dialogue type : z
+A :  Mm - hmm .
+
+dialogue type : z
+A :  Good .
+
+dialogue type : z
+A :  I know that he 's going to like , Taiwan and other places to eat .
+
+dialogue type : z
+A :  So .
+
+dialogue type : z
+A :  Yep . Yep .
+
+dialogue type : z
+A :  Bye .
+
+dialogue type : z
+A :  It 's definitely not the most frustrating meeting I 've ever had .
+
+dialogue type : z
+A :  Oh , yeah , so , w we didn't yet specify with whom .
+
+dialogue type : z
+A :  But um .
+
+dialogue type : z
+A :  So that 's why Keith and I are going to be a little dazed for the first half m the meeting .
+
+dialogue type : z
+A :  Mm - hmm .
+
+dialogue type : z
+A :  Are very appreciative ,
+
+dialogue type : z
+A :  yeah .
+
+dialogue type : z
+A :  What ?
+
+dialogue type : z
+A :  What ?
+
+dialogue type : z
+A :  Really ?
+
+dialogue type : z
+A :  Do we have to like , synchronize ?
+
+dialogue type : z
+A :  You 're kidding .
+
+dialogue type : z
+A :  And any rate ?
+
+dialogue type : z
+A :  Yeah , that 's true .
+
+dialogue type : z
+A :  OK .
+
+dialogue type : z
+A :  You lose .
+
+dialogue type : z
+A :  Are we gonna start all our meetings out that way from now on ?
+
+dialogue type : z
+A :  Oh . Too bad .
+
+dialogue type : z
+A :  I kinda like it .
+
+dialogue type : z
+A :  Yeah . It 's a ritual .
+
+dialogue type : qy^bu^d^rt
+A :  We are ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^nd
+A :  I haven't looked at it
+
+dialogue type : s^e^rt
+A :  yet ,
+
+dialogue type : s^cc
+A :  but I will .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : %--
+A :  Can I s
+
+dialogue type : s^fa
+A :  Sorry .
+
+dialogue type : s
+A :  Uh . He sent it .
+
+dialogue type : s^bk|s
+A :  OK . You can keep it .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  I 'm changing this .
+
+dialogue type : s
+A :  Just so you know .
+
+dialogue type : %--
+A :  But , anyway .
+
+dialogue type : s^bk
+A :  Oh . Oh , sorry .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^fa
+A :  Sorry .
+
+dialogue type : s^bk|s^cc
+A :  OK . I will .
+
+dialogue type : s^bk
+A :  OK . OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  We can talk about it later .
+
+dialogue type : s
+A :  That 's not even ready ,
+
+dialogue type : fh
+A :  so . Um ,
+
+dialogue type : fg|s^co^t
+A :  OK ! Go on t to , uh , whatever .
+
+dialogue type : s
+A :  I 'm making changes .
+
+dialogue type : s^co
+A :  " Don't worry about that . "
+
+dialogue type : b
+A :  OK . Mmm - mmm .
+
+dialogue type : s^bk|s^fa
+A :  Oh ! OK , sorry ,
+
+dialogue type : s^co
+A :  go on .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : fg
+A :  Anyway .
+
+dialogue type : s^co
+A :  And y uh , email any time ,
+
+dialogue type : s^e.%-
+A :  but most usefully before
+
+dialogue type : qy^bu^d^m^rt
+A :  The twenty - first ?
+
+dialogue type : s
+A :  Before the twenty - ninth ,
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^2
+A :  Easy parser .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^na
+A :  I could hear it .
+
+dialogue type : qy^d^rt
+A :  This was an actual , um , subject ?
+
+dialogue type : s^bk
+A :  Ah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : %--
+A :  Wh
+
+dialogue type : qw.%--
+A :  What is the s ?
+
+dialogue type : s^fe
+A :  Oh !
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s:qw^rt
+A :  I was like , " where 'd you get that ? "
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  " Looks familiar . "
+
+dialogue type : b
+A :  Uh .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^cs
+A :  You might just wanna like , tack that on , as a comment , to something .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK , right .
+
+dialogue type : s^bk|s^cs
+A : 
+
+dialogue type : s
+A :  well , that might have enough .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^cs
+A :  Which I can even email you then ,
+
+dialogue type : s
+A :  you know , like there probably was a little few changes ,
+
+dialogue type : s^ba
+A :  not a big deal .
+
+dialogue type : s
+A :  Yeah , you could steal anything you want ,
+
+dialogue type : s
+A :  I don't care .
+
+dialogue type : s
+A :  Which you 've already done , obviously .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^fa^t3
+A :  Sorry
+
+dialogue type : s^aa|s^na
+A :  No , you shouldn't .
+
+dialogue type : s^ba
+A :  Oh , that 's great , that 's great .
+
+dialogue type : s
+A :  I 'm glad to see propagation .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : s
+A :  It 's it 's certainly related ,
+
+dialogue type : fh
+A :  um ,
+
+dialogue type : s^cs
+A :  might wanna say .
+
+dialogue type : qy^bh^rt
+A :  Is it ?
+
+dialogue type : s^ba
+A :  Kind of a different level of analysis .
+
+dialogue type : qw^br^rt
+A :  What ?
+
+dialogue type : %-
+A :  O
+
+dialogue type : qw^br
+A :  What ?
+
+dialogue type : s^fe
+A :  Oh my god !
+
+dialogue type : qw
+A :  Of what
+
+dialogue type : s^bu^rt
+A :  the building ?
+
+dialogue type : s
+A :  And give them more money .
+
+dialogue type : s
+A :  They just want a fun place for them to to work .
+
+dialogue type : qy^bh
+A :  Really ?
+
+dialogue type : qy^rt
+A :  Does it exist yet ?
+
+dialogue type : qy^bu^d^rt
+A :  They are w now building it ?
+
+dialogue type : s^bk
+A :  Hmm .
+
+dialogue type : qy^bu^d^rt
+A :  On that one ?
+
+dialogue type : qy^bu^d^rt
+A :  In the presentation ?
+
+dialogue type : s^am
+A :  I 'll probably I c might have I 'll probably have comments for you separately ,
+
+dialogue type : s^ba
+A :  not important .
+
+dialogue type : fh
+A :  Anyway .
+
+dialogue type : s^aa|s^na
+A :  Yeah , that 's what he was talking about .
+
+dialogue type : s^2^bu
+A :  Metonymy and metaphor here ,
+
+dialogue type : qy^bu^d^g
+A :  right ?
+
+dialogue type : s^2^bu
+A :  That 's not about that ,
+
+dialogue type : qy^g^rt
+A :  is it ?
+
+dialogue type : fg|s
+A :  Yeah , " run into " might even be more impact sense than , you know , container sense .
+
+dialogue type : b
+A :  Mm - hmm . Mm - hmm .
+
+dialogue type : s
+A :  All contact .
+
+dialogue type : s
+A :  I mean , there there 's contact that doesn't social contact ,
+
+dialogue type : s^bd
+A :  whatever .
+
+dialogue type : %--
+A :  I mean .
+
+dialogue type : s^cs^j
+A :  Forceful .
+
+dialogue type : s^ba
+A :  Too bad .
+
+dialogue type : s^bd^ng
+A :  There 's there 's lots of things you could make T - shirts out of ,
+
+dialogue type : fh
+A :  but , uh ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : %--
+A :  I mean wh
+
+dialogue type : s
+A :  We don't need the words to that .
+
+dialogue type : qw^br
+A :  What ?
+
+dialogue type : s^ar|s
+A :  Oh , no no no no no no no no no , we 're not going there .
+
+dialogue type : fg
+A :  OK .
+
+dialogue type : s^bu.%-
+A :  So , w where it should illustrate
+
+dialogue type : qy^bu
+A :  uh wh when you say all this , do you mean , like , I don't know , the related work stuff ,
+
+dialogue type : qy^bu^e
+A :  as well as , mappings ?
+
+dialogue type : qy
+A :  Did you ?
+
+dialogue type : s^co^j
+A :  Join the club .
+
+dialogue type : b
+A :  I see .
+
+dialogue type : s^bk|s.%--
+A :  Yeah , it 's a little it 's ,
+
+dialogue type : s
+A :  uh we 've thought about it before , uh t uh to use the examples in other papers ,
+
+dialogue type : s^ba^ng
+A :  and it 's it 's a little complicated .
+
+dialogue type : s^df
+A :  Cuz you 're like , it 's a state of there 's resource ,
+
+dialogue type : qy^d^f^g
+A :  right ,
+
+dialogue type : qh
+A :  and like , what is film ,
+
+dialogue type : s
+A :  the state you know . You 're out of the state of having film , right ? and somehow film is standing for the re the resour the state of having some resource is just labeled as that resource .
+
+dialogue type : %-
+A :  I mean .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk|qy^rt
+A :  Yeah , is film the trajector ?
+
+dialogue type : s^ba
+A :  It 's weird .
+
+dialogue type : %-
+A : 
+
+dialogue type : fg|s
+A :  Or , " having " is also , um , associated with location ,
+
+dialogue type : qy^d^f^g
+A :  right ?
+
+dialogue type : s.%--
+A :  so if the film left ,
+
+dialogue type : s
+A :  you know state is being near film .
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : s^aap|s^aa
+A :  But that 's from run , yeah .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^aa|%--
+A :  Yeah . So th
+
+dialogue type : s^ba
+A :  That part is fine .
+
+dialogue type : fh
+A :  Uh .
+
+dialogue type : qy^br
+A :  There was ?
+
+dialogue type : qw
+A :  Who ?
+
+dialogue type : s^na
+A :  Oh , yeah , you 're right . Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  And undoubtably there 's been reams of work about it in cognitive linguistics ,
+
+dialogue type : fh
+A :  but .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s
+A :  It 's not one of the y it 's more straightforward ones forward ones to defend ,
+
+dialogue type : s
+A : 
+
+dialogue type : s^bu
+A :  th these are you 're addressing like , computational linguists ,
+
+dialogue type : qy^d^g^rt
+A :  right .
+
+dialogue type : qy^rt
+A :  Or are you ?
+
+dialogue type : s^bk|qr^d
+A :  OK . But more emphasis on the computational ? Or emphasis on the linguist ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : fg|s
+A :  Oh , I meant this ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  So I would try to I would stay away from one that involves weird construal stuff .
+
+dialogue type : s
+A : 
+
+dialogue type : fh
+A : 
+
+dialogue type : qy^bu^d^rt
+A :  Around ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^bk
+A :  Oh , oh yeah . Yeah ,
+
+dialogue type : s
+A :  we 've thought about that .
+
+dialogue type : b
+A :  Right . Right .
+
+dialogue type : b
+A :  Nnn .
+
+dialogue type : s^ar^fe
+A :  No .
+
+dialogue type : qw^br
+A :  What ?
+
+dialogue type : s^nd
+A :  " Bakery " can't be something you 're gonna eat .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^2
+A :  Where you can get baked goods .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s.%-
+A :  So it 's a lot of pragmatics , there , that
+
+dialogue type : s
+A :  might be beyond what you want to do .
+
+dialogue type : qy^bu^d.%-
+A :  You mean the s
+
+dialogue type : qy^bu^d^r^rt
+A :  You mean " the steak wants to pay " ?
+
+dialogue type : fg
+A :  Oh .
+
+dialogue type : b
+A :  Um .
+
+dialogue type : qw^rt
+A :  How much does it cost ?
+
+dialogue type : s^2^bu
+A :  To go in ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa|s^ba
+A :  Yeah , that 's good .
+
+dialogue type : %-
+A :  u
+
+dialogue type : s^2
+A :  Ellipsis .
+
+dialogue type : s:s
+A :  Like , " it " doesn't refer to " thing , "
+
+dialogue type : s.%--
+A :  it refers to acti you know , j
+
+dialogue type : s:s
+A : 
+
+dialogue type : s
+A :  you could think of it that way ,
+
+dialogue type : fh
+A :  but .
+
+dialogue type : s^aa|s^na
+A :  Yeah , yeah , no , I I agree .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^aa|s^na.%-
+A : 
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw^br
+A :  What ?
+
+dialogue type : s^bk|s:qw^br^rt
+A :  OK . I was like , " Huh ?
+
+dialogue type : s
+A :  It was here . "
+
+dialogue type : fh
+A :  Like Um .
+
+dialogue type : b
+A :  Ah !
+
+dialogue type : s
+A :  Or like its developmental state or something like that ,
+
+dialogue type : s^cs
+A :  you could I guess you could get that .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s
+A :  State .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^cs
+A :  So you want a more exotic one version of that .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : qy^am
+A :  Do you really say that ?
+
+dialogue type : qy^am^r^rt
+A :  Would you really say that ?
+
+dialogue type : s^aa|s.%-
+A : 
+
+dialogue type : s^m^na|s^aa
+A :  A fixed expression , yeah .
+
+dialogue type : s
+A :  There 're too there 're all sorts of fixed expressions
+
+dialogue type : s.%--
+A :  I don't like uh
+
+dialogue type : s:s^fe
+A :  " I 'm out of sorts now ! "
+
+dialogue type : s:s^fe
+A :  Like " I 'm in trouble ! "
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : qw^rt
+A :  Why don't you want to use any of those ?
+
+dialogue type : s^bu.%-
+A : 
+
+dialogue type : s
+A :  " I wanna go see the Van Gogh . "
+
+dialogue type : s^tc|s^fa
+A :  Anyway , I 'm sorry .
+
+dialogue type : qw^rt
+A :  Location versus what ?
+
+dialogue type : s^bk^m|s^bk
+A :  Instruction . Oh , directions ? Yeah .
+
+dialogue type : s^bu
+A :  Oh , I thought that was definitely treated as an example of construal .
+
+dialogue type : qy^d^f^g
+A :  Right ?
+
+dialogue type : s^bk
+A :  Oh , you want a lexical example .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa|s
+A :  Yeah . That 's the first one , I think .
+
+dialogue type : s^r
+A :  The very very first one .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mmm .
+

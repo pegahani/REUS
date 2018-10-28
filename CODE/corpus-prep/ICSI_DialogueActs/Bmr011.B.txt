@@ -1,0 +1,1491 @@
+dialogue type : z
+B :  Are we on ?
+
+dialogue type : z
+B :  We 're on .
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  Yeah .
+
+dialogue type : fg
+B :  OK ,
+
+dialogue type : fh
+B :  so , uh ,
+
+dialogue type : s
+B :  we haven't sent around the agenda .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : %--
+B :  i
+
+dialogue type : qo^rt
+B :  uh , any agenda items anybody has , wants to talk about , what 's going on ?
+
+dialogue type : qy^d^rt
+B :  It 's on ?
+
+dialogue type : s
+B :  OK , agenda item one ,
+
+dialogue type : s
+B :  introduce Don .
+
+dialogue type : s
+B :  OK , we did that .
+
+dialogue type : fh
+B :  Uh
+
+dialogue type : s^bk|s
+B :  OK , so let 's let 's So let 's just do agenda building right now .
+
+dialogue type : s
+B :  OK , so let 's talk about that a bit .
+
+dialogue type : s
+B :  Uh , @ @ tuss close talking mikes ,
+
+dialogue type : s
+B :  better quality .
+
+dialogue type : s^cc
+B :  OK , uh , we can talk about that .
+
+dialogue type : qy^bu^d^rt
+B :  You were gonna starting to say something ?
+
+dialogue type : s^bd^rt|s^aa^rt
+B :  No , no , that 's OK .
+
+dialogue type : s
+B :  We can so we can ta so n NIST is NIST folks are coming by next week
+
+dialogue type : s^cc^rt
+B :  and so we can talk about that .
+
+dialogue type : s.%-
+B :  I think
+
+dialogue type : fh|s^rt
+B :  Uh , uh , John Fiscus
+
+dialogue type : s
+B :  and , uh , I think George Doddington will be around as well .
+
+dialogue type : fh|s
+B :  Uh , OK , so we can talk about that .
+
+dialogue type : s
+B :  Uh , I guess just hear about how things are going with , uh , uh , the transcriptions .
+
+dialogue type : qy^d^f^g^rt
+B :  That 's right .
+
+dialogue type : s^rt^t
+B :  That would sorta be an obvious thing to discuss .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : qo^t
+B :  An - anything else , uh , strike anybody ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg
+B :  Um ,
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^t
+B :  Alright , that seems like a a good collection of things .
+
+dialogue type : s
+B :  And we 'll undoubtedly think of other things .
+
+dialogue type : s^bs
+B :  Oh , under the NIST meeting .
+
+dialogue type : s^bk^rt
+B :  OK .
+
+dialogue type : s^cs
+B :  Alright , why don't we start off with this ,
+
+dialogue type : fh
+B :  u u
+
+dialogue type : s
+B :  I guess the order we brought them up seems fine .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : fg|s
+B :  so , better quality close talking mikes .
+
+dialogue type : s
+B :  So the one issue was that the the , uh , lapel mike , uh , isn't as good as you would like .
+
+dialogue type : s^bu
+B :  And so , uh , it it 'd be better if we had close talking mikes for everybody .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : qy^rt
+B :  Is that is that basically the point ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg|s.%-
+B :  Right , so one th
+
+dialogue type : s
+B :  uh , well one thing I was gonna say was that , um , i we could get more , uh , of the head mounted microphones
+
+dialogue type : s
+B :  even beyond the number of radio channels we have
+
+dialogue type : s
+B :  because I think whether it 's radio or wire is probably second - order .
+
+dialogue type : s
+B :  And the main thing is having the microphone close to you ,
+
+dialogue type : s^bd^df
+B :  u although , not too close .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^na
+B :  Is .
+
+dialogue type : b
+B :  Yes .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : qw.%-
+B :  How am I d
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Well , I mean it doesn't hurt to have a few extra microphones around ,
+
+dialogue type : s^cs.%--
+B :  so why don't we just go out and and get an order of of
+
+dialogue type : s
+B :  if this microphone seems OK to people ,
+
+dialogue type : s^cs
+B :  uh , I 'd just get a half dozen of these things .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ar|s.%-
+B : 
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  Right now , we 've got , uh , two microphones in the room , that are not quote - unquote standard .
+
+dialogue type : s^cs.%-
+B : 
+
+dialogue type : s
+B :  Well , however many we can plug in .
+
+dialogue type : s
+B :  You know , if we can plug in three , let 's plug in three .
+
+dialogue type : s
+B :  Also what we 've talked before about getting another , uh , radio ,
+
+dialogue type : s
+B :  and so then that would be , you know , three more .
+
+dialogue type : s^co
+B :  So , uh so we should go out to our full complement of whatever we can do ,
+
+dialogue type : s
+B :  but have them all be the same mike .
+
+dialogue type : s
+B :  I think the original reason that it was done the other way was because , it w it was sort of an experimental thing
+
+dialogue type : s
+B :  and I don't think anybody knew whether people would rather have more variety or or , uh , more uniformity ,
+
+dialogue type : fh
+B :  but @ @ but uh ,
+
+dialogue type : s^ba
+B :  sounds sounds fine .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Now , this is locking the barn door after the horse was stolen .
+
+dialogue type : s
+B :  We do have thirty hours , of of speech , which is done this way .
+
+dialogue type : %--
+B : 
+
+dialogue type : fh|s
+B :  but , uh , yeah , for future ones we can get it a bit more uniform .
+
+dialogue type : s
+B :  Yeah , probably yeah , to the store we talked about
+
+dialogue type : %--
+B : 
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  Uh ,
+
+dialogue type : s^bk|s^t
+B :  OK , second item was the , uh , NIST visit , and what 's going on there .
+
+dialogue type : fg|s^t.%--
+B : 
+
+dialogue type : s^bsc
+B :  or maybe it 's No , actually it 's this week ,
+
+dialogue type : fh|s
+B :  uh , Dave Gelbart and I will be , uh , visiting with John Canny
+
+dialogue type : s^e
+B :  who i you know , is a CS professor ,
+
+dialogue type : s^e
+B :  who 's interested in ar in array microphones .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  And so we wanna see what commonality there is here .
+
+dialogue type : s^cs
+B :  You know , maybe they 'd wanna stick an array mike here when we 're doing things
+
+dialogue type : s
+B :  or or maybe it 's it 's not a specific array microphone they want
+
+dialogue type : s^cs
+B : 
+
+dialogue type : fh|s.%--
+B : 
+
+dialogue type : s
+B :  So , w uh , we 'll be over over there talking with him , um , after class on Friday .
+
+dialogue type : fh|s^cc
+B :  Um , we 'll let you know what what goes with that .
+
+dialogue type : s^tc
+B :  Also had a completely unrelated thing . I had a , uh , discussion today with , uh , Birger Kollmeier who 's a , uh , a German , uh , scientist
+
+dialogue type : s^e
+B :  who 's got a fair sized group doing a range of things .
+
+dialogue type : s^e
+B :  It 's sort of auditory related , largely for hearing aids and so on .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  but , uh , he does stuff with auditory models and he 's very interested in directionality , and location , and and , uh , head models and microphone things .
+
+dialogue type : fh|s.%--
+B :  And so , uh , he 's he and possibly a student , there w
+
+dialogue type : s
+B :  there 's , uh , a student of his who gave a talk here last year ,
+
+dialogue type : s
+B :  uh , may come here , uh , in the fall for , uh , sort of a five month , uh , sabbatical .
+
+dialogue type : s
+B :  So he might be around .
+
+dialogue type : s
+B :  Get him to give some talks and so on .
+
+dialogue type : s
+B :  But anyway , he might be interested in this stuff .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^na
+B :  A little bit ,
+
+dialogue type : s.%-
+B :  I mean , he didn't do a very extreme thing but just it was just sort of
+
+dialogue type : s
+B :  e e given that , the the the block of wood with the the the two mikes on either side ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  if if someone who was on the axis between the two is talking , then you you get a big peak there .
+
+dialogue type : s
+B :  And if if someone 's talking on on on , uh , one side or the other , it goes the other way .
+
+dialogue type : s
+B :  And then , uh , it it it even looks different if th t if the two two people on either side are talking than if one in the middle .
+
+dialogue type : s^r
+B :  It it actually looks somewhat different ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : fg|s
+B :  Yeah , well you have to the appropriate normalizations are tricky , and and and are probably the key .
+
+dialogue type : fg|s^ng
+B : 
+
+dialogue type : s^tc
+B :  Anyway .
+
+dialogue type : s^tc
+B :  OK .
+
+dialogue type : s^t
+B :  So those are just a little couple of news items .
+
+dialogue type : s^aa
+B :  Yes .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^ar
+B :  Probably not
+
+dialogue type : s^e
+B :  but I I 'll I 'll I 'll know better after I see him this Friday what what kind of level he wants to get involved .
+
+dialogue type : s
+B :  Uh , he might be excited to and it might be very appropriate for him to , uh , or he might have no interest whatsoever .
+
+dialogue type : s^no
+B :  I I just really don't know .
+
+dialogue type : s^na
+B :  Well that 's what they 're starting up .
+
+dialogue type : s
+B :  Yeah . No , I mean , that 's what all this is about . They they haven't done it yet .
+
+dialogue type : s^e
+B : 
+
+dialogue type : s
+B :  Uh , well I think they 've instrumented a room
+
+dialogue type : s
+B :  but I don't think they they haven't started recordings yet .
+
+dialogue type : s
+B :  They don't have the t the transcription standards .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^am
+B :  I think .
+
+dialogue type : s^am^r
+B :  I think they are .
+
+dialogue type : s^no
+B :  Well , I 'm I 'm I 'm not sure .
+
+dialogue type : s
+B :  All all I know is that they 've been talking to me about a project that they 're going to start up recording people meet in meetings .
+
+dialogue type : s
+B :  And , uh , it is related to ours .
+
+dialogue type : s
+B :  They were interested in ours .
+
+dialogue type : s
+B :  They wanted to get some uniformity with us , uh , about the transcriptions and so on .
+
+dialogue type : s.%--
+B :  And one one notable difference u u
+
+dialogue type : s^no
+B :  actually I can't remember whether they were going to routinely collect video or not ,
+
+dialogue type : s
+B :  but one one , uh , difference from the audio side was that they are interested in using array mikes .
+
+dialogue type : fh|s
+B :  So , um , I mean , I 'll just tell you the party line on that .
+
+dialogue type : s^df
+B :  The reason I didn't go for that here was because , uh , the focus , uh , both of my interest and of Adam 's interest was uh , in impromptu situations .
+
+dialogue type : fh
+B :  And
+
+dialogue type : s
+B :  we 're not recording a bunch of impromptu situations
+
+dialogue type : s^df
+B :  but that 's because it 's different to get data for research than to actually apply it .
+
+dialogue type : s^df
+B :  And so , uh , for scientific reasons we thought it was good to instrument this room as we wanted it .
+
+dialogue type : s
+B :  But the thing we ultimately wanted to aim at was a situation where you were talking with , uh , one or more other people i uh , in in an p impromptu way , where you didn't didn't actually know what the situation was going to be .
+
+dialogue type : s
+B :  And therefore it would not it 'd be highly unlikely that room would be outfitted with with some very carefully designed array of microphones .
+
+dialogue type : fh|s^df
+B :  Um , so it was only for that reason . It was just , you know , yet another piece of research
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^ar|s^ng
+B :  No . So there 's there 's uh , there 's a whole range of things there 's a whole array of things , that people do on this .
+
+dialogue type : fh
+B :  So , um ,
+
+dialogue type : s.%--
+B :  the , uh the big arrays ,
+
+dialogue type : s^e
+B :  uh , places , uh , like uh , Rutgers , and Brown , and other other places ,
+
+dialogue type : s
+B :  uh , they have , uh , big arrays with , I don't know , a hundred hundred mikes or something .
+
+dialogue type : s
+B :  And so there 's a wall of mikes .
+
+dialogue type : s
+B :  And you get really , really good beam - forming with that sort of thing .
+
+dialogue type : s.%--
+B :  And it 's and , um ,
+
+dialogue type : s
+B :  in fact at one point we had a a proposal in with Rutgers where we were gonna do some of the sort of per channel signal - processing
+
+dialogue type : s
+B :  and they were gonna do the multi - channel stuff ,
+
+dialogue type : s
+B :  but it d it d we ended up not doing it .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^ba
+B :  Yeah , it 's r It 's really neat stuff .
+
+dialogue type : s^aa^m
+B :  And then they had the little ones , yeah .
+
+dialogue type : s^aa|s^j
+B :  Yeah , our block of wood is unique .
+
+dialogue type : %--
+B :  But the But the
+
+dialogue type : s
+B :  No , there are these commercial things now you can buy that have four mikes or something
+
+dialogue type : fh
+B :  and and , uh ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  So , yeah , there 's there 's there 's a range of things that people do .
+
+dialogue type : fh|s
+B :  Um , so if we connected up with somebody who was interested in doing that sort of thing that 's that 's a good thing to do .
+
+dialogue type : s
+B :  I mean , whenever I 've described this to other people who are interested on the with the acoustic side that 's invariably the question they ask .
+
+dialogue type : s:qy
+B :  Just like someone who is interested in the general dialogue thing will always ask " um , are you recording video ? "
+
+dialogue type : fh|qy^d^g^rt
+B :  Um , right ?
+
+dialogue type : s:qy
+B :  And and the acoustic people will always say , " well are you doing , uh , uh , array microphones ? "
+
+dialogue type : s
+B :  So it 's it 's a good thing to do , but it doesn't solve the problem of how do you solve things when there 's one mike or at best two mikes in in this imagined PDA that we have .
+
+dialogue type : s^cs
+B :  So maybe maybe we 'll do some more of it .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  But if you get somebody who 's who who has that as a primary interest then that put then that drives it in that direction .
+
+dialogue type : h|s^aap
+B :  Well , uh , at some level at some level .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : %--
+B : 
+
+dialogue type : s^no
+B :  I I don't know what they 're going to do and I don't know how big their array is .
+
+dialogue type : s
+B :  Obviously if you were gonna save all of those channels for later research you 'd use up a lot of space .
+
+dialogue type : %-
+B :  And , th
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^cs
+B :  But I mean , uh , for optimum flexibility later you 'd want to save each channel .
+
+dialogue type : s^cs
+B :  But I think in practical situations you would have some engine of some sort doing some processing to reduce this to some to the equivalent of a single microphone that was very directional .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  See the problem is it it took , uh , uh , it took at least six months for Dan to get together the hardware and the software , and debug stuff in in the microphones , and in the boxes .
+
+dialogue type : s^ba
+B :  And it was a really big deal .
+
+dialogue type : s
+B :  And so I think we could get a microphone array in here pretty easily
+
+dialogue type : s
+B :  and , uh , have it mixed to to one channel of some sort .
+
+dialogue type : s.%--
+B :  But , e I think for
+
+dialogue type : qw.%--
+B : 
+
+dialogue type : s
+B :  For for maximum flexibility later you really don't want to end up with just one channel that 's pointed in the direction of the the the p the person with the maximum energy or something like that .
+
+dialogue type : s^cs.%--
+B : 
+
+dialogue type : s
+B :  And to do that , it we 're going to end up greatly increasing the disk space that we use up ,
+
+dialogue type : s
+B :  we also only have boards that will take up to sixteen channels
+
+dialogue type : s
+B :  and in this meeting , we 've got eight people and and six mikes .
+
+dialogue type : s^rt
+B :  And there we 're already using fourteen .
+
+dialogue type : %--
+B :  E
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Yeah . So I think you 'd need a separate a separate set up
+
+dialogue type : s
+B :  and the assumption that you could time align the two .
+
+dialogue type : s^nd
+B :  I 'm not so much worried about disk space actually .
+
+dialogue type : s
+B :  I mentioned that , b as a practical matter ,
+
+dialogue type : s
+B :  but the real issue is that , uh , there is no way to do a recording extended to what we have now with low skew .
+
+dialogue type : s
+B :  So you would have a t completely separate set up ,
+
+dialogue type : s
+B :  which would mean that the sampling times and so forth would be all over the place compared to this .
+
+dialogue type : s
+B :  So it would depend on the level of pr processing you were doing later ,
+
+dialogue type : s
+B :  but if you 're d i the kind of person who 's doing array processing you actually care about funny little times .
+
+dialogue type : s^rt
+B :  And and so you actually wou would want to have a completely different set up than we have ,
+
+dialogue type : s
+B :  one that would go up to thirty - two channels or something .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa^m.%--
+B :  or a hun
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  So , I 'm kinda skeptical ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^rt
+B :  So , uh , I don't think we can share the resource in that way .
+
+dialogue type : s
+B :  But what we could do is if there was someone else who 's interested they could have a separate set up which they wouldn't be trying to synch with ours
+
+dialogue type : s
+B :  which might be useful for for them .
+
+dialogue type : s^rt
+B :  And then we can offer up the room ,
+
+dialogue type : s^aa|s
+B :  Yeah , we can o offer the meetings , and the physical space ,
+
+dialogue type : s
+B :  and and yeah , the transcripts , and so on .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%--
+B :  Well I thi
+
+dialogue type : fh|s
+B :  yeah , the thing will be , u u in in again , in talking to these other people to see what you know , what what we can do .
+
+dialogue type : s^cc
+B :  Uh , we 'll see .
+
+dialogue type : fg|%-
+B : 
+
+dialogue type : fg|s
+B :  Yeah , so it 's , uh , people people getting shy about it .
+
+dialogue type : s
+B :  There 's this human subjects problem .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  i I I 've heard comments about this before ,
+
+dialogue type : s:qw
+B :  " why don't you just put on a video camera ? "
+
+dialogue type : s
+B :  But you know , it 's sort of like saying , " uh , well we 're primarily interested in in some dialogue things ,
+
+dialogue type : qo^df
+B :  uh , but , uh , why don't we just throw a microphone out there . "
+
+dialogue type : s
+B :  I mean , the thing is , once you actually have serious interest in any of these things then you actually have to put a lot of effort in .
+
+dialogue type : s^cs
+B :  And , uh , you really want to do it right .
+
+dialogue type : s
+B :  So I think NIST or LDC , or somebody like that I think is much better shape to do all that .
+
+dialogue type : s
+B :  We there will be other meeting recordings . We won't be the only place doing meeting recordings .
+
+dialogue type : s
+B :  We are doing what we 're doing .
+
+dialogue type : s^ba
+B :  And , uh , hopefully it 'll be useful .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^j
+B :  we don't we don't perform electro - shock during these meetings ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg|s
+B :  Uh , transcriptions .
+
+dialogue type : s^bu.%--
+B : 
+
+dialogue type : qy^bu^rt
+B :  Are you ?
+
+dialogue type : s
+B :  But they 're not giving f really fine time markings .
+
+dialogue type : h|s
+B :  Um , it 's historical .
+
+dialogue type : fh
+B :  I mean ,
+
+dialogue type : s
+B :  uh , some point ago we thought that uh , it " boy , we 'd really have to ramp up to do that " ,
+
+dialogue type : s^rt
+B :  you know , like we just did ,
+
+dialogue type : s
+B :  and , um , here 's , uh , a a , uh , collaborating institution that 's volunteered to do it .
+
+dialogue type : s
+B :  So , that was a contribution they could make . Uh in terms of time , money , you know ?
+
+dialogue type : s^cs
+B :  And it still might be a good thing
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk^r
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah ,
+
+dialogue type : b
+B :  so .
+
+dialogue type : s^co
+B :  We 'll see .
+
+dialogue type : s^co
+B :  I mean , I think , th you know , they they they 've proceeded along a bit . Let 's see what comes out of it , and and , uh , you know , have some more discussions with them .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^am
+B :  I I think that they are ,
+
+dialogue type : fh
+B :  um ,
+
+dialogue type : s^aa
+B :  yeah , I 'm sure they will
+
+dialogue type : s^co
+B :  and so we we have to have a dialogue with them about it .
+
+dialogue type : s
+B :  I mean , it sounds like Liz has some concerns
+
+dialogue type : fh
+B : 
+
+dialogue type : s^ba
+B :  That 's great .
+
+dialogue type : s.%--
+B :  I guess the other thing ,
+
+dialogue type : s
+B :  I I can't remember if we discussed this in the meeting but , uh , I know you and I talked about this a little bit ,
+
+dialogue type : s.%--
+B :  there was an issue of , uh ,
+
+dialogue type : s.%--
+B :  suppose we get in the , uh ,
+
+dialogue type : s^rt
+B :  I guess it 's enviable position although maybe it 's just saying where the weak link is in the chain ,
+
+dialogue type : s.%--
+B :  uh , where we we ,
+
+dialogue type : fh
+B :  uh uh ,
+
+dialogue type : s
+B :  we have all the data transcribed
+
+dialogue type : s^rt
+B :  and we have these transcribers
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  at that point we 've caught up
+
+dialogue type : s
+B :  and the the the , uh , the weak link is is recording meetings .
+
+dialogue type : s^f
+B :  OK ,
+
+dialogue type : h
+B :  um ,
+
+dialogue type : qw.%--
+B : 
+
+dialogue type : s
+B :  uh , it 's not really a problem at the moment cuz we haven't reached that point
+
+dialogue type : qw
+B :  but how do we step out the recorded meetings ?
+
+dialogue type : qy
+B :  And the other one is , um , uh , is there some good use that we can make of the transcribers to do other things ?
+
+dialogue type : s
+B :  So , um , I I can't remember how much we talked about this in this meeting
+
+dialogue type : s.%-
+B : 
+
+dialogue type : fg|s
+B :  Right , so I think we talking about three level three things .
+
+dialogue type : s
+B :  One one was uh , we had s had some discussion in the past about some very high level labelings ,
+
+dialogue type : s^bk^m
+B :  types of overlaps , and so forth that that someone could do .
+
+dialogue type : s
+B :  Second was , uh , somewhat lower level
+
+dialogue type : s
+B :  just doing these more precise timings .
+
+dialogue type : s
+B :  And the third one is is , uh , just a completely wild hair brained idea that I have
+
+dialogue type : s
+B :  which is that , um , if , uh if we have time and people are able to do it , to take some subset of the data and do some very fine grained analysis of the speech .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  potentially overlapping fashion , uh , the value of , uh , ar articulatory features .
+
+dialogue type : s^rt
+B :  You know , just sort of say , OK , it 's voiced from here to here ,
+
+dialogue type : s
+B :  there 's it 's nasal from here to here , and so forth .
+
+dialogue type : fh|s
+B :  Um , as opposed to doing phonetic uh , you know , phonemic and the phonetic analysis ,
+
+dialogue type : s
+B :  and , uh , assuming , uh , articulatory feature values for those those things .
+
+dialogue type : fh|s^bd^df
+B :  Um , obviously that 's extremely time - consuming .
+
+dialogue type : fh
+B : 
+
+dialogue type : fh
+B :  but , uh ,
+
+dialogue type : s^cs
+B :  we could do it on some small subset .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^am
+B :  Well , yeah ,
+
+dialogue type : s^arp^ng
+B :  but I think also it 's just the issue that that when you look at the u w u u when you look at Switchboard for instance very close up there are places where whether it 's a consonant or a vowel you still have trouble calling it a particular phone
+
+dialogue type : s
+B :  at that point
+
+dialogue type : s^df
+B :  because it 's you know , there 's this movement from here to here
+
+dialogue type : s.%-
+B : 
+
+dialogue type : %-
+B :  so I
+
+dialogue type : s^aa|s^cs
+B :  Yeah , describe describe it .
+
+dialogue type : s
+B :  Now I 'm suggesting articulatory features .
+
+dialogue type : s
+B :  Maybe there 's there 's even a better way to do it
+
+dialogue type : s
+B :  but it but but that 's , you know , sort of a traditional way of describing these things ,
+
+dialogue type : fh
+B :  um , and uh ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aap
+B :  Sort of .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  some sort of categories
+
+dialogue type : s^cs
+B :  but but something that allows for overlapping change of these things
+
+dialogue type : s^ba:s^fe
+B :  and then this would give some more ground work for people who were building statistical models that allowed for overlapping changes , different timing changes as opposed to just " click ,
+
+dialogue type : s
+B :  you 're now in this state , which corresponds to this speech sound " and so on .
+
+dialogue type : s^na
+B :  Yeah , something like that .
+
+dialogue type : s^cs
+B :  I mean , actually if we get into that it might be good to , uh , uh , haul John Ohala into this
+
+dialogue type : s^cs
+B :  and ask his his views on it I think .
+
+dialogue type : s
+B :  No , I think I think it 's for for for that purpose I 'm just viewing meetings as being a a neat way to get people talking naturally .
+
+dialogue type : s
+B :  And then you have i and then and then it 's natural in all senses ,
+
+dialogue type : s
+B :  in the sense that you have microphones that are at a distance that you know , one might have ,
+
+dialogue type : s
+B :  and you have the close mikes ,
+
+dialogue type : s
+B :  and you have people talking naturally .
+
+dialogue type : s
+B :  And the overlap is just indicative of the fact that people are talking naturally ,
+
+dialogue type : qy^d^f^g^rt
+B :  right ?
+
+dialogue type : s.%--
+B :  So so I think that given that it 's that kind of corpus ,
+
+dialogue type : s.%--
+B :  if it 's gonna be a very useful corpus
+
+dialogue type : s:s
+B :  um , if you say w OK , we 've limited the use by some of our , uh , uh , censored choices ,
+
+dialogue type : s
+B :  we don't have the video , we don't and so forth ,
+
+dialogue type : s^df
+B :  but there 's a lot of use that we could make of it by expanding the annotation choices .
+
+dialogue type : s
+B :  And , uh , most of the things we 've talked about have been fairly high level ,
+
+dialogue type : s
+B :  and being kind of a bottom - up person I thought maybe we 'd , do some of the others .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah
+
+dialogue type : s
+B :  and hopefully someone would make use of it .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  uh , I mean , people have made a lot of use of of TIMIT
+
+dialogue type : s
+B :  and , uh w due to its markings ,
+
+dialogue type : s
+B :  and then the Switchboard transcription thing ,
+
+dialogue type : s^df
+B :  well I think has been very useful for a lot of people .
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bu
+B :  Cuz they have something like three or four different meetings ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yes .
+
+dialogue type : s^ba
+B :  Great .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  He - he 's supposed he 's supposed to be trained to do it .
+
+dialogue type : b^rt
+B :  Mm - hmm .
+
+dialogue type : s
+B :  I think they 're open to it .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  we should go beyond , uh , ICSI
+
+dialogue type : s
+B :  but , I mean , there 's a lot of stuff happening at ICSI that we 're not getting now that we could .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^aa|%-
+B : 
+
+dialogue type : s^ar
+B :  No , no . No .
+
+dialogue type : s
+B :  So th there was the thing in Fillmore 's group
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  What he 'd said " no " to was for the main meeting .
+
+dialogue type : s
+B :  But they have several smaller meetings a week ,
+
+dialogue type : s
+B :  and , uh , the notion was raised before that that could happen .
+
+dialogue type : s
+B :  And it just , you know it just didn't come together
+
+dialogue type : %-
+B : 
+
+dialogue type : s^aa
+B :  Yeah . Yeah .
+
+dialogue type : fg|s^rt
+B :  Yeah , so I mean there 's possibilities there .
+
+dialogue type : s
+B :  I think Jerry 's group , yes .
+
+dialogue type : s
+B :  Uh , there 's there 's , uh , the networks group ,
+
+dialogue type : s^bd
+B : 
+
+dialogue type : qy^rt
+B :  Do they still meeting regularly
+
+dialogue type : qrr.%--
+B :  or ?
+
+dialogue type : qy^rt
+B :  But I mean , ha ha have they said they don't want to anymore
+
+dialogue type : qrr.%--
+B :  or ?
+
+dialogue type : %-
+B :  Uh , i i
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  OK , so they 're down to three or four people
+
+dialogue type : s^df
+B :  but the thing is three or four people is OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : fg
+B :  Yeah ,
+
+dialogue type : s^j
+B :  with with with potential use from the defense department .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ng.%-
+B :  Yeah . Yeah , th there 's a problem there in terms of , uh , the um commercial value of of st uh ,
+
+dialogue type : s
+B :  it it it it turned out to be a bit of a problem .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^2
+B :  Of all all nat all native speakers .
+
+dialogue type : qw^rt
+B :  Why ?
+
+dialogue type : s^nd.%-
+B : 
+
+dialogue type : s^na
+B :  I bet he did .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  this was in Wall Street Journal days or something ,
+
+dialogue type : s^e
+B :  they trained on American English
+
+dialogue type : s^e
+B :  and then they tested on , uh , different native speakers from different areas .
+
+dialogue type : fh
+B :  And , uh ,
+
+dialogue type : fh|s
+B :  uh , the worst match was people whose native tongue was Mandarin Chinese .
+
+dialogue type : s
+B :  The second worst was British English .
+
+dialogue type : %--
+B :  So h it 's , you know , t
+
+dialogue type : s
+B :  the the the German was much better ,
+
+dialogue type : s^j.%--
+B :  it was Swiss w
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  so I think , you know , if he 's if he 's thinking in terms of recognition kind of technology I I I think he would probably want , uh American English ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^am
+B :  I think so ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : s^aa^r
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  It 's pretty tough , uh , this group . Yeah .
+
+dialogue type : fh|qw^cs
+B :  So , uh , what about what about people who involved in some artistic endeavor ?
+
+dialogue type : s^e
+B :  I mean , film - making or something like that .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk
+B :  Yeah , I know you are .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^cs^j:s^co^j
+B :  Put a little ad up saying , " come here and argue " .
+
+dialogue type : s.%-
+B :  They could have a discussion about te
+
+dialogue type : s
+B :  about about tax cuts or something .
+
+dialogue type : s^nd.%-
+B : 
+
+dialogue type : s^nd
+B :  Yeah , but we don't want them to throw the far field mikes is the thing .
+
+dialogue type : b
+B :  Yeah . Anyway .
+
+dialogue type : s^t^tc:s
+B :  I had as my fourth thing here processing of wave forms .
+
+dialogue type : qw^rt^t
+B :  What did we mean by that ?
+
+dialogue type : qy^d^rt
+B :  Remember @ @ ?
+
+dialogue type : s^bk
+B :  Oh ,
+
+dialogue type : s^m
+B :  you already did that .
+
+dialogue type : s^aa|s^2
+B :  Yeah , and Dave uh Gel - Gelbart again ,
+
+dialogue type : s
+B :  he 's he 's interested in in fact we 're look starting to look at some echo cancellation kind of things .
+
+dialogue type : %-
+B : 
+
+dialogue type : b^rt
+B :  Hmm ?
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bu
+B :  t No , so No , i w wha what you what you want when you 're saying improving the wave form you want the close talking microphone to be better .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : qw
+B :  And the question is to w to what extent is it getting hurt by , uh by any room acoustics
+
+dialogue type : qrr
+B :  or is it just uh , given that it 's close it 's not a problem ?
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk|%-
+B : 
+
+dialogue type : b
+B :  OK .
+
+dialogue type : fg
+B :  O K ,
+
+dialogue type : fh
+B :  uh
+
+dialogue type : s^cs
+B :  tea has started out there I suggest we c run through our digits
+
+dialogue type : fh
+B :  and ,
+
+dialogue type : %--
+B :  Uh ,
+
+dialogue type : fg
+B :  So ,
+
+dialogue type : s^t
+B :  OK , we 're done .
+

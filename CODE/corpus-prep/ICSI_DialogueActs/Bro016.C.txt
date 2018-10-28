@@ -1,0 +1,84 @@
+dialogue type : z
+C :  Test .
+
+dialogue type : s^nd
+C :  I don't have results yet .
+
+dialogue type : h|s
+C :  Uh , to try to found , nnn , robust feature for detect between voice and unvoice .
+
+dialogue type : s^rt
+C :  And we w we try to use the variance of the es difference between the FFT spectrum and mel filter bank spectrum .
+
+dialogue type : s
+C :  Uh , also the another parameter is relates with the auto - correlation function .
+
+dialogue type : s^e
+C :  R - ze energy and the variance a also of the auto - correlation function .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^df
+C :  But we don't have res we don't have result of the AURO for Aurora yet .
+
+dialogue type : s
+C :  We need to train the neural network
+
+dialogue type : fh
+C : 
+
+dialogue type : s^ar
+C :  No ,
+
+dialogue type : s^nd
+C :  not yet .
+
+dialogue type : s
+C :  Well , we work in the report , too ,
+
+dialogue type : s^df
+C :  because we have a lot of result ,
+
+dialogue type : s^df
+C :  they are very dispersed ,
+
+dialogue type : s^df
+C :  and was necessary to to look in all the directory to to to give some more structure .
+
+dialogue type : b
+C :  Hm - hmm .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^m^na
+C :  For ICSI .
+
+dialogue type : s^df
+C :  Just summary of the experiment and the conclusion
+
+dialogue type : %--
+C :  and
+
+dialogue type : s^e
+C :  something like that .
+
+dialogue type : h|s
+C :  Uh , in July .
+
+dialogue type : s^e
+C :  First of July .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s.%-
+C :  It 's not .
+
+dialogue type : s^2
+C :  Uh , for a v VAD .
+
+dialogue type : b
+C :  Hmm .
+

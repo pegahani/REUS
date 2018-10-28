@@ -1,0 +1,993 @@
+dialogue type : z
+A :  Ear - plug .
+
+dialogue type : z
+A :  Is that Does that mean you can't hear anything during the meeting ?
+
+dialogue type : s^bd^df
+A :  Oh . I just meant that that was the release date that you had on the data .
+
+dialogue type : %-
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  That 's right .
+
+dialogue type : s^na
+A :  That 's why .
+
+dialogue type : s
+A :  You said you wanted it to be available then .
+
+dialogue type : s^bd
+A :  I didn't mean it to be the hard deadline .
+
+dialogue type : s
+A :  It 's fine with me if it is ,
+
+dialogue type : s^cs.%-
+A :  or we cou
+
+dialogue type : s
+A :  But I thought it might be good to remind people two weeks prior to that
+
+dialogue type : s.%-
+A :  in case , uh you know , " by the way this is your last "
+
+dialogue type : fh
+A :  Uh . Yeah .
+
+dialogue type : s^aa
+A :  That 's right .
+
+dialogue type : s
+A :  And he 's got it so that the default thing you see when you look at the page is " OK " .
+
+dialogue type : s
+A :  So that 's very clear
+
+dialogue type : s
+A :  all the way down the page , " OK " .
+
+dialogue type : s
+A :  And they have two options
+
+dialogue type : s
+A :  they can change it to . One
+
+dialogue type : qh
+A :  Is it is your word is " incorrect " ?
+
+dialogue type : s
+A :  Which means also we get feedback on if um , there 's something that they w that needs to be adjusted ,
+
+dialogue type : s^df^rt
+A :  because , I mean , these are very highly technical things .
+
+dialogue type : s
+A :  I mean , it 's an added , uh , level of checking on the accuracy of the transcription , as I see it .
+
+dialogue type : s
+A :  But in any case , people can agree to things that are wrong .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  was because it , um it gives them the option of , uh , being able to correct it .
+
+dialogue type : s
+A :  Approve it and correct it .
+
+dialogue type : fh
+A :  And um .
+
+dialogue type : s
+A :  So , you have it nicely set up so they email you
+
+dialogue type : %-
+A : 
+
+dialogue type : fg
+A :  Mm - hmm . Mm - hmm .
+
+dialogue type : s^rt
+A :  And I wanted to say the meetings that are involved in that set are Robustness and Meeting Recorder .
+
+dialogue type : s
+A :  The German ones will be ready for next week .
+
+dialogue type : s
+A :  Those are three three of those .
+
+dialogue type : s
+A :  A different set of people .
+
+dialogue type : s^cs.%-
+A : 
+
+dialogue type : %-
+A :  Uh , well .
+
+dialogue type : s^bk|s^bd
+A :  OK . I spoke loosely .
+
+dialogue type : s
+A :  The the German , French Sorry , the German , Dutch , and Spanish ones .
+
+dialogue type : s^aa
+A :  Yeah . Uh - huh .
+
+dialogue type : %-
+A :  That 's that 's that 's r
+
+dialogue type : s^bk|s
+A :  Yeah . It 's the other group .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : s^aa
+A :  Yeah , exactly . Yeah .
+
+dialogue type : s^bd
+A :  I didn't mean to isolate them .
+
+dialogue type : s^bk|s^fa
+A :  Yeah . Sorry .
+
+dialogue type : s^ba^bd
+A :  It was it was not the best characterization .
+
+dialogue type : s
+A :  But what what I meant to say was that it 's the other group that 's not n no m no overlap with our present members .
+
+dialogue type : s
+A :  And then maybe it 'd be good to set an explicit deadline ,
+
+dialogue type : s
+A :  something like a week before that ,
+
+dialogue type : s
+A :  uh , J July fifteenth date ,
+
+dialogue type : s
+A :  or two weeks before .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s^ba
+A :  Hmm . That 's a little bit difficult .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Well . That 's true .
+
+dialogue type : s^aap
+A :  I I agree with that part ,
+
+dialogue type : s^cs
+A :  but I think that it would it , uh we need to have , uh , a a a message to them very clearly that beyond this date , you can't make additional changes .
+
+dialogue type : b
+A :  Mm - hmm . Good .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : fg
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg
+A : 
+
+dialogue type : s
+A :  I I think that there 's one missing line .
+
+dialogue type : s
+A :  I ha I have one question .
+
+dialogue type : s
+A :  This is in the summer period
+
+dialogue type : s
+A :  and presumably people may be out of town .
+
+dialogue type : s^bu
+A :  But we can make the assumption , can't we ? that , um , they will be receiving email , uh , most of the month .
+
+dialogue type : qy^d^g
+A :  Right ?
+
+dialogue type : s^df.%-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^na
+A :  We did that , I I believe .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : %-
+A :  Uh , the f
+
+dialogue type : s.%-:s.%-
+A :  Well , the form Well , the form doesn't say , if uh , you know , " if you don't respond by X number of days or X number of weeks "
+
+dialogue type : s
+A :  It doesn't have a time limit .
+
+dialogue type : s^rt
+A :  That you 'll be provided access to the transcripts
+
+dialogue type : s
+A :  and then , uh , allowed to remove things that you 'd like to remove , before it goes to the general uh , larger audience .
+
+dialogue type : s
+A :  There you go .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^ba
+A :  I I kind of like this .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  But the ones that we 're dealing with now are all local ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I mean , we we 're totally in contact with all the ones in those two groups .
+
+dialogue type : s^ba
+A :  So maybe , uh , I you know , that 's not that many people
+
+dialogue type : %--
+A : 
+
+dialogue type : s
+A : 
+
+dialogue type : s
+A :  and if I can help with with processing that , I will .
+
+dialogue type : s^df.%-
+A : 
+
+dialogue type : s^na
+A :  Yes , we did .
+
+dialogue type : s^na
+A :  You 're right .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  That 's right .
+
+dialogue type : s
+A :  Need to get it right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  It 's much easier to explain this way .
+
+dialogue type : s
+A :  T t to have it on record .
+
+dialogue type : fg|%-
+A :  Yeah , but w Mmm .
+
+dialogue type : s
+A :  Well , then we make the effort .
+
+dialogue type : s^r
+A :  We make the effort .
+
+dialogue type : s^arp.%--
+A : 
+
+dialogue type : s
+A :  I I 'm agr I agree with Liz , that we need to be in the clear
+
+dialogue type : s.%--:s.%--
+A :  and not have to after the fact say " oh , but I assumed " ,
+
+dialogue type : s:s
+A :  and " oh , I 'm sorry that your email address was just accumulating mail without notifying you " ,
+
+dialogue type : s^f
+A :  you know .
+
+dialogue type : s^ba
+A :  Oh , excellent .
+
+dialogue type : b
+A :  Yes .
+
+dialogue type : s^no
+A :  I don't remember that this issue of the time period allowed for response was ever covered .
+
+dialogue type : s^2.%-
+A : 
+
+dialogue type : s^j
+A :  That one .
+
+dialogue type : s^ba
+A :  Well , it doesn't matter .
+
+dialogue type : qw.%--
+A :  And how many people ?
+
+dialogue type : s
+A :  Al - altogether we 've got twenty people . These people are people who read their email almost all the time .
+
+dialogue type : s^ba
+A :  I I really don't see that it 's a problem .
+
+dialogue type : s^cs
+A :  I I think that it 's a common courtesy to ask them uh , to expect for them to , uh , be able to have @ @ us try to contact them ,
+
+dialogue type : s
+A :  u just in case they hadn't gotten their email .
+
+dialogue type : s
+A :  I think they 'd appreciate it .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  I remember that .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  I also think they 'd just simply appreciate it .
+
+dialogue type : s^e
+A :  I think it 's a good a good way of of fostering goodwill among our subjects .
+
+dialogue type : s^bsc
+A :  Well , our participants .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Mm - hmm . That 's right .
+
+dialogue type : s^cs
+A :  I I could get you on the notify list if you want me to .
+
+dialogue type : qy^bu^d
+A :  For that directory ?
+
+dialogue type : s^bk
+A :  OK , great .
+
+dialogue type : %-
+A :  Hmm .
+
+dialogue type : b
+A :  Oh .
+
+dialogue type : s
+A :  I don't think , uh They 're so recent , these visitors .
+
+dialogue type : %--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I I mean , I I w I 'll be able to if you have any trouble finding them , I really think I could find them .
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  I d I just don't think we will .
+
+dialogue type : s
+A :  For all the reasons that we 've discussed .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%--
+A :  And actually ,
+
+dialogue type : fh|s^df
+A :  um , I I didn't anticipate this
+
+dialogue type : s^df
+A :  so I that 's why I didn't give this comment ,
+
+dialogue type : s^cs:s
+A :  and it I this discussion has made me think it might be nice to have a follow - up email within the next couple of days saying " by the way , you know , we wanna hear back from you by X date
+
+dialogue type : s^cs.%--:s.%--
+A :  and please " ,
+
+dialogue type : s^cs
+A : 
+
+dialogue type : s:s
+A :  " please , uh , respond to please indicate you received this mail . "
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  It is the first time through the cycle .
+
+dialogue type : s^na
+A :  Mm - hmm . Some lead time .
+
+dialogue type : qy^rt
+A :  By the way , has has Jeremy signed the form ?
+
+dialogue type : b
+A :  OK .
+
+dialogue type : fg
+A : 
+
+dialogue type : s
+A :  Well I you know , I think at a certain point , that copy that has the deletions will become the master copy .
+
+dialogue type : s^cs
+A :  But And then w I was gonna say also that the they don't have to stay on the system , as you know ,
+
+dialogue type : s^df.%-
+A : 
+
+dialogue type : qy.%-
+A :  Once it 's been successfully bleeped , can't you rely on the ?
+
+dialogue type : qy^r
+A :  Can't you rely on the archiving to preserve the older version ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s
+A :  This is the first cycle .
+
+dialogue type : s
+A :  There 're bound to be some glitches the first time through .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : s
+A :  And it also doesn't give a a specific I didn't think of it .
+
+dialogue type : s^cs
+A :  S I think it 's a good idea an ex explicit time by which this will be considered definite .
+
+dialogue type : s^co^e
+A :  And and it has to be a time earlier than that endpoint .
+
+dialogue type : s^aa
+A :  Yeah . That 's right .
+
+dialogue type : s^ba^rt
+A :  Oh , that 's interesting .
+
+dialogue type : s^cs
+A :  Could do that .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : qh
+A :  But why shouldn't they just email back ?
+
+dialogue type : s^ba
+A :  I don't see there 's a problem .
+
+dialogue type : s^ba
+A :  It 's very nice .
+
+dialogue type : s
+A :  I I like the high - tech aspect of it ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^ba
+A :  I appreciate it .
+
+dialogue type : s^ba
+A :  Yeah . I like VI .
+
+dialogue type : s
+A :  Six .
+
+dialogue type : s
+A :  I agree with you .
+
+dialogue type : s
+A :  It 's we could do it , uh I I could I 'd be happy with either way ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  That was exactly right ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^rt
+A :  I I had wanted to get the entire set of twelve hours ready .
+
+dialogue type : s
+A :  Don't have it .
+
+dialogue type : s
+A :  But , uh , this was the biggest clump I could do by a time where I thought it was reasonable .
+
+dialogue type : s
+A :  People would be able to check it and still have it ready by then .
+
+dialogue type : s
+A :  My , um I was thinking that with the NSA meetings , I 'd like there are three of them ,
+
+dialogue type : s
+A :  and they 're uh , I I will have them done by Monday .
+
+dialogue type : s^bd
+A :  Uh , unfortunately the time is later
+
+dialogue type : s^bd
+A :  and I don't know how that 's gonna work out ,
+
+dialogue type : s^cs
+A :  but I thought it 'd be good to have that released as a clump , too ,
+
+dialogue type : s^bu
+A :  because then , you know , they 're they they have a it it 's in a category ,
+
+dialogue type : s
+A :  it 's not quite so distracting to them , is what I was thinking ,
+
+dialogue type : s.%--
+A :  and it 's all in one chu
+
+dialogue type : s
+A :  But after that , when we 're caught up a bit on this process , then , um , I could imagine sending them out periodically as they become available .
+
+dialogue type : s^cs^rt
+A :  I could do it either way .
+
+dialogue type : s
+A :  I mean , it 's a question of how distracting it is to the people who have to do the checking .
+
+dialogue type : s^na
+A :  That 's on my list .
+
+dialogue type : s^r
+A :  Well , that 's on my list .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm , mm - hmm .
+
+dialogue type : s
+A :  One question about the backchannels .
+
+dialogue type : qy^rt
+A :  Do you suppose that was because they weren't caught by the pre - segmenter ?
+
+dialogue type : s^ba
+A :  Oh , interesting .
+
+dialogue type : s^ba^r
+A :  Oh , interesting . OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk|s.%--
+A : 
+
+dialogue type : %--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^rt
+A :  We sent them the transcripts that correspond to those six meetings
+
+dialogue type : s
+A :  and they 're downloading the audio files .
+
+dialogue type : s
+A :  So they 'll be doing that .
+
+dialogue type : s
+A :  Chuck 's Chuck 's , uh , put that in .
+
+dialogue type : s
+A :  This is to show you , uh , some of the things that turn up during the checking procedure .
+
+dialogue type : s
+A :  Um @ @ So , this is from one of the NSA meetings
+
+dialogue type : s
+A :  and , uh , i if you 're familiar with the diff format , the arrow to the left is what it was ,
+
+dialogue type : s
+A :  and the arrow to the right is what it was changed to .
+
+dialogue type : fh
+A :  So ,
+
+dialogue type : s
+A :  um . And now the first one .
+
+dialogue type : s
+A :  " OK . So , then we started a weekly meeting .
+
+dialogue type : s^ba:s
+A :  The last time , uh " And the transcriber thought " little too much "
+
+dialogue type : fh
+A :  But , uh ,
+
+dialogue type : s:s
+A :  really , um , it was " we learned too much " ,
+
+dialogue type : s^ba
+A :  which makes more sense syntactically as well .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk|s
+A :  Oh , this that 's the convention for indicating uncertain .
+
+dialogue type : s
+A :  So the transcriber was right .
+
+dialogue type : s
+A :  You know , she was uncertain about that .
+
+dialogue type : s
+A :  So she 's right to be uncertain .
+
+dialogue type : s
+A :  And it 's also a g a good indication of the of that .
+
+dialogue type : s
+A :  The next one . This was about , uh , Claudia
+
+dialogue type : s
+A :  and she 'd been really b busy with stuff , such as waivers .
+
+dialogue type : s^bk
+A :  Uh , OK .
+
+dialogue type : s
+A :  Um , next one .
+
+dialogue type : s
+A :  Um . This was an interesting one .
+
+dialogue type : s:s
+A :  So the original was " So that 's not so Claudia 's not the bad master here " ,
+
+dialogue type : s
+A :  and then he laughs ,
+
+dialogue type : s
+A :  but it really " web master " .
+
+dialogue type : s
+A :  And then you see another type of uncertainty which is , you know , they just didn't know what to make out of that .
+
+dialogue type : s
+A :  So instead of " split upon unknown " , it 's " split in principle " .
+
+dialogue type : s^ar|s
+A :  No , no . These are these are our local transcriptions of the NSA meetings .
+
+dialogue type : s^e
+A :  The transcribers transcriber 's version ver versus the checked version .
+
+dialogue type : s^e
+A :  My my checked version , after I go through it .
+
+dialogue type : s
+A :  Um , then you get down here .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s
+A :  Sometimes some speakers will insert foreign language terms .
+
+dialogue type : s
+A :  That 's the next example ,
+
+dialogue type : s
+A :  the next one .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--:s.%--
+A :  So instead of saying " or " ,
+
+dialogue type : s
+A :  especially those words , " also " and " oder " and some other ones .
+
+dialogue type : s
+A :  Those sneak in .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : %-
+A :  S
+
+dialogue type : s^fa|qw^rt
+A :  Sorry , what ?
+
+dialogue type : qy^bu^d^m^rt
+A :  Discourse markers ?
+
+dialogue type : s^aa
+A :  Sure . Sure , sure , sure .
+
+dialogue type : s^ba
+A :  And it 's and it makes sense
+
+dialogue type : s^df
+A :  cuz it 's , like , below this it 's a little subliminal there .
+
+dialogue type : fg|s
+A :  Um . OK , the next one ,
+
+dialogue type : s^rt
+A :  uh , this is a term .
+
+dialogue type : s
+A :  The problem with terminology .
+
+dialogue type : s:s
+A :  Description with th the transcriber has " X as an advance " .
+
+dialogue type : s:s
+A :  But really it 's " QS in advance " .
+
+dialogue type : s
+A :  I mean , I I 've benefited from some of these , uh , cross - group meetings .
+
+dialogue type : fg|s.%--
+A :  OK , then you got ,
+
+dialogue type : fh
+A :  um , uh ,
+
+dialogue type : s:s
+A :  instead of " from something - or - other cards " , it 's " for multicast " .
+
+dialogue type : s:s
+A :  And instead of " ANN system related " , it 's " end system related " .
+
+dialogue type : s
+A :  This was changed to an acronym initially
+
+dialogue type : s
+A :  and it should shouldn't have been .
+
+dialogue type : s
+A :  And then , you can see here " GPS " was misinterpreted .
+
+dialogue type : s^by.%--
+A :  It 's just totally understanda
+
+dialogue type : s
+A :  This is this is a lot of jargon .
+
+dialogue type : s.%--
+A :  Um , and the final one ,
+
+dialogue type : s.%--
+A :  the transcriber had th " in the core network itself
+
+dialogue type : s
+A :  or the exit unknown ,
+
+dialogue type : s
+A :  not the internet unknown " .
+
+dialogue type : s
+A :  And it it comes through as " in the core network itself of the access provider ,
+
+dialogue type : s
+A :  not the internet backbone core " .
+
+dialogue type : s^ba
+A :  Now this is a lot of terminology .
+
+dialogue type : s^ba.%--
+A :  And they 're generally extremely good ,
+
+dialogue type : s
+A :  but , you know in this this area it really does pay to , um to double check
+
+dialogue type : s
+A :  and I 'm hoping that when the checked versions are run through the recognizer that you 'll see s substantial improvements in performance
+
+dialogue type : s
+A :  cuz the you know , there 're a lot of these in there .
+
+dialogue type : s^ar
+A :  No , actually no .
+
+dialogue type : s^aa
+A :  Huh - uh .
+
+dialogue type : s^bk^m|s^aa
+A :  It 's jargon . Yeah .
+
+dialogue type : s^df
+A :  I mean this is cuz , you know you don't realize in daily life how much you have top - down influences in what you 're hearing .
+
+dialogue type : s
+A :  And it 's jar it 's jargon coupled with a foreign accent .
+
+dialogue type : s
+A :  Well , also from the standpoint of getting people 's approval ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : b.x
+A :  OK .
+
+dialogue type : s^aa|s
+A :  Exactly . That 's why we discussed that .
+
+dialogue type : s
+A :  And then I also the final thing I have for transcription is that I made a purchase of some other headphones
+
+dialogue type : s^df
+A :  because of the problem of low gain in the originals .
+
+dialogue type : s
+A :  And and they very much appro they mu much prefer the new ones ,
+
+dialogue type : s
+A :  and actually I I mean , I I think that there will be fewer things to correct because of the the choice .
+
+dialogue type : s
+A :  We 'd originally chosen , uh , very expensive head headsets
+
+dialogue type : s^ba
+A :  but , um , they 're just not as good as these , um , in this with this respect to this particular task .
+
+dialogue type : s
+A :  I don't know exactly ,
+
+dialogue type : s^df
+A :  but we chose them because that 's what 's been used here by prominent projects in transcription .
+
+dialogue type : s
+A :  So it i we had every reason to think they would work .
+
+dialogue type : s^fa|qw^br
+A :  Sorry , what ?
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  W Well , the thing is , that if we have four people come to work for a day , I was I was hanging on to the others for , eh for spares ,
+
+dialogue type : s^cs
+A :  but I can tell you what I recommend .
+
+dialogue type : s
+A :  It 'd just have to be a s a separate order an added order .
+
+dialogue type : s
+A :  Cambridge SoundWorks , just down the street .
+
+dialogue type : s
+A :  Yeah . They always have them in stock .
+
+dialogue type : s^aa
+A :  Oh , sure . Yeah . OK .
+
+dialogue type : s^ba.%--
+A :  It 's made a difference in in how easy .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  A woman of few words .
+
+dialogue type : s^2
+A :  Well , since last week .
+
+dialogue type : s^ba
+A :  I 'll be interested .
+
+dialogue type : qw
+A :  What 's the name of the meeting ?
+
+dialogue type : b
+A :  Good .
+

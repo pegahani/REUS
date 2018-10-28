@@ -1,0 +1,1080 @@
+dialogue type : z
+D :  Or , I like it , also , like this .
+
+dialogue type : z
+D :  So you see the
+
+dialogue type : z
+D :  So .
+
+dialogue type : s^t1.%-
+D : 
+
+dialogue type : s^rt^t.%--
+D : 
+
+dialogue type : s^t
+D :  about forms in general .
+
+dialogue type : s
+D :  Stuff .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^fa
+D :  I uh probably should have printed out more of these .
+
+dialogue type : s
+D :  So one of the things that I 've been doing with the digits forms is I 've been adding more and more speaker specific information to them
+
+dialogue type : s
+D :  and it 's getting pretty crowded and you have to fill it out each time .
+
+dialogue type : s
+D :  So , what I thought was , it would be nice to have a single speaker form that you fill out once .
+
+dialogue type : s
+D :  And then , on the digits form you just have to put your name down and you can look it up from the speaker form .
+
+dialogue type : s
+D :  so , I had a first pass of it ,
+
+dialogue type : s
+D :  and I spoke with Jane a bit about how to specify what language and education and that sort of stuff
+
+dialogue type : s
+D :  and so I have a first pass at it .
+
+dialogue type : s
+D :  And I was uh just wondering if people had any comments on information that should or shouldn't be on it .
+
+dialogue type : s^fa
+D :  And I only did one copy which was really stupid of me .
+
+dialogue type : s
+D :  um So I 'll just sort of say what it 's on and then I can hand it around .
+
+dialogue type : s
+D :  So the top of it is uh , Name , Sex Email or Other Contact Information .
+
+dialogue type : s
+D :  And I put the contact information just in case we have people with the same name , so that you can distinguish them ,
+
+dialogue type : s
+D :  and then also just to have a separate contact from the consent form .
+
+dialogue type : s
+D :  And then , uh , we talked a little bit about whether to do how we get at the background .
+
+dialogue type : s
+D :  And we could do profession , but it 's so uniform that we figured what was more important was actually the education level .
+
+dialogue type : s
+D :  um At least that would get at some idea of their background .
+
+dialogue type : s.%--
+D :  So I have a And s
+
+dialogue type : s^aa^m
+D :  and relevant to status .
+
+dialogue type : s.%--
+D :  So that what I have is uh
+
+dialogue type : s
+D :  So uh , I have uh , five things that you can circle ,
+
+dialogue type : s
+D :  Undergrad , Grad , Post - doc , Professor , and then Other , with a colon and a place where you can fill in if there 's some Other .
+
+dialogue type : s
+D :  So I think the problem with that is that there 's not a necessarily easy equivalent for our visitors , who are not used to the US education levels .
+
+dialogue type : s
+D :  and may need some help to translate what that means .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  Well , the problem with that is um , I think the same as the problem of profession .
+
+dialogue type : sj^df
+D :  That it it will be there will be a tendency all for everyone to put down " speech researcher " or or something at that granularity .
+
+dialogue type : s
+D :  So I don't think there 's a problem asking the education level , I th At least I don't feel like there is .
+
+dialogue type : qo
+D :  um I think the only question is whether the what categories should there be .
+
+dialogue type : s
+D :  Less .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s
+D :  Well , one of the one of the criteria I had for designing this form , is that I didn't want a separate instruction sheet .
+
+dialogue type : s
+D :  And so we 'll get to that in a moment when we talk about language also .
+
+dialogue type : s
+D :  Is I did not want to have to , you know come down and quiz each person and have a uh social dynamics expert being the one who 's filling out the answers .
+
+dialogue type : s^rt
+D :  I want it to be self - evaluating .
+
+dialogue type : s
+D :  You can give it to them and they can understand what you 're asking .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : s^nd
+D :  That 's a separate question .
+
+dialogue type : s^cc
+D :  So , we 'll We 'll get to that in a moment .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  I know .
+
+dialogue type : s
+D :  So , this particular form is speaker is dependent only on the speaker ,
+
+dialogue type : s
+D :  not on the meeting .
+
+dialogue type : s
+D : 
+
+dialogue type : s^df
+D :  But then that 's interfering with the meeting .
+
+dialogue type : s
+D :  So , what I like about this information is you give it to them once , and they fill it out once ,
+
+dialogue type : s
+D :  and and then you have that information .
+
+dialogue type : s^ar
+D :  Not at all .
+
+dialogue type : sj^df
+D :  I mean , the fact that one person 's an undergrad and the other 's a full professor is interesting .
+
+dialogue type : qh.%-
+D :  So , the question is how much of this information um , can y
+
+dialogue type : s^aa^fe
+D :  Well , absolutely !
+
+dialogue type : s
+D :  But but you want to have that information .
+
+dialogue type : qy^d^f^g^rt
+D :  Right ?
+
+dialogue type : qh
+D :  So , if you don't have that information , how are you gonna do anything ?
+
+dialogue type : qw^rt
+D :  I mean , so what would you suggest ?
+
+dialogue type : s
+D :  Undergrad , Grad , Post - doc , Professor , Other
+
+dialogue type : s^bk
+D :  oh , that 's right ,
+
+dialogue type : s.%-
+D :  you know I was saying " Professor " .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : fg|s
+D :  Yeah , when I said " Professor " , I guess what I was thinking in my mind was more " PHD but not Post - doc " .
+
+dialogue type : qy^cs^d^rt
+D :  and Or maybe Post - doc change " Post - doc " to " PHD " ?
+
+dialogue type : s^df
+D :  Because I think PHD and Professor are d are distinct
+
+dialogue type : qy^g^rt
+D :  aren't they ?
+
+dialogue type : s^j
+D :  Someone who has a PHD .
+
+dialogue type : qy^bu^d^rt
+D :  So , maybe Undergrad , Grad , Post - PHD and Other ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : qy^bu^d
+D :  If i Instead of instead of instead of Professor or instead of Post - doc ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : qy^bu^d^rt
+D :  Undergrad , Grad , Post - PHD , Professor , Other ?
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^ng
+D :  Well , the whole reason that I 'm doing it this way is is uh my experience so far has been the exact reverse .
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s
+D :  I guess we could have another type of form for less frequent .
+
+dialogue type : s^cs
+D :  Well I think that if if we 're planning to do that , then we should probably have another set of forms .
+
+dialogue type : s^e
+D :  You know , a single form that 's the consent form and the speaker information form and not have them do digits .
+
+dialogue type : s^t
+D :  This is a topic I want to bring up after I get through this .
+
+dialogue type : s
+D :  So , that that that 's another form that I want to discuss . um , with the digits forms .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Yeah , I 'm I have that as a topic , also .
+
+dialogue type : s^co^t
+D :  So , let 's finish with the speaker form speaker form and then we 'll get over o get over to that one .
+
+dialogue type : s^t
+D :  So , Education Level , Undergrad , Grad , Post - PHD , Professor , Other .
+
+dialogue type : qy^d^f^rt
+D :  OK ?
+
+dialogue type : fh|s
+D :  um and then I put " Optional " with a big " Optional " in parentheses , Age .
+
+dialogue type : s
+D :  Because I think a lot of people are sensitive to it and won't want to write it down .
+
+dialogue type : s
+D :  So I don't want to make them feel like they have to .
+
+dialogue type : s^bk|s^df^nd:s
+D : 
+
+dialogue type : s^cs^ng
+D :  Well , I think that just having on the form saying Optional , Age , again means I don't have to be sitting here and explaining the form every time we do this .
+
+dialogue type : s^cs
+D :  And having a little instruction sheet and say " If you 're in this age range do this , and if you 're in this rage do that . "
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^bk
+D :  Yeah , right .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^ng^rt
+D :  Well , I think maybe that 's because no one here is sensitive about their age .
+
+dialogue type : s^nd
+D :  But , I would rather let them leave it blank than lie .
+
+dialogue type : s^df
+D :  So that 's why I want to put That 's why I want to put s " Optional , Age " ,
+
+dialogue type : s^df
+D :  so that if they don't want to put it , they leave it blank .
+
+dialogue type : qy^rt
+D :  But if you put " Optional " , won't they just leave it blank rather than lie ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : qy^bu^d^ng^rt
+D :  You don't think they 'd just leave it blank if it says has a big " Optional " right next to it ?
+
+dialogue type : sj^df
+D :  It It I think it 's better to put " Optional " .
+
+dialogue type : s.%-
+D :  I mean , that 's why I put it there , s
+
+dialogue type : s^rt
+D :  but it seems like maybe you disagree .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  Well I didn't mark anything else as specifically optional ,
+
+dialogue type : fh
+D :  So .
+
+dialogue type : fh|s^rt
+D :  Um , and then the next are two sections
+
+dialogue type : s
+D :  One indented separately .
+
+dialogue type : s
+D :  So , one 's for native English speakers and one for non - native English speakers .
+
+dialogue type : s
+D :  OK , so for the native English speaker it asks for a variety of English with three circle boxes
+
+dialogue type : s
+D :  American , British , Indian and Other , for write - in .
+
+dialogue type : fg|s
+D :  Yep . Jane and I discussed this , and it was it was again the same problem
+
+dialogue type : s
+D :  that it 's gonna be a self - evaluation anyway ,
+
+dialogue type : s:s
+D :  and so I don't want to have to be standing over the person and asking them " Well , do you mean that your native an l an language was British when you were born , and then it changed to American when you were two , and then it changed to " and so on .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  I mean , th there 's room on the form to put al a a line of instruction , but I 'm just not sure what it re should really be .
+
+dialogue type : s
+D :  So the the for the non - na for the native English speakers we have Variety of English and Region .
+
+dialogue type : s
+D :  And that 's it .
+
+dialogue type : s
+D :  And then we have another form later down which is um , list other language influences .
+
+dialogue type : s^bk|s^na
+D :  Right , neither would I .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  If you 're American English it would be region of the US .
+
+dialogue type : s
+D :  That that so that 's why I didn't have circle forms .
+
+dialogue type : s
+D :  Because it would be different depending on what your language is .
+
+dialogue type : %-
+D : 
+
+dialogue type : s
+D :  It - I think it would be however you would identify your own .
+
+dialogue type : s
+D :  And , as I said I don't really see a way of doing a circle fill in , because there would be there would have to be one for American English , one for British English , one for you know , one for each type .
+
+dialogue type : s
+D :  But but that would mean I would have to do generate a different form for circles , if you 're American English or British English or Indian English .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk|s
+D :  Yeah , I just don't know what to do about the other varieties of English .
+
+dialogue type : s
+D :  Well , that 's why I wanted to just leave it something that you could write it down .
+
+dialogue type : s
+D :  Well , there could be a circle one .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : s^cs:qw
+D :  So , you could say " What region did you grow up in from these years ? "
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s:qw
+D :  What language was spoken in the home ?
+
+dialogue type : s
+D :  Depends of who you ask , what the age range is .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s.%-
+D :  So so th
+
+dialogue type : s
+D :  Well , the way it 's phrased right now , it 's clearly asking about language .
+
+dialogue type : s^rt
+D :  And so , what it 's trying to get at is what you think you speak .
+
+dialogue type : sj^ba
+D :  Now , I think that the point is well taken that sometimes people are wrong about what they think they speak .
+
+dialogue type : s^nd
+D :  But , other than having a trained linguist interview them and ask these very specific questions , I don't see a way around it .
+
+dialogue type : s^df
+D :  Because as you said , what you 're gonna have to stay say is " Well , list the languages that your parents spoke when you were in home and how good they were at it and how long they spoke it ,
+
+dialogue type : s
+D :  and now list the ones in preschool
+
+dialogue type : s
+D :  and now list the ones in first grade
+
+dialogue type : s.%--
+D :  and now list the ones your friends speak "
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^df
+D :  So I want to try to keep the complexity so someone can fill out this form at the beginning of a meeting without taking f uh forty - five minutes .
+
+dialogue type : sj^ba
+D :  So I think that adding the the TIMIT categories is a good idea ,
+
+dialogue type : s^df
+D :  because that 's very easy for a person to fill out .
+
+dialogue type : qo^df^rt
+D :  But I think we still have this problem of is it gonna be a self - evaluation ?
+
+dialogue type : qrr.%--
+D :  or are we gonna ask them " what was it when you were four years old , or what was it when you were six years old , or what wher " w
+
+dialogue type : qw
+D :  What 's the best way of phrasing the question ?
+
+dialogue type : s^aap
+D :  Or adapta or adaptation .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^cs^rt
+D :  Then maybe we shouldn't just shouldn't ask .
+
+dialogue type : s^cs
+D :  Well , maybe for the native English speakers we shouldn't even ask the region if it 's that unreliable .
+
+dialogue type : s^tc
+D :  The other thing also is that I 'm asking for the variety of English , and I did just put American , British , Indian and other .
+
+dialogue type : s
+D :  So , I didn't put Canadian , Australian , and all the other varieties .
+
+dialogue type : qy^rt
+D :  e But do you think those three are OK ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bu
+D :  So that for the Eng - native English speakers , we 'll do variety of English , regions from the TIMIT labels , and another field .
+
+dialogue type : %-
+D :  And then
+
+dialogue type : s^t1
+D :  I thought this was be fast .
+
+dialogue type : s^t3
+D :  Air conditioning .
+
+dialogue type : s^bk^m
+D :  Right .
+
+dialogue type : fg|s
+D :  Right , the way the way the form reads now , I think it 's pretty clear that 's what we 're asking cuz it says " Native English speakers , Variety of English , American , British , Indian , Other , Region " .
+
+dialogue type : s
+D :  And then we 'll have Southern English , you know , whatever whatever the TIMIT categories are .
+
+dialogue type : s.%-
+D :  So I think i if you look at this fr
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s^aa|sj
+D :  Right , so I it seems to me that if you read this form , i w it 's pretty obvious that it 's a subcategory of the language that you think you speak ,
+
+dialogue type : s^e
+D :  not where you live .
+
+dialogue type : s
+D :  I mean , I don't say anything about where you live on the form .
+
+dialogue type : s
+D :  So it 's just in the section talking about language .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s:s^co
+D :  And then uh , as Jane said , the last question is " List other language influences , bilingual dialects , et cetera . "
+
+dialogue type : s
+D :  And that 's just and open - ended place for them to do .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  And then the bottom of the form is for not for them to fill out , but for us to fill out , for um the aliases and database speaker database that the person is in , since we 'll eventually anonymize
+
+dialogue type : s
+D :  and this will be a form a place for us to connect the two .
+
+dialogue type : s
+D :  And then the meetings that they attended ,
+
+dialogue type : s^df
+D :  because there 'll be one form for each person .
+
+dialogue type : fh
+D :  OK . So .
+
+dialogue type : s^cc
+D :  Yeah , I guess I 'll fiddle around yet again with the language stuff .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s
+D :  So , there 's another area which is non - native English speakers which asks for Native language , Region , and Variety of English .
+
+dialogue type : s
+D :  And that 's it .
+
+dialogue type : s^m
+D :  Proficiency .
+
+dialogue type : sj^ba
+D :  That 's a good idea .
+
+dialogue type : s
+D :  Well , do you think that 's That 's also because they know that it 's a re important for them to be good at it .
+
+dialogue type : qy^rt
+D :  So , don't don't you think they overrate rather than underrate ?
+
+dialogue type : %-
+D :  So , but
+
+dialogue type : sj^ba
+D :  no , I think proficiency is actually a good thing to have on this sort of form .
+
+dialogue type : qh
+D :  The the question are what are what would the categories be ?
+
+dialogue type : s^bk|s^arp^no
+D :  Yeah , I 'm I don't know .
+
+dialogue type : s^bd^df
+D :  Being totally monolingual , I 'm not the right person to ask , to talk about this
+
+dialogue type : s
+D :  but it just seems to me that that doesn't the length of time doesn't really get at what we 're asking .
+
+dialogue type : qy^d^f^g^rt
+D :  Right ?
+
+dialogue type : s
+D :  It seems to be that asking about the proficiency , even if it 's self - rated , is what we wanna know .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^aap
+D :  With that form .
+
+dialogue type : qr.%--
+D : 
+
+dialogue type : s
+D :  Uh , the other form is a modified digits form .
+
+dialogue type : fh|s
+D :  uh and it 's pretty sim this one 's pretty simple ,
+
+dialogue type : s
+D :  it 's it 's very much what like the digits forms in front of us , except it doesn't ha ask for sex or native language .
+
+dialogue type : s
+D :  Um , so it 's Name , Email , Time , Date , Seat , Session , Mike number , Channel , Mike type .
+
+dialogue type : s
+D :  Uh , in case people have the same name .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  Have the same name .
+
+dialogue type : s^df
+D :  Yeah , I 'm particularly sensitive to this cuz a good friend of mine in S in Seattle was named Scott Smith and there were fourteen of them in at Boeing .
+
+dialogue type : s^cs
+D :  So We could drop email .
+
+dialogue type : s^bd
+D :  I mean that 's not a big deal ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^cs
+D :  Well , the other way I was thinking about it was assigning them an ID
+
+dialogue type : s^df
+D :  but I hate it when people do that to me ,
+
+dialogue type : s^e
+D :  when they say , here 's you ID ,
+
+dialogue type : s^e
+D :  don't forget it .
+
+dialogue type : s
+D :  So , I I wanted just something that would give us a hint of who the person is if the name field isn't readable or it 's a duplicate .
+
+dialogue type : s^cs^j
+D :  Your mother 's maiden name mother 's maiden name
+
+dialogue type : s^cs^j
+D :  social security number ,
+
+dialogue type : s^rt
+D :  So , although the email email will change , I think that 's a good way of doing it .
+
+dialogue type : s^df
+D :  We 'll be able to backtrack from email .
+
+dialogue type : s^tc
+D :  Um , and then the other thing I was thinking about and it probably wouldn't be on the digits form ,
+
+dialogue type : s^cs
+D :  but it it is something that some form about the individual meeting .
+
+dialogue type : s
+D :  Now , the problem I have with that is I don't know who would be filling it out .
+
+dialogue type : s
+D :  Just to pick up an arbitrary an example .
+
+dialogue type : fg
+D :  Right .
+
+dialogue type : qw
+D :  So th so the sorts of questions I had were one Who 's gonna fill it out , and who 's gonna take responsibility for filling it out in each meeting ,
+
+dialogue type : qy
+D :  I mean , will we re will we require it .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qw
+D :  And that was my other question , which is um what sort of information do we want to record ?
+
+dialogue type : s
+D :  I mean , so I think pairwise relationships are pretty easy .
+
+dialogue type : s
+D :  You know , source , destination , relation .
+
+dialogue type : qy
+D :  Are there other sorts of things that might we might want to record ?
+
+dialogue type : b
+D :  Right .
+
+dialogue type : sj^ba
+D :  I think that fits in well with the whole meeting map mapping meetings concept is that 's another way of looking at looking at it .
+
+dialogue type : qy
+D :  So , are there anything other than pairwise ?
+
+dialogue type : s^bk
+D :  Oh yeah , OK .
+
+dialogue type : s^aa
+D :  Yes , shirt certainly .
+
+dialogue type : s
+D :  I 've been thi I it seems to be that there is We could attach more structure if we wanted to .
+
+dialogue type : s
+D :  Especially because a lot of these relationships are pairwise power relationships .
+
+dialogue type : s
+D :  Um , just as an example , it would be , " Source , Adam Janin " , " Destination , Morgan " , " Relationship , Advisor " .
+
+dialogue type : s^2
+D :  that are relevant .
+
+dialogue type : s^aa.%
+D :  Yep .
+
+dialogue type : fg|s^bd^na.%-
+D : 
+
+dialogue type : s^aa^m
+D :  Right .
+
+dialogue type : s^bd
+D :  Well , it 's just cuz it 's my turn .
+
+dialogue type : s^bd
+D :  Well , the D T Ds mean we can do whatever however we want it .
+
+dialogue type : s^df^nd
+D :  But what I what I was thinking uh the reason that I didn't want to make it completely open - ended is that it does seems like there is some structure which is common .
+
+dialogue type : s
+D :  Especially with these pairwise ones , where you can describe them and pairwise .
+
+dialogue type : s^cs
+D :  And you might want a tool that used that information .
+
+dialogue type : s^aa
+D :  Sure , absolutely .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : fg|s.%--
+D : 
+
+dialogue type : sj^ba
+D :  So you 're football league was a good one .
+
+dialogue type : s^rt
+D :  So the ones I 've been thinking of are all sort of uh , power , responsibility .
+
+dialogue type : s^cs^j
+D :  I guess husband - wife is yet another one .
+
+dialogue type : s^fe
+D :  Ach !
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^2
+D :  Some more .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Nope .
+
+dialogue type : fg|s
+D :  Yeah , so what I have right now is all pairwise ,
+
+dialogue type : s
+D :  so that 's probably not sufficient .
+
+dialogue type : s^aa
+D :  Yeah , maybe not .
+
+dialogue type : b
+D :  Yep . OK .
+
+dialogue type : s
+D :  Well , I think that in a lot of the meetings people won't be filling this out anyway .
+
+dialogue type : s
+D :  So really what I want to have is a place that if a researcher wants that information , they can add it .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^2
+D :  So it We can regenerate a lot of this information .
+
+dialogue type : s^df
+D :  But Even if we can't , generate it , I think it 's alright to have some of the sections in your database blank , that this information was not collected for this meeting .
+
+dialogue type : s
+D :  And there 's just not gonna be a way around that .
+
+dialogue type : s
+D :  That 's just gonna happen
+
+dialogue type : s
+D :  like the N S A meeting , the networks meeting .
+
+dialogue type : sj
+D :  I don't think they 're gonna want to fill out that information .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^t^tc
+D :  OK , enough on forms .
+
+dialogue type : s
+D :  They haven't received them yet ,
+
+dialogue type : s
+D :  but I did get a response from them saying " Yes we 're still alive ,
+
+dialogue type : s
+D :  we haven't done anything yet . " basically .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  So so , they 've transferred the responsibility to someone else .
+
+dialogue type : s^no
+D :  I can't remember his name McCoond ?
+
+dialogue type : qy^bu^m^rt
+D :  McCoond ?
+
+dialogue type : s
+D :  Something like that ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  And so he sent me email and said he 's gonna be starting to work on it ,
+
+dialogue type : s
+D :  and I haven't received anything else .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^cc
+D :  So tomorrow I 'll send a email and just ask if he received it ,
+
+dialogue type : s
+D :  he should be getting it today .
+
+dialogue type : s^bsc
+D :  Actually he should have gotten it yesterday .
+
+dialogue type : s
+D :  But . Give him a day .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : qy^rt
+D :  And And And did is this from the mixed signal ?
+
+dialogue type : s^bk|s
+D :  OK , so there is some normalization already , in that they 've been volume equalized uh over the entire signal .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^df^ng
+D :  Well , but the mixed signal already has a normalization in it .
+
+dialogue type : s
+D :  Well , I think it 'll be worse ,
+
+dialogue type : qy^d^g
+D :  right ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^cs
+D : 
+
+dialogue type : s^e
+D :  hamming window .
+
+dialogue type : b
+D :  Huh .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  And he has on his graph something like forty percent .
+
+dialogue type : s
+D :  It looked like fifty percent or more are point two seconds or longer overlap
+
+dialogue type : s
+D :  It 's li I think the last page .
+
+dialogue type : s^bsc
+D :  Nope , not the last page .
+
+dialogue type : qw^t1
+D :  Where was it ?
+
+dialogue type : s
+D :  It was one of the tables .
+
+dialogue type : s^bk^m^t3
+D :  Fifth page .
+
+dialogue type : s^fe^t3
+D :  Oh , it 's seventy - five percent !
+
+dialogue type : fg|%-
+D : 
+
+dialogue type : s
+D :  It seems like with the overlaps being fairly long , that should make it easier .
+
+dialogue type : s^ba
+D :  That r that was an interesting statistic .
+
+dialogue type : s
+D :  That they 're much longer than I expected .
+
+dialogue type : s
+D :  Ninety percent of them are over two m two hundred milliseconds .
+
+dialogue type : s^aa^m
+D :  It is good ,
+
+dialogue type : s^df
+D :  but it 's uh but it surprised me .
+
+dialogue type : s^aa
+D :  Yes .
+
+dialogue type : s^2
+D :  For example .
+
+dialogue type : s
+D :  Two hundred milliseconds , hamming window .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : qy^rt
+D :  Did you typecast to long ?
+
+dialogue type : qrr^rt
+D :  or size - T or whatever it is ?
+
+dialogue type : s
+D :  I don't remember what it is .
+
+dialogue type : s^df
+D :  One of the problems , if the file is large , um , and you 're cast to the wrong type .
+
+dialogue type : s^bk|s
+D :  Right , if you 're sending at an integer instead of a long .
+
+dialogue type : s^r^rt
+D :  Typecast from integer , " int " INT or long or unsigned long .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^ba
+D :  Well , It 's one possibility .
+
+dialogue type : s^aa
+D :  Yep .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : qy^rt
+D :  Shall we do digits ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : qy^rt^t
+D :  Are we done ?
+
+dialogue type : s^bk
+D :  Yes , OK .
+
+dialogue type : s
+D :  OK , we are going off .
+

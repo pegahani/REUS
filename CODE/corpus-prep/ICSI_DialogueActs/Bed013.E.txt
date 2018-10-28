@@ -1,0 +1,771 @@
+dialogue type : s
+E :  As usual .
+
+dialogue type : s:s
+E :  Something 's not right here .
+
+dialogue type : s
+E :  What a great time to be coming back to the
+
+dialogue type : s^j
+E :  You 'll see maybe see the fireworks from your plane coming in .
+
+dialogue type : s^aa^j
+E :  Yeah .
+
+dialogue type : s^j
+E :  You 'll get even better service than usual .
+
+dialogue type : s^ba
+E :  Oh great .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^j
+E :  Except this smacks a little bit more of a schizophrenic computer than AI .
+
+dialogue type : s^ba
+E :  That 's good .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Right , right .
+
+dialogue type : s^aa|s^ba^j
+E :  Yeah . No problem .
+
+dialogue type : s^nd^no
+E :  Mmm , I don't know .
+
+dialogue type : s^nd
+E :  e I 'm sort of have the impression that getting it to say the right thing in the right circumstances is much more difficult than getting it to understand something given the circumstances and so on ,
+
+dialogue type : s^df^e|qy^d^f^g
+E :  you know , I mean just cuz it 's sort of harder to learn to speak correctly in a foreign language , rather than learning to understand it . Right ?
+
+dialogue type : %--
+E :  I mean
+
+dialogue type : s|qy^d^f^g
+E :  just the fact that we 'll get The point is that getting it to understand one construction doesn't mean that it will n always know exactly when it 's correct to use that construction . Right ?
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Nnn , yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qy^bu^rt
+E :  Well you 're not gonna are you gonna get a variety of intentions out of that then ?
+
+dialogue type : s^bu
+E :  I mean , you 're just talking about like given this user , what 's the th what is it what is that user most likely to want to do ?
+
+dialogue type : s.%-
+E : 
+
+dialogue type : %
+E :  OK .
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : s^nd^no
+E :  I don't know if that 's right or not .
+
+dialogue type : s
+E :  Th - that 's big .
+
+dialogue type : s^bu|qy^d^g^rt
+E :  That 's just That 's uh It 's a billion , right ?
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : s
+E :  Argh .
+
+dialogue type : s^bk
+E :  Oh , OK .
+
+dialogue type : fg|s^ba
+E :  Yeah . Yeah , that 's big .
+
+dialogue type : s^bk
+E :  Sure .
+
+dialogue type : s^bk
+E :  Alright .
+
+dialogue type : s^bk|qy^bu
+E :  OK . So , is it t comes to twenty billion or something ?
+
+dialogue type : s^ba
+E :  That 's pretty big , though .
+
+dialogue type : s
+E :  I remember there being some other one floating around .
+
+dialogue type : fh
+E :  But anyway , uh .
+
+dialogue type : fg|s
+E :  Yeah , it 's g Anyway , the point is that given all of these different factors , it 's uh e it 's it 's still going to be impossible to run through all of the possible situations or whatever .
+
+dialogue type : s|qy^d^f^g
+E :  But I mean , this 'll get us a bit closer at least , right ?
+
+dialogue type : fh
+E :  I mean .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^2
+E :  Long !
+
+dialogue type : s^ba^fe
+E :  Tah - dah !
+
+dialogue type : qy^bu^d^rt
+E :  Here in the group ?
+
+dialogue type : qy^bu^d^rt
+E :  Jerry Feldman .
+
+dialogue type : s
+E :  Yeah , i that would the g the bald guy .
+
+dialogue type : s
+E :  I 'm not going back .
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : s
+E :  Non - conducive .
+
+dialogue type : s
+E :  That 's approaching .
+
+dialogue type : qw
+E :  He 's coming back when ?
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Alright .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : h|s
+E :  Well , um , I don't have much experience with uh , conference papers for compu in the computer science realm ,
+
+dialogue type : s.%--
+E :  and so when I looked at what you had , which was apparently a complete submission , I just sort of said
+
+dialogue type : %--
+E : 
+
+dialogue type : s:s
+E :  I I didn't really know what to do with it ,
+
+dialogue type : s^bu
+E :  like , this is the sort of the basic outline of the system or whatever ,
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E :  or
+
+dialogue type : s:s^bu|qy^d^g^rt
+E :  " here 's an idea " , right ?
+
+dialogue type : s
+E :  That 's what that paper was ,
+
+dialogue type : s:s
+E :  " here 's here 's one possible thing you could do " ,
+
+dialogue type : s
+E :  short ,
+
+dialogue type : s^e
+E :  eight pages ,
+
+dialogue type : s^no
+E :  and I just don't know what you have in mind for expanding .
+
+dialogue type : s
+E :  Like I 'd I what I didn't do is go to the web site of the conference
+
+dialogue type : s
+E :  and look at what they 're looking for or whatever .
+
+dialogue type : s^bk
+E :  Right . Oh , yeah .
+
+dialogue type : s
+E :  Setting that aside .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b.%
+E :  Mmm .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s^t3
+E :  Backwards .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s
+E :  But that 's what you get for coming late to the meeting .
+
+dialogue type : fg
+E :  Um ,
+
+dialogue type : b.%
+E :  Hmm .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s|s^bk
+E :  The submitting to a major international conference . Yeah .
+
+dialogue type : b
+E :  Mmm . Mmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^fe^j
+E :  Why , we 've got over a week !
+
+dialogue type : b
+E :  Hmm !
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  What would one possibly put in such a paper ?
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : s^ba|s
+E :  Oh my gosh . Oh , I thought you were I thought we were talking about something
+
+dialogue type : s
+E :  which was much more like ten or something .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^ba
+E :  That would be hard .
+
+dialogue type : s^m
+E :  Four thousand lines .
+
+dialogue type : fh|qy^bu
+E :  I mean . Isn't a isn't it about fifty s fifty five , sixty lines to a page ?
+
+dialogue type : s^j
+E :  He he decided I 'm chilling in the five - one - O .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^ft
+E :  Thank you .
+
+dialogue type : s^j
+E :  I got this from the two one two .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : qy^bu^d^j^rt
+E :  The thing with the goats and the helicopters ?
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : s^ba
+E :  Oh , shoot .
+
+dialogue type : s
+E :  We 'll see .
+
+dialogue type : b
+E :  Huh .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^t^tc.%-
+E : 
+
+dialogue type : fg
+E :  Um ,
+
+dialogue type : s
+E :  I mean , we 're gonna have an example case
+
+dialogue type : fh|qy^d^f^g
+E :  um , right ?
+
+dialogue type : s:qw
+E :  I m the the point is to like this " where is " case , or something .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^df.%-
+E : 
+
+dialogue type : fg|s
+E :  yeah , looking at that paper that that you had , I mean you know , like , you didn't really explain in detail what was going on in the XML cases or whatever
+
+dialogue type : s:s
+E :  you just sorta said well , you know , here 's the general idea ,
+
+dialogue type : s
+E :  some stuff gets put in there .
+
+dialogue type : s
+E :  You know , hopefully you can you can say something like constituents tells you what the construction is made out of , you know , without going into this intense detail .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  Give them the one paragraph whirlwind tour of w w what this is for ,
+
+dialogue type : fh
+E :  and Yeah .
+
+dialogue type : s
+E :  I think so .
+
+dialogue type : s
+E :  Oh I saw the diagram in the office ,
+
+dialogue type : s
+E :  Way !
+
+dialogue type : s
+E :  Oh , god , I hope not .
+
+dialogue type : s
+E :  You know like " Sussudio " ,
+
+dialogue type : s
+E :  that horrible , horrible song that should never have been created .
+
+dialogue type : s.%
+E :  in here
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^j
+E :  It sounds too rocking for that .
+
+dialogue type : fg|qw^t^tc
+E :  Anyway . So , what 's going on here ?
+
+dialogue type : qw.%-
+E : 
+
+dialogue type : qw
+E :  Was wollte der Kuenstler uns damit sagen ?
+
+dialogue type : s
+E :  Those are little bugs .
+
+dialogue type : s.%-
+E :  That 's a c
+
+dialogue type : %-
+E : 
+
+dialogue type : s^df|qy^d
+E :  Cuz things fit onto that , see ?
+
+dialogue type : s^e
+E :  In a vaguely obscene fashion .
+
+dialogue type : s^co
+E :  So wait ,
+
+dialogue type : qw^rt
+E :  what a what are these letters again ,
+
+dialogue type : s^e.%-
+E :  Situr - Situation , User , Discourse and
+
+dialogue type : s^bk^m
+E :  Ontology .
+
+dialogue type : %-
+E : 
+
+dialogue type : s|s^bk
+E :  Discourse is all things linguistic , yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^df
+E :  Uh , so , wait so um , since this since this sort of technical stuff is going over my head ,
+
+dialogue type : qy^bu^d^rt
+E :  the the point is that you uh that when someone 's talking about a castle , you know that it 's the sort of thing that people are likely to wanna go into ?
+
+dialogue type : qrr
+E :  Or , is it the fact that if there 's an admission fee , then one of the things we know about admission fees is that you pay them in order to go in ?
+
+dialogue type : s^bu^rt
+E :  And then the idea of entering is active in the discourse or something ? And then
+
+dialogue type : s^e
+E :  blah - blah - blah ?
+
+dialogue type : fh
+E :  I mean .
+
+dialogue type : b
+E :  Oh , OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : fg
+E : 
+
+dialogue type : s^co
+E :  No , go ahead .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm . OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^bk|s^bu:qw
+E :  OK . But you 're still doing look up so that when the person So the point is that when the person says , " where is it ? " then you sort of say , let 's go back and look at other things and then decide ,
+
+dialogue type : s
+E : 
+
+dialogue type : s.%--
+E :  You know like w
+
+dialogue type : s:qw
+E :  prior to the " where is it " question they say , you know , " how much does it cost to get in , you know , to to see a movie around here " ,
+
+dialogue type : fh|s:qw
+E : 
+
+dialogue type : s
+E :  The the the point is that by mentioning admission fees , that just sort of stays active now .
+
+dialogue type : s
+E :  You know . That becomes part of like , their sort of current ongoing active conceptual structure .
+
+dialogue type : s
+E :  And then , um , over in your Bayes - net or whatever , when when the person says " where is it " , you 've already got , you know since they were talking about admission , and that evokes the idea of entering , um , then when they go and ask " where is it " , then you 're Enter node is already active
+
+dialogue type : s^df
+E :  because that 's what the person is thinking about .
+
+dialogue type : s
+E :  I mean that 's the sort of cognitive linguistic - y way ,
+
+dialogue type : s^bd
+E :  and probably not practical .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mmm , yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^2
+E :  And much harder to r program .
+
+dialogue type : s^r
+E :  And much harder to p to program .
+
+dialogue type : b
+E :  Uh
+
+dialogue type : s.%-
+E :  Well we were
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg|s^bu.%--
+E : 
+
+dialogue type : s^bu|qy^d^g
+E :  I mean we 're talking about sort of anything that has the semantics of request for location , right ?
+
+dialogue type : %--
+E :  actually ?
+
+dialogue type : %--
+E :  Or ,
+
+dialogue type : s|qy^d^g
+E :  I mean , anyway , the node in the uh the ultimate , uh , in in the Bayes - net thing when you 're done , the the node that we 're talking about um , is one that says " request for location , true " , or something like that , right ?
+
+dialogue type : s^bu:qw|qy^d^g
+E :  Um , and and exactly how that gets activated , you know , like whether we want the sentence " how do I get there ? " to activate that node or not , you know , that 's that 's sort of the issue that sort of the linguistic - y side has to deal with , right ?
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^bk
+E :  Alright , OK .
+
+dialogue type : s
+E :  Oy .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s
+E :  I 'm thinking about it .
+
+dialogue type : h
+E : 
+
+dialogue type : s^cs
+E :  I kinda like it better without that extra level of indirection too .
+
+dialogue type : s
+E :  You know with with this points to this points to that , and so on
+
+dialogue type : s^df.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : fg|s
+E :  Right , th this it 's not it 's not that this is sort of like semantically ambiguous between these two .
+
+dialogue type : s
+E :  It 's really about this
+
+dialogue type : qh
+E :  but why would you care about this ?
+
+dialogue type : s|s^f
+E :  Well , it 's because you also want to know this , or something like that right ?
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  Here 's hoping .
+
+dialogue type : s^r|s^f
+E :  Here 's hoping . Right ?
+
+dialogue type : s^e
+E :  Now cross your fingers .
+
+dialogue type : b
+E :  Yeah . Yeah .
+
+dialogue type : b
+E :  Um - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^j^na|s^aa^j
+E :  That 's always a good way to begin . Yeah . Yeah .
+
+dialogue type : s^2^j
+E :  All others are useless .
+
+dialogue type : s^ba.%
+E :  That 's good .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  True .
+
+dialogue type : b
+E :  Huh .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk.%
+E :  Sure .
+
+dialogue type : fg|s
+E :  Yeah , I 'll have to look more into that data .
+
+dialogue type : qy
+E :  Is that around ?
+
+dialogue type : s^bu^rt
+E :  Like , cuz that 's pretty much getting posted or something right away when you get it ?
+
+dialogue type : qrr.%--
+E :  Or ?
+
+dialogue type : s|qy^d^g
+E :  I guess it has to be transcribed , huh ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : fg
+E : 
+
+dialogue type : s
+E :  I mean you know that I that I looked at the first the first one and got enough data to keep me going for , you know , probably most of July .
+
+dialogue type : fh
+E :  So . But , um .
+
+dialogue type : fg|s
+E :  Yeah , a probably not the right way to do it actually .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Right .
+

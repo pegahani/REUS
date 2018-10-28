@@ -1,0 +1,684 @@
+dialogue type : z
+D :  There 's gonna be some zeros from this morning 's meeting because I noticed that
+
+dialogue type : z
+D :  Barry , I think maybe you turned your mike off before the digits were
+
+dialogue type : z
+D :  Oh ,
+
+dialogue type : z
+D :  was it during digits ?
+
+dialogue type : z
+D :  Oh , so it doesn't matter .
+
+dialogue type : z
+D :  Yeah .
+
+dialogue type : z
+D :  Yeah .
+
+dialogue type : s^j^rt
+D :  And then she said " Did I say three ?
+
+dialogue type : s^j
+D :  I meant four . "
+
+dialogue type : s
+D :  Yeah , I just wonder if you have to normalize by the numbers of speakers or something .
+
+dialogue type : s^na
+D :  Cuz not everybody talks .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^cs^j
+D :  Three words from the end .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  I wonder about the cause and effect there .
+
+dialogue type : s^df
+D :  In other words uh if you weren't going to pause you you will because you 're g being interrupted .
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Yeah ,
+
+dialogue type : b
+D :  right .
+
+dialogue type : s^ar
+D :  No , no , no .
+
+dialogue type : b
+D :  Right ,
+
+dialogue type : s^bk
+D :  I I see .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qy
+D : 
+
+dialogue type : s
+D :  I I thought maybe Liz presented this at some conference a while ago about uh , backchannels
+
+dialogue type : fh
+D :  uh ,
+
+dialogue type : s
+D :  and that they tend to happen when uh the pitch drops .
+
+dialogue type : s^e
+D :  You know you get a falling pitch .
+
+dialogue type : s
+D :  And so that 's when people tend to backchannel .
+
+dialogue type : qy.%-
+D :  Uh - i i do you rem
+
+dialogue type : s^bk
+D :  Right . Right .
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qh^bk^rt
+D :  Oh you do .
+
+dialogue type : qy^rt
+D :  So am I recalling correctly ?
+
+dialogue type : %--
+D : 
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s
+D :  It made me think about a cool little device that could be built
+
+dialogue type : %--
+D :  to
+
+dialogue type : fh
+D : 
+
+dialogue type : s^e
+D :  to handle those people that call you on the phone and just like to talk and talk and talk .
+
+dialogue type : s
+D :  And you just have this little detector that listens for these drops in pitch and gives them the backchannel .
+
+dialogue type : s^e
+D :  And so then you hook that to the phone and go off
+
+dialogue type : s^e
+D :  and do the do whatever you r wanna do ,
+
+dialogue type : s^e
+D :  while that thing keeps them busy .
+
+dialogue type : s^bk
+D :  Uh - huh .
+
+dialogue type : b
+D :  Sure .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Oh !
+
+dialogue type : b
+D :  Huh .
+
+dialogue type : s^na
+D :  It wouldn't matter ?
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s
+D :  Random intervals .
+
+dialogue type : qy^rt
+D :  Is it the same directory that you had suggested ?
+
+dialogue type : qy^d^rt
+D :  So we could point Mari to this also for her March O - one request ?
+
+dialogue type : %--
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^na.%--
+D : 
+
+dialogue type : qy^rt^t1
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^na^r
+D :  She was saying it would be nice if they had eh the same set ,
+
+dialogue type : s^df
+D :  so that when they did experiments they could compare .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  We need to give Brian the beeps file ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk|s.%-
+D :  Yeah , it
+
+dialogue type : s^cc
+D :  I 'll make another directory .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Exactly .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  Yeah , in fact after our meeting uh , this morning Thilo came in and said that um , there could be other differences between the uh already transcribed meeting with the beeps in it and one that has just r been run through his process .
+
+dialogue type : s
+D :  So tomorrow , when we go to make the um uh , chunked file for IBM , we 're going to actually compare the two .
+
+dialogue type : s
+D :  So he 's gonna run his process on that same meeting ,
+
+dialogue type : s
+D :  and then we 're gonna do the beep - ify on both , and listen to them and see if we notice any real differences .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s
+D :  w and we know that .
+
+dialogue type : s.%-
+D :  Wel - uh we just wanna if if there 're any major differences between doing it on the hand
+
+dialogue type : s
+D :  But the but there 's yeah , but there is this one issue with them in that there 're there are time boundaries in there that occur in the middle of speech .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^e.%--
+D :  Like when we went t to
+
+dialogue type : fh
+D : 
+
+dialogue type : s^e
+D :  When I was listening to the original file that Adam had , it 's like you you hear a word then you hear a beep and then you hear the continuation of what is the same sentence .
+
+dialogue type : fg
+D :  Well ,
+
+dialogue type : s.%--
+D :  and and so the th
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s
+D :  So you 'll you 'll have a chunk of , you know , channel A which starts at zero and ends at ten ,
+
+dialogue type : s
+D :  and then the same channel starting at eleven ,
+
+dialogue type : s
+D :  ending at fifteen ,
+
+dialogue type : s
+D :  and then again , starting at sixteen ,
+
+dialogue type : s
+D :  ending at twenty .
+
+dialogue type : qy^d^f^g^rt
+D :  Right ,
+
+dialogue type : s
+D :  so that 's three chunks where actually we w can just make one chunk out of that
+
+dialogue type : s^e
+D :  which is A , zero , twenty .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^df
+D :  So I just wanted to make sure that it was clear .
+
+dialogue type : fg|s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa^t3
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s
+D :  I think Jane tightened these up by hand .
+
+dialogue type : qy^d^rt
+D :  Jane ?
+
+dialogue type : qw.%--
+D : 
+
+dialogue type : s
+D :  So I 'm a little confused ,
+
+dialogue type : qw^bu^rt
+D :  because how do we know where to put beeps ?
+
+dialogue type : qy.%-
+D : 
+
+dialogue type : s^bu
+D :  But after we 've done Thilo 's thing .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  They just do that on the main channels .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : qy^rt
+D :  So , now Jane , my question is when they 're all done adjusting the w time boundaries for the dominant speaker , have they then also erased the time boundaries for the other ones ?
+
+dialogue type : qw.%-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : qy^bu^d
+D :  So she does the adjustments on those guys ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qh^cs
+D :  So if you don't have to adjust the bins , why not just do what it for all the channels ?
+
+dialogue type : qh^cs
+D :  Why not just throw all the channels to IBM ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^2
+D :  Without having her check anything .
+
+dialogue type : s^na
+D :  Yeah , I mean we have to fix it when it comes back anyhow .
+
+dialogue type : s
+D :  So in fact this might suggest an alternative sort of a a c a hybrid between these two things .
+
+dialogue type : s^cs
+D :  So the the one suggestion is you know we we run Thilo 's thing
+
+dialogue type : s^cs
+D :  and then we have somebody go and adjust all the time boundaries
+
+dialogue type : s^cs
+D :  and we send it to IBM .
+
+dialogue type : s^cs
+D :  The other one is we just run his thing and send it to IBM .
+
+dialogue type : s
+D :  There 's a a another possibility if we find that there are some problems ,
+
+dialogue type : s^cs
+D :  and that is if we go ahead and we just run his , and we generate the beeps file , then we have somebody listen beeps file .
+
+dialogue type : s^cs.%--
+D :  And they listen to each section and say " yes , no " whether that section is
+
+dialogue type : s^m^na
+D :  i i intelligible or not .
+
+dialogue type : s^df
+D :  And it just You know , there 's a little interface which will for all the " yes " - es it then that will be the final beep file .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  I mean it wouldn't be that much fun for a transcriber to sit there , hear it , beep , yes or no .
+
+dialogue type : s^df
+D :  But it would be quick .
+
+dialogue type : s^df
+D :  But there 's no adjusting .
+
+dialogue type : s^df
+D :  And that 's what 's slow .
+
+dialogue type : s^df^r
+D :  There 's no adjusting of time boundaries .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  That 's true .
+
+dialogue type : s^cs^na
+D :  We can just catch it at the catch everything at this side .
+
+dialogue type : s^na
+D :  Well maybe that 's the best way to go ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^arp^rt
+D :  We won't be able to s include it with this first thing ,
+
+dialogue type : s^df
+D :  because there 's a part of the process of the beep file which requires knowing the normalization coefficients .
+
+dialogue type : s.%-
+D :  And So a
+
+dialogue type : %-
+D :  OK
+
+dialogue type : s^bk
+D :  Right ,
+
+dialogue type : s^df^ng
+D :  except I don't think that the c the instructions for doing that was in that directory ,
+
+dialogue type : qy^d^f^g^rt
+D :  right ?
+
+dialogue type : s.%-
+D :  I I didn't see where you had gener
+
+dialogue type : %-
+D :  n Doing th
+
+dialogue type : s^ar|s^nd
+D :  No , getting the coefficients ,
+
+dialogue type : s^e
+D :  for each channel .
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : s^bu.%-
+D : 
+
+dialogue type : qy^bu^d^rt
+D :  We just run that
+
+dialogue type : s^bk
+D :  J - sound - stat ? OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^2
+D :  Send it to them .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s^cs^na
+D :  When they when there 's either no speech in there ,
+
+dialogue type : s^cs^na
+D :  or something they don't understand ,
+
+dialogue type : s^cs^na
+D :  things like that .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  And they may just guess at what those cut - off words are ,
+
+dialogue type : s
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^ba
+D :  Well good .
+
+dialogue type : s
+D :  That that really simplifies thing then .
+
+dialogue type : s
+D :  And we can just , you know , get the meeting ,
+
+dialogue type : s
+D :  process it ,
+
+dialogue type : s
+D :  put the beeps file ,
+
+dialogue type : s
+D :  send it off to IBM .
+
+dialogue type : qy^d^f^g
+D :  You know ?
+
+dialogue type : s^e
+D :  With very little work on our side .
+
+dialogue type : qy^br^d^rt
+D :  Do what ?
+
+dialogue type : s^cs
+D :  Well , sample it .
+
+dialogue type : s^cs^r
+D :  Sample it .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^na
+D :  Yeah that would be very good .
+
+dialogue type : s^cs.%--
+D : 
+
+dialogue type : s^na
+D :  That 'll oughta be a good way to get the pipeline going .
+
+dialogue type : s^ng
+D :  Well I don't think Jane 's saying they 're gonna transcribe it ,
+
+dialogue type : s^bu
+D :  but they 'll just mark it as being there 's some background stuff there ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s^co
+D :  But wait a minute ,
+
+dialogue type : qw^bu
+D :  why would they treat them differently ?
+
+dialogue type : s^cs
+D :  Well we may just have to do it when it gets back here .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^nd
+D :  it it 's gonna be too much work if we hafta worry about that I think .
+
+dialogue type : s
+D :  Yeah , I think if we just m send it all to them .
+
+dialogue type : fh
+D :  you know .
+
+dialogue type : %--
+D : 
+
+dialogue type : s^na
+D :  Yeah , worry about it when we get back in .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah , e
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : z
+D :  Do you guys plug your ears when you do it ?
+
+dialogue type : z
+D :  I do .
+
+dialogue type : z
+D :  You don't ?
+
+dialogue type : z
+D :  How can you do that ?
+
+dialogue type : z
+D : 
+
+dialogue type : z
+D :  Gah !
+
+dialogue type : z
+D :  You hate to have your ears plugged ?
+
+dialogue type : z
+D :  Really ?
+

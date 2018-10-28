@@ -1,0 +1,795 @@
+dialogue type : z
+A :  OK .
+
+dialogue type : z
+A :  Hmm .
+
+dialogue type : z
+A :  That was fun .
+
+dialogue type : z
+A :  That was fun .
+
+dialogue type : z
+A :  Yeah .
+
+dialogue type : sj^ba
+A :  Excellent .
+
+dialogue type : qy^rt
+A :  Will we have time to , um , to prepare something that we in the format we were planning for the IBM transcribers by then ,
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^na
+A :  He generated , um , a channel - wise presegmented version of a meeting ,
+
+dialogue type : s
+A :  but it was Robustness rather than EDU so I guess depends on whether we 're willing to use Robustness ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : fg
+A :  Great .
+
+dialogue type : s^cc
+A :  I 'll I 'll I 'll , um , get make that available .
+
+dialogue type : h|s^co
+A :  Oh , well , wait .
+
+dialogue type : h
+A : 
+
+dialogue type : s^bk
+A :  That 's right .
+
+dialogue type : s^aa
+A :  Yeah that 's right .
+
+dialogue type : s
+A :  Yeah , we haven't done that .
+
+dialogue type : s^cc
+A :  I I could set someone on that tomorrow .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qw
+A :  What would be a good number of minutes ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Mm - hmm , mm - hmm .
+
+dialogue type : s^e
+A :  And have them fix it over the entire meeting too ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^aa
+A :  Hmm , I gue hmm .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^m^rt
+A :  Individual channels .
+
+dialogue type : s^aa^rt
+A :  Yeah .
+
+dialogue type : s
+A :  I guess there is this issue of , you know , if if the segmenter thought there was no speech on on a particular stretch , on a particular channel ,
+
+dialogue type : s
+A :  and there really was , then , if it didn't show up in a mixed signal to verify , then it might be overlooked ,
+
+dialogue type : fh|qr
+A :  so , I mean , the question is " should should a transcriber listen to the entire thing or can it g can it be based on the mixed signal ? "
+
+dialogue type : s
+A :  And I th eh so far as I 'm concerned it 's fine to base it on the mixed signal at this point ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s^e
+A :  And that cuts down the time .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : sj^ba
+A :  Yeah , that 's good .
+
+dialogue type : fh
+A :  So . Yeah .
+
+dialogue type : b
+A :  Good , good , good .
+
+dialogue type : qw^rt
+A :  What what aspect ?
+
+dialogue type : sj.x
+A :  Should be pretty good ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : fg|s
+A :  Yeah , but presumably , most of those they should be able to hear from the mixed signal unless they 're embedded in the heavil heavy overlap section
+
+dialogue type : s
+A :  when in which case they 'd be listening to the channels anyway .
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s^aa
+A :  I am too .
+
+dialogue type : s
+A :  And I think it 's an empirical question .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Yeah , that 's it .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg|s^arp
+A :  w Well , the other problem is the breaths
+
+dialogue type : s^df
+A :  cuz you also see the breaths on the waveform .
+
+dialogue type : s
+A :  I 've I 've looked at the int uh , s I 've tried to do that with a single channel ,
+
+dialogue type : s
+A :  and and you do see all sorts of other stuff besides just the voice .
+
+dialogue type : sj^am
+A :  Well that that I 'm not sure .
+
+dialogue type : qy^bu^rt
+A :  What you the digital what the digital task that you had your interface ?
+
+dialogue type : fh|s
+A :  Um , I know for a fact that one of those sh she could really well she could judge what th what the number was based on the on the waveform .
+
+dialogue type : s
+A :  Yeah , she could tell which one was seven .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg|s
+A :  Well , they have a choice .
+
+dialogue type : s
+A :  They could choose any signal to look at .
+
+dialogue type : s
+A :  I 've tried lookin but usually they look at the mixed .
+
+dialogue type : s
+A :  But I 've I 've tried looking at the single signal and and in order to judge when it when it was speech and when it wasn't ,
+
+dialogue type : s
+A :  but the problem is then you have breaths which which show up on the signal .
+
+dialogue type : b
+A :  Yes .
+
+dialogue type : b
+A :  Yes .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : s^fe
+A :  Oh ,
+
+dialogue type : s
+A :  they show up on the separate ribbons .
+
+dialogue type : s^rt
+A :  So you have a separate ribbon for each channel ,
+
+dialogue type : s
+A :  and and i i it 'll be because it 's being segmented as channel at a time with his with Thilo 's new procedure ,
+
+dialogue type : s
+A :  then you don't have the correspondence of the times across the bins uh across the ribbons
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk|s^nd
+A :  Oh , well not not " look " .
+
+dialogue type : s^e
+A :  Not very quickly .
+
+dialogue type : s
+A :  You can but it takes time .
+
+dialogue type : s^aa
+A :  That 's it .
+
+dialogue type : s^bk
+A :  Oh , oh .
+
+dialogue type : s
+A :  Visually .
+
+dialogue type : s
+A :  You can you can switch quickly between the audio ,
+
+dialogue type : s
+A :  but you just can't get the visual display to show quickly .
+
+dialogue type : s^co.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fh|s.%-
+A : 
+
+dialogue type : s^r.%--
+A :  It takes long enough cuz it has to reload the
+
+dialogue type : s^no
+A :  I I don't know exactly what it 's doing frankly
+
+dialogue type : s
+A :  cuz but it t it takes long enough that it 's just not a practical alternative .
+
+dialogue type : s^cs
+A :  Now you could set up multiple windows , each one with a different signal showing , and then look between the windows .
+
+dialogue type : sj
+A :  Maybe that 's the solution .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  You know , I am thinking if we have a meeting with only four speakers
+
+dialogue type : s^cs
+A :  and , you know , you could fire up a Transcriber interface for , y you know , in different windows , multiple ones , one for each channel .
+
+dialogue type : s^df
+A :  And it 's sort of a a hack but I mean it would be one way of seeing the visual form .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : sj
+A :  Well , I I do think that this this will be a doable procedure ,
+
+dialogue type : s
+A :  and have them starting with mixed
+
+dialogue type : fh|s
+A :  and , um , then when they get into overlaps , just have them systematically check all the channels to be sure that there isn't something hidden from from audio view .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : s^aa^r
+A :  Yes .
+
+dialogue type : %-
+A : 
+
+dialogue type : h
+A :  Um ,
+
+dialogue type : qy^rt
+A :  I 'm not sure what click what click on the ribbon ?
+
+dialogue type : s^aa
+A : 
+
+dialogue type : s^fe
+A :  oh , oh ,
+
+dialogue type : qy^bu^d^rt
+A :  get you can get the , uh you can get it to switch audio ?
+
+dialogue type : h|s^nd
+A :  Uh , not last I tried ,
+
+dialogue type : fh|s
+A :  but , um , maybe he 's changed it again .
+
+dialogue type : s^ar
+A :  I disagree .
+
+dialogue type : s^df
+A :  There 's a reason I disagree , and that is that , uh , you it 's very good to have a dissociation between the visual and the audio .
+
+dialogue type : s^e
+A :  There 're times when I wanna hear the mixed signal ,
+
+dialogue type : s
+A :  bu but I want to transcribe on the single channel .
+
+dialogue type : fh|s.%-
+A : 
+
+dialogue type : s^am|s^no.%-
+A : 
+
+dialogue type : h|sj
+A :  Well , I mean , that 's the i I I think that might be a personal style thing .
+
+dialogue type : sj
+A :  I find it really convenient the way the way it 's set up right now .
+
+dialogue type : b
+A :  That 's fine .
+
+dialogue type : s^aa
+A :  Yeah , it 's true .
+
+dialogue type : s^aa|s
+A :  Yeah , it could be faster ,
+
+dialogue type : s^j.%--
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : sj^ba
+A :  No I I agree that 'd be nice .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^fe
+A :  Oh , wow !
+
+dialogue type : b
+A :  Oh , OK .
+
+dialogue type : s^fe
+A :  Oh .
+
+dialogue type : b
+A :  Oh .
+
+dialogue type : qy^rt
+A :  You did you have , uh , something in the report about , uh , about , uh , for f uh , forced alignment ?
+
+dialogue type : qy^rt
+A :  Have you have you started on that ?
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s
+A :  Well it 's a merging problem .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I 've thought about this ,
+
+dialogue type : fh|s
+A :  um , and I 've discussed I 've discussed it with Thilo ,
+
+dialogue type : fh|s^cs
+A :  um , the , I mean , I I in principle I could imagine writing a script which would approximate it to some degree ,
+
+dialogue type : s
+A :  but there is this problem of slippage ,
+
+dialogue type : s^aa
+A :  yeah .
+
+dialogue type : s
+A :  Well they they can be stretched .
+
+dialogue type : sj^ng
+A :  I wouldn't make that generalization
+
+dialogue type : s^df
+A :  cuz sometimes people will say , " And then I " and there 's a long pause
+
+dialogue type : s
+A :  and finish the sentence
+
+dialogue type : s.%--
+A : 
+
+dialogue type : sj
+A :  I mean it 's it 's not a simple problem .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^rt
+A :  And then it 's coupled with the problem that sometimes , you know , with with a fricative you might get the beginning of the word cut off
+
+dialogue type : s
+A :  and so it 's coupled with the problem that Thilo 's isn't perfect either .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  y i i if the speech - nonspeech were perfect to begin with , the detector , that would already be an improvement ,
+
+dialogue type : sj
+A :  but that 's impossible , you know , i that 's too much to ask .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : sj
+A :  I think that there always th there would have to be some hand - tweaking ,
+
+dialogue type : sj
+A :  but it 's possible that a script could be written to merge those two types of things .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^e
+A :  in terms of not him doing it ,
+
+dialogue type : s
+A :  but we we discussed some of the parameters of that
+
+dialogue type : s
+A :  and how hard it would be to in principle to write something that would do that .
+
+dialogue type : s
+A :  Well , it 's just , you know , a matter of we had the revolution we had the revolution of improved , uh , interface , um , one month too late ,
+
+dialogue type : sj
+A :  but it 's like , you know , it 's wonderful to have the revolution ,
+
+dialogue type : s
+A :  so it 's just a matter of of , you know , from now on we 'll be able to have things channelized to begin with .
+
+dialogue type : s^aa
+A :  Yeah ,
+
+dialogue type : s^aa
+A :  that 's right .
+
+dialogue type : s^aa
+A :  That 's right .
+
+dialogue type : sj^ba
+A :  Good point .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : sj
+A :  Well the problem is I you know I I it 's a it 's a really good question ,
+
+dialogue type : s
+A :  and I really find it a pain in the neck to delete things
+
+dialogue type : s^df
+A :  because you have to get the mouse up there on the t on the text line
+
+dialogue type : s
+A : 
+
+dialogue type : s.%--
+A :  I mean , i it depends on how lar
+
+dialogue type : s
+A :  th there 's so many extra things that would make it one of them harder than the other , or or vice versa .
+
+dialogue type : sj
+A :  It 's not a simple question .
+
+dialogue type : s
+A :  But , you know , I mean , in principle , like , you know , if one of them is easier then to bias it towards whichever one 's easier .
+
+dialogue type : sj
+A :  I think it 's easier to add than delete , frankly ,
+
+dialogue type : s^df
+A :  because you have to , uh , maneuver around on the on both windows then .
+
+dialogue type : s
+A :  To delete .
+
+dialogue type : sj
+A :  It 's possible .
+
+dialogue type : fg|sj.%--
+A :  Well , like , I think there 's a complication which is that that you can have speech and noise in s
+
+dialogue type : fh|s
+A :  uh , you know , on the same channel , the same speaker ,
+
+dialogue type : fh|s
+A :  so now sometimes you get a ni microphone pop
+
+dialogue type : fh|s
+A :  and , uh , I mean , there 're these fuzzy hybrid cases ,
+
+dialogue type : s
+A :  and then the problem with the boundaries that have to be shifted around .
+
+dialogue type : s
+A :  It 's not a simple not a simple problem .
+
+dialogue type : s
+A :  Well , and also , I mean , I still haven't I still haven't given up on forced alignment .
+
+dialogue type : sj.%-
+A :  I think that when Brian comes , this 'll be uh an interesting aspect to ask him as well b
+
+dialogue type : s^rt
+A :  when Brian Kingsbury comes .
+
+dialogue type : s
+A :  Yeah , good question .
+
+dialogue type : fh|s
+A :  Well , Ryan could come .
+
+dialogue type : s
+A :  That 's what my hope has been ,
+
+dialogue type : s
+A :  and that 's what that 's what you know , ever since the the February meeting that I transcribed from last year , forced alignment has been on the on the table as a way of cleaning them up later .
+
+dialogue type : s
+A :  And and so I 'm hopeful that that 's possible .
+
+dialogue type : s
+A :  I know that there 's complication in the overlap sections and with the lapel mikes ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s^aa
+A :  I agree .
+
+dialogue type : s^aa^r
+A :  I agree .
+
+dialogue type : s^aa
+A :  Absolutely .
+
+dialogue type : sj^ba
+A :  Excellent .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  You said , " Speaking about energy " , or something .
+
+dialogue type : sj^ba
+A :  That was very nice .
+
+dialogue type : sj^ba
+A :  That 's great .
+
+dialogue type : s
+A :  I did go through one of these meetings .
+
+dialogue type : s
+A :  I had , uh , one of the transcribers go through and tighten up the bins on one of the , uh , NSA meetings ,
+
+dialogue type : s
+A :  and then I went through afterwards and double - checked it
+
+dialogue type : s
+A :  so that one is really very very accurate .
+
+dialogue type : s
+A :  I men I mentioned the link .
+
+dialogue type : qy^rt
+A :  I sent You know that one ?
+
+dialogue type : h|s
+A : 
+
+dialogue type : s^no
+A :  I don't remember the number off hand .
+
+dialogue type : s
+A :  It 's one of the NSA 's .
+
+dialogue type : s
+A :  I sent email before the conference , before last week .
+
+dialogue type : s^bsc
+A :  Bef - What I mean is Wednesday , Thursday .
+
+dialogue type : s
+A :  I 'm sure that that one 's accurate ,
+
+dialogue type : s^df^e
+A :  I 've been through it myself .
+
+dialogue type : s
+A :  I corrected it for a number of the words .
+
+dialogue type : s
+A :  I 'm sure that , um , they 're they 're accurate now .
+
+dialogue type : s
+A :  Well I won I noticed when you turned your head , it would it would tilt .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : sj.%--
+A :  I think it 's com
+
+dialogue type : s
+A :  This is the first time I 've worn this ,
+
+dialogue type : sj
+A :  I find it very comfortable .
+
+dialogue type : s^fe
+A :  Oh !
+
+dialogue type : b
+A :  Ah .
+
+dialogue type : fg|s
+A :  Well , wonder if it 's if if he was wearing it over his hair instead of under his hair .
+
+dialogue type : qw^br
+A :  What did you say ?
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : h
+A :  Mmm , yeah .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^d^rt
+A :  Maryland .
+
+dialogue type : b
+A :  Oh .
+
+dialogue type : sj^cs
+A :  Well , I like the idea that Adam had of of , um , z maybe generating minutes based on some of these things that we have
+
+dialogue type : s
+A :  because it would be easy to to to do that
+
+dialogue type : %--
+A :  just , you know ,
+
+dialogue type : fh
+A :  and and
+
+dialogue type : s
+A :  it has to be , though , someone from this group because of the technical nature of the thing .
+
+dialogue type : s^t3
+A :  I do take notes .
+
+dialogue type : sj^ba
+A :  It was an interesting session .
+
+dialogue type : s.%-
+A :  One of those w
+
+dialogue type : s^aa
+A :  Yeah , that 's it .
+
+dialogue type : sj
+A :  So , I mean , this was a very provocative slide .
+
+dialogue type : s
+A :  She put this up , and it was like this is this p people kept saying , " Can I see that slide again ? "
+
+dialogue type : s
+A :  and then they 'd make a comment , and one person said , well - known person said , um , you know , " Before you dismiss forty - five years including my work "
+
+dialogue type : sj
+A :  That was very offending ,
+
+dialogue type : s^r
+A :  very offending .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa|s^na
+A :  Yeah , that 's good .
+
+dialogue type : s
+A :  Yeah .
+

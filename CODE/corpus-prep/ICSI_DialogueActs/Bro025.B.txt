@@ -1,0 +1,903 @@
+dialogue type : z
+B :  Test , um . Test , test , test .
+
+dialogue type : z
+B :  Guess that 's me .
+
+dialogue type : z
+B :  Yeah . OK .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^t
+B :  There 's two sheets of paper in front of us .
+
+dialogue type : qy^d^j^rt
+B :  This is the arm wrestling ?
+
+dialogue type : s^ba
+B :  Oh , good .
+
+dialogue type : s^ba
+B :  Excellent .
+
+dialogue type : s^ba
+B :  That 's the best thing .
+
+dialogue type : s^co
+B :  So , tell me about it .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b^rt
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^bk^rt
+B :  OK .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : s^na
+B :  Yeah . I mean , it 's it 's actually , uh , very similar .
+
+dialogue type : s.%--
+B :  I mean , if you look at databases ,
+
+dialogue type : fh
+B :  uh ,
+
+dialogue type : s
+B :  the , uh , one that has the smallest smaller overall number is actually better on the Finnish and Spanish ,
+
+dialogue type : fh|s
+B : 
+
+dialogue type : s^bsc
+B :  I mean on the , uh , TI - TI - digits ,
+
+dialogue type : fh
+B :  uh , uh .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s
+B :  So , it probably doesn't matter that much either way .
+
+dialogue type : qy^bu^rt
+B :  But , um , when you say u uh , unified do you mean , uh , it 's one piece of software now ,
+
+dialogue type : qrr.%--
+B :  or ?
+
+dialogue type : b^rt
+B :  Mm - hmm .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^rt.%--
+B :  maybe you weren't around when when when Hynek and Guenther and I ?
+
+dialogue type : s^bk|s^cc
+B :  Oh , OK . So Yeah , let 's summarize .
+
+dialogue type : fh|s^cs
+B :  Um And then if I summarize somebody can tell me if I 'm wrong ,
+
+dialogue type : s^e
+B :  which will also be possibly helpful .
+
+dialogue type : qw
+B :  What did I just press here ?
+
+dialogue type : s
+B :  I hope this is still working .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  anyway we after coming back from QualComm we had , you know , very strong feedback
+
+dialogue type : s
+B :  and , uh , I think it was Hynek and Guenter 's and my opinion also that , um , you know , we sort of spread out to look at a number of different ways of doing noise suppression .
+
+dialogue type : s
+B :  But given the limited time , uh , it was sort of time to choose one .
+
+dialogue type : fh|s
+B :  Uh , and so , uh , th the vector Taylor series hadn't really worked out that much .
+
+dialogue type : s
+B :  Uh , the subspace stuff , uh , had not been worked with so much .
+
+dialogue type : fh|s
+B :  Um , so it sort of came down to spectral subtraction versus Wiener filtering .
+
+dialogue type : fh|s
+B :  Uh , we had a long discussion about how they were the same and how they were d uh , completely different .
+
+dialogue type : fh|s
+B :  And , uh , I mean , fundamentally they 're the same sort of thing
+
+dialogue type : s^df^e
+B :  but the math is a little different
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  you know , what 's the ideal filtering ,
+
+dialogue type : s
+B :  and depending on how you construct the problem .
+
+dialogue type : fh|s
+B :  And , uh , I guess it 's sort you know , after after that meeting it sort of made more sense to me
+
+dialogue type : s^df
+B :  because um , if you 're dealing with power spectra then how are you gonna choose your error ?
+
+dialogue type : s
+B :  And typically you 'll do choose something like a variance .
+
+dialogue type : s
+B :  And so that means it 'll be something like the square of the power spectra .
+
+dialogue type : s
+B :  Whereas when you 're when you 're doing the the , uh , um , looking at it the other way , you 're gonna be dealing with signals
+
+dialogue type : s
+B :  and you 're gonna end up looking at power uh , noise power that you 're trying to reduce .
+
+dialogue type : s
+B :  And so , eh so there should be a difference of you know , conceptually of of , uh , a factor of two in the exponent .
+
+dialogue type : s
+B :  But there 're so many different little factors that you adjust in terms of of , uh , uh , over - subtraction and and and and and so forth ,
+
+dialogue type : s^e.%--
+B :  um , that arguably , you 're c
+
+dialogue type : s
+B :  and and and the choice of do you do you operate on the mel bands or do you operate on the FFT beforehand .
+
+dialogue type : s
+B :  There 're so many other choices to make that are are almost well , if not independent , certainly in addition to the choice of whether you , uh , do spectral subtraction or Wiener filtering ,
+
+dialogue type : s^cs
+B :  that , um , @ @ again we sort of felt the gang should just sort of figure out which it is they wanna do
+
+dialogue type : s^cs^e
+B :  and then let 's pick it ,
+
+dialogue type : s^cs^e
+B :  go forward with it .
+
+dialogue type : s
+B :  So that 's that was that was last week .
+
+dialogue type : s^co^j
+B :  And and , uh , we said , uh , take a week , go arm wrestle ,
+
+dialogue type : fh
+B :  you know ,
+
+dialogue type : s^co
+B :  figure it out .
+
+dialogue type : s
+B :  I mean , and th the joke there was that each of them had specialized in one of them .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  so instead they went to Yosemite and bonded , and and they came out with a single single piece of software .
+
+dialogue type : s^j
+B :  So it 's another another victory for international collaboration .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fh
+B :  Uh .
+
+dialogue type : s^ba
+B :  Well , that 's fine ,
+
+dialogue type : s
+B :  but the thing is the important thing is that there is a piece of software that you that we all will be using now .
+
+dialogue type : s^aa
+B :  Yes .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Sure .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg
+B : 
+
+dialogue type : s^df
+B :  w which we sort of were before
+
+dialogue type : s^e
+B :  but we were considerably far behind .
+
+dialogue type : s^df^e
+B :  And the thing is , this doesn't have neural net in yet for instance .
+
+dialogue type : qy^d^g
+B :  You know ?
+
+dialogue type : s^df
+B :  So it so , um , it 's it it 's not using our full bal bag of tricks , if you will .
+
+dialogue type : s
+B :  And , uh , and it it is , uh , very close in performance to the best thing that was there before .
+
+dialogue type : s
+B : 
+
+dialogue type : s^e.%--
+B :  stationary dealing with e e
+
+dialogue type : s^bc
+B :  we didn't explicitly have anything to deal with stationary noise .
+
+dialogue type : s^e
+B :  And now we do .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I mean , I gather you have it sounds like you have a few more days of of nailing things down with the software and so on .
+
+dialogue type : s^cs
+B :  But and then but , um , arguably what we should do is , even though the software can do many things , we should for now pick a set of things ,
+
+dialogue type : s^e
+B :  th these things I would guess ,
+
+dialogue type : s^cs^e
+B :  and not change that .
+
+dialogue type : s^cs^e
+B :  And then focus on everything that 's left .
+
+dialogue type : s^cs^t
+B :  And I think , you know , that our goal should be by next week , when Hynek comes back , uh , to uh , really just to have a firm path , uh , for the you know , for the time he 's gone ,
+
+dialogue type : s^e
+B :  of of , uh , what things will be attacked .
+
+dialogue type : s^cs
+B :  But I would I would I would thought think that what we would wanna do is not futz with this stuff for a while
+
+dialogue type : s^df
+B :  because what 'll happen is we 'll change many other things in the system ,
+
+dialogue type : s^e
+B :  and then we 'll probably wanna come back to this and possibly make some other choices .
+
+dialogue type : fh
+B :  But , um .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s:qy
+B :  Well , one question is , is it on the , um , server side or is it on the terminal side ?
+
+dialogue type : s^df^rt
+B :  Uh , if it 's on the server side , it you probably don't have to worry too much about size .
+
+dialogue type : s
+B :  So that 's kind of an argument for that .
+
+dialogue type : s
+B :  We do still , however , have to consider its latency .
+
+dialogue type : s:qy
+B :  So the issue is is , um , for instance , could we have a neural net that only looked at the past ?
+
+dialogue type : s
+B :  Um , what we 've done in uh in the past is to use the neural net , uh , to transform , um , all of the features that we use .
+
+dialogue type : s
+B :  So this is done early on .
+
+dialogue type : s
+B : 
+
+dialogue type : qy^d^f^g
+B : 
+
+dialogue type : s^e
+B :  where we 're just kind of creating new if not new speech at least new new FFT 's
+
+dialogue type : s^e
+B : 
+
+dialogue type : fh|s^e
+B :  uh , that that have some of the noise removed .
+
+dialogue type : fh|s
+B :  Um , after that we still do a mess of other things to to produce a bunch of features .
+
+dialogue type : s^e
+B :  And then those features are not now currently transformed by the neural net .
+
+dialogue type : s
+B :  And then the the way that we had it in our proposal - two before , we had the neural net transformed features and we had the untransformed features ,
+
+dialogue type : s^e
+B :  which I guess you you actually did linearly transform with the KLT ,
+
+dialogue type : s^e
+B : 
+
+dialogue type : s^e
+B :  but but they were not , uh , processed through a neural net .
+
+dialogue type : s
+B :  And Stephane 's idea with that , as I recall , was that you 'd have one part of the feature vector that was very discriminant and another part that wasn't ,
+
+dialogue type : fh|s^e
+B :  uh , which would smooth things a bit for those occasions when , uh , the testing set was quite different than what you 'd trained your discriminant features for .
+
+dialogue type : s^ba
+B :  So , um , all of that is is , uh still seems like a good idea .
+
+dialogue type : s
+B :  The thing is now we know some other constraints .
+
+dialogue type : s
+B :  We can't have unlimited amounts of latency .
+
+dialogue type : s
+B :  Uh , y you know , that 's still being debated by the by people in Europe
+
+dialogue type : s^df
+B :  but , uh , no matter how they end up there , it 's not going to be unlimited amounts ,
+
+dialogue type : s
+B :  so we have to be a little conscious of that .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s
+B :  So there 's the neural net issue .
+
+dialogue type : s^e
+B :  There 's the VAD issue .
+
+dialogue type : s^e
+B :  And , uh , there 's the second stream thing .
+
+dialogue type : s
+B :  And I think those that we last time we agreed that those are the three things that have to get , uh , focused on .
+
+dialogue type : s
+B :  Well , better ones are good .
+
+dialogue type : s.%--
+B :  I guess they still allow two hundred milliseconds on either side or some ?
+
+dialogue type : qy^rt
+B :  Is that what the deal is ?
+
+dialogue type : qy^bu^d^rt
+B :  With the rank ordering ?
+
+dialogue type : s^fa
+B :  I 'm sorry .
+
+dialogue type : qy^bk^bu^d
+B :  Oh , this is for the VAD .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  Um .
+
+dialogue type : fh|s
+B :  So Yeah , I was just noticing on this that it makes reference to delay .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh|s
+B :  Um , the VAD is sort of in in parallel ,
+
+dialogue type : qy^d^g^rt
+B :  isn't i isn't it ,
+
+dialogue type : s
+B :  with with the ? I mean , it isn't additive with the the , uh , LDA and the Wiener filtering , and so forth .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : %-
+B : 
+
+dialogue type : qy^bu^d^rt
+B :  And there didn't seem to be any , uh , penalty for that ?
+
+dialogue type : qy^bu^d^r^rt
+B :  There didn't seem to be any penalty for making it causal ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  Well , may as well , then .
+
+dialogue type : s
+B :  And he says Wiener filter is is forty milliseconds delay .
+
+dialogue type : qy.%-
+B :  So is it ?
+
+dialogue type : s^2
+B :  The smoothing ?
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^ba
+B :  So that 's that 's really not not bad .
+
+dialogue type : s
+B :  So we may in fact we 'll see what they decide . We may in fact have , um , the the , uh , latency time available for to have a neural net .
+
+dialogue type : s^e
+B :  I mean , sounds like we probably will .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^ba
+B :  That 'd be good .
+
+dialogue type : s^df
+B :  Cuz I cuz it certainly always helped us before .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fh
+B :  Uh .
+
+dialogue type : s
+B :  Well , they 're you know , they 're disputing it .
+
+dialogue type : s^e
+B :  You know , they 're saying , uh one group is saying a hundred and thirty milliseconds and another group is saying two hundred and fifty milliseconds .
+
+dialogue type : s^e
+B :  Two hundred and fifty is what it was before actually .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s
+B :  uh , some people are lobbying lobbying to make it shorter .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : fh
+B :  And , um .
+
+dialogue type : s
+B :  Well , it just it when we find that out it might change exactly how we do it , is all .
+
+dialogue type : qw
+B :  I mean , how much effort do we put into making it causal ?
+
+dialogue type : s^ba
+B :  I mean , I think the neural net will probably do better if it looks at a little bit of the future .
+
+dialogue type : s^ba
+B :  But , um , it will probably work to some extent to look only at the past .
+
+dialogue type : s^df
+B :  And we ha you know , limited machine and human time , and effort .
+
+dialogue type : qw
+B :  And , you know , how how much time should we put into into that ?
+
+dialogue type : s
+B :  So it 'd be helpful if we find out from the the standards folks whether , you know , they 're gonna restrict that or not .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s
+B :  But I think , you know , at this point our major concern is making the performance better
+
+dialogue type : s
+B :  and and , um , if , uh , something has to take a little longer in latency in order to do it that 's you know , a secondary issue .
+
+dialogue type : s
+B :  But if we get told otherwise then , you know , we may have to c clamp down a bit more .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s^bk
+B :  Oh ,
+
+dialogue type : s^fe
+B :  oh .
+
+dialogue type : s^bk
+B :  So that 's fixed in this .
+
+dialogue type : s
+B :  Yeah , we talked about that .
+
+dialogue type : b
+B :  Good .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : fg|s
+B :  So , @ @ I mean , you were doing a lot of changes .
+
+dialogue type : qy^rt
+B :  Did you happen to notice how much , uh , the change was due to just this frame - dropping problem ?
+
+dialogue type : qo
+B :  What about this ?
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s
+B :  Well . But like we 're saying , if there 's four or five things like that then pretty sho soon you 're talking real improvement .
+
+dialogue type : %
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : s^ba
+B :  Oh , that 's a real good point .
+
+dialogue type : s^ba
+B :  It might be hard if it 's at the server side .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^am
+B :  Well , you could .
+
+dialogue type : s^df
+B :  Yeah . I mean , it it always seemed to us that it would be kind of nice to in addition to , uh , reducing insertions , actually use up less bandwidth .
+
+dialogue type : s
+B :  But nobody seems to have cared about that in this evaluation .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  So it would be more or less the same thing with the neural net , I guess , actually .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  Um .
+
+dialogue type : fh
+B :  OK .
+
+dialogue type : fh
+B :  So , uh ,
+
+dialogue type : qw.%--
+B :  what 's , uh ?
+
+dialogue type : s^ba.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah . I was wondering about that .
+
+dialogue type : s
+B :  That was I I had written that down there .
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s^ba
+B :  Hmm . Yeah . Well , it 's not surprising it 'd be worse the first time .
+
+dialogue type : fh
+B :  But , um ,
+
+dialogue type : s^ba^cs
+B :  it does seem like , you know , i i i i some compromise between always depending on the first fifteen frames and a a always depending on a a pause is is is a good idea .
+
+dialogue type : s^cs
+B :  Uh , maybe you have to weight the estimate from the first - teen fifteen frames more heavily than than was done in your first attempt .
+
+dialogue type : fh
+B : 
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : %--
+B : 
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : qy
+B :  do you have any way of assessing how well or how poorly the noise estimation is currently doing ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^cs
+B :  So that 's something you could do with , um , this final system .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : s
+B :  Just do this everything that is in this final system except , uh , use the channel zero .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^2
+B :  And then see how much better it gets .
+
+dialogue type : s^ba.%--
+B :  If it 's , you know , essentially not better , then it 's probably not worth
+
+dialogue type : s^e
+B :  any more .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : s^2^na
+B :  Not using these methods anyway . Yeah .
+
+dialogue type : s^aap|s.%--
+B :  Well , yeah . And and also there 's just the fact that , um ,
+
+dialogue type : fh|s
+B :  eh , uh , although we 're trying to do very well on this evaluation , um , we actually would like to have something that worked well in general .
+
+dialogue type : fh|s.%--
+B : 
+
+dialogue type : s
+B :  I mean , you might , you might not .
+
+dialogue type : fh
+B :  So , um .
+
+dialogue type : fh|s
+B :  Um , it 'd certainly be more robust to different kinds of input if you had at least some updates .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : fh
+B :  But , um .
+
+dialogue type : s^bd
+B :  Well , I don't know .
+
+dialogue type : qw
+B :  What what do you , uh what do you guys see as as being what you would be doing in the next week , given wha what 's happened ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^ng
+B :  This is a different net .
+
+dialogue type : s^bs
+B :  You see , the idea is that the , um , initial decision to that that you 're in silence or speech happens pretty quickly .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^na
+B :  Yeah . And that 's sort of fed forward , and and you say " well , flush everything , it 's not speech anymore " .
+
+dialogue type : h|s.%--
+B : 
+
+dialogue type : s
+B :  Yeah , it 's only used f Well , it 's used for frame - dropping .
+
+dialogue type : fh|s
+B :  Um , it 's used for end of utterance
+
+dialogue type : s^df
+B :  because , you know , there 's if you have more than five hundred milliseconds of of of nonspeech then you figure it 's end of utterance or something like that .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : fh
+B :  um .
+
+dialogue type : fg
+B :  Um .
+
+dialogue type : s^cs
+B :  Yeah . So probably the VAD and and maybe testing out the noise estimation a little bit .
+
+dialogue type : s
+B :  I mean , keeping the same method
+
+dialogue type : s
+B :  but but , uh , seeing if you cou but , um noise estimation could be improved .
+
+dialogue type : s^rt
+B :  Those are sort of related issues .
+
+dialogue type : s
+B :  It probably makes sense to move from there .
+
+dialogue type : s^cs
+B :  And then , uh , later on in the month I think we wanna start including the neural net at the end .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s^tc|qy^d^rt^t^tc
+B :  OK . Anything else ?
+
+dialogue type : s^ba^rt
+B :  Good .
+
+dialogue type : s^j^rt
+B :  Yeah . You didn't didn't fall .
+
+dialogue type : s^ba
+B :  That 's good .
+
+dialogue type : s^j^rt
+B :  Our e our effort would have been devastated
+
+dialogue type : s^e^j
+B :  if you guys had run into problems .
+
+dialogue type : s^aa
+B :  Yeah , that 's the plan .
+
+dialogue type : s
+B :  I guess the week after he 'll be , uh , going back to Europe ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^ar|s^ng
+B :  No , no . He 's he 's he 's dropped into the US . Yeah . Yeah .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fh
+B :  Uh . So , uh .
+
+dialogue type : s
+B :  Uh , the idea was that , uh , we 'd we 'd sort out where we were going next with this with this work before he , uh , left on this next trip .
+
+dialogue type : s^tc
+B :  Good . Uh , Barry , you just got through your quals , so I don't know if you have much to say .
+
+dialogue type : fh
+B :  But , uh .
+
+dialogue type : s^2
+B :  In conversational speech in particular .
+
+dialogue type : s^cs
+B :  I think you can you can put them in pretty reliably in synthetic speech .
+
+dialogue type : s
+B :  But we don't have too much trouble recognizing synthetic speech since we create it in the first place .
+
+dialogue type : %--
+B : 
+
+dialogue type : fg|s^t^tc
+B :  OK . Well , short meeting .
+
+dialogue type : s^ba
+B :  That 's OK .
+
+dialogue type : s^t
+B :  OK . So next week hopefully we 'll can get Hynek here to to join us
+
+dialogue type : fh
+B :  and , uh ,
+
+dialogue type : fh
+B :  uh .
+
+dialogue type : s^t
+B :  Digits , digits .
+
+dialogue type : s^aa
+B :  OK , now .
+
+dialogue type : s^co
+B :  Alright . Let me get my glasses on so I can see them .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : z
+B :  Mm
+

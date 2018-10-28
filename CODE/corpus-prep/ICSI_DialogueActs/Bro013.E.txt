@@ -1,0 +1,873 @@
+dialogue type : s^t
+E :  Uh , well , first there are perhaps these uh Meeting Recorder digits that we tested .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : b
+E :  Um .
+
+dialogue type : qy^2^d
+E :  Of data ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  I guess it 's it 's uh allophone models ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s^aa|s^na
+E :  Yeah . I think so ,
+
+dialogue type : s^df
+E :  because it 's their very d huge , their huge system .
+
+dialogue type : fh
+E :  And .
+
+dialogue type : fg
+E :  But .
+
+dialogue type : s
+E : 
+
+dialogue type : s
+E :  Well , the SRI system the result for the SRI system that are represented here are with adaptation .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  It 's their complete system and including on - line uh unsupervised adaptation .
+
+dialogue type : s
+E :  And if you don't use adaptation , the error rate is around fifty percent worse , I think , if I remember .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : x
+E :  Nnn .
+
+dialogue type : %--
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^na
+E :  It 's quite significant .
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^na
+E :  We can do something like that .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %--
+E : 
+
+dialogue type : s.%--
+E :  But I guess the main point is the data because
+
+dialogue type : s^no
+E :  uh I am not sure .
+
+dialogue type : s
+E :  Our back - end is is fairly simple
+
+dialogue type : s.%--
+E :  but until now , well , the attempts to improve it or have fail
+
+dialogue type : s.%-
+E :  Ah , well , I mean uh what Chuck tried to to to do
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^cs.%-
+E : 
+
+dialogue type : s^bk
+E :  Ah , yeah .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^2
+E :  f for the HMM models .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^cs.%--
+E : 
+
+dialogue type : s^cs
+E :  perhaps it 's not related , the amount of data but the um recording conditions .
+
+dialogue type : fh
+E :  I don't know .
+
+dialogue type : s
+E :  Because it 's probably not a problem of noise , because our features are supposed to be robust to noise .
+
+dialogue type : s
+E :  It 's not a problem of channel , because there is um normalization with respect to the channel .
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  The the fact that the result with the tandem and Aurora system are uh so much worse .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : %-
+E : 
+
+dialogue type : fg
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk|s^df
+E :  Yeah but we train only on digits and it 's it 's a digit task ,
+
+dialogue type : %--
+E :  so .
+
+dialogue type : fh
+E :  Well .
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Alright .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^nd
+E :  Well , actually we see that the clean train for the Aurora proposals are are better than the multi - train ,
+
+dialogue type : b
+E :  yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s.%--
+E :  Well , o I guess what I meant is that
+
+dialogue type : fh|s^cs
+E :  well , let 's say if we if we add enough data to train on the um on the Meeting Recorder digits , I guess we could have better results than this .
+
+dialogue type : %--
+E :  And .
+
+dialogue type : s
+E :  What I meant is that perhaps we can learn something uh from this ,
+
+dialogue type : s
+E :  what 's what 's wrong uh what what is different between TI - digits and these digits
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  It 's point eight percent ,
+
+dialogue type : fh
+E :  so .
+
+dialogue type : s
+E :  Four - Fourier .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s^na
+E :  th that 's th that 's my point
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah , I guess .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : %
+E :  Well .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  I listened .
+
+dialogue type : s
+E :  It 's quite different .
+
+dialogue type : s
+E :  TI - digit is it 's very , very clean and it 's like studio recording
+
+dialogue type : s
+E :  whereas these Meeting Recorder digits sometimes you have breath noise
+
+dialogue type : %--
+E :  and
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s
+E :  It 's not controlled at all , I mean .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : %
+E :  But
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : h
+E :  Um .
+
+dialogue type : %
+E : 
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  So , I think , yeah I think we basically gave up .
+
+dialogue type : x
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa.x
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fg
+E :  So .
+
+dialogue type : s^cc
+E :  Yeah , for sure we will do something for the special session .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : h
+E :  Well . So .
+
+dialogue type : s.%--
+E :  Perhaps the point is that we 've been working on is ,
+
+dialogue type : s
+E :  yeah , we have put the um the good VAD in the system
+
+dialogue type : s
+E :  and it really makes a huge difference .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : fh
+E :  So ,
+
+dialogue type : fh
+E :  yeah .
+
+dialogue type : s^rt
+E :  I think , yeah , this is perhaps one of the reason why our system was not not the best ,
+
+dialogue type : s
+E :  because with the new VAD , it 's very the results are similar to the France Telecom results and perhaps even better sometimes .
+
+dialogue type : fh|s^rt
+E :  Um . So there is this point .
+
+dialogue type : s
+E :  Uh . The problem is that it 's very big and we still have to think how to where to put it
+
+dialogue type : fh
+E :  and um ,
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E :  well , this VAD
+
+dialogue type : s.%--
+E :  uh either some delay
+
+dialogue type : s
+E :  and we if we put it on the server side , it doesn't work ,
+
+dialogue type : s^e
+E :  because on the server side features you already have LDA applied from the f from the terminal side
+
+dialogue type : s
+E :  and so you accumulate the delay
+
+dialogue type : s
+E :  so the VAD should be before the LDA
+
+dialogue type : s
+E :  which means perhaps on the terminal side
+
+dialogue type : s.%--
+E :  and then smaller and
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s
+E :  It 's um from OGI .
+
+dialogue type : s
+E :  So it 's the network trained it 's the network with the huge amounts on hidden of hidden units ,
+
+dialogue type : fh|s
+E :  and um nine input frames compared to the VAD that was in the proposal which has a very small amount of hidden units and fewer inputs .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s
+E :  But the abso assumption is that we will be able to make a VAD that 's small and that works fine .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : fg
+E : 
+
+dialogue type : x
+E :  nnn .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s
+E :  They just want , apparently they don't want to fix the VAD because they think there is some interaction between feature extraction and and VAD or frame dropping
+
+dialogue type : s
+E :  But they still want to just to give some um requirement for this VAD
+
+dialogue type : s
+E :  because it 's it will not be part of they don't want it to be part of the standard .
+
+dialogue type : s
+E :  So . So it must be at least uh somewhat fixed but not completely .
+
+dialogue type : s
+E :  So there just will be some requirements that are still not uh not yet uh ready I think .
+
+dialogue type : x
+E :  Nnn .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fh|s^rt
+E :  Uh . So there is this thing .
+
+dialogue type : s.%--
+E :  There is
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : s
+E :  Uh I designed a new a new filter
+
+dialogue type : s
+E :  because when I designed other filters with shorter delay from the LDA filters , there was one filter with fif sixty millisecond delay and the other with ten milliseconds
+
+dialogue type : s.%--
+E :  and uh Hynek suggested that both could have sixty - five sixty - s
+
+dialogue type : s
+E :  I think it 's sixty - five .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  And . So I did that
+
+dialogue type : s
+E :  and uh it 's running .
+
+dialogue type : s
+E :  So , let 's see what will happen .
+
+dialogue type : s
+E :  Uh but the filter is of course closer to the reference filter .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : fh
+E :  Um . Yeah .
+
+dialogue type : %--
+E : 
+
+dialogue type : s^aa.x
+E :  Yeah
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa.x
+E :  Sure .
+
+dialogue type : fg|s
+E :  Yeah , and then we 've started to work with this of um voiced - unvoiced stuff .
+
+dialogue type : s
+E :  And next week I think we will perhaps try to have um a new system with uh uh MSG stream also
+
+dialogue type : s
+E :  see what what happens .
+
+dialogue type : s^e
+E :  So , something that 's similar to the proposal too , but with MSG stream .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  I think the lower one is noise .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bu
+E :  So this should the the the t voiced portions .
+
+dialogue type : s
+E :  The p the peaks should be voiced portion .
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : fg
+E :  Yeah .
+
+dialogue type : s
+E :  Well , this would be this would be perhaps an additional parameter ,
+
+dialogue type : %
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Uh .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : s^bk
+E :  Oh , yeah .
+
+dialogue type : fg
+E : 
+
+dialogue type : s^bk|s^ng.%--
+E : 
+
+dialogue type : %--
+E :  it 's ,
+
+dialogue type : s^bk|s^ng
+E :  yeah , it 's it 's another problem .
+
+dialogue type : b
+E :  Yeah
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s
+E :  Yeah , there is th this fact actually .
+
+dialogue type : s
+E :  If you look at this um spectrum ,
+
+dialogue type : qw
+E :  What 's this again ?
+
+dialogue type : qy
+E :  Is it the mel - filters ?
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : fg|s
+E :  So the envelope here is the output of the mel - filters
+
+dialogue type : s.%--
+E :  and what we clearly see is that in some cases ,
+
+dialogue type : s
+E :  and it clearly appears here ,
+
+dialogue type : s.%--
+E :  and the the harmonics are resolved by the f
+
+dialogue type : fh|s
+E :  Well , there are still appear after mel - filtering ,
+
+dialogue type : s
+E :  and it happens for high pitched voice because the width of the lower frequency mel - filters is sometimes even smaller than the pitch .
+
+dialogue type : s
+E :  It 's around one hundred , one hundred and fifty hertz Nnn .
+
+dialogue type : s
+E :  And so what happens is that this uh , add additional variability to this envelope
+
+dialogue type : fh
+E :  and um
+
+dialogue type : s
+E :  so we were thinking to modify the mel - spectrum to have something that that 's smoother on low frequencies .
+
+dialogue type : %-
+E :  i
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^m^na
+E :  This is a separate thing .
+
+dialogue type : fh
+E :  And .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  There are only zeros here .
+
+dialogue type : %--
+E :  Well .
+
+dialogue type : %
+E :  Eee .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fg
+E : 
+
+dialogue type : s^cs.%--
+E : 
+
+dialogue type : s
+E :  if we want to the the guy to say " O "
+
+dialogue type : fh
+E :  or
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^ng.%--
+E : 
+
+dialogue type : s^df
+E :  because here you only have zeros
+
+dialogue type : s^df
+E : 
+
+dialogue type : s^bk|s
+E :  Yeah but if the sh the sheet was prepared with a different sign for the " O " .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : x
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : fg|s
+E :  Yeah , it was orthographic ,
+
+dialogue type : fh
+E :  so .
+

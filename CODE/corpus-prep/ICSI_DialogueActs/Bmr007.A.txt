@@ -1,0 +1,264 @@
+dialogue type : z
+A :  Mm - hmm .
+
+dialogue type : z
+A :  That is really great .
+
+dialogue type : z
+A :  That 's terrific .
+
+dialogue type : z
+A :  Now you won't be able to walk or ride your bike , huh ?
+
+dialogue type : qy^d^rt
+A :  A list that you have to send off to who ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : qw^rt^tc
+A :  What about the , um your trip , yesterday ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : qy^2^d^rt
+A :  Same idea ?
+
+dialogue type : b
+A :  Hmm !
+
+dialogue type : s
+A :  But the numbers speak for themselves .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s.%-
+A :  But it w
+
+dialogue type : s^cs.%-
+A : 
+
+dialogue type : fh.%
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  Well , here I have a question .
+
+dialogue type : %-
+A : 
+
+dialogue type : fg
+A : 
+
+dialogue type : s.%-
+A : 
+
+dialogue type : qy^r^rt
+A :  So , in the two - person conversations , when there 's backchannel , is there a great deal of overlap in the speech ?
+
+dialogue type : qrr.%--
+A : 
+
+dialogue type : s
+A :  Cuz my impression is sometimes it happens when there 's a pause ,
+
+dialogue type : s
+A :  you know , like you you get a lot of backchannel , when somebody 's pausing
+
+dialogue type : s
+A :  It 's hard to do both ,
+
+dialogue type : qy^d^g^j
+A :  huh ?
+
+dialogue type : fh|s.%--
+A : 
+
+dialogue type : s
+A :  and a lot of times , the first person actually stops talking and then there 's a backchannel and then they start up again ,
+
+dialogue type : s
+A :  and so I 'm wondering about h I just wonder how much overlap there is .
+
+dialogue type : qy^rt
+A :  Is there a lot ?
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+A :  But maybe a just a small overlap ?
+
+dialogue type : s
+A :  I was just thinking more in terms of alignment , alignment overlap .
+
+dialogue type : s^j
+A :  Hostile takeovers .
+
+dialogue type : qw^d
+A :  I wonder what determines who gets the floor ?
+
+dialogue type : s.%-
+A : 
+
+dialogue type : qw^rt
+A :  Why why do we want to have a picture of the meeting ?
+
+dialogue type : qy^rt
+A :  We can can't you figure it out from the mike number ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : qw^d^rt
+A :  You know where you could get it ?
+
+dialogue type : s
+A :  Beam - forming during the digit uh stuff .
+
+dialogue type : s^t3
+A :  Just remembered a joke .
+
+dialogue type : s^j
+A :  How big their heads are .
+
+dialogue type : s
+A :  He agreed .
+
+dialogue type : qw^rt
+A :  How did you do it Adam ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw^d^rt
+A :  Every frame that 's over what threshold ?
+
+dialogue type : qy^d^rt
+A :  In terms of energy ?
+
+dialogue type : fh
+A :  Ah !
+
+dialogue type : b
+A :  OK .
+
+dialogue type : qy^rt
+A :  Did you ever try running the filter before you pick a threshold ?
+
+dialogue type : qw
+A :  Who was it trained on ?
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s
+A :  I think he 's saying the onset detector .
+
+dialogue type : s^bc
+A :  " Mixed " .
+
+dialogue type : s^2
+A :  You have candidates .
+
+dialogue type : s^2
+A :  to make marking easier .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^ng^t3
+A :  But he 's not gonna even read that .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s
+A :  Actually , I saw a uh a woman at the bus stop the other day who , um , was talking on her cell phone speaking Japanese , and was bowing .
+
+dialogue type : s^e
+A :  you know , profusely .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^j
+A :  I 'll be peeking .
+
+dialogue type : s
+A :  Technical stuff .
+
+dialogue type : s
+A :  It 's too complicated .
+
+dialogue type : s^ar
+A :  No , no .
+
+dialogue type : s^nd
+A :  You can you know , you could make a m as long as you keep using the same beep , people could make a model of that beep ,
+
+dialogue type : fh
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^na
+A :  Yeah , it 's more obvious that there was something there than if there 's just silence .
+
+dialogue type : s^aa
+A :  Yea - right .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^j
+A :  They 're easy to find , then .
+
+dialogue type : s
+A :  Actually actually I I thought that 's what you were giving us was another meeting and I was like , " Oh , OK ! "
+
+dialogue type : qy^d
+A :  But it has to be hand - labeled first ?
+
+dialogue type : sj^ba
+A :  That 'd be interesting .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Oh .
+
+dialogue type : s^nd
+A :  It 's too late now .
+

@@ -1,0 +1,1602 @@
+dialogue type : z
+D :  Damn .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s.%--
+D :  The baseline is something similar to
+
+dialogue type : fh
+D :  a w I mean ,
+
+dialogue type : s^bu|qy^d^g^rt
+D :  the t the the baseline that you are talking about is the MFCC baseline , right ?
+
+dialogue type : qrr.%--
+D :  Or ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^aa
+D :  Yep ,
+
+dialogue type : s^rt
+D :  it 's three point four ,
+
+dialogue type : s
+D :  uh , eight point , uh , seven ,
+
+dialogue type : s
+D :  and , uh , thirteen point seven .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^ar|s^nd
+D :  No , I don't think so .
+
+dialogue type : qy^rt
+D :  Is it on Italian ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  So it 's the close - talking microphone .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s
+D :  so actually I received a a new document , describing this .
+
+dialogue type : s
+D :  And what they did finally is to , mmm , uh , not to align the utterances but to perform recognition ,
+
+dialogue type : fh|s^e
+D :  um , only on the close - talking microphone ,
+
+dialogue type : s
+D :  and to take the result of the recognition to get the boundaries uh , of speech .
+
+dialogue type : %-
+D : 
+
+dialogue type : h|s
+D :  Uh , I think they will send , um , files
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : %-
+D :  Oh , i
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : fh|s^rt
+D :  So Well , to be more precise , what they have is , they have these alignments
+
+dialogue type : s
+D :  and then they drop the beginning silence and and the end silence
+
+dialogue type : s
+D :  but they keep , uh , two hundred milliseconds before speech and two hundred after speech .
+
+dialogue type : s
+D :  And they keep the speech pauses also .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s.%--
+D :  and the overall improvement over the MFCC baseline
+
+dialogue type : s^bu|qy^d^g
+D :  So , when they just , uh , add this frame dropping in addition it 's r uh , forty percent , right ?
+
+dialogue type : s^bsc
+D :  Fourteen percent , I mean .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : %--
+D :  which is ,
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : %--
+D :  t
+
+dialogue type : s^e
+D :  which is the overall improvement .
+
+dialogue type : s
+D :  But in some cases it doesn't improve at all .
+
+dialogue type : qy
+D :  Like , uh , y do you remember which case ?
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : %
+D :  some @ @ .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  And Yeah , the other thing also is that fourteen percent is less than what you obtain using a real VAD .
+
+dialogue type : s^e
+D :  So with without cheating like this .
+
+dialogue type : fh
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D : 
+
+dialogue type : s^ba
+D :  Uh , well , working on the VAD is still still important I think .
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Uh , yeah .
+
+dialogue type : s
+D :  So , I 've been , uh , working still on the spectral subtraction .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s
+D :  So to r to remind you a little bit of of what I did before , is just to apply some spectral subtraction with an overestimation factor
+
+dialogue type : s^rt
+D :  also to get , um , an estimate of the noise , uh , spectrum ,
+
+dialogue type : s
+D :  and subtract this estimation of the noise spectrum from the , uh , signal spectrum , but subtracting more when the SNR is is , uh , low ,
+
+dialogue type : s^e
+D :  which is a technique that it 's often used .
+
+dialogue type : s
+D :  So you overestimate the noise spectrum .
+
+dialogue type : s
+D :  You multiply the noise spectrum by a factor , uh , which depends on the SNR .
+
+dialogue type : s
+D :  So , above twenty DB ,
+
+dialogue type : s
+D :  it 's one , so you just subtract the noise .
+
+dialogue type : s.%--
+D :  And then it 's b
+
+dialogue type : s
+D :  Generally Well , I use , actually , a linear , uh , function of the SNR ,
+
+dialogue type : s^e
+D :  which is bounded to , like , two or three , when the SNR is below zero DB .
+
+dialogue type : fh|s
+D :  Um , doing just this , uh , either on the FFT bins or on the mel bands , um , t doesn't yield any improvement
+
+dialogue type : %
+D :  o
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  So there is also a threshold , of course ,
+
+dialogue type : s
+D :  because after subtraction you can have negative energies ,
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D :  So what I I just do is to put , uh to to add to put the threshold first and then to add a small amount of noise ,
+
+dialogue type : s^e
+D :  which right now is speech - shaped .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s
+D :  so it 's a it has the overall overall energy ,
+
+dialogue type : fh
+D : 
+
+dialogue type : %--
+D :  pow
+
+dialogue type : s
+D :  it has the overall power spectrum of speech .
+
+dialogue type : s
+D :  So with a bump around one kilohertz .
+
+dialogue type : %
+D :  i
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^na
+D :  There can be frequency bins with negative values .
+
+dialogue type : s^na
+D :  For each frequencies I a I 'm adding some , uh , noise ,
+
+dialogue type : s^df
+D :  but the a the amount of the amount of noise I add is not the same for all the frequency bins .
+
+dialogue type : s
+D :  Uh . Right now I don't think if it makes sense to add something that 's speech - shaped ,
+
+dialogue type : s^df
+D :  because then you have silence portion that have some spectra similar to the sp the overall speech spectra .
+
+dialogue type : %--
+D : 
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s
+D :  So this is something I can still work on ,
+
+dialogue type : %--
+D : 
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s
+D :  So so yeah , you have an an estimation of the noise spectrum ,
+
+dialogue type : s
+D :  but sometimes , of course , it 's as the noise is not perfectly stationary ,
+
+dialogue type : s^rt
+D :  sometimes this estimation can be , uh , too small ,
+
+dialogue type : s
+D :  so you don't subtract enough .
+
+dialogue type : s
+D :  But sometimes it can be too large also . If if the noise , uh , energy in this particular frequency band drops for some reason .
+
+dialogue type : fh
+D :  Mmm .
+
+dialogue type : b
+D :  Mm - hmm ,
+
+dialogue type : s^aa
+D :  yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg
+D :  And , yeah ,
+
+dialogue type : s
+D :  some people also if it 's a negative value they , uh , re - compute it using inter interpolation from the edges and bins .
+
+dialogue type : s^e
+D :  Well , there are different things that you can do .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Yep .
+
+dialogue type : s
+D :  Well , actually I tried , something else based on this , um , is to to put some smoothing ,
+
+dialogue type : fh|s^df
+D :  um , because it seems to to help or it seems to help the Wiener filtering
+
+dialogue type : fh
+D :  and ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  So what I did is , uh , some kind of nonlinear smoothing .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bk|s^co
+D :  Yeah , let me go back a little bit .
+
+dialogue type : s
+D :  Actually , when you do spectral subtraction you can , uh , find this this equivalent in the s in the spectral domain .
+
+dialogue type : s.%--
+D :  You can uh compute ,
+
+dialogue type : s
+D :  y you can say that d your spectral subtraction is a filter ,
+
+dialogue type : fh|s
+D :  um , and the gain of this filter is the , um , signal energy minus what you subtract , divided by the signal energy .
+
+dialogue type : s
+D :  And this is a gain that varies over time , and , you know , of course , uh , depending on the s on the noise spectrum and on the speech spectrum .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  what happen actually is that during low SNR values , the gain is close to zero
+
+dialogue type : s^e
+D :  but it varies a lot .
+
+dialogue type : fh
+D :  Mmm ,
+
+dialogue type : s
+D :  and this this is the cause of musical noise and all these the the fact you we go below zero one frame and then you can have an energy that 's above zero .
+
+dialogue type : %--
+D : 
+
+dialogue type : fh
+D :  Mmm .
+
+dialogue type : s^rt
+D :  So the smoothing is I did a smoothing actually on this gain , uh , trajectory .
+
+dialogue type : s^rt
+D :  But it 's the smoothing is nonlinear in the sense that I tried to not smooth if the gain is high ,
+
+dialogue type : s^df
+D :  because in this case we know that , uh , the estimate of the gain is correct
+
+dialogue type : s^df^rt
+D :  because we we are not close to to to zero ,
+
+dialogue type : fh|s
+D :  um , and to do more smoothing if the gain is low .
+
+dialogue type : fh
+D :  Mmm .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : fh
+D :  well ,
+
+dialogue type : s
+D :  basically that 's this idea ,
+
+dialogue type : s
+D :  and it seems to give pretty good results ,
+
+dialogue type : fh|s^df^rt
+D :  uh , although I 've just just tested on Italian and Finnish .
+
+dialogue type : s
+D :  And on Italian it seems my result seems to be a little bit better than the Wiener filtering ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : fh|s^no
+D :  Uh , I don't know if you have these improvement the detailed improvements for Italian , Finnish , and Spanish there
+
+dialogue type : s
+D :  or you have just have your own .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : %
+D : 
+
+dialogue type : s^ar
+D :  uh , no ,
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^2
+D :  On Italian .
+
+dialogue type : s
+D :  But on Finnish it 's a little bit worse , apparently .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^na
+D :  Uh , so , it 's , uh , three point , uh , eight .
+
+dialogue type : qy^rt^t3
+D :  Am I right ?
+
+dialogue type : s^rt
+D :  And then , uh , d uh , nine point , uh , one .
+
+dialogue type : s
+D :  And finally , uh , sixteen point five .
+
+dialogue type : s
+D :  Plus plus nonlinear smoothing .
+
+dialogue type : s^df
+D :  Well , it 's the system it 's exactly the sys the same system as Sunil tried ,
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  But instead of double stage Wiener filtering , it 's it 's this smoothed spectral subtraction .
+
+dialogue type : fh
+D :  Um , yeah .
+
+dialogue type : qw^d^rt
+D :  For what ?
+
+dialogue type : s^nd
+D :  It it 's Wiener filtering ,
+
+dialogue type : qy
+D :  am I right ?
+
+dialogue type : s^aap
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  But they also have two two different smoothing @ @ .
+
+dialogue type : s^e
+D :  One in the time domain
+
+dialogue type : s^e
+D :  and one in the frequency domain by just taking the first , um , coefficients of the impulse response .
+
+dialogue type : s
+D :  So , basically it 's similar .
+
+dialogue type : s
+D :  I mean , what you did , it 's similar
+
+dialogue type : s^df
+D :  because you have also two two kind of smoothing .
+
+dialogue type : s^e
+D :  One in the time domain ,
+
+dialogue type : s^e
+D :  and one in the frequency domain ,
+
+dialogue type : fh
+D :  yeah .
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^nd
+D :  Uh , actually the the smoothing that I did do here reduced the musical noise .
+
+dialogue type : %--
+D : 
+
+dialogue type : fh
+D :  Mmm .
+
+dialogue type : s^df.%--
+D :  Well , I cannot you cannot hear beca
+
+dialogue type : s^df
+D :  well , actually what I d did not say is that this is not in the FFT bins .
+
+dialogue type : s^df
+D :  This is in the mel frequency bands .
+
+dialogue type : fh
+D : 
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : s
+D :  it could be seen as a f a a smoothing in the frequency domain because I used , in ad mel bands in addition and then the other phase of smoothing in the time domain .
+
+dialogue type : fh
+D :  Mmm .
+
+dialogue type : s^df
+D :  But , when you look at the spectrogram , if you don't have an any smoothing , you clearly see , like in silence portions , and at the beginning and end of speech , you see spots of high energy randomly distributed over the the spectrogram .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^e
+D :  Which is musical noise ,
+
+dialogue type : s^aa
+D :  yeah ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  uh , if you do this in the FFT bins , then you have spots of energy randomly distributing .
+
+dialogue type : s
+D :  And if you f if you re - synthesize these spot sounds as , like , sounds ,
+
+dialogue type : fh
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : s^aa^r
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^ng
+D :  although if if we , um , look at the result from the proposals , one of the reason , uh , the n system with the neural net was , um , more than well , around five percent better , is that it was much better on highly mismatched condition .
+
+dialogue type : s^df
+D :  I 'm thinking , for instance , on the TI - digits trained on clean speech and tested on noisy speech .
+
+dialogue type : s
+D :  Uh , for this case , the system with the neural net was much better .
+
+dialogue type : s
+D :  But not much on the in the other cases .
+
+dialogue type : fh
+D :  And
+
+dialogue type : s
+D :  if we have no , uh , spectral subtraction or Wiener filtering , um , i the system is Uh , we thought the neural neural network is much better than before ,
+
+dialogue type : s^e
+D :  even in these cases of high mismatch .
+
+dialogue type : s
+D :  So , maybe the neural net will help less
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^aa^r
+D :  yeah .
+
+dialogue type : fg
+D :  Um ,
+
+dialogue type : s^bk|s.%--
+D : 
+
+dialogue type : s^rt
+D :  Well , actually , this was kind of the first try with this spectral subtraction plus smoothing ,
+
+dialogue type : s
+D :  and I was kind of excited by the result .
+
+dialogue type : fh|s
+D :  Um , then I started to optimize the different parameters .
+
+dialogue type : fh
+D :  And ,
+
+dialogue type : s
+D :  uh , the first thing I tried to optimize is the , um , time constant of the smoothing .
+
+dialogue type : s
+D :  And it seems that the one that I chose for the first experiment was the optimal one ,
+
+dialogue type : fh
+D :  so uh ,
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s
+D :  so this is the first thing .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk|s
+D :  Yeah , another thing that I it 's important to mention is , um , that this has a this has some additional latency .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s^df
+D :  Because when I do the smoothing , uh , it 's a recursion that estimated the means , so of the g of the gain curve .
+
+dialogue type : fh
+D :  And
+
+dialogue type : s
+D :  this is a filter that has some latency .
+
+dialogue type : s^ba^cs
+D :  And I noticed that it 's better if we take into account this latency .
+
+dialogue type : s^cs^df
+D :  So , instead o of using the current estimated mean to , uh , subtract the current frame , it 's better to use an estimate that 's some somewhere in the future .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  It 's the recursion ,
+
+dialogue type : s
+D :  so it 's it 's the center recursion ,
+
+dialogue type : qy^d^f^g
+D :  right ?
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  and the latency of this recursion is around fifty milliseconds .
+
+dialogue type : s^m^na
+D :  Five zero ,
+
+dialogue type : s^aa
+D :  yeah .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : fh
+D :  mmm .
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : s^df
+D :  the mean estimation has some delay ,
+
+dialogue type : qy^d^f^g^rt
+D :  right ?
+
+dialogue type : s^df
+D :  I mean , the the filter that that estimates the mean has a time constant .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  It 's , uh , not as good .
+
+dialogue type : s
+D :  It 's not bad .
+
+dialogue type : fh|s
+D :  Um , it helps a lot over the ba the baseline
+
+dialogue type : fh
+D : 
+
+dialogue type : %--
+D : 
+
+dialogue type : s
+D :  It 's around three percent , um , relative .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : fh
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aa|%--
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^na
+D :  So , yeah , it depends .
+
+dialogue type : s
+D :  Uh , y actually , it 's it 's l it 's three percent .
+
+dialogue type : fh.%
+D :  Right .
+
+dialogue type : fh
+D :  Mmm .
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s.%--
+D :  b but I don't think we have to worry too much on that right now while you kno .
+
+dialogue type : fh
+D :  Mm - hmm .
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Oh yes .
+
+dialogue type : %--
+D :  s
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg
+D :  Um .
+
+dialogue type : fg
+D :  So ,
+
+dialogue type : s^bk|s
+D :  yeah , there are other things in the , um , algorithm that I didn't , uh , @ @ a lot yet ,
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^ar
+D :  No ,
+
+dialogue type : s^nd
+D :  it 's it 's added .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : fh
+D :  So ,
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s^tc
+D :  there is uh , these parameters that I still have to to look at .
+
+dialogue type : s^e
+D :  Like , I played a little bit with this overestimation factor ,
+
+dialogue type : fh
+D :  uh ,
+
+dialogue type : s^df
+D :  but I still have to to look more at this ,
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s
+D :  at the level of noise I add after . Uh , I know that adding noise helped , um , the system just using spectral subtraction without smoothing ,
+
+dialogue type : s^no
+D :  but I don't know right now if it 's still important or not , and if the level I choose before is still the right one .
+
+dialogue type : s
+D :  Same thing for the shape of the the noise .
+
+dialogue type : s^am
+D :  Maybe it would be better to add just white noise instead of speech shaped noise .
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : fh|s^aa
+D :  Um , yep .
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : s^bk
+D :  Yeah ,
+
+dialogue type : s
+D :  for this I just use as noise estimate the mean , uh , spectrum of the first twenty frames of each utterance .
+
+dialogue type : s^no
+D : 
+
+dialogue type : qy^bu^d^m^rt
+D :  The ten frames ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : qw.%--
+D :  But , so what 's this result you told me about , the fact that if you use more than ten frames you can improve by t
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : s^bu.%--
+D :  But this is ten frames plus plus
+
+dialogue type : s^bk.%--
+D : 
+
+dialogue type : s^ar
+D :  Uh , no ,
+
+dialogue type : s
+D :  these results with two stage Wiener filtering is ten frames
+
+dialogue type : s^e
+D :  but possibly more .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : fg
+D :  Yeah ,
+
+dialogue type : s
+D :  but in this experiment I did I didn't use any VAD .
+
+dialogue type : s
+D :  I just used the twenty first frame to estimate the noise .
+
+dialogue type : s
+D :  And So I expected it to be a little bit better , if , uh , I use more more frames .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s^bk|s
+D :  OK , that 's it for spectral subtraction .
+
+dialogue type : s^tc
+D :  The second thing I was working on is to , um , try to look at noise estimation , mmm , and using some technique that doesn't need voice activity detection .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s
+D :  and for this I u simply used some code that , uh , I had from from Belgium ,
+
+dialogue type : s^e
+D :  which is technique that , um , takes a bunch of frame ,
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s^e
+D :  and for each frequency bands of this frame , takes a look at the minima of the energy .
+
+dialogue type : s^rt
+D :  And then average these minima and take this as an an energy estimate of the noise for this particular frequency band .
+
+dialogue type : s
+D :  And there is something more to this actually .
+
+dialogue type : s
+D :  What is done is that , uh , these minima are computed , um , based on , um , high resolution spectra .
+
+dialogue type : s
+D :  So , I compute an FFT based on the long , uh , signal frame
+
+dialogue type : s^e^rt
+D : 
+
+dialogue type : s
+D :  What what I what I d uh , I do actually , is to take a bunch of to take a tile on the spectrogram
+
+dialogue type : s
+D :  and this tile is five hundred milliseconds long and two hundred hertz wide .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Uh , in this tile appears , like , the harmonics if you have a voiced sound ,
+
+dialogue type : s^df
+D :  because it 's it 's the FTT bins .
+
+dialogue type : s.%--
+D :  And when you take the m the minima of of these this tile ,
+
+dialogue type : s
+D :  when you don't have speech , these minima will give you some noise level estimate ,
+
+dialogue type : s
+D :  If you have voiced speech , these minima will still give you some noise estimate because the minima are between the harmonics .
+
+dialogue type : s
+D :  And If you have other other kind of speech sounds then it 's not the case ,
+
+dialogue type : s
+D :  but if the time frame is long enough , uh , like s five hundred milliseconds seems to be long enough , you still have portions which , uh , are very close whi which minima are very close to the noise energy .
+
+dialogue type : b
+D :  Mmm ?
+
+dialogue type : s^rt
+D :  Sixty - four milliseconds is to compute the FFT , uh , bins .
+
+dialogue type : s
+D :  The the FFT .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s
+D :  actually it 's better to use sixty - four milliseconds because , um , if you use thirty milliseconds , then , uh , because of the this short windowing and at low pitch , uh , sounds , the harmonics are not , wha uh , correctly separated .
+
+dialogue type : s
+D :  So if you take these minima , it b they will overestimate the noise a lot .
+
+dialogue type : s
+D :  So I take to I take a bunch of these sixty - four millisecond frame to cover five hundred milliseconds ,
+
+dialogue type : fh|s
+D :  and then I look for the minima ,
+
+dialogue type : s^e|qy^d^g
+D :  on the on on the bunch of uh fifty frames , right ?
+
+dialogue type : fh
+D :  Mmm .
+
+dialogue type : s
+D :  So the interest of this is that , as y with this technique you can estimate u some reasonable noise spectra with only five hundred milliseconds of of signal ,
+
+dialogue type : s
+D :  so if the the n the noise varies a lot , uh , you can track better track the noise ,
+
+dialogue type : s^e
+D :  which is not the case if you rely on the voice activity detector .
+
+dialogue type : s
+D :  So even if there are no no speech pauses , you can track the noise level .
+
+dialogue type : s
+D :  The only requirement is that you must have , in these five hundred milliseconds segment , you must have voiced sound at least .
+
+dialogue type : s^df
+D :  Cuz this these will help you to to track the the noise level .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s
+D :  So what I did is just to simply replace the VAD - based , uh , noise estimate by this estimate ,
+
+dialogue type : s^e
+D : 
+
+dialogue type : s^e
+D :  Well , only on SpeechDat - Car actually .
+
+dialogue type : s
+D :  And it 's , uh , slightly worse ,
+
+dialogue type : s^e
+D :  like one percent relative compared to the VAD - based estimates .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s^df
+D :  I think the reason why it 's not better , is that the SpeechDat - Car noises are all stationary .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : fh
+D :  So , u
+
+dialogue type : s
+D :  y y there really is no need to have something that 's adaptive
+
+dialogue type : fh
+D :  and Uh ,
+
+dialogue type : s
+D :  well , they are mainly stationary .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s
+D :  But , I expect s maybe some improvement on TI - digits
+
+dialogue type : s^df
+D :  because , nnn , in this case the noises are all sometimes very variable .
+
+dialogue type : fh|s
+D :  Uh , so I have to test it .
+
+dialogue type : fh
+D :  Mmm .
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^rt
+D :  It 's the France - Telecom - based spectra , s uh , Wiener filtering and VAD .
+
+dialogue type : s^rt
+D :  So it 's their system
+
+dialogue type : s
+D :  but just I replace their noise estimate by this one .
+
+dialogue type : s^na
+D : 
+
+dialogue type : s^aa
+D :  No , no .
+
+dialogue type : s^ar
+D :  Yeah ,
+
+dialogue type : s^nd
+D :  it 's our system
+
+dialogue type : s^df
+D :  but with just the Wiener filtering from their system .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : fh
+D :  Mmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bu
+D :  Actually , th the best system that we still have is , uh , our system but with their noise compensation scheme ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : s
+D :  So I 'm trying to improve on this , and by by replacing their noise estimate by , uh , something that might be better .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s.%-
+D :  But I di
+
+dialogue type : s^nd
+D :  Not yet ,
+
+dialogue type : s^df
+D :  because I did this in parallel ,
+
+dialogue type : s^df
+D :  and I was working on one and the other .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s^aa|s^cc
+D :  Yeah , for for sure I will .
+
+dialogue type : s
+D :  I can try also , mmm , the spectral subtraction .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s
+D :  I , um , also implemented a sp um spectral whitening idea
+
+dialogue type : s^e
+D :  which is in the , um , Ericsson proposal .
+
+dialogue type : s
+D :  Uh , the idea is just to um , flatten the log , uh , spectrum , um , and to flatten it more if the the probability of silence is higher .
+
+dialogue type : s
+D :  So in this way , you can also reduce somewhat reduce the musical noise
+
+dialogue type : s
+D :  and you reduce the variability if you have different noise shapes ,
+
+dialogue type : s^df
+D :  because the the spectrum becomes more flat in the silence portions .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : fh
+D :  Yeah .
+
+dialogue type : s
+D :  With this , no improvement ,
+
+dialogue type : s^df
+D :  uh , but there are a lot of parameters that we can play with
+
+dialogue type : fh
+D :  and ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  Actually , this this could be seen as a soft version of the frame dropping
+
+dialogue type : s^df^rt
+D :  because , um , you could just put the threshold and say that " below the threshold , I will flatten comp completely flatten the the spectrum " .
+
+dialogue type : s
+D :  And above this threshold , uh , keep the same spectrum .
+
+dialogue type : s
+D :  So it would be like frame dropping ,
+
+dialogue type : s^df
+D :  because during the silence portions which are below the threshold of voice activity probability , uh , w you would have some kind of dummy frame
+
+dialogue type : s^e
+D :  which is a perfectly flat spectrum .
+
+dialogue type : s
+D :  And this , uh , whitening is something that 's more soft because , um , you whiten you just , uh , have a function the whitening is a function of the speech probability ,
+
+dialogue type : s
+D :  so it 's not a hard decision .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s
+D :  so I think maybe it can be used together with frame dropping and when we are not sure about if it 's speech or silence ,
+
+dialogue type : s^am
+D :  well , maybe it has something do with this .
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk|%--
+D :  Yeah , w
+
+dialogue type : s^bk|s
+D :  Yeah , right now it 's a constant that just depending on the the noise spectrum .
+
+dialogue type : fh
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  So .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : fg
+D : 
+
+dialogue type : fg|s.%--
+D : 
+
+dialogue type : s
+D :  I just did something exactly the same as as the Ericsson proposal
+
+dialogue type : s
+D :  but , um , the probability of speech is not computed the same way .
+
+dialogue type : s
+D :  And I think , i for yeah , for a lot of things , actually a g a good speech probability is important .
+
+dialogue type : s^e^rt
+D :  Like for frame dropping you improve , like you can improve from ten percent as Sunil showed , if you use the channel zero speech probabilities .
+
+dialogue type : s
+D :  For this it might help ,
+
+dialogue type : fh
+D : 
+
+dialogue type : fh
+D :  S so , yeah .
+
+dialogue type : fh
+D :  Uh ,
+
+dialogue type : fh
+D :  so yeah ,
+
+dialogue type : s
+D :  the next thing I started to do is to , uh , try to develop a better voice activity detector .
+
+dialogue type : fh
+D :  And ,
+
+dialogue type : fh
+D : 
+
+dialogue type : %--
+D :  I d
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk|s
+D :  yeah , for this I think we can maybe try to train the neural network for voice activity detection on all the data that we have , including all the SpeechDat - Car data .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  And so I 'm starting to obtain alignments on these databases .
+
+dialogue type : fh|s
+D :  Um , and the way I mi I do that is that I just use the HTK system but I train it only on the close - talking microphone .
+
+dialogue type : s
+D :  And then I aligned I obtained the Viterbi alignment of the training utterances .
+
+dialogue type : fh
+D : 
+
+dialogue type : s.%--
+D :  It seems to be ,
+
+dialogue type : fh
+D :  uh i
+
+dialogue type : s
+D :  Actually what I observed is that for Italian it doesn't seem Th - there seems to be a problem .
+
+dialogue type : fh
+D :  Well .
+
+dialogue type : %-
+D : 
+
+dialogue type : qw^br
+D :  What ?
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s
+D :  So , u but actually the VAD was trained on Italian also ,
+
+dialogue type : fh
+D :  so Um ,
+
+dialogue type : s^bu|qy^d^g^rt
+D :  the c the current VAD that we have was trained on , uh , t SPINE , right ?
+
+dialogue type : s^e.%--
+D : 
+
+dialogue type : s^aa
+D :  Uh , yeah .
+
+dialogue type : s
+D :  And it seems to work on Italian but not on the Finnish and Spanish data .
+
+dialogue type : fh|s^df
+D :  So , maybe one reason is that s s Finnish and Spanish noise are different .
+
+dialogue type : fh
+D :  And
+
+dialogue type : s
+D :  actually we observed we listened to some of the utterances and sometimes for Finnish there is music in the recordings and strange things ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk|s
+D :  Yeah , so the idea was to train all the databases and obtain an alignment to train on these databases ,
+
+dialogue type : fh
+D :  and , um ,
+
+dialogue type : s
+D :  also to , um , try different kind of features , uh , as input to the VAD network .
+
+dialogue type : fh
+D :  And
+
+dialogue type : s
+D :  we came up with a bunch of features that we want to try
+
+dialogue type : s^e
+D :  like , um , the spectral slope , the , um , the degree o degree of voicing with the features that , uh , we started to develop with Carmen , um , e with , uh , the correlation between bands and different kind of features ,
+
+dialogue type : fh
+D :  and Yeah .
+
+dialogue type : s^bk
+D :  The energy .
+
+dialogue type : s^aa
+D :  Yeah . Of course .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+

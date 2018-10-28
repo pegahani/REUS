@@ -1,0 +1,216 @@
+dialogue type : qy^bu^rt
+E :  Are you talking about the overlap a annotations ?
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s
+E :  So what I was imagining was um , so Dave says we can have unlimited numbers of green ribbons .
+
+dialogue type : s
+E :  And so put , uh , a a green ribbon on for an overlap code .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^cs
+E :  I I think it 's important to remain flexible regarding the time bins for now .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^cs
+E :  However , you know , you want to have it , uh , time time uh , located in the discourse .
+
+dialogue type : fh
+E :  So ,
+
+dialogue type : fh
+E :  um ,
+
+dialogue type : s
+E :  if we if we tie the overlap code to the first word in the overlap , then you 'll have a time - marking .
+
+dialogue type : s
+E :  It won't it 'll be independent of the time bins ,
+
+dialogue type : s^e
+E :  however these e evolve , shrink , or whatever ,
+
+dialogue type : s^e
+E :  increase ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s^cs
+E :  Also , you could have different time bins for different purposes .
+
+dialogue type : s
+E :  And having it tied to the first word in an overlap segment is unique , uh , you know , anchored , clear .
+
+dialogue type : s
+E :  And it would just end up on a separate ribbon .
+
+dialogue type : s
+E :  So the overlap coding is gonna be easy with respect to that .
+
+dialogue type : s
+E :  You look puzzled .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qy^bu^d^rt
+E :  What , the codes themselves ?
+
+dialogue type : qrr.%-
+E :  Or the ?
+
+dialogue type : s
+E :  Well , we don't have to go into the codes .
+
+dialogue type : s^r
+E :  We don't have to go into the codes .
+
+dialogue type : s^co.%--
+E : 
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^bs
+E :  W the idea is just to have a separate green ribbon ,
+
+dialogue type : fh
+E :  you know ,
+
+dialogue type : s
+E :  and and and let 's say that this is a time bin .
+
+dialogue type : s
+E :  There 's a word here .
+
+dialogue type : s
+E :  This is the first word of an overlapping segment of any length ,
+
+dialogue type : s
+E :  overlapping with any other , uh , word uh , i segment of any length .
+
+dialogue type : fh
+E :  And , um ,
+
+dialogue type : s
+E :  then you can indicate that this here was perhaps a ch a backchannel ,
+
+dialogue type : s
+E :  or you can say that it was , um , a usurping of the turn ,
+
+dialogue type : s
+E :  or you can you know , any any number of categories .
+
+dialogue type : s
+E :  But the fact is , you have it time - tagged in a way that 's independent of the , uh , sp particular time bin that the word ends up in .
+
+dialogue type : s^e.%--
+E :  If it 's a large unit or a small unit , or
+
+dialogue type : s
+E :  we sh change the boundaries of the units ,
+
+dialogue type : s
+E :  it 's still unique and and , uh , fits with the format ,
+
+dialogue type : s^e
+E :  flexible , all that .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : qy
+E :  Is it S - diff ?
+
+dialogue type : b.%
+E :  Mmm .
+
+dialogue type : qy^rt
+E :  Well , can I ask one question ?
+
+dialogue type : s
+E :  It it seems to me that , um , we will have o an official version of the corpus , which will be only one one version in terms of the words where the words are concerned .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh
+E : 
+
+dialogue type : %
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa
+E :  I agree .
+
+dialogue type : s
+E :  That was what I was wondering .
+
+dialogue type : s
+E :  Time is unique .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : %
+E :  Ach !
+
+dialogue type : %-
+E : 
+
+dialogue type : qy
+E :  But then couldn't you just indirectly figure out the time tied to the word ?
+
+dialogue type : %--
+E : 
+
+dialogue type : fh
+E :  Well ,
+
+dialogue type : s
+E :  but you 'd have some anchoring point .
+
+dialogue type : s^ng
+E :  He couldn't have changed all the words .
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : s
+E :  But it could be that they just uh , I mean , it could be that they chunked they they lost certain utterances and all that stuff ,
+
+dialogue type : %--
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ba
+E :  That 's interesting .
+
+dialogue type : z
+E :  O three
+

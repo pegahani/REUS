@@ -1,0 +1,867 @@
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  We 're somewhere in between .
+
+dialogue type : s.%-
+A :  OK , so we have some sheets for uh some standard doohickies to
+
+dialogue type : s
+A :  OK , so this is February second , eh , two thousand ,
+
+dialogue type : s
+A :  this is eh meeting number one with Adam and Dan and Morgan , about five o ' clock uh in the afternoon .
+
+dialogue type : s
+A :  A range of microphones .
+
+dialogue type : qw
+A :  What 's this one here ?
+
+dialogue type : s^bu^rt.%--
+A : 
+
+dialogue type : qr^bu^d^rt.%--
+A :  That 's connected too , or ?
+
+dialogue type : s^bk
+A :  That 's connected .
+
+dialogue type : s
+A :  It 's got two to both channels .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : %
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg|s^no
+A :  Um , I have no idea which one I 'm I 'm on .
+
+dialogue type : s^fe
+A :  Oh one !
+
+dialogue type : s^r
+A :  Oh , I 'm number one .
+
+dialogue type : fh|s
+A :  OK , which is a a l a lapel ,
+
+dialogue type : s
+A :  in fact it 's sticking through my lapel .
+
+dialogue type : sj
+A :  I think listening to this is gonna be like watching somebody 's home movies .
+
+dialogue type : b.%
+A :  Yeah , OK .
+
+dialogue type : s^bk|qw^rt
+A :  OK , what do we do with the stuff on top ?
+
+dialogue type : %--
+A : 
+
+dialogue type : qy^rt.%--
+A : 
+
+dialogue type : qw^rt
+A :  What are we why are we writing it down ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : sj^ba
+A :  OK That 's good .
+
+dialogue type : s
+A :  So I don't need to fill that out right now .
+
+dialogue type : s^cs
+A :  So maybe we should just say it .
+
+dialogue type : s
+A :  So then we 're not spending the time writing it out .
+
+dialogue type : s^e
+A :  So that we 're spending the time talking .
+
+dialogue type : s^df
+A :  I 'm just uh concerned about a bunch of dead time while we all sit here and fill out the things .
+
+dialogue type : qy^d^f^g.%
+A :  Right ?
+
+dialogue type : b
+A :  Oh .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : fg|s
+A :  OK , so this is Morgan .
+
+dialogue type : s
+A :  I 'm going to read some numbers now .
+
+dialogue type : s
+A :  That 's my group .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^no
+A :  I don't know if I said mine was transcript zero ,
+
+dialogue type : s
+A :  but it was .
+
+dialogue type : fh|s^tc
+A :  Oh , good .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s
+A :  That 's a little bit .
+
+dialogue type : fg|qo
+A :  So , so where are we in this ?
+
+dialogue type : s
+A :  Let 's see ,
+
+dialogue type : qw
+A :  How long did it take you to set this up ?
+
+dialogue type : qr^rt
+A :  Are we gonna I mean , is it gonna be over there , or is it gonna be in there ?
+
+dialogue type : s^bu
+A :  So that 's what 's gonna happen .
+
+dialogue type : h|s^no
+A :  Oh I mean , I don't know .
+
+dialogue type : qy^rt
+A :  Did we s did we spend our the budget already that we had ?
+
+dialogue type : h|qw^rt
+A :  Uh , how much are we talking about here ?
+
+dialogue type : s^na
+A :  Yeah , I mean , you know , we we can spend under a thousand dollars or something without without worrying about it .
+
+dialogue type : s
+A :  I mean , I think um I 'm more worried about things being kept in a funky state long enough that that uh stuff gets broken or or you know .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa|s:s
+A :  Yeah , and there 's also the minor matter , it 'd be kind of nice to able to bring people in and say " yes , this is where we do such - and - such " , and then be able to see uh , you know , some kind of I mean it 's less important than doing what we 're doing right now
+
+dialogue type : fh
+A : 
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^cs
+A :  Well , we should be able to just go buy some preamps , I would think .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy
+A :  Are we ?
+
+dialogue type : s^am.%--
+A :  Well .
+
+dialogue type : s
+A :  I guess I 'd sort of figured that that Jim would do that at some point .
+
+dialogue type : qy^d^f^g^rt
+A :  Right ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : h|s^cs^tc
+A :  Well If it 's too noisy and if there 's something we can buy , again for , you know , moderate amount of price , even if it takes a couple boxes or something , maybe we should just do it .
+
+dialogue type : s^cs.%--
+A : 
+
+dialogue type : s
+A :  Because there may be other considerations that will go into the design .
+
+dialogue type : s
+A :  I mean , uh our getting some experience with this may help to determine some of things that are I don't know might change this design , So .
+
+dialogue type : s
+A :  There was uh a statement made uh which I don't think is right , by the way , but there was a statement made at the uh DARPA Communicator meeting I was at recently that um microphone multiple microphones at a distance of less than three feet or something like that were totally useless ,
+
+dialogue type : s^e
+A :  completely irrelevant .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa^m
+A :  for nois noise cancelling .
+
+dialogue type : fh|s
+A :  Um , my counter argument is is an uh uh um , a white rat .
+
+dialogue type : s
+A :  uh , which has th it 's two microphones exceedingly close together and it works pretty well .
+
+dialogue type : fh
+A :  Um but Yeah .
+
+dialogue type : fg
+A :  Right .
+
+dialogue type : s
+A :  But I think that if my point is I guess if you if you have a um a uh s a volume in between the two the two uh uh sensors and you do something cleverer , there clearly are ways to get more out of it .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  Well , there are various points in meeting where people were making uh uh very strong statements as a matter of fact , like one shouldn't even question it
+
+dialogue type : s
+A :  and this was one of them that was kind of funny .
+
+dialogue type : s
+A :  Um but I I I what I take it to mean is doing doing the dumb thing uh with two microphones would be very difficult to get too much out of it
+
+dialogue type : s^df
+A :  but I think it will be interesting to do other things that aren't dumb .
+
+dialogue type : s
+A :  So I I still think it 's potentially interesting to do that .
+
+dialogue type : s:s
+A :  Although we we 'll have to be uh a aware of this if we 're writing proposals about it , wherever , that there may well be reviewers who will say , " well everyone knows that you can't get anything out of it if it 's if it 's close " .
+
+dialogue type : sj^ba
+A :  Uh , that is an interesting point .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^na.%-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  Hopefully .
+
+dialogue type : s
+A :  Well , we 're getting some we we 're getting some right now .
+
+dialogue type : s
+A :  Well someone someone might be interested in in it .
+
+dialogue type : s^am
+A :  Maybe .
+
+dialogue type : s^arp^ng
+A :  But on the other hand , suppose that uh , you 're the only one uh who is advanced enough in this thinking to actually bring such a PDA to to a meeting
+
+dialogue type : s
+A :  and and and therefore you bring it in ,
+
+dialogue type : s
+A :  and you probably want it to be as near to people as possible so you might in fact shove it to the middle of the table .
+
+dialogue type : fh
+A :  Well .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^cs
+A :  Well , I think we should .
+
+dialogue type : s^cs^e
+A :  I mean , I think at least with two .
+
+dialogue type : qy^d^g^rt
+A :  Right ?
+
+dialogue type : s.%--
+A :  Because uh one of the th one of the fantasies that was at least fun to talk about was that uh
+
+dialogue type : s
+A :  uh OK maybe you th you 're the range of things you can do with multiple microphones is limited if they 're a few inches apart ,
+
+dialogue type : s.%--
+A :  but what if you have two of these things ?
+
+dialogue type : s:s
+A :  And you know we have this this idea of the handshake back and forth and say " I 'm here , I 'm here "
+
+dialogue type : s:s
+A :  " We 're now an array . "
+
+dialogue type : s^aa
+A :  Yeah
+
+dialogue type : qo^tc
+A :  So uh so where are we uh now ?
+
+dialogue type : s
+A :  I mean so we 've just uh We 're doing this recording so we show we can we 're capable of doing recording
+
+dialogue type : fh|s
+A :  uh there 's I guess a little more wiring to do or something to have to have more if we had more people participating in the meeting we 'd wouldn't quite be ready for that .
+
+dialogue type : b
+A :  Uh .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bs
+A :  So a little bit of futzing , there 's the issue about a cabinet , we might want to change some pre - amps .
+
+dialogue type : s
+A :  So we can do some more recordings but there 's there 's a little little bit of ramp up on that over the next month , say .
+
+dialogue type : s^bu
+A :  Yeah we were talking about that a little bit over coffee today , that that um uh if you downsample it sounded like it came it sounded like it was something like a gig gigabyte an hour if you didn't downsample
+
+dialogue type : s^bu.%--
+A : 
+
+dialogue type : s^rt
+A :  no , if you used all the channels .
+
+dialogue type : qy^d^g^rt
+A :  Something like that ?
+
+dialogue type : s
+A :  I thought it was one gigabyte .
+
+dialogue type : s
+A :  It couldn't be twelve .
+
+dialogue type : qw^rt
+A :  How 'd you cut it ?
+
+dialogue type : s^bk|s
+A :  OK , so that 's so that 's two gigabytes .
+
+dialogue type : %-
+A : 
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s
+A :  But that 's at forty four kilohertz with sixteen channels .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa|s.%-
+A :  right , so you can
+
+dialogue type : s
+A :  Oh , we 'll do the higher math later , maybe but it 's so it 's so maybe like a gig or two a an hour ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s^t1
+A :  OK , that is a bit more than I thought .
+
+dialogue type : s.%--
+A :  Yeah so this 'll take some thought cuz we have we um
+
+dialogue type : s
+A :  If we are in fact gonna have forty or fifty hours at some point and we we wanna ha have part of our work be on feature extraction , it means that we need to have waveforms available somehow .
+
+dialogue type : qw^rt
+A :  What would you do ?
+
+dialogue type : %-
+A : 
+
+dialogue type : qw^rt
+A :  So what would we do for training ?
+
+dialogue type : qy^bu^d^rt
+A :  So if we 're if we 're training distant mi we 'd just use one of them ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  Well , although we wanted to get alignments from the close mike stuff .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : sj
+A :  But you don't want to be constantly take putting that on disk and off disk and on disk .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : sj
+A :  The thing is it 's really not very expensive right now .
+
+dialogue type : s
+A :  So it 's more of an issue of of structuring it with uh the uh Sys Admin folks so we don't panic them and figuring out where it goes .
+
+dialogue type : s
+A :  Well , we don't it doesn't need to be backed up .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  I think the only one using it has been Javier ,
+
+dialogue type : s
+A :  but at this point I think it 's he 's only been using it for features that he calculated quite a while ago ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : qw^br
+A :  Pardon ?
+
+dialogue type : qw
+A :  How much space is that using up ?
+
+dialogue type : qy.%
+A :  Do you have any idea ?
+
+dialogue type : s^j
+A :  Yeah , couple hours !
+
+dialogue type : s
+A :  Well , anyway for this this recording we 're fine
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : qw^rt
+A :  how many mikes are we recording right now ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : fg|s.%
+A :  Yeah , well that we can do something about .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qw
+A :  What 's it do ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk|s^cs
+A :  Yeah , so I think initially we should take up more space until we 've analyzed this and get a better sense of it
+
+dialogue type : s^df
+A :  because uh we don I mean we 're not talking about forty or fifty hours at this point
+
+dialogue type : s
+A :  we 're talking about a half hour of of speech
+
+dialogue type : s^cs
+A :  and so uh we should look at this carefully
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  Yeah , I was interested when I saw the twenty - four on there .
+
+dialogue type : sj
+A :  Wow , I mean that 's probably eight bits of noise .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : sj
+A :  It 's some sort of oversampling thing I imagine ,
+
+dialogue type : qy^d^g
+A :  right ?
+
+dialogue type : qy
+A :  Didn't we already get that ?
+
+dialogue type : s
+A :  Cuz you you can't have uh component tolerances that are uh sixteen million one in sixteen million parts ,
+
+dialogue type : fh
+A :  so .
+
+dialogue type : %-
+A :  I 'm s
+
+dialogue type : s^fe
+A :  Oh !
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^bu
+A :  But we can FTP stuff over ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : s
+A :  So it 's connected .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : h
+A :  Um .
+
+dialogue type : s^bu
+A :  One suggestion I have is that um I think this maybe we should just read some more you made more of these ,
+
+dialogue type : qy^d^g
+A :  right ?
+
+dialogue type : s^cs.%--
+A :  I think we should read some more because because this is very f
+
+dialogue type : s
+A :  we we need to to work the the the uh the talkers more
+
+dialogue type : s^df
+A :  because we 're not gonna have that many meetings
+
+dialogue type : s
+A :  and this is a pretty tiny amount of data .
+
+dialogue type : s^cs.%-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^by
+A :  Well this is us .
+
+dialogue type : sj
+A :  We 'll have a fair amount of annoyance
+
+dialogue type : s
+A :  yeah I think
+
+dialogue type : fh
+A :  uh .
+
+dialogue type : qy^rt
+A :  So , can we do we do another set ?
+
+dialogue type : qy^tc.%--
+A : 
+
+dialogue type : s^bs.%-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : sj^aa
+A :  I think they would .
+
+dialogue type : s
+A :  And also he 's he 's he 's got at least one woman .
+
+dialogue type : s
+A :  And we 're we have a little problem of no women ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : h|s^aa
+A :  Ah , that 's right .
+
+dialogue type : s^tc
+A :  That was it .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^aa^rt
+A :  Yeah .
+
+dialogue type : fg|s^cs^na.%--
+A : 
+
+dialogue type : s^cs.%--
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : h|s
+A :  Um I think that one of the neat things about having this little pilot thing from today is we should try it a couple different ways ,
+
+dialogue type : s^cs
+A :  so we should try to do it internally ,
+
+dialogue type : s^cs
+A :  maybe ask ask Jane if we could get her to do it or or or have her supervise a linguistics student or somebody
+
+dialogue type : s^cs
+A :  and uh see how long it takes , and you know , multiply out the cost ,
+
+dialogue type : s^cs
+A :  and then send send the same thing out , or maybe split it in halves or something something like that to a to an outside service
+
+dialogue type : s^cs
+A :  and uh see what that costs and how much hassle that is .
+
+dialogue type : s
+A :  And then we can assess it .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s^ar
+A :  No .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^rt
+A :  This was this was the point of having near zero skew .
+
+dialogue type : qy^d^g
+A :  Right ?
+
+dialogue type : s^rt
+A :  So you just pick one , with the best sounding one , and give it to somebody and they transcribe it .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  Yeah , you could do fancy things , but it seems like that 's enough .
+
+dialogue type : b|s^no
+A :  Yeah But uh I don't know .
+
+dialogue type : sj
+A :  This meeting , so , say it 's maybe going to be a half hour or something ,
+
+dialogue type : s
+A :  and and uh we 've heard estimates ranging between ten and twenty times uh real time to do this kind of transcription
+
+dialogue type : fh|s
+A :  um so you know in in principle then it 'll take somebody a day for somebody to deal with this .
+
+dialogue type : s
+A :  And uh we 'll see which one of those seems closest to right
+
+dialogue type : s
+A :  and if they ramped up , if towards the end it was faster you know , get some sort of sense from them uh from whoever does it
+
+dialogue type : fh|s
+A :  and um then uh like I say , check it out with an external service and see if it 's faster , cheaper , better , worse , whatever .
+
+dialogue type : s
+A :  Then we 'll go from there .
+
+dialogue type : s^no^rt
+A :  I don't know .
+
+dialogue type : s^no
+A :  I do I don't know the answer to that .
+
+dialogue type : s^no^rt
+A :  I don't know .
+
+dialogue type : s^bu
+A :  Well , I mean there 's this Cyber Transcriber service ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : s
+A :  And at least supposedly the way they work is by feeding them what is the output of the recognizer .
+
+dialogue type : s
+A :  So maybe it depends on what the software tools are like .
+
+dialogue type : s^rt.%--
+A :  If it 's you know , if they can easily flip through stuff and get to the right thing ,
+
+dialogue type : qrr
+A :  or do you point ,
+
+dialogue type : s^no
+A :  or I don't know .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  Ah , the internet .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bc
+A :  Inexpensive .
+
+dialogue type : fg|s^tc
+A :  OK so we 're degenerating ,
+
+dialogue type : qy^d^g
+A :  right .
+
+dialogue type : qr^rt^tc
+A :  Are are are we done with uh MR business ,
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : qo^t
+A :  I mean what what 's maybe we should what are our action items ?
+
+dialogue type : s^t
+A :  So there 's there 's the continuing process of cleaning up the stuff and making it easier to do that .
+
+dialogue type : s^t
+A :  There 's taking the results of this meeting and putting it in some kind of decent form ,
+
+dialogue type : s^t
+A :  probably getting some kind of single channel merged sum data or something so that you can give a simple sound file of some sort to a transcriber to deal with it rather than this massive thing .
+
+dialogue type : s
+A :  That 's a little bit of stuff to do .
+
+dialogue type : qy^d^f^g
+A :  Right ?
+
+dialogue type : s^aa|s^aap
+A :  Yeah , although it it it it may be separating out these numbers from the rest .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s.%-
+A :  And then
+
+dialogue type : h
+A :  Yeah and uh
+
+dialogue type : b
+A :  Right .
+
+dialogue type : fh|s.%-
+A : 
+
+dialogue type : s^aa
+A :  Sure .
+
+dialogue type : h
+A :  OK .
+
+dialogue type : qw
+A :  How many more you got ?
+
+dialogue type : s^co
+A :  Well , let 's do some more while we got them here .
+
+dialogue type : s^ar.%-
+A :  Well , you know , it 's not , but
+
+dialogue type : z
+A :  Yeah , there 's just two more .
+
+dialogue type : z
+A :  uh
+
+dialogue type : z
+A :  OK .
+
+dialogue type : z
+A :  So .
+
+dialogue type : z
+A :  OK .
+
+dialogue type : z
+A :  OK .
+
+dialogue type : z
+A :  I 'd say we 're done .
+
+dialogue type : z
+A :  So , is it it 's going to disk ,
+
+dialogue type : z
+A : 
+
+dialogue type : z
+A :  And how how much disk do we have ?
+

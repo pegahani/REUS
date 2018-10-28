@@ -1,0 +1,1368 @@
+dialogue type : z
+F :  Oh , that 's good .
+
+dialogue type : z
+F :  Cuz we have a lot of breath noises .
+
+dialogue type : z
+F :  In fact , if you listen to just the channels of people not talking , it 's like " @ @ " .
+
+dialogue type : z
+F :  It 's very disgust
+
+dialogue type : z
+F :  Sorry .
+
+dialogue type : z
+F :  Exactly .
+
+dialogue type : z
+F :  It 's very disconcerting .
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : fh
+F :  So , um ,
+
+dialogue type : s^rt
+F :  I was gonna try to get out of here , like , in half an hour ,
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : s
+F :  cuz I really appreciate people coming ,
+
+dialogue type : s
+F :  and the main thing that I was gonna ask people to help with today is to give input on what kinds of database format we should use in starting to link up things like word transcripts and annotations of word transcripts ,
+
+dialogue type : s^e
+F :  so anything that transcribers or discourse coders or whatever put in the signal , with time - marks for , like , words and phone boundaries and all the stuff we get out of the forced alignments and the recognizer .
+
+dialogue type : fh|s.%--
+F : 
+
+dialogue type : s
+F :  I think a starting point is clearly the the channelized output of Dave Gelbart 's program ,
+
+dialogue type : s^e^rt
+F :  which Don brought a copy of ,
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : %-
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  OK ,
+
+dialogue type : s^aa
+F :  yeah .
+
+dialogue type : s^na
+F :  So you should , definitely .
+
+dialogue type : s^bk
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Right ,
+
+dialogue type : s^bk^r
+F :  right .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^df^nd
+F :  It 's an O instead of an I ,
+
+dialogue type : s^aap
+F :  but the D is good .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s^ba
+F :  I mean , that seems that seems g great for all of the encoding of things with time
+
+dialogue type : fh
+F :  and ,
+
+dialogue type : fh
+F : 
+
+dialogue type : qw
+F :  I I guess my question is more , uh , what d what do you do with , say , a forced alignment ?
+
+dialogue type : s^df
+F :  I mean you 've got all these phone labels ,
+
+dialogue type : qw
+F :  and what do you do if you just conceptually , if you get , um , transcriptions where the words are staying but the time boundaries are changing , cuz you 've got a new recognition output ,
+
+dialogue type : qw
+F :  or s sort of what 's the , um , sequence of going from the waveforms that stay the same , the transcripts that may or may not change , and then the utterance which where the time boundaries that may or may not change ?
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : qy^bu^d
+F :  And you 'd be able to propagate all of the the information ?
+
+dialogue type : s^aa
+F :  Yeah ,
+
+dialogue type : s^na
+F :  yeah , especially at the phone - level .
+
+dialogue type : s
+F :  The we we have phone - level backtraces .
+
+dialogue type : fh
+F : 
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : fh|qw
+F :  So , if you were doing that and you had this sort of companion , uh , thing that gets called up for phone - level , uh , what would that look like ?
+
+dialogue type : qw.%-
+F :  How would you ?
+
+dialogue type : %-
+F :  H h
+
+dialogue type : s
+F :  So you could have some file that configures how much information you want in your in your XML or something .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s^df.%-
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^aa^r
+F :  Yeah .
+
+dialogue type : s^na
+F :  Definitely .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  So , one thing that Don is doing , is we 're we 're running For every frame , you get a pitch value ,
+
+dialogue type : s^e
+F :  and not only one pitch value but different kinds of pitch values
+
+dialogue type : s^e.%-
+F : 
+
+dialogue type : qw^d^rt
+F :  Meaning ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bu
+F :  That you could call that you would tie into this representation with like an ID .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^na
+F :  So that might that might work .
+
+dialogue type : s
+F :  I mean these are long meetings
+
+dialogue type : s.%--
+F :  and with for every frame ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^na
+F :  These are big files .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fh
+F : 
+
+dialogue type : %-
+F : 
+
+dialogue type : s^ng
+F :  Phones are every five frames though ,
+
+dialogue type : fh
+F :  so .
+
+dialogue type : s^e
+F :  Or something like that .
+
+dialogue type : s^bk
+F :  Yeah ,
+
+dialogue type : s^ng.%--
+F : 
+
+dialogue type : s^bu.%--
+F : 
+
+dialogue type : s^bsc
+F :  long pause phones .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^aa
+F :  That 's true .
+
+dialogue type : s
+F :  But you do have to keep them in there .
+
+dialogue type : fh
+F :  Y yeah .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fg
+F : 
+
+dialogue type : qy^rt
+F :  Do you Are you familiar with it ?
+
+dialogue type : s^df
+F :  I haven't seen this particular format ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : s.%-
+F :  So that that sounds that sounds about what I w
+
+dialogue type : qy^d
+F :  You do ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : qy^rt
+F :  Is there some documentation on this somewhere ?
+
+dialogue type : s^bk
+F :  OK ,
+
+dialogue type : s^ba
+F :  great .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s^ba
+F :  I mean , that sounds good .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^df
+F :  I 'm not a database person ,
+
+dialogue type : s
+F :  but something sort of standard enough that , you know , if we start using this we can give it out ,
+
+dialogue type : s
+F :  other people can work on it ,
+
+dialogue type : qy.%-
+F :  or Is it ?
+
+dialogue type : s
+F :  But it 's been used here
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : fg|s
+F :  Actually , I I just you know , we we 've done this stuff on prosodics
+
+dialogue type : s
+F :  and three or four places have asked for those prosodic files ,
+
+dialogue type : s
+F :  and we just have an ASCII , uh , output of frame - by - frame .
+
+dialogue type : s^df
+F :  Which is fine ,
+
+dialogue type : s
+F :  but it gets unwieldy to go in and and query these files with really huge files .
+
+dialogue type : s
+F :  I mean , we could do it .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : qw^rt
+F :  Hmm ?
+
+dialogue type : s
+F :  They 're they 're fair they 're quite large .
+
+dialogue type : s
+F :  And these are for ten - minute Switchboard conversations ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  So it 's doable ,
+
+dialogue type : s^df
+F :  it 's just that you can only store a feature vector at frame - by - frame
+
+dialogue type : s.%--
+F :  and it doesn't have any kind of ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^no^rt
+F :  I I don't know enough about what we 're gonna do with the data .
+
+dialogue type : s
+F :  But I thought it would be good to get something that we can that other people can use or adopt for their own kinds of encoding .
+
+dialogue type : s^df
+F :  And just , I mean we have to use some we have to make some decision about what to do .
+
+dialogue type : s
+F :  And especially for the prosody work , what what it ends up being is you get features from the signal ,
+
+dialogue type : s
+F :  and of course those change every time your alignments change .
+
+dialogue type : s
+F :  So you re - run a recognizer ,
+
+dialogue type : s
+F :  you want to recompute your features , um , and then keep the database up to date .
+
+dialogue type : s
+F :  Or you change a word , or you change a utterance boundary segment , which is gonna happen a lot .
+
+dialogue type : s
+F :  And so I wanted something where all of this can be done in a elegant way
+
+dialogue type : s
+F :  and that if somebody wants to try something or compute something else , that it can be done flexibly .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s
+F :  it doesn't have to be pretty ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : b
+F :  Oh .
+
+dialogue type : fh
+F : 
+
+dialogue type : qw^rt
+F :  And why did you not choose that type of approach ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : qy^rt
+F :  But other than that , are they compatible ?
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk|s.%--
+F :  Yeah , that 's w
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : b
+F :  OK .
+
+dialogue type : %-
+F : 
+
+dialogue type : s
+F :  So this is what the meeting 's about ,
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : s^df
+F :  Um , cuz we need to come up with a database like this just to do our work .
+
+dialogue type : s
+F :  And I actually don't care , as long as it 's something useful to other people , what we choose .
+
+dialogue type : s.%--
+F :  So maybe it 's maybe oth you know ,
+
+dialogue type : s^no
+F :  if if you have any idea of how to choose , cuz I don't .
+
+dialogue type : s
+F :  And you can have as much information in the tag as you want ,
+
+dialogue type : qy^d^g
+F :  right ?
+
+dialogue type : s^bu.%--
+F : 
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : fh
+F : 
+
+dialogue type : qw
+F :  So why would it be a a waste to do it this way if it 's similar enough that we can always translate it ?
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : qy
+F :  I mean , would the tools would the tools run on something like this , if you can translate them anyway ?
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fh
+F :  uh , yeah .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : fg
+F :  Actually ,
+
+dialogue type : fg
+F : 
+
+dialogue type : s
+F :  that that would really be the question , is just what you would feel is in the long run the best thing .
+
+dialogue type : s^df
+F :  Cuz once we start , sort of , doing this I don't we don't actually have enough time to probably have to rehash it out again
+
+dialogue type : fh
+F : 
+
+dialogue type : %
+F :  s
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^bk^r
+F :  Right .
+
+dialogue type : s
+F :  I mean , I like this .
+
+dialogue type : s
+F :  This is sort of intuitively easy to actually r read ,
+
+dialogue type : s^e
+F :  as easy it could as it could be .
+
+dialogue type : fh
+F :  But ,
+
+dialogue type : s.%--
+F :  I suppose that as long as they have a type here that specifies " utt " ,
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^cs
+F :  You have to make a different type .
+
+dialogue type : fg
+F : 
+
+dialogue type : s.%--
+F :  Well , if you look at it
+
+dialogue type : fh
+F :  and Um ,
+
+dialogue type : s
+F :  I guess in my mind I don't know enough Jane would know better , about the types of annotations
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  it could be in its own channel ,
+
+dialogue type : s
+F :  it could span time boundaries of any type ,
+
+dialogue type : s
+F :  it could be instantaneous ,
+
+dialogue type : s
+F :  things like that .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s
+F :  and then from the recognition side we have backtraces at the phone - level .
+
+dialogue type : s
+F :  If if it can handle that , it could handle states or whatever .
+
+dialogue type : s
+F :  And then at the prosody - level we have frame sort of like cepstral feature files ,
+
+dialogue type : s^e
+F :  uh , like these P - files or anything like that .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  And then we have the aligned channels , of course ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^na
+F :  I I definitely agree
+
+dialogue type : s
+F :  and I wanted to find actually a f a nicer format or a maybe a more compact format than what we used before .
+
+dialogue type : s^df
+F :  Just cuz you 've got ten channels or whatever and two hours of a meeting .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^ng.%--
+F : 
+
+dialogue type : %--
+F :  I mean , w
+
+dialogue type : s.%-
+F :  yeah , channel is what the channelized output out
+
+dialogue type : s^bk|%-
+F : 
+
+dialogue type : qw.%--
+F : 
+
+dialogue type : s
+F :  So right now what you have as utterance , um , the closest thing that comes out of the channelized is the stuff between the segment boundaries that the transcribers put in or that Thilo put in ,
+
+dialogue type : s^e
+F :  which may or may not actually be , like , a s it 's usually not um , the beginning and end of a sentence , say .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s^bk
+F :  right .
+
+dialogue type : s
+F :  Um , so it 's like a segment or something .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s
+F :  I mean , I assume this is possible , that if you have someone annotates the punctuation or whatever when they transcribe , you can say , you know , from for from the c beginning of the sentence to the end of the sentence , from the annotations , this is a unit ,
+
+dialogue type : s^e.%--
+F : 
+
+dialogue type : s^e
+F :  i It 's only a unit by virtue of the annotations at the word - level .
+
+dialogue type : s
+F :  And then that would get a tag somehow .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fh|s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^no
+F :  But , uh , what I don't understand is where the where in this type of file that would be expressed .
+
+dialogue type : s
+F :  S so it would just be floating before the sentence or floating after the sentence without a time - mark .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : %
+F : 
+
+dialogue type : %-
+F :  S
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^nd
+F :  they 're actually overlapping each other , sort of .
+
+dialogue type : s
+F :  You have to have another type then , I guess .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s
+F :  Well , it 's definitely true with the segment .
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : fh
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : b
+F :  An - Right .
+
+dialogue type : s:s^co
+F :  So you would be able to go in and say , you know , " give me all the words in the bound in the prosodic phrase
+
+dialogue type : s.%-:s^co.%-
+F :  and give me all the words in the "
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Um , OK .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^ba^t3
+F :  That 's good .
+
+dialogue type : h
+F :  Well ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^no
+F :  I don't know if this is premature
+
+dialogue type : s^df
+F :  because I suppose once you get the representation you can do this ,
+
+dialogue type : s.%--
+F :  but the kinds of things I was worried about is ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^bk
+F :  Well , OK .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^j^nd
+F :  I I mean , I can't do it ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s
+F :  You 'd need a p sort of a paradigm for how to do it .
+
+dialogue type : s
+F :  But an example would be " find all the cases in which Adam started to talk while Andreas was talking and his pitch was rising ,
+
+dialogue type : s^e
+F :  Andreas 's pitch " .
+
+dialogue type : s
+F :  That kind of thing .
+
+dialogue type : h|s
+F :  Well , the rising pitch will never be hand - annotated .
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : s^df.%-
+F : 
+
+dialogue type : fg
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s:qw^rt
+F :  So normally what we would do is we would say " what do we wanna assign rising pitch to ? "
+
+dialogue type : s:qy^rt
+F :  Are we gonna assign it to words ?
+
+dialogue type : s.%--:qy.%--
+F : 
+
+dialogue type : s
+F :  when it 's rising we have a begin - end rise representation ?
+
+dialogue type : s
+F :  But suppose we dump out this file
+
+dialogue type : s:s
+F :  and we say , uh , for every word we just classify it as , w you know , rise or fall or neither ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s
+F :  So we would basically be sort of , um , taking the format and enriching it with things that we wanna query in relation to the words that are already in the file ,
+
+dialogue type : s
+F :  and then querying it .
+
+dialogue type : fh
+F :  OK .
+
+dialogue type : %-
+F : 
+
+dialogue type : %
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aap
+F :  That 's true if the features from your acoustics or whatever that are not explicitly in this are at the level of these types .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  That 's right .
+
+dialogue type : s^aa
+F :  That 's true .
+
+dialogue type : s^df
+F :  That 's why I was trying to figure out what 's the best format for this representation .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  it 's still gonna be , uh , not direct .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  Or another example was , you know , uh , where in the language where in the word sequence are people interrupting ?
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s^ba
+F :  I guess that one 's actually easier .
+
+dialogue type : qy^bh
+F :  Huh .
+
+dialogue type : s^ng
+F :  It seems like the kind of thing you 'd do if I don't know , if people start adding all kinds of s bells and whistles to the data .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^bd
+F :  I mean , it 'd be good for us to know to use a format where we know we can easily , um , input that to some database if other people are using it .
+
+dialogue type : s
+F :  Something like that .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : %-
+F : 
+
+dialogue type : s
+F :  See , I think the kinds of questions , at least in the next to the end of this year , are there may be a lot of different ones ,
+
+dialogue type : s
+F :  but they 'll all have a similar nature .
+
+dialogue type : s
+F :  They 'll be looking at either a word - level prosodic , uh , an a value ,
+
+dialogue type : s^e
+F :  like a continuous value ,
+
+dialogue type : s^e
+F :  like the slope of something .
+
+dialogue type : fh
+F :  But
+
+dialogue type : s
+F :  you know , we 'll do something where we some kind of data reduction where the prosodic features are sort o uh , either at the word - level or at the segment - level ,
+
+dialogue type : s^e
+F :  or or something like that .
+
+dialogue type : s
+F :  They 're not gonna be at the phone - level and they 're no not gonna be at the frame - level when we get done with sort of giving them simpler shapes and things .
+
+dialogue type : fh|s.%--
+F : 
+
+dialogue type : s
+F :  Well , I guess , the two goals .
+
+dialogue type : s^df
+F :  Um , one that Chuck mentioned is starting out with something that we don't have to start over , that we don't have to throw away if other people want to extend it for other kinds of questions ,
+
+dialogue type : s^df
+F :  and being able to at least get enough , uh , information out on where we condition the location of features on information that 's in the kind of file that you put up there .
+
+dialogue type : s
+F :  And that would that would do it ,
+
+dialogue type : s^df
+F :  I mean , for me .
+
+dialogue type : s^2
+F :  In the between ,
+
+dialogue type : s^aa
+F :  right .
+
+dialogue type : s^df^na
+F :  And especially that the representation doesn't have to be thrown away ,
+
+dialogue type : s^e
+F :  even if your tools change .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^na
+F :  I mean , that sounds good to me .
+
+dialogue type : %-
+F : 
+
+dialogue type : fg
+F :  So
+
+dialogue type : s^cs.%--
+F :  if if you would l look at that and let us know what you think .
+
+dialogue type : s^ba
+F :  I mean , I think we 're sort of guinea pigs ,
+
+dialogue type : s^df
+F :  cuz I I want to get the prosody work done
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : qw^rt
+F :  Yeah ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^aa
+F :  Yeah , definitely .
+
+dialogue type : s^na.%--
+F : 
+
+dialogue type : s
+F :  Oh , hi .
+
+dialogue type : s^r
+F :  the right representation ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  We don't actually need the whole full - blown thing to be ready ,
+
+dialogue type : fh
+F :  so .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s^co.%--
+F :  so maybe if you guys can look at it and sort of see what ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^tc.%--
+F : 
+
+dialogue type : s^aa
+F :  yeah ,
+
+dialogue type : s^na
+F :  wrapping up ,
+
+dialogue type : fh
+F :  but ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^bk
+F :  Yeah ,
+
+dialogue type : s^fa|s^df
+F :  sorry , it 's a uh short meeting ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^no
+F :  Well , I don't know .
+
+dialogue type : qo^rt^tc
+F :  Is there anything else ,
+
+dialogue type : %--
+F : 
+
+dialogue type : s
+F :  I mean that helps me a lot ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s.%--
+F :  So , I guess ,
+
+dialogue type : s^bk
+F :  yeah ,
+
+dialogue type : s^co
+F :  if if you and Don can if you can show him the P - file stuff and see .
+
+dialogue type : s^df
+F : 
+
+dialogue type : s^j
+F :  It 's like the history of ICSI .
+
+dialogue type : %
+F : 
+
+dialogue type : qy^bh^rt
+F :  Yeah ?
+
+dialogue type : s
+F : 
+
+dialogue type : b
+F :  Huh .
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : s^ba
+F :  Well , that 's really useful .
+
+dialogue type : s
+F :  I mean , this is exactly the kind of thing that I wanted to settle .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^ba
+F :  Great .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s.%--
+F :  I guess it 's also sort of a political deci
+
+dialogue type : s^na
+F :  I mean , if if you feel like that 's a community that would be good to tie into anyway , then it 's sounds like it 's worth doing .
+
+dialogue type : s^bk
+F :  OK ,
+
+dialogue type : s^ba
+F :  great .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^cs
+F :  I mean , we can start with , um , I guess , this input from Dave 's ,
+
+dialogue type : s^e
+F :  which you had printed out , the channelized input .
+
+dialogue type : s^df
+F :  Cuz he has all of the channels ,
+
+dialogue type : s^e
+F :  you know , with the channels in the tag and stuff like that .
+
+dialogue type : s.%--
+F :  So that would be i directly ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s.%-
+F :  And so then it would just be a matter of getting making sure to handle the annotations that are , you know , not at the word - level and , um , t to import the
+
+dialogue type : s^no.%--
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yeah ,
+
+dialogue type : s^df^na
+F :  any kind of annotation that , like , isn't already there .
+
+dialogue type : s^df
+F :  Uh , you know , anything you can envision .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s
+F :  Or the time .
+
+dialogue type : fh
+F :  I guess .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  Well , all the Switchboard in it .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^2
+F :  W - diff or diff .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^cs.%-
+F : 
+
+dialogue type : s^cs
+F :  But the one thing that would work here actually for i that is more reliable than the utterances is the the speaker ons and offs .
+
+dialogue type : s.%--
+F :  So if you have a good ,
+
+dialogue type : fh
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  You just have to know wha what to tie it to .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^aa
+F :  Right , right .
+
+dialogue type : fg
+F :  But ,
+
+dialogue type : qy.%--
+F : 
+
+dialogue type : qy^d^f^rt
+F :  You know what I mean ?
+
+dialogue type : s
+F :  Then Or if they tied it to an acoustic segment and we had the time - marks , that would help .
+
+dialogue type : s
+F :  But the problem is exactly as Adam said , that you get , you know , y you don't have that information or it 's lost in the merge somehow ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^aa
+F :  Exactly .
+
+dialogue type : s
+F :  And so that 's exactly what we should somehow when you distribute the data , say that you know , that have some way of knowing how to merge it back in and asking people to try to do that .
+
+dialogue type : h|s.%--
+F : 
+
+dialogue type : s^fe^j
+F :  Time is passing !
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  He he 's a language modeling person , though .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  Exactly .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s
+F :  You can merge at the level of the representation that the other person preserved and that 's it .
+
+dialogue type : s
+F :  And beyond that , all you know is is relative ordering
+
+dialogue type : s
+F :  and sometimes even that is wrong .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s
+F :  And then infer that their time - marks are somewhere in between .
+
+dialogue type : s^aa
+F :  Yeah , exactly .
+
+dialogue type : s^aa
+F :  Definitely .
+
+dialogue type : s^aa
+F :  Definitely .
+
+dialogue type : fg
+F :  Alright .
+
+dialogue type : s^tc
+F :  Well , I guess , w I I didn't want to keep people too long
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^cc
+F :  I 'll read the digits .
+
+dialogue type : s
+F :  If anyone else offers to , that 'd be great .
+
+dialogue type : fh
+F :  And
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^ft
+F :  Thanks thanks a lot .
+
+dialogue type : s
+F :  It 's really helpful .
+
+dialogue type : s
+F :  I mean , Adam and Don will sort of meet
+
+dialogue type : s^ba
+F :  and I think that 's great .
+
+dialogue type : s^ba
+F :  Very useful .
+
+dialogue type : z
+F :  Go next .
+

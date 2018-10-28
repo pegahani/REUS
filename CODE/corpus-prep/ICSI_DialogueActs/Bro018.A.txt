@@ -1,0 +1,468 @@
+dialogue type : b.%
+A :  Oh . R
+
+dialogue type : s
+A :  R R - zero .
+
+dialogue type : qw
+A :  What are what are your f uh frame error rates for for this ?
+
+dialogue type : %-
+A :  O
+
+dialogue type : s^bu.%--
+A :  Fif - fifty - six percent accurate for v voice - unvoice
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s
+A :  Should be in nineties somewhere .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Oh yeah .
+
+dialogue type : s
+A :  TIMIT canonical ma mappings .
+
+dialogue type : s^aa|s
+A :  Yeah , noisy TIMIT .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^bk^fe^rt
+A :  Hmm !
+
+dialogue type : s^j
+A :  Mc - McDonald 's constant .
+
+dialogue type : s^bk^fe
+A :  Oh !
+
+dialogue type : fh|s^aa
+A :  um uh Yeah .
+
+dialogue type : s
+A :  So . I I guess some of the progress , I I 've been getting a getting my committee members for the quals .
+
+dialogue type : s
+A :  And um so far I have Morgan and Hynek , Mike Jordan ,
+
+dialogue type : s
+A :  and I asked John Ohala and he agreed .
+
+dialogue type : b
+A :  Yeah . Yeah .
+
+dialogue type : s
+A :  So I 'm I I just need to ask um Malek .
+
+dialogue type : s
+A :  One more .
+
+dialogue type : fh
+A :  Um . Tsk .
+
+dialogue type : s
+A :  Then uh I talked a little bit about um continuing with these dynamic ev um acoustic events ,
+
+dialogue type : s
+A :  and um we 're we 're we 're thinking about a way to test the completeness of a a set of um dynamic uh events .
+
+dialogue type : qo
+A :  Uh , completeness in the in the sense that um if we if we pick these X number of acoustic events , do they provide sufficient coverage for the phones that we 're trying to recognize or or the f the words that we 're gonna try to recognize later on .
+
+dialogue type : s
+A :  And so Morgan and I were uh discussing um s uh s a form of a cheating experiment where we get um we have uh um a chosen set of features , or acoustic events ,
+
+dialogue type : s
+A :  and we train up a hybrid um system to do phone recognition on TIMIT .
+
+dialogue type : s
+A :  So i i the idea is if we get good phone recognition results , using um these set of acoustic events , then um that that says that these acoustic events are g sufficient to cover a set of phones ,
+
+dialogue type : s^e
+A :  at least found in TIMIT .
+
+dialogue type : qo
+A :  Um so i it would be a a measure of " are we on the right track with with the the choices of our acoustic events " .
+
+dialogue type : fh|s
+A :  Um , So that 's going on .
+
+dialogue type : s
+A :  And also , just uh working on my uh final project for Jordan 's class ,
+
+dialogue type : s^e.%-
+A : 
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^bk
+A :  OK , sure .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : h
+A :  Yeah th Um .
+
+dialogue type : h|s^rt
+A :  So for my class project I 'm um I 'm tinkering with uh support vector machines ?
+
+dialogue type : s
+A :  something that we learned in class ,
+
+dialogue type : fh|s
+A :  and uh um basically just another method for doing classification .
+
+dialogue type : s
+A :  And so I 'm gonna apply that to um compare it with the results by um King and Taylor who did um these
+
+dialogue type : fh
+A :  um
+
+dialogue type : s
+A :  using recurrent neural nets , they recognized um a set of phonological features
+
+dialogue type : fh
+A :  um
+
+dialogue type : s
+A :  and made a mapping from the MFCC 's to these phonological features ,
+
+dialogue type : s
+A :  so I 'm gonna do a similar thing with with support vector machines
+
+dialogue type : s.%--
+A : 
+
+dialogue type : h|s
+A :  Um . So , support vector machines are are good with dealing with a less amount of data
+
+dialogue type : fh|s
+A :  and um so if you if you give it less data it still does a reasonable job in learning the the patterns .
+
+dialogue type : fh
+A :  Um and um
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : h
+A :  Um .
+
+dialogue type : h
+A :  Right .
+
+dialogue type : s
+A :  So , the the simple idea behind a support vector machine is um , you have you have this feature space ,
+
+dialogue type : qy^d^f^g^rt
+A :  right ?
+
+dialogue type : s
+A :  and then it finds the optimal separating plane , um between these two different um classes ,
+
+dialogue type : fh
+A :  and um and so um ,
+
+dialogue type : s
+A :  what it i at the end of the day , what it actually does is it picks those examples of the features that are closest to the separating boundary ,
+
+dialogue type : s
+A :  and remembers those
+
+dialogue type : s
+A :  and and uses them to recreate the boundary for the test set .
+
+dialogue type : s
+A :  So , given these um these features , or or these these examples , um , critical examples , which they call support f support vectors , then um given a new example , if the new example falls um away from the boundary in one direction then it 's classified as being a part of this particular class
+
+dialogue type : s
+A :  and otherwise it 's the other class .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : h
+A :  Um . Hmm .
+
+dialogue type : h
+A :  Let 's see .
+
+dialogue type : h
+A :  Uh .
+
+dialogue type : s^no
+A :  Yeah , that 's a good question .
+
+dialogue type : %--
+A : 
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : fg
+A :  Right .
+
+dialogue type : s
+A :  I it can be a a reduced um parameterization of of the the model by just keeping certain selected examples .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : %--
+A :  So .
+
+dialogue type : s^aa
+A :  Yeah , I don't know either .
+
+dialogue type : s
+A :  Actually you don't get a you don't get a nice number between zero and one .
+
+dialogue type : s^e
+A :  You get you get either a zero or a one .
+
+dialogue type : h
+A :  Um , uh
+
+dialogue type : s.%--
+A :  there are there are pap
+
+dialogue type : s
+A :  Well , basically , it 's it 's um you you get a distance measure at the end of the day ,
+
+dialogue type : s
+A :  and then that distance measure is is um is translated to a zero or one .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s^aa^m
+A :  That 's for classification ,
+
+dialogue type : b
+A :  right .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^aa^m
+A :  You have the distances to work with ,
+
+dialogue type : b
+A :  yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg|s
+A :  Yeah , they they had a had a way to translate the distances into into probabilities with the with the simple um uh sigmoidal function .
+
+dialogue type : h|s^aa
+A :  Um Yeah ,
+
+dialogue type : s
+A :  there 's some there 's like one over one plus the exponential or something like that .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^fe
+A :  Oh
+
+dialogue type : s
+A :  I 'm not do I 'm not planning on doing speech recognition with it .
+
+dialogue type : s
+A :  I 'm just doing detection of phonological features .
+
+dialogue type : s
+A :  So uh for example , this this uh feature set called the uh sound patterns of English um is just a bunch of um binary valued features .
+
+dialogue type : qo
+A :  Let 's say , is this voicing , or is this not voicing ,
+
+dialogue type : qo
+A :  is this sonorants , not sonorants ,
+
+dialogue type : s
+A :  and stuff like that .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^fe.%
+A :  Oh !
+
+dialogue type : h|s
+A :  Uh I haven't gone through the entire table , yet .
+
+dialogue type : fh
+A :  Yeah ,
+
+dialogue type : s
+A :  yesterday I brought Chuck the table
+
+dialogue type : s:qy
+A :  and I was like , " wait , this is Is the mapping from N to to this phonological feature called um " coronal " ,
+
+dialogue type : s:qy
+A :  is is should it be shouldn't it be a one ?
+
+dialogue type : s:qy
+A :  or should it should it be you know coronal instead of not coronal as it was labelled in the paper ? "
+
+dialogue type : s
+A :  So I ha haven't hunted down all the all the mistakes yet ,
+
+dialogue type : %--
+A : 
+
+dialogue type : b
+A :  Right , yeah .
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : fg
+A :  Yeah ,
+
+dialogue type : s.%--
+A : 
+
+dialogue type : b
+A :  yeah ,
+
+dialogue type : %--
+A : 
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : qy^rt
+A :  Uh , is this the class project ,
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : h
+A :  um
+
+dialogue type : s^bk
+A :  Right , Right , right
+
+dialogue type : s
+A :  f so for every phone there is there is a um a vector of ones and zeros f uh corresponding to whether it exhibits a particular phonological feature or not .
+
+dialogue type : h
+A :  Um
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : h
+A :  Right ,
+
+dialogue type : h|s
+A :  um to come up with a mapping from um MFCC 's or s some feature set , um to uh w to whether there 's existence of a particular phonological feature .
+
+dialogue type : fh
+A :  And um
+
+dialogue type : fh
+A :  yeah ,
+
+dialogue type : s
+A :  basically it 's to learn a mapping from from the MFCC 's to uh phonological features .
+
+dialogue type : qy^rt
+A :  Is it did that answer your question ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : %--
+A :  C
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^ar
+A :  No , no .
+
+dialogue type : s^nd
+A :  I 'm not I 'm not planning to do any any phoneme mapping yet .
+
+dialogue type : s
+A :  Just it 's it 's basically it 's it 's really simple , basically a detection of phonological features .
+
+dialogue type : b
+A :  Yeah ,
+
+dialogue type : %--
+A : 
+
+dialogue type : s
+A :  So King and and Taylor um did this with uh recurrent neural nets ,
+
+dialogue type : s
+A :  and this i their their idea was to first find a mapping from MFCC 's to uh phonological features
+
+dialogue type : s
+A :  and then later on , once you have these phonological features , then uh map that to phones .
+
+dialogue type : s
+A :  So I 'm I 'm sort of reproducing phase one of their stuff .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b
+A :  Right . Right . Right .
+
+dialogue type : h
+A :  Uh .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Uh .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm .
+

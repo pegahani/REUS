@@ -1,0 +1,1047 @@
+dialogue type : %
+H :  What
+
+dialogue type : s
+H :  Otherwise you just get a heartbeats .
+
+dialogue type : %--
+H : 
+
+dialogue type : s.%--
+H :  Well , one thing that came up in the morning in the morning was the , um ,
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s.%--
+H :  if he has s
+
+dialogue type : s^df^no
+H :  I I don't remember ,
+
+dialogue type : qy^bu^d^rt
+H :  Mister Lan - Doctor Landry ?
+
+dialogue type : s^bu^m^rt
+H :  La - Landay ?
+
+dialogue type : s
+H :  So he has , um , these , uh , um , tsk note - taking things ,
+
+dialogue type : s
+H :  then that would sort of be a summary which you wouldn't have to solicit .
+
+dialogue type : s
+H :  y if if we were able to to do that .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s
+H :  The roll call .
+
+dialogue type : s
+H :  I 'm Jane Edwards , I think on channel B .
+
+dialogue type : qy
+H :  Should we have used pseudo - names ?
+
+dialogue type : qy.%--
+H :  Should we do it a second time with pseudo
+
+dialogue type : s^ar
+H :  No . No .
+
+dialogue type : s
+H :  Next nearest .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : s
+H :  I have a question on protocol in these meetings ,
+
+dialogue type : qy^rt
+H :  which is when you say " Jimlet " and the person listening won't know what that is , sh shou How how do we get Is that important information ?
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s^df^e.%--
+H : 
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : s^ba
+H :  Good .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : s^bk
+H :  OK . Good .
+
+dialogue type : fg|s^t^tc
+H :  OK , so we were on the data collection and the summary issue .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : %
+H :  Tsk .
+
+dialogue type : s^df^ng
+H :  Well , there is this other thing which y which you were alluding to earlier , which is , um , there are certain key words like , you know , " action item " and things like that ,
+
+dialogue type : s^e
+H :  which could be used in , uh , t to some degree finding the structure .
+
+dialogue type : s
+H :  And and I also , um , was thinking , with reference to the n uh , note - taking ,
+
+dialogue type : s
+H :  the advantage there is that you get structure without the person having to do something artificial later .
+
+dialogue type : s
+H :  And the fir third thing I wanted to say is the summaries afterwards ,
+
+dialogue type : s
+H :  um , I think they should be recorded instead of written
+
+dialogue type : s^df
+H :  because I think that , um , it would take so long for people to write that I think you wouldn't get as good a summary .
+
+dialogue type : s^aa|s^ba
+H :  Yeah , good .
+
+dialogue type : s^ba
+H :  Good point .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^ba
+H :  That 's a nice idea .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s
+H :  y So if th if the obscure item you want to know more about was some form of data collection ,
+
+dialogue type : s:s
+H :  you know , maybe the summary would say , you know , " we discussed types of na data collection " .
+
+dialogue type : s
+H :  And , you know And and maybe you could get to it by that .
+
+dialogue type : s
+H :  If you if you had the the larger structure of the of the discourse , then if you can categorize what it is that you 're looking for with reference to those l those larger headings , then you can find it
+
+dialogue type : s^e
+H :  even if you don't have a direct route to that .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s^df^rt
+H :  I I I think that , um , there 's we 're using " summary " in two different ways .
+
+dialogue type : s
+H :  So what you just described I would describe as " minutes " .
+
+dialogue type : s.%--:qw
+H :  And what I originally thought was , um , if you asked someone " what was the meeting about ? "
+
+dialogue type : s^e:s
+H :  And then they would say " well , we talked about this
+
+dialogue type : s^e:s
+H :  and then we talked about that ,
+
+dialogue type : s^e:s
+H :  and so - and - so talked about "
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s
+H :  I e My thought was to have multiple people summarize it , on recording rather than writing
+
+dialogue type : s^df
+H :  because writing takes time
+
+dialogue type : s^e.%--
+H : 
+
+dialogue type : s.%--
+H :  Whereas if you just say it immediately after the meeting ,
+
+dialogue type : s
+H :  you know , a two - minute summary of what the meeting was about , I think you would get ,
+
+dialogue type : s^e.%--
+H :  uh , with mult
+
+dialogue type : s
+H :  See , I I also worry about having a single note - taker
+
+dialogue type : s^df
+H :  because that 's just one person 's perception .
+
+dialogue type : fh
+H :  And , um ,
+
+dialogue type : s^df^e
+H :  you know , it it 's releva it 's relative to what you 're focus was on that meeting ,
+
+dialogue type : s^df^e
+H :  and and people have different major topics that they 're interested in .
+
+dialogue type : s^cs
+H :  So , my proposal would be that it may be worth considering both of those types , you know , the note - taking and a spontaneous oral summary afterwards ,
+
+dialogue type : s
+H :  no longer than two minutes ,
+
+dialogue type : s^e
+H :  from multiple people .
+
+dialogue type : s^bk
+H :  Yeah .
+
+dialogue type : s^na
+H :  I agree .
+
+dialogue type : s^na
+H :  I agree .
+
+dialogue type : s^ba
+H :  That 's wonderful .
+
+dialogue type : s^na
+H :  I agree .
+
+dialogue type : b.%
+H :  Mm - hmm .
+
+dialogue type : s^df
+H :  It 's just a digital record .
+
+dialogue type : s^aa|s^na
+H :  Yes , I agree .
+
+dialogue type : s^na
+H :  I agree .
+
+dialogue type : s^df
+H :  It 's i because discourse is about things ,
+
+dialogue type : s^df^e
+H :  and then you have the things that are about , and it 's recoverable .
+
+dialogue type : b
+H :  Yes .
+
+dialogue type : s^na
+H :  And it 's so simple .
+
+dialogue type : s^df^e
+H :  Like you said , three snapshots
+
+dialogue type : fh
+H : 
+
+dialogue type : s^e
+H :  Just to archive .
+
+dialogue type : b
+H :  Mmm .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^na
+H :  I agree .
+
+dialogue type : s^df.%-
+H : 
+
+dialogue type : s^aa
+H :  Yeah .
+
+dialogue type : s^aa
+H :  Mm - hmm .
+
+dialogue type : s^df.%-
+H : 
+
+dialogue type : %-
+H : 
+
+dialogue type : s|s^aa
+H :  Well , there 's that 'd be the the parallel , yeah .
+
+dialogue type : s^df.%-
+H :  But I think y she 's we 're just proposing a minimal preservation of things on boards ,
+
+dialogue type : s^e
+H : 
+
+dialogue type : s^cs
+H :  And you could anonymize the faces for that matter .
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s^df
+H :  It 's just one snapshot .
+
+dialogue type : s^e
+H :  We 're not talking about a movie .
+
+dialogue type : s^r
+H :  We 're talking about a snapshot .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : b
+H :  Hmm .
+
+dialogue type : s^bk
+H :  Yeah .
+
+dialogue type : s
+H :  Well , it 's worth considering .
+
+dialogue type : s^cs
+H :  Maybe we don't want to spend that much more time discussing it ,
+
+dialogue type : fh
+H : 
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : %-
+H :  Th
+
+dialogue type : s
+H :  The thing is , if it 's easy to collect it it th then I think it 's a wise thing to do
+
+dialogue type : s^df
+H :  because once it 's gone it 's gone .
+
+dialogue type : %-
+H : 
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : b.%
+H :  Yeah .
+
+dialogue type : b.%
+H :  Exactly .
+
+dialogue type : s^aa
+H :  Exactly .
+
+dialogue type : %-
+H : 
+
+dialogue type : s^na
+H :  Especially since this is common knowledge .
+
+dialogue type : s
+H :  I mean , this is shared knowledge among all the participants ,
+
+dialogue type : s
+H :  and it 's a shame to keep it off the recording .
+
+dialogue type : %-
+H :  s
+
+dialogue type : s^bd^no
+H :  Well , I don't understand that point .
+
+dialogue type : s^df.%-
+H : 
+
+dialogue type : %-
+H : 
+
+dialogue type : %-
+H : 
+
+dialogue type : s^na.%
+H :  I agree .
+
+dialogue type : s^ba
+H :  That 's great .
+
+dialogue type : s^bk|s.%-
+H : 
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : b
+H :  Uh - huh .
+
+dialogue type : s^ba
+H :  How fascinating .
+
+dialogue type : s^ba
+H :  That could be very interesting .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : fg|s
+H :  Yeah , I 'd just try Well , however the least intrusive and and quickest way is ,
+
+dialogue type : s^cs
+H :  and th and closest to the meeting time too ,
+
+dialogue type : s^df
+H :  cuz people will start to forget it as soon as they l leave .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : %-
+H :  w
+
+dialogue type : s.%-
+H :  I would s
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : qh^cs
+H :  And I 'm also wondering , couldn't that be included in the data sample
+
+dialogue type : s^df
+H :  so that you could increase the num you know , the words that are , uh , recognized by a particular individual ?
+
+dialogue type : s^df^e.%--
+H :  If you could include the person 's meeting stuff and also the person 's summary stuff , maybe that would be uh ,
+
+dialogue type : s^e
+H :  an ad addition to their database .
+
+dialogue type : s^e
+H :  Under the same acoustic circumstance ,
+
+dialogue type : s^df
+H :  cuz if they just walk next door with their set - up , nothing 's changed ,
+
+dialogue type : %--
+H : 
+
+dialogue type : %-
+H : 
+
+dialogue type : s
+H :  Uh , let the record show the light is flickering .
+
+dialogue type : s^cs
+H :  I 'm also wondering if we could ask the the people a a question
+
+dialogue type : s^cs^e:qw
+H :  which would be " what was the most interesting thing you got out of this meeting ? "
+
+dialogue type : s^df
+H :  Becau - in terms of like informativeness ,
+
+dialogue type : s^df
+H :  it might be , you know , that the summary would would not in even include what the person thought was the most interesting fact .
+
+dialogue type : s^df^na
+H :  I think you get two different types of information .
+
+dialogue type : s^df
+H :  Because you get , like , the general structure of important points and what the what the meeting was about .
+
+dialogue type : s
+H :  So you get the general structure , the important points of what the meeting was about with the summary .
+
+dialogue type : qh
+H : 
+
+dialogue type : s
+H :  Uh , so the fact that , uh , I know that Transcriber uses Snack is something that I thought was interesting
+
+dialogue type : s
+H :  and that and that Dan worked on on that .
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s^f
+H :  you know .
+
+dialogue type : s
+H :  So , I mean , you could ge pick up some of the micro items that wouldn't even occur as major headings
+
+dialogue type : s^e
+H :  but could be very informative .
+
+dialogue type : s^df^e
+H :  I think it wouldn't be too , uh , uh , cost - intensive either .
+
+dialogue type : s
+H :  You know , I mean , it 's like something someone can do pretty easily on the spur of the moment .
+
+dialogue type : s^aa
+H :  Yeah .
+
+dialogue type : b.%
+H :  Yeah .
+
+dialogue type : b.%
+H :  Yeah .
+
+dialogue type : s^na.%--
+H : 
+
+dialogue type : s
+H :  some some of the little things that would be hidden .
+
+dialogue type : s^ba
+H :  That would be interesting .
+
+dialogue type : b
+H :  Uh - huh .
+
+dialogue type : s:s
+H :  Well , and and one thing , we we 're saying " important " and we 're saying " interesting " .
+
+dialogue type : s
+H :  And and those those can be two different things .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^bk
+H :  OK , good .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s:s
+H :  I will say that that I I chose " interesting "
+
+dialogue type : s^df
+H :  because I think it includes also " important "
+
+dialogue type : s^e
+H :  in some cases .
+
+dialogue type : s
+H :  But , um , I I I feel like the summary gets at a different type of information .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s
+H :  i it puts a lot of burden on the person to to evaluate .
+
+dialogue type : s.%--
+H : 
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : b.%
+H :  Yeah .
+
+dialogue type : %-
+H :  k
+
+dialogue type : b
+H :  Sure .
+
+dialogue type : s^ba
+H :  That 's good .
+
+dialogue type : s^ba
+H :  I like that .
+
+dialogue type : s^ba^r
+H :  I like that .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : %-
+H :  A
+
+dialogue type : s
+H :  And one and one qualification on on the oral summaries .
+
+dialogue type : s^cs
+H :  They 'd be s they 'd be separate .
+
+dialogue type : s^e
+H :  They wouldn't be hearing each other 's summaries .
+
+dialogue type : s^cs
+H :  And and that would also be that the data would be included in the database .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : b
+H :  OK .
+
+dialogue type : b.%
+H :  Mm - hmm .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^cs
+H :  I I was wondering if if there might be one s more source of queries
+
+dialogue type : s^cs
+H :  which is indicator phrases like " action item " ,
+
+dialogue type : s^e
+H :  which could be obtained from the text from the transcript .
+
+dialogue type : s^aa
+H :  Yeah .
+
+dialogue type : s^aa|s
+H :  Yeah , that 's something to be determined , something to be specified ,
+
+dialogue type : s^e
+H :  but text - oriented .
+
+dialogue type : s^na|s^aa
+H :  I think you 'd remember that , yeah .
+
+dialogue type : s^aa|s^na
+H :  Yeah , that 's true .
+
+dialogue type : s^cs.%--
+H :  Well , but then you could you could prompt them to say , you know , " other than your action item " ,
+
+dialogue type : s
+H :  you know , whatever .
+
+dialogue type : s
+H :  But but the action item would be a way to get , uh , maybe an additional query .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : s^aa
+H :  Yeah .
+
+dialogue type : s^cs^df
+H : 
+
+dialogue type : b.%
+H :  Yeah .
+
+dialogue type : s^aa
+H :  Yeah . yeah .
+
+dialogue type : s^ba
+H :  Good .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : %-
+H :  So y
+
+dialogue type : s^aa
+H :  Sure , sure , sure .
+
+dialogue type : s^cs
+H :  You could email to both of us , uh , just I mean , if you wanted to .
+
+dialogue type : s^df.%--
+H :  I mean , I don't think either of us would mind recei
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s^2.%--
+H :  Edwards at
+
+dialogue type : s^e
+H :  ICSI .
+
+dialogue type : fg|s
+H :  Yeah , using foot pedals
+
+dialogue type : fh
+H : 
+
+dialogue type : s^aa|s
+H :  Yeah . They they don't have a way .
+
+dialogue type : s^df
+H :  But they have a verification .
+
+dialogue type : s^na
+H :  I did .
+
+dialogue type : s
+H :  I I m emailed them the Transcriber URL ,
+
+dialogue type : s^rt
+H :  um , the on - line , uh , data that Adam set up ,
+
+dialogue type : s^e
+H :  The URL
+
+dialogue type : s
+H :  so they can click on an utterance and hear it .
+
+dialogue type : s
+H :  and I emailed them the str streamlined conventions
+
+dialogue type : s
+H :  which you got a copy of today .
+
+dialogue type : s^ba
+H :  Good .
+
+dialogue type : s^ba
+H :  Oh , excellent . Good .
+
+dialogue type : s^df
+H :  I C - I CC ' ed Morgan .
+
+dialogue type : s^fa
+H :  I should have sent I should have CC ' ed you as well .
+
+dialogue type : s^nd
+H :  Oh , I thought we did .
+
+dialogue type : s^rt
+H :  We discussed , uh , musi musical score notation
+
+dialogue type : fh
+H : 
+
+dialogue type : s.%-
+H : 
+
+dialogue type : %-
+H : 
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : s^bk|s^ba
+H :  OK , excellent .
+
+dialogue type : s.%-
+H :  Well , it c
+
+dialogue type : b
+H :  Great .
+
+dialogue type : b
+H :  Mmm .
+
+dialogue type : qy
+H :  Can I ask , uh , one thing ?
+
+dialogue type : s
+H :  It relates to data data collection
+
+dialogue type : s.%--
+H : 
+
+dialogue type : fh
+H :  um , so ,
+
+dialogue type : s
+H :  um , I s I know that from with the near - field mikes some of the problems that come with overlapping speech , uh , are lessened .
+
+dialogue type : qr^cs
+H :  But I wonder if Uh , is that sufficient or should we consider maybe getting some data gathered in such a way that , um , u w we would c uh , p have a meeting with less overlap than would otherwise be the case ?
+
+dialogue type : s
+H :  So either by rules of participation , or whatever .
+
+dialogue type : s
+H :  Now , I mean , you know , it 's true ,
+
+dialogue type : s
+H :  I mean , we were discussing this earlier ,
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s
+H :  so if you 've got someone giving a report you 're not gonna have as much overlap .
+
+dialogue type : fh
+H :  But , um ,
+
+dialogue type : s
+H :  i i uh , so we 're gonna have s you know , non - overlapping samples anyway .
+
+dialogue type : qr
+H :  But , um , in a meeting which would otherwise be highly overlapping , is the near - field mike enough or should we have some rules of participation for some of our samples to lessen the overlap ?
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : b
+H :  OK .
+
+dialogue type : s^df.%-
+H : 
+
+dialogue type : s^bk|s^ba
+H :  OK , good .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s
+H :  On the task , and the task .
+
+dialogue type : %-
+H : 
+
+dialogue type : s.%--
+H :  I just wanted to uh ,
+
+dialogue type : s^df
+H :  because you know , it is true people can modify the amount of overlap that they do if if they 're asked to .
+
+dialogue type : s^bd
+H :  Not not entirely modify it ,
+
+dialogue type : s^df
+H :  but lessen it if if it 's desired .
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s
+H :  I just wanted to be sure that we will not be having a lot of data which can't be processed .
+
+dialogue type : s
+H :  Time .
+
+dialogue type : s^bk|s
+H :  Fine . And I you know , I I know that the near f near - field mikes will take care of also the problems to s to a certain degree .
+
+dialogue type : s^df
+H :  I just wanted to be sure .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s
+H :  eh , so I I know that in l in legal depositions people are pr are prevented from overlapping .
+
+dialogue type : s
+H :  They 'll just say , you know you know , " wait till each person is finished before you say something " .
+
+dialogue type : s
+H :  So it is possible to lessen if we wanted to .
+
+dialogue type : s
+H :  But but these other factors are fine .
+
+dialogue type : s
+H :  I just wanted to raise the issue .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : b^rt
+H :  Mm - hmm .
+
+dialogue type : s^aa
+H :  Oh , yeah .
+
+dialogue type : s^na
+H :  Yeah , I think that 's always desired .
+
+dialogue type : s
+H :  I just want to be sure we don't that we 're able to process , i u uh , you know , as much data as we can .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : %-
+H : 
+
+dialogue type : %-
+H :  u e e
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : s^aa|s^na
+H :  Yeah , I am .
+
+dialogue type : s^t^tc
+H :  So , I w uh , just just for clarification .
+
+dialogue type : s
+H :  So " found data " ,
+
+dialogue type : s^bu|qy^d^g
+H :  they mean like established corpora of linguistics and and other fields , right ?
+
+dialogue type : s.%-
+H :  It sounds like such a t
+
+dialogue type : s^bk
+H :  Yeah , OK .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : s
+H :  But it includes like standard corpora that have been used for years in linguistics and other fields .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : s^aa
+H :  Exactly .
+
+dialogue type : s^bk
+H :  Yeah . OK , OK .
+
+dialogue type : s^ba
+H :  That 's interesting .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : b.%
+H :  Yeah .
+
+dialogue type : s
+H :  Just wanted to know .
+
+dialogue type : s
+H :  Well , I I just realized there 's another category of interesting things
+
+dialogue type : s.%--
+H :  which is that , um ,
+
+dialogue type : s
+H :  I I found this discussion very , uh , i this this question of how you get at queries really interesting .
+
+dialogue type : s
+H :  And and the and I and the fact that it 's sort of , uh , nebulous , what what that what kind of query it would be
+
+dialogue type : s^df
+H :  because it depends on what your purpose is .
+
+dialogue type : s
+H :  So I actually found that whole process of of trying to think of what that would involve to be interesting .
+
+dialogue type : s
+H :  But that 's not really a specific fact .
+
+dialogue type : s
+H :  I just sort of thought we we went around a nice discussion of the factors involved there ,
+
+dialogue type : s
+H :  which I thought was worthwhile .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^aa
+H :  Yeah .
+
+dialogue type : s^ba
+H :  That 's a good point .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : s^bk
+H :  Oh .
+
+dialogue type : qy^bu^d^rt
+H :  Like e expert systems and stuff ,
+
+dialogue type : qrr.%--
+H :  or ?
+
+dialogue type : b
+H :  Uh - huh .
+
+dialogue type : b.%
+H :  Yeah .
+
+dialogue type : qr.%--
+H :  h Do we need do I need to turn something off here , or I do unplug this , or ?
+

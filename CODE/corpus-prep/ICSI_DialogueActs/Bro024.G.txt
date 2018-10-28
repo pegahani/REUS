@@ -1,0 +1,876 @@
+dialogue type : z
+G :  Do you use a PC for recording ?
+
+dialogue type : z
+G :  Or
+
+dialogue type : z
+G :  Uh - huh .
+
+dialogue type : z
+G :  Uh - huh .
+
+dialogue type : z
+G :  The quality is quite good ?
+
+dialogue type : z
+G :  Or ?
+
+dialogue type : z
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  Yeah ,
+
+dialogue type : s
+G :  we we spoke about it already ,
+
+dialogue type : s^bk
+G :  yeah .
+
+dialogue type : s
+G :  I think what they do is they do it always on - line ,
+
+dialogue type : s
+G :  I mean , that you just take what you have from the past ,
+
+dialogue type : s
+G :  that you calculate the mean of this and subtract the mean .
+
+dialogue type : s
+G :  And then you can yeah , you you can increase your window whi while you get while you are getting more samples .
+
+dialogue type : qy^bu^d^rt
+G :  So do you have uh , you you mean you have files which are hours of hours long ?
+
+dialogue type : qrr.%--
+G :  Or ?
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s
+G :  I mean , usually you have in the training set you have similar conditions ,
+
+dialogue type : s^df.%--
+G :  I mean , file lengths are , I guess the same order or in the same size as for test data , or
+
+dialogue type : qy^g^rt
+G :  aren't they ?
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : fg|s
+G :  Yeah , I think what is important to see is that there is a big difference between the training modes .
+
+dialogue type : fh
+G :  Uh - huh .
+
+dialogue type : s
+G :  If you have clean training , you get also a fifty percent improvement .
+
+dialogue type : s
+G :  But if you have muddy condition training you get only twenty percent .
+
+dialogue type : fh
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s
+G :  For the clean training .
+
+dialogue type : %
+G :  u
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : s
+G :  This is next next page .
+
+dialogue type : fh
+G :  Hmm .
+
+dialogue type : s^2
+G :  Improvement .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : %-
+G : 
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s
+G :  The the w there was a very long discussion about this on on the on the , uh , Amsterdam meeting .
+
+dialogue type : s
+G :  How to how to calculate it then .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : s.%--
+G :  I mean , it uh , like , i i
+
+dialogue type : s
+G :  i It is well known , this this medium match condition of the Finnish data has some strange effects .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : s^aa
+G :  Yeah ,
+
+dialogue type : s^na
+G :  that too .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : s
+G :  There is a l a There is a lot of Uh , there are a lot of utterances with music in with music in the background .
+
+dialogue type : fh
+G :  Mmm .
+
+dialogue type : s
+G :  But the but the , uh , forty - seven point nine percent which you have now , that 's already a remarkable improvement in comparison to the first proposal .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : s^bk
+G :  Yeah ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  I mean yeah , uh , I discovered the same problem when I started working on uh , on this Aurora task almost two years ago ,
+
+dialogue type : s^df.%--
+G :  that you have the problem with this mulit
+
+dialogue type : s^df
+G :  a at the beginning we had only this multi condition training of the TI - digits .
+
+dialogue type : fh|s
+G :  And , uh , I I found the same problem .
+
+dialogue type : s^df
+G :  Just taking um , what we were used to u use , I mean , uh , some type of spectral subtraction , y you get even worse results than the basis
+
+dialogue type : fh
+G : 
+
+dialogue type : s
+G :  I I tried to find an explanation for it ,
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : s^bk
+G :  Mm - hmm .
+
+dialogue type : fg|s
+G :  Yeah , I think what you do is in when when you have the the this multi - condition training mode , um then you have then you can train models for the speech , for the words , as well as for the pauses where you really have all information about the noise available .
+
+dialogue type : fh
+G :  And
+
+dialogue type : s
+G : 
+
+dialogue type : s
+G :  At the beginning it was not surprising to me that you get really the best results on doing it this way ,
+
+dialogue type : s^df
+G :  I mean , in comparison to any type of training on clean data and any type of processing .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : fh
+G :  So , u u
+
+dialogue type : s^cs
+G :  it it seems to be the best what wh wh what what we can do in this moment is multi - condition training .
+
+dialogue type : s^cs
+G :  And every when we now start introducing some some noise reduction technique we we introduce also somehow artificial distortions .
+
+dialogue type : s
+G :  And these artificial distortions uh , I have the feeling that they are the reason why why we have the problems in this multi - condition training .
+
+dialogue type : s
+G :  That means the H M Ms we trained , they are they are based on Gaussians ,
+
+dialogue type : s^e
+G :  and on modeling Gaussians .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : qy^t3
+G :  Can I move a little bit with this ?
+
+dialogue type : s^bk^t3
+G :  Yeah .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : fh|s.%--
+G : 
+
+dialogue type : s
+G :  I 'm I 'm showing now an envelope
+
+dialogue type : fh
+G :  um
+
+dialogue type : s^am
+G :  maybe you 'll f for this time .
+
+dialogue type : s
+G :  So usually you have maybe in clean condition you have something which looks like this .
+
+dialogue type : s
+G :  And if it is noisy it is somewhere here .
+
+dialogue type : s
+G :  And then you try to subtract it or Wiener filter or whatever .
+
+dialogue type : s
+G :  And what you get is you have always these problems , that you have this these these these zeros in there .
+
+dialogue type : s
+G :  And you have to do something if you get these negative values .
+
+dialogue type : s
+G :  I mean , this is your noise estimate and you somehow subtract it or do whatever .
+
+dialogue type : fh|s.%--
+G : 
+
+dialogue type : s
+G :  And then I think what you do is you introduce some some artificial distribution in this
+
+dialogue type : fh
+G :  uh
+
+dialogue type : s^e
+G :  in in the models .
+
+dialogue type : s
+G :  I mean , i you you train it also this way
+
+dialogue type : s
+G :  but , i somehow there is u u there is no longer a a Gaussian distribution .
+
+dialogue type : s
+G :  It is somehow a strange distribution which we introduce with these artificial distortions .
+
+dialogue type : s
+G :  And and I was thinking that that might be the reason why you get these problems in the especially in the multi - condition training mode .
+
+dialogue type : %
+G :  s
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Yes .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : fg
+G :  Yeah ,
+
+dialogue type : %--
+G :  y I I was whe w w
+
+dialogue type : s^cs.%--
+G : 
+
+dialogue type : s
+G :  I mean , if you if you get at this in this situation that you get this this negative values and you simply set it to zero or to a constant or whatever if we if we would use there a somehow , um a random generator which which has a certain distribution , u not a certain yeah , a special distribution we should see we we have to think about it .
+
+dialogue type : s^cs
+G :  And that we , so , introduce again some natural behavior in this trajectory .
+
+dialogue type : s^bk|s
+G :  Yeah , I mean , similar to what what you see really u in in the real um noisy situation .
+
+dialogue type : s^e
+G :  Or i in the clean situation .
+
+dialogue type : s^df
+G :  But but somehow a a natural distribution .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s.%--
+G :  I think e
+
+dialogue type : fh
+G :  yeah .
+
+dialogue type : s
+G :  It 's it 's just especially in these segments ,
+
+dialogue type : s
+G :  I mean , you introduce , um , very artificial behavior .
+
+dialogue type : fh
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : %-
+G :  I
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^cs
+G :  I mean , we we could trit uh , we we could think how w what what we could try .
+
+dialogue type : s^df
+G :  I mean , it it was just an idea .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : %-
+G : 
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : s^bk
+G :  Uh - huh .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : b
+G :  Uh - huh .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^e
+G :  like like a spectral subtraction
+
+dialogue type : fh
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : %-
+G :  I kn
+
+dialogue type : s
+G :  And then they calculate from this , the log energy
+
+dialogue type : fh
+G :  or ?
+
+dialogue type : s^bk
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : qy^rt
+G :  But but is there is there a problem with the one hundred eighty milliseconds ?
+
+dialogue type : qrr.%--
+G :  Or ?
+
+dialogue type : fg|s
+G :  Yeah , I mean , I talked to to uh , I ta Uh , I talked , uh , about it with with Hynek .
+
+dialogue type : s.%-
+G : 
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : %
+G : 
+
+dialogue type : s
+G :  It was in the order of thirty milliseconds
+
+dialogue type : fh
+G : 
+
+dialogue type : s^nd
+G :  Thirty .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : fg|s
+G :  But but I think this thirty milliseconds they they did it did not include the the delta calculation .
+
+dialogue type : s
+G :  And this is included now ,
+
+dialogue type : qy^d^g
+G :  you know ?
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^no.%--
+G : 
+
+dialogue type : qy^bu^d^rt
+G :  i th They were not using the HTK delta ?
+
+dialogue type : s^bk^m
+G :  Nine - point .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : s^ar|s^df
+G :  No , I think I I used this scheme as it was before .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : qw^rt
+G :  So so what is the lower curve and the upper curve ?
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^bk
+G :  Ah , OK .
+
+dialogue type : s^bu
+G :  And and this this curves are the average over the whole database ,
+
+dialogue type : fh
+G :  so .
+
+dialogue type : s^bk
+G :  Mmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : qy^rt
+G :  So is the is the is the training is the training based on these labels files which you take as reference here ?
+
+dialogue type : s^e.%--
+G : 
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : s^bk
+G :  Yeah ,
+
+dialogue type : s
+G :  the that was my idea .
+
+dialogue type : s^df
+G :  I mean , if if it ha if it is not the same labeling which is taking the spaces .
+
+dialogue type : s^bk
+G :  Mmm .
+
+dialogue type : s^aa
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  Hmm .
+
+dialogue type : s^bk
+G :  Mm - hmm .
+
+dialogue type : s^bu.%--
+G : 
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : %-
+G :  s
+
+dialogue type : s
+G :  I I I think what you do is this .
+
+dialogue type : s^cs
+G :  i When when you have this , after you subtracted it , I mean , then you get something w w with this , uh , where you set the values to zero
+
+dialogue type : s^cs
+G :  and then you simply add an additive constant again .
+
+dialogue type : s^cs
+G :  So you shift it somehow .
+
+dialogue type : s
+G :  This this whole curve is shifted again .
+
+dialogue type : %
+G :  E Hhh .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : fg
+G : 
+
+dialogue type : s
+G :  But the way Stephane did it , it is exactly the way I have implemented in the phone ,
+
+dialogue type : fh
+G :  so .
+
+dialogue type : s^bk|s
+G :  Yeah I I made s similar investigations like Stephane did here ,
+
+dialogue type : s^df
+G :  just uh , adding this constant and and looking how dependent is it on the value of the constant
+
+dialogue type : s^df
+G :  and then , must choose them somehow to give on average the best results for a certain range of the signal - to - noise ratios .
+
+dialogue type : fh
+G : 
+
+dialogue type : qy^d^rt
+G :  Uh , but you are not doing it now language dependent ?
+
+dialogue type : qrr.%--
+G :  Or ?
+
+dialogue type : s^bk
+G :  No .
+
+dialogue type : s
+G :  It 's overall .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : %
+G :  i
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s
+G :  Your your smoothing was @ @ uh , over this s so to say , the the factor of the Wiener .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : qw^t1
+G :  What was it ?
+
+dialogue type : %--
+G : 
+
+dialogue type : s
+G :  this smoothing , it was over the subtraction factor , so to say .
+
+dialogue type : %-
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bu
+G :  And and you are looking into the future , into the past .
+
+dialogue type : s
+G :  And smoothing .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : qy^rt
+G :  And did did you try simply to smooth um to smooth the the t to to smooth stronger the the envelope ?
+
+dialogue type : b
+G :  Mmm .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  I mean , you you have now several stages of smoothing , so to say .
+
+dialogue type : s
+G :  You start up .
+
+dialogue type : s
+G :  As far as I remember you you smooth somehow the envelope ,
+
+dialogue type : s
+G :  you smooth somehow the noise estimate ,
+
+dialogue type : s
+G :  and and later on you smooth also this subtraction factor .
+
+dialogue type : b
+G :  Ah .
+
+dialogue type : s^bk
+G :  Oh , it w it was you .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^bk
+G :  Uh - huh .
+
+dialogue type : b
+G :  Uh .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  The best is to do the smoo smoothing as early as possible .
+
+dialogue type : s.%--
+G :  So w when you start up .
+
+dialogue type : s
+G :  I mean , you start up with the with the somehow with the noisy envelope .
+
+dialogue type : s^cs
+G :  And , best is to smooth this somehow .
+
+dialogue type : %--
+G : 
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^aa^r
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Uh - huh .
+
+dialogue type : s^aa
+G :  Yes ,
+
+dialogue type : %--
+G :  y
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^aa^r
+G :  Yeah .
+
+dialogue type : s^aa
+G :  Right .
+
+dialogue type : s^bk|s.%--
+G :  Yeah , I think when
+
+dialogue type : s^cs.%--
+G : 
+
+dialogue type : s
+G :  you have somehow a noise estimate ,
+
+dialogue type : s:s
+G :  and , if you say I 'm I 'm with my envelope
+
+dialogue type : s:s
+G :  I 'm close to this noise estimate ,
+
+dialogue type : s
+G :  then you have a bad signal - to - noise ratio and then you you would like to have a stronger smoothing .
+
+dialogue type : s^cs.%--
+G : 
+
+dialogue type : s^tc
+G :  s So to summarize the performance of these , SpeechDat - Car results is similar than than yours so to say .
+
+dialogue type : s
+G :  Y you have you have fifty - six point four
+
+dialogue type : s
+G :  and and and dependent on this additive constant , it is s better or or worse .
+
+dialogue type : fh
+G :  Yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s
+G :  Mu - my mine was it too , I mean .
+
+dialogue type : s^e
+G :  Before I started working on this Aurora .
+
+dialogue type : fh
+G :  so .
+
+dialogue type : s^aa
+G :  Yeah .
+
+dialogue type : s^bu
+G :  Maybe you you are leaving in in about two weeks Carmen .
+
+dialogue type : qy^d^g^rt
+G :  No ?
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : s
+G :  So I mean , if if if I would put it put on the head of a project mana manager I I I I would say , uh , um I mean there is not so much time left now .
+
+dialogue type : fh
+G :  I mean , if um ,
+
+dialogue type : s^cs
+G :  what what I would do is I I I would pick @ @ the best consolation , which you think ,
+
+dialogue type : s^cs
+G :  and c create create all the results for the whole database that you get to the final number as as Sunil did it
+
+dialogue type : fh
+G :  and um
+
+dialogue type : s^cs
+G :  and maybe also to to write somehow a document where you describe your approach , and what you have done .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : z
+G :  What is this ?
+
+dialogue type : z
+G :  OK .
+

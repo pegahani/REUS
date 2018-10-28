@@ -1,0 +1,810 @@
+dialogue type : b
+E :  OK .
+
+dialogue type : qy^rt
+E :  D did did you guys get your code pushed together ?
+
+dialogue type : s^bk
+E :  Cool .
+
+dialogue type : s^na
+E :  Oh , right , I saw I saw the note .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^rt
+E :  Is the , um the CVS mechanism working well ?
+
+dialogue type : qy^rt
+E :  Are are people , uh , up at OGI grabbing code uh , via that ?
+
+dialogue type : qrr.%--
+E :  Or ?
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s^bk
+E :  Mmm .
+
+dialogue type : s^aa^m
+E :  Yeah .
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : s^bk^m
+E :  I see .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^rt
+E :  So has Has anybody tried remotely accessing the CVS using , uh , uh , SSH ?
+
+dialogue type : qy^rt
+E :  Have you tried it yet ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qy^d^rt
+E :  Yeah ?
+
+dialogue type : qy^d^rt
+E :  It worked good ?
+
+dialogue type : sj^ba
+E :  Oh , good !
+
+dialogue type : b
+E :  Great !
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s^bu
+E :  Then that 's using the CVS password mechanism and all that ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : qy^rt
+E :  So w when you came in from Belgian Belgium , using SSH , uh , was it asking you for your own password into ICSI ?
+
+dialogue type : s^bu
+E :  So if yo you can only do that if you have an account at ICSI ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bu
+E :  Cuz there is an a way to set up anonymous CVS
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bk
+E :  Oh , OK .
+
+dialogue type : s^bu.%-
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  Because a lot of the open source stuff works with anonymous CVS
+
+dialogue type : s
+E :  and I 'm just wondering Uh , I mean , for our transcripts we may want to do that .
+
+dialogue type : h
+E :  Uh .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah ,
+
+dialogue type : s^aa^r
+E :  yeah , yeah .
+
+dialogue type : s^df
+E :  Oh , I wasn't suggesting for this .
+
+dialogue type : s^df
+E :  I 'm thinking of the Meeting Recorder stuff
+
+dialogue type : fh
+E :  but .
+
+dialogue type : fh
+E :  Yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Cool .
+
+dialogue type : qw^t
+E :  What 's new ?
+
+dialogue type : s^bk
+E :  Oh , great .
+
+dialogue type : qy^bu^d
+E :  You 're talking about the meeting with Hynek ?
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : sj^ba
+E :  That 's that 's nice .
+
+dialogue type : qy^rt
+E :  Are you gonna use which of the two techniques ?
+
+dialogue type : qy^bu^d
+E :  So this is on the uh , before any mel scaling has been done ?
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+E :  So Dave hasn't tried that yet ?
+
+dialogue type : s^2.%-
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qy^d^rt
+E :  The other half of the channel ?
+
+dialogue type : qy^d^g^rt
+E :  That what you mean ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qw
+E :  So if you took the system the way it is now , the way it 's fro you 're gonna freeze it , and it ran it on the last evaluation , where it would it be ?
+
+dialogue type : s^e
+E :  In terms of ranking ?
+
+dialogue type : s^bk
+E :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+E :  So on the ones that you did test it on it would have been second ?
+
+dialogue type : qw
+E :  Where where where were we actually on the last test ?
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s^bk^rt
+E :  I see .
+
+dialogue type : s^bk^rt
+E :  OK .
+
+dialogue type : qy^bu^d^rt
+E :  We 're so this second that you 're saying now is system - wide second ?
+
+dialogue type : qy^d^rt
+E :  Still institutionally second ?
+
+dialogue type : sj^fe
+E :  Oh , wow !
+
+dialogue type : s
+E :  That 's very close .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qw
+E :  So how did they fill up this all these these bits ?
+
+dialogue type : s^e.%--
+E :  I mean , if we 're u
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s.%-:qw.%-
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : s^bk^r
+E :  I see .
+
+dialogue type : qy^bu^rt
+E :  So what if you didn't So do you explicitly downsample then ?
+
+dialogue type : qy^bsc^rt
+E :  Do we explicitly downsample ?
+
+dialogue type : qw
+E :  And what if we didn't do that ?
+
+dialogue type : qy^rt
+E :  Would we get worse performance ?
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : s^bk^rt
+E :  OK .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa^r
+E :  Yeah .
+
+dialogue type : b^rt
+E :  Mm - hmm .
+
+dialogue type : qr^bu
+E :  So you would you 're You 're thinking to put the , uh , mel spectrum in before any of the noise removal stuff ? or after ?
+
+dialogue type : s
+E :  Cuz that happens before the mel conversion ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : qy^rt
+E :  So this second stream , will it add latency to the system
+
+dialogue type : qrr.%--
+E :  or ?
+
+dialogue type : %-
+E :  S
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^m
+E :  Same data .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qy^bu^d^rt
+E :  So the meeting with Hynek that you guys just had was to decide exactly what you were gonna freeze in this system ?
+
+dialogue type : qy.%--
+E :  Is that ?
+
+dialogue type : qrr.%--
+E :  Or was there ?
+
+dialogue type : qy^rt
+E :  Were you talking about what t new stuff ,
+
+dialogue type : qrr.%-
+E :  or ?
+
+dialogue type : s^bk
+E :  Mmm .
+
+dialogue type : qw
+E :  What about the , um uh , the new part of the evaluation ,
+
+dialogue type : s^e
+E :  the , uh , Wall Street Journal part ?
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^ar
+E :  Not yet .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qw
+E :  So what how is the , uh , interaction supposed to happen ?
+
+dialogue type : s.%--
+E : 
+
+dialogue type : qy^bu^d
+E :  Oh , so they 're gonna just deliver a system basically .
+
+dialogue type : s^bk
+E :  Uh - huh .
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : qy^d^rt
+E :  So we 'll have to grab this over CVS or something ?
+
+dialogue type : qy^rt
+E :  Is that how they do it ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk^r
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  Sure .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qy^bu^d^rt
+E :  And it but it 's not ready yet , the system ?
+
+dialogue type : qy^rt
+E :  Are those going to be parameters that are frozen , nobody can change ?
+
+dialogue type : qrr.%--
+E :  Or ?
+
+dialogue type : s
+E :  Oh , but everybody 's gonna have to use the same values .
+
+dialogue type : s^fe
+E :  Oh !
+
+dialogue type : sj^ba
+E :  Interesting .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^2
+E :  Using our features .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : qw^rt
+E :  So wha what 's the significance of November fifteenth ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : qy^rt
+E :  Is is this part of the evaluation just a small part ,
+
+dialogue type : qrr
+E :  or ho how important is this to the overall ?
+
+dialogue type : qy^bu^d^j^rt
+E :  This is one of those things that will be debated afterwards ?
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : sj
+E :  Seems to me that if it 's a double check , they should give you a one or a zero .
+
+dialogue type : s^e
+E :  Y you passed the threshold or you didn't pass the threshold ,
+
+dialogue type : sj
+E :  and they shouldn't even care about what the score is .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg|qy.%-
+E :  So is this , uh ?
+
+dialogue type : s
+E :  Uh , Guenter was putting a bunch of Wall Street Journal data on our disks .
+
+dialogue type : qy^bu^rt
+E :  So that 's the data that we 'll be running on ?
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^bu
+E :  So this test may take quite a while to run , then . May - judging by the amount of data that he was putting on .
+
+dialogue type : s^am
+E :  I I guess , I 'm not sure .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^na
+E :  Uh , one one last question on that .
+
+dialogue type : qw
+E :  When did they estimate that they would have that system available for download ?
+
+dialogue type : qy^bu^d
+E :  Oh , so there 's w something you can download to just learn ?
+
+dialogue type : s^bk
+E :  OK ,
+
+dialogue type : s^bk
+E :  good .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : fg|qy^bu^rt
+E :  So , just so that I understand , they 're providing scripts and everything so that basically , uh , you you push a button and it does training , and then it does test , and everything ?
+
+dialogue type : qy^rt
+E :  Is that the idea ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  I see .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^aa
+E :  Yeah ,
+
+dialogue type : s^aa
+E :  that 'd be great .
+
+dialogue type : s^cc
+E :  I I could send him an email .
+
+dialogue type : s
+E :  I I know him really well .
+
+dialogue type : s
+E :  I I was just talking with him on email the other day actually .
+
+dialogue type : s^e
+E :  About other things ,
+
+dialogue type : fh
+E :  but .
+
+dialogue type : s^na
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qy^rt
+E :  Would it be better if I asked Hari to ask Joe ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk^r
+E :  OK .
+
+dialogue type : qy^rt.%-
+E :  Is that a password controlled ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^2
+E :  And you create a tree .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+E :  And then you can pick , uh , values anywhere along that tree to fix your set of clusters .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : fg
+E : 
+
+dialogue type : s
+E :  I don't I don't um , it 's not clear to me how to reconcile , you know , what you 're saying , which I think is right , with the way I 've been looking at it .
+
+dialogue type : s^no
+E :  That it 's it 's it 's all not very clear to me .
+
+dialogue type : s^cs
+E :  But it seems to me that the desire the desirable feature to have is something that , um , is bottom - up .
+
+dialogue type : s
+E :  You know , however we do that .
+
+dialogue type : s^no
+E :  And and so I guess what I don't understand is how to do that and still be discriminative ,
+
+dialogue type : s
+E :  because to be discriminative you have to have categories and the only categories that we know of to use are sort of these human human sig significant categories that are significant to humans , like phonemes , things like that .
+
+dialogue type : s
+E :  But that 's sort of what you want to avoid .
+
+dialogue type : s^no
+E :  And so that feels I don't know how to get out of this .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg
+E :  Right .
+
+dialogue type : s:qw
+E :  So the question is , how far down ?
+
+dialogue type : s
+E :  We could stop at words , but we don't ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s
+E :  We go all the way down to phonemes .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s
+E :  Yeah , so the common right , the common wisdom is you can't do words because there 's too many of them ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s
+E :  So you have to have some smaller set that you can use ,
+
+dialogue type : fh|s
+E :  uh , and and so everybody goes to phonemes .
+
+dialogue type : sj
+E :  But the problem is that we we build models of words in terms of phonemes and these models are are really cartoon - ish ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s
+E :  So when you look at conversational speech , for example , you don't see the phonemes that you that you have in your word models .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^aa^r
+E :  Right .
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b^rt
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bs
+E :  No , but I think the important part in there is that , you know , if you want to be discriminative , you have to have uh , you know , categories .
+
+dialogue type : sj
+E :  And I think this the important categories are the words , and not the phones .
+
+dialogue type : s^am
+E :  Maybe .
+
+dialogue type : fh
+E : 
+
+dialogue type : fh
+E :  Right .
+
+dialogue type : s^cs.%--
+E : 
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah ,
+
+dialogue type : b
+E :  yeah .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : sj
+E :  So it 's almost like there 's this mechanism that we have that , you know , when when we 're hearing read speech and all the phonemes are there you know , we we deal with that ,
+
+dialogue type : sj
+E :  but but when we go to conversational , and then all of a sudden not all the phonemes are there , it doesn't really matter that much to us as humans
+
+dialogue type : s^df
+E :  because we have some kind of mechanism that allows for these word models , whatever those models are , to be munged , you know ,
+
+dialogue type : sj
+E :  and and it doesn't really hurt ,
+
+dialogue type : fh
+E :  and
+
+dialogue type : s^no
+E :  I 'm not sure how how to build that in .
+
+dialogue type : fh
+E :  Uh .
+
+dialogue type : sj
+E :  I think part of the difficulty is that a l a lot of the robustness that we have is probably coming from a much higher level .
+
+dialogue type : s
+E :  You know , we understand the context of the situation when we 're having a conversation .
+
+dialogue type : s
+E :  And so if there 's noise in there , you know , our brain fills in and imagines what what should be there .
+
+dialogue type : s^aa
+E :  Yeah , exactly .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^co
+E :  Go ahead , Morgan .
+
+dialogue type : z
+E :  OK .
+

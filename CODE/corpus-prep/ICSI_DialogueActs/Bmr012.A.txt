@@ -1,0 +1,420 @@
+dialogue type : z
+A :  By the way , there was a bug .
+
+dialogue type : z
+A :  Yeah , i it wasn't using the proper
+
+dialogue type : z
+A :  basically it wasn't adapting anything .
+
+dialogue type : z
+A :  Hmm ?
+
+dialogue type : z
+A :  Oh , because when it estimates the transformer pro produces like a single matrix or something .
+
+dialogue type : z
+A :  Basically there were no counts
+
+dialogue type : z
+A :  Hello , hello .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s.%--
+A :  I think
+
+dialogue type : qy^cs
+A :  Um may I make one suggestion ?
+
+dialogue type : s^cs
+A :  Instead of age put date of uh year of birth
+
+dialogue type : s^df
+A :  because age will change , but The year of birth changes , you know , stays the same , usually .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^nd.%-
+A : 
+
+dialogue type : s^nd
+A :  Well well I don't know .
+
+dialogue type : s^t1
+A :  Anyway .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : %
+A :  Mm - hmm .
+
+dialogue type : s^aa^t3
+A :  Yeah .
+
+dialogue type : %
+A :  OK .
+
+dialogue type : sj
+A :  Well it was interesting ,
+
+dialogue type : s
+A :  suddenly the the overall error rate when we first ran it was like eighty percent
+
+dialogue type : s
+A :  but i looking at the first sentences looked much better than that
+
+dialogue type : s
+A :  and then suddenly it turned very bad
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  it was actually recognized
+
+dialogue type : fh
+A :  so
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s.%-
+A :  So so we have everything recognized but we scored only the first uh whatever , up to that time to
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : fg|%-
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  There are a fair number of errors that are , you know where got the plural S wrong or the inflection on the verb wrong .
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s
+A :  Well that 's those are the only we ones there are ,
+
+dialogue type : %
+A :  I mean
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^aa
+A :  Oh yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  I should I should say that the language model is not just Switchboard
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  I mean there 's uh actually more data is from Broadcast News
+
+dialogue type : s^e
+A :  but with a little less weight
+
+dialogue type : s^df.%-
+A :  uh because
+
+dialogue type : b
+A :  mm - hmm ,
+
+dialogue type : b
+A :  right .
+
+dialogue type : fg|s.%--
+A :  Um By the way just for fun we also ran ,
+
+dialogue type : s^rt
+A :  I mean our complete system starts by doing ge a gender detection
+
+dialogue type : s
+A :  so just for the heck of it I ran that
+
+dialogue type : fh|s
+A :  um and it might be reassuring for everybody to know that it got all the genders right .
+
+dialogue type : fh
+A :  Yeah so
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yes .
+
+dialogue type : s
+A :  I mean clearly there are um with just a small amount of uh actual meeting transcriptions uh thrown into the language model you can probably do quite a bit better
+
+dialogue type : %-
+A : 
+
+dialogue type : s^arp
+A :  Not that much the vocabulary actually
+
+dialogue type : fh|s
+A :  I think um well we have to see
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  We we talked about setting up the SRI recognizer here .
+
+dialogue type : s
+A :  That 's you know if if there are more machines um uh here
+
+dialogue type : s
+A :  plus people can could run their own uh you know variants of of of the recognition runs
+
+dialogue type : fh
+A :  um
+
+dialogue type : s
+A :  certainly doable .
+
+dialogue type : fh
+A :  Um .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : h
+A :  U um
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^tc
+A :  U uh actually I had a question about the downsampling ,
+
+dialogue type : fh|s
+A :  um I don't know who , I mean how this was done
+
+dialogue type : qy
+A :  but is is there are there any um issues with downsampling
+
+dialogue type : s
+A :  because I know that the recognizer um that we use h can do it sort of on the fly
+
+dialogue type : fh
+A :  um
+
+dialogue type : s
+A :  so we wouldn't have to have it eh you know do it uh explicitly beforehand .
+
+dialogue type : qy.%--
+A :  And is there any um i
+
+dialogue type : qy
+A :  are there other d sev uh is there more than one way to do the downsampling where one might be better than another ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : fg|%-
+A :  So so the th
+
+dialogue type : s^cs
+A :  So so the other thing we should try is to just take the original wave forms ,
+
+dialogue type : s^cs
+A :  I mean segment them but not downsample them .
+
+dialogue type : s^cs
+A :  And and feed them to feed them to the SRI recognizer and see if if the SRI front - end does something .
+
+dialogue type : fg
+A : 
+
+dialogue type : s^aa|s^na
+A :  Right and and it doesn't is no more work for um you know for us .
+
+dialogue type : s^aap
+A :  Well but they 're only twice as big
+
+dialogue type : fh
+A :  so
+
+dialogue type : %-
+A :  I mean it 's it 's just a
+
+dialogue type : fg|s.%--
+A :  Yeah I mean it would be uh you know it would probably take uh about um you know
+
+dialogue type : s.%-
+A :  minus the transfer time it would it would take uh you know ten minutes to try and and and
+
+dialogue type : s^cs
+A :  And and if for some reason we see that it works better then we might investigate why
+
+dialogue type : fh|%-
+A : 
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s
+A :  You know a at some point someone might have optimized whatever filtering is done for the actual recognition um performance .
+
+dialogue type : fh|s.%--
+A :  So in other words
+
+dialogue type : s^m
+A :  right ,
+
+dialogue type : fg
+A :  so
+
+dialogue type : s
+A :  Mel cepstrum .
+
+dialogue type : s^no
+A :  That 's what I would assume but you never know ,
+
+dialogue type : qy^d
+A :  you know .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^ar
+A :  Actually , no .
+
+dialogue type : s^co
+A :  Don't stop .
+
+dialogue type : s^co
+A :  Don't stop at that part because we 're actually using the entire conversation to estimate the speaker parameters ,
+
+dialogue type : s^co.%-
+A :  so shouldn't use you should s you know , get
+
+dialogue type : b.%
+A :  Right .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^j
+A :  They 're less animated .
+
+dialogue type : s^j
+A :  Like uh like you know Jerry Springer thing ,
+
+dialogue type : qy^d^g.%-
+A :  you know r
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy
+A :  Do you have to hand it around
+
+dialogue type : s.%--
+A :  and if you have two pieces of
+
+dialogue type : s
+A :  Pretty soon .
+
+dialogue type : fg|s^tc
+A :  Um Gotta go .
+

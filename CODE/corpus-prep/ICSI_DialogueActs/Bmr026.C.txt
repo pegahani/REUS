@@ -1,0 +1,258 @@
+dialogue type : qy^rt^t1
+C :  Is that English ?
+
+dialogue type : s^e
+C :  Yeah , I think we 're up to MR thirteen or something .
+
+dialogue type : s^2
+C :  For IBM , yeah .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s
+C :  There 's only two channels .
+
+dialogue type : %-
+C :  So it 's only
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s
+C :  As the synthesis doesn't have to be transcribed I think .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : qy^bu^d^rt
+C :  So but it 's just transcripts , not the not the audio ?
+
+dialogue type : s^bk
+C :  OK , yeah , yep .
+
+dialogue type : h
+C :  Ah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Well Yeah .
+
+dialogue type : s
+C :  I 've been putting together uh Transcriber things for Windows
+
+dialogue type : %--
+C :  so i
+
+dialogue type : s
+C :  And I installed it on Dave Gelbart 's PC and it worked just fine .
+
+dialogue type : s
+C :  So hopefully that will work .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Yep .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : fg
+C :  Yeah
+
+dialogue type : s
+C :  but But the problem is the version Transcriber works with , the Snack version , is one point six whatever
+
+dialogue type : s
+C :  and that 's not anymore supported .
+
+dialogue type : s
+C :  It 's not on on the web page anymore .
+
+dialogue type : s
+C :  But I just wrote an email to to the author of to the Snack author
+
+dialogue type : s
+C :  and he sent me to one point six whatever library
+
+dialogue type : s
+C :  and so it works .
+
+dialogue type : s^aap
+C :  Yeah ,
+
+dialogue type : s^arp
+C :  but then you can't add our patches
+
+dialogue type : s
+C :  and then the the new version is is totally different
+
+dialogue type : s
+C :  a and in yeah , in terms of of the source code .
+
+dialogue type : s
+C :  You you can't find the Tcl files anymore .
+
+dialogue type : s
+C :  It 's some whatever wrapped thing
+
+dialogue type : s^e
+C :  and you can't you can't access that
+
+dialogue type : s
+C :  so you have to install First install Tcl then install Snack
+
+dialogue type : s
+C :  and then install the Transcriber thing
+
+dialogue type : s
+C :  and then do the patches .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ar
+C :  No , I haven't done that yet .
+
+dialogue type : %--
+C : 
+
+dialogue type : s^ar
+C :  oh Nope .
+
+dialogue type : s^cc
+C :  But I definitely will do that .
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^cs
+C :  Yeah , maybe we could l look into that .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^2
+C :  And to hear it .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C :  An
+
+dialogue type : s
+C :  Internal .
+
+dialogue type : b.%
+C :  Yeah .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s
+C :  XG .
+
+dialogue type : s^fa
+C :  Oops .
+
+dialogue type : %
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qy^bu^rt
+C :  Isn't that XH ?
+
+dialogue type : s
+C :  But I 'm using XH H , too .
+
+dialogue type : s.%-
+C :  So .
+
+dialogue type : s^bc
+C :  It 's It 's a little bit more as I usually don't do not uncompress the all of the PZM and the PDA things .
+
+dialogue type : %-
+C :  So .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  One point five or something .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  It 's not bad .
+
+dialogue type : s^aa
+C :  Me too .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yeah .
+

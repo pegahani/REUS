@@ -1,0 +1,1638 @@
+dialogue type : z
+C :  Hello .
+
+dialogue type : z
+C :  Oh .
+
+dialogue type : z
+C :  Hello .
+
+dialogue type : z
+C :  Hello .
+
+dialogue type : z
+C :  That 's good .
+
+dialogue type : x
+C :  OK . @ @ Not sure .
+
+dialogue type : s^ft^t1
+C :  Thank you .
+
+dialogue type : s^ft
+C :  Whoa .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : s^bk^m
+C :  " Ish decay . "
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^bk
+C :  Ah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : %-
+C :  It
+
+dialogue type : fg|s
+C :  Right , as though it 's leading into something else .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  yeah .
+
+dialogue type : %-
+C :  I
+
+dialogue type : s
+C :  A new subject .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^rt:s
+C :  To me , I don't necessarily put , um , like a d a p a p a period after that " so " .
+
+dialogue type : s^rt
+C :  I might actually either put a dash after it depending on whether or not they got unt interrupted or something ,
+
+dialogue type : s^rt
+C :  or I would maybe even act as though they were , um , just trailing off .
+
+dialogue type : s^rt
+C :  So put that those two dots after it .
+
+dialogue type : fh|s
+C :  Um , uh , which depending on what 's going on , like , I 'll do that .
+
+dialogue type : s^df
+C :  Cuz to me it sounds more like they 're trailing off .
+
+dialogue type : s^aa
+C :  Yeah . Yeah , yeah , yeah .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^2|s^bk
+C :  Period . Right .
+
+dialogue type : s
+C :  That 's another thing , is i if you 're not a native speaker of English you might not pick up ,
+
+dialogue type : s
+C :  because , uh , you know , every language has different , um , intonation mappings .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  And also if you 're a non - native speaker transcribing it , you wouldn't necessarily kn uh , kn understand the conventions of English t intonation as , you know , intimately as a native speaker might .
+
+dialogue type : s^aa
+C :  n Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^nd|s^ar
+C :  Not so much . No .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^t1
+C :  g Group .
+
+dialogue type : s^m^t1
+C :  " Groups of " ,
+
+dialogue type : s^m^t1
+C :  " gruesome " .
+
+dialogue type : fg|s.%-:s.%-
+C : 
+
+dialogue type : s^aa|s:s
+C :  Yeah , " grou " uh , " gruesuh " .
+
+dialogue type : s^f|s
+C :  You know . And then you would kind of have to come up with some sort of consonant
+
+dialogue type : s:s
+C :  and maybe it 's an " M " to you .
+
+dialogue type : s.%--
+C :  " Fff " . Because also , I mean , " F " is " Fff " . is , um , " Fff " .
+
+dialogue type : s^bk|s^df.%-
+C : 
+
+dialogue type : fg|s
+C :  Yeah , because it 's , um , bilabial too .
+
+dialogue type : %--
+C :  " Fff " . you know , you 'll
+
+dialogue type : s
+C :  di uh , or interl interdental , " fff " .
+
+dialogue type : s:s|qy^d^f^g
+C :  you know , it 's close enough , I guess , to " mmm " , you know .
+
+dialogue type : s
+C :  You 're getting the closure of the lips .
+
+dialogue type : s
+C :  So maybe that 's what they were do getting .
+
+dialogue type : s^bd^no
+C :  I don't know .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%--
+C :  Well , maybe it 's because they don't realize that you 're supposed to sp
+
+dialogue type : qy.%--
+C :  Do they ?
+
+dialogue type : s
+C :  I mean , maybe they don't really realize that you 're supposed to split it up . Or something
+
+dialogue type : s:s
+C : 
+
+dialogue type : s^r:s
+C :  I hear this other person 's voice just as clearly
+
+dialogue type : s:s
+C :  and I realize it 's not Jane ,
+
+dialogue type : s:s
+C :  and I realize it 's not a female even ,
+
+dialogue type : s:s
+C :  but , um , because it 's so clear on this channel , I 'm supposed to transcribe it . "
+
+dialogue type : s
+C :  I I 'd imagine that 's p that might be what that is .
+
+dialogue type : s^na|s^df^na
+C :  That 's true . They do they do say that m men 's voices c carry better .
+
+dialogue type : s.%--
+C :  I mean , that 's why they use , like , I think
+
+dialogue type : qh^t1
+C :  who was telling me ?
+
+dialogue type : s
+C :  Ian Maddieson was talking about this , that they use male voices in , um , in , um , airports .
+
+dialogue type : s^df
+C : 
+
+dialogue type : s^aa|s
+C :  Yeah , that 's th It fits into a hearer 's range of perception , um , better than a lot of female voices .
+
+dialogue type : s
+C :  And so that 's why they use male voices .
+
+dialogue type : s
+C :  We were just talking about that .
+
+dialogue type : s^aa|s
+C :  d Yeah , depending on their auditory , um , capabilities .
+
+dialogue type : s^rt.%--
+C :  I mean , if their auditory capabilities , uh , have been , you know , um , squished down like in a certain place where it would be n easier for a person with normal , um , hearing to hear a male 's voice ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : %--
+C :  and , i uh , e i u
+
+dialogue type : s
+C :  if that part of the brain normally codes for , you know , male voices , uh , in a normal hearer , then they might not be able to .
+
+dialogue type : s^f|qy^rt
+C :  You know . Does that make sense ?
+
+dialogue type : s
+C :  Like if that part is damaged .
+
+dialogue type : fh
+C : 
+
+dialogue type : fg|s
+C :  but yeah , if I guess for most h hearers it 's just easier .
+
+dialogue type : s
+C :  And it 's like a certain , uh , kind of , like , rough male voice too ,
+
+dialogue type : s^e
+C : 
+
+dialogue type : s^bsc
+C :  raspy , I mean ,
+
+dialogue type : s
+C :  apparently .
+
+dialogue type : s^m^na
+C :  Is better .
+
+dialogue type : s^aa|s^na
+C :  Yeah , I guess so .
+
+dialogue type : s^ba
+C :  It 's really interesting .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s^bk|s:s
+C :  Right . Yeah . I was just saying that it , like , you know , sometimes , um , if Remember I was saying , like , if there 's a discrepancy between fricatives , you know , like , um , " shuh " or " suh " will show up in a certain part of the spectrum ,
+
+dialogue type : s.%-:s.%-
+C : 
+
+dialogue type : s^m^na
+C :  um , by filtering in some of the older phones .
+
+dialogue type : s.%-
+C :  And that 's why , like he
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Y right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^nd
+C :  I didn't get that from him , actually .
+
+dialogue type : s
+C :  I felt like , um , he 's basically saying that for our for all intents and purposes with this , it 's covering whatever sounds are necessary to be covered , like everything .
+
+dialogue type : s^df.%-
+C :  That 's that 's what I th
+
+dialogue type : s^aa|s^na
+C :  Yeah . Yeah , I do too .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : fg|s^rt
+C :  Yeah . So , like , you were saying , like in the case of something with clipping ,
+
+dialogue type : qy^rt
+C :  does it were you saying that , uh it it increases to or , expands to accommodate that ?
+
+dialogue type : qrr.%--
+C :  Or ,
+
+dialogue type : s^bk^m
+C :  no ?
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^bk
+C :  Right . Oh , OK . Yeah .
+
+dialogue type : s^bk
+C :  I see what you 're saying .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : b
+C :  Huh .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  I do remember those , actually .
+
+dialogue type : fg|s
+C :  Yeah , yeah , yeah , yeah . I remember I had one . One with that and it was just , al all the time .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^rt
+C :  Especially if they also got louder too , and they hit it ,
+
+dialogue type : s^fe
+C :  it was just like " whoahh ! "
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s
+C :  Take one off , or something .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^aa
+C :  Oh , yeah .
+
+dialogue type : s^aa
+C :  T Yeah .
+
+dialogue type : s^aa
+C :  That 's true .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  And otherwise you have to drag it .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b.%
+C :  Yeah .
+
+dialogue type : s^aa|s
+C :  I s Oh , yeah . Um , something Um , maybe I just don't know how to do this ,
+
+dialogue type : s.%--
+C :  but when I wanna expand a timebin back
+
+dialogue type : s^e
+C :  or even forward ,
+
+dialogue type : s^rt
+C :  I 'll use the mouse ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : h|s
+C :  Oh , uh , in terms of , um , if , uh if it 's it 's if it 's cut off ,
+
+dialogue type : s^e
+C :  like the beginning of an utterance ,
+
+dialogue type : s
+C :  I 'll move it move the line back .
+
+dialogue type : s
+C :  And I usually just use the mouse .
+
+dialogue type : qw
+C :  How do you do that with the keyboard ?
+
+dialogue type : s^bk
+C :  Oh . y
+
+dialogue type : s^bk|s
+C :  Oh , OK . So you just do it that way .
+
+dialogue type : s^bk
+C :  OK . OK .
+
+dialogue type : s^bk|s
+C :  OK . To me that 's takes longer than to do it with the mouse .
+
+dialogue type : s^df.%-
+C :  Because you can just click y
+
+dialogue type : s^m^na
+C :  I just drag the line .
+
+dialogue type : s^na
+C :  Oh yeah , that 's true .
+
+dialogue type : fg|s
+C :  Right , then I 'll drag it .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^bk
+C :  Ah . Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yep . Yep , yep , yep .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^na
+C :  That would be great .
+
+dialogue type : s^df
+C :  I 've erased entire utterances before , accidentally .
+
+dialogue type : s^2
+C :  But then when you go to type on your keyboard at home ,
+
+dialogue type : qy^rt
+C :  do you do this too ?
+
+dialogue type : s
+C :  I 'm so scared .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  I won't do it .
+
+dialogue type : s^aa
+C :  Yeah , yeah , yeah , yeah , yeah !
+
+dialogue type : s:qw
+C :  I 'm just like , " What am I doing ? "
+
+dialogue type : b
+C :  Yeah , yeah .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : s^aa
+C :  Yeah , yeah , yeah . Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%--
+C :  But then , like , I think there 's a different keyboard on
+
+dialogue type : s.%--
+C :  I always forget th
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^ar|s
+C :  No , the other one .
+
+dialogue type : s^m^na
+C :  Amaretto .
+
+dialogue type : %-
+C :  I i
+
+dialogue type : fg|s
+C :  Right . And it 's and I always use I tend to use Linguine .
+
+dialogue type : s
+C :  But the last couple times , like , you 've stolen Linguine before I can get to it .
+
+dialogue type : s
+C :  So I
+
+dialogue type : s
+C :  go onto Amaretto ,
+
+dialogue type : s^ba^bd^rt
+C :  which is fine .
+
+dialogue type : s
+C :  But then like , um , it takes me a good , like , ten minutes to get re - used to that keyboard .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^ar|s^ba
+C :  No , it 's really OK .
+
+dialogue type : fg|s.%-
+C :  But , yeah . I I I have noticed that I 'll screw some stuff up , like , when I 'm trying to get re - adj
+
+dialogue type : qy^bu^d^rt
+C :  The PC ?
+
+dialogue type : s
+C :  I would vote for the PC .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^ar^bsc
+C :  Or no !
+
+dialogue type : s
+C :  I like the Linguine keyboard .
+
+dialogue type : s
+C :  That 's all I know .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s
+C :  Linguine is the one in the corner .
+
+dialogue type : fg|s
+C :  Yeah . So , basically , right as you walk in the door , the one straight ahead of you is Amaretto .
+
+dialogue type : s
+C :  And the one to the left of that against the far corner is Linguine .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^ba
+C :  Nice .
+
+dialogue type : s^aa|s^m^na
+C :  Yeah , I could get used to it too .
+
+dialogue type : s^bk
+C :  i Right .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^bk
+C :  Oh yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s
+C :  That kind of makes sense
+
+dialogue type : s^df.%-
+C : 
+
+dialogue type : fg|%-
+C :  Yeah , i
+
+dialogue type : s^aa|s
+C :  Cuz , yeah , if the s the resolution If it 's moving too slowly then , like , if you were to click on some place then it makes sense that it would get kind of confused .
+
+dialogue type : s^rt
+C :  But if it 's moving quickly , seems that it 's covering more ground faster ,
+
+dialogue type : fh|s^bd^no
+C :  so I don't know .
+
+dialogue type : s
+C :  I usually just don't use that , I think .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : s
+C :  I tend to make it move fast .
+
+dialogue type : s^aa
+C :  Right . Right . Right . Right .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : fg|s
+C :  Yeah . That 's the reason I separate it out .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Oh , yes .
+
+dialogue type : s^df
+C :  Because the , uh the waveform becomes too stretched out .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^df.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ba.%-
+C : 
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  A sort of , like , happy medium , so you can make sure that the waveform has its , like , th g shape .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^ba
+C :  Now I know what you 're talking about .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : qy^bh
+C :  Really ?
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : s
+C :  The little intricacies and idiosyncracies of people 's voices
+
+dialogue type : fh
+C : 
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Eah . Depends on the person .
+
+dialogue type : s^aa|s^na
+C :  Yeah , that 's true .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^rt
+C :  I don't like the technical ones
+
+dialogue type : s^df^rt
+C :  cuz I don't understand what they 're talking about .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fg|s
+C :  Yeah . And I 'm sitting there bored
+
+dialogue type : s^df
+C :  cuz I r I really have no concept of what they 're talking about .
+
+dialogue type : s:s^bk
+C :  So I 'm going " OK . "
+
+dialogue type : s:s
+C :  " I 'm just gonna listen to you . "
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  The ones with Liz , and you .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  I li that 's why I like Johno .
+
+dialogue type : qy^bh
+C :  Really ?
+
+dialogue type : s^ba
+C :  Oh , it 's so funny .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  That 's why I like listening to him .
+
+dialogue type : s
+C :  He 's always making fun of transcribers .
+
+dialogue type : s^aa
+C :  Yeah , yeah , yeah .
+
+dialogue type : s^aa
+C :  Yeah , yeah , yeah .
+
+dialogue type : s^ba^fe
+C :  Oh my god !
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : %
+C :  Oh !
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  I like transcribing you
+
+dialogue type : s^df
+C :  cuz you 're very polite .
+
+dialogue type : s^df
+C :  No , really .
+
+dialogue type : s:s
+C :  You 're always like " Well , I was just thinking about this ,
+
+dialogue type : s.%--:s.%--
+C :  and maybe this might be if "
+
+dialogue type : s^f
+C :  I uh , you know .
+
+dialogue type : s^ba
+C :  It 's just it 's just kind of cute
+
+dialogue type : s^df:s^bk
+C :  because everybody 's like , " Oh . Well , OK . "
+
+dialogue type : s|s^f
+C :  And they 'll just listen to you , you know .
+
+dialogue type : s
+C :  They don't interrupt you ,
+
+dialogue type : s:s^bk
+C :  they 're just like , " Well , OK . "
+
+dialogue type : s
+C :  It 's kind of neat .
+
+dialogue type : s^bk
+C :  Right . Right .
+
+dialogue type : s
+C :  Now I 'm now I 'm just wondering how they 're gonna transcribe you saying that .
+
+dialogue type : s
+C :  The " doink " .
+
+dialogue type : s^aa|s^na
+C :  Yeah . I know .
+
+dialogue type : s^fe
+C :  No !
+
+dialogue type : s:s
+C :  Joel 's like , " I am not amused . "
+
+dialogue type : s^ba
+C :  Aw !
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Mm - mmm .
+
+dialogue type : s^ba^fe
+C :  Oh , no .
+
+dialogue type : s^ba.%-
+C :  Oh g
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s
+C :  It 's interesting cuz like , um , when I 'm working late at night , I actually don't feel so lonely
+
+dialogue type : s^df
+C :  because there 's so many voices in my head .
+
+dialogue type : s^ar|s
+C :  No , no . While I while I 'm working here ,
+
+dialogue type : s
+C :  it 's like nine o '
+
+dialogue type : s
+C :  and nobody 's here except for me ,
+
+dialogue type : s:s
+C :  and I 'm like , " You know , I don't feel so lonely
+
+dialogue type : s:s^df
+C :  because there are like eight people talking to me all at once " .
+
+dialogue type : s:s^ba
+C :  I 'm like , " Wow " .
+
+dialogue type : s
+C :  Takes a long time .
+
+dialogue type : s^m.%
+C :  Takes a long time .
+
+dialogue type : s^aap
+C :  Sometimes .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s.%--
+C :  One thing I noticed is that , like ,
+
+dialogue type : s
+C :  uhhh ! There was this one meeting I was transcribing , there were nine nine speakers ,
+
+dialogue type : s
+C :  and by the end of it , I was so entirely sick of listening to the same conversation all over again
+
+dialogue type : s^e
+C :  nine times in slow - mo !
+
+dialogue type : s
+C :  I was going nuts .
+
+dialogue type : s:s
+C :  I was like , " I cannot take this anymore .
+
+dialogue type : s:s
+C :  I can't listen to this anymore .
+
+dialogue type : s^rt:s^fe^rt
+C :  Oh my god ! "
+
+dialogue type : s
+C :  I swear it 's like it 's like a bad dream .
+
+dialogue type : s
+C :  It 's like , " This is this is keep happ this keeps happening to me " .
+
+dialogue type : s^bk
+C :  Oh . OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yes ! Yeah , yeah , yeah . Oh yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  I still do that . I still do that .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa|s.%-
+C : 
+
+dialogue type : s^aa
+C :  No , yeah . N Yeah .
+
+dialogue type : s
+C :  I would also be really aw aware of w how I was speaking .
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : s^rt:s^rt
+C :  Like , we were talking about " so " .
+
+dialogue type : s
+C :  I do that .
+
+dialogue type : s:s
+C :  I 'll end utterances with " so " or " and " .
+
+dialogue type : s:s
+C :  and it 'll just be a trailing off , and I 'll think , " Man . I would be such a pain in the butt to transcribe . "
+
+dialogue type : %--
+C :  Like I just , uh , I g
+
+dialogue type : fh
+C :  yeah .
+
+dialogue type : s
+C :  I 'll I 'll do the same thing as you do ,
+
+dialogue type : s
+C :  and I I 'll listen to somebody and his or her speech will be particularly idios idiosyncratic ,
+
+dialogue type : s:s
+C :  and I 'll go , " Wow , I just I 'm glad I 'm not transcribing him or her " .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  I 'm amazed sometimes that we manage to communicate .
+
+dialogue type : s^f|s^rt
+C :  You know ? Cuz people will say just , like , you know , monosyllabic little grunts and squeaks and things ,
+
+dialogue type : s
+C :  and it means something .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : b.%
+C :  Yep . Mhh .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : fg|s^df
+C :  Yeah , cuz then you know exactly what 's going on ,
+
+dialogue type : s^e.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Maybe this is what it 's like to be blind .
+
+dialogue type : s
+C :  No no visual input at all .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  And you get so much more aware of all of it too .
+
+dialogue type : s^ba
+C :  Oh wow .
+
+dialogue type : s^ba
+C :  That 's neat .
+
+dialogue type : b
+C :  Huh .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  That 's true .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^2
+C :  Indecipherable .
+
+dialogue type : s^m
+C :  Machines .
+
+dialogue type : fg|s
+C :  Yeah , the one I kn I kn get all the time is " tsk "
+
+dialogue type : s:s
+C :  It 's it 's , uh like I don't know how I just transcribe it as I say , like , " click "
+
+dialogue type : s
+C :  and then I say , " It 's like a vocal gesture . "
+
+dialogue type : s:s^rt
+C :  Like a shrug or a vocal some some sort of like , " Well , there it is " .
+
+dialogue type : s:s^rt
+C :  Or , " That 's it . "
+
+dialogue type : s|s^f
+C :  Or something like that , you know .
+
+dialogue type : s
+C :  That people do that one a lot .
+
+dialogue type : s
+C :  And there was one speaker who used to do it constantly .
+
+dialogue type : s^rt
+C :  And after a while , I started getting confused as to whether or not he was , like , just going " tsk - tsk - tsk - tsk - tsk " to himself ,
+
+dialogue type : s.%--
+C :  or whether he was meaning it in conversat
+
+dialogue type : s
+C :  Sometimes it was really obvious that he meant it as some sort of vocal cue .
+
+dialogue type : s
+C :  But then sometimes it was more ambiguous .
+
+dialogue type : s^e
+C :  Like it was tough to tell ,
+
+dialogue type : s^df
+C :  um , because he would just always be clicking .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : fg|s
+C :  Yeah , this guy does a lot of single ones .
+
+dialogue type : fg|s.%--
+C : 
+
+dialogue type : s
+C :  And , uh that 's another thing like I I realize I do that too .
+
+dialogue type : s^no
+C :  I can't remember the name actually .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk|s
+C :  Oh . Yeah , that 's a different person .
+
+dialogue type : s^bk|s
+C :  Yeah . OK , I know who you 're talking about .
+
+dialogue type : s.%-
+C :  But this is somebody somebody differ
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s.%-
+C :  The one you 're talking ab
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg|s^rt:s^rt
+C :  Right . Yeah , th I was thinking the one that you just did , like " tsk " . makes me think of the what people would write as " tsk tsk " .
+
+dialogue type : s^f|s^rt
+C :  You know , like , uh , as though they 're like , you know , trying to communicate displeasure .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^rt
+C :  U i cu there 's there 's at least two or three that I can think of that to me are very different .
+
+dialogue type : s
+C :  You know , there 's like , you know , that ,
+
+dialogue type : s:s
+C :  and there 's like , um , you know , well , the one I did before that 's like
+
+dialogue type : s:s
+C :  I don't know , like , um Hhh .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  I 'll usually put a an exclamation point somehow .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  " Hmph . "
+
+dialogue type : qy^bh
+C :  Oh really ?
+
+dialogue type : s^bk^m|s^bk
+C :  Laugh . Right .
+
+dialogue type : b
+C :  Yeah , yeah .
+
+dialogue type : s^ba
+C :  That 's interesting .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s.%-
+C : 
+
+dialogue type : s:s
+C :  I put " breath - laugh " in the brackets when I don't know whether it 's a breath or a laugh ,
+
+dialogue type : s
+C :  which is what I remember you telling me to do that .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  A lot of people go ,
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  I guess I try to be more careful in my speech , more often .
+
+dialogue type : s
+C :  Unless I 'm really not paying any attention
+
+dialogue type : s^e^rt
+C :  like , you know , if I 'm at a party or something , and I 'm just sort of having a good time , then it doesn't really matter ,
+
+dialogue type : s^rt
+C :  but in n you know , normal one - on - one speech I I think I tend to try to enunciate more .
+
+dialogue type : s^df
+C :  Cuz I 've been told I mumble .
+
+dialogue type : fh|s
+C :  Um , and I guess I used to be worse about it .
+
+dialogue type : s^rt
+C :  I was told by my parents that I used to mumble a lot .
+
+dialogue type : fh|s^rt
+C :  Uh , and also I I have this sort of East Coast accent that comes in sometimes that makes it hard for people on the West Coast to understand what I 'm saying .
+
+dialogue type : s
+C :  A lot of times like , uh , if I 'm not paying attention I 'll say something that , uh , will not really be heard .
+
+dialogue type : s
+C :  I tend to leave off final consonants , for instance ,
+
+dialogue type : s
+C :  and people , uh , n I have to be conscious of that sometimes .
+
+dialogue type : fh
+C :  Yeah , so .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b.%
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : fg|s
+C :  Yeah . I tend to think of a conversation that has no interruptions as being something that 's n unnatural and forced .
+
+dialogue type : s
+C :  Or something like a meeting where , you know , I mean everybody says their little schpiel
+
+dialogue type : s
+C :  and people are meant to be , you know , pretty pretty quiet and attentive for the most part .
+
+dialogue type : s
+C :  And then they let them finish ,
+
+dialogue type : s
+C :  and then somebody else comes in
+
+dialogue type : s
+C :  and says something about it .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s
+C :  and in a n like a friendly conversation I I notice that that 's not really true .
+
+dialogue type : s
+C :  Like what you were saying .
+
+dialogue type : b
+C :  Huh !
+
+dialogue type : s^ba
+C :  That 's interesting .
+
+dialogue type : s^na
+C :  No , not at all .
+
+dialogue type : s
+C :  Kind of makes sense
+
+dialogue type : s^df
+C :  because if you 're if you wanna speak next , it 's almost like you got y you gotta get your foot in the door .
+
+dialogue type : s^e^rt
+C :  You gotta be the one who you know , make sure people recognize that you 're the one who 's gonna speak next .
+
+dialogue type : s^bk
+C :  Oh , I see .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b.%
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah , yeah , yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Oh , OK . OK .
+
+dialogue type : s
+C :  I 'm glad you ment brought that up
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : s^rt
+C :  I 'm one of the culprits that puts in all the little itsy bitsy tiny sounds in the middle of everything ,
+
+dialogue type : s^df.%-
+C : 
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : fh|s^df^rt
+C :  Yeah . Cuz I was thinking , like , you 're just supposed to write down everything you hear as closely as possible .
+
+dialogue type : s
+C :  And so , I 'm glad you said that
+
+dialogue type : s
+C :  because , um , that actually takes a good amount of time , and like pretty strict concentration to d to do that .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  I do that if it 's unintelligible ,
+
+dialogue type : s:s
+C :  but if I can tell something if somebody goes " r " I 'll put an " R " .
+
+dialogue type : s^e:s
+C :  Eh Um , so if they go " r e m m " , I 'll go " R " " EH " " mmm " m " M " " M " .
+
+dialogue type : s
+C :  So like I I 've been doing that
+
+dialogue type : s^df
+C :  because like that 's what I can hear .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^fa^fe
+C :  sorry . Sorry !
+
+dialogue type : s^fa^r
+C :  Sorry . Hhh !
+
+dialogue type : s^fa^fe^r
+C :  Sorry !
+
+dialogue type : s^fa^r
+C :  I 'm sorry .
+
+dialogue type : s
+C :  I feel really bad now .
+
+dialogue type : s^fe
+C :  Oh no !
+
+dialogue type : s^fa^r
+C :  I 'm sorry !
+
+dialogue type : s^bk
+C : 
+
+dialogue type : s^fa^r
+C :  Oh no , I 'm so sorry .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s.%--
+C :  Ah and then tha Yeah , that 's wha
+
+dialogue type : s^fa^r
+C :  I 'm sorry .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  I 've heard the swearword version .
+
+dialogue type : qy^bu^d^rt
+C :  Remember that ?
+
+dialogue type : qy^bu^d^r^rt
+C :  Remember that ?
+
+dialogue type : s
+C :  It was a while back .
+
+dialogue type : s
+C :  I it was a long time ago .
+
+dialogue type : s:s^fe
+C :  Yeah , and I was like , " Oah ! "
+
+dialogue type : s
+C :  I emailed you ,
+
+dialogue type : s:s
+C :  I was like , " M You might wanna check this out . "
+
+dialogue type : fg|s
+C :  Yeah , I do remember that .
+
+dialogue type : s
+C :  But it was very quiet .
+
+dialogue type : s
+C :  So I can see how that would have been sort of gone over by accident .
+
+dialogue type : s
+C :  It was just very quiet ,
+
+dialogue type : s^df^rt
+C :  like kind of under the breath kind of thing ,
+
+dialogue type : s
+C :  so that 's why it was missed .
+
+dialogue type : s^ba
+C :  I can understand .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^bk|s
+C :  Oh ! I was just I was just saying that , um , I I can I 'm pretty sure that I can tell what exactly what sounds are being produced .
+
+dialogue type : s:s
+C :  So if it 's " er " , I write an " R " .
+
+dialogue type : s:s
+C : 
+
+dialogue type : qy^2^bu^d^rt
+C :  Just not useful ?
+
+dialogue type : b
+C :  Yeah ?
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bu.%-:s.%-
+C : 
+
+dialogue type : s^bk|s:s
+C :  Oh , you would keep " er " .
+
+dialogue type : s^bk
+C :  Right , right .
+
+dialogue type : s^bk
+C :  Right . Oh , OK .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bu
+C :  So that 's probably why you , like , added in that , um , thing that automatically puts in the people 's initials .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : s^aa
+C :  Oh yeah .
+
+dialogue type : s^2
+C :  Initials .
+
+dialogue type : s^bk
+C :  Right . Oh yeah .
+
+dialogue type : s^2|s^bk
+C :  To fill in . I see .
+
+dialogue type : b.%
+C :  Mmm .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : qy^bu^d^rt
+C :  The time we start digits ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  I can go .
+
+dialogue type : s^fw
+C :  Sure .
+

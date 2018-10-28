@@ -1,0 +1,678 @@
+dialogue type : z
+B :  Channel one .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Alright .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  I think it 's much more balanced with , uh when the front - end is more robust .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s^cc
+B :  I could look at it at this .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^no
+B :  I don't I don't know .
+
+dialogue type : s^df.%-
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : h
+B :  Uh .
+
+dialogue type : s
+B :  So there 's nothing new .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : qw^br^d^rt
+B :  I 'm sorry ?
+
+dialogue type : h
+B :  Mmm .
+
+dialogue type : s
+B :  Well , so we 've been mainly working on the report
+
+dialogue type : fh
+B : 
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s^rt
+B :  On the report of the work that was already done .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : fh
+B :  Mm - hmm .
+
+dialogue type : s
+B :  That 's all .
+
+dialogue type : %-
+B :  Yea
+
+dialogue type : fg
+B :  Uh ,
+
+dialogue type : s^nd
+B :  y yeah . Basically we we 've stopped , uh , experimenting ,
+
+dialogue type : s
+B :  I mean . We 're just writing some kind of technical report .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^df
+B :  we just planned to work on it one week on this report ,
+
+dialogue type : s^e
+B :  not no more , anyway .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fh
+B :  Well ,
+
+dialogue type : s^e
+B :  so I don't know . There are small things that we started to to do .
+
+dialogue type : %-
+B : 
+
+dialogue type : h
+B :  Uh .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa^r
+B :  Yeah .
+
+dialogue type : %--
+B : 
+
+dialogue type : s^e
+B :  Actually , there were some tables that were also with partial results .
+
+dialogue type : s
+B :  We just noticed that ,
+
+dialogue type : s^e
+B :  wh while gathering the result that for some conditions we didn't have everything .
+
+dialogue type : fh
+B :  But anyway .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : fg
+B :  Yeah , yeah .
+
+dialogue type : s
+B :  We have , yeah , extracted actually the noises from the SpeechDat - Car .
+
+dialogue type : fh
+B :  And so ,
+
+dialogue type : s
+B :  we can train neural network with speech and these noises .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s
+B :  It 's difficult to say what it will give ,
+
+dialogue type : s^df
+B :  because when we look at the Aurora the TI - digits experiments , um , they have these three conditions that have different noises ,
+
+dialogue type : s^rt
+B :  and apparently this system perform as well on the seen noises on the unseen noises and on the seen noises .
+
+dialogue type : %--
+B :  But ,
+
+dialogue type : s^cs
+B :  I think this is something we have to try anyway .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^e
+B :  adding the noises from from the SpeechDat - Car .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : h
+B :  Uh .
+
+dialogue type : fh
+B :  Well ,
+
+dialogue type : s^na
+B :  OGI does did that .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s^bu^e
+B :  At some point they did that for for the voice activity detector .
+
+dialogue type : qy^d^g^rt
+B :  Right ?
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s
+B :  They used some parts of the , um , Italian database to train the voice activity detector , I think .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  And Spanish , yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  That 's right .
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^2
+B :  Different cars .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qw
+B :  What do you mean ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Like , we have male , female ,
+
+dialogue type : s^nd
+B :  at least .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy^rt
+B :  Do you have something simple in mind for I mean , vocal tract length normalization ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : h
+B :  Mmm .
+
+dialogue type : s^aap
+B :  Almost ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : h
+B :  Uh . Yeah .
+
+dialogue type : s.%--
+B :  So , this noise ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : fh
+B :  Mmm .
+
+dialogue type : s^cc^rt
+B :  There is something perhaps , I could spend some days to look at this thing ,
+
+dialogue type : s^df^rt
+B :  cuz it seems that when we train networks on let 's say , on TIMIT with MSG features , they they look as good as networks trained on PLP .
+
+dialogue type : fh
+B :  But ,
+
+dialogue type : fh
+B :  um ,
+
+dialogue type : s
+B : 
+
+dialogue type : s^bk
+B :  oh , well .
+
+dialogue type : s
+B :  The MSG features are much worse ,
+
+dialogue type : s^e
+B :  and so maybe they 're , um , less more sensitive to different recording conditions ,
+
+dialogue type : s.%-
+B :  or Shou
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : %--
+B : 
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : s^no
+B :  I cannot tell .
+
+dialogue type : %--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  the the error rate is higher .
+
+dialogue type : s.%-
+B :  So , I don
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg
+B : 
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Well , it 's tandem features ,
+
+dialogue type : fh
+B : 
+
+dialogue type : fh
+B :  Mmm .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s
+B :  We we have estimation of post posteriors with PLP and with MSG as input ,
+
+dialogue type : s.%--
+B :  so I don
+
+dialogue type : fh
+B :  Well .
+
+dialogue type : s^no
+B :  I don't know .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s^cs
+B :  So we should look at the likelihood ,
+
+dialogue type : fh
+B :  or or
+
+dialogue type : %--
+B :  what ?
+
+dialogue type : fh
+B : 
+
+dialogue type : fh
+B :  well ,
+
+dialogue type : s^cs^rt
+B :  at the log , perhaps ,
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg
+B : 
+
+dialogue type : s^aa
+B :  Yes .
+
+dialogue type : h|s^ar
+B :  Mmm . No ,
+
+dialogue type : s^nd
+B : 
+
+dialogue type : s^ar
+B :  no .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg
+B :  Yeah . But ,
+
+dialogue type : s
+B :  my my point was more that it it works sometimes
+
+dialogue type : %--
+B : 
+
+dialogue type : s^e
+B :  but sometimes it doesn't work .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^e
+B :  And it works on TI - digits
+
+dialogue type : s^e
+B :  and on SpeechDat - Car it doesn't work ,
+
+dialogue type : %--
+B : 
+
+dialogue type : fh
+B :  Mm - hmm .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : fh
+B :  Well .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah , sure .
+
+dialogue type : fh
+B :  Uh .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : fg
+B :  Well ,
+
+dialogue type : s
+B :  there is also the spectral subtraction ,
+
+dialogue type : s^e.%--
+B :  which ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^cs^rt
+B :  I think maybe we should , uh , try to integrate it in in our system .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg
+B :  But ,
+
+dialogue type : s^cs
+B :  I think that would involve to to mmm use a big a al already a big bunch of the system of Ericsson .
+
+dialogue type : s^df^rt
+B :  Because he has spectral subtraction ,
+
+dialogue type : s^df^rt
+B :  then it 's followed by , um , other kind of processing that 's are dependent on the uh , if it 's speech or noi or silence .
+
+dialogue type : s^df^rt
+B :  And there is this kind of spectral flattening after if it 's silence ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^cs
+B :  and s I I think it 's important , um , to reduce this musical noise and this this increase of variance during silence portions .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fh
+B :  Well .
+
+dialogue type : s^cs^e
+B :  This was in this would involve to take almost everything from from the this proposal
+
+dialogue type : fh
+B : 
+
+dialogue type : s^cs^e^rt
+B :  and then just add some kind of on - line normalization in in the neural network .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Hmm .
+

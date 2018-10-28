@@ -1,0 +1,216 @@
+dialogue type : qy^rt
+B :  S do you get some kind of number between zero and one at the output ?
+
+dialogue type : qw^t^tc
+B :  Uh s So Barry , if you just have zero and ones , how are you doing the speech recognition ?
+
+dialogue type : s^bk
+B :  Oh . OK .
+
+dialogue type : s^bk^rt
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk^rt
+B :  OK .
+
+dialogue type : %--
+B :  And
+
+dialogue type : s^bk
+B :  OK . OK .
+
+dialogue type : s^t^tc
+B :  That 's as far as my stuff goes ,
+
+dialogue type : fg
+B :  yeah ,
+
+dialogue type : s
+B :  well I tried this mean subtraction method .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s
+B :  Due to Avendano , I 'm taking s um six seconds of speech ,
+
+dialogue type : s
+B :  um I 'm using two second FFT analysis frames , stepped by a half second
+
+dialogue type : s
+B :  so it 's a quarter length step
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^fa
+B :  Sorry ,
+
+dialogue type : s
+B :  I take the current frame and the four past frames and the four future frames
+
+dialogue type : s^rt
+B :  and that adds up to six seconds of speech .
+
+dialogue type : s
+B :  And I calculate um the spectral mean , of the log magnitude spectrum over that N .
+
+dialogue type : s
+B :  I use that to normalize the s the current center frame by mean subtraction .
+
+dialogue type : s
+B :  And I then then I move to the next frame and I I do it again .
+
+dialogue type : s^bsc
+B :  Well , actually I calculate all the means first
+
+dialogue type : s
+B :  and then I do the subtraction .
+
+dialogue type : fh|s
+B :  And um the I tried that with HDK ,
+
+dialogue type : s
+B :  the Aurora setup of HDK training on clean TI - digits ,
+
+dialogue type : fh|sj^ba
+B :  and um it it helped
+
+dialogue type : s.%--
+B :  um in a phony reverberation case
+
+dialogue type : s
+B :  um where I just used the simulated impulse response um the error rate went from something like eighty it was from something like eighteen percent to um four percent .
+
+dialogue type : s
+B :  And on meeting rec recorder far mike digits , mike on channel F , it went from um forty - one percent error to eight percent error .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s^df
+B :  And that that was um trained on clean speech only ,
+
+dialogue type : s
+B :  which I 'm guessing is the reason why the baseline was so bad .
+
+dialogue type : %-
+B : 
+
+dialogue type : fg|s^bc
+B :  Oh um actually um Adam ran the SRI recognizer .
+
+dialogue type : s^aap
+B :  On the far field also .
+
+dialogue type : s^df
+B :  He did one PZM channel and one PDA channel .
+
+dialogue type : s^no
+B :  I I 'm not sure ,
+
+dialogue type : s
+B :  I think it was about five percent error for the PZM channel .
+
+dialogue type : s^am^r
+B :  f I think .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : h
+B :  Um .
+
+dialogue type : s
+B :  I I 'm g I 'm guessing it was the the training data .
+
+dialogue type : s^df
+B :  Uh , clean TI - digits is , like , pretty pristine training data ,
+
+dialogue type : s.%--
+B :  and if they trained the SRI system on this TV broadcast type stuff ,
+
+dialogue type : s
+B :  I think it 's a much wider range of channels
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Huh ?
+
+dialogue type : b
+B :  OK .
+
+dialogue type : qy^d.%-
+B :  b You me you mean um ta
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : h|s
+B :  r Right , so so I guess this SRI system is trained on a lot of s Broadcast News or Switchboard data .
+
+dialogue type : qy^g^rt
+B :  Is that right ?
+
+dialogue type : qy^rt
+B :  Do you know which one it is ?
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  O one thing I 'm wondering about is what this mean subtraction method um will do if it 's faced with additive noise .
+
+dialogue type : s^df
+B :  Cuz I I it 's cuz I don't know what log magnitude spectral subtraction is gonna do to additive noise .
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s^bk
+B :  That 's that 's Yeah , that 's true .
+
+dialogue type : sj^ba
+B :  That 's a good point .
+
+dialogue type : s^bk^rt|s^bu
+B :  OK , so it 's then then it 's it 's it 's reasonable to expect it would be helpful if we used it with the SRI system
+
+dialogue type : fh
+B :  and
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^bk
+B :  Huh , OK .
+
+dialogue type : s^ba^rt^tc
+B :  Sounds good .
+

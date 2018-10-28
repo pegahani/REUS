@@ -1,0 +1,798 @@
+dialogue type : qy^rt
+H :  Does everyone has everyone met Don ?
+
+dialogue type : s^aa
+H :  Yeah ?
+
+dialogue type : b
+H :  OK .
+
+dialogue type : s
+H :  Dome
+
+dialogue type : s^cs^na
+H :  yeah , it sounds like a topic of conversation .
+
+dialogue type : b
+H :  Right .
+
+dialogue type : fg|%-
+H : 
+
+dialogue type : b
+H :  Right ,
+
+dialogue type : s
+H :  so , uh , actually the way Jose is wearing his is is c correct .
+
+dialogue type : s^e
+H :  The good way .
+
+dialogue type : s^co.%-
+H : 
+
+dialogue type : s^na
+H :  Yeah , th that 's good .
+
+dialogue type : s
+H :  So it 's towards the corner of your mouth so that breath sounds
+
+dialogue type : s^co
+H :  And then just sort of about , uh , a thumb or a thumb and a half away from your from your mouth .
+
+dialogue type : s
+H :  And this one isn't very adjustable ,
+
+dialogue type : s
+H :  so this about as good as I can get
+
+dialogue type : s
+H :  cuz it 's a fixed boom .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s
+H :  Well the onl the only problem with that is right now , um , some of the Jimlets aren't working .
+
+dialogue type : s^e
+H :  The little the boxes under the table .
+
+dialogue type : s
+H :  And so , w Uh , I 've only been able to find three jacks that are working .
+
+dialogue type : fh
+H : 
+
+dialogue type : s^no
+H :  I I 'm not sure I 'm follow .
+
+dialogue type : s^co^rt
+H :  Say that again ?
+
+dialogue type : s^bk|qy^bu^d^rt
+H :  OK , just two .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : b
+H :  Right .
+
+dialogue type : s^bk
+H :  Right . OK .
+
+dialogue type : s
+H :  Sounds like uniformity wins .
+
+dialogue type : fg
+H : 
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : s^bk
+H :  Yep .
+
+dialogue type : s^e
+H :  Couple times .
+
+dialogue type : qr
+H :  What can I say .
+
+dialogue type : qh
+H :  Oh , really ?
+
+dialogue type : s
+H :  Yeah , I 'm not surprised .
+
+dialogue type : s:s^fe
+H :  I mean , " Baaah ! "
+
+dialogue type : s^j
+H :  Yeah , it 's an advantage when you don't breath .
+
+dialogue type : s^df
+H :  Yeah , I think that the point of doing the close talking mike is to get a good quality signal . We 're not doing research on close talking mikes .
+
+dialogue type : s
+H :  So we might as well get it as uniform as we can .
+
+dialogue type : s^ba
+H :  Yeah .
+
+dialogue type : s
+H :  So I think just do a field trip at some point .
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : fg
+H :  Yep .
+
+dialogue type : s
+H :  So , as as I said , we 'll do a field trip and see if we can get all of the same mike that 's more comfortable than than these things , which I think are horrible .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : s^df
+H :  And , you know , we 're researchers ,
+
+dialogue type : s^j
+H :  so we all have big heads .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : s
+H :  I was just thinking I should have invited him to this meeting .
+
+dialogue type : s
+H :  I forgot to do it .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : s^fa
+H :  Sorry .
+
+dialogue type : s^2
+H :  HCC .
+
+dialogue type : s^bu
+H :  Oh , he 's doing array mikes .
+
+dialogue type : s^ba
+H :  Yeah , that would be neat .
+
+dialogue type : s^ng
+H :  Well Dan Dan had worked on that . Dan Ellis ,
+
+dialogue type : s^aa
+H :  yeah .
+
+dialogue type : s
+H :  So that that 's the cross - correlation stuff , was was doing b beam - forming .
+
+dialogue type : s^ar
+H :  No ,
+
+dialogue type : s^nd
+H :  he did start on it .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^2^bk
+H :  Oh , that 's another cl cue ,
+
+dialogue type : s^aa
+H :  that 's true .
+
+dialogue type : s^2^j
+H :  Or who talks the loudest .
+
+dialogue type : s^aa
+H :  Yeah .
+
+dialogue type : s^bk
+H :  Oh , so just morning .
+
+dialogue type : qy.%--
+H : 
+
+dialogue type : s
+H :  Ach ! I 'm blanking on the name of the project .
+
+dialogue type : s
+H :  NIST has has done a big meeting room instrumented meeting room with video and microphone arrays , and very elaborate software .
+
+dialogue type : qy^rt
+H :  Is is he the one working on that ?
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : s^bk
+H :  OK .
+
+dialogue type : s
+H :  I had read some papers that looked like they had already done some work .
+
+dialogue type : b.%
+H :  Hmm .
+
+dialogue type : s
+H :  Oh , cuz what what I had read was , uh , they had a uh very large amount of software infrastructure for coordinating all this ,
+
+dialogue type : s^e
+H :  both in terms of recording and also live room where you 're interacting the participants are interacting with the computer , and with the video , and lots of other stuff .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : fg
+H : 
+
+dialogue type : b
+H :  Alright .
+
+dialogue type : s.%
+H :  Xerox .
+
+dialogue type : s
+H :  And then they have little ones too
+
+dialogue type : s
+H :  but I mean but they don't have our block of wood ,
+
+dialogue type : qy^d^g^rt
+H :  right ?
+
+dialogue type : s^ng
+H :  It 's it 's just a lot of infrastructure that for our particular purpose we felt we didn't need to set up .
+
+dialogue type : s
+H :  That 's right , I mean if someone if someone came in and said we really want to do it ,
+
+dialogue type : s
+H :  I mean , we don't care .
+
+dialogue type : s^ba
+H :  That would be fine ,
+
+dialogue type : s
+H :  Buy more disk space .
+
+dialogue type : s
+H :  I usually do a mix .
+
+dialogue type : s
+H :  Well their software infrastructure had a very elaborate design for plugging in filters , and mixers , and all sorts of processing .
+
+dialogue type : s
+H :  So that they can do stuff in real time and not save out each channel individually .
+
+dialogue type : %--
+H : 
+
+dialogue type : qy^bu^d^rt
+H :  You mean to to actually get a microphone array and do that ?
+
+dialogue type : qy^d^g.%--
+H : 
+
+dialogue type : fg|s^cs^ng
+H :  Well , but I think we need a researcher here who 's interested in it . To push it along .
+
+dialogue type : s^bc
+H :  And we actually only have fifteen .
+
+dialogue type : %--
+H : 
+
+dialogue type : s
+H :  Details .
+
+dialogue type : s
+H :  But fifteen , not sixteen .
+
+dialogue type : s
+H :  And y it 'd certainly gets skew .
+
+dialogue type : %-
+H : 
+
+dialogue type : s^aap
+H :  Or a hundred thirty - two .
+
+dialogue type : s^aa|s
+H :  Yes , absolutely . But it 's exactly the same problem ,
+
+dialogue type : s
+H :  that you have an infrastructure problem ,
+
+dialogue type : s
+H :  you have a problem with people not wanting to be video taped ,
+
+dialogue type : s
+H :  and you have the problem that no one who 's currently involved in the project is really hot to do it .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : s^bk
+H :  I know .
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : s
+H :  Oh ! Probably not .
+
+dialogue type : qy.%--
+H :  Has Don have you s did you si
+
+dialogue type : s
+H :  I thought you did actually .
+
+dialogue type : qy^rt
+H :  Didn't you read a digit string ?
+
+dialogue type : s^bk|s^bu
+H :  Yeah , and you and you signed a form .
+
+dialogue type : s
+H :  I 'm pretty sure .
+
+dialogue type : s^cc
+H :  Well I 'll I 'll get another one before the end of the meeting .
+
+dialogue type : s^ft^tc
+H :  Thank you .
+
+dialogue type : s
+H :  Well I can't ,
+
+dialogue type : s^df
+H :  I 'm wired in .
+
+dialogue type : %--
+H :  or
+
+dialogue type : s^aa
+H :  Yep .
+
+dialogue type : s^ba
+H :  It 's pretty good .
+
+dialogue type : b
+H :  Hmm .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : qy.%-
+H : 
+
+dialogue type : qy^rt
+H :  Is ATLAS the his annotated transcription graph stuff ?
+
+dialogue type : s^no.x
+H :  I don't remember the acronym .
+
+dialogue type : s.x
+H :  The the one the what I think you 're referring to , they they have this concept of an an annotated transcription graph representation .
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s
+H :  I based it on their work almost directly , in combination with the TEI stuff .
+
+dialogue type : s
+H :  And so it 's very , very similar .
+
+dialogue type : s
+H :  And so it 's it 's a data representation and a set of tools for manipulating transcription graphs of various types .
+
+dialogue type : s^aa
+H :  Yep .
+
+dialogue type : s^aa
+H :  Right .
+
+dialogue type : s
+H :  Nu - it 's mostly it 's for their speech recognition products ,
+
+dialogue type : s^e^rt
+H :  that they 've hired these people to do .
+
+dialogue type : s^nd
+H :  Well they they do send it out
+
+dialogue type : s^e
+H :  but my understanding is that that 's all this company does is transcriptions for IBM for their speech product .
+
+dialogue type : s
+H :  So most of it 's ViaVoice , people reading their training material for that .
+
+dialogue type : s^aa
+H :  Yep ,
+
+dialogue type : s^aa
+H :  exactly .
+
+dialogue type : s^aa
+H :  Yep .
+
+dialogue type : b.%
+H :  Right .
+
+dialogue type : s^aa
+H :  Right .
+
+dialogue type : s^na
+H :  Well , but that 's OK , because , you know , you 'll do all them and then combine them .
+
+dialogue type : s^nd
+H :  No , no . We 're talking about close talking , not the not the desktop .
+
+dialogue type : s^na
+H :  I sure hope so .
+
+dialogue type : s^ba
+H :  It 'd be really foolish to do otherwise .
+
+dialogue type : s^2
+H :  One side .
+
+dialogue type : s
+H :  But I mean we had this we 've had this discussion many times .
+
+dialogue type : s
+H :  And the answer is we don't actually know the answer because we haven't tried both ways .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : b
+H :  Mm - hmm .
+
+dialogue type : b
+H :  Right .
+
+dialogue type : s^ng
+H :  Well I think that that might change if you wanted really fine time markings .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : s^aa
+H :  Right .
+
+dialogue type : s
+H :  Oh , I 'd be curious to to look at that .
+
+dialogue type : s
+H :  They also all have h heavy accents .
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s^co
+H :  Well we can talk about more details later .
+
+dialogue type : s^aa
+H :  Yeah .
+
+dialogue type : fg|qy^rt
+H :  So , um , Liz , with with the SRI recognizer , can it make use of some time marks ?
+
+dialogue type : s^no
+H :  I I guess I don't know what that means .
+
+dialogue type : s^m
+H :  Adjusting . Oh .
+
+dialogue type : s^2
+H :  On Just on the marks .
+
+dialogue type : qy^d^g^rt
+H :  Right ?
+
+dialogue type : s^bk
+H :  Oh , I see ,
+
+dialogue type : s^bs
+H :  it 's for the length .
+
+dialogue type : s^bk
+H :  I see .
+
+dialogue type : s^bk
+H :  I understand .
+
+dialogue type : s^2
+H :  It 's already chunked .
+
+dialogue type : s^2
+H :  Uh , it 's all pretty good sized for the recognizer also .
+
+dialogue type : s^aa
+H :  Right .
+
+dialogue type : s^nd
+H :  That 's what she 's saying , is that you can't .
+
+dialogue type : s^2.%-
+H : 
+
+dialogue type : s^aap.%-
+H : 
+
+dialogue type : s^co
+H :  We 'll have to talk to Brian .
+
+dialogue type : s
+H :  February sixteenth I think .
+
+dialogue type : s^bk
+H :  Oh .
+
+dialogue type : s
+H :  We had spoken with them about it .
+
+dialogue type : qw
+H :  Which one .
+
+dialogue type : fg|s.%-
+H : 
+
+dialogue type : s^aa|s^na
+H :  Yep , just features .
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : b
+H :  Hmm .
+
+dialogue type : b
+H :  Right .
+
+dialogue type : qy^bu^d^rt
+H :  You mean non - ICSI ?
+
+dialogue type : s^am
+H :  Yeah , I guess you you can try
+
+dialogue type : %-
+H : 
+
+dialogue type : s^df
+H :  The problem is so much of their stuff is confidential .
+
+dialogue type : s^ng
+H :  It would be very hard for them .
+
+dialogue type : s^df
+H :  Well , tha I think that 's her point .
+
+dialogue type : s.%-
+H : 
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : s
+H :  You might give them a free lunch .
+
+dialogue type : fg
+H :  But , um ,
+
+dialogue type : s^cs
+H :  it would be nice if we got someone other than me who knew how to set it up and could do the recording
+
+dialogue type : s
+H :  so u I didn't have to do it each time .
+
+dialogue type : s^bk|s^co^j
+H :  OK , next week you 're going to do it all .
+
+dialogue type : s^ba^na
+H :  It 's not that hard .
+
+dialogue type : fg.%
+H :  So .
+
+dialogue type : s
+H :  Well , I don't know if they meet regularly or not
+
+dialogue type : s
+H :  but they are no longer recording .
+
+dialogue type : h|qw^t1
+H :  Um , ugh , what was his name ?
+
+dialogue type : s^aa
+H :  Yeah .
+
+dialogue type : s
+H :  When with him gone , it sorta trickled off .
+
+dialogue type : s
+H : 
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : b
+H :  Yep .
+
+dialogue type : s
+H :  Well he was sort of my contact ,
+
+dialogue type : s
+H :  so I just need to find out who 's running it now .
+
+dialogue type : fh
+H :  So .
+
+dialogue type : qy^d^rt
+H :  Who 's willing to get recorded and distributed ?
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : s^2^j
+H :  Of beeps ,
+
+dialogue type : b
+H :  yeah .
+
+dialogue type : s^ar|%-
+H : 
+
+dialogue type : s^2
+H :  Legal .
+
+dialogue type : fg
+H : 
+
+dialogue type : s^j
+H :  Well if he meant and non - British I think we have zero .
+
+dialogue type : qy^d^j^rt
+H :  British is English ?
+
+dialogue type : s^bc
+H :  I bet he meant native speaking American .
+
+dialogue type : qw
+H :  So , why would he care ?
+
+dialogue type : s
+H :  I wonder if we have any .
+
+dialogue type : s^am
+H :  Maybe .
+
+dialogue type : s^am
+H :  Maybe .
+
+dialogue type : s.%--
+H : 
+
+dialogue type : s^e
+H :  you know , Dan wasn't there
+
+dialogue type : s^e
+H :  and before Jose started coming ,
+
+dialogue type : fh
+H : 
+
+dialogue type : b
+H :  Yeah .
+
+dialogue type : s^j
+H :  RASTA . PLP .
+
+dialogue type : s^j^r
+H :  RASTA . PLP .
+
+dialogue type : s
+H :  Well , like computer science .
+
+dialogue type : %-
+H : 
+
+dialogue type : %-
+H : 
+
+dialogue type : s^j.%
+H :  Got a ticket .
+
+dialogue type : s
+H :  Well I had asked some some of the students at the business school .
+
+dialogue type : s^cc.%-
+H : 
+
+dialogue type : s.%-
+H :  The Business school .
+
+dialogue type : s^cs^r
+H :  Uh , the business school might be good .
+
+dialogue type : s
+H :  I actually spoke with some students up there
+
+dialogue type : s^e
+H :  and they they they expressed willingness back when they thought they would be doing more stuff with speech .
+
+dialogue type : s
+H :  But when they lost interest in speech they also stopped answering my email about other stuff ,
+
+dialogue type : fh
+H :  so .
+
+dialogue type : s^cs
+H :  We should probably bleep that out .
+
+dialogue type : s^nd
+H :  Th - that 's not what we want .
+
+dialogue type : s^aa^j
+H :  That 's right .
+
+dialogue type : s^j:s^co
+H :  " Please throw everything in that direction . "
+
+dialogue type : s
+H :  Padded cell .
+
+dialogue type : s
+H :  There was a dorm room at Tech that , uh , someone had coated the walls and the ceiling , and , uh , the floor with mattresses .
+
+dialogue type : s^e
+H :  The entire room .
+
+dialogue type : h|s
+H :  Uh , Liz wanted to talk about methods of improving accuracy by doing pre - processing .
+
+dialogue type : s^aa
+H :  Yep .
+
+dialogue type : s
+H :  I am not sure how much that 's an issue with the close talking mikes ,
+
+dialogue type : qh
+H :  but who knows ?
+
+dialogue type : s^aa
+H :  Right .
+
+dialogue type : s^nd
+H :  e I bet with the lapel mike there 's plenty , uh , room acoustic
+
+dialogue type : fh|s^aap
+H :  but I I think the rest is cross - talk .
+
+dialogue type : s^bk
+H :  Yeah .
+
+dialogue type : s.%--
+H :  So I I think it 's just ,
+
+dialogue type : s^na
+H :  yeah , what you said , cross - talk .
+
+dialogue type : b.%
+H :  Mm - hmm .
+

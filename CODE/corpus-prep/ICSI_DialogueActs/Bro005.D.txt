@@ -1,0 +1,1971 @@
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  We 're on ?
+
+dialogue type : z
+D :  Yes , please .
+
+dialogue type : z
+D :  I mean , we 're testing noise robustness
+
+dialogue type : z
+D :  but let 's not get silly .
+
+dialogue type : z
+D :  OK ,
+
+dialogue type : z
+D :  so , uh , you 've got some , uh , Xerox things to pass out ?
+
+dialogue type : z
+D :  That are
+
+dialogue type : z
+D :  Yeah .
+
+dialogue type : z
+D :  Uh , so for th the last column we use our imagination .
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  Ah .
+
+dialogue type : z
+D :  This one 's nice , though .
+
+dialogue type : z
+D :  This has nice big font .
+
+dialogue type : z
+D :  Yeah .
+
+dialogue type : z
+D :  When you get older you have these different perspectives .
+
+dialogue type : z
+D :  I mean , lowering the word hour rate is fine , but having big font !
+
+dialogue type : z
+D : 
+
+dialogue type : z
+D :  Yeah . It 's mostly big font .
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^co
+D :  Go ahead .
+
+dialogue type : s^bk
+D :  Oh . OK .
+
+dialogue type : b
+D :  Mm - hmm . Mm - hmm .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : s^bu
+D :  a And again all of these numbers are with a hundred percent being , uh , the baseline performance ,
+
+dialogue type : s^bu
+D :  but with a mel cepstra system going straight into the HTK ?
+
+dialogue type : s^bk^m
+D :  Yes .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : h|s^bk
+D :  Um Oh , I see .
+
+dialogue type : s
+D :  Down near the bottom of this sheet .
+
+dialogue type : b
+D :  Uh , yes .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Yes .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Ah , yes .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk^m
+D :  Baseline is eighty - two .
+
+dialogue type : fh|s^bk^m
+D :  Uh , this is Italian mismatched .
+
+dialogue type : s^bk^rt
+D :  OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : %-
+D :  I
+
+dialogue type : fg|s.%--
+D : 
+
+dialogue type : qw
+D :  when you said the baseline system was uh , uh eighty - two percent , that was trained on what and tested on what ?
+
+dialogue type : s
+D :  That was , uh Italian mismatched d uh , uh , digits , uh , is the testing ,
+
+dialogue type : qy^bu^d^rt
+D :  and the training is Italian digits ?
+
+dialogue type : s^bu
+D :  So the " mismatch " just refers to the noise and and , uh microphone and so forth ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : fh|qy^rt.%--
+D : 
+
+dialogue type : qy^rt
+D :  So would that then correspond to the first line here of where the training is is the uh Italian digits ?
+
+dialogue type : %
+D : 
+
+dialogue type : s^aa
+D :  Yes .
+
+dialogue type : b
+D :  Yes .
+
+dialogue type : s
+D :  Training of the net ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : fh|s
+D :  So , um So what that says is that in a matched condition , we end up with a fair amount worse putting in the uh PLP .
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : s
+D :  I I don't mean matched ,
+
+dialogue type : qy^bu^d^rt
+D :  but uh use of Italian training in Italian digits for PLP only ?
+
+dialogue type : s^bu^m
+D :  Fifty - two percent .
+
+dialogue type : s^bk^m|qy^bu^d^rt
+D :  No , fifty - two percent of eighty - two ?
+
+dialogue type : s^bk|s^fe
+D :  Oh this is accuracy !
+
+dialogue type : s^bk
+D :  Oy ! OK .
+
+dialogue type : s^bk
+D :  Ninety .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s.%--
+D : 
+
+dialogue type : fh|s
+D :  Um I wonder if it 's a difference between PLP and mel cepstra , or whether it 's that the net half , for some reason , is not helping .
+
+dialogue type : s^bk^m
+D :  Same result pretty much ?
+
+dialogue type : fg|%-
+D :  So , s
+
+dialogue type : s
+D :  Eighty - eight point six .
+
+dialogue type : fg|s.%--
+D :  Um , so adding MSG
+
+dialogue type : fh|s^bu
+D :  um Well , but that 's yeah , that 's without the neural net ,
+
+dialogue type : qy^bu^d^g^rt
+D :  right ?
+
+dialogue type : s^rt
+D :  But she had said eighty - two .
+
+dialogue type : qy^d^g^rt
+D :  Right ?
+
+dialogue type : s^bk|qy^bu^d^rt
+D :  Oh , this the eighty - two .
+
+dialogue type : s^bk|s^fa
+D :  Oh , I 'm sorry ,
+
+dialogue type : s
+D :  I k I keep getting confused
+
+dialogue type : s^df
+D :  because this is accuracy .
+
+dialogue type : s^bk
+D :  OK . Alright .
+
+dialogue type : s^bk|s^df
+D :  Alright . So this is I was thinking all this was worse .
+
+dialogue type : s^bk|s^bs
+D :  OK so this is all better
+
+dialogue type : s
+D :  because eighty - nine is bigger than eighty - two .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^tc
+D :  I 'm I 'm all better now .
+
+dialogue type : s^bk|s^co
+D :  OK , go ahead .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bu
+D :  So we go from eighty - si eighty - eight point six to to ninety , or something .
+
+dialogue type : s^bk^m
+D :  Eighty - nine .
+
+dialogue type : s^bu
+D :  And then adding the MSG does nothing , basically .
+
+dialogue type : s^bk
+D :  Yeah . OK .
+
+dialogue type : s|s^bk
+D :  For this case , right ?
+
+dialogue type : b
+D :  Alright .
+
+dialogue type : fh|s.%--
+D :  So , um So actually , the answer for experiments with one is that adding MSG , if you uh does not help in that case .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  The other ones , we 'd have to look at it ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  And the multi - English , does
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  So if we think of this in error rates , we start off with , uh eighteen percent error rate , roughly .
+
+dialogue type : s
+D :  Um and we uh almost , uh cut that in half by um putting in the on - line normalization and the neural net .
+
+dialogue type : s
+D :  And the MSG doesn't however particularly affect things .
+
+dialogue type : s
+D :  And we cut off , I guess about twenty - five percent of the error .
+
+dialogue type : fh|s^t1
+D :  Uh no , not quite that ,
+
+dialogue type : qy^g^t1
+D :  is it .
+
+dialogue type : s^t1
+D :  Uh , two point six out of eighteen .
+
+dialogue type : s
+D :  About , um sixteen percent or something of the error , um , if we use multi - English instead of the matching condition .
+
+dialogue type : s
+D :  Not matching condition ,
+
+dialogue type : s
+D :  but uh , the uh , Italian training .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk|sj^ba
+D :  Yes , good .
+
+dialogue type : s^bk
+D :  OK ?
+
+dialogue type : s
+D :  So then you 're assuming multi - English is closer to the kind of thing that you could use
+
+dialogue type : s^df
+D :  since you 're not gonna have matching , uh , data for the uh for the new for the other languages and so forth .
+
+dialogue type : fh|s.%--
+D :  Um , one qu thing is that ,
+
+dialogue type : s^df
+D :  uh I think I asked you this before ,
+
+dialogue type : s^df
+D :  but I wanna double check .
+
+dialogue type : s^bu
+D :  When you say " ME " in these other tests , that 's the multi - English ,
+
+dialogue type : s^bu
+D :  but it is not all of the multi - English ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s
+D :  It is some piece of part of it .
+
+dialogue type : qy^d^rt
+D :  And the multi - English is how much ?
+
+dialogue type : s^bk|s
+D :  Oh , so you used almost all
+
+dialogue type : s
+D :  You used two thirds of it ,
+
+dialogue type : s
+D :  you think .
+
+dialogue type : s
+D :  So , it it 's still it hurts you seems to hurt you a fair amount to add in this French and Spanish .
+
+dialogue type : s
+D :  I wonder why
+
+dialogue type : fh
+D :  Yeah . Uh .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk|s^co
+D :  Alright , go ahead .
+
+dialogue type : %--
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : fg|s
+D :  Yes , yeah , I mean it can't be compared with the other
+
+dialogue type : s^df
+D :  cuz this is , uh with multi - English , uh , training .
+
+dialogue type : s
+D :  So you have to compare it with the one over that you 've got in a box ,
+
+dialogue type : s
+D :  which is that , uh the eighty - four point six .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%-
+D :  Not t not
+
+dialogue type : s^ar
+D :  tr No . No . No .
+
+dialogue type : s
+D :  Not trained with multi - English .
+
+dialogue type : s^bk
+D :  Eh . Oh , I see .
+
+dialogue type : s^bk|s.%--
+D :  Ah . So you 're saying w so asking the question , " What what has adding the MLP done to improve over the ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk
+D :  Yes .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s.%--
+D :  Eighty - s
+
+dialogue type : s.%--
+D :  I thought it was eighty
+
+dialogue type : s^bk
+D :  Oh , OK ,
+
+dialogue type : s
+D :  eighty - three point six and eighty eighty - eight point six .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^aap
+D :  Well , that 's that 's one thing ,
+
+dialogue type : s.%--
+D :  but see the other thing is that ,
+
+dialogue type : sj^ba
+D :  um , I mean it 's good to take the difficult case ,
+
+dialogue type : s^rt
+D :  but let 's let 's consider what that means .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I mean my interpretation of your your s original suggestion is something like this , as motivation .
+
+dialogue type : s
+D :  When we train on data that is in one sense or another , similar to the testing data , then we get a win by having discriminant training .
+
+dialogue type : s
+D :  When we train on something that 's quite different , we have a potential to have some problems .
+
+dialogue type : s
+D :  And , um , if we get something that helps us when it 's somewhat similar , and doesn't hurt us too much when it when it 's quite different , that 's maybe not so bad .
+
+dialogue type : s.%--
+D :  So the question is , if you took the same combination , and you tried it out on , uh on say digits ,
+
+dialogue type : s^f
+D :  you know ,
+
+dialogue type : qy^rt
+D :  d Was that experiment done ?
+
+dialogue type : s^bk
+D :  Yeah , OK .
+
+dialogue type : qo
+D :  Uh , then does that , eh you know maybe with similar noise conditions and so forth , does it does it then look much better ?
+
+dialogue type : qo
+D :  And so what is the range over these different kinds of uh of tests ?
+
+dialogue type : s^tc
+D :  So , an anyway .
+
+dialogue type : s^bk|s^co
+D :  OK , go ahead .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa^m
+D :  Slightly better .
+
+dialogue type : s
+D :  And and you know again maybe if you use the , uh , delta there , uh , you would bring it up to where it was , uh you know at least about the same for a difficult case .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fh|s^t^tc
+D :  Um , by the way , there is a another , uh , suggestion that would apply , uh , to the second configuration ,
+
+dialogue type : s
+D :  um , which , uh , was made , uh , by , uh , Hari .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  if you scale the variances associated with , uh these streams um , you can effectively scale the streams .
+
+dialogue type : qy^d^f^g^rt
+D :  Right ?
+
+dialogue type : fh|s
+D :  So , um , you know , without changing the scripts for HTK ,
+
+dialogue type : s
+D :  which is the rule here , uh , you can still change the variances
+
+dialogue type : s
+D :  which would effectively change the scale of these these , uh , two streams that come in .
+
+dialogue type : fh|s
+D :  And , um , so , um , if you do that , for instance it may be the case that , um , the MLP should not be considered as strongly , for instance .
+
+dialogue type : fg|s.%--
+D :  And , um , so this is just setting them to be ,
+
+dialogue type : s^fa
+D :  excuse me ,
+
+dialogue type : s
+D :  of equal equal weight .
+
+dialogue type : s
+D :  Maybe it shouldn't be equal weight .
+
+dialogue type : s
+D :  Right ? You know , I I 'm sorry to say that gives more experiments if we wanted to look at that ,
+
+dialogue type : s^df
+D :  but but , uh , um , you know on the other hand it 's just experiments at the level of the HTK recognition .
+
+dialogue type : s
+D :  It 's not even the HTK ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  Well , I guess you have to do the HTK training also .
+
+dialogue type : fh|qy^rt
+D :  Uh , do you ?
+
+dialogue type : h
+D :  Let me think .
+
+dialogue type : s^t1
+D :  Maybe you don't .
+
+dialogue type : fh
+D :  Uh .
+
+dialogue type : fg|s.%--
+D : 
+
+dialogue type : s^t1.%--
+D : 
+
+dialogue type : s^bk|s
+D :  Yeah , the training is just coming up with the variances
+
+dialogue type : s
+D :  so I guess you could you could just scale them all .
+
+dialogue type : s
+D :  Variances .
+
+dialogue type : s
+D :  That 's uh , exactly the point , I think ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  It 's diagonal covariance matrices ,
+
+dialogue type : s
+D :  but you say what those variances are .
+
+dialogue type : s
+D :  So , that you know , it 's diagonal , but the diagonal means th that then you 're gonna it 's gonna it 's gonna internally multiply it and and uh , uh , i it im uh implicitly exponentiated to get probabilities , and so it 's it 's gonna it 's it 's going to affect the range of things if you change the change the variances of some of the features .
+
+dialogue type : s
+D :  So , i it 's precisely given that model you can very simply affect , uh , the s the strength that you apply the features .
+
+dialogue type : s
+D :  That was that was , uh , Hari 's suggestion .
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : fg|s
+D :  So it could just be that h treating them equally , tea treating two streams equally is just just not the right thing to do .
+
+dialogue type : s
+D :  Of course it 's potentially opening a can of worms
+
+dialogue type : s
+D :  because , you know , maybe it should be a different number for for each kind of test set , or something ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^cs^tc
+D :  So I guess the other thing is to take you know if one were to take , uh , you know , a couple of the most successful of these ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aa|s
+D :  Yeah , try all these different tests .
+
+dialogue type : s^bk
+D :  Alright .
+
+dialogue type : fh
+D :  Uh .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : s
+D :  Ugh ! I was impressed
+
+dialogue type : s^fe
+D :  boy ,
+
+dialogue type : s
+D :  two thousand .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk|s^j
+D :  Alright , now I 'm just slightly impressed ,
+
+dialogue type : b
+D :  OK .
+
+dialogue type : fg|s^bs^cs
+D :  Yeah . So it sounds like yeah , the net corrects some of the problems with some poor normalization .
+
+dialogue type : s
+D :  But if you can do good normalization it 's it 's uh OK .
+
+dialogue type : fg|s^tc
+D :  So So - Let me bef before you go on to the possible issues .
+
+dialogue type : s.%--
+D :  So , on the MSG uh problem
+
+dialogue type : s.%--
+D :  um , I think that in in the um , in the short time solution
+
+dialogue type : s.%--
+D :  um , that is , um , trying to figure out what we can proceed forward with to make the greatest progress ,
+
+dialogue type : s
+D :  uh , much as I said with JRASTA ,
+
+dialogue type : s
+D :  even though I really like JRASTA
+
+dialogue type : s
+D :  and I really like MSG ,
+
+dialogue type : s
+D :  I think it 's kind of in category that it 's , it it may be complicated .
+
+dialogue type : s^cs
+D :  And uh it might be if someone 's interested in it , uh , certainly encourage anybody to look into it in the longer term ,
+
+dialogue type : s
+D :  once we get out of this particular rush uh for results .
+
+dialogue type : s^cs.%--
+D :  But in the short term , unless you have some some s strong idea of what 's wrong ,
+
+dialogue type : s^am
+D :  Yeah , probably .
+
+dialogue type : s
+D :  There 's supposed to well MSG is supposed to have a an on - line normalization though ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : fg|s
+D :  Yeah , but also there 's an on - line norm besides the AGC , there 's an on - line normalization that 's supposed to be
+
+dialogue type : fh
+D :  uh ,
+
+dialogue type : s^aa
+D :  yeah ,
+
+dialogue type : s
+D :  taking out means and variances and so forth .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s
+D :  In fac in fact the on - line normalization that we 're using came from the MSG design ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : sj^ba
+D :  " On - line - two " is good .
+
+dialogue type : s^r
+D :  " Two " is good ?
+
+dialogue type : s^bsc
+D :  No , " two " is bad .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s^na
+D :  So Yeah , I I agree .
+
+dialogue type : sj
+D :  It 's probably something simple
+
+dialogue type : s^cs
+D :  uh , i if if uh someone , you know , uh , wants to play with it for a little bit .
+
+dialogue type : s^rt
+D :  I mean , you 're gonna do what you 're gonna do
+
+dialogue type : s
+D :  but but my my guess would be that it 's something that is a simple thing that could take a while to find .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%--
+D :  Uh . And the other the results uh , observations two and three , Um , is
+
+dialogue type : fh
+D : 
+
+dialogue type : fh|s^rt
+D :  Yeah , that 's pretty much what we 've seen .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  If it 's on the target task then it it it helps to have the MLP transforming it .
+
+dialogue type : s
+D :  If it uh if it 's not on the target task , then , depending on how different it is , uh you can get uh , a reduction in performance .
+
+dialogue type : qo
+D :  And the question is now how to how to get one and not the other ?
+
+dialogue type : s
+D :  Or how to how to ameliorate the the problems .
+
+dialogue type : fh|s
+D :  Um , because it it certainly does is nice to have in there , when it when there is something like the training data .
+
+dialogue type : s
+D :  So that 's what you say th there .
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : s^fe^t3
+D :  Hey !
+
+dialogue type : s^t3
+D :  Um , just you can just sit here .
+
+dialogue type : s^co
+D :  Uh , I d I don't think we want to mess with the microphones
+
+dialogue type : %--
+D : 
+
+dialogue type : s^co
+D :  Just uh , have a seat .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s^t3
+D :  s Summary of the first uh , uh forty - five minutes is that some stuff work and works , and some stuff doesn't
+
+dialogue type : s^bk
+D :  OK ,
+
+dialogue type : fh|s^am
+D :  Yeah , I guess we can do a little better than that
+
+dialogue type : s
+D :  but I think if you if you start off with the other one , actually , that sort of has it in words
+
+dialogue type : s
+D :  and then th that has it the associated results .
+
+dialogue type : fh
+D :  OK .
+
+dialogue type : s^bs^rt^t^tc.%--
+D :  So you 're saying that um , um , although from what we see ,
+
+dialogue type : s^bs
+D :  yes there 's what you would expect in terms of a language dependency and a noise dependency . That is , uh , when the neural net is trained on one of those and tested on something different , we don't do as well as in the target thing .
+
+dialogue type : s^bs
+D :  But you 're saying that uh , it is Although that general thing is observable so far , there 's something you 're not completely convinced about .
+
+dialogue type : qw^rt
+D :  And and what is that ?
+
+dialogue type : s^e
+D :  I mean , you say " not clear yet " .
+
+dialogue type : qw
+D :  What what do you mean ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qy^rt
+D :  Do you think the alignments are bad ?
+
+dialogue type : qy
+D :  I mean , have you looked at the alignments at all ?
+
+dialogue type : s
+D :  What the Viterbi alignment 's doing ?
+
+dialogue type : s^cs
+D :  Might be interesting to look at it .
+
+dialogue type : s^df
+D :  Because , I mean , that is just looking
+
+dialogue type : s^df
+D :  but um , um It 's not clear to me you necessarily would do so badly from a Viterbi alignment .
+
+dialogue type : s^df
+D :  It depends how good the recognizer is
+
+dialogue type : s
+D :  that 's that the the engine is that 's doing the alignment .
+
+dialogue type : s^bk^fe
+D :  Aha !
+
+dialogue type : s^bs
+D :  The pronunciation models and so forth
+
+dialogue type : s^fe
+D :  Aha .
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : s
+D :  I thought some of the nets were trained with SPINE and so forth .
+
+dialogue type : s
+D :  So it And that has other noise .
+
+dialogue type : s^bk|s
+D :  OK , yeah , just don't just need more more results there with that @ @ .
+
+dialogue type : b
+D :  Hm - hmm .
+
+dialogue type : fg|s
+D :  Uh . Right , I mean the multi - English so far is is the best .
+
+dialogue type : s^bu
+D :  " Multi - multi - English " just means " TIMIT " ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  So . And and when you add other things in to to broaden it , it gets worse uh typically .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : sj^ba
+D :  I like that .
+
+dialogue type : s
+D :  The training set is both questions , with answers and without answers .
+
+dialogue type : s
+D :  It 's sort of , yes it 's mul it 's multi - uh - purpose .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg|s
+D :  Yeah , that seems like a good thing to do , probably ,
+
+dialogue type : s
+D :  not uh again a short - term sort of thing .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  e u the ri I guess the major risk you have there of being is being dependent on very dependent on the kind of noise and and so forth .
+
+dialogue type : fh|s
+D :  Uh . But it 's another thing to try .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa|sj^ba
+D :  Yeah , if you i i It 's interesting thought
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I mean w yeah , one one fantasy would be you have something like articulatory targets
+
+dialogue type : s
+D :  and you have um some reasonable database ,
+
+dialogue type : fh
+D :  um
+
+dialogue type : s
+D :  but then which is um copied over many times with a range of different noises ,
+
+dialogue type : s
+D :  And uh If Cuz what you 're trying to do is come up with a a core , reasonable feature set which is then gonna be used uh , by the the uh HMM system .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^bk
+D :  Yeah , OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s.%--
+D :  And I guess , you know , the the the real open question ,
+
+dialogue type : s
+D :  I mean , e u there 's lots of open questions ,
+
+dialogue type : s.%--
+D :  but one of the core quote " open questions " for that is um , um , if we take the uh you know , the best ones here ,
+
+dialogue type : s
+D :  maybe not just the best one ,
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  You want the most promising group from these other experiments .
+
+dialogue type : qo
+D :  Um , how well do they do over a range of these different tests , not just the Italian ?
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : %--
+D :  And y
+
+dialogue type : qy^d^f^g^rt
+D :  y Right ?
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  We know that there 's a mis there 's a uh a a loss in performance when the neural net is trained on conditions that are different than than , uh we 're gonna test on ,
+
+dialogue type : qo
+D :  but well , if you look over a range of these different tests um , how well do these different ways of combining the straight features with the MLP features , uh stand up over that range ?
+
+dialogue type : sj
+D :  That 's that that seems like the the the real question .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  So if you just take PLP with uh , the double - deltas .
+
+dialogue type : s
+D :  Assume that 's the p the feature .
+
+dialogue type : s
+D :  look at these different ways of combining it .
+
+dialogue type : s
+D :  And uh , take let 's say , just take uh multi - English
+
+dialogue type : s^df
+D :  cause that works pretty well for the training .
+
+dialogue type : s
+D :  And just look take that case and then look over all the different things .
+
+dialogue type : qw
+D : 
+
+dialogue type : s^m^na
+D :  All the different test sets ,
+
+dialogue type : s^e
+D :  and for and for the couple different ways that you have of of of combining them .
+
+dialogue type : qw.%--
+D : 
+
+dialogue type : s
+D :  That 's another possibility if you have time ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aap|sj^ba
+D :  Yeah . It 's a little strange
+
+dialogue type : s^aap^df
+D :  but on the other hand they did it before .
+
+dialogue type : fg|%--
+D :  Um the
+
+dialogue type : fg|s.%--
+D :  Um , the other thing , though , is that
+
+dialogue type : fh
+D : 
+
+dialogue type : fg|s^bu
+D :  So . Uh , we we wanna get their path running here ,
+
+dialogue type : qy^d^f^g^rt
+D :  right ?
+
+dialogue type : s
+D :  If so , we can add this other stuff .
+
+dialogue type : s
+D :  as an additional path
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : qy^bu^d^rt
+D :  Cuz they 're doing LDA RASTA .
+
+dialogue type : s^r
+D :  They 're doing LDA RASTA ,
+
+dialogue type : qy^d^g
+D :  yeah ?
+
+dialogue type : b
+D :  I see .
+
+dialogue type : b
+D :  I see .
+
+dialogue type : fg
+D :  I see .
+
+dialogue type : s
+D :  So we So . First thing of course we 'd wanna do there is to make sure that when we get those labels of final features is that we get the same results as them .
+
+dialogue type : s
+D :  Without putting in a second path .
+
+dialogue type : s^co
+D :  Yeah just th w i i Just to make sure that we have we understand properly what things are , our very first thing to do is to is to double check that we get the exact same results as them on HTK .
+
+dialogue type : s.%--
+D :  Uh , I mean , I don't know that we need to r
+
+dialogue type : qy^rt
+D :  Um Do we need to retrain
+
+dialogue type : s
+D :  I mean we can just take the re their training files also .
+
+dialogue type : fh
+D :  But . But , uh
+
+dialogue type : s^co.%--
+D : 
+
+dialogue type : s^df
+D :  Cuz otherwise , you know , we won't know what things mean .
+
+dialogue type : s^am
+D :  Maybe .
+
+dialogue type : s.%--
+D :  Oh ! You know , the other thing is when you say comb
+
+dialogue type : s^fa|s
+D :  I 'm I 'm sorry , I 'm interrupting . that
+
+dialogue type : fh|s.%--
+D :  u Um , uh , when you 're talking about combining multiple features ,
+
+dialogue type : s:s
+D :  um Suppose we said , " OK , we 've got these different features and so forth ,
+
+dialogue type : sj^ba:s
+D :  but PLP seems pretty good . "
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I mean , one of the situations we have is we have these different conditions .
+
+dialogue type : s
+D :  We have different languages ,
+
+dialogue type : s
+D :  we have different different noises ,
+
+dialogue type : s^cs
+D :  Um If we have some drastically different conditions and we just train up different M L Ps with them .
+
+dialogue type : s
+D :  And put put them together .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I mean , who knows if it 'll work for these other ones .
+
+dialogue type : s
+D :  That you did have nice interpolative effects .
+
+dialogue type : s^rt
+D :  That is , that yes , if you knew what the reverberation condition was gonna be and you trained for that , then you got the best results .
+
+dialogue type : s
+D :  But if you had , say , a heavily - reverberation ca heavy - reverberation case and a no - reverberation case , uh , and then you fed the thing , uh something that was a modest amount of reverberation then you 'd get some result in between the two .
+
+dialogue type : s
+D :  So it was sort of behaved reasonably .
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qw
+D :  It works better if what ?
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : s.%--
+D :  Well , see , i oc
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bd
+D :  So maybe the analogy isn't quite right .
+
+dialogue type : s
+D :  You were doing something that was in way a little better behaved .
+
+dialogue type : s
+D :  You had reverb for a single variable
+
+dialogue type : s
+D :  which was re uh , uh , reverberation .
+
+dialogue type : s
+D :  Here the problem seems to be is that we don't have a hug a really huge net with a really huge amount of training data .
+
+dialogue type : s
+D :  But we have s f for this kind of task , I would think , sort of a modest amount .
+
+dialogue type : s
+D :  I mean , a million frames actually isn't that much .
+
+dialogue type : s
+D :  We have a modest amount of of uh training data from a couple different conditions ,
+
+dialogue type : s
+D :  and then uh in yeah , that and the real situation is that there 's enormous variability that we anticipate in the test set in terms of language ,
+
+dialogue type : s
+D :  and noise type
+
+dialogue type : fh|s
+D :  uh , and uh , uh , channel characteristic ,
+
+dialogue type : s
+D :  sort of all over the map .
+
+dialogue type : s
+D :  A bunch of different dimensions .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I mean one of the things that we were seeing is that when we added in we still don't have a good explanation for this ,
+
+dialogue type : s
+D :  but we are seeing that we 're adding in uh , a fe few different databases
+
+dialogue type : fh|s
+D :  and uh the performance is getting worse
+
+dialogue type : fh|s
+D :  and uh , when we just take one of those databases that 's a pretty good one , it actually is is is is is better .
+
+dialogue type : fh|s
+D :  And uh that says to me , yes , that , you know , there might be some problems with the pronunciation models that some of the databases we 're adding in or something like that .
+
+dialogue type : s
+D :  But one way or another we don't have uh , seemingly , the ability to represent , in the neural net of the size that we have , um , all of the variability that we 're gonna be covering .
+
+dialogue type : s.%--
+D :  So that I 'm I 'm I 'm hoping that
+
+dialogue type : fh|s
+D :  um , this is another take on the efficiency argument you 're making ,
+
+dialogue type : s
+D :  which is I 'm hoping that with moderate size neural nets , uh , that uh if we if they look at more constrained conditions they they 'll have enough parameters to really represent them .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%--
+D :  I mean i i e The um I think it 's true that the OGI folk found that using LDA RASTA ,
+
+dialogue type : s
+D :  which is a kind of LogRASTA ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I mean it 's done in the log domain , as I recall ,
+
+dialogue type : s
+D :  and it 's it uh it 's just that they d it 's trained up ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : s
+D :  That that um benefitted from on - line normalization .
+
+dialogue type : s^bs
+D :  So they did At least in their case , it did seem to be somewhat complimentary .
+
+dialogue type : qo
+D :  So will it be in our case , where we 're using the neural net ?
+
+dialogue type : s
+D :  I mean they they were not not using the neural net .
+
+dialogue type : s^bd^no
+D :  Uh I don't know .
+
+dialogue type : s^bk|s^t.%--
+D : 
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^bs
+D :  Make stuff better .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : fh
+D :  Uh . Yeah .
+
+dialogue type : s
+D :  And CPU memory issues .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  We 've been sort of ignoring that ,
+
+dialogue type : qy^g
+D :  haven't we ?
+
+dialogue type : %--
+D : 
+
+dialogue type : fg|s.%-
+D :  Yeah , but I li
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bd
+D :  You you folks have been looking at this more than me .
+
+dialogue type : s
+D :  But my impression was that uh , there was a a a a strict constraint on the delay ,
+
+dialogue type : s
+D :  but beyond that it was kind of that uh using less memory was better ,
+
+dialogue type : s
+D :  and using less CPU was better .
+
+dialogue type : s
+D :  Something like that ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : h|sj^ba
+D :  Um , well I don't think we 're um completely off the wall .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D :  If we find
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  I mean we may find that we we 're not really gonna worry about the M L
+
+dialogue type : s
+D :  You know , if the MLP ultimately , after all is said and done , doesn't really help then we won't have it in .
+
+dialogue type : s
+D :  If the MLP does , we find , help us enough in some conditions , uh , we might even have more than one MLP .
+
+dialogue type : s
+D :  We could simply say that is uh , done on the uh , server .
+
+dialogue type : s.%--
+D :  And it 's
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  We do the other manipulations that we 're doing before that .
+
+dialogue type : sj^ba
+D :  So , I I I think I think that 's that 's OK .
+
+dialogue type : s
+D :  So I think the key thing was um , this plug into OGI .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : qw.%--
+D : 
+
+dialogue type : qy^rt
+D :  Do we know what they 're gonna be working on while we take their features ,
+
+dialogue type : fh
+D :  and ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s:s
+D :  There 'd be some point where you say , " OK , this is their version - one " or whatever ,
+
+dialogue type : s
+D :  and we get these VAD labels and features and so forth for all these test sets from them ,
+
+dialogue type : fh|s
+D :  and then um , uh , that 's what we work with .
+
+dialogue type : s^cs
+D :  We have a certain level we try to improve it with this other path
+
+dialogue type : s^cs.%--
+D :  and then um , uh , when it gets to be uh , January
+
+dialogue type : s.%--
+D :  some point
+
+dialogue type : s:s
+D :  uh , we say , " OK we we have shown that we can improve this , in this way .
+
+dialogue type : s^cs:qo
+D :  So now uh um what 's your newest version ? "
+
+dialogue type : sj
+D :  And then maybe they 'll have something that 's better
+
+dialogue type : s
+D :  and then we we 'd combine it .
+
+dialogue type : s
+D :  This is always hard .
+
+dialogue type : s
+D :  I mean I I I used to work with uh folks who were trying to improve a good uh , HMM system with uh with a neural net system
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Oh , and this Actually , this is true not just for neural nets
+
+dialogue type : s
+D :  but just for in general if people were working with uh , rescoring uh , N - best lists or lattices that come came from uh , a mainstream recognizer .
+
+dialogue type : s
+D :  Uh , You get something from the the other site at one point and you work really hard on making it better with rescoring .
+
+dialogue type : s
+D :  But they 're working really hard , too .
+
+dialogue type : s
+D :  So by the time you have uh , improved their score , they have also improved their score
+
+dialogue type : s
+D :  and now there isn't any difference ,
+
+dialogue type : s^df.%--
+D : 
+
+dialogue type : s.%--
+D :  So , um , I guess at some point we 'll have to
+
+dialogue type : fh
+D :  uh Uh ,
+
+dialogue type : s^bd^no
+D :  I I don't know .
+
+dialogue type : s
+D :  I think we 're we 're integrated a little more tightly than happens in a lot of those cases .
+
+dialogue type : s.%--
+D :  I think at the moment they they say that they have a better thing we can we e e
+
+dialogue type : sj
+D :  What takes all the time here is that th we 're trying so many things ,
+
+dialogue type : s
+D :  presumably uh , in a in a day we could turn around
+
+dialogue type : s
+D :  uh , taking a new set of things from them and and rescoring it ,
+
+dialogue type : qy^d^g^rt
+D :  right ?
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Well , OK .
+
+dialogue type : sj^ba
+D :  No , this is I think this is good .
+
+dialogue type : sj
+D :  I think that the most wide open thing is the issues about the uh , you know , different trainings .
+
+dialogue type : s^f|s
+D :  You know , da training targets and noises and so forth .
+
+dialogue type : s
+D :  That 's sort of wide open .
+
+dialogue type : s^bk|s
+D :  Yeah , I think for right now um , I th I I really liked MSG .
+
+dialogue type : s
+D :  And I think that , you know , one of the things I liked about it is has such different temporal properties .
+
+dialogue type : fh|s
+D :  And um , I think that there is ultimately a really good uh , potential for , you know , bringing in things with different temporal properties .
+
+dialogue type : fh
+D :  Um , but um , uh ,
+
+dialogue type : s
+D :  we only have limited time
+
+dialogue type : s
+D :  and there 's a lot of other things we have to look at .
+
+dialogue type : s
+D :  And it seems like much more core questions are issues about the training set
+
+dialogue type : s
+D :  and the training targets ,
+
+dialogue type : s
+D :  and fitting in uh what we 're doing with what they 're doing ,
+
+dialogue type : s
+D :  and , you know , with limited time .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^cs
+D :  I think we have to start cutting down .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  I think so ,
+
+dialogue type : fh
+D :  yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Um , having gone through this process and trying many different things , I would imagine that certain things uh , come up that you are curious about
+
+dialogue type : s
+D :  uh , that you 'd not getting to
+
+dialogue type : s
+D :  and so when the dust settles from the evaluation uh , I think that would time to go back and take whatever intrigued you most ,
+
+dialogue type : s
+D :  you know , got you most interested
+
+dialogue type : fh|s^cs
+D :  uh and uh and and work with it , you know , for the next round .
+
+dialogue type : s
+D :  Uh , as you can tell from these numbers uh , nothing that any of us is gonna do is actually gonna completely solve the problem .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s
+D :  So , there 'll still be plenty to do .
+
+dialogue type : s^t^tc
+D :  Barry , you 've been pretty quiet .
+
+dialogue type : s^rt
+D :  Well I figured that ,
+
+dialogue type : qw^rt
+D :  but That what what what were you involved in in this primarily ?
+
+dialogue type : s^bk
+D :  Ah !
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : qw
+D :  What 's what 's that ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^bk
+D :  Oh !
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : sj^ba
+D :  Well , that sounds interesting .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  Alright .
+
+dialogue type : qo^rt.%--
+D : 
+
+dialogue type : s^bk^m
+D :  No .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : sj^ba
+D :  Silent partner in the in the meeting .
+
+dialogue type : s
+D :  Oh , we got a laugh out of him ,
+
+dialogue type : sj^ba
+D :  that 's good .
+
+dialogue type : s
+D :  OK , everyone h must contribute to the our our sound sound files here .
+
+dialogue type : fg|s.%--
+D : 
+
+dialogue type : qy^d
+D :  You happy with where we are ?
+
+dialogue type : qy^d
+D :  Know know wher know where we 're going ?
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk
+D :  Yeah , yeah .
+
+dialogue type : qy^d^rt
+D :  You you happy ?
+
+dialogue type : s^bk
+D :  You 're happy .
+
+dialogue type : s
+D :  OK everyone should be happy .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  You don't have to be happy .
+
+dialogue type : s^rt
+D :  You 're almost done .
+
+dialogue type : s^bk
+D :  Yeah , yeah .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : fg|s^ng
+D :  Well . Yeah , I think we want a different table , at least
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s
+D :  I mean there 's there 's some different things that we 're trying to get at now .
+
+dialogue type : fh
+D : 
+
+dialogue type : qy^bu^d
+D :  So . Yeah , as far as you can tell , you 're actually OK on C - on CPU uh , for training and so on ?
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : qy^d^rt
+D :  And we 're OK on And we 're OK on disk ?
+
+dialogue type : s
+D :  But they 're correctable , uh problems .
+
+dialogue type : s^bk
+D :  Yes .
+
+dialogue type : s^bd
+D :  Yeah , I 'm familiar with that one ,
+
+dialogue type : fh
+D :  OK .
+
+dialogue type : s^t^tc
+D :  Alright ,
+
+dialogue type : fh|s
+D :  so uh , since uh , we didn't ha get a channel on for you , you don't have to read any digits
+
+dialogue type : s
+D :  but the rest of us will .
+
+dialogue type : qy^rt
+D :  Uh , is it on ?
+
+dialogue type : s
+D :  Well . We didn't
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  I think I won't touch anything
+
+dialogue type : s^df
+D :  cuz I 'm afraid of making the driver crash
+
+dialogue type : s
+D :  which it seems to do , pretty easily .
+
+dialogue type : s^ft^t3
+D :  OK , thanks .
+
+dialogue type : s^bk.%--
+D :  OK , so we 'll uh I 'll start off the
+
+dialogue type : fh
+D :  uh um
+
+dialogue type : s^co.%-
+D : 
+
+dialogue type : s
+D :  Well , let 's hope it works .
+
+dialogue type : s^co
+D :  Maybe you should go first and see
+
+dialogue type : s^df
+D :  so that you 're OK .
+
+dialogue type : z
+D :  Transcript uh
+
+dialogue type : z
+D : 
+
+dialogue type : z
+D :  Oh , OK .
+
+dialogue type : z
+D :  Yeah .
+
+dialogue type : z
+D :  Why don't you go next then .
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  Guess we 're done .
+
+dialogue type : z
+D :  OK , uh so .
+
+dialogue type : z
+D :  Just finished digits .
+
+dialogue type : z
+D :  Yeah , so . Uh
+
+dialogue type : z
+D :  Well , it 's good .
+
+dialogue type : z
+D :  I think I guess we can turn off our microphones now .
+

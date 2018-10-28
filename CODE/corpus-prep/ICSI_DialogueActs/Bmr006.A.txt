@@ -1,0 +1,492 @@
+dialogue type : z
+A :  That is weird .
+
+dialogue type : z
+A :  It 's like when it 's been sitting for a long time or something .
+
+dialogue type : z
+A :  Next time you get it maybe we should write it down .
+
+dialogue type : sj^ba
+A :  Well , great .
+
+dialogue type : sj^ba
+A :  Great .
+
+dialogue type : sj^ba
+A :  What a deal .
+
+dialogue type : s^cs^j
+A :  No crunchy food .
+
+dialogue type : s^j
+A :  " Beep . "
+
+dialogue type : sj^ba
+A :  Oh , that 's a good idea .
+
+dialogue type : qw^cs
+A :  What if you could tell them that you 'll give them the the transcripts when they come back ?
+
+dialogue type : s^bk
+A :  See you .
+
+dialogue type : qw
+A :  Where did you copy it to ?
+
+dialogue type : s^bk
+A :  Oh , on the tape .
+
+dialogue type : b
+A :  Ah !
+
+dialogue type : sj^fe
+A :  Wow !
+
+dialogue type : qy^bu^d^rt
+A :  Generating a clone ?
+
+dialogue type : s^bk
+A :  Oh !
+
+dialogue type : s^bk
+A :  Oh !
+
+dialogue type : b
+A :  Hunh !
+
+dialogue type : qr^rt
+A :  Is there a difference in price or something ?
+
+dialogue type : sj^fe
+A :  Oh !
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  Hmm . I 've been looking at the , uh , Aurora data and , um , first first look at it , there were basically three directories on there that could be moved .
+
+dialogue type : s
+A :  One was called Aurora , one was Spanish , which was Carmen 's Spanish stuff , and the other one was , um , SPINE .
+
+dialogue type : fh|s
+A :  And so , um , I wrote to Dan and he was very concerned that the SPINE stuff was moving to a non - backed - up disk .
+
+dialogue type : fh|s
+A :  So , um , I realized that well , probably not all of that should be moved , just the CD - ROM type data , the the static data .
+
+dialogue type : s
+A :  So I moved that , and then um , I asked him to check out and see if it was OK .
+
+dialogue type : s
+A :  before I actually deleted the old stuff , um , but I haven't heard back yet .
+
+dialogue type : s
+A :  I told him he could delete it if he wanted to , I haven't checked today to see if he 's deleted it or not .
+
+dialogue type : s
+A :  And then Carmen 's stuff , I realized that when I had copied all of her stuff to XA , I had copied stuff there that was dynamic data .
+
+dialogue type : s
+A :  And so , I had to redo that one and just copy over the static data .
+
+dialogue type : s
+A :  And so I need to get with her now and delete the old stuff off the disk .
+
+dialogue type : s
+A :  And then I lo haven't done any of the Aurora stuff .
+
+dialogue type : s
+A :  I have to meet with , uh , Stephane to do that .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : qy^rt
+A :  Is that the one that has is that DC ?
+
+dialogue type : s^bk
+A :  OK ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s
+A :  OK , DC .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^cs
+A :  So should , um One question I had for you was , um , we need we sh probably should move the Aurora an and all that other stuff off of the Meeting Recorder disk .
+
+dialogue type : qy.%-
+A :  Is there another backed - up disk that you know of that would ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : qy
+A :  Do you know what happen to know what disk that is off ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^cc
+A :  Alright , I 'll find out from you .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : sj^fe
+A :  Wow !
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : qy^d^rt
+A :  These will be assigned by hand ?
+
+dialogue type : qy.%-
+A : 
+
+dialogue type : s^bk
+A :  Uh - huh .
+
+dialogue type : s^2
+A :  You need truth . Hmm .
+
+dialogue type : s^bu
+A :  So you 're not using all of the data .
+
+dialogue type : qy.%-
+A : 
+
+dialogue type : qr.%--
+A :  Is your silence category pure silence , or ?
+
+dialogue type : qw
+A :  What if there was a door - slam or something ?
+
+dialogue type : s^bk
+A :  Pure silence .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qy^bu^d^rt
+A :  You have your own ?
+
+dialogue type : sj^fe
+A :  Oh !
+
+dialogue type : sj^fe
+A :  Oh !
+
+dialogue type : qw
+A :  What 's it written in ?
+
+dialogue type : b
+A :  Ah .
+
+dialogue type : s
+A :  I 've got a question .
+
+dialogue type : fg|s^bd
+A :  Yeah , I maybe this is a dumb question ,
+
+dialogue type : sj
+A :  but w I thought it would be I thought it would be easier if you used a PDA
+
+dialogue type : qy^rt
+A :  because can't you , couldn't you like use beam - forming or something to detect speaker overlaps ?
+
+dialogue type : s.%-
+A : 
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : qy^bu
+A :  Is that not allowed with this project ?
+
+dialogue type : s^ng
+A :  But I didn't mean I w Given given the goal .
+
+dialogue type : qy.%-
+A : 
+
+dialogue type : b
+A :  Mm - hmm
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^arp.%-
+A : 
+
+dialogue type : s.%-
+A :  Well , it 's
+
+dialogue type : s.%-
+A :  I don't I don't know ho
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^ng
+A :  But th I don't think that matters , though .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^bs^na
+A :  So it 's sort of like how how confused is it about where the beam is .
+
+dialogue type : qw
+A :  What looked different ?
+
+dialogue type : s^fa|s^bu.%-
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : s^bk
+A :  OK . OK .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^na
+A :  If I was if I was here and Morgan was there and we were both talking , it wouldn't work .
+
+dialogue type : b
+A :  Yes .
+
+dialogue type : s
+A : 
+
+dialogue type : qw
+A :  Well what about just doing it from these mikes ?
+
+dialogue type : qy^d^g^rt
+A :  You know ?
+
+dialogue type : s^na
+A :  That 's what I was asking about , what are the constraints ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^rt
+A :  Didn't they have something at Cape ?
+
+dialogue type : sj^fe
+A :  Oh ! I saw a demo .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  And you could In a noisy room , they could have all kinds of noises and you can zoom right in on somebody .
+
+dialogue type : sj^ba
+A :  That is cool .
+
+dialogue type : fg|s^co
+A :  No , what you need to do is you 'd have a little fabric thing that you unroll and hang on a wall .
+
+dialogue type : s^cs
+A :  It has all these mikes and it has a plug - in jack to the PDA .
+
+dialogue type : sj^fe
+A :  Ooo !
+
+dialogue type : s^cs
+A :  Network !
+
+dialogue type : s^j.%-
+A : 
+
+dialogue type : s^aa^fe
+A :  Yeah !
+
+dialogue type : s^cs
+A :  Hats ?
+
+dialogue type : s^cs
+A :  Shirts .
+
+dialogue type : qy^rt
+A :  Are they new ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^bu|qy^d^g^rt
+A :  We still have to do this , too , right ?
+
+dialogue type : qy^cs^d^rt
+A :  Digits ?
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s^aa|s^na
+A :  Right , you don't wanna do that .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg
+A : 
+
+dialogue type : qy^bu^d^rt
+A :  " The person who 's doing the transcript " The IBM people ?
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^nd
+A :  They can't do that .
+
+dialogue type : s^ng
+A :  That would be hard .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg|s
+A :  But , you know , like , at the beginning of this meeting Or , you I think said , you know , or s Liz , said something about um , uh , " is Mari gonna use the equipment ? "
+
+dialogue type : qw^ng
+A :  I mean , how would you say that ?
+
+dialogue type : s^df^ng.%-
+A :  I mean , you have to really think , you know , about what you 're saying bef
+
+dialogue type : s^aa
+A :  Yeah . Yeah .
+
+dialogue type : sj
+A :  I think it would be really hard if we made a policy where we didn't say names , plus we 'd have to tell everybody else .
+
+dialogue type : s^aa
+A :  Right .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^cs
+A :  I I think the I think I don't know , my own two cents worth is that you don't do anything about what 's in the recordings , you only anonymize to the extent you can , the speakers have signed the forms and all .
+
+dialogue type : qw^rt
+A :  Why ?
+
+dialogue type : s^df.%--
+A : 
+
+dialogue type : qw
+A :  Why do you have to know his name ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk|s^bs
+A :  Oh , I see , you wanna associated the word " Jose " in the dialogue with the fact that then he responded .
+
+dialogue type : s^cs
+A :  Well , one thing to to take into consideration is w are there any um For example , the people who are funding this work , they want this work to get out and be useful for discourse .
+
+dialogue type : s
+A :  If we all of a sudden do this and then release it to the public and it 's not longer useful for discourse ,
+
+dialogue type : qy^d^g
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^cs^j
+A :  Maybe we should just not allow anybody to do research on discourse ,
+
+dialogue type : s^j
+A :  and then , we wouldn't have to worry about it .
+
+dialogue type : s^cs^j
+A :  Mister White .
+
+dialogue type : s^bu.%-
+A :  But so , the syllables were in the same order , with respect to each other , but the acous
+
+dialogue type : qw
+A :  What did it sound like ?
+
+dialogue type : z
+A :  I think it would be fun sometime to read them with different intonations .
+
+dialogue type : z
+A :  like as if you were talking like , " nine eight six eight seven ? "
+
+dialogue type : z
+A :  Oh , really .
+
+dialogue type : z
+A :  So they were like looking ahead ,
+
+dialogue type : z
+A :  huh ?
+
+dialogue type : z
+A :  Yeah , yeah .
+
+dialogue type : z
+A :  Well , I was thinking that it must get kind of boring for the people who are gonna have to transcribe this
+
+dialogue type : z
+A :  They may as well throw in some interesting intonations .
+

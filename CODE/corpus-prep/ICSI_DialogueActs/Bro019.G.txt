@@ -1,0 +1,249 @@
+dialogue type : fg|s^rt
+G :  Um , I have I have a question about the uh , parallelization ?
+
+dialogue type : fh|s
+G :  So , um , let 's say I have like , a thousand little little jobs to do ?
+
+dialogue type : fh|qw
+G :  Um , how do I do it with " run command " ?
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^bk
+G :  Uh - huh .
+
+dialogue type : qy^2^d
+G :  A thousand times ?
+
+dialogue type : b
+G :  OK .
+
+dialogue type : s^bk
+G :  Oh ,
+
+dialogue type : s
+G :  too much file transfer and stuff .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s^2
+G :  Just do P - make .
+
+dialogue type : %
+G :  s
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : s^bk
+G :  Right .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : qy^bu^d^rt
+G :  You 're talking about your voicing ?
+
+dialogue type : h|s^nd
+G :  Um , nothing I wanna really talk about .
+
+dialogue type : s^cs
+G : 
+
+dialogue type : s^df
+G :  Sunil hasn't hasn't heard about uh , what I 've been doing .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : fh
+G :  so ,
+
+dialogue type : fh|s
+G :  um , I told you I was I was I was getting prepared to take this qualifier exam .
+
+dialogue type : s^df
+G :  So basically that 's just , um , trying to propose um , uh , your next your your following years of of your PHD work ,
+
+dialogue type : s^df
+G :  trying trying to find a project to to define and and to work on .
+
+dialogue type : s
+G :  So , I 've been , uh , looking into , um , doing something about r uh , speech recognition using acoustic events .
+
+dialogue type : fh
+G :  So ,
+
+dialogue type : s
+G :  um , the idea is you have all these these different events ,
+
+dialogue type : s^e
+G :  for example voicing ,
+
+dialogue type : s^e
+G :  nasality ,
+
+dialogue type : s^e
+G :  R - coloring ,
+
+dialogue type : s^e
+G :  you know burst
+
+dialogue type : s^e
+G :  or noise , uh , frication ,
+
+dialogue type : s^e
+G :  that kinda stuff ,
+
+dialogue type : s
+G :  um , building robust um , primary detectors for these acoustic events ,
+
+dialogue type : s
+G :  and using the outputs of these robust detectors to do speech recognition .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : fh|s
+G :  and , um , these these primary detectors , um , will be , uh , inspired by , you know , multi - band techniques , um , doing things , um , similar to Larry Saul 's work on , uh , graphical models to to detect these these , uh , acoustic events .
+
+dialogue type : fh|s
+G :  And , um , so I I been I been thinking about that
+
+dialogue type : s
+G :  and some of the issues that I 've been running into are , um , exactly what what kind of acoustic events I need ,
+
+dialogue type : s
+G :  what um , what acoustic events will provide a a good enough coverage to in order to do the later recognition steps .
+
+dialogue type : s
+G :  And , also , um , once I decide a set of acoustic events , um , h how do I how do I get labels ?
+
+dialogue type : s^e
+G :  Training data for for these acoustic events .
+
+dialogue type : s
+G :  And , then later on down the line , I can start playing with the the models themselves ,
+
+dialogue type : s^e
+G :  the the primary detectors .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : fh
+G :  so ,
+
+dialogue type : fh|s
+G :  um , I kinda see like , after after building the primary detectors I see um , myself taking the outputs and feeding them in , sorta tandem style into into a um , Gaussian mixtures HMM back - end , um , and doing recognition .
+
+dialogue type : fh
+G :  Um .
+
+dialogue type : fh|s
+G :  So , that 's that 's just generally what I 've been looking at .
+
+dialogue type : fh
+G :  Um ,
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : fg
+G :  Um ,
+
+dialogue type : qy^rt
+G :  were were you gonna say something ?
+
+dialogue type : s^bk
+G :  Oh .
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s^bk
+G :  OK ,
+
+dialogue type : s
+G :  never mind .
+
+dialogue type : fh
+G :  Um , yeah .
+
+dialogue type : s
+G :  And so , this this past week um , I 've been uh , looking a little bit into uh , TRAPS um , and doing doing TRAPS on on these e events too ,
+
+dialogue type : s
+G :  just , um , seeing seeing if that 's possible .
+
+dialogue type : fh
+G :  Uh ,
+
+dialogue type : fh
+G :  and
+
+dialogue type : fh|s
+G :  um , other than that , uh , I was kicked out of I - house for living there for four years .
+
+dialogue type : s^bk
+G :  Yeah .
+
+dialogue type : h|s^aap
+G :  Uh , well , s s som something like that .
+
+dialogue type : s^df
+G :  In Albany ,
+
+dialogue type : fh
+G :  yeah .
+
+dialogue type : fh
+G :  Yeah .
+
+dialogue type : fh
+G :  And uh .
+
+dialogue type : s^bk
+G :  Yep .
+
+dialogue type : s
+G :  That 's it .
+
+dialogue type : s^bk
+G :  Oh .
+
+dialogue type : s^r.%
+G :  Thirty - first .
+
+dialogue type : s^bk.%--
+G :  Oh r
+
+dialogue type : s^bk
+G :  oh .
+
+dialogue type : s^ar
+G :  Oh no , no .
+
+dialogue type : s^j^nd
+G :  My my cardboard box is actually a nice spacious two bedroom apartment .
+
+dialogue type : b
+G :  yeah
+

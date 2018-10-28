@@ -1,0 +1,405 @@
+dialogue type : fg|s
+A :  Alright . We 're on .
+
+dialogue type : qw
+A :  What are these ?
+
+dialogue type : qy^rt
+A :  Are you looking at one in in particular of these two ?
+
+dialogue type : qw^rt
+A :  So what 's what 's happened ?
+
+dialogue type : s
+A :  I think I 've missed something .
+
+dialogue type : s^aa
+A :  Yeah . I didn't .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : b
+A :  Mm
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : qy^bu^d^rt
+A :  So so you guys have combined or you 're going to be combining the software ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s^ba
+A :  They 're close enough .
+
+dialogue type : qw
+A :  How how is how good is that ?
+
+dialogue type : s^bd.%--
+A : 
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^2
+A :  Compared to the last evaluation numbers ? Yeah .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^bu^rt
+A :  So will the neural net operate on the output from either the Wiener filtering or the spectral subtraction ?
+
+dialogue type : qrr
+A :  Or will it operate on the original ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw
+A :  But just conceptually , where does the neural net go ?
+
+dialogue type : qy^bu
+A :  Do do you wanna h run it on the output of the spectrally subtracted ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qw
+A :  What was the issue with the VAD ?
+
+dialogue type : qy^bu^rt
+A :  And so the w the default , uh , boundaries that they provide are they 're OK , but they 're not all that great ?
+
+dialogue type : s^2
+A :  Outside the beginnings and end .
+
+dialogue type : b
+A :  Uh - huh .
+
+dialogue type : s^bk
+A :  Wow .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^bu^rt
+A :  On top of the VAD that they provide ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : qy^bu^d^rt
+A :  Theirs is fourteen ?
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : b
+A :  Huh .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^fe
+A :  Wow .
+
+dialogue type : qw
+A :  How how much latency does the , uh does our VAD add ?
+
+dialogue type : qy^rt
+A :  Is it significant ,
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : qw^rt
+A :  How how much , uh , delay was there on the LDA ?
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : qw
+A :  What amount of latency are you thinking about when you say that ?
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : qr^rt
+A :  Were you thinking of the two - fifty or the one - thirty when you said we should have enough for the neural net ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^2^bu
+A :  Which could be a kind of a funny delta .
+
+dialogue type : qy^d^g^rt
+A :  Right ?
+
+dialogue type : qy^rt
+A :  Did that help then ?
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s^bd
+A :  Uh , maybe I don't quite understand how this works ,
+
+dialogue type : qy^rt
+A :  but , um , couldn't you just send all of the frames , but mark the ones that are supposed to be dropped ?
+
+dialogue type : s^df
+A :  Cuz you have a bunch more bandwidth .
+
+dialogue type : qy^d^g^rt
+A :  Right ?
+
+dialogue type : b
+A :  Yeah . Yeah .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  If the net 's on the server side then it could use all of the frames .
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : s^cs
+A :  But you could even mark them , before they get to the server .
+
+dialogue type : s^bk
+A :  Oh ,
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : b
+A :  I see .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qw^br^rt
+A :  What was that ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : fg
+A : 
+
+dialogue type : fg|s^bd
+A :  So , uh , I I don't remember what you said the answer to my , uh , question earlier .
+
+dialogue type : qy^rt
+A :  Will you will you train the net on after you 've done the spectral subtraction or the Wiener filtering ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^bk
+A :  Oh , you 're talking about the VAD net .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  I see . I see .
+
+dialogue type : qy^rt
+A :  Can you use the same net to do both ,
+
+dialogue type : qrr.%--
+A :  or ?
+
+dialogue type : qy^rt
+A :  Can you use the same net that you that I was talking about to do the VAD ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s^bu.%-
+A :  Cuz that 's used by some of these other ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s
+A :  I thought that was only used for doing frame - dropping later on .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : qy^bu^d^rt^tc
+A :  So , Hynek is coming back next week , you said ?
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : qr.%--
+A :  Is he in Europe right now or is he up at ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b^rt
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+A :  So you 're now you 're sort of looking to try to gather a set of these types of features ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : qy^rt^t
+A :  Should we do digits ?
+
+dialogue type : s^co
+A :  Go ahead , Morgan .
+
+dialogue type : s^co
+A :  You can start .
+
+dialogue type : z
+A :  OK .
+
+dialogue type : z
+A :  And we 're off .
+

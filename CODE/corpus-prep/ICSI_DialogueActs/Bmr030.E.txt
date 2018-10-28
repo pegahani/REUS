@@ -1,0 +1,882 @@
+dialogue type : s^rt
+E :  And we 're on .
+
+dialogue type : fh
+E :  So , uh
+
+dialogue type : s^t^tc
+E : 
+
+dialogue type : s^bsc
+E :  ITR ,
+
+dialogue type : s^fa
+E :  excuse me ,
+
+dialogue type : s^rt.x
+E :  which was originally pretty big , but it 's divided among many sites ,
+
+dialogue type : s
+E :  and they , like , cut the budget by a th by two thirds .
+
+dialogue type : s
+E :  So they they approved it for all the sites ,
+
+dialogue type : s
+E :  but only gave us like sixty - two percent of the money .
+
+dialogue type : s
+E :  Or , excuse me , cut it by sixty - two percent .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  And the other condition is that they have to get a budget out , like , immediately ,
+
+dialogue type : s
+E :  or the or they 'll give the money to someone else .
+
+dialogue type : s
+E :  So Morgan 's working on that .
+
+dialogue type : s
+E :  So , I mean , it 's good news .
+
+dialogue type : s
+E :  It 's not as good as it could have been
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  The the I T Rs are , you know , a a long shot , and so it 's it 's really nice that we got that .
+
+dialogue type : s^rt
+E :  Information Technology Research ?
+
+dialogue type : s^rt
+E :  Something like that ?
+
+dialogue type : s.%-
+E : 
+
+dialogue type : fg|s
+E :  Yeah , it was specifically on the meeting .
+
+dialogue type : qy^rt
+E :  So , d was that the one that was the meeting maps ?
+
+dialogue type : s^bk
+E :  OK , good .
+
+dialogue type : s
+E :  I liked that one .
+
+dialogue type : s
+E :  Well , the the sort of general idea was , you can think about meetings at lots of different levels ,
+
+dialogue type : s
+E :  all the way d from all the way down to acoustics to all the way up to dialogue , discourse , topic .
+
+dialogue type : qr
+E :  And so this this was , how do you map all that information onto that ?
+
+dialogue type : s
+E :  a onto the meeting domain .
+
+dialogue type : s
+E :  So that the the analogy was you have maps of different things at different resolutions .
+
+dialogue type : fh
+E :  And so , uh ,
+
+dialogue type : s
+E :  So this had a lot of different stuff in it .
+
+dialogue type : s^na
+E :  It 's mostly higher level .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^ba
+E :  It 's a it 's a cool idea .
+
+dialogue type : s^cs
+E :  And if we can actually get it get it going that would be neat .
+
+dialogue type : s.%--
+E :  So And uh , this was the one also that was ,
+
+dialogue type : fh
+E :  uh ,
+
+dialogue type : qy^rt
+E :  Was it with Susan Ervin - Tripp ?
+
+dialogue type : s
+E :  She 's a linguist on campus .
+
+dialogue type : s^tc
+E :  Anyway .
+
+dialogue type : s^t^tc
+E :  So , other topics I wanted to talk about are , um , the DARPA demo which , I guess , since Morgan isn't here we can't really talk about .
+
+dialogue type : s
+E :  I just wanted to make sure it was ready to go .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  Your stuff is all ready
+
+dialogue type : qy^rt
+E :  so it 's just a question of , did Morgan get around to testing it .
+
+dialogue type : s
+E :  Yeah , I got it . With the instructions .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : fg|s^cs
+E :  Yeah , so I guess we ge we had better be on call for a little while .
+
+dialogue type : s^no
+E :  I don't know .
+
+dialogue type : s^df
+E :  I haven't spoken with him .
+
+dialogue type : s
+E :  Alt Tab .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^df
+E :  I think the problem was that , I was t saying " hit Alt Tab " with the assumption that he knew what I meant .
+
+dialogue type : s
+E :  But he didn't .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s
+E :  But it doesn't .
+
+dialogue type : s^r
+E :  It doesn't .
+
+dialogue type : s:s^co
+E :  And and all I said was oh just cycle through with Alt Tab
+
+dialogue type : s^rt
+E :  because that 's the standard way of doing
+
+dialogue type : s
+E :  But of course he doesn't use Windows .
+
+dialogue type : fh
+E :  So ,
+
+dialogue type : s
+E :  he didn't know what I meant .
+
+dialogue type : s
+E :  Hold down at hold down Alt ,
+
+dialogue type : s
+E :  and then tap Tab several times
+
+dialogue type : s
+E :  and you 'll cycle through all the open applications .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^ba
+E :  That 's a good idea .
+
+dialogue type : s^ba^r
+E :  That 's not a bad idea at all ,
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s^aa|s^e.%-
+E : 
+
+dialogue type : s
+E :  I mean the Tcl - TK overhead is pretty high ,
+
+dialogue type : s
+E :  but it shouldn't matter .
+
+dialogue type : s
+E :  I think he had one twenty - eight ,
+
+dialogue type : fh
+E :  eh ,
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  It was faster than my PC .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s
+E :  I assume . But they 're all doing Communicator stuff .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s
+E :  I mean , the talk 's only twenty minutes .
+
+dialogue type : s
+E :  So . You know , all this time we spent on it 's gonna be thirty seconds of screen time .
+
+dialogue type : fg|%-
+E :  Yeah , I
+
+dialogue type : s^bsc
+E :  Actually , both of them .
+
+dialogue type : s^df.%--
+E : 
+
+dialogue type : fh
+E : 
+
+dialogue type : s^co
+E : 
+
+dialogue type : s.%--
+E :  with the uh ,
+
+dialogue type : s^bk^m
+E :  prosody stuff anyway .
+
+dialogue type : s^cs
+E :  Um , so , actually , at some point w we should talk to users of that technology who are actually gonna be using it
+
+dialogue type : s^e
+E :  and see what they would like to see .
+
+dialogue type : s^2
+E :  Audio .
+
+dialogue type : s^ba
+E :  And the stylized F - naught features are pretty cool .
+
+dialogue type : s^rt
+E :  So , these this it 's - does a piece - wise linear
+
+dialogue type : s^rt
+E :  and so , normally if you look at an F - naught track , it jumps all over the place .
+
+dialogue type : s
+E :  This is a nice smooth one
+
+dialogue type : s
+E :  and it really does a good job .
+
+dialogue type : s
+E :  It 's a combination .
+
+dialogue type : %-
+E :  Uh , t
+
+dialogue type : qy^rt
+E :  G Actually could you email me a reference to that paper ? If you have it ?
+
+dialogue type : s^df
+E :  Cuz I 'm sorta curious how what criteria it has .
+
+dialogue type : s
+E :  I mean , so , there 's obviously a trade - off between the number of knots y you pick , and the best fit .
+
+dialogue type : s
+E :  I mean , so , if you 're doing a piece - wise linear , you have to figure out how many pieces you want .
+
+dialogue type : s
+E :  And so there 's a trade - off
+
+dialogue type : s^df
+E :  because the best the best mean squared fit would be with an infinite number of knots .
+
+dialogue type : s
+E :  Well , sure it is .
+
+dialogue type : %-
+E :  But
+
+dialogue type : s
+E :  So so you There 's a trade - off
+
+dialogue type : s
+E :  and I 'm wondering what criteria they use .
+
+dialogue type : b.x
+E :  Mm - hmm .
+
+dialogue type : s^2^j
+E :  Dot com .
+
+dialogue type : s^df
+E :  No , I you said " at SRI "
+
+dialogue type : s
+E :  so I had to add the " dot com " .
+
+dialogue type : b.%
+E :  Hmm .
+
+dialogue type : s^rt^t^tc
+E :  So , other topic is , uh , the IBM transcription status stuff .
+
+dialogue type : s
+E :  So we 've sent a few to them .
+
+dialogue type : s
+E :  We 've gotten a few back .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : s
+E :  I sorta wish Jane was were here
+
+dialogue type : s^df.%--
+E : 
+
+dialogue type : qy^rt
+E :  Didn't she give one of them to one of the transcribers ?
+
+dialogue type : qw
+E :  And , how was it ?
+
+dialogue type : s^ba
+E :  Great .
+
+dialogue type : s^2
+E :  Hand .
+
+dialogue type : s
+E :  Well , but that 's what we wanted .
+
+dialogue type : qy^d^f^g
+E :  Right .
+
+dialogue type : s^rt
+E :  We knew it would be longer to have multiple groups .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  Well , pipelined .
+
+dialogue type : s^bs
+E :  The idea is that we 're taking less time of the linguists .
+
+dialogue type : s
+E :  Of the transcribers .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s^cs
+E :  We might wanna revisit hiring our own external transcription company .
+
+dialogue type : s^df
+E :  Because I think that would be cheaper than having our people do it ,
+
+dialogue type : s^cs
+E :  but do it with the same process with these beep files .
+
+dialogue type : s
+E :  I mean , cuz , originally I had disc discounted that
+
+dialogue type : s^df
+E :  because it was just gonna be too hard .
+
+dialogue type : s^rt
+E :  But now we have this procedure with the beep files worked out .
+
+dialogue type : s
+E :  Then maybe it would be OK .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : s^na
+E :  And we might wanna do that anyway .
+
+dialogue type : s^df
+E :  Because it seems like that 's being a bottleneck and that 's silly .
+
+dialogue type : s
+E :  It shouldn't be a bottleneck .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s
+E :  It may well have been partially that , you know ,
+
+dialogue type : s
+E :  because they tried it ,
+
+dialogue type : s^rt
+E :  and then they would have to listen to the tape and find out where it bleeps ,
+
+dialogue type : s
+E :  and go forward in the file , et cetera , et cetera .
+
+dialogue type : fh
+E :  But , uh ,
+
+dialogue type : s^df
+E :  it just seems like it 's not hard for us to do ,
+
+dialogue type : s^df
+E :  and that would just make things go faster .
+
+dialogue type : s^rt
+E :  Get a tape deck ,
+
+dialogue type : s^rt
+E :  plug it in to the computer ,
+
+dialogue type : s
+E :  hit record ,
+
+dialogue type : s^e
+E :  on the tape deck ,
+
+dialogue type : s
+E :  and just do it all all uh , analog .
+
+dialogue type : s^aap
+E :  Well , line out .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg|s
+E :  So I mean , that 's the easy way .
+
+dialogue type : s
+E :  They might have a more complex set - up at IBM .
+
+dialogue type : s
+E :  I 've seen digital digital analog tapes where it 's controlled by the computer .
+
+dialogue type : s
+E :  But w But we don't need to do that .
+
+dialogue type : s^rt
+E :  The the disadvantage of doing it this way is it 's real time .
+
+dialogue type : s
+E :  So you would have to sit there for an hour while it 's recording .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aa|s^ba
+E :  Right . It 's not a big deal .
+
+dialogue type : s^2
+E :  Master .
+
+dialogue type : fg
+E : 
+
+dialogue type : s
+E :  We should at least ask , um , Brian if there are any particular requirements for putting things on tape .
+
+dialogue type : qh
+E :  Is there a particular type of tape that they want to use or anything else like that ?
+
+dialogue type : fh
+E : 
+
+dialogue type : s^cs
+E :  And then we should see how much of a pain it is for one of us .
+
+dialogue type : s
+E :  I mean the o the other problem is you would wanna r do it on an unloaded machine .
+
+dialogue type : qy^d^f^g
+E :  Right ?
+
+dialogue type : s^df
+E :  Because you wouldn't want it to start stuttering .
+
+dialogue type : s
+E :  And that means That that 's more of a problem
+
+dialogue type : s^df
+E :  because y then you have to be there .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : s^aa
+E :  Mm - hmm .
+
+dialogue type : s
+E :  It could be either .
+
+dialogue type : s
+E :  I mean , there are lots of different places .
+
+dialogue type : s
+E :  It can be delay on the disk ,
+
+dialogue type : s
+E :  or it can be just load gets high on the machine .
+
+dialogue type : s
+E :  Um , either IO load or processor load .
+
+dialogue type : s
+E :  You know , it 's a problem with these multi - user systems is that lots of processes are running
+
+dialogue type : s
+E :  and you don't t really have control .
+
+dialogue type : %-
+E :  Wha
+
+dialogue type : s^aa
+E :  That 's true .
+
+dialogue type : %-
+E : 
+
+dialogue type : fg|s
+E : 
+
+dialogue type : s^ar|s^df
+E :  No , because we 're doing the beep files .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : s^cs
+E :  Or you could just You could have it no active connection .
+
+dialogue type : s^cs^e
+E :  Just SCP them .
+
+dialogue type : s^cs
+E :  Actually , it wouldn't be bad to have that , plus put on that machine a CD burner .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s^bk^m|s^aa
+E :  A DVD burner , yeah .
+
+dialogue type : qh
+E :  I guess the real question is , where would we put it and who would do it ?
+
+dialogue type : s
+E :  I guess whoever records the meeting .
+
+dialogue type : s^ba
+E :  I mean , it it 's not a big deal ,
+
+dialogue type : s^df
+E :  but it 's yet another thing you have to do .
+
+dialogue type : s^ar|s^df
+E :  No , because the transcription company does what they do .
+
+dialogue type : s
+E :  Actually there are a few I saw a web - based one at one point .
+
+dialogue type : s
+E :  Where you could send them audio files over the web
+
+dialogue type : s
+E :  and they send you back text files over the web .
+
+dialogue type : s
+E :  I should look that up again .
+
+dialogue type : x
+E :  Mmm . Mmm .
+
+dialogue type : s
+E :  I assume that you can send them anything that they can access with HTTP .
+
+dialogue type : s
+E :  Half a gig .
+
+dialogue type : s^ar
+E :  Oh , no , wait .
+
+dialogue type : s
+E :  They 're the beep files .
+
+dialogue type : s^aa|s
+E :  Yeah , it 's a p hundred meg .
+
+dialogue type : s^df
+E :  They 're the beep files .
+
+dialogue type : s^aa
+E :  That 's right .
+
+dialogue type : s
+E :  So they 're smaller .
+
+dialogue type : s^aa
+E :  Yes .
+
+dialogue type : s^bu
+E :  And we are sending them the compressed ones ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^2
+E :  Were " shortened " .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  The beep files , actually the " shorten " doesn't save a whole lot .
+
+dialogue type : qy^d^f^g
+E :  Right ?
+
+dialogue type : s^df
+E :  Because the whole point is that it 's extracting pie pars parts that are loud anyway .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s
+E :  I think it only saves , like , half .
+
+dialogue type : fg|s^cs^t^tc
+E :  OK . So I think we just gotta let things slide for now ,
+
+dialogue type : s^e
+E :  and see see what 's gonna happen .
+
+dialogue type : s
+E :  Nothing else really to do .
+
+dialogue type : fg
+E :  Um ,
+
+dialogue type : s
+E :  We have new equipment that I 'm gonna try to set up tomorrow .
+
+dialogue type : s^e
+E :  New wireless .
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  Give us a couple more wireless channels .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : s^df
+E :  But it involves rewiring .
+
+dialogue type : s^cs.%--
+E :  And so , if I could borrow someone tomorrow afternoon to help my brain .
+
+dialogue type : s^df
+E :  You know , just have someone to bounce the instructions off of
+
+dialogue type : s^df^e
+E :  and make sure I don't do anything too stupid .
+
+dialogue type : qy^rt
+E :  Did I have another topic on the on the list ?
+
+dialogue type : %-
+E : 
+
+dialogue type : qw
+E :  Wha - what did I have on the agenda I mailed out ?
+
+dialogue type : s^aa|s
+E :  Yeah , that 's it .
+
+dialogue type : s
+E :  That was it .
+
+dialogue type : s^aa^m
+E :  Short meeting ?
+
+dialogue type : qy^rt
+E :  Does anyone have anything else ?
+
+dialogue type : qy
+E :  Do we have new DD disks also ?
+
+dialogue type : s^ba
+E :  Darn .
+
+dialogue type : s^bu
+E :  So , it 's all just scratch .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : qw.%--
+E : 
+
+dialogue type : s^ar|s
+E :  No , DE is full .
+
+dialogue type : s
+E :  We must be doing it on D F .
+
+dialogue type : s^bk|s
+E :  OK , I guess I 'm just one off .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^2
+E :  Half .
+
+dialogue type : s^ba
+E :  So that means we 're p getting pretty close .
+
+dialogue type : s^ba^fe
+E :  Shoot !
+
+dialogue type : s
+E :  I just hate not to get data .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^cs
+E :  I The other thing we could do is stop doing the regular ones .
+
+dialogue type : s^cs
+E :  And try to convince other topics to come in and do some .
+
+dialogue type : s^ba
+E :  Cuz I think that would be nice .
+
+dialogue type : s
+E :  Yeah , the other thing we were talking about also is once we exp once the disk has been backed up , we don't actually need it on - line .
+
+dialogue type : s^cs
+E :  So another option is to copy it to tape manually
+
+dialogue type : s^cs^e
+E :  so we have the back - up copy and the tape copy ,
+
+dialogue type : s^e
+E :  the archive copy and the back - up copy .
+
+dialogue type : s^cs
+E :  And then just take them off - line .
+
+dialogue type : s^aa
+E :  Once we have the expanded versions .
+
+dialogue type : s^cs
+E :  So if we have a ton of scratch disk maybe the thing to do is leave those up ,
+
+dialogue type : s^cs
+E :  and then use And then not necessarily have the original data on - line .
+
+dialogue type : s^2
+E :  Full .
+
+dialogue type : s^ba^ng
+E :  Well , that would be pretty tight i in the machine room .
+
+dialogue type : s^ba^fe
+E :  Eesh !
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : qw
+E :  What are they called ?
+
+dialogue type : qw
+E :  What are they named ?
+
+dialogue type : s
+E :  I assume they 're in the P - make pool .
+
+dialogue type : s
+E :  P - make stuff .
+
+dialogue type : s
+E :  P - make magic .
+
+dialogue type : s
+E :  Or customs magic .
+
+dialogue type : s^cs
+E :  If you do " man customs " , it has almost all of that .
+
+dialogue type : qy^rt
+E :  Do we have an attribute for non - interactive machines ?
+
+dialogue type : s^df
+E :  Cuz I was thinking that would be a good one to have .
+
+dialogue type : s^e
+E :  Ones that aren't on people 's desks .
+
+dialogue type : s^bk
+E :  Y right .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : fg
+E :  Anyway .
+
+dialogue type : qy^rt
+E :  Shall we do digits ?
+
+dialogue type : z
+E :  And off .
+

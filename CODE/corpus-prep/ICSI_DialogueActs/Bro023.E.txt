@@ -1,0 +1,252 @@
+dialogue type : qy^d^rt
+E :  Th - that 's his spectral subtraction group ?
+
+dialogue type : qy
+E :  Is that right ?
+
+dialogue type : s^bk
+E :  Oh , OK .
+
+dialogue type : qy^cs^d^rt
+E :  So I guess I should probably talk to him a bit too ?
+
+dialogue type : s^aa
+E :  Oh , OK .
+
+dialogue type : fg|s
+E :  So , um , since we 're looking at putting this , um mean log m magnitude spectral subtraction , um , into the SmartKom system , I I did a test seeing if , um , it would work using past only and plus the present to calculate the mean .
+
+dialogue type : s
+E :  So , I did a test , um , where I used twelve seconds from the past and the present frame to , um , calculate the mean .
+
+dialogue type : %-
+E : 
+
+dialogue type : h
+E : 
+
+dialogue type : s^na
+E :  Twelve seconds , um , counting back from the end of the current frame ,
+
+dialogue type : s^aa
+E :  yeah .
+
+dialogue type : s
+E :  So it was , um , twen I think it was twenty - one frames
+
+dialogue type : s
+E :  and that worked out to about twelve seconds .
+
+dialogue type : s^rt
+E :  And compared to , um , do using a twelve second centered window , I think there was a drop in performance
+
+dialogue type : s
+E :  but it was just a slight drop .
+
+dialogue type : qy^rt
+E :  Is is that right ?
+
+dialogue type : s^bk
+E :  Uh - huh .
+
+dialogue type : s
+E :  So that was encouraging .
+
+dialogue type : fh
+E :  And , um ,
+
+dialogue type : s^e
+E :  that that um , that 's encouraging for for the idea of using it in an interactive system like
+
+dialogue type : fh|s
+E :  And , um , another issue I 'm I 'm thinking about is in the SmartKom system .
+
+dialogue type : s
+E :  So say twe twelve seconds in the earlier test seemed like a good length of time ,
+
+dialogue type : qw
+E :  but what happens if you have less than twelve seconds ?
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  So I w bef before , um Back in May , I did some experiments using , say , two seconds , or four seconds , or six seconds .
+
+dialogue type : s
+E :  In those I trained the models using mean subtraction with the means calculated over two seconds , or four seconds , or six seconds .
+
+dialogue type : fh
+E :  And , um ,
+
+dialogue type : s
+E :  here , I was curious , what if I trained the models using twelve seconds
+
+dialogue type : s
+E :  but I f I gave it a situation where the test set I was subtracted using two seconds , or four seconds , or six seconds .
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  So I did that for about three different conditions .
+
+dialogue type : fh
+E : 
+
+dialogue type : s.%--
+E :  I mean , I th I think it was , um , four se
+
+dialogue type : s^r
+E :  I think I think it was , um , something like four seconds and , um , six seconds , and eight seconds .
+
+dialogue type : s
+E :  Something like that .
+
+dialogue type : s
+E :  And it seems like it it it hurts compared to if you actually train the models using th that same length of time
+
+dialogue type : s^df
+E :  but it it doesn't hurt that much .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : s^e
+E :  u usually less than point five percent ,
+
+dialogue type : s^rt
+E :  although I think I did see one where it was a point eight percent or so rise in word error rate .
+
+dialogue type : s^df
+E :  But this is , um , w where , um , even if I train on the , uh , model , and mean subtracted it with the same length of time as in the test , it the word error rate is around , um , ten percent or nine percent .
+
+dialogue type : s^df
+E :  So it doesn't seem like that big a d a difference
+
+dialogue type : s^aa
+E :  That that 's true .
+
+dialogue type : fh
+E :  Um ,
+
+dialogue type : %
+E :  Wa
+
+dialogue type : s.%-
+E :  Um , t twelve s
+
+dialogue type : s^nd
+E :  N n uh For the test it 's just twelve seconds in the past .
+
+dialogue type : s
+E :  Of of speech .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : s
+E :  And that 's actually what we 're planning to do in
+
+dialogue type : %--
+E : 
+
+dialogue type : s
+E :  s so I g So I guess the que the question I was trying to get at with those experiments is , " does it matter what models you use ?
+
+dialogue type : s^e
+E :  Does it matter how much time y you use to calculate the mean when you were , um , tra doing the training data ? "
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : h
+E :  Um ,
+
+dialogue type : qy^bu^rt
+E :  you do you mean in my tests so far ?
+
+dialogue type : s
+E :  Most of the silence has been cut out .
+
+dialogue type : s
+E :  Just There 's just inter - word silences .
+
+dialogue type : s^2
+E :  Pretty short .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : h|s^ng
+E :  Well , if I only use six seconds , it still works pretty well .
+
+dialogue type : s^df
+E :  I saw in my test before .
+
+dialogue type : s^df
+E :  I was trying twelve seconds cuz that was the best in my test before
+
+dialogue type : s^df
+E :  and that increasing past twelve seconds didn't seem to help .
+
+dialogue type : fh
+E :  th um , yeah ,
+
+dialogue type : s
+E :  I guess it 's something I need to play with more to decide how to set that up for the SmartKom system .
+
+dialogue type : s^cs^e.%--
+E : 
+
+dialogue type : b
+E :  OK .
+
+dialogue type : %
+E :  M
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg
+E :  S so , um ,
+
+dialogue type : qy^bu^d^rt
+E :  the the idea of the second pass would be waiting till you have more recorded speech ?
+
+dialogue type : qrr.%--
+E :  Or ?
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^na
+E :  I guess that 's it .
+

@@ -1,0 +1,1533 @@
+dialogue type : z
+C :  Yeah , we had a long discussion about how much w how easy we want to make it for people to bleep things out .
+
+dialogue type : z
+C :  So
+
+dialogue type : z
+C :  Morgan wants to make it hard .
+
+dialogue type : z
+C :  Did did did it ?
+
+dialogue type : z
+C :  I didn't even check yesterday whether it was moving .
+
+dialogue type : z
+C :  So .
+
+dialogue type : z
+C :  Channel three ?
+
+dialogue type : z
+C :  Channel three ?
+
+dialogue type : z
+C :  Mm - hmm ?
+
+dialogue type : z
+C :  Yeah ,
+
+dialogue type : z
+C :  it has a little indicator on it on the AF .
+
+dialogue type : z
+C :  Yep .
+
+dialogue type : z
+C :  Test .
+
+dialogue type : z
+C :  What ?
+
+dialogue type : z
+C :  Did you see Hannibal recently or something ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk|s
+C :  Yeah , I 'm I 'm familiar with that .
+
+dialogue type : s
+C :  I mean , we I sort of already have developed an XML format for this sort of stuff .
+
+dialogue type : s
+C :  And so the only question is it the sort of thing that you want to use or not ?
+
+dialogue type : qy^rt
+C :  Have you looked at that ?
+
+dialogue type : s^df
+C :  I mean , I had a web page up .
+
+dialogue type : fg
+C : 
+
+dialogue type : qy^d^rt^t3
+C : 
+
+dialogue type : s
+C :  I guess I am gonna be standing up and drawing on the board .
+
+dialogue type : s
+C :  Um , so so it definitely had that as a concept .
+
+dialogue type : s
+C :  So tha it has a single time - line ,
+
+dialogue type : s
+C :  and then you can have lots of different sections ,
+
+dialogue type : s
+C :  each of which have I Ds attached to it ,
+
+dialogue type : s
+C :  and then you can refer from other sections to those I Ds ,
+
+dialogue type : s^e
+C :  if you want to .
+
+dialogue type : s.%--
+C :  So that ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^df
+C :  so that you start with with a time - line tag .
+
+dialogue type : s^t1
+C :  " Time - line " .
+
+dialogue type : s
+C :  And then you have a bunch of times .
+
+dialogue type : s^no
+C :  I don't e I don't remember exactly what my notation was ,
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bk
+C :  Yeah ,
+
+dialogue type : s^t1
+C :  " T equals one point three two " ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  And then I I also had optional things like accuracy ,
+
+dialogue type : s^t1
+C :  and then " ID equals T one , uh , one seven " .
+
+dialogue type : s
+C :  And then , I also wanted to to be i to be able to not specify specifically what the time was and just have a stamp .
+
+dialogue type : s
+C :  Yeah , so these are arbitrary , assigned by a program ,
+
+dialogue type : s^e
+C :  not not by a user .
+
+dialogue type : s
+C :  So you have a whole bunch of those .
+
+dialogue type : s
+C :  And then somewhere la further down you might have something like an utterance tag
+
+dialogue type : s^e
+C :  which has " start equals T - seventeen ,
+
+dialogue type : s^e
+C :  end equals T - eighteen " .
+
+dialogue type : s:s
+C :  So what that 's saying is , we know it starts at this particular time .
+
+dialogue type : s:s^no
+C :  We don't know when it ends .
+
+dialogue type : qy^d^f^g^rt
+C :  Right ?
+
+dialogue type : s
+C :  But it ends at this T - eighteen ,
+
+dialogue type : s^e
+C :  which may be somewhere else .
+
+dialogue type : s
+C :  We say there 's another utterance .
+
+dialogue type : s
+C :  We don't know what the t time actually is
+
+dialogue type : s
+C :  but we know that it 's the same time as this end time .
+
+dialogue type : s^e
+C :  You know , thirty - eight ,
+
+dialogue type : s
+C :  whatever you want .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^aa
+C :  Yes ,
+
+dialogue type : s^aa
+C :  exactly .
+
+dialogue type : s
+C :  And then , uh and then these also have I Ds .
+
+dialogue type : qy^d^f^g^rt
+C :  Right ?
+
+dialogue type : s^cs
+C :  So you could you could have some sort of other other tag later in the file that would be something like , um , oh , I don't know , uh , " noise - type equals door - slam " .
+
+dialogue type : qy^d^f^g
+C :  You know ?
+
+dialogue type : s^cs
+C :  And then , uh , you could either say "
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  " Prosody "
+
+dialogue type : qy^d^f^g^rt
+C :  right ? D ? T ?
+
+dialogue type : qy^bu^d^rt
+C :  D ? T ?
+
+dialogue type : qy^bu^d^rt
+C :  T ?
+
+dialogue type : qy^d^j^rt
+C :  You like the D ?
+
+dialogue type : s^ba
+C :  That 's a good D .
+
+dialogue type : fg
+C :  Um ,
+
+dialogue type : s
+C :  you know , so you could have some sort of type here ,
+
+dialogue type : s.%--
+C :  and then you could have ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  the utterance that it 's referring to could be U - seventeen or something like that .
+
+dialogue type : s^bk
+C :  Oh , well .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s
+C :  That 's , the who that 's why you do that extra level of indirection .
+
+dialogue type : s^df
+C :  So that you can just change the time - line .
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : fg|%-
+C : 
+
+dialogue type : s^ng
+C :  I don't think I would do this for phone - level .
+
+dialogue type : s
+C :  I think for phone - level you want to use some sort of binary representation
+
+dialogue type : s^df
+C :  because it 'll be too dense otherwise .
+
+dialogue type : s
+C :  I would use just an existing an existing way of doing it .
+
+dialogue type : s^nd
+C :  It 's parsing limitations .
+
+dialogue type : s
+C :  I don't want to have this text file that you have to read in the whole thing to do something very simple for .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : %--
+C :  I mean , you 'd y
+
+dialogue type : s
+C :  I I am imagining you 'd have multiple versions of this depending on the information that you want .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I think for word - level , this would be OK .
+
+dialogue type : s
+C :  For word - level , it 's alright .
+
+dialogue type : s^no
+C :  For lower than word - level , you 're talking about so much data that I just I don't know .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fg|s
+C :  Yeah , I mean , for something like that I would use P - file
+
+dialogue type : s
+C :  or or any frame - level stuff I would use P - file .
+
+dialogue type : s
+C :  Uh , that 's a well , or something like it .
+
+dialogue type : s
+C :  It 's ICS uh , ICSI has a format for frame - level representation of features .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^aa^r
+C :  Right .
+
+dialogue type : s
+C :  Or or there 's a there 's a particular way in XML to refer to external resources .
+
+dialogue type : s:s^co
+C :  So you would say " refer to this external file " .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  More compact ,
+
+dialogue type : s^ba
+C :  which I think is is better .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Anything at frame - level you had better encode binary
+
+dialogue type : s^df
+C :  or it 's gonna be really painful .
+
+dialogue type : s^nd
+C :  Well , but if you 're talking about one per frame , you 're talking about gigabyte - size files .
+
+dialogue type : s^df
+C :  You 're gonna actually run out of space in your filesystem for one file .
+
+dialogue type : qy^d^f^g^rt
+C :  Right ?
+
+dialogue type : s^df
+C :  Because you have a two - gigabyte limit on most O Ss .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : s
+C :  So I think it it 's debatable whether you want to do phone - level in the same thing .
+
+dialogue type : s^ba
+C :  But I think , a anything at frame - level , even P - file , is too verbose .
+
+dialogue type : s^cs
+C :  I would use something tighter than P - files .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^ng
+C :  It 's whatever you want , actually .
+
+dialogue type : s.%--
+C :  So that what 's nice about the P - file It i
+
+dialogue type : s
+C :  Built into it is the concept of frames , utterances , sentences , that sort of thing , that structure .
+
+dialogue type : s
+C :  And then also attached to it is an arbitrary vector of values .
+
+dialogue type : s
+C :  And it can take different types .
+
+dialogue type : s
+C :  So it th they don't all have to be floats .
+
+dialogue type : s^e
+C :  You know , you can have integers and you can have doubles , and all that sort of stuff .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : s
+C :  And it has a header it has a header format that describes it to some extent .
+
+dialogue type : fh
+C :  So ,
+
+dialogue type : s
+C :  the only problem with it is it 's actually storing the utterance numbers and the frame numbers in the file ,
+
+dialogue type : s^e
+C :  even though they 're always sequential .
+
+dialogue type : s
+C :  And so it does waste a lot of space .
+
+dialogue type : s
+C :  But it 's still a lot tighter than than ASCII .
+
+dialogue type : s
+C :  And we have a lot of tools already to deal with it .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^na
+C :  there 's a ton of it .
+
+dialogue type : s^df
+C :  Man - pages and , uh , source code , and me .
+
+dialogue type : s^bk|s^nd
+C :  Yeah , it 's not standard .
+
+dialogue type : s^df^nd
+C :  I mean , it 's something that we developed at ICSI .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^m^na
+C :  But it 's been used here
+
+dialogue type : s
+C :  and and , you know , we have a well - configured system that you can distribute for free ,
+
+dialogue type : %-
+C : 
+
+dialogue type : qw
+C :  Well , what does H T K do for features ?
+
+dialogue type : qy
+C :  Or does it even have a concept of features ?
+
+dialogue type : qy^cs^df^rt
+C :  I 'm just wondering , would it be worth while to use that instead ?
+
+dialogue type : s^na
+C :  They generate their own .
+
+dialogue type : s^bk
+C :  Ah , right .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^na
+C :  Yeah , I mean , they 'd be emo enormous .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^cs
+C :  We should look at ATLAS ,
+
+dialogue type : s^e
+C :  the NIST thing ,
+
+dialogue type : s^cs
+C :  and see if they have anything at that level .
+
+dialogue type : s^no
+C :  I mean , I 'm not sure what to do about this with ATLAS ,
+
+dialogue type : s^df
+C :  because they chose a different route .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Th - there are sort of two choices .
+
+dialogue type : s^e
+C :  Your your file format can know about know that you 're talking about language and speech , which is what I chose , and time ,
+
+dialogue type : s^e
+C :  or your file format can just be a graph representation .
+
+dialogue type : s
+C :  And then the application has to impose the structure on top .
+
+dialogue type : s
+C :  So what it looked like ATLAS chose is , they chose the other way ,
+
+dialogue type : s^e
+C :  which was their file format is just nodes and links ,
+
+dialogue type : s^e
+C :  and you have to interpret what they mean yourself .
+
+dialogue type : s
+C :  Uh , because I knew that we were doing speech ,
+
+dialogue type : s
+C :  and I thought it was better if you 're looking at a raw file to be t for the tags to say " it 's an utterance " , as opposed to the tag to say " it 's a link " .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^na
+C :  they 're reasonably compatible .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : fg
+C :  So ,
+
+dialogue type : s
+C :  well , the other thing is if we choose to use ATLAS , which maybe we should just do , we should just throw this out before we invest a lot of time in it .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  I mean , I I chose this for a couple reasons .
+
+dialogue type : s^df
+C :  One of them is that it 's easy to parse .
+
+dialogue type : s^df
+C :  You don't need a full XML parser .
+
+dialogue type : s^df
+C :  It 's very easy to just write a Perl script to parse it .
+
+dialogue type : s^aa
+C :  Exactly .
+
+dialogue type : s^aa^r
+C :  Exactly .
+
+dialogue type : s
+C :  Which I always do .
+
+dialogue type : s
+C :  Well , I have it structured .
+
+dialogue type : qy^d^f^g^rt
+C :  Right ?
+
+dialogue type : s
+C :  So each type tag has only particular items that it can take .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s^2
+C :  If you have more information .
+
+dialogue type : s:s
+C :  So what What NIST would say is that instead of doing this , you would say something like " link start equals , um , you know , some node ID ,
+
+dialogue type : s:s
+C :  end equals some other node ID " ,
+
+dialogue type : s
+C :  and then " type " would be " utterance " .
+
+dialogue type : s
+C :  You know , so it 's very similar .
+
+dialogue type : s^2
+C :  Write a translator .
+
+dialogue type : fg
+C :  But it se
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  they 're developing a big infrastructure .
+
+dialogue type : s^cs.%-
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^no
+C :  The last time I looked at it was a while ago ,
+
+dialogue type : s^e
+C :  probably a year ago ,
+
+dialogue type : s^e
+C :  uh , when we first started talking about this .
+
+dialogue type : s^nd
+C :  And at that time at least it was still not very complete .
+
+dialogue type : s^e^nd
+C :  And so , specifically they didn't have any external format representation at that time .
+
+dialogue type : s^e
+C :  They just had the sort of conceptual node uh , annotated transcription graph ,
+
+dialogue type : s^e
+C :  which I really liked .
+
+dialogue type : s
+C :  And that 's exactly what this stuff is based on .
+
+dialogue type : s
+C :  Since then , they 've developed their own external file format ,
+
+dialogue type : s^e
+C :  which is , uh , you know , this sort of s this sort of thing .
+
+dialogue type : fh|s
+C :  Um , and apparently they 've also developed a lot of tools ,
+
+dialogue type : s
+C :  but I haven't looked at them .
+
+dialogue type : s^cs
+C :  Maybe I should .
+
+dialogue type : h|s
+C :  Um , th what would would would what would worry me is that maybe we might miss a little detail
+
+dialogue type : s^df
+C :  that would make it very difficult to translate from one to the other .
+
+dialogue type : s^aa|s^na
+C :  Yeah , we might as well .
+
+dialogue type : s^bk
+C :  Yep .
+
+dialogue type : s^cc
+C :  So I 'll I 'll take a closer look at it .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s
+C :  The other thing the other way that I sort of established this was as easy translation to and from the Transcriber format .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bk
+C :  Yep .
+
+dialogue type : s
+C :  It 's almost the same .
+
+dialogue type : s
+C :  The the the the point is with this , though , is that you can't really add any supplementary information .
+
+dialogue type : qy^d^f^g^rt
+C :  Right ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^m^na
+C :  You 'd have to make a different type .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^na
+C :  Huge .
+
+dialogue type : h
+C :  Um ,
+
+dialogue type : s
+C :  there 's a spea speaker tag up at the top which identifies them
+
+dialogue type : s.%--
+C :  and then each utt
+
+dialogue type : s
+C :  the way I had it is each turn or each utterance , I don't even remember now , had a speaker ID tag attached to it .
+
+dialogue type : s
+C :  And in this format you would have a different tag ,
+
+dialogue type : s
+C :  which which would , uh , be linked to the link .
+
+dialogue type : s.%--
+C :  So so somewhere else you would have another thing that would be ,
+
+dialogue type : fh
+C : 
+
+dialogue type : qr^t1
+C :  Let 's see , would it be a node or a link ?
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  And so so this one would have , um , an ID is link link seventy - four or something like that .
+
+dialogue type : s
+C :  And then somewhere up here you would have a link that that , uh , you know , was referencing L - seventy - four and had speaker Adam .
+
+dialogue type : fh
+C :  You know ,
+
+dialogue type : s
+C :  or something like that .
+
+dialogue type : s
+C :  This isn't quite right .
+
+dialogue type : s
+C :  I have to look at it again .
+
+dialogue type : h|s
+C :  Um , you would have another structure lower down than this that would be saying they 're all belonging to this ID .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  And then each utterance could refer to a turn ,
+
+dialogue type : s
+C :  and each turn could refer to something higher up .
+
+dialogue type : s^df
+C :  Well , that 's why I didn't call it " sentence " .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s
+C :  I mean , so you would you would have yet another tag .
+
+dialogue type : s
+C :  You 'd have another tag which says this is of type " sentence " .
+
+dialogue type : fh
+C :  And ,
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s
+C :  You would have another tag somewhere .
+
+dialogue type : s
+C :  It 's well , there 're two ways of doing it .
+
+dialogue type : s^df
+C : 
+
+dialogue type : s^df
+C :  type equals " sentence " ,
+
+dialogue type : s^df
+C :  and ID is " S - whatever " .
+
+dialogue type : s^df
+C :  And then lower down you could have an utterance .
+
+dialogue type : s^df
+C :  So the type is " utterance " equals " utt " .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^no
+C : 
+
+dialogue type : s
+C :  I take that back .
+
+dialogue type : qy^rt
+C :  Can you can you say that this is part of this ,
+
+dialogue type : qrr
+C :  or do you say this is part of this ?
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fg
+C : 
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^cs
+C :  Well , I think I 'm I think w I had better look at it again
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : s
+C :  There 's one level there 's one more level of indirection that I 'm forgetting .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^na
+C :  I I 'm pretty sure that you can do that ,
+
+dialogue type : s^no
+C :  but I 'm forgetting the exact level of nesting .
+
+dialogue type : s:s
+C :  So so what you would end up having is a tag saying " here 's a word ,
+
+dialogue type : s:s
+C :  and it starts here and it ends here " .
+
+dialogue type : s:s
+C :  And then lower down you would say " here 's a prosodic boundary
+
+dialogue type : s:s
+C :  and it has these words in it " .
+
+dialogue type : s:s
+C :  And lower down you 'd have " here 's a sentence ,
+
+dialogue type : s:s
+C :  and it has these words in it " .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : s.%--
+C :  So I think that 's that would wor
+
+dialogue type : s^co
+C :  Let me look at it again .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : fg
+C : 
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : qy^rt
+C :  Is the rising pitch a feature ,
+
+dialogue type : qrr
+C :  or is it gonna be in the same file ?
+
+dialogue type : fg
+C : 
+
+dialogue type : s
+C :  I mean , that 's gonna be hard regardless ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s^df
+C :  Because you 're gonna have to write a program that goes through your feature file and looks for rising pitches .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  Well , in that case you would add that to this format
+
+dialogue type : %--
+C :  r
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^ng
+C :  You have that .
+
+dialogue type : s
+C :  There 's a standard again in XML , specifically for searching XML documents structured X - XML documents , where you can specify both the content and the structural position .
+
+dialogue type : s^df
+C :  You use it as a tool .
+
+dialogue type : s^df^r
+C :  You use it as a tool ,
+
+dialogue type : s^df
+C :  not an end - user .
+
+dialogue type : s^df
+C :  It 's not an end - user thing .
+
+dialogue type : s^df
+C :  It 's it 's you would use that to build your tool to do that sort of search .
+
+dialogue type : s^ng
+C :  It 's a graph ,
+
+dialogue type : fh
+C : 
+
+dialogue type : fg
+C :  Well ,
+
+dialogue type : s^ar
+C :  no , no , no .
+
+dialogue type : s^df
+C :  The whole point is that the text and the lattice are isomorphic .
+
+dialogue type : s
+C :  They represent each other completely .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : %-
+C :  I mean th
+
+dialogue type : s^bk|s^df^ng
+C :  Yeah , but that 's gonna be the trouble no matter what .
+
+dialogue type : qy^d^g
+C :  Right ?
+
+dialogue type : s^df
+C : 
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^2
+C :  Transfer .
+
+dialogue type : fg
+C : 
+
+dialogue type : s
+C :  One of the things that ATLAS is doing is they 're trying to define an API which is independent of the back store ,
+
+dialogue type : s^df
+C :  so that , uh , you could define a single API and the the storage could be flat XML files or a database .
+
+dialogue type : s^ba
+C :  My opinion on that is for the s sort of stuff that we 're doing , I suspect it 's overkill to do a full relational database , that , um , just a flat file and , uh , search tools I bet will be enough .
+
+dialogue type : s
+C :  But that 's the advantage of ATLAS , is that if we actually take decide to go that route completely and we program to their API , then if we wanted to add a database later it would be pretty easy .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s^bd^na
+C :  I guess I 'm just a little hesitant to try to go whole hog on sort of the the whole framework that that NIST is talking about , with ATLAS and a database and all that sort of stuff ,
+
+dialogue type : s^df
+C :  cuz it 's a big learning curve , just to get going .
+
+dialogue type : s^cs^df
+C :  Whereas if we just do a flat file format , sure , it may not be as efficient
+
+dialogue type : s^df
+C :  but everyone can program in Perl and and use it .
+
+dialogue type : qy^d^f^g
+C :  Right ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : qw^df^nd^rt
+C :  Well , if it 's not representing it , then how do you recover it ?
+
+dialogue type : s^nd
+C :  Of course it 's representing it .
+
+dialogue type : s^df
+C :  That 's the whole point .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ng
+C :  Well , that was a different point .
+
+dialogue type : qy^d^g^rt
+C :  Right ?
+
+dialogue type : s^df.%-
+C : 
+
+dialogue type : s^df^ng
+C :  For Perl if you want to just do Perl .
+
+dialogue type : s^nd
+C :  If you wanted to use the structured XML query language , that 's a different thing .
+
+dialogue type : s^df
+C :  And it 's a set of tools that let you specify given the D - DDT DTD of the document , um , what sorts of structural searches you want to do .
+
+dialogue type : s^e
+C :  So you want to say that , you know , you 're looking for , um , a tag within a tag within a particular tag that has this particular text in it , um , and , uh , refers to a particular value .
+
+dialogue type : s^e
+C :  And so the point isn't that an end - user , who is looking for a query like you specified , wouldn't program it in this language .
+
+dialogue type : s^e
+C :  What you would do is , someone would build a tool that used that as a library .
+
+dialogue type : s^df
+C :  So that they so that you wouldn't have to construct the internal representations yourself .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  I think that there are quick and dirty solutions ,
+
+dialogue type : s
+C :  and then there are long - term , big - infrastructure solutions .
+
+dialogue type : s^cs
+C :  And so we want to try to pick something that lets us do a little bit of both .
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I mean , I have to look at it again to see whether it can really do what we want ,
+
+dialogue type : s
+C :  but if we use the ATLAS external file representation , um , it seems like it 's rich enough that you could do quick tools just as I said in Perl ,
+
+dialogue type : s
+C :  and then later on if we choose to go up the learning curve , we can use the whole ATLAS inter infrastructure ,
+
+dialogue type : s^e
+C :  which has all that built in .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s^cs
+C :  Well , I wouldn't wait for the formats , because anything you pick we 'll be able to translate to another form .
+
+dialogue type : s
+C :  Hi , Jane .
+
+dialogue type : qy^t3.%--
+C : 
+
+dialogue type : s^ba^t3
+C :  Oh , well .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s
+C :  We 're about done .
+
+dialogue type : h|s^cs
+C :  Well , I think the other thing we might want to look at is alternatives to P - file .
+
+dialogue type : s^df
+C :  I mean , th the reason I like P - file is I 'm already familiar with it ,
+
+dialogue type : s^df
+C :  we have expertise here ,
+
+dialogue type : s
+C :  and so if we pick something else , there 's the learning - curve problem .
+
+dialogue type : s^df
+C :  But , I mean , it is just something we developed at ICSI .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^na
+C :  There 's an API for it .
+
+dialogue type : fh
+C :  And , uh ,
+
+dialogue type : s^na
+C :  a bunch of libraries , P - file utilities .
+
+dialogue type : s^ng
+C :  Well , that 's gonna be a problem no matter what .
+
+dialogue type : s^df
+C :  You have the two - gigabyte limit on the filesystem size .
+
+dialogue type : s^e
+C :  And we definitely hit that with Broadcast News .
+
+dialogue type : s^bk
+C :  Yep .
+
+dialogue type : s^ng
+C :  Most of the tools can handle that .
+
+dialogue type : s.%--
+C :  So that
+
+dialogue type : s
+C :  we didn't do it at the API - level .
+
+dialogue type : s
+C :  We did it at the t tool - level .
+
+dialogue type : s
+C :  That that most many of them can s you can specify several P - files
+
+dialogue type : s
+C :  and they 'll just be done sequentially .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s
+C :  I mean , if you do " man P - file " or " apropos P - file " , you 'll see a lot .
+
+dialogue type : s^no
+C :  I have no idea .
+
+dialogue type : s^df
+C :  I didn't de I didn't develop it .
+
+dialogue type : s^df
+C :  You know , it was I think it was Dave Johnson .
+
+dialogue type : s^df
+C :  So it 's all part of the Quicknet library .
+
+dialogue type : s^e
+C :  It has all the utilities for it .
+
+dialogue type : qy^bh^rt
+C :  Oh , were they ?
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  The Quicknet library has a bunch of things in it to handle P - files ,
+
+dialogue type : s
+C :  so it works pretty well .
+
+dialogue type : s^t3
+C :  Neither do I .
+
+dialogue type : qy^d^rt
+C :  It 's a Phil file ?
+
+dialogue type : s
+C :  Yeah , I 've been meaning to look at the ATLAS stuff again anyway .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bk|s.%-
+C :  Yeah , I think it it w
+
+dialogue type : s
+C :  And , w uh , as I said , I what I did with this stuff I based it on theirs .
+
+dialogue type : s^df
+C :  It 's just they hadn't actually come up with an external format yet .
+
+dialogue type : s^df
+C :  So now that they have come up with a format , it doesn't it seems pretty reasonable to use it .
+
+dialogue type : s^cc
+C :  But let me look at it again .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  There 's one level there 's one more level of indirection
+
+dialogue type : s
+C :  and I 'm just blanking on exactly how it works .
+
+dialogue type : s^cc
+C :  I gotta look at it again .
+
+dialogue type : s^bk|s
+C :  Yeah , I 've seen it .
+
+dialogue type : s^bk
+C :  Yep .
+
+dialogue type : s^2
+C :  Easy easy to map .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : qy.%--
+C : 
+
+dialogue type : s.%--
+C :  I mean , it doesn't .
+
+dialogue type : s
+C :  I mean , that not for the topic of this meeting .
+
+dialogue type : qy^cs^j.%--
+C :  Should should we mention some names on the people who are n ?
+
+dialogue type : s^bk
+C :  Yep .
+
+dialogue type : s
+C :  I I don't see any way that file formats are gonna help us with that .
+
+dialogue type : s^df
+C :  It 's it 's all a question of semantic .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^2
+C :  Diff .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s^bk
+C :  Yep .
+
+dialogue type : s
+C :  There 's actually a diff library you can use to do things like that that so you have different formats .
+
+dialogue type : s^bk|s^ng
+C :  Yeah , I think it 's gonna be very hard .
+
+dialogue type : s^df
+C :  Any sort of structured anything when you try to merge is really , really hard
+
+dialogue type : s^df.%--
+C :  because you ha i
+
+dialogue type : s^df
+C :  The hard part isn't the file format .
+
+dialogue type : s^df
+C :  The hard part is specifying what you mean by " merge " .
+
+dialogue type : s^ba
+C :  And that 's very difficult .
+
+dialogue type : s^na.%-
+C :  But this is exactly what I mean , is that that the problem i
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^aa
+C :  exactly .
+
+dialogue type : s:qw
+C :  The problem is saying " what are the semantics ,
+
+dialogue type : s:qw
+C :  what do you mean by " merge " ? "
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s
+C :  And then you did diff .
+
+dialogue type : s^bk
+C :  Yeah ,
+
+dialogue type : s
+C :  that 's just what I thought .
+
+dialogue type : s
+C :  That 's just wh how I would have done it .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s^2
+C : 
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  But unfortunately they 've also hand - edited it .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : fg
+C :  Well ,
+
+dialogue type : qw
+C :  what if they haven't notated with them , times ?
+
+dialogue type : fg|s.%--
+C : 
+
+dialogue type : s^ba
+C :  I think his his example is a good one .
+
+dialogue type : s
+C :  Imagine that this person who developed the corpus of the referring expressions didn't include time .
+
+dialogue type : s
+C :  He included references to words .
+
+dialogue type : s
+C :  He said that at this word is when when it happened .
+
+dialogue type : s^m^na
+C :  Or she .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : qw^ng^rt
+C :  But what if what if they change the words ?
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s^arp
+C :  But they could have changed it a little .
+
+dialogue type : s
+C :  The the point is , that that they may have annotated it off a word transcript that isn't the same as our word transcript ,
+
+dialogue type : qw
+C :  so how do you merge it back in ?
+
+dialogue type : s
+C :  I understand what you 're saying .
+
+dialogue type : s
+C :  And I I guess the answer is , um , it 's gonna be different every time .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I it 's exactly what I said before ,
+
+dialogue type : s
+C :  which is that " what do you mean by " merge " ? "
+
+dialogue type : qw
+C :  So in this case where you have the words and you don't have the times , well , what do you mean by " merge " ?
+
+dialogue type : s
+C :  If you tell me what you mean , I can write a program to do it .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s
+C :  And that 's about all you can do .
+
+dialogue type : fg|s
+C :  So so in so in this one you would have to do a best match between the word sequences ,
+
+dialogue type : s
+C :  extract the times f from the best match of theirs to yours ,
+
+dialogue type : s
+C :  and use that .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^aa
+C :  Right ,
+
+dialogue type : s^aa
+C :  exactly .
+
+dialogue type : s
+C :  So it could get very , very ugly .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  More digits , the better .
+
+dialogue type : fg
+C :  OK ,
+
+dialogue type : s.%--
+C :  this is
+
+dialogue type : z
+C :  Oh , right .
+

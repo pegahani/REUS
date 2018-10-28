@@ -1,0 +1,357 @@
+dialogue type : s^cs^rt.x
+A :  New version of the presegmentation .
+
+dialogue type : s^m.%
+A :  Per digit .
+
+dialogue type : s.%
+A :  Place .
+
+dialogue type : b.%
+A :  Yeah .
+
+dialogue type : fg|s^rt
+A :  Uh , oh yeah , um , I worked a little bit on the on the presegmentation to to get another version which does channel - specific , uh , speech - nonspeech detection .
+
+dialogue type : s
+A :  And , what I did is I used some normalized features which , uh , look in into the which is normalized energy , uh , energy normalized by the mean over the channels and by the , minimum over the , other .
+
+dialogue type : s^bsc^rt
+A :  within each channel .
+
+dialogue type : fh|s^rt
+A :  And to to , mm , to , yeah , to normalize also loudness and and modified loudness and things and that those special features actually are in my feature vector .
+
+dialogue type : s^rt
+A :  And , and , therefore to be able to , uh , somewhat distinguish between foreground and background speech in in the different in each channel .
+
+dialogue type : s^rt
+A :  And , eh , I tested it on on three or four meetings and it seems to work , well yeah , fairly well , I I would say .
+
+dialogue type : s^rt
+A :  There are some problems with the lapel mike .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fh
+A :  Uh , yeah .
+
+dialogue type : %-
+A :  And .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : fg
+A :  And .
+
+dialogue type : s^aa|s.%-
+A :  Yeah , and and I had I had , uh , specific problems with .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : fg|s
+A :  Yeah yeah , then I I did some some some things like that ,
+
+dialogue type : s^df^rt
+A :  as there there are some some problems in , when , in the channel , there they the the speaker doesn't doesn't talk much or doesn't talk at all .
+
+dialogue type : s
+A :  Then , the , yeah , there are there are some problems with with with n with normalization , and , then , uh , there the system doesn't work at all .
+
+dialogue type : sj
+A :  So , I 'm I 'm glad that there is the the digit part , where everybody is forced to say something ,
+
+dialogue type : sj^ba
+A :  so , that 's that 's great for for my purpose .
+
+dialogue type : s
+A :  And , the thing is I I , then the evaluation of of the system is a little bit hard , as I don't have any references .
+
+dialogue type : s^aa|s
+A :  Yeah , that 's the one one wh where I do the training on so I can't do the evaluation on
+
+dialogue type : qy^rt
+A :  So the thing is , can the transcribers perhaps do some , some some meetings in in terms of speech - nonspeech in in the specific channels ?
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : sj^ba
+A :  Oh , great .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : sj^ba
+A :  OK , that 's great .
+
+dialogue type : sj^ba^r^rt
+A :  That 's great
+
+dialogue type : fh
+A :  for me . Yeah , so .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b.%
+A :  Yeah .
+
+dialogue type : b.%
+A :  Yeah .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b.%
+A :  Yeah .
+
+dialogue type : s^arp|s^cs
+A :  so , yeah yeah , that that that 's great , but what would be nice to have some more meetings , not just one meeting to to be sure that that , there is a system ,
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : sj^cs
+A :  It seems to me that it would be good to have , a few minutes from from different meetings ,
+
+dialogue type : h
+A :  so .
+
+dialogue type : s^e^no
+A :  But I 'm not sure about how much .
+
+dialogue type : s
+A : 
+
+dialogue type : s^r
+A :  both .
+
+dialogue type : s
+A :  Different different number of speakers , different speakers , different conditions .
+
+dialogue type : s^arp.%-
+A :  Yeah , m
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : h|s^ar.%-
+A : 
+
+dialogue type : s^df^na|s^aa
+A :  uh , because of the normalization , yeah .
+
+dialogue type : b.%
+A :  Yeah .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : qy^bu
+A :  With the recognizer ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : fg
+A :  Yeah .
+
+dialogue type : %-
+A :  M
+
+dialogue type : s^cs
+A :  I I would quite like to have some manually transcribed references for for the system , as I 'm not sure if if it 's really good to compare with with some other automatic , found boundaries .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah sure .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^2.%--
+A :  To a adjust them , or ,
+
+dialogue type : s^aa
+A :  yeah .
+
+dialogue type : s^aa^r
+A :  Yeah , yeah .
+
+dialogue type : s^aa
+A :  Yeah , great .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : sj^ba
+A :  OK , great .
+
+dialogue type : s
+A :  If it 's not the first minute of of the meeting , that that 's OK with me ,
+
+dialogue type : s
+A :  but , in in the first minute , uh , Often there are some some strange things going on which which aren't really , well , for , which which aren't re re really good .
+
+dialogue type : fh|s^rt
+A :  So . What what I 'd quite like , perhaps , is , to have , some five minutes of of of different meetings ,
+
+dialogue type : fh
+A :  so .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  I I could do a a retraining with that , yeah .
+
+dialogue type : s
+A :  That 's but but I hope that I I don't need to do it .
+
+dialogue type : s
+A :  So , uh it c can be do in an unsupervised way .
+
+dialogue type : %-
+A :  So .
+
+dialogue type : s^am
+A :  I 'm I 'm not sure ,
+
+dialogue type : s
+A :  but , for for for those three meetings whi which I which I did , it seems to be , quite well ,
+
+dialogue type : s
+A :  but , there are some some as I said some problems with the lapel mike ,
+
+dialogue type : s^cs
+A :  but , perhaps we can do something with with cross - correlations to , to get rid of the of those .
+
+dialogue type : fh
+A :  And .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s
+A :  That 's that 's what I that 's my future work .
+
+dialogue type : s
+A :  Well well what I want to do is to to look into cross - correlations for for removing those , false overlaps .
+
+dialogue type : s^no
+A :  I 'm I 'm not sure , um , if if there are any wired mikes in those meetings , or , uh , I have have to loo have a look at them
+
+dialogue type : s^ar
+A :  but , I 'm I 'm I think there 's no difference between ,
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa^r
+A :  Yeah .
+
+dialogue type : s^ar.%
+A :  No .
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  Yeah , I know , some of the NSA meetings , yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : %-
+A :  That 's that 's .
+
+dialogue type : fg
+A :  So .
+
+dialogue type : qr^rt.%--
+A :  Do the transcribers actually start wi with , uh , transcribing new meetings , or are they ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b.%
+A :  Yeah .
+
+dialogue type : b.%
+A :  OK .
+
+dialogue type : b.%
+A :  Yeah .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Sure .
+
+dialogue type : s
+A :  I I I thought that perhaps the transcribers could start then from the those mult multi - channel , uh , speech - nonspeech detections , if they would like to .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yep .
+
+dialogue type : z
+A :  S s
+

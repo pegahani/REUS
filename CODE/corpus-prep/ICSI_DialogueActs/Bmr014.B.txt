@@ -1,0 +1,276 @@
+dialogue type : qr.%--
+B :  " Spikes " , you mean like uh , instantaneous click type spikes , or ?
+
+dialogue type : b.%
+B :  Huh .
+
+dialogue type : s^cs
+B :  You could try an experiment and say " OK , I 'm about to test for spikes " ,
+
+dialogue type : s^cs
+B :  and then wiggle the thing there ,
+
+dialogue type : s
+B :  and then go and when they go to transcribe it , it could , ask them to come and get you .
+
+dialogue type : s^cs^e
+B :  " Come get me when you transcribe this and see if there 's spikes . "
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^r
+B :  That 'll help a lot , actually .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s
+B :  I would I would also guess that as we get more into processing the data and things like that there 'll be more things of interest to him .
+
+dialogue type : s^rt
+B :  I don't quite understand how that how that works , .
+
+dialogue type : %--
+B : 
+
+dialogue type : s^bu
+B :  So we 're not increasing the number of channels .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : s^bu
+B :  Three wireds work ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  I checked them this morning ,
+
+dialogue type : s^na
+B :  they should be .
+
+dialogue type : qy^bu^rt
+B :  SRI ,
+
+dialogue type : qy^bh^rt
+B :  really ?
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s^na
+B :  Yeah .
+
+dialogue type : s^am
+B :  He might have .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^d^g
+B :  You know , Jane ?
+
+dialogue type : s.%--
+B :  Um , one suggestion
+
+dialogue type : s^df
+B :  and you may already be doing this ,
+
+dialogue type : s.%--
+B :  but I 've noticed in the past that when I 've gone through transcriptions and you know in in order to build lexicons and things ,
+
+dialogue type : s.%-
+B :  if you um , just take all the transcriptions and separate them into words and then alphabetize them , a lot of times just scanning down that list you 'll find a lot of inconsistencies and mis
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk|s
+B :  Oh so you already have that ,
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s.%--
+B :  Cuz a lot of times they 'll appear next to each other , and uh ,
+
+dialogue type : s
+B :  i in alphabetized lists , they 'll appear next to each other and and so it makes it easier .
+
+dialogue type : sj^ba
+B :  Oh that 's great .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : %--
+B : 
+
+dialogue type : qw
+B :  for the person who missed " gobbledy - gook " what did they put ?
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : sj^ba^rt
+B :  Oh good .
+
+dialogue type : qy^bu^d^rt
+B :  Sort of how it sounds .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^ba
+B :  Boy , they 're moving right along .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy^rt
+B :  Are are people going to be allowed to bleep out sections of a meeting where they weren't speaking ?
+
+dialogue type : qy^bu^rt
+B :  So that means other people are editing what you say ?
+
+dialogue type : s^no
+B :  I don't know if I like that .
+
+dialogue type : s^aap
+B :  So far .
+
+dialogue type : qw.%--
+B : 
+
+dialogue type : qw
+B :  When you display it on the web page , what are what are you showing them ?
+
+dialogue type : qy^bu^rt
+B :  Utterances ,
+
+dialogue type : qrr.%-
+B :  or ?
+
+dialogue type : qy^rt
+B :  And so can they bleep within an utterance ?
+
+dialogue type : s^bk^m
+B :  Whole utterances .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s
+B :  I know where you 're going .
+
+dialogue type : s^bs
+B :  I think what Morgan 's saying is the easier it is , the more is gonna be bleeped .
+
+dialogue type : s^bu
+B :  So you 're saying the the sequence would be more like first Adam goes to the contact lists , contacts them via whatever their preferred method is , to see if they want to review the meeting .
+
+dialogue type : s
+B :  And then if they don't , you 're done .
+
+dialogue type : s
+B :  If they do , then he provides them access to the the web site .
+
+dialogue type : s
+B :  Or a printed - out form .
+
+dialogue type : s^e
+B :  Only if they want it .
+
+dialogue type : s^na
+B :  I think it probably leaves it open how we get it to them .
+
+dialogue type : s
+B :  Sarcasm ,
+
+dialogue type : qw
+B :  how do you how do you indicate sarcasm ?
+
+dialogue type : s
+B :  Any sub - word level thing .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s
+B :  There were quite a few .
+
+dialogue type : b.%-
+B :  Uh .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : sj^ba
+B :  Oh good .
+
+dialogue type : z
+B :  You know having this headset reminds me of like working at Burger King or something .
+
+dialogue type : z
+B :  No I never did .
+
+dialogue type : z
+B :  But I feel like I could now .
+

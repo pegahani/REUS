@@ -1,0 +1,138 @@
+dialogue type : qy.%-
+F :  Can I
+
+dialogue type : s^fa
+F :  Sorry to interrupt .
+
+dialogue type : fh|s.x
+F :  Um , I f f f I 've @ @ d A minute uh , several minutes ago , I , like , briefly was was not listening
+
+dialogue type : qw^rt.x:s
+F :  and So who is " he " in this context ?
+
+dialogue type : fg
+F :  OK .
+
+dialogue type : s:s
+F :  So I was just realizing we 've You guys have been talking about " he " um for at least uh , I don't know , three three four minutes without ever mentioning the person 's name again .
+
+dialogue type : sj^ba
+F :  So this is this is this is gonna be a big , big problem if you want to later do uh , you know , indexing , or speech understanding of any sort .
+
+dialogue type : qy^bu^d^rt.x
+F :  You just wrote this ?
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa|s^df
+F :  Right , but I missed it .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : fg|s^cs.%-
+F :  Well , if you ha since you have to um go over the transcripts later anyway , you could make it one of the jobs of the people who do that to mark
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^no.x:s
+F :  Well , I still don't know who " he " is .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : s.x
+F :  But no . The inference stuff was was was Lokendra .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s
+F :  That makes sense , yeah .
+
+dialogue type : s^j
+F :  As opposed to the rest of us .
+
+dialogue type : s^bu^j
+F :  Not speech not speech or too much speech .
+
+dialogue type : s^ba
+F :  That 's good .
+
+dialogue type : fg|qy.%--
+F : 
+
+dialogue type : qr.%-
+F :  you know , did she miss some overlaps ? or did she n ?
+
+dialogue type : s^aa
+F :  Right . Right .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  No , of course .
+
+dialogue type : s.x
+F :  I expect you to find more overlaps than than Jane
+
+dialogue type : s^df
+F :  because you 're looking at it at a much more detailed level .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^cs
+F :  Or you can set the threshold low and then weed out the false alarms by hand .
+
+dialogue type : fh
+F :  Yeah .
+
+dialogue type : s
+F :  And it might be different for government people .
+
+dialogue type : %-
+F :  They
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s
+F :  I was these meetings I 'm sure someone thought of this , but these this uh reading of the numbers would be extremely helpful to do um adaptation .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s.%
+F :  Ciao .
+
+dialogue type : s
+F :  I 'm signing off .
+

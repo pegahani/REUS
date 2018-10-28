@@ -1,0 +1,942 @@
+dialogue type : s^bk|s^t^tc
+B :  OK . We 're on .
+
+dialogue type : fg|s^bu
+B :  Yeah , he suggested a smaller capacitor ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : qy^d^g^rt
+B :  For the P D
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qw^rt
+B :  What 's the cut - off frequency it used ?
+
+dialogue type : qy^rt
+B :  Is it like twenty ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : qy^rt
+B :  Did somebody notice it during your talk ?
+
+dialogue type : b
+B :  Huh .
+
+dialogue type : qy^2^bu^d
+B :  Didn't say anything ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mm - hmm . Mm - hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^e
+B :  So like one instant in time .
+
+dialogue type : s^cs^j
+B :  You could just you could just throw up , you know , uh the uh some MFCC feature vectors .
+
+dialogue type : s^j
+B :  You know , one from one , one from the other , and then , you know , you can look and see how different the numbers are .
+
+dialogue type : s^df
+B :  I 'm just kidding .
+
+dialogue type : s
+B :  I don't mean a graph .
+
+dialogue type : s^e
+B :  I mean the actual numbers .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^j:qy^d
+B :  " See how different these sequences of numbers are ? "
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^rt
+B :  It 's not the square .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Yeah I looked at um looked at the results when Stephane did that
+
+dialogue type : s
+B :  and it 's it 's really wo really happens .
+
+dialogue type : s^rt
+B :  I mean th the only difference is you change the self - loop transition probability by a tenth of a percent
+
+dialogue type : s
+B :  and it causes ten percent difference in the word error rate .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^fa
+B :  I I 'm sorry
+
+dialogue type : s
+B :  f for point from You change at point one
+
+dialogue type : s
+B :  and n not tenth of a percent , one tenth ,
+
+dialogue type : qy^d^f^g
+B :  alright ?
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  so from point six to point five and you get ten percent better .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^rt
+B :  you know get stuck in some local minimum
+
+dialogue type : s
+B :  and this thing throws you out of it I guess .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^na
+B :  That 's supposed to be point six , for the self - loop .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  which gives you much better results ,
+
+dialogue type : s
+B :  but that 's not allowed .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa^rt
+B :  Yeah .
+
+dialogue type : fg|s^bu
+B :  Right . We only tested it on the the medium mismatch ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : qy^bu^d.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Somebody , I think it was Morgan , suggested at the last meeting that I actually count to see how many parameters and how many frames .
+
+dialogue type : s
+B :  And there are uh almost one point eight million frames of training data
+
+dialogue type : s
+B :  and less than forty thousand parameters in the baseline system .
+
+dialogue type : s
+B :  So it 's very , very few parameters compared to how much training data .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^rt
+B :  I did one quick experiment just to make sure I had everything worked out
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^rt
+B :  For for all of the digit models , they end up at three mixtures per state .
+
+dialogue type : s
+B :  And so I just did a quick experiment , where I changed it so it went to four
+
+dialogue type : s
+B :  and um it it it didn't have a r any significant effect at the uh medium mismatch and high mismatch cases
+
+dialogue type : s
+B :  and it had it was just barely significant for the well - matched
+
+dialogue type : s
+B :  better .
+
+dialogue type : s
+B :  Uh so I 'm r gonna run that again but um with many more uh mixtures per state .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^rt.%--
+B :  And I think also just seeing what we saw uh in terms of the expected duration of the silence model ?
+
+dialogue type : s^rt.%--
+B :  when we did this tweaking of the self - loop ?
+
+dialogue type : s
+B :  The silence model expected duration was really different .
+
+dialogue type : s
+B :  And so in the case where um it had a better score , the silence model expected duration was much longer .
+
+dialogue type : s
+B :  So it was like it was a better match .
+
+dialogue type : s
+B :  I think you know if we make a better silence model I think that will help a lot too
+
+dialogue type : s
+B :  um for a lot of these cases
+
+dialogue type : fh
+B :  so
+
+dialogue type : s
+B :  but one one thing I I wanted to check out before I increased the um number of mixtures per state was uh in their default training script they do an initial set of three re - estimations
+
+dialogue type : s
+B :  and then they built the silence model
+
+dialogue type : s
+B :  and then they do seven iterations then the add mixtures
+
+dialogue type : s
+B :  and they do another seven then they add mixtures
+
+dialogue type : s
+B :  then they do a final set of seven and they quit .
+
+dialogue type : sj^ba
+B :  Seven seems like a lot to me
+
+dialogue type : s^df
+B :  and it also makes the experiments go take a really long time
+
+dialogue type : s
+B :  I mean to do one turn - around of the well matched case takes like a day .
+
+dialogue type : s
+B :  And so you know in trying to run these experiments I notice , you know , it 's difficult to find machines , you know , compute the run on .
+
+dialogue type : s
+B :  And so one of the things I did was I compiled HTK for the Linux machines
+
+dialogue type : s
+B :  cuz we have this one from IBM that 's got like five processors in it ?
+
+dialogue type : s
+B :  and so now I 'm you can run stuff on that and that really helps a lot because now we 've got you know , extra machines that we can use for compute .
+
+dialogue type : s^rt
+B :  And if I 'm do running an experiment right now where I 'm changing the number of iterations ? from seven to three ?
+
+dialogue type : s
+B :  just to see how it affects the baseline system .
+
+dialogue type : s^df
+B :  And so if we can get away with just doing three , we can do many more experiments more quickly .
+
+dialogue type : s^df
+B :  And if it 's not a a huge difference from running with seven iterations , um , you know , we should be able to get a lot more experiments done .
+
+dialogue type : s
+B :  And so . I 'll let you know what what happens with that .
+
+dialogue type : s
+B :  But if we can you know , run all of these back - ends f with many fewer iterations and on Linux boxes we should be able to get a lot more experimenting done .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  So I wanted to experiment with cutting down the number of iterations before I increased the number of Gaussians .
+
+dialogue type : qy^bu^d^rt
+B :  So it it weights the improvement on the well - matched case really heavily compared to the improvement on the other cases ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Yeah , and it 's hard to improve on the on the best case ,
+
+dialogue type : s
+B :  cuz it 's already so good ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : fg
+B :  Well .
+
+dialogue type : s
+B :  I mean , it 's not it 's not that different ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s
+B :  I mean , just subtract the accuracy .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bk
+B :  Oh . Oh , I see .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  I see . I see .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  That makes sense .
+
+dialogue type : s^rt^tc
+B :  Hey Morgan ?
+
+dialogue type : qy.%-
+B :  Do you remember that Signif program that we used to use for testing signi ?
+
+dialogue type : qy^rt
+B :  Is that still valid ?
+
+dialogue type : s
+B :  I I 've been using that .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qh^d
+B :  Oh , it was .
+
+dialogue type : s.%--
+B :  Oh , I shoul
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  I should find that new one .
+
+dialogue type : s
+B :  I just use my old one from ninety - two or whatever
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bc
+B :  Ninety - three point six four ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s
+B :  is the baseline .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Oh . Oh .
+
+dialogue type : s^fa
+B :  I 'm sorry .
+
+dialogue type : s^bk
+B :  Ah ! OK . Ah , ah .
+
+dialogue type : s^fa
+B :  Sorry .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^tc
+B :  I 'm really confused about something .
+
+dialogue type : qy^rt
+B :  If we saw that making a small change like , you know , a tenth , to the self - loop had a huge effect , can we really make any conclusions about differences in this stuff ?
+
+dialogue type : s^df
+B :  I mean , especially when they 're this small .
+
+dialogue type : %--
+B :  I mean .
+
+dialogue type : s^fe
+B :  Wow !
+
+dialogue type : s^fe
+B :  Already a week !
+
+dialogue type : s^fe
+B :  Man !
+
+dialogue type : sj^ba
+B :  You 're right .
+
+dialogue type : sj^ba
+B :  That 's amazing .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qw
+B :  Where is Eurospeech this year ?
+
+dialogue type : s^bk^rt
+B :  Oh .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  Well , I 'm going to be out next week
+
+dialogue type : s^cs
+B :  but I could try to look into like this uh CVS over the web .
+
+dialogue type : s^df
+B :  That seems to be a very popular way of people distributing changes and over , you know , multiple sites and things
+
+dialogue type : s
+B :  so maybe if I can figure out how do that easily and then pass the information on to everybody so that it 's you know , as easy to do as possible
+
+dialogue type : s^df
+B :  and and people don't it won't interfere with their regular work ,
+
+dialogue type : s
+B :  then maybe that would be good .
+
+dialogue type : s^e
+B :  And I think we could use it for other things around here too .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : sj^ba
+B :  Oh great .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  I used it a long time ago
+
+dialogue type : s
+B :  but it 's been a while
+
+dialogue type : s
+B :  so maybe I can ask you some questions .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^cs^j
+B :  Maybe we could just like , talk into a cup .
+
+dialogue type : s^j
+B :  Some good reverb .
+
+dialogue type : s^2^aap
+B :  But not of reverberation .
+
+dialogue type : s^na
+B :  I noticed that in the pictures .
+
+dialogue type : s.%--:s.%--
+B : 
+
+dialogue type : s:sj^ba
+B :  My initial thought was " this is not too bad ! "
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  The main thing that struck me in looking at those two spectrograms was the difference in the high frequencies .
+
+dialogue type : s
+B :  It looked like for the one that was farther away , you know , it really everything was attenuated
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  I mean that was the main visual thing that I noticed .
+
+dialogue type : %--
+B :  This is this is ,
+
+dialogue type : s
+B :  oh , a plot of C - zero ,
+
+dialogue type : s
+B :  the energy .
+
+dialogue type : qy^bu^d^rt
+B : 
+
+dialogue type : qy^d^g^rt
+B :  uh the close channel ?
+
+dialogue type : qy^bu^d.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^bu^d^rt
+B :  This is still being a plot of C - zero ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : qw
+B :  Can I ask um what does variance normalization do ?
+
+dialogue type : qw^e^rt
+B :  w What is the effect of that ?
+
+dialogue type : %-
+B :  I mean
+
+dialogue type : s^bk
+B :  y Yeah .
+
+dialogue type : s^ar|s
+B :  No , I understand that ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s
+B :  No , I understand what it is ,
+
+dialogue type : qw.%--
+B :  but I mean , what does it what 's what is
+
+dialogue type : fh
+B : 
+
+dialogue type : %-
+B :  We
+
+dialogue type : s^aa
+B :  Yeah . Yeah .
+
+dialogue type : qw
+B :  Why why do it ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s^bk
+B :  I see . OK .
+
+dialogue type : s
+B :  So would the major effect is that you 're gonna get is by normalizing the means ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^2
+B :  First - order effects .
+
+dialogue type : s^2
+B :  And it may help to do the variance .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm . Mm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Gotcha . OK .
+
+dialogue type : s^fa^tc
+B :  Sorry to interrupt .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : %--
+B :  I mean .
+
+dialogue type : s
+B :  I don't know , it seems like this would be a lot easier than this signal to work with .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qy^bu^d
+B :  You 're more interested in the difference between the speech and the nonspeech ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : qw.%-
+B :  Where 's th
+
+dialogue type : qw
+B :  Where at what stage is the voice activity detector applied ?
+
+dialogue type : qr^rt
+B :  Is it applied here or a after the variance normalization ?
+
+dialogue type : qo.%--
+B : 
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : qy^rt
+B :  Is it applied all the way back here ?
+
+dialogue type : s^cs
+B :  Maybe that 's why it doesn't work for channel one .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : qw^br^rt
+B :  Speech is more what ?
+
+dialogue type : s^rt
+B :  There also could be I mean . I can maybe see a reason f for both working on it too
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I mean it 's hard to know whether the effects that you get from the other experiments you do will carry over once you then bring in their spectral subtraction module .
+
+dialogue type : s
+B :  So it 's it 's almost like everything 's held up waiting for this one thing .
+
+dialogue type : s^bd^df
+B :  I don't know if that 's true or not ,
+
+dialogue type : sj^ba.%--
+B : 
+
+dialogue type : s
+B :  Maybe that 's what you were thinking .
+
+dialogue type : qy^bu^d^rt
+B :  Improves the baseline ?
+
+dialogue type : qy.%-
+B :  Isn't there some other
+
+dialogue type : %-
+B :  uh d
+
+dialogue type : qy^rt.%--
+B :  Uh , I was just gonna say isn't there aren't aren't there lots of ideas for doing voice activity , or speech - nonspeech rather , um by looking at um , you know , uh I guess harmonics
+
+dialogue type : qrr^rt.%--
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s.%--
+B :  Well even with e
+
+dialogue type : fh
+B :  uh w ah
+
+dialogue type : s^df
+B :  you know , uh even with the voiced - non voiced - unvoiced
+
+dialogue type : fh
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^co
+B :  So go ahead .
+
+dialogue type : qy^rt
+B :  Didn't the head dude send around that message ?
+
+dialogue type : s^rt
+B :  Yeah , I think you sent us all a copy of the message ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bd^no
+B :  I I 'm not sure , exactly , what the gist of what he was saying ,
+
+dialogue type : s
+B :  but something having to do with the voice activity detector
+
+dialogue type : s^rt
+B :  and that it will that people shouldn't put their own in or something .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bk|s^fa
+B :  Oh , I 'm sorry .
+
+dialogue type : s^df
+B :  I I missed that .
+
+dialogue type : s
+B :  But the problem is that their models are all word level models .
+
+dialogue type : s
+B :  So there 's no phone models that you get alignments for .
+
+dialogue type : s
+B :  You So you could find out where the word boundaries are
+
+dialogue type : s^rt
+B :  but that 's about it .
+
+dialogue type : %-
+B : 
+
+dialogue type : fg|s
+B :  Yeah , the though I think uh there was one problem with that in that , you know , we used canonical mapping
+
+dialogue type : s^df^rt
+B :  so our truth may not have really been true to the acoustics .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^fe
+B :  Wow !
+
+dialogue type : qy^rt
+B :  Can I just mention one other interesting thing ?
+
+dialogue type : fg|s.%--
+B : 
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s
+B :  Actually I I s we didn't I guess I wrote this in after the meeting
+
+dialogue type : s
+B :  b but the thought I had was um looking at the language model that 's used in the HTK recognizer ,
+
+dialogue type : s
+B :  which is basically just a big loop ,
+
+dialogue type : qy^d^f^g
+B :  right ?
+
+dialogue type : s
+B :  So you it goes " digit "
+
+dialogue type : s
+B :  and then that can be either go to silence or go to another digit ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B :  That model would allow for the production of infinitely long sequences of digits ,
+
+dialogue type : qy^d^f^g^rt
+B :  right ?
+
+dialogue type : s:s
+B :  So . I thought " well I 'm gonna just look at the what actual digit strings do occur in the training data . "
+
+dialogue type : s
+B :  And the interesting thing was it turns out that there are no sequences of two - long or three - long digit strings in any of the Aurora training data .
+
+dialogue type : s
+B :  So it 's either one , four , five , six ,
+
+dialogue type : fh|s^rt
+B :  uh up to eleven ,
+
+dialogue type : s
+B :  and then it skips
+
+dialogue type : s
+B :  and then there 's some at sixteen .
+
+dialogue type : h|s^no
+B :  Um . I don't know .
+
+dialogue type : s^df
+B :  I didn't look at the test data yet .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s^rt
+B :  But I just thought that was a little odd ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^fa.%
+B :  Sorry .
+
+dialogue type : s
+B :  So I I just for the heck of it , I made a little grammar which um , you know , had it 's separate path for each length digit string you could get .
+
+dialogue type : s^rt
+B :  So there was a one - long path
+
+dialogue type : s
+B :  and there was a four - long and a five - long
+
+dialogue type : s
+B :  and I tried that and it got way worse .
+
+dialogue type : s
+B :  There were lots of deletions .
+
+dialogue type : s^rt
+B :  So it was you know , I I didn't have any weights of these paths
+
+dialogue type : s
+B :  or I didn't have anything like that .
+
+dialogue type : s
+B :  And I played with tweaking the word transition penalties a bunch ,
+
+dialogue type : s
+B :  but I couldn't go anywhere .
+
+dialogue type : fh
+B :  But um .
+
+dialogue type : s.%--:s.%--
+B :  I thought " well if I only allow "
+
+dialogue type : s
+B :  Yeah , I guess I should have looked at to see how often there was a mistake where a two - long or a three - long path was actually put out as a hypothesis .
+
+dialogue type : fh
+B :  Um . But .
+
+dialogue type : s
+B :  So to do that right you 'd probably want to have allow for them all
+
+dialogue type : s
+B :  but then have weightings and things .
+
+dialogue type : s
+B :  So . I just thought that was a interesting thing about the data .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : qy^rt
+B :  You want to go ahead , Morgan ?
+

@@ -1,0 +1,1326 @@
+dialogue type : z
+D :  Yeah .
+
+dialogue type : fg|s^t^tc
+D :  So uh so the uh , the new procedural change that just got suggested , which I think is a good idea is that um , we do the digit recordings at the end .
+
+dialogue type : s
+D :  And that way , if we 're recording somebody else 's uh meeting , and a number of the participants have to run off to some other meeting and don't have the time , uh , then they can run off .
+
+dialogue type : s
+D :  It 'll mean we 'll get somewhat fewer uh , sets of digits ,
+
+dialogue type : fh|s
+D :  but um , I think that way we 'll cut into people 's time , um , if someone 's on strict time uh , less .
+
+dialogue type : s^cs
+D :  So , I th I think I think we should start doing that .
+
+dialogue type : fh|s
+D :  Um , so , uh , let 's see , we were having a discussion the other day , maybe we should bring that up , about uh , the nature of the data that we are collecting .
+
+dialogue type : fh|s.%--
+D :  uh @ @ that uh , we should have a fair amount of data that is um , collected for the same meeting , so that we can ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^no
+D :  I don't know .
+
+dialogue type : qw^rt
+D :  Wh - what what were some of the points again about that ?
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s^na
+D :  Now , let l l let me just give you the other side to that
+
+dialogue type : s^df
+D :  cuz I ca because I I don't disagree with that ,
+
+dialogue type : s^aap
+D :  but I think there is a complimentary piece to it too .
+
+dialogue type : fh|s^nd
+D :  Uh , for other kinds of research , particularly the acoustic oriented research , I actually feel the opposite need .
+
+dialogue type : s^cs^nd
+D :  I 'd like to have lots of different people .
+
+dialogue type : s^nd
+D :  As many people here a a and talking about the kind of thing that you were just talking about it would have uh too few people from my point of view .
+
+dialogue type : s^cs^nd
+D :  I 'd like to have many different speakers .
+
+dialogue type : fh|s.%--
+D :  So , um I think I would also very much like us to have a fair amount of really random scattered meetings , of somebody coming down from campus , and and uh ,
+
+dialogue type : s
+D :  I mean , sure , if we can get more from them , fine ,
+
+dialogue type : s
+D :  but if we only get one or two from each group , that still could be useful acoustically just because we 'd have close and distant microphones with different people .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg|s.%-
+D :  Well , you want to i
+
+dialogue type : fg|s
+D :  Well , OK , uh , first place , I I I don't think we 'd just want to have random people come down and talk to one another ,
+
+dialogue type : s^cs
+D :  I think there should be a meeting that has some goal and point cuz I I think that 's what we 're investigating ,
+
+dialogue type : fh
+D :  so
+
+dialogue type : s^aa
+D :  Yeah , yeah .
+
+dialogue type : fg|s^cs
+D :  So I was I was thinking more in terms of talking to professors uh , and and and uh , senior uh , uh , d and uh , doctoral students who are leading projects and offering to them that they have their hold their meeting down here .
+
+dialogue type : s
+D :  Uh , that 's the first point .
+
+dialogue type : s.%--
+D :  The second point is
+
+dialogue type : fh
+D :  um
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk
+D :  Oh , OK .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : sj^fe
+D :  Oh !
+
+dialogue type : s
+D :  You 're not talking about foreign language at all .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  Yeah , then we 're completely gone .
+
+dialogue type : s
+D :  It 's The the habits are already burnt in .
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : %
+D :  I
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s
+D :  Well , that 's pretty much what you 're going to have in the networking group .
+
+dialogue type : s
+D :  because because they most the network group is almost entirely Germans and Spaniards .
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s^cs
+D :  OK , well , i i let 's let 's see what we can get .
+
+dialogue type : s
+D :  I mean , it it I think that if we 're aiming at at uh , groups of graduate students and professors and so forth who are talking about things together , and it 's from the Berkeley campus , probably most of it will be OK ,
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : sj^fe^j
+D :  Oh , you age - ist !
+
+dialogue type : b
+D :  Yes .
+
+dialogue type : s
+D :  They 're they 're yeah , they 're d they 're uh assessing whether they should do that or y do something else , hopefully over the next few weeks .
+
+dialogue type : fg|s
+D :  Well , the other thing Yeah , I mean the other thing that I was hoping to do in the first place was to turn it into some kind of portable thing so you could wheel it around .
+
+dialogue type : b
+D :  Uh .
+
+dialogue type : fh|s.%-
+D : 
+
+dialogue type : b
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Well , maybe John would let us put it into the phonology lab or something .
+
+dialogue type : fh
+D :  You know .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Actually , that 's a int that raises an interesting point that came up in our discussion that 's maybe worth repeating .
+
+dialogue type : s
+D :  We realized that , um , when we were talking about this that , OK , there 's these different things that we want to do with it .
+
+dialogue type : fh|s
+D :  So , um , it 's true that we wanna be selective in some ways , uh , the way that you were speaking about with , uh , not having an interlingua and uh , these other issues .
+
+dialogue type : s
+D :  But on the other hand , it 's not necessarily true that we need all of the corpus to satisfy all of it .
+
+dialogue type : s
+D :  So , a a as per the example that we wanna have a fair amount that 's done with a small n recorded with a small , uh , typ number of types of meetings
+
+dialogue type : s
+D :  But we can also have another part that 's , uh , just one or two meetings of each of a of a range of them
+
+dialogue type : s
+D :  and that 's OK too .
+
+dialogue type : fh|s
+D :  Uh , i We realized in discussion that the other thing is , what about this business of distant and close microphones ?
+
+dialogue type : s
+D :  I mean , we really wanna have a substantial amount recorded this way ,
+
+dialogue type : s
+D :  that 's why we did it .
+
+dialogue type : s
+D :  But what about For th for these issues of summarization , a lot of these higher level things you don't really need the distant microphone .
+
+dialogue type : s
+D :  You actually don't .
+
+dialogue type : s^na
+D :  You d You don't ne it doesn't you just need some microphone , somewhere .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  You need some microphone ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^bk|s.%-
+D : 
+
+dialogue type : s
+D :  But I think that I 'm raising that cuz I think it 's relevant exactly for this idea up there that if you think about , " Well , gee , we have this really complicated setup to do , " well maybe you don't .
+
+dialogue type : s^cs
+D :  Maybe if if If really all you want is to have a a a recording that 's good enough to get a uh , a transcription from later , you just need to grab a tape recorder and go up and make a recording .
+
+dialogue type : s^cs.%-
+D : 
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  I I I I I agree .
+
+dialogue type : fh|s^co
+D :  Uh but I I think that the uh i We can't really underestimate the difficulty shouldn't really u underestimate the difficulty of getting a setup like this up .
+
+dialogue type : s
+D : 
+
+dialogue type : s
+D :  If you 're talking about something simple , where you throw away a lot of these dimensions , then you can do that right away .
+
+dialogue type : s
+D :  Talking about something that has all of these different facets that we have here ,
+
+dialogue type : s.%-
+D :  it won't happen quickly , it won't be easy , and there 's all sorts of issues about th you know keeping the equipment safe , or else hauling it around , and all sorts of o
+
+dialogue type : s^na
+D :  I think the first priority should be to pry to get try to get people to come here .
+
+dialogue type : s
+D :  We 're set up for it .
+
+dialogue type : s
+D :  The room is is really , uh , underused .
+
+dialogue type : fh
+D : 
+
+dialogue type : sj^na
+D :  Free lunch is good .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^co^j^na
+D :  Yeah , they have to do their digits or they don't get they don't get their food .
+
+dialogue type : b
+D :  Yeah
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^co
+D :  Tell them about the free lunch .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s.%-
+D :  The the The oth the other h
+
+dialogue type : fg
+D :  Uh ,
+
+dialogue type : s^j
+D :  " beep "
+
+dialogue type : fg|s.%-
+D : 
+
+dialogue type : s^na
+D :  They make funny sounds .
+
+dialogue type : s^tc
+D :  The o the o the other The other thing is , uh , that we we talked about is give to them uh , burn an extra CD - ROM .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : s^ng.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  But it als It it it also I think builds up towards the goal .
+
+dialogue type : s
+D :  We 're saying , " Look , you know , you 're gonna get this .
+
+dialogue type : s
+D :  Is - is isn't that neat .
+
+dialogue type : s
+D :  Then you 're gonna go home with it .
+
+dialogue type : s
+D :  It 's actually p It 's probably gonna be pretty useless to you ,
+
+dialogue type : s
+D :  but you 'll ge appreciate , you know , where it 's useful and where it 's useless ,
+
+dialogue type : s
+D :  and then , we 're gonna move this technology , so it 'll become useful . "
+
+dialogue type : fh
+D :  So .
+
+dialogue type : b
+D :  Oh yeah .
+
+dialogue type : sj^ba
+D :  Good point .
+
+dialogue type : sj^ba
+D :  That 's a very good point .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk
+D :  r Right .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^co
+D :  Yeah so that 's so let 's start with Haas , and Yeah .
+
+dialogue type : s^bk
+D :  Oh , that 's fine .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s^t3
+D :  That 's alright .
+
+dialogue type : s
+D :  OK .
+
+dialogue type : fg|s
+D :  So , uh Let 's see .
+
+dialogue type : s^tc
+D :  So that was that topic ,
+
+dialogue type : fh|s^t^tc
+D :  and then um , I guess another topic would be where are we in the whole disk resources question
+
+dialogue type : %-
+D : 
+
+dialogue type : qy^d^rt
+D :  Sk - It 's copying from one place on Abbott to another place on Abbott ?
+
+dialogue type : sj^fe
+D :  Oh !
+
+dialogue type : s^fa
+D :  I 'm sorry .
+
+dialogue type : qy^bu
+D :  Is it ?
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : %-
+D :  S
+
+dialogue type : s
+D :  W w we are getting more space .
+
+dialogue type : s^e
+D :  We are getting , uh , another disk rack and and four thirty - six gigabyte disks .
+
+dialogue type : fh|s
+D :  Uh so uh but that 's not gonna happen instantaneously .
+
+dialogue type : qy^bu^d^rt
+D :  Or maybe six ?
+
+dialogue type : qw^rt
+D : 
+
+dialogue type : qw.%-
+D : 
+
+dialogue type : s
+D :  So , but , uh y you 're figuring you can record another five meetings or something with the space that you 're clearing up from the Broadcast News ,
+
+dialogue type : s
+D :  but , we have some other disks , some of which you 're using for Aurora ,
+
+dialogue type : qy
+D :  but are we g do we have some other other space now ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg|s^t^tc
+D :  Uh , OK , @ @ So , uh , then I guess th the last thing I 'd had on my my agenda was just to hear hear an update on what what Jose has been doing ,
+
+dialogue type : fh
+D :  so
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Oh .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  Go ahead .
+
+dialogue type : qw^ng
+D :  No , but there 's but , I think she 's saying " Where do you In these three categories , where do you put the instances in which there is one person speaking and other sounds which are not speech ? "
+
+dialogue type : qw
+D :  Which category do you put that in ?
+
+dialogue type : sj^bk|qw
+D :  Right , so where do you put speech from one speaker that does have a nonspeech event at the same time ?
+
+dialogue type : qw
+D :  Which catege which category ?
+
+dialogue type : s^bu
+D :  Oh , so you not not marked .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s^bk
+D :  Got it .
+
+dialogue type : s^bk|s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah , that 's fine .
+
+dialogue type : fg|s^df^na
+D :  Oh , no no , it 's a perfectly sensible way to go .
+
+dialogue type : s^df
+D :  We just wondered trying to understand what what you were doing .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : fg|s^nd
+D :  Yeah . Yeah , I I don't think we were asking for that .
+
+dialogue type : s
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Sure .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : fg
+D : 
+
+dialogue type : s^bu
+D :  w I I think what you m I think what you mean is that it 's nonspeech segments that don't have impulsive noises .
+
+dialogue type : qy^d^g^rt
+D :  Right ?
+
+dialogue type : s^bs
+D :  Cuz you 're calling what you 're calling " event " is somebody coughing or clicking , or rustling paper , or hitting something , which are impulsive noises .
+
+dialogue type : s^ng
+D :  But steady - state noises are part of the background .
+
+dialogue type : s^bu
+D :  Which , are being , included in that .
+
+dialogue type : qy^d^g^rt
+D :  Right ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^nd.%--
+D : 
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^bk|s^cs^ng
+D :  Right , it 's I mean , it 's " Background " might be might be a better word than " silence " .
+
+dialogue type : s^df
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Mm - hmm . Mm - hmm .
+
+dialogue type : s^nd
+D :  Well , actually , you can do sensitivity analyses which show you what the importance of the different parce pieces of the input are .
+
+dialogue type : s^na
+D :  It 's hard to w w what you It 's hard to tell on a neural net is what 's going on internally .
+
+dialogue type : s^nd
+D :  But it 's actually not that hard to analyse it and figure out the effects of different inputs , especially if they 're all normalized .
+
+dialogue type : fh|%-
+D : 
+
+dialogue type : s^nd.%-
+D : 
+
+dialogue type : s^na
+D :  Yeah , then a decision tree is really good ,
+
+dialogue type : s
+D :  but the thing is here he 's he 's not he 's not like he has one you know , a bunch of very distinct variables , like pitch and this he 's talking about , like , a all these cepstral coefficients , and so forth ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  See what I 'd I 'd Let me tell you what I would do .
+
+dialogue type : s^cs
+D :  I would take just a few features . Instead of taking all the MFCC 's , or all the PLP 's or whatever , I would just take a couple .
+
+dialogue type : fh
+D :  OK ?
+
+dialogue type : s^cs
+D :  Like like C - one , C - two , something like that , so that you can visualize it .
+
+dialogue type : s^cs
+D :  and look at these different examples and look at scatter plots .
+
+dialogue type : s^cs
+D :  OK , so before you do build up any kind of fancy classifiers , just take a look in two dimensions , at how these things are split apart .
+
+dialogue type : s
+D :  That I think will give you a lot of insight of what is likely to be a useful feature when you put it into a more complicated classifier .
+
+dialogue type : s
+D :  And the second thing is , once you actually get to the point of building these classifiers , @ @ what this lacks so far is the temporal properties .
+
+dialogue type : s^cs
+D :  So if you 're just looking at a frame and a time , you don't know anything about , you know , the structure of it over time , and so you may wanna build @ @ build a Markov model of some sort uh , or or else have features that really are based on um on on some bigger chunk of time .
+
+dialogue type : s
+D :  But I think this is a good place to start .
+
+dialogue type : s^cs
+D :  But don't uh anyway , this is my suggestion , is don't just , you know , throw in twenty features at it , the deltas , and the delta del and all that into some classifier , even even if it 's K - nearest - neighbors , you still won't know
+
+dialogue type : s^cs
+D :  what it 's doing , even You know it 's
+
+dialogue type : s^cs
+D :  Uh , I think to know what it 's to have a better feeling for what it 's
+
+dialogue type : s^cs
+D : 
+
+dialogue type : fh
+D :  Um So .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D : 
+
+dialogue type : s^df
+D :  Because what we had before for for uh , speaker change detection did not include these overlaps .
+
+dialogue type : s^cs
+D :  So the first thing is for you to to build up something that will detect the overlaps .
+
+dialogue type : qy^d^f^g^rt
+D :  Right ?
+
+dialogue type : fh|s^co.%--
+D : 
+
+dialogue type : fh|s^nd
+D :  Well , I again , the things you 've written up there I think are way too way too big .
+
+dialogue type : s^nd
+D :  OK ? If you 're talking about , say , twelfth twelfth - order uh MFCC 's or something like that it 's just way too much .
+
+dialogue type : s^e
+D :  You won't be able to look at it .
+
+dialogue type : s^ng
+D :  All you 'll be able to do is put it into a classifier and see how well it does .
+
+dialogue type : s^cs
+D :  Whereas I think if you have things if you pick one or two dimensional things , or three of you have some very fancy display , uh , and look at how the the different classes separate themselves out , you 'll have much more insight about what 's going on .
+
+dialogue type : s
+D :  Well , you 'll you 'll get a feeling for what 's happening , you know ,
+
+dialogue type : s
+D :  so if you look at Suppose you look at first and second - order cepstral coefficients for some one of these kinds of things and you find that the first - order is much more effective than the second , and then you look at the third and there 's not and not too much there , you may just take first and second - order cepstral coefficients ,
+
+dialogue type : qy^d^f^g
+D :  right ?
+
+dialogue type : s
+D :  And with LPC , I think LPC per se isn't gonna tell you much more than than than the other , maybe .
+
+dialogue type : fh|s
+D :  Uh , and uh on the other hand , the LPC residual , the energy in the LPC residual , will say how well , uh the low - order LPC model 's fitting it , which should be pretty poorly for two two or more people speaking at the same time , and it should be pretty well , for w for for one .
+
+dialogue type : s^cs
+D :  And so I i again , if you take a few of these things that are are prob um promising features and look at them in pairs , uh , I think you 'll have much more of a sense of " OK , I now have uh , doing a bunch of these analyses ,
+
+dialogue type : s^cs^e
+D :  I now have ten likely candidates . "
+
+dialogue type : s^cs
+D :  And then you can do decision trees or whatever to see how they combine .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : %
+D :  N u We
+
+dialogue type : fg|s^aap
+D :  Well , I think I think I think it 's not a it 's not at all unreasonable .
+
+dialogue type : s
+D :  It makes sense to start with the simpler signal
+
+dialogue type : s^df
+D :  because if you have features which don't aren't even helpful in the high signal - to - noise ratio , then there 's no point in putting them into the low signal ratio , one would think , anyway .
+
+dialogue type : s^cs
+D :  And so , if you can get @ @ Uh again , my prescription would be that you would , with a mixed signal , you would take a collection of possible uh , features look at them , look at how these different classes that you 've marked , separate themselves , and then collect , uh in pairs , and then collect ten of them or something , and then proceed with a bigger classifier .
+
+dialogue type : s^cs
+D :  And then if you can get that to work well , then you go to the other signal .
+
+dialogue type : s
+D : 
+
+dialogue type : s^cs
+D :  And then you can re - optimize , and so on .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^na
+D :  That 's well , the It it 's it 's true that it also , it could be useful to do this exploratory analysis where you 're looking at scatter plots and so on in both cases . Sure .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s^cs^na
+D :  Well , that that that 's another reason why very simple features , things like energy , and things things like harmonicity , and residual energy are uh , yeah are are better to use than very complex ones because they 'll be more reliable .
+
+dialogue type : s
+D :  Ch - Chuck was gonna ask something I guess .
+
+dialogue type : s^ar
+D :  Nah .
+
+dialogue type : s^aa
+D :  Yeah , no , you you 're you 're right
+
+dialogue type : s
+D :  that In fact , if we made use of the fact that there are two microphones , you do have some location information . which we don't have with the one
+
+dialogue type : s.%-
+D : 
+
+dialogue type : h|s^nd
+D :  Uh , well , no , I mean , we we don't have any rules , r really .
+
+dialogue type : sj
+D :  I think I I think I think it 's it 's it 's a it 's an additional interesting question .
+
+dialogue type : s
+D :  I mean , I think you wanna know whether you can do it with one ,
+
+dialogue type : s
+D :  because you know it 's not necessarily true that every device that you 're trying to do this with will have two .
+
+dialogue type : fh|s^rt
+D :  Uh , if , on the other hand , we show that there 's a huge advantage with two , well then that could be a real point .
+
+dialogue type : s
+D :  But , we don't n even know yet what the effect of detecting having the ability to detect overlaps is .
+
+dialogue type : s
+D :  You know , maybe it doesn't matter too much .
+
+dialogue type : s
+D :  So , this is all pretty early stages .
+
+dialogue type : s^na
+D :  But no , you 're absolutely right .
+
+dialogue type : sj
+D :  That 's a good thing to consider .
+
+dialogue type : s^ng.%-
+D : 
+
+dialogue type : s^na
+D :  Yeah , it 's timing difference .
+
+dialogue type : s
+D :  It - it 's not amplitude ,
+
+dialogue type : qy^bu^d^g^rt
+D :  right ?
+
+dialogue type : s^aa
+D :  S Right .
+
+dialogue type : s^aa
+D :  That 's That 's fine .
+
+dialogue type : s^bs
+D :  That 's So so i @ @ I think the issue is , " Is there a clean signal coming from only one direction ? "
+
+dialogue type : s^bs
+D :  If it 's not coming from just one direction , if it if th if there 's a broader pattern , it means that it 's more likely there 's multiple people speaking ,
+
+dialogue type : s
+D :  wherever they are .
+
+dialogue type : qy.%-
+D : 
+
+dialogue type : qr
+D :  Yeah , is there a narrow Is there a narrow beam pattern or is it a a distributed beam pattern ?
+
+dialogue type : s
+D :  So if there 's a distributed beam pattern , then it looks more like it 's it 's uh , multiple people .
+
+dialogue type : s
+D :  Wherever you are , even if he moves around .
+
+dialogue type : s
+D :  Oh , ideal would be to have the wall filled with them ,
+
+dialogue type : s
+D :  but I mean But the thing is just having two mikes If you looked at that thing on on Dan 's page , it was When when there were two people speaking , and it looked really really different .
+
+dialogue type : s
+D :  Uh , well , basic he was looking at correlation .
+
+dialogue type : s^na
+D :  Just cross - correlation between two sides .
+
+dialogue type : s
+D :  So cross - correlation is pretty sensitive .
+
+dialogue type : s
+D :  You take the signal from the two microphones and you cros and you cross - correlate them with different lags .
+
+dialogue type : fh
+D :  OK .
+
+dialogue type : s
+D :  So when one person is speaking , then wherever they happen to be at the point when they 're speaking , then there 's a pretty big maximum right around that point in the l in in the lag .
+
+dialogue type : s
+D :  So if at whatever angle you are , at some lag corresponding to the time difference between the two there , you get this boost in the in in the cross - correlation value function .
+
+dialogue type : s
+D :  It 's spread out .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^fa
+D :  The - the Oh , I 'm sorry ,
+
+dialogue type : qy^bu^d
+D :  if they 're right next to one another ?
+
+dialogue type : %
+D :  i i
+
+dialogue type : s^bk
+D :  Yeah , e I see .
+
+dialogue type : s^aa
+D :  Yeah . Oh , yeah .
+
+dialogue type : s^na.%-
+D : 
+
+dialogue type : s
+D :  But it 's almost but it 's almost a I think what you 're talking about i there 's two things .
+
+dialogue type : s
+D :  There 's a sensitivity issue , and then there 's a pathological error uh issue .
+
+dialogue type : s
+D :  So th the one where someone is just right directly in line is sort of a pathological error .
+
+dialogue type : s
+D :  If someone just happens to be sitting right there then we won't get good information from it .
+
+dialogue type : s
+D :  Uh , if they 're if they 're close , it 's just a question of the sensitivity .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  I mean , the other thing you can do uh , if I mean , i We 're assuming that it would be a big deal just to get somebody convince somebody to put two microphones in the PDA .
+
+dialogue type : s^cs.%-
+D : 
+
+dialogue type : s
+D :  Uh @ @ But - but that 's I mean , we can we 'll be all of this is there for us to study .
+
+dialogue type : s
+D :  But but but the thing is , uh , one of the at least one of the things I was hoping to get at with this is what can we do with what we think would be the normal situation if some people get together and one of them has a PDA .
+
+dialogue type : s^bk
+D :  Right . Yeah .
+
+dialogue type : s
+D :  Well , that 's that 's the constraint of one question that I think both Adam and I were were were interested in .
+
+dialogue type : fh
+D :  Uh ,
+
+dialogue type : s|qy^d^g
+D :  but you know if you can instrument a room , this is really minor league compared with what some people are doing , right ?
+
+dialogue type : s^na
+D :  Some people at at uh , yeah , at Brown and and and and at uh um and at Cape ,
+
+dialogue type : s
+D :  they both have these , you know , big arrays on the wall .
+
+dialogue type : s
+D :  And you know , if you could do that , you 've got microphones all over the place
+
+dialogue type : s^e
+D :  uh , you know p tens of microphones ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D : 
+
+dialogue type : b
+D :  Yeah . Yeah .
+
+dialogue type : s^aa
+D :  Ye - Pretty much . Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s
+D :  But , the reason why I haven't focused on that as the fir my first concern is because um , I 'm interested in what happens for people , random people out in some random place where they 're p having an impromptu discussion .
+
+dialogue type : s
+D :  And you can't just always go , " well , let 's go to this heavily instrumented room that we spent tens of thousands of dollars to se to set up " .
+
+dialogue type : qw
+D :  The other thing actually , that gets at this a little bit of something else I 'd like to do , is what happens if you have two P D
+
+dialogue type : s
+D :  and they communicate with each other ? And then You know , they 're in random positions , the likelihood that I mean , basically there wouldn't be any l likely to be any kind of nulls , if you even had two . If you had three or four it 's Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s^co^tc
+D :  Um , I i I i I would actually kind of like us to wind it down , see if we can still get to the end of the , uh , birthdays thing there .
+
+dialogue type : fh
+D :  So
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s
+D :  Oh , this morning we didn't sign anything cuz we said that if anybody had signed it already , we didn't have to .
+
+dialogue type : fg
+D :  Ah - oh .
+
+dialogue type : fg|qw.%-
+D : 
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh|s^t^tc
+D :  Uh , so @ @ OK . @ @ It sounds like u uh , there were there were a couple technical things people would like to talk about .
+
+dialogue type : s^co.%-
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^aa
+D :  Oh , yeah . Sure .
+
+dialogue type : s^aa
+D :  Oh yeah , yeah .
+
+dialogue type : s.%-
+D :  We could s
+
+dialogue type : s^na
+D :  Yeah Yeah , once you get to the publication you can certainly do that .
+
+dialogue type : s^e
+D :  You can go , you know , uh , " Z " uh , for instance .
+
+dialogue type : fh|s^bd
+D :  Uh . Um , yeah , I mean , t it doesn't I mean , I 'm not knowledgeable about this ,
+
+dialogue type : s^na
+D :  but it certainly doesn't bother me to have someone 's first name in in the in the transcript .
+
+dialogue type : fh|s^cs
+D :  Uh , I think you don't wanna have their full name to be uh , listed .
+
+dialogue type : %--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bu
+D :  So again , th the issue is if you 're tracking discourse things , you know , if someone says , uh , uh , " Frank said this " and then you wanna connect it to something later , you 've gotta have this part where that 's " Frank colon " .
+
+dialogue type : qy^d^g^rt
+D :  Right ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^na
+D :  Yeah , I was too . Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^cs^t^tc
+D :  L let me just back up this to make a a brief comment about the , uh , what we 're covering in the meeting .
+
+dialogue type : s
+D :  Uh I realize when you 're doing this that uh I mean , I didn't realize that you had a bunch of things that you wanted to talk about .
+
+dialogue type : fh|s
+D :  Uh , and so , uh and so I was proceeding some somewhat at random , frankly .
+
+dialogue type : s^cs
+D :  So I think what would be helpful would be uh , i and I 'll I 'll mention this to to Liz and Andreas too , that um , before the meeting if anybody could send me , any any , uh , uh , agenda items that they were interested in and I 'll I 'll take the role of organizing them uh , into into the agenda ,
+
+dialogue type : s^cs
+D :  but I 'd be very pleased to have everyone else completely make up the agenda .
+
+dialogue type : s
+D :  I 've no desire to to make it up ,
+
+dialogue type : s^fa
+D :  but if if no one 's told me things , then I 'm just proceeding from my my guesses , and and uh , and i ye yeah , I I 'm sorry it ended up with your out your time to I mean , I 'm just always asking Jose what he 's doing , you know , and and so it 's There 's uh , there 's obviously other things going on .
+
+dialogue type : qw
+D :  What ar how are they gonna do any of this ?
+
+dialogue type : s^bu.%-
+D : 
+
+dialogue type : s
+D :  So it may just be one long transcript of a bunch of words .
+
+dialogue type : s^bc^nd
+D :  Uh Yu - Ching , Yu - Ching . Yeah .
+
+dialogue type : s
+D :  And it and it may very well be I mean , since they 're not going to sit there and and and worry ab about , uh , it being the same speaker , they may very well go the eh the the first se the first time it changes to another speaker , that 'll be speaker - two .
+
+dialogue type : s
+D :  And the next time it 'll be speaker - three even if it 's actually speaker - one .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^nd
+D :  Well , you do .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^na
+D :  If if if if someone says , uh , " what what is Jose doing ? " and then Jose says something , you need to know that that was Jose responding .
+
+dialogue type : fh
+D :  Uh , so .
+
+dialogue type : qy
+D :  " Is you know who up in you know where ? "
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : %-
+D :  Th - Bec
+
+dialogue type : fg|s
+D :  OK , so suppose someone says , " well I don't know if I really heard what uh , what Jose said . "
+
+dialogue type : s
+D :  And then , Jose responds .
+
+dialogue type : s
+D :  And part of your learning about the dialogue is Jose responding to it .
+
+dialogue type : s
+D :  But it doesn't say " Jose " , it says " speaker - five " .
+
+dialogue type : fh
+D :  So uh u
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^cs
+D :  And so , if we pass out the data to someone else , and it says " speaker - five " there , we also have to pass them this little guide that says that speaker - five is Jose ,
+
+dialogue type : s^cs
+D :  and if were gonna do that we might as well give them " Jose " say it was " Jose " .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  I I agree .
+
+dialogue type : s^aa
+D :  I I agree with Jane .
+
+dialogue type : s^cs^na.%-
+D : 
+
+dialogue type : b
+D :  Uh .
+
+dialogue type : x
+D : 
+
+dialogue type : s^bs^nd
+D :  No , but she 's saying , from the argument before , she wants to be able to say if someone said " Jose " in their in their thing , and then connect to so to what he said later , then you need it .
+
+dialogue type : s^bk
+D :  Oh I see .
+
+dialogue type : s^bk^r
+D :  I see .
+
+dialogue type : s
+D :  And th and the other thing is if if if Liz were here , what she might say is that she wants to look if things that cut across between the audio and the dialogue ,
+
+dialogue type : fh
+D :  and so , uh ,
+
+dialogue type : s^bk|s^fa
+D :  yeah . Sorry .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : s^na
+D :  Yeah , a lot of these things are .
+
+dialogue type : s^cs^j
+D :  Uh , maybe we should only have meetings between people who don't know one another and who are also amnesiacs who don't know their own name .
+
+dialogue type : s^j^na
+D :  Oh , well that 's there 's an easy way to do that .
+
+dialogue type : s^cs^j
+D :  Jus - jus just play it all backwards .
+
+dialogue type : qw^j
+D :  What , what does the speech recognizer care ?
+
+dialogue type : fg
+D :  Um ,
+
+dialogue type : s^co^t^tc
+D :  Let 's do digits .
+
+dialogue type : s
+D :  Yeah , we we we already missed the party .
+
+dialogue type : fh
+D :  So .
+

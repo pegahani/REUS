@@ -1,0 +1,1176 @@
+dialogue type : qy
+I :  You mean there 're more than ten ?
+
+dialogue type : h|s
+I :  Well , I can stay till about , uh , three forty .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : h|s^aa
+I :  Well , yeah .
+
+dialogue type : s
+I :  So this is just partly to inform everybody , um , and and of course to get , um , input .
+
+dialogue type : fh|s
+I :  Um , so , uh , we had a discussion Don and Liz and I had discussion last week about how to proceed with , uh , you know , with Don 's work ,
+
+dialogue type : fh|s^cs
+I :  and and and , uh , one of the obvious things that occur to us was that we 're since we now have Thilo 's segmenter and it works , you know , amazingly well , um , we should actually basically re - evaluate the recognition , um , results using you know , without cheating on the segmentations .
+
+dialogue type : s.%-
+I : 
+
+dialogue type : s^bk
+I :  Oh , OK .
+
+dialogue type : fh|s.%--
+I : 
+
+dialogue type : qw
+I :  Why do you ask ?
+
+dialogue type : fh|s
+I :  No , actually , um , NIST has , um m a fairly sophisticated scoring program that you can give a , um a time ,
+
+dialogue type : fh|s.%-
+I :  uh You know , you basically just give two time - marked sequences of words , and it computes the um the , uh you know , the the th
+
+dialogue type : s^m^na
+I :  it does all the work for you .
+
+dialogue type : fh|s
+I :  So , it we just and we use that actually in Hub - five to do the scoring .
+
+dialogue type : fh|s
+I :  Um . So what we 've been using so far was sort of a simplified version of the scoring .
+
+dialogue type : s
+I :  And we can we can handle the the the type of problem we have here .
+
+dialogue type : s.%-
+I :  So , we ha
+
+dialogue type : s^aa
+I :  Yeah .
+
+dialogue type : s^aa
+I :  Right .
+
+dialogue type : s^aa^r
+I :  Right .
+
+dialogue type : %-
+I :  So do
+
+dialogue type : b
+I :  Right .
+
+dialogue type : s
+I :  It does time - constrained word - alignment .
+
+dialogue type : fh
+I :  So .
+
+dialogue type : s
+I :  So that should be possible .
+
+dialogue type : s
+I :  I mean that shouldn't be a problem .
+
+dialogue type : fh|s
+I :  Uh , so that was the one thing ,
+
+dialogue type : s.%--
+I :  and the other was that ,
+
+dialogue type : fh
+I : 
+
+dialogue type : qw
+I :  What was the other problem ?
+
+dialogue type : sj^fe
+I :  Oh !
+
+dialogue type : s
+I :  That Thilo wanted to use the recognizer alignments to train up his , um , speech detector .
+
+dialogue type : fh|s
+I :  Um , so that we could use , uh you know there wouldn't be so much hand labelling needed to , uh to generate training data for for the speech detector .
+
+dialogue type : s
+I :  And I think you 're in the process of doing that .
+
+dialogue type : s.%-
+I : 
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : s
+I :  That won't be perfect the alignments aren't perfect ,
+
+dialogue type : s.%--
+I : 
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : s^bc
+I :  Porzel .
+
+dialogue type : s^bc^r
+I :  Porzel .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : sj
+I :  I dunno who came up with it , but I think it 's a really clever idea .
+
+dialogue type : s^cs
+I :  We simulate a computer breakdown halfway through the session , and so then after that , the person 's told that they 're now talking to a , uh to a human .
+
+dialogue type : s
+I :  So , we we collect we collect both human - computer and human - human data , essentially , in the same session .
+
+dialogue type : s^na
+I :  That 's an idea .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : %
+I :  O
+
+dialogue type : s^cs
+I :  Just just reboot it .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : sj^fe.%
+I :  Wow .
+
+dialogue type : qr^d
+I :  No , the the question is do we save one or two far - field channels or all of them ?
+
+dialogue type : b.%
+I :  Hmm .
+
+dialogue type : b.%
+I :  Mm - hmm .
+
+dialogue type : s
+I :  It 's to be traini to b training data and development data for the SmartKom system .
+
+dialogue type : s^aa
+I :  Yeah .
+
+dialogue type : s^aa
+I :  Right .
+
+dialogue type : s^aa
+I :  Right .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : s
+I :  We weren't supposed to collect any data .
+
+dialogue type : s.%-
+I : 
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : s^bk
+I :  OK .
+
+dialogue type : b.%
+I :  Right .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : s
+I :  Well , it it makes sense to handle it with the same infrastructure , since we don't want to duplicate things unnecessarily .
+
+dialogue type : s^cs
+I :  But as far as distributing it , we shouldn't label it as part of this meeting corpus .
+
+dialogue type : s^cs.%-
+I :  We should let it be its own corp
+
+dialogue type : s
+I :  It might also be potentially confusing .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : %-
+I :  Yeah , I th
+
+dialogue type : b.%
+I :  Yes .
+
+dialogue type : s
+I :  That 's a that 's another argument to keep it separate ,
+
+dialogue type : s^df
+I :  because it 's gonna follow the SmartKom transcription conventions and not the ICSI meeting transcription conventions .
+
+dialogue type : s^aa
+I :  Exactly .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : s^t3
+I :  Exactly
+
+dialogue type : qy^t3
+I :  Do you wanna be a subject ?
+
+dialogue type : %--
+I : 
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : s^na
+I :  That was one of our concerns .
+
+dialogue type : %--
+I : 
+
+dialogue type : s^cs
+I :  I shouldn't be saying this , but , you can just you know , since the back - ups are every night , you can recycle the backed - up diskspace .
+
+dialogue type : s^j
+I :  I didn't say that .
+
+dialogue type : s^r.%
+I :  I didn't say that .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : s^cs
+I :  Well , I think I think there 's an argument for having you know , you could use our old file server for for disks that have data that is very rarely accessed ,
+
+dialogue type : s^cs
+I :  and then have a fast new file server for data that is , um , heavily accessed .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : s^na.%--
+I :  It 's the back it 's the back - up capaci
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : s
+I :  I mean , I think I think we 've raised this before and someone said this is not a reliable way to do it ,
+
+dialogue type : %--
+I : 
+
+dialogue type : qw^cs
+I :  What about putting the stuff on , like , C - CD - ROM or DVD or something ?
+
+dialogue type : s^bk
+I :  OK .
+
+dialogue type : s^bk
+I :  Oh , OK .
+
+dialogue type : qy^d^rt
+I :  But they wear out just from sitting on the shelf ?
+
+dialogue type : qrr
+I :  Or from being read and read ?
+
+dialogue type : s^bk
+I :  Oh , OK .
+
+dialogue type : b
+I :  Uh - huh .
+
+dialogue type : %--
+I : 
+
+dialogue type : s
+I :  then you would think you 'd hear much more clamoring about data loss
+
+dialogue type : fh
+I : 
+
+dialogue type : s.%-
+I : 
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Mmm .
+
+dialogue type : qw.%-
+I :  So how about ?
+
+dialogue type : fg|qw^cs
+I :  So so how about putting them on that plus , like on a on on DAT or some other medium that isn't risky ?
+
+dialogue type : s^bk
+I :  OK .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  Say , they actually last , like , five years , huh , in in the typical case ,
+
+dialogue type : s
+I :  and and occasionally you might need to recreate one ,
+
+dialogue type : s
+I :  and then you get your tape out , but otherwise you don't .
+
+dialogue type : qy.%--
+I : 
+
+dialogue type : s.%--
+I :  you just put them on ?
+
+dialogue type : s^aa
+I :  Yeah .
+
+dialogue type : s^aa
+I :  Right .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Mmm .
+
+dialogue type : s
+I :  It 's like like dynamic ra DRAM .
+
+dialogue type : s
+I :  One one thing I don't understand is , if you have the data if if you if the meeting data is put on disk exactly once , then it 's backed - up once and the back - up system should never have to bother with it , uh , more than once .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : s
+I :  But but this back - up system is smart enough to figure out that something hasn't changed and doesn't need to be backed - up again .
+
+dialogue type : fg
+I :  OK .
+
+dialogue type : s.%-
+I : 
+
+dialogue type : s^bk
+I :  Right .
+
+dialogue type : s^bk
+I :  OK .
+
+dialogue type : s^bk
+I :  Right .
+
+dialogue type : qy^cs.%-
+I :  So , what if we buy , uh uh , what what do they call these , um high density ?
+
+dialogue type : s^ar
+I :  No , no .
+
+dialogue type : s^df^nd
+I :  Because this is maybe something that we can do without involving Dave , and and , putting more burden on him .
+
+dialogue type : qw^cs
+I :  How about we buy , uh uh uh , one of these high density tape drives ?
+
+dialogue type : s^cs
+I :  And we put the data actually on non - backed - up disks .
+
+dialogue type : s^cs
+I :  And we do our own back - up once and for all all , and then and we don't have to bother this @ @ up ?
+
+dialogue type : s
+I : 
+
+dialogue type : fh
+I :  uh ,
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s^no
+I :  I dunno .
+
+dialogue type : qw
+I :  What kind of tape drive is it ?
+
+dialogue type : qy.%-
+I :  Is it is ?
+
+dialogue type : b
+I :  Right .
+
+dialogue type : s
+I :  But it might interfere with their back - up schedule ,
+
+dialogue type : b
+I :  eh .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Mmm .
+
+dialogue type : s^2^na
+I :  On an XH uh , X X whatever partition .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  OK .
+
+dialogue type : s^nd
+I :  Yeah , but then you 're effectively using the resources of the back - up system .
+
+dialogue type : qy
+I :  Or is that a different tape robot ?
+
+dialogue type : fg
+I :  No , no .
+
+dialogue type : %-
+I : 
+
+dialogue type : s.%-
+I :  Yeah , just give a dedi
+
+dialogue type : fg|s
+I :  Well , I 'm saying is @ @ i if you go to Dave , and and and ask him " can I use your tape robot ? " ,
+
+dialogue type : s
+I :  he will say , " well that 's gonna screw up our back - up operation . "
+
+dialogue type : s^bk
+I :  Oh , OK .
+
+dialogue type : b
+I :  Alright .
+
+dialogue type : b
+I :  Alright .
+
+dialogue type : sj^ba
+I :  Good .
+
+dialogue type : s^ng
+I :  Well , it if he you have to put the data on a on a non - backed - up disk to begin with .
+
+dialogue type : s.%-
+I : 
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  OK .
+
+dialogue type : b
+I :  OK .
+
+dialogue type : qy^d
+I :  SRI recognition ?
+
+dialogue type : s^bk
+I :  Oh .
+
+dialogue type : fg
+I :  Um . well ,
+
+dialogue type : s
+I :  we have lots of them .
+
+dialogue type : fh|s^no
+I :  Uh , I dunno .
+
+dialogue type : qy^rt
+I :  Chuck , do you have any any updates ?
+
+dialogue type : b
+I :  Oh .
+
+dialogue type : s^co
+I :  Well , you have to sa you have to tell people that you 're you 're doing you 're trying the tandem features .
+
+dialogue type : s
+I :  A and I 'm still tinkering with the PLP features .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : s^aap
+I :  That was that was before I tried it on the females .
+
+dialogue type : s^j
+I :  See , women are nothi are , trouble .
+
+dialogue type : qy^d^g^j^rt
+I :  Right ?
+
+dialogue type : s^j
+I :  As we all know .
+
+dialogue type : fh
+I :  So .
+
+dialogue type : s.%-
+I :  So so , when So I I had I ha
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  we had reached the point where , um , on the male portion of the development set , the , um or one of the development sets , I should say the , um the male error rate with , uh , ICSI PLP features was pretty much identical with , uh , SRI features .
+
+dialogue type : s
+I :  which are MFCC .
+
+dialogue type : fh|s
+I :  So , um , then I thought , " Oh , great .
+
+dialogue type : s^rt
+I :  I 'll j I 'll just let 's make sure everything works on the females . "
+
+dialogue type : s
+I :  And the error rate you know , there was a three percent difference .
+
+dialogue type : fh
+I :  So ,
+
+dialogue type : fh
+I : 
+
+dialogue type : s^ar
+I :  No , actually there 's more training data .
+
+dialogue type : s^ar
+I :  No , no .
+
+dialogue type : s
+I :  This is Hub - five .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : fg|s
+I :  Um , and the test data is CallHome and Switchboard .
+
+dialogue type : fh
+I : 
+
+dialogue type : s
+I :  Oh , and plus the the vocal tract length normalization didn't actually made things worse .
+
+dialogue type : s
+I :  So something 's really seriously wrong .
+
+dialogue type : fh
+I : 
+
+dialogue type : fh
+I : 
+
+dialogue type : fh
+I : 
+
+dialogue type : s^aa
+I :  That 's true .
+
+dialogue type : s^bk
+I :  Yeah .
+
+dialogue type : fg
+I : 
+
+dialogue type : fg
+I : 
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  So , most most Hub - five systems actually band - limit the uh , at about , uh , thirty - seven hundred , um , hertz .
+
+dialogue type : s
+I :  Although , you know , normally , I mean , the channel goes to four four thousand .
+
+dialogue type : qy^d^f^g
+I :  Right ?
+
+dialogue type : fh
+I : 
+
+dialogue type : s
+I :  And that actually helped , uh uh , a little bit .
+
+dialogue type : fh|s
+I :  Um and it didn't hurt on the males either .
+
+dialogue type : fh
+I : 
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  Oh , and suddenly , also the v the vocal tract length normalization only in the test se on the test data .
+
+dialogue type : s
+I :  So , you can do vocal tract length normalization on the test data only or on both the training and the test .
+
+dialogue type : s
+I :  And you expect it to help a little bit if you do it only on the test , and s more if you do it on both training and test .
+
+dialogue type : s
+I :  And so the It now helps , if you do it only on the test ,
+
+dialogue type : s
+I :  and I 'm currently retraining another set of models where it 's both in the training and the test ,
+
+dialogue type : s
+I :  and then we 'll we 'll have , hopefully , even better results .
+
+dialogue type : fh
+I : 
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  It looks like there will still be some difference ,
+
+dialogue type : s
+I :  maybe between one and two percent , um , for the females .
+
+dialogue type : fh|s
+I :  And so , um , you know , I 'm open to suggestions .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : %--
+I : 
+
+dialogue type : s
+I :  it can't be just the VTL ,
+
+dialogue type : s^df
+I :  because if you don't do VTL in both systems , uh , you know , the the females are considerably worse in the with the PLP features .
+
+dialogue type : s
+I :  So there must be some something else going on .
+
+dialogue type : h|s^aap
+I :  Um , that ye overall , yes ,
+
+dialogue type : s^arp
+I :  but on this particular development test set , they 're actually a little worse .
+
+dialogue type : s^nd
+I :  But that 's beside the point .
+
+dialogue type : s
+I :  We 're looking at the discrepancy between the SRI system and the SRI system when trained with ICSI features .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : s
+I :  It 's Baum - Welch training .
+
+dialogue type : h
+I : 
+
+dialogue type : h|s
+I :  Well , actually , we we just basically do a s a fixed number of iterations .
+
+dialogue type : fh|s
+I :  Uh , in this case four .
+
+dialogue type : fh|s
+I :  Um , which Eh , we used to do only three ,
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  And it was basically , we 're s we 're keeping it on the safe side .
+
+dialogue type : s.%--
+I :  But you 're d
+
+dialogue type : fh
+I :  Right .
+
+dialogue type : s.%--
+I :  It might be that one more iteration would would help , but it 's sort of
+
+dialogue type : fh
+I :  you know .
+
+dialogue type : s^ar|s^nd
+I :  No , but with Baum - Welch , there shouldn't be an over - fitting issue , really .
+
+dialogue type : fg
+I :  Um .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : fg
+I :  Well , yeah .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  Well , that 's that 's the easy one to check ,
+
+dialogue type : s
+I :  because we save all the intermediate models
+
+dialogue type : s.%-
+I : 
+
+dialogue type : h|s
+I :  Um I uh I 'm actually re - optimizing them .
+
+dialogue type : s
+I :  Although that hasn't shown to make a big difference .
+
+dialogue type : qy.%-
+I :  Pruning ?
+
+dialogue type : qy.%-
+I :  Pruning in the ?
+
+dialogue type : qy^rt
+I :  I you mean did you see this in the SRI system ?
+
+dialogue type : h|s.%--
+I : 
+
+dialogue type : s
+I :  You can't directly compare them , because , for every set of models you compute a new normalization .
+
+dialogue type : s
+I :  And so these log probabilities , they aren't directly comparable
+
+dialogue type : s^df
+I :  because you have a different normalization constants for each model you train .
+
+dialogue type : fh
+I : 
+
+dialogue type : s^aa
+I :  W yeah .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : fh
+I : 
+
+dialogue type : s
+I :  We prune very conservatively .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  So we we basically we have a very open beam .
+
+dialogue type : s^aa
+I :  Right .
+
+dialogue type : b
+I :  Course .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : s^arp
+I :  Actually , there is the difference in that .
+
+dialogue type : s
+I :  So , for the PLP features we use the triangular filter shapes .
+
+dialogue type : s
+I :  And for the in the SRI front - end we use the trapezoidal one .
+
+dialogue type : s
+I :  Well , now it 's the same .
+
+dialogue type : s
+I :  It 's thirty thirty to seven hundred and sixty hertz .
+
+dialogue type : s^ar
+I :  No , no .
+
+dialogue type : %-
+I : 
+
+dialogue type : fg
+I : 
+
+dialogue type : fg
+I : 
+
+dialogue type : s
+I :  Since currently the Feacalc program doesn't allow me to change the filter shape independently of the scale .
+
+dialogue type : s
+I :  And , I did the experiment on the SRI front - end where I tried the y where the standard used to be to use trapezoidal filters .
+
+dialogue type : s
+I :  You can actually continuously vary it between the two .
+
+dialogue type : s
+I :  And so I wen I swi I tried the trap eh , triangular ones .
+
+dialogue type : s
+I :  And it did slightly worse , but it 's really a small difference .
+
+dialogue type : fh
+I : 
+
+dialogue type : s^aa
+I :  Yeah , exactly .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  I don't think the filter shape by itself will make a huge difference .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : fg
+I :  OK .
+
+dialogue type : s
+I :  So one thing I haven't done yet is to actually do all of this with a much larger with our full training set .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  I don't know ,
+
+dialogue type : qy^d^rt
+I :  forty ?
+
+dialogue type : s
+I :  I i it 's it 's eh it 's a f training set that 's about , um , you know , by a factor of four smaller than what we use when we train the full system .
+
+dialogue type : s
+I :  So , some of these smoothing issues are over - fitting for that matter .
+
+dialogue type : s
+I :  And the Baum - Welch should be much less of a factor , if you go full whole hog .
+
+dialogue type : fh|s
+I :  And so , w so , just um so the strategy is to first sort of treat things with fast turn - around on a smaller training set and then , when you 've sort of , narrowed it down , you try it on a larger training set .
+
+dialogue type : s
+I :  And so , we haven't done that yet .
+
+dialogue type : s
+I :  Th - th the boot models are trained from scratch .
+
+dialogue type : s.%--
+I :  So we compute ,
+
+dialogue type : fh
+I : 
+
+dialogue type : s
+I :  So , we start with a , um , alil alignment that we computed with the b sort of the best system we have .
+
+dialogue type : s
+I :  And and then we train from scratch .
+
+dialogue type : s
+I :  So we com we do a , you know , w um We collect the uh , the observations from those alignments under each of the feature sets that that we train .
+
+dialogue type : s.%--
+I :  And then , from there we do ,
+
+dialogue type : fh
+I : 
+
+dialogue type : s.%--
+I :  There 's a lot of ,
+
+dialogue type : s
+I :  actually The way it works , you first train a phonetically - tied mixture model .
+
+dialogue type : fh
+I :  Um .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  First you do a context - independent PTM model .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : s
+I :  You do two iterations of that .
+
+dialogue type : s
+I :  Then you do two iterations of of of context - dependent phonetically - tied mixtures .
+
+dialogue type : s
+I :  And then from that you you do the you you go to a state - clustered model ,
+
+dialogue type : s
+I :  and you do four iterations of that .
+
+dialogue type : s
+I :  So there 's a lot of iterations overall between your original boot models and the final models .
+
+dialogue type : s.%--
+I : 
+
+dialogue type : fh
+I :  Hmm .
+
+dialogue type : s
+I :  We have never seen big differences .
+
+dialogue type : s
+I :  Once I thought " oh , I can Now I have these much better models .
+
+dialogue type : s
+I :  I 'll re - generate my initial alignments .
+
+dialogue type : s
+I :  Then I 'll get much better models at the end . "
+
+dialogue type : s
+I :  Made no difference whatsoever .
+
+dialogue type : s.%--
+I :  It 's I think it 's eh , i
+
+dialogue type : s.%-
+I :  the boot models are recur
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : s^nd
+I :  But there are no boot models , in fact .
+
+dialogue type : s
+I :  You you 're not booting from initial models .
+
+dialogue type : s
+I :  You 're booting from initial alignments .
+
+dialogue type : s^aa
+I :  That 's correct .
+
+dialogue type : s.%-
+I : 
+
+dialogue type : fg|s.%--
+I : 
+
+dialogue type : fh|s
+I :  So , we e w f w For a long time we had used boot alignments that had been trained with a with the same front - end but with acoustic models that were , like , fifteen percent worse than what we use now .
+
+dialogue type : s
+I :  And with a dict different dictionary with a considerably different dictionary , which was much less detailed and much less well - suited .
+
+dialogue type : s
+I :  And so , then we switched to new boot alignments ,
+
+dialogue type : s
+I :  which which now had the benefit of all these improvements that we 've made over two years in the system .
+
+dialogue type : s
+I :  And , the result in the end was no different .
+
+dialogue type : s
+I :  So , what I 'm saying is , the exact nature of these boot alignments is probably not a big factor in the quality of the final models .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : fg|s^cc
+I :  Anyway , I I I should really reserve , uh , any conclusions until we 've done it on the large training set , um , and until we 've seen the results with the with the VTL in training .
+
+dialogue type : fh
+I :  So .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : b
+I :  Right .
+
+dialogue type : s
+I :  And , uh , with this , I have to leave .
+
+dialogue type : s
+I :  With this said .
+
+dialogue type : b
+I :  Oh .
+
+dialogue type : sj^fe
+I :  Oh !
+
+dialogue type : sj^ba
+I :  Cool .
+
+dialogue type : b
+I :  Mm - hmm .
+
+dialogue type : qy^d^rt
+I :  A few more processors ?
+
+dialogue type : qw
+I :  How many are you shooting for ?
+
+dialogue type : s^bk
+I :  Oh , OK .
+
+dialogue type : b
+I :  Yeah .
+
+dialogue type : qy^rt
+I :  Can you mix t uh , processors of different speed ?
+
+dialogue type : b
+I :  OK .
+
+dialogue type : s^bk^rt
+I :  Oh , OK .
+
+dialogue type : s^cs
+I :  Maybe we can stick them in another system .
+
+dialogue type : s^no
+I :  I dunno .
+
+dialogue type : s^bk
+I :  I see .
+
+dialogue type : b
+I :  OK .
+

@@ -1,0 +1,423 @@
+dialogue type : qh^cs
+B :  What about putting a hyphen between the numbers in the group ?
+
+dialogue type : fg|qw
+B :  Hey Liz , What what do the groupings represent ?
+
+dialogue type : s^e
+B :  You said there 's like ten different groupings ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qo.%--
+B :  Are the patterns like are they based on anything or
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Mmm , oh , OK .
+
+dialogue type : qy^bu^d^j
+B :  Like Adam ?
+
+dialogue type : s^na
+B :  Parallel .
+
+dialogue type : s^j
+B :  It 's the P - make of digit reading .
+
+dialogue type : s
+B :  I couldn't understand a single thing you guys were saying .
+
+dialogue type : s
+B :  Performance art .
+
+dialogue type : s
+B :  It 's gonna require some coordination .
+
+dialogue type : s^ba
+B :  It 's great for the Germans .
+
+dialogue type : %-
+B : 
+
+dialogue type : s.%-
+B :  So if there was a segment of speech this long
+
+dialogue type : s^bu^na:s
+B :  and oh and someone said " oh , " the whole thing was passed to the recognizer ?
+
+dialogue type : s^bu
+B :  That 's why there 's so many insertion errors ?
+
+dialogue type : s^aap|s^aa
+B :  Early on , yeah .
+
+dialogue type : fg
+B : 
+
+dialogue type : fg
+B : 
+
+dialogue type : s^bu
+B :  So the idea is that you would take this big hunk where somebody 's only speaking a small amount in it ,
+
+dialogue type : s^bu^e.%-
+B :  and then try to figure out where they 're speaking based on the other peopl
+
+dialogue type : s
+B :  I thought we were just gonna move the boundaries in .
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : qw
+B :  So why do you want to do echo cancellation ?
+
+dialogue type : s^bk
+B :  Uh - huh .
+
+dialogue type : s^bu.%-
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  So do sort of what he 's already what he 's trying to do .
+
+dialogue type : s^bk
+B :  OK , I s I see .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  I think this also ties into one of the things that Jane is gonna talk about too .
+
+dialogue type : qy^bu^d^rt
+B :  So the SRI front - end won't take a uh an an a large audio file name and then a a list of segments to chop out from that large audio file ?
+
+dialogue type : s^e^rt
+B :  They actually have to be chopped out already ?
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s^nd
+B :  I don't I don't think that 's really right .
+
+dialogue type : fg|s^df^ng
+B :  Yeah , you you can give Waves a start and an end time .
+
+dialogue type : s^e
+B :  And middle .
+
+dialogue type : s^ar|s^df
+B :  No , I I 'm not suggesting you load a long wave file ,
+
+dialogue type : s
+B :  I 'm just saying you give it a start and an end time .
+
+dialogue type : s
+B :  And it 'll just go and pull out that section .
+
+dialogue type : s^fa
+B :  I 'm I 'm sorry to interrupt
+
+dialogue type : qy^rt
+B :  you could could I just back up a little bit
+
+dialogue type : %--
+B : 
+
+dialogue type : s^bu
+B :  So you 're doing these So the whole process is that the transcribers get the conversation
+
+dialogue type : s^bu^e
+B :  and they do their pass over it .
+
+dialogue type : s
+B :  And then when they 're finished with it , it comes to you ,
+
+dialogue type : s
+B :  and you begin these sanit these quality checks .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^no
+B :  I don't remember .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : qr
+B :  So that was part of the spell - check , or was that that was after the spell - check ?
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : qy^bu^d^rt
+B :  So then it just an ending curly brace there ,
+
+dialogue type : qrr
+B :  or is there something else in there .
+
+dialogue type : s^bk
+B :  Oh , oh , oh .
+
+dialogue type : s.%-
+B :  So on the m
+
+dialogue type : s^bu
+B :  on the middle t So , in the first case that gloss applies to the word to the left .
+
+dialogue type : s^bu^e|qy^d^g
+B :  But in the middle two Th - it 's not applying to anything , right ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk|s
+B :  Right , I just meant the middle two ones ,
+
+dialogue type : s^bk
+B :  yeah .
+
+dialogue type : s
+B :  Except for now !
+
+dialogue type : s
+B :  We 're gonna never recognize this meeting .
+
+dialogue type : qy^bu^d^rt:s
+B :  That 's " eh " versus " ah " ?
+
+dialogue type : s^bu|qy^d^g^rt
+B :  They were the Canadians , right ?
+
+dialogue type : s^j
+B :  Morgan can make a song out of it .
+
+dialogue type : qw
+B :  Where 's that ?
+
+dialogue type : s
+B :  Wait a minute ,
+
+dialogue type : %-
+B :  w s
+
+dialogue type : qr
+B :  Was that somewhere where they were gonna say " new speaker " or something ?
+
+dialogue type : s
+B :  There 's no tilde in front of it ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : s
+B :  It 's just comment about what they said .
+
+dialogue type : s^t1
+B :  So they didn't mean " tickle " as in Elmo ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : qw
+B :  Add what , Liz ?
+
+dialogue type : qw
+B :  What are you saying ?
+
+dialogue type : fg|s
+B :  So how w there 'd be a problem for doing the language modeling then with our transcripts the way they are .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qy^bu^d
+B :  So there will be a " NUMS " tag on those lines ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^aa|s
+B :  Right . That would argue for changing the other ones to be " digits " or something .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s:s
+B :  I suppose what you could do is just make sure that you get rid of everything that has " curly brace NUMS curly brace " .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk
+B :  Right .
+
+dialogue type : fg|s.%-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : qw.%--
+B :  So Liz , what does the recognizer do ,
+
+dialogue type : fh
+B :  uh ,
+
+dialogue type : qw
+B :  what does the SRI recognizer output for things like that ?
+
+dialogue type : s^e
+B :  " seven point five " .
+
+dialogue type : qy.%-
+B : 
+
+dialogue type : s^bk
+B :  Right ,
+
+dialogue type : s^bu^e
+B :  the word " seven " ?
+
+dialogue type : s^bu^e
+B :  The number " seven " ?
+
+dialogue type : s^m|s^bk
+B :  The word " seven " , OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aap^bc
+B :  Two or more .
+
+dialogue type : s^e
+B :  Two or more different functions .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : fg|s
+B :  Yeah , so that has implications for your script .
+
+dialogue type : s^bu
+B :  So right now the what you 're doing is you 're taking the uh , the o original version
+
+dialogue type : s^bu|qy^d^g
+B :  and you 're sort of channelizing yourself , right ?
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s
+B :  So I I th I think probably the way it 'll go is that , you know , when we make this first general version and then start working on the script , that script @ @ that will be ma you know primarily come from what you 've done , um , we 'll need to work on a channelized version of those originals .
+
+dialogue type : s
+B :  And so it should be pretty much identical to what you have
+
+dialogue type : s
+B :  t except for the one that they 've already tightened the boundaries on .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : fh
+B :  So
+
+dialogue type : s
+B :  uh , and then probably what will happen is as the transcribers finish tightening more and more , you know , that original version will get updated
+
+dialogue type : s
+B :  and then we 'll rerun the script and produce better uh versions .
+
+dialogue type : s
+B :  But the I guess the ef the effect for you guys , because you 're pulling out the little wave forms into separate ones , that would mean these boundaries are constantly changing
+
+dialogue type : s
+B :  you 'd have to constantly re rerun that ,
+
+dialogue type : s^cs.%-
+B : 
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  I can't think of any of the other ones .
+

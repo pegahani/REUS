@@ -1,0 +1,525 @@
+dialogue type : fg|s^t.x
+F :  Um , so I wanted to discuss digits briefly , but that won't take too long .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fg|s^tc
+F :  OK well , the , w uh as you can see from the numbers on the digits we 're almost done .
+
+dialogue type : s^rt
+F :  The digits goes up to about four thousand .
+
+dialogue type : fh|s
+F :  Um , and so , uh , we probably will be done with the TI - digits in , um , another couple weeks . um , depending on how many we read each time .
+
+dialogue type : s
+F :  So there were a bunch that we skipped .
+
+dialogue type : s^e^rt
+F :  You know , someone fills out the form and then they 're not at the meeting and so it 's blank .
+
+dialogue type : fh|s
+F :  Um , but those are almost all filled in as well .
+
+dialogue type : s^cs
+F :  And so , once we 're it 's done it would be very nice to train up a recognizer and actually start working with this data .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^e^na
+F :  One particular test set of TI - digits .
+
+dialogue type : s
+F :  So , I I extracted , Ther - there was a file sitting around which people have used here as a test set .
+
+dialogue type : s
+F :  It had been randomized and so on
+
+dialogue type : s
+F :  and that 's just what I used to generate the order . of these particular ones .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^j
+F :  And inc increase it by one or two percent , yeah .
+
+dialogue type : fg|s
+F :  Um , but , in order to do that we need to extract out the actual digits .
+
+dialogue type : fh|s
+F :  Um , so that the reason it 's not just a transcript is that there 're false starts , and misreads , and miscues and things like that .
+
+dialogue type : s
+F :  And so I have a set of scripts and X Waves where you just select the portion , hit R ,
+
+dialogue type : fh|s
+F :  um , it tells you what the next one should be , and you just look for that .
+
+dialogue type : fh|s
+F :  You know , so it it 'll put on the screen , " The next set is six nine , nine two two " .
+
+dialogue type : s
+F :  And you find that , and , hit the key and it records it in a file in a particular format .
+
+dialogue type : qr
+F :  And so the the question is , should we have the transcribers do that or should we just do it ?
+
+dialogue type : s^bsc
+F :  Well , some of us .
+
+dialogue type : s
+F :  I 've been do I 've done , eight meetings , something like that , just by hand .
+
+dialogue type : s^bsc
+F :  Just myself , rather .
+
+dialogue type : sj
+F :  So it will not take long .
+
+dialogue type : fh
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  There 's one other small bit , which is just entering the information which at s which is at the top of this form , onto the computer , to go along with the where the digits are recorded automatically .
+
+dialogue type : s
+F :  And so it 's just , you know , typing in name , times time , date , and so on .
+
+dialogue type : fh|s
+F :  Um , which again either they can do , but it is , you know , firing up an editor , or , again , I can do .
+
+dialogue type : s^e
+F :  Or someone else can do .
+
+dialogue type : s^ar|s
+F :  No they don't have this you have to enter the data before , you do the second task , but they don't have to happen at the same time .
+
+dialogue type : s^e
+F :  So it 's it 's just I have a file whi which has this information on it , and then when you start using my scripts , for extracting the times , it adds the times at the bottom of the file .
+
+dialogue type : fh|s
+F :  And so , um , I mean , it 's easy to create the files and leave them blank , and so actually we could do it in either order .
+
+dialogue type : fh|s^cs
+F :  Um , it 's it 's sort of nice to have the same person do it just as a double - check , to make sure you 're entering for the right person .
+
+dialogue type : s^e
+F :  But , either way .
+
+dialogue type : s^bu^m
+F :  Per digit .
+
+dialogue type : s
+F :  Well the prosodics are so much different
+
+dialogue type : sj^ba
+F :  s it 's gonna be , strange .
+
+dialogue type : s
+F :  I mean the prosodics are not the same as TI - digits , for example .
+
+dialogue type : s^no
+F :  So I 'm I 'm not sure how much of effect that will have .
+
+dialogue type : h|s^rt
+F :  Um , just what we were talking about with grouping .
+
+dialogue type : s
+F :  That with these , the grouping , there 's no grouping at all , and so it 's just the only sort of discontinuity you have is at the beginning and the end .
+
+dialogue type : s^no
+F :  Aurora I don't know .
+
+dialogue type : s^no^r
+F :  I don't know what they do in Aurora .
+
+dialogue type : s^aa
+F :  But Right .
+
+dialogue type : fg|s
+F :  But in TI - digits , they 're reading things like zip codes and phone numbers and things like that ,
+
+dialogue type : s
+F :  so it 's gonna be different .
+
+dialogue type : s^no
+F :  I don't remember .
+
+dialogue type : sj^ba
+F :  I mean , very good ,
+
+dialogue type : qy^d^g
+F :  right ?
+
+dialogue type : qy^2^bu^d^rt
+F :  One and a half percent , two percent , something like that ?
+
+dialogue type : qy^bu^rt
+F :  Oh really ?
+
+dialogue type : b
+F :  OK .
+
+dialogue type : s^bk
+F :  Alright .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s
+F :  But that I mean it 's really it 's it 's close - talking mikes , no noise , clean signal , just digits , I mean , every everything is good .
+
+dialogue type : s^aa
+F :  Yes , exactly .
+
+dialogue type : s
+F :  And we 've only recently got it to anywhere near human .
+
+dialogue type : s
+F :  And it 's still like an order of magnitude worse than what humans do .
+
+dialogue type : %
+F :  So .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^j
+F :  After coffee .
+
+dialogue type : fg|s^cc^tc
+F :  OK , so , um , what I 'll do then is I 'll go ahead and enter , this data .
+
+dialogue type : s^cc
+F :  And then , hand off to Jane , and the transcribers to do the actual extraction of the digits .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^na
+F :  Yeah that 's I I agree .
+
+dialogue type : %-
+F : 
+
+dialogue type : fg|qy
+F :  It 's a Well Would , this corpus really be the right one to even try that on ?
+
+dialogue type : sj^cs
+F :  M I think we can get Ohala in to , give us some advice on that .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : sj^bu
+F :  Even , I guess with vowels that would be pretty hard ,
+
+dialogue type : qy^g^rt
+F :  wouldn't it ?
+
+dialogue type : s
+F :  To identify actually , you know , which one it is ?
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s.%
+F :  Uvular .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^na
+F :  Yeah , so you have this feature here , and , overlap , yeah .
+
+dialogue type : s.%
+F :  And Or " gonta " .
+
+dialogue type : sj^nd
+F :  Well I don't think Morgan 's suggesting that we do that , though .
+
+dialogue type : s
+F :  But What I 'm imagining is a score - like notation , where each line is a particular feature .
+
+dialogue type : qy^d^f^g
+F :  Right ,
+
+dialogue type : s^e
+F :  so you would say , you know , it 's voiced through here , and so you have label here , and you have nas nasal here ,
+
+dialogue type : s^e
+F :  and , they they could be overlapping in all sorts of bizarre ways that don't correspond to the timing on phones .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^bu
+F :  And in in fact the inter - annotator agreement was not that good ,
+
+dialogue type : qy^d^g^rt
+F :  right ?
+
+dialogue type : qy^e^rt
+F :  On the harder ones ?
+
+dialogue type : b.%
+F :  The word .
+
+dialogue type : fg
+F : 
+
+dialogue type : s
+F :  Well the other difference is that the the features , are not synchronous ,
+
+dialogue type : qy^d^f^g
+F :  right .
+
+dialogue type : s
+F :  They overlap each other in weird ways .
+
+dialogue type : s
+F :  So it 's not a strictly one - dimensional signal .
+
+dialogue type : sj
+F :  So I think that 's sorta qualitatively different .
+
+dialogue type : s^aa|sj^arp
+F :  Well not with our current system but you could imagine designing a system , that the states were features , rather than phones .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^na
+F :  That 's what I was saying ,
+
+dialogue type : s^cs
+F :  maybe meeting data isn't the right corpus .
+
+dialogue type : s^bu
+F :  Alright , so based on the phone transcripts they would all be synchronous , but then you could imagine , nudging them here and there .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^aa.%
+F :  They are .
+
+dialogue type : qw
+F :  I wonder , how would you do a forced alignment ?
+
+dialogue type : s^cs^e
+F :  To to I mean , you 'd wanna iterate , somehow .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : sj^ba
+F :  It 's interesting thing to think about .
+
+dialogue type : s^cs
+F :  I mean you 'd you 'd want models for spreading .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : s^bk.%
+F :  Oh .
+
+dialogue type : s^bk
+F :  Of course .
+
+dialogue type : sj^ba
+F :  Wow that 's great .
+
+dialogue type : s^bu
+F :  So I I understand that 's what you were saying about your problem with , minimum .
+
+dialogue type : s^bk
+F :  I get it .
+
+dialogue type : s^bu
+F :  So new use ninetieth quartile , rather than , minimum .
+
+dialogue type : s^rt.%--
+F : 
+
+dialogue type : s^bsc
+F :  the one by hand .
+
+dialogue type : b
+F :  Uh .
+
+dialogue type : s^ar|s^df
+F :  No , cuz we need is really tight .
+
+dialogue type : s
+F :  Hopefully that 's not the same meeting that we did .
+
+dialogue type : s^bk
+F :  Good .
+
+dialogue type : s^cs
+F :  Yeah , so if we could get a couple meetings done with that level of precision I think that would be a good idea .
+
+dialogue type : s^fe^t1.%
+F :  Oh , shoot !
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : %
+F :  u
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b.%
+F :  Right .
+
+dialogue type : s^2
+F :  An extra channel .
+
+dialogue type : h|s
+F :  Uh , they said it would take about a week .
+
+dialogue type : s^aa
+F :  Mm - hmm .
+
+dialogue type : h
+F : 
+
+dialogue type : s.%--
+F :  Well the only thing we 're gonna have extra , for now ,
+
+dialogue type : s^aa|%--
+F :  Right , we don
+
+dialogue type : s
+F :  so the only thing we 'll have extra now is just the lapel .
+
+dialogue type : s
+F :  Not not the , bodypack ,
+
+dialogue type : s^e
+F :  just the lapel .
+
+dialogue type : s
+F :  Um , and then one of the one of those .
+
+dialogue type : s
+F :  Since , what I decided to do , on Morgan 's suggestion , was just get two , new microphones , um , and try them out .
+
+dialogue type : s
+F :  And then , if we like them we 'll get more .
+
+dialogue type : s
+F :  Since they 're they 're like two hundred bucks a piece ,
+
+dialogue type : s
+F :  we won't , uh , at least try them out .
+
+dialogue type : s^aa
+F :  Yep . Yep .
+
+dialogue type : s
+F :  And they 're gonna do the wiring for us .
+
+dialogue type : s
+F :  It 's , um , it 's by Crown ,
+
+dialogue type : s^e
+F :  and it 's one of these sort of mount around the ear thingies ,
+
+dialogue type : s
+F :  and , uh , when I s when I mentioned that we thought it was uncomfortable he said it was a common problem with the Sony .
+
+dialogue type : s
+F :  And this is how apparently a lot of people are getting around it .
+
+dialogue type : s
+F :  And I checked on the web , and every site I went to , raved about this particular mike .
+
+dialogue type : s
+F :  It 's apparently comfortable and stays on the head well ,
+
+dialogue type : s
+F :  so we 'll see if it 's any good .
+
+dialogue type : s
+F :  But , uh , I think it 's promising .
+
+dialogue type : fg|s
+F :  Yep . Yep , so it was it was advertised for performers
+
+dialogue type : %-
+F : 
+
+dialogue type : qw^br
+F :  Excuse me ?
+
+dialogue type : qw^br^r
+F :  Excuse me ?
+
+dialogue type : s^aa
+F :  That 's right .
+
+dialogue type : s
+F :  Well we 're using the Crown P Z
+
+dialogue type : s^bu
+F :  These are Crown
+
+dialogue type : qy^g^rt
+F :  aren't they ?
+
+dialogue type : s^bu^r
+F :  The P Z Ms are Crown ,
+
+dialogue type : qy^g^rt
+F :  aren't they ?
+
+dialogue type : s^bk|s
+F :  Yeah , I thought they were .
+
+dialogue type : s^j
+F :  And they work very well .
+
+dialogue type : s
+F :  And then it we have to go to the planning session for that workshop .
+
+dialogue type : s
+F :  Cuz then it would be a meeting about the meeting about the meeting about meetings .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^cs^j
+F :  M to the fourth .
+
+dialogue type : s^aa|s^co
+F :  Yep , go for it .
+
+dialogue type : z
+F :  Pause between the lines , remember ?
+
+dialogue type : z
+F :  OK .
+

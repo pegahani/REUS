@@ -1,0 +1,738 @@
+dialogue type : s^bk|s^t
+E :  OK , we 're on .
+
+dialogue type : qy^bu^d^rt
+E :  So , I mean , everyone who 's on the wireless check that they 're on .
+
+dialogue type : fg|s^t^tc
+E :  OK , our agenda was quite short .
+
+dialogue type : s^aa
+E :  Sure .
+
+dialogue type : s
+E :  Two items , which was , uh , digits and possibly stuff on on , uh , forced alignment ,
+
+dialogue type : s
+E :  which Jane said that Liz and Andreas had in information on ,
+
+dialogue type : s
+E :  but they didn't ,
+
+dialogue type : fh
+E :  so .
+
+dialogue type : s^aa
+E :  OK .
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : s
+E :  Digits and alignments .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^aa.%
+E :  Yeah .
+
+dialogue type : fg|s
+E :  Yeah , it 's forced alignment of people 's schedules .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : fg|s^cs^j
+E :  Ye - we and we 'd have to force you to read lots and lots of digits ,
+
+dialogue type : s^df
+E :  so it could get real real car noise .
+
+dialogue type : fg|s^t^tc
+E :  So , anyway , I can talk about digits .
+
+dialogue type : qr
+E :  Um , did everyone get the results or shall I go over them again ?
+
+dialogue type : s
+E :  I mean that it was basically the only thing that was even slightly surprising was that the lapel did so well .
+
+dialogue type : s.%--
+E :  Um , and in retrospect that 's not as surprising as maybe i
+
+dialogue type : s
+E :  it shouldn't have been as surprising as I as as I felt it was .
+
+dialogue type : s
+E :  The lapel mike is a very high - quality microphone .
+
+dialogue type : s
+E :  And as Morgan pointed out , that there are actually some advantages to it in terms of breath noises and clothes rustling if no one else is talking .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^aa|s^na
+E :  Right . I mean , a lot of people are just sort of leaning over and reading the digits ,
+
+dialogue type : s
+E :  so it 's it 's a very different task than sort of the natural .
+
+dialogue type : fh
+E :  So .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  They have a little bit ,
+
+dialogue type : s
+E :  but they 're not noise - cancelling .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : fg|s
+E :  So , also , Andreas , on that one the the back part of it should be right against your head .
+
+dialogue type : s^e
+E :  And that will he keep it from flopping aro up and down as much .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s^2
+E :  Everybody .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : s
+E :  Or if you did , I didn't include them ,
+
+dialogue type : s^df.%-
+E : 
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  I bet it would do even slightly better .
+
+dialogue type : s^aa|s^ba
+E :  Yeah . No problem .
+
+dialogue type : s
+E :  And try it with TI - digits ?
+
+dialogue type : qy^2^bu^d^rt
+E :  They didn't include it .
+
+dialogue type : s
+E :  Whereas , I took out the ones that I noticed that were blatant that were correctable .
+
+dialogue type : s
+E :  So that , if someone just read the wrong digit , I corrected it .
+
+dialogue type : s^rt
+E :  And then there was another one where Jose couldn't tell whether I couldn't tell whether he was saying zero or six .
+
+dialogue type : s
+E :  And I asked him and he couldn't tell either .
+
+dialogue type : s
+E :  So I just cut it out .
+
+dialogue type : s
+E :  You know , so I just e edited out the first , i uh , word of the utterance .
+
+dialogue type : s
+E :  Um , so there 's a little bit of correction but it 's definitely not as clean as TI - digits .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^bu
+E :  I think TI - digits is all American English .
+
+dialogue type : qy^d^g^rt
+E :  Right ?
+
+dialogue type : s
+E :  So it would probably do even a little better still
+
+dialogue type : s^e
+E :  on the SRI system ,
+
+dialogue type : s^bd^cs
+E :  but we could give it a try .
+
+dialogue type : qw^rt
+E :  Wha - what 's TI - digits ?
+
+dialogue type : s.%-
+E :  I thought t
+
+dialogue type : s^bk^m
+E :  It is wide - band .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^bk
+E :  Oh , that 's right .
+
+dialogue type : s
+E :  I I did look that up .
+
+dialogue type : s^df^no
+E :  I couldn't remember whether that was TI - digits or one of the other digit tasks .
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : s^df^t3
+E :  So , Morgan , you 're getting a little breath noise .
+
+dialogue type : s^cs^t3
+E :  You might wanna move the mike down a little bit .
+
+dialogue type : fg|s
+E :  Yeah , I noticed the script that extracted it .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : s^aa^r
+E :  Yep .
+
+dialogue type : s^no
+E :  That I don't know .
+
+dialogue type : s^no^r
+E :  I don't know .
+
+dialogue type : s^no
+E :  I don't know how many speakers there are ,
+
+dialogue type : s^e
+E :  and and how many speakers per utterance .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  I strongly suspect that they have more speakers than we do .
+
+dialogue type : fh
+E : 
+
+dialogue type : s^bk|s
+E :  Right . So we we could probably do an extraction that was roughly equivalent .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s
+E :  So , although I I sort of know how to run it , there are a little a f few details here and there that I 'll have to dig out .
+
+dialogue type : s^aa|s
+E :  Right . I saw that .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^df
+E :  because we may have to do an extract to get the amount of data per speaker about right .
+
+dialogue type : qy^rt
+E :  The other thing is , isn't TI - digits isolated digits ?
+
+dialogue type : qrr
+E :  Or is that another one ?
+
+dialogue type : s^df
+E :  I 'm I looked through a bunch of the digits t corp corpora ,
+
+dialogue type : s^df^e
+E :  and now they 're all blurring .
+
+dialogue type : s
+E :  Cuz one of them was literally people reading a single digit .
+
+dialogue type : s
+E :  And then others were connected digits .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s
+E :  Maybe it 's the Bell Gram .
+
+dialogue type : s^e
+E :  Bell Digits .
+
+dialogue type : s^bk
+E :  Alright .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : s^2
+E :  Channel adapted .
+
+dialogue type : s^t3
+E :  Other way .
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  It f it clips over your ears .
+
+dialogue type : s
+E :  There you go .
+
+dialogue type : s
+E :  Uh , it pivots .
+
+dialogue type : s^cs
+E :  It it like this .
+
+dialogue type : fh.%
+E :  Eh .
+
+dialogue type : fg|s
+E :  Yeah , I think these mikes are not working as well as I would like .
+
+dialogue type : s
+E :  Liz , you could also just use the other mike if you 're having problems with that one .
+
+dialogue type : s^ba
+E :  Oh , well .
+
+dialogue type : s^cs
+E :  So the To get that , uh , pivoted this way , it pivots like this .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s
+E :  There you go .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s
+E :  So if it doesn't bounce around too much , that 's actually good placement .
+
+dialogue type : s
+E :  But it looks like it 's gonna bounce a lot .
+
+dialogue type : s
+E :  Digits .
+
+dialogue type : s^e
+E :  Adaptation .
+
+dialogue type : s^bu
+E :  Could we do exactly the same thing that we 're doing now , but do it with a far - field mike ?
+
+dialogue type : s^df
+E :  Cuz we extract the times from the near - field mike ,
+
+dialogue type : s
+E :  but you use the acoustics from the far - field mike .
+
+dialogue type : s
+E :  For this particular digit ones , I just picked that one .
+
+dialogue type : %-
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  I sh actually should 've picked a different one ,
+
+dialogue type : s^df
+E :  because that could be why the PDA is worse .
+
+dialogue type : s^df
+E :  Because it 's further away from most of the people reading digits .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : fg|s
+E :  Yeah . When you listen to it , uh , the PZM and the PDA Yeah , th the PDA has higher sound floor
+
+dialogue type : s
+E :  but not by a lot .
+
+dialogue type : s^e
+E :  It 's really pretty uh , pretty much the same .
+
+dialogue type : s
+E :  Th - we wanted them to be to be typical of what would be in a PDA .
+
+dialogue type : s
+E :  So they are they 're not the PZM three hundred dollar type .
+
+dialogue type : s
+E :  They 're the twenty - five cent ,
+
+dialogue type : s
+E :  buy them in packs of thousand type .
+
+dialogue type : s^2
+E :  Everything .
+
+dialogue type : s^aa|s^na
+E :  Yeah . That was gonna be my question .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  We do we tend to do that anyway .
+
+dialogue type : fh
+E :  Oh .
+
+dialogue type : s
+E :  So , although you you can pipe it as well , we tend to do it that way
+
+dialogue type : s^df
+E :  because that way you can concentrate on one block and not keep re - doing it over and over .
+
+dialogue type : s
+E :  So tha that 's exactly what the P - file is for .
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : s^2
+E :  No gain .
+
+dialogue type : qy
+E :  Is the proximity constraint a hard constraint ,
+
+dialogue type : qrr.%--
+E :  or did you do some sort of probabilistic weighting distance , or ?
+
+dialogue type : s^2
+E :  The ve level .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  I think Transcriber , uh , outputs CTM .
+
+dialogue type : s^am
+E :  I think so .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg
+E : 
+
+dialogue type : s
+E :  It is different .
+
+dialogue type : s
+E :  In previous years , Eurospeech only had the abstract due by now ,
+
+dialogue type : s
+E :  not the full paper .
+
+dialogue type : s
+E :  And so all our timing was off .
+
+dialogue type : s
+E :  I 've given up on trying to do digits .
+
+dialogue type : s
+E :  I just don't think that what I have so far makes a Eurospeech paper .
+
+dialogue type : s^ba
+E :  Horrible .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s
+E :  Burst .
+
+dialogue type : s
+E :  Spurt has the horrible name overloading with other with hardware at ICSI .
+
+dialogue type : b
+E :  Hmm !
+
+dialogue type : s:s
+E :  I 've heard " burst " also .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : %-
+E : 
+
+dialogue type : s^aap
+E :  Y yes .
+
+dialogue type : s
+E :  I mean , s when I came up with the original data suggested data format based on the transcription graph , there 's capability of doing that sort of thing in there .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^2
+E :  Strict .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : fg|s.%-
+E : 
+
+dialogue type : s^fe^na^rt
+E :  Oh , I could !
+
+dialogue type : s
+E :  I could submit that to Aurora .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : s
+E :  S That wouldn't work .
+
+dialogue type : s^df
+E :  It 's not Aurora .
+
+dialogue type : s
+E :  Aurora 's very specific .
+
+dialogue type : s
+E :  Oh , I thought you meant this was just the digits section .
+
+dialogue type : s^df^no
+E :  I didn't know you meant it was Aurora digits .
+
+dialogue type : s^no
+E :  Well , I I don't know .
+
+dialogue type : s
+E :  I mean , you could you could do a paper on what 's wrong with the Aurora task by comparing it to other ways of doing it .
+
+dialogue type : s^2
+E :  Different way .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^ba
+E :  Pretty hokey .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : s
+E :  It 's very specific .
+
+dialogue type : s.%-
+E :  I mean , th
+
+dialogue type : s
+E :  It 's d it 's very specific .
+
+dialogue type : s^nd.%-
+E : 
+
+dialogue type : s^df^nd|qy^d^f^g
+E :  They had something very specific in mind when they designed it . Right ?
+
+dialogue type : s^rt
+E :  And so so you can you can argue about maybe that wasn't the right thing to do ,
+
+dialogue type : s
+E :  but , you know , they they they had something specific .
+
+dialogue type : s^2
+E :  Zero .
+
+dialogue type : fg|s
+E :  Hey , that 's the same percent relative ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s
+E :  Twenty percent relative gain .
+
+dialogue type : s^2
+E :  And Brian .
+
+dialogue type : s
+E :  And plus all of us .
+
+dialogue type : s
+E :  It seems like too many too much coming and going .
+
+dialogue type : s^cs
+E :  Make everyone read digits .
+
+dialogue type : s^m^na
+E :  At the same time .
+
+dialogue type : s^2^bu^rt
+E :  Into our our our cult .
+
+dialogue type : s^bk
+E :  Oh .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : qy^bu^d^rt
+E :  You 're not gonna be here tomorrow ?
+
+dialogue type : s^bk
+E :  Oh , that 's right .
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  It 's off .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ba
+E :  It was good having you .
+
+dialogue type : s^aa
+E :  Yep .
+
+dialogue type : s^aa|s^na
+E :  Yeah , six months is hard .
+
+dialogue type : s^cs
+E :  I think a year is a lot better .
+
+dialogue type : s^ba
+E :  Great .
+
+dialogue type : qy^cs^d^rt
+E :  Digits ?
+
+dialogue type : qy^rt
+E :  Are we gonna do them simultaneously
+
+dialogue type : qrr.%--
+E :  or ?
+
+dialogue type : s
+E :  Well , we 've gotta wait until after di after we take the mikes off .
+
+dialogue type : qy^rt
+E :  So are we gonna do digits simultaneously
+
+dialogue type : qrr
+E :  or what ?
+
+dialogue type : s^df
+E :  It 's just the rest of the digits the rest of the digits are very clean ,
+
+dialogue type : s^df^e
+E :  um , without a lot of background noise ,
+
+dialogue type : s
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^co
+E :  Remember to read the transcript number , please .
+
+dialogue type : fg|qy^t^tc
+E :  OK , everyone ready ?
+
+dialogue type : s^aa^j
+E :  Yeah , sure .
+
+dialogue type : s^ba^j
+E :  Hey , what a good idea .
+
+dialogue type : s^cs^j
+E :  We could do the same sheet for everyone .
+
+dialogue type : s^cs^e^j
+E :  Have them all read them at once .
+
+dialogue type : s^arp^cs
+E :  Or or just same digits .
+
+dialogue type : s^rt
+E :  See if anyone notices .
+
+dialogue type : qrr
+E :  Did you read it twice or what ?
+
+dialogue type : s
+E :  And we 're off .
+

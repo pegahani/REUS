@@ -1,0 +1,261 @@
+dialogue type : s
+C :  Pre - prelim hell .
+
+dialogue type : s^2.%
+C :  Get down .
+
+dialogue type : %
+C :  Para
+
+dialogue type : qy^rt
+C :  So with this , uh , new stream would you train up a VAD on both both features , somehow ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qy^rt
+C :  Would would that fit on the handset ,
+
+dialogue type : qrr.%--
+C :  or ?
+
+dialogue type : s^fe
+C :  Oh !
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  Oh , right .
+
+dialogue type : fg|%-
+C :  Yeah . Cuz sh
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  Feature net .
+
+dialogue type : qy^rt
+C :  Is this their , um , SVM recognizer ?
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : s^bk
+C :  Uh - huh .
+
+dialogue type : s^bk
+C :  Oh , OK .
+
+dialogue type : s^bk^r
+C :  Oh , OK .
+
+dialogue type : s^m
+C :  Gaussian mixture HMM .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : h
+C :  Um .
+
+dialogue type : s^na
+C :  Well , I 've been reading some literature about clustering of data .
+
+dialogue type : s
+C :  Just , um , I guess , let me put it in context .
+
+dialogue type : fh|s
+C :  OK , so we 're talking about discovering intermediate categories to , um to classify .
+
+dialogue type : fh|s
+C :  And , uh , I was looking at some of the work that , uh , Sangita was doing on these TRAPS things .
+
+dialogue type : s
+C :  So she has , um she has temporal patterns for , um , a certain set of phonemes , from from TIMIT ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s^e
+C :  the most common phonemes .
+
+dialogue type : s
+C :  And each one of them has has a a nice pattern over time , a one one second window .
+
+dialogue type : s
+C :  And it has has these patterns .
+
+dialogue type : fh|s
+C :  Um , so she has , um a TRAP for each one of the phonemes , um , times fifteen , for each of the fifteen critical bands .
+
+dialogue type : fh|s
+C :  And , um , she does this agglomerative hierarchical clustering which which basically , um , is a clustering algorithm that , uh , starts with many , many , many different points many different clusters uh , corresponding to the number of data , uh , patterns that you have in the data .
+
+dialogue type : s
+C :  And then you have this distance mej metric which , uh , measures how how closely related they are .
+
+dialogue type : s
+C :  And you start , um by merging the patterns that are most closely related .
+
+dialogue type : %-
+C :  And
+
+dialogue type : s^aa
+C :  y yeah , yeah ,
+
+dialogue type : s^m
+C :  a dendrogram tree .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^aa|s
+C :  Right , usually it 's when , um when the sol similarity measures , um , don't go down as much .
+
+dialogue type : s
+C :  And so , uh so you stop at that point .
+
+dialogue type : s
+C :  And what she found was , sh um , was there were five broad , um broad categories , uh , corresponding to , uh , things like , uh , fricatives and , uh , vocalic , um , and , uh , stops .
+
+dialogue type : s
+C :  And , uh , one for silence and and another one for schwa schwa sounds .
+
+dialogue type : fh|s
+C :  Um , and , um , I was thinking about ways to to generalize this
+
+dialogue type : s^df^rt
+C :  because w you 're it 's sort of like a it 's not a completely automatic way of clustering ,
+
+dialogue type : s^df^e
+C :  because yo beforehand you have these these TRAPS and you 're saying that that these frames correspond to this particular phoneme .
+
+dialogue type : fh|s
+C :  Um , and that 's that 's constraining your your clustering to to the set of phonemes that you already have .
+
+dialogue type : fh|s^cs
+C :  Um , whereas maybe we want to just take take a look at , um , arbitrary windows in time , um , of varying length , um , and cluster those .
+
+dialogue type : sj
+C :  And I 'm thinking if we if we do that , then we would probably , um , at some point in the clustering algorithm find that we 've clustered things like , OK , thi this is a transition , um , this is a relatively stable stable point .
+
+dialogue type : fh|s^cs
+C :  Um , and I 'm hoping to find other things of of similarity and maybe use these things as the intermediate , um intermediate categories that , uh , um , I 'll later classify .
+
+dialogue type : h|s^bk
+C :  Um , right .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^aa^r
+C :  yeah .
+
+dialogue type : s
+C :  I I haven't exactly figured out , um , the exact details for that
+
+dialogue type : s^cs
+C :  but , uh , the the representation of the data that I was thinking of , was using , um , critical band , um , energies , um , over different lengths of time .
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b.%
+C :  Mm - hmm .
+
+dialogue type : fg|s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+

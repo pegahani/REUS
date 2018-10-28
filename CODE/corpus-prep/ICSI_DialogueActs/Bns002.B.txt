@@ -1,0 +1,354 @@
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : h|qy^rt
+B :  Um , is that really an ad - hoc network ?
+
+dialogue type : s^df
+B :  Because the sensors are not moving .
+
+dialogue type : s^ba^df
+B :  And I think it 's makes no sense with moving sensors because then you don't know where the sensors are .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^na
+B :  That 's it .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Mm - hmm ,
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Yeah ,
+
+dialogue type : s^bk
+B :  I see .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : fg|s
+B :  Um , a further question .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : qy
+B :  Am I right that this um dialogue does not prevent um any disturbance of other nodes in the um sending range of , yeah , N - one .
+
+dialogue type : %-
+B :  S
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  That 's it .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  But then this node , um , this transmission is uh aborted .
+
+dialogue type : s
+B :  And so there 's no advantage to uh if it 's aborted , by by any data packets .
+
+dialogue type : s
+B :  So this um node has to stop each transmission .
+
+dialogue type : fh|s
+B :  So , even the at - the - moment - ongoing transmission .
+
+dialogue type : qy^g^rt
+B :  Is that right ?
+
+dialogue type : s^bu
+B :  So , his transmission is aborted .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  That 's right .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK ,
+
+dialogue type : s^bk
+B :  yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK ,
+
+dialogue type : s
+B :  but this scenario is also nov uh , only working if um both or all nodes have the same range of transmission .
+
+dialogue type : s^df
+B :  So , the s same radius of the sending range .
+
+dialogue type : s^bu
+B :  So otherwise um this one node maybe um would hear his neighbor but not vice versa .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : s^ng
+B :  But I 'm thinking about this example you gave before .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s
+B :  But one of the um senders could be much stronger than the other one .
+
+dialogue type : fg
+B : 
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : s
+B :  So that was my question .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Mm - hmm .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : fg
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  It 's a assumption it 's it 's clear .
+
+dialogue type : qr.%--
+B :  But on the other hand , um , in a real world it isn't , or ?
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^na
+B :  eh that 's it .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah ,
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : %-
+B : 
+
+dialogue type : s
+B :  You 're not assuming this .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk|s
+B :  Yeah , a cellular phone and a car .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bu
+B :  So there 's more than one IP address in the header ,
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk
+B :  OK , I see .
+
+dialogue type : qy.%-
+B : 
+
+dialogue type : qy^rt
+B :  Do they have to be in order ?
+
+dialogue type : s^e
+B :  So you are looking first for node two and then for node three and so on .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  You mentioned um six partners of this um work .
+
+dialogue type : s^bu
+B :  So you know already what partners are included .
+
+dialogue type : s^bk|s^df
+B :  OK I didn't have a look at uh slides ,
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^df
+B :  Just I 'm just curious .
+
+dialogue type : s^bk
+B :  Yeah , sure .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  Yeah yeah .
+
+dialogue type : qy^bu^d^rt
+B :  And all of them had agreed ,
+
+dialogue type : qrr.%--
+B :  or ?
+
+dialogue type : s^bk
+B :  OK .
+

@@ -1,0 +1,351 @@
+dialogue type : z
+F :  Pre - crashed !
+
+dialogue type : s^ar|s
+F :  No . The next ,
+
+dialogue type : qy^d^g^rt
+F :  right ?
+
+dialogue type : %-
+F :  It 's like the
+
+dialogue type : fg|s
+F :  So so the deal is that I can , um , uh , I can be available after , uh , like ten thirty or something .
+
+dialogue type : sj.%--
+F : 
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : h
+F : 
+
+dialogue type : s^m
+F :  Saturday .
+
+dialogue type : s^aa^rt
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Oh .
+
+dialogue type : s
+F :  Oh , I haven't I haven't listened to them either ,
+
+dialogue type : s
+F :  but there must be something wrong ,
+
+dialogue type : fh
+F :  I mean ,
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^ar
+F :  No , I d I didn't .
+
+dialogue type : s^df
+F :  Since I considered those preliminary , I didn't .
+
+dialogue type : %-
+F : 
+
+dialogue type : %--
+F : 
+
+dialogue type : s^ar|s
+F : 
+
+dialogue type : s^aa^r
+F :  trimodal ,
+
+dialogue type : fh
+F :  so
+
+dialogue type : s
+F :  there were t there was there was one h one bump at ze around zero , which were the native speakers ,
+
+dialogue type : s^e
+F :  the non - pathological native speakers .
+
+dialogue type : s
+F :  Then there was another bump at , um , oh , like fifteen or something .
+
+dialogue type : %-
+F :  whe
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  Those were the non - natives .
+
+dialogue type : s
+F :  And then there was another distinct bump at , like , a hundred , which must have been some problem .
+
+dialogue type : s
+F : 
+
+dialogue type : s^2^e
+F :  In the recording
+
+dialogue type : s
+F :  And there was this one meeting , I forget which one it was , where like , uh , six out of the eight channels were all , like had a hundred percent error .
+
+dialogue type : fg
+F : 
+
+dialogue type : fg
+F : 
+
+dialogue type : fg|s
+F :  So , if I excluded the pathological ones , by definition , those that had like over ninety - five percent error rate , and the non - natives , then the average error rate was like one point four or something ,
+
+dialogue type : sj
+F :  which which seemed reasonable given that , you know , the models weren't tuned for for it .
+
+dialogue type : s
+F :  And the grammar wasn't tuned either .
+
+dialogue type : s.%-
+F :  It was just a @ @ .
+
+dialogue type : s^ng
+F :  I haven't split it up that way ,
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  But if you p if you actually histogrammed it , and it was a nice uh , you know , it it was zero was the most of them ,
+
+dialogue type : s
+F :  but then there were the others were sort of decaying from there .
+
+dialogue type : s
+F :  And then there was the bump for the non - natives and then the pathological ones ,
+
+dialogue type : fh
+F :  so .
+
+dialogue type : h|s
+F :  Oh , well , yeah , so I 've been struggling with the forced alignments .
+
+dialogue type : fh|s
+F :  Um . So the scheme that I drew on the board last time where we tried to , um allow reject models for the s speech from other speakers ,
+
+dialogue type : fh|s
+F :  um , most of the time it doesn't work very well .
+
+dialogue type : fh|s.%--
+F : 
+
+dialogue type : s
+F :  And it looks And so I looked at all of the utterances from you , Chuck , in that one conversation ,
+
+dialogue type : s
+F :  I don't know which You probably know which one I mean , it 's where you were on the lapel and Morgan was sitting next to you
+
+dialogue type : s
+F :  and we can hear everything Morgan says .
+
+dialogue type : fh|s
+F :  But and and some of what you I mean , you also appear quite a bit in that cross - talk .
+
+dialogue type : fh|s
+F :  So , I actually went through all of those ,
+
+dialogue type : s
+F :  there were I think fifty - five segments , um , in in X Waves , and and sort of did a crude check ,
+
+dialogue type : fh|s
+F :  and more often than not , it it gets it wrong .
+
+dialogue type : s
+F :  So there 's either the beginning , mostly the beginning word , where th you , um , you know , Chuck talks somewhere into the segment ,
+
+dialogue type : s:s
+F :  but the first , um , word of what he says , often " I "
+
+dialogue type : s:s
+F :  but it 's very reduced " I , "
+
+dialogue type : s
+F :  that 's just aligned to the beginning of someone else 's speech , uh in that segment ,
+
+dialogue type : s:s
+F :  which is cross - talk .
+
+dialogue type : fh|s
+F :  So , um , I 'm still tinkering with it ,
+
+dialogue type : s
+F :  but it might well be that we can't get clean alignments out of this out of those , uh , channels ,
+
+dialogue type : fh
+F :  so .
+
+dialogue type : s^aa
+F :  Yeah , right .
+
+dialogue type : sj^nd
+F :  I don't thi I d I don't think that was the issue .
+
+dialogue type : s
+F :  The issue was that you have to you have have you first have to have a pretty good speech detection on the individual channels .
+
+dialogue type : s^no
+F :  I haven't checked those yet .
+
+dialogue type : s^df
+F :  It 's very tedious to check these .
+
+dialogue type : fh|s
+F :  Um , we would really need , ideally , a transcriber to time mark the you know , the be at least the beginning and s ends of contiguous speech .
+
+dialogue type : fh|s
+F :  Um , and , you know , then with the time marks , you can do an automatic comparison of your of your forced alignments .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  No , that 's how I 've been looking at it .
+
+dialogue type : s^e
+F :  I mean , I don't care that the individual words are aligned correctly ,
+
+dialogue type : fh|s
+F :  but you don't wanna , uh , infer from the alignment that someone spoke who didn't .
+
+dialogue type : fh.%
+F : 
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  so I would need a k I would need a channel that has a speaker whose who has a lot of overlap but s you know , is a non - lapel mike .
+
+dialogue type : fh|s
+F :  And , um , where preferably , also there 's someone sitting next to them who talks a lot .
+
+dialogue type : fh|%-
+F : 
+
+dialogue type : s^cs.%--
+F :  maybe someone can help me find a good candidate and then I would be willing to
+
+dialogue type : %-
+F :  you know , hand
+
+dialogue type : qy^2^d^rt
+F :  From the insertions , maybe ?
+
+dialogue type : %-
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^cc
+F :  I 'm probably going to spend another day or so trying to improve things by , um , by using , um , acoustic adaptation .
+
+dialogue type : fh|s
+F :  Um , the Right now I 'm using the unadapted models for the forced alignments ,
+
+dialogue type : s^cs
+F :  and it 's possible that you get considerably better results if you , uh , manage to adapt the , uh , phone models to the speaker and the reject model to the to to all the other speech .
+
+dialogue type : fh
+F :  Um , so
+
+dialogue type : s^aa
+F :  That 's what I just said .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^bk
+F :  Oh , oh , I see .
+
+dialogue type : h
+F :  Um ,
+
+dialogue type : %-
+F : 
+
+dialogue type : %-
+F :  th
+
+dialogue type : s^aa
+F :  Exactly .
+
+dialogue type : s.%-
+F :  So you want to u
+
+dialogue type : sj^ba
+F :  That 's a good point .
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : qy^d^rt
+F :  Some good jokes in it ?
+
+dialogue type : s
+F :  Po - low power
+
+dialogue type : s^cs
+F :  So we could compare before and after
+
+dialogue type : %-
+F : 
+
+dialogue type : s^fe
+F :  oh , Darn !
+
+dialogue type : fg|s
+F :  Uh , actually I have to to go .
+

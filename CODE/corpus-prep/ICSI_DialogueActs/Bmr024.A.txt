@@ -1,0 +1,309 @@
+dialogue type : fg
+A :  Oh .
+
+dialogue type : qy^cs^d^rt^t
+A :  Files and directories ?
+
+dialogue type : s
+A :  And I and I think a crucial part of that is the idea of of not wanting to do it until right before the next level zero back - up so that there won't be huge number of of added ,
+
+dialogue type : fh
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Uh - huh .
+
+dialogue type : sj^ba
+A :  Oh , excellent .
+
+dialogue type : sj^ba
+A :  Oh , good .
+
+dialogue type : qw^bu^d^fa^rt
+A :  I 'm sorry , you 've been what ?
+
+dialogue type : qy^bu^d^rt
+A :  Showing them ?
+
+dialogue type : s^m
+A :  Sharing them .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  As long as they have one number , and they know that there 's only one beep maximum that goes with that number .
+
+dialogue type : qy.%--
+A : 
+
+dialogue type : qy^rt
+A :  Yeah , but are we having them do digits ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b.%
+A :  OK .
+
+dialogue type : b.%
+A :  OK .
+
+dialogue type : sj^ba
+A :  That 'd be great .
+
+dialogue type : s
+A :  That 'd be what I 'm having the transcribers here do , cuz it can be extracted later .
+
+dialogue type : b.%
+A :  Hmm .
+
+dialogue type : s
+A :  We 're doing well .
+
+dialogue type : s
+A :  I I hire I 've hired two extra people already , expect to hire two more .
+
+dialogue type : s
+A :  And , um , I 've prepared , um , uh , a set of five which I 'm which I 'm calling set two ,
+
+dialogue type : s
+A :  which are now being edited by my head transcriber , in terms of spelling errors and all that .
+
+dialogue type : s
+A :  She 's also checking through and mar and and monitoring , um , the transcription of another transcriber .
+
+dialogue type : s
+A :  You know , I mean , she 's going through and doing these kinds of checks .
+
+dialogue type : s
+A :  And , I 've moved on now to what I 'm calling set three .
+
+dialogue type : s
+A :  I sort of thought if I do it in sets groups of five , then I can have , like , sort of a a parallel processing through through the the current .
+
+dialogue type : s
+A :  And and you indicated to me that we have a g a goal now , for the for the , um , the , uh , DARPA demo , of twenty hours .
+
+dialogue type : s
+A :  So , I 'm gonna go up to twenty hours , be sure that everything gets processed , and released , and and that 's that 's what my goal is .
+
+dialogue type : s
+A :  Package of twenty hours right now , and then once that 's done , move on to the next .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg
+A :  Good .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s
+A :  They would like to do it full - time , several of these people .
+
+dialogue type : fh|s
+A :  And and I don't think it 's possible , really , to do this full - time , but , that what it shows is motivation to do as many hours as possible .
+
+dialogue type : sj
+A :  And they 're really excellent .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : sj
+A :  Got a good core group now .
+
+dialogue type : s
+A :  Again .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s.%--
+A : 
+
+dialogue type : s.%--
+A : 
+
+dialogue type : fh
+A : 
+
+dialogue type : fh
+A : 
+
+dialogue type : fh|s.%--
+A :  Uh , lemme say that my ,
+
+dialogue type : fh
+A : 
+
+dialogue type : fh
+A : 
+
+dialogue type : s
+A :  At present , um , the people have been doing these transcriptions a channel at a time .
+
+dialogue type : s
+A :  And , that sort of , um , is useful ,
+
+dialogue type : s
+A :  and t you know , and then once in a while they 'll have to refer to the other channels to clear something up .
+
+dialogue type : fh
+A :  OK .
+
+dialogue type : s
+A :  Well , I realize that , um , w i we we 're using the pre - segmented version ,
+
+dialogue type : fh|s
+A :  and , um , the pre - segmented version is extremely useful ,
+
+dialogue type : qy^cs
+A :  and wouldn't it be , useful also to have the visual representation of those segments ?
+
+dialogue type : s
+A :  And so I 've uh , I , uh , uh , I 've trained the new one uh , the new the newest one , to , um , use the visual from the channel that is gonna be transcribed at any given time .
+
+dialogue type : sj
+A :  And that 's just amazingly helpful .
+
+dialogue type : s
+A :  Because what happens then , is you scan across the signal and once in a while you 'll find a blip that didn't show up in the pre - segmentation .
+
+dialogue type : s
+A :  And that 'll be something like I it 's ver it 's interesting .
+
+dialogue type : s^na
+A :  Once in a while it 's a backchannel .
+
+dialogue type : s^rt
+A :  Sometimes it seems to be , um , similar to the ones that are being picked up .
+
+dialogue type : s
+A :  And they 're rare events , but you can really go through a meeting very quickly .
+
+dialogue type : s
+A :  You just you just , you know , yo you s you scroll from screen to screen , looking for blips .
+
+dialogue type : s
+A :  And , I think that we 're gonna end up with , uh better coverage of the backchannels ,
+
+dialogue type : s
+A :  but at the same time we 're benefitting tremendously from the pre - segmentation
+
+dialogue type : s^df
+A :  because there are huge places where there is just absolutely no activity at all .
+
+dialogue type : fh|sj
+A : 
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : fg|s
+A :  So I think that that 's gonna , also eh , you know , speed the efficiency of this part of the process .
+
+dialogue type : qy^d^rt
+A :  Well it it well , it 'd be preceded by " I 'm reading transcript so - and - so " ?
+
+dialogue type : fg|s.%-
+A : 
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : sj^ba.%
+A :  That 's a good idea .
+
+dialogue type : %-
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Oh .
+
+dialogue type : s.%-
+A : 
+
+dialogue type : %-
+A : 
+
+dialogue type : s
+A :  I ha I have an extra point , which is the naturalness issue .
+
+dialogue type : s
+A :  Because we have , like , meetings that have a reason .
+
+dialogue type : s
+A :  That 's one of the reasons that we were talking about this .
+
+dialogue type : s
+A :  And and those and this sounds like it 's more of an experimental setup .
+
+dialogue type : s
+A :  It 's got a different purpose .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : qy.%-
+A :  Would it be ?
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : %-
+A : 
+
+dialogue type : qy^2^d^rt
+A :  You saying NW archive ?
+
+dialogue type : s
+A :  Yep And if you did that during the day it would never make it to the nightly back - ups .
+
+dialogue type : s
+A :  And then there wouldn't be this extra load .
+
+dialogue type : s^df
+A :  Well , but you can have it NW archive to you can have , uh , a non - backed - up disk NW archived ,
+
+dialogue type : s^e
+A :  and it 'll never show up on the nightly back - ups .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  Sixteen to eighteen , I think .
+
+dialogue type : s^aap
+A :  Roughly .
+
+dialogue type : s^aa
+A :  OK .
+

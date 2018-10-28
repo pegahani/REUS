@@ -1,0 +1,651 @@
+dialogue type : z
+A :  OK ,
+
+dialogue type : z
+A :  we 're going .
+
+dialogue type : qy^d^rt
+A :  Just for a visit ?
+
+dialogue type : b
+A :  Huh .
+
+dialogue type : s^ba
+A :  Cool .
+
+dialogue type : s^ba
+A :  Really nice guy .
+
+dialogue type : s
+A :  Wh - Back when I was a grad student he was here for a , uh , uh a year or n six months .
+
+dialogue type : s
+A :  Something like that .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : fg|s^tc
+A :  So , um , I guess we got lots to catch up on .
+
+dialogue type : s^df
+A :  And we haven't met for a couple of weeks .
+
+dialogue type : s
+A :  We didn't meet last week , Morgan .
+
+dialogue type : fh|s
+A :  Um , I went around and talked to everybody ,
+
+dialogue type : s
+A :  and it seemed like they they had some new results
+
+dialogue type : s
+A :  but rather than them coming up and telling me I figured we should just wait a week and they can tell both you know , all of us .
+
+dialogue type : fh
+A :  So , um ,
+
+dialogue type : qw^co
+A :  why don't we why don't we start with you , Dave ,
+
+dialogue type : s^co
+A :  and then , um , we can go on .
+
+dialogue type : fh
+A :  So .
+
+dialogue type : s^bk^m
+A : 
+
+dialogue type : s^bu
+A :  Twelve twelve seconds back from the current frame ,
+
+dialogue type : qy^rt
+A :  is that what you mean ?
+
+dialogue type : s^bk
+A :  OK ,
+
+dialogue type : s^bk^r
+A :  OK .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Hmm !
+
+dialogue type : s
+A :  Yeah , it seems like for your I mean , in normal situations you would never get twelve seconds of speech ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : %-
+A :  I 'm not e u
+
+dialogue type : qy^rt
+A :  Is this twelve seconds of uh , regardless of speech or silence ?
+
+dialogue type : qrr
+A :  Or twelve seconds of speech ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Oh ,
+
+dialogue type : qy^bu^d^rt
+A :  so you you cache the utterances ?
+
+dialogue type : s^bu.%--
+A :  That 's how you get your ,
+
+dialogue type : fh
+A : 
+
+dialogue type : s^bk
+A :  Ah .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^cs.%--
+A : 
+
+dialogue type : s^bd
+A : 
+
+dialogue type : s^cs
+A :  but if you had could have a system where , before they began to use it they had to introduce themselves , verbally .
+
+dialogue type : fh
+A :  You know .
+
+dialogue type : s:s
+A :  " Hi ,
+
+dialogue type : s:s
+A :  my name is so - and - so ,
+
+dialogue type : s:s
+A :  I 'm from blah - blah - blah . "
+
+dialogue type : s^df
+A :  And you could use that initial speech to do all these adaptations
+
+dialogue type : %--
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^rt
+A :  So is that , uh that it ?
+
+dialogue type : s^bk
+A :  OK ,
+
+dialogue type : fh|qy^co^rt^tc
+A :  uh , do you wanna go , Sunil ?
+
+dialogue type : qy^bu^d^rt
+A :  Improves over the base line MFCC system ?
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : qy^rt
+A :  Is this with the v new VAD ?
+
+dialogue type : qy^rt
+A :  Can I ask just a a high level question ?
+
+dialogue type : qy^co
+A :  Can you just say like one or two sentences about Wiener filtering and why why are people doing that ?
+
+dialogue type : qw
+A :  What 's what 's the deal with that ?
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : qy^rt
+A :  Do you assume the noise is the same ?
+
+dialogue type : s^bk
+A :  Uh - huh .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^rt
+A :  So is this , um , basically s uh , similar to just regular spectral subtraction ?
+
+dialogue type : s^bk
+A :  Uh - huh .
+
+dialogue type : qy^rt
+A :  Do people use the Wiener filtering in combination with the spectral subtraction typically ,
+
+dialogue type : qrr
+A :  or is i are they sort of competing techniques ?
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^bk
+A :  O oh , OK .
+
+dialogue type : s^bk
+A :  I see ,
+
+dialogue type : s^bk^r
+A :  I see .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw
+A :  So why did you choose , uh , Wiener filtering over some other one of these other techniques ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s^bu
+A :  So you 're sort of trying @ @ them all .
+
+dialogue type : s^bk
+A :  Ah ,
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Ah ,
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  That makes sense .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s^ba
+A :  Cool ,
+
+dialogue type : s^ft
+A :  thanks .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+A :  So that 's sort of like , you know , best - case performance ?
+
+dialogue type : qy^d^rt
+A :  Tha - that it ?
+
+dialogue type : s^ba
+A :  Cool .
+
+dialogue type : qy^co^rt^tc
+A :  Do you wanna go , Stephane ?
+
+dialogue type : qw^d.%--
+A :  " Subtracting more " , meaning ?
+
+dialogue type : s^bk
+A :  Oh , OK .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw^d^m^rt
+A :  Speech - shaped ?
+
+dialogue type : qy^rt
+A :  So when y when you talk about there being something less than zero after subtracting the noise , is that at a particular frequency bin ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : qy^rt
+A :  And so when you say you 're adding something that has the overall shape of speech , is that in a in a particular frequency bin ?
+
+dialogue type : qrr^d
+A :  Or you 're adding something across all the frequencies when you get these negatives ?
+
+dialogue type : s^bk
+A :  Ah !
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  I gotcha .
+
+dialogue type : s^bk
+A :  Right .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : fg|qw
+A :  So what does that mean ?
+
+dialogue type : s
+A :  I 'm trying to understand what it means when you do the spectral subtraction and you get a negative .
+
+dialogue type : s^bu.%-
+A : 
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^bu
+A :  So in in an ideal word i world if the noise were always the same , then , when you subtracted it the worst that i you would get would be a zero .
+
+dialogue type : s
+A :  I mean , the lowest you would get would be a zero ,
+
+dialogue type : s^bu^df
+A :  cuz i if there was no other energy there you 're just subtracting exactly the noise .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s
+A :  Sort of the opposite of that would be if if you find out you 're going to get a negative number , you don't do the subtraction for that bin .
+
+dialogue type : s^bu
+A :  That would be almost the opposite ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : s^bu
+A :  Instead of leaving it negative , you don't do it .
+
+dialogue type : s^bu
+A :  If your if your subtraction 's going to result in a negative number , you you don't do subtraction in that .
+
+dialogue type : s^bk
+A :  Yeah .
+
+dialogue type : s^df
+A :  Yeah , I 'm just saying that 's like the opposite .
+
+dialogue type : fh
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : qw
+A :  What is it the , um , France Telecom system uses
+
+dialogue type : qr
+A :  for Do they use spectral subtraction , or Wiener filtering ,
+
+dialogue type : fh
+A :  or ?
+
+dialogue type : s^bk
+A :  Oh .
+
+dialogue type : s^bk
+A :  I see .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^bk
+A :  Oh , I see .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : qy.%--
+A : 
+
+dialogue type : qy^rt
+A :  Well , do you get this musical noise stuff with Wiener filtering
+
+dialogue type : qrr
+A :  or is that only with , uh , spectral subtraction ?
+
+dialogue type : qy
+A :  Does the smoothing in the time domain help with that ?
+
+dialogue type : qrr
+A :  Or some other smoothing ?
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^bu^d
+A :  That 's the musical noise ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy^rt
+A :  Could you train a neural net to do spectral subtraction ?
+
+dialogue type : s^bk
+A :  Yeah ,
+
+dialogue type : s.%-
+A : 
+
+dialogue type : qy^2^d^rt
+A :  People do that ?
+
+dialogue type : s^bk
+A :  Hmm .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw
+A :  How did it compare on I mean , for for good cases where it it uh , stuff that it was trained on ?
+
+dialogue type : qy^rt
+A :  Did it do pretty well ?
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s^2
+A :  You could say it 's sort of built in .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qw^d^rt
+A :  And that 's what causes the latency ?
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Oh !
+
+dialogue type : s^ft
+A :  Sorry .
+
+dialogue type : s
+A :  A quick question just about the latency thing .
+
+dialogue type : qy^rt
+A :  If if there 's another part of the system that causes a latency of a hundred milliseconds , is this an additive thing ?
+
+dialogue type : qrr
+A :  Or c or is yours hidden in that ?
+
+dialogue type : fh
+A : 
+
+dialogue type : s^bk
+A :  It 's additive .
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : s^bk
+A :  Uh - huh .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : qy.%--
+A :  I mean , couldn't ,
+
+dialogue type : fh
+A : 
+
+dialogue type : %--
+A : 
+
+dialogue type : qy
+A :  Couldn't you just also I mean , i if you know that the l the largest latency in the system is two hundred milliseconds , don't you couldn't you just buffer up that number of frames
+
+dialogue type : s^e^rt
+A :  and then everything uses that buffer ?
+
+dialogue type : s^e^rt
+A :  And that way it 's not additive ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^bk
+A :  Mm - hmm .
+
+dialogue type : s^bk|s^ng
+A :  Yeah , I wasn't thinking of that one in particular
+
+dialogue type : qy^rt
+A :  but more of , you know , if if there is some part of your system that has to buffer twenty frames , uh , can't the other parts of the system draw out of that buffer and therefore not add to the latency ?
+
+dialogue type : s^bk
+A :  Oh !
+
+dialogue type : qy^bh
+A :  Hmm .
+
+dialogue type : qy^d^rt
+A :  So you have one minimum for each frequency ?
+
+dialogue type : s^bk
+A :  Mmm .
+
+dialogue type : b
+A :  Mmm .
+
+dialogue type : s
+A :  It 'll keep going till I guess when they run out of disk space ,
+
+dialogue type : %--
+A : 
+
+dialogue type : s
+A :  I think we 're OK .
+
+dialogue type : fg
+A :  OK ,
+
+dialogue type : qy^co^rt^tc
+A :  shall we , uh , do digits ?
+
+dialogue type : qy^co^rt
+A :  Want to go ahead , Morgan ?
+
+dialogue type : z
+A :  OK .
+

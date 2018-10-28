@@ -1,0 +1,1314 @@
+dialogue type : z
+C :  Nice .
+
+dialogue type : z
+C :  Right .
+
+dialogue type : z
+C :  Yeah , I 've have never handled them .
+
+dialogue type : z
+C :  Wow .
+
+dialogue type : z
+C :  Johno , where are you ?
+
+dialogue type : qy^rt
+C :  Should you go back to the first one ?
+
+dialogue type : %-
+C :  Well
+
+dialogue type : s^bd.%-
+C : 
+
+dialogue type : s^bk|s
+C :  Yeah , um Well , " the search for the middle layer " .
+
+dialogue type : s
+C :  It 's basically uh talks about uh It just refers to the fact that uh one of main things we had to do was to decide what the intermediate sort of nodes were ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : qy^rt
+C :  Can you maximize the window ?
+
+dialogue type : qy
+C :  Can you maximize the window so all that stuff on the side isn't doesn't appear ?
+
+dialogue type : s^bk
+C :  OK , fine .
+
+dialogue type : s^bk
+C :  Alright .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^nd.%-
+C :  We have a separate
+
+dialogue type : s^bsc
+C :  feature .
+
+dialogue type : s.%-
+C :  Like you could have a p
+
+dialogue type : s
+C :  You Like you could have a post office with uh you know , nice murals or something .
+
+dialogue type : s^na
+C :  Architecturally appealing from the outside .
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : s
+C :  we meant , uh , touristic reasons .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  If you have N features , then it 's two to the N or exponential in N .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s
+C :  they 'd all be like pointing to the one node .
+
+dialogue type : s^2
+C :  Want to do Vista ,
+
+dialogue type : qy^d^g
+C :  right ?
+
+dialogue type : s^df
+C :  Because if you want to view things you wouldn't be in a hurry .
+
+dialogue type : fg
+C :  Yeah ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^ar
+C :  Not at all .
+
+dialogue type : s^r
+C :  That 's that that needs a lot of work .
+
+dialogue type : s
+C :  But uh that would 've made the probably significantly be more complicated to enter ,
+
+dialogue type : s^rt
+C :  so we decided that for the purposes of this it 'd be simpler to just have three verbs .
+
+dialogue type : s^bk|s
+C :  OK , so Yeah , so note the four nodes down there , the sort of , the things that are not directly extracted .
+
+dialogue type : s^bsc
+C :  Actually , the five things .
+
+dialogue type : s
+C :  The " closed " is also not directly extracted I guess ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^ar
+C :  Actually , no ,
+
+dialogue type : s^co
+C :  wait .
+
+dialogue type : s^aa^bsc
+C :  It is .
+
+dialogue type : s
+C :  OK , " closed " sort of is .
+
+dialogue type : s^bk
+C :  Right ,
+
+dialogue type : %-
+C :  so f
+
+dialogue type : fg
+C :  Right ,
+
+dialogue type : s
+C :  but the other ones , the final destination , the whether they 're doing business , whether they 're in a hurry , and whether they 're tourists ,
+
+dialogue type : s
+C :  that kind of thing is all uh sort of you know probabilistically depends on the other things .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  And the mode , you know , depends on all those things only .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Like we don't have nodes for " discourse " and " parse " ,
+
+dialogue type : s
+C :  although like in some sense they are parts of this belief - net .
+
+dialogue type : s
+C :  But uh The idea is that we just extract those features from them , so we don't actually have a node for the entire parse ,
+
+dialogue type : s
+C :  because we 'd never do inference on it anyway ,
+
+dialogue type : fh
+C :  so .
+
+dialogue type : s
+C :  whether they discuss the admission fees .
+
+dialogue type : s
+C :  So we looked at the data
+
+dialogue type : s:qw
+C :  and in a lot of data people were saying things like " Can I get to this place ? "
+
+dialogue type : s:qw
+C :  " What is the admission fee ? " .
+
+dialogue type : s
+C :  So that 's like a huge uh clue that they 're trying to Enter the place rather than uh to Tango or Vista ,
+
+dialogue type : fg
+C :  so .
+
+dialogue type : s
+C :  That was like our example .
+
+dialogue type : h
+C :  Um .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^t1
+C :  So let 's see .
+
+dialogue type : s
+C :  The variables .
+
+dialogue type : s
+C :  Disc - " admission fee " is a binary thing ,
+
+dialogue type : s^bu^rt
+C :  " time of day " is like morning , afternoon , night .
+
+dialogue type : qy^d^g^rt
+C :  Is that the deal ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s
+C :  Normally context will include a huge amount of information ,
+
+dialogue type : s^rt
+C :  but um , we are just using the particular part of the context which consists of the switch that they flick to indicate whether they 're a tourist or not , I guess .
+
+dialogue type : fg
+C : 
+
+dialogue type : s^aa
+C :  Right ,
+
+dialogue type : s
+C :  so it 's not really all of context .
+
+dialogue type : s
+C :  Similarly prosody is not all of prosody
+
+dialogue type : s
+C :  but simply for our purposes whether or not they appear tense or relaxed .
+
+dialogue type : %-
+C :  and
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^bk^m
+C :  Unknown ,
+
+dialogue type : qy^f^g^rt
+C :  right ?
+
+dialogue type : qw
+C :  Which is th Which one ?
+
+dialogue type : s^aa
+C :  Yeah , it does .
+
+dialogue type : s
+C :  Everything is probablistic ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : h|s^bk
+C :  Um , right .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^fe
+C :  Oh ,
+
+dialogue type : s^fa
+C :  sorry .
+
+dialogue type : s.%--
+C :  " Verb used " is like ,
+
+dialogue type : s
+C :  right now we only have three values ,
+
+dialogue type : s
+C :  but in general they would be a probability distribution over all verbs .
+
+dialogue type : s.%--
+C :  Rather ,
+
+dialogue type : s
+C :  let me rephrase that .
+
+dialogue type : s^bsc^rt
+C :  It it can take values in the set of all verbs , that they could possibly use .
+
+dialogue type : s
+C :  Um " nice walls " is binary ,
+
+dialogue type : s
+C :  " closed " is binary
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Yeah , all those are binary I guess .
+
+dialogue type : s
+C :  And " mode " is one of three things .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s
+C :  anything with a question mark after it in that picture is a binary node .
+
+dialogue type : qw
+C :  Which things ?
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s
+C :  " Nice walls " is uh something that we extract from our world knowledge .
+
+dialogue type : s^bk
+C :  Yeah , a Oh
+
+dialogue type : s^aa
+C :  yeah . Sorry . It is binary .
+
+dialogue type : s^aa
+C :  That 's true .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  OK , I see your point .
+
+dialogue type : s
+C :  Yeah , similarly " closed " , I guess .
+
+dialogue type : s.%--
+C :  Well , we
+
+dialogue type : s
+C :  To do that we would add another uh value for that .
+
+dialogue type : s
+C :  And that would require s updating the probability distribution for " mode " as well .
+
+dialogue type : s^df
+C :  Because it would now have to like uh take that possibility into account .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg
+C :  Right .
+
+dialogue type : qy^bu^rt
+C :  Other syntactic information you mean ?
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^aa
+C :  right .
+
+dialogue type : b
+C :  Yeah ,
+
+dialogue type : b
+C :  correct .
+
+dialogue type : s^na
+C :  We can do a little demo .
+
+dialogue type : s^df
+C :  I mean We can do a demo in the sense that we can um , just ob observe the fact that this will , in fact do inference .
+
+dialogue type : s
+C :  So we can , you know , set some of the uh nodes
+
+dialogue type : s
+C :  and then try to find the probability of other nodes .
+
+dialogue type : s^co
+C :  Just se set a few of them .
+
+dialogue type : s^co
+C :  You don't have to do the whole thing that we did last time .
+
+dialogue type : s
+C : 
+
+dialogue type : s^co
+C :  Actually forget the verb .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^no
+C :  I don't know ,
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  and uh the place has nice walls
+
+dialogue type : s
+C :  and it 's night .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^ar^bsc
+C :  no
+
+dialogue type : h
+C :  wait .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^df
+C :  it 's not really consistent .
+
+dialogue type : s
+C :  They don't discuss the admission fee .
+
+dialogue type : s^co
+C :  Make that false .
+
+dialogue type : s
+C :  And it 's night .
+
+dialogue type : s
+C :  That didn't work .
+
+dialogue type : s^tc
+C :  OK .
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s^co
+C :  " Go " and , right , " query " .
+
+dialogue type : s
+C :  So that is the probability that they 're Entering , Vista - ing or Tango - ing .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^j
+C :  It loves the Tango .
+
+dialogue type : s
+C :  Well , that 's obviously just to do with our probabilities .
+
+dialogue type : s
+C :  Like , we totally hand - tuned the probabilities ,
+
+dialogue type : b
+C :  right .
+
+dialogue type : s:s^cs
+C :  We were like " hmm , well if the person does this and this and this , let 's say forty percent for this ,
+
+dialogue type : s.%--
+C :  fifty per " Like , you know .
+
+dialogue type : s
+C :  So obviously that 's gonna happen .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^cs
+C :  It 's So we have to like fit the probabilities .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Um . Well , yeah ,
+
+dialogue type : s^am
+C :  I guess .
+
+dialogue type : s^arp
+C :  Not that much though .
+
+dialogue type : s^df
+C :  Only a little early .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : h|s^bk
+C :  Um . Yeah ,
+
+dialogue type : h|sj^ba
+C :  well That 's that 's an interesting point .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s:qy
+C :  I think it 's more like " Are you are tourist ?
+
+dialogue type : s.%-
+C :  are you in Ham - like Heidelberg for a "
+
+dialogue type : s^nd
+C :  That 's a different thing .
+
+dialogue type : qh:s
+C :  What if the context , which is not set , but still they say things like , " I want to go uh , see the uh the the castle and uh , et cetera . "
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  Business on the other hand is , uh , definitely what you 're doing .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  kinda thing .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^no
+C :  I don't know ,
+
+dialogue type : s.%--
+C :  like in d
+
+dialogue type : qy.%--
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  If the context were to set one way or another , that like strongly uh um , says something about whether whether or not they 're tourists .
+
+dialogue type : s^rt
+C :  So what 's interesting is when it 's not when it 's set to " unknown " .
+
+dialogue type : s
+C :  Right now we haven't observed it ,
+
+dialogue type : s^am
+C :  so I guess it 's sort of averaging over all those three possibilities .
+
+dialogue type : s^aa^df
+C :  But yes ,
+
+dialogue type : s^na^rt
+C :  you can set it to un " unknown " .
+
+dialogue type : s^ar
+C :  Well no ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : h
+C :  Yeah ,
+
+dialogue type : sj^ba
+C :  it 's it 's an it 's an issue ,
+
+dialogue type : qy^d^f^g
+C :  right ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^aa
+C :  it is .
+
+dialogue type : s^rt
+C :  So the issue is that um in belief - nets , it 's not common to do what we did of like having , you know , a d bunch of values and then " unknown " as an actual value .
+
+dialogue type : s
+C :  What 's common is you just like don't observe the variable ,
+
+dialogue type : qy^d^g
+C :  right ,
+
+dialogue type : s
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C : 
+
+dialogue type : s^no
+C :  But uh I don't know y what the right thing is to do for that .
+
+dialogue type : s
+C :  I 'm not I don't know if I totally am happy with the way it is .
+
+dialogue type : qw^br^rt
+C :  Another node on what ?
+
+dialogue type : sj^ba
+C :  Good point .
+
+dialogue type : s
+C :  So basically it 's addressing a variable that 's " enterable or not " .
+
+dialogue type : s
+C :  So like an " enterable , question mark " .
+
+dialogue type : qw^br
+C :  What ?
+
+dialogue type : s^arp
+C :  Um . Not when we were doing this ,
+
+dialogue type : s
+C :  but I guess at some point we did .
+
+dialogue type : qy^rt
+C :  So you want to have a a node for like whether or not it can be entered ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : qw
+C :  What would it , uh , connect to ?
+
+dialogue type : qw^e
+C :  Like , what would , uh , it affect ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^no
+C :  I don't know if JavaBayes is nice about that .
+
+dialogue type : s
+C :  It might be that if you add a new thing pointing to a variable , you just like it just overwrites everything .
+
+dialogue type : s^cs
+C :  But you can check .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  It 's true .
+
+dialogue type : sj^ba
+C :  Well that 's fine ,
+
+dialogue type : s
+C :  but we have to see the function now .
+
+dialogue type : qr
+C :  Has it become all point fives or not ?
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^ng
+C :  This is fine ,
+
+dialogue type : s
+C :  this business .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : s
+C :  What would be nice if it is if it just like kept the old function for either value
+
+dialogue type : fh
+C :  but .
+
+dialogue type : s^ar
+C :  Nope .
+
+dialogue type : s
+C :  Didn't do it .
+
+dialogue type : sj^ba
+C :  That 's kind of annoying .
+
+dialogue type : h
+C :  Hmm .
+
+dialogue type : qy^rt
+C :  Ha - So have you used JavaBayes a lot ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^na
+C :  It might be worth uh asking around .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : s^na
+C :  S I guess he 'd be the person .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s
+C :  I mean in a way this is a lot of good features in Java
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I guess those are the main two things .
+
+dialogue type : s
+C :  It does learning ,
+
+dialogue type : %-
+C : 
+
+dialogue type : qy^br
+C :  What ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Oh right .
+
+dialogue type : s
+C :  Maybe you 're right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : fh|s
+C :  But uh it 's free .
+
+dialogue type : fg
+C :  But uh ,
+
+dialogue type : fh
+C :  yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  But I mean its interface is not the greatest .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  There is actually a text file that you can edit .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  You don't have to do that .
+
+dialogue type : qy^bu^m^rt
+C :  Is it XML ?
+
+dialogue type : s^bk
+C :  Oh , I see .
+
+dialogue type : s^ar
+C :  No this doesn't use it .
+
+dialogue type : s^df
+C :  I didn't think it did .
+
+dialogue type : s^cs
+C :  You can look at the text file .
+
+dialogue type : qy^rt
+C :  But do you have it here ?
+
+dialogue type : s^df
+C :  Well , maybe you don't .
+
+dialogue type : s^bk^m
+C :  Oh yes ,
+
+dialogue type : s
+C :  of course .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^ar
+C :  Nope .
+
+dialogue type : s^co
+C :  Just s l start up a new DOS .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^aa
+C :  Yeah , right .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s
+C :  It 'll ask you what you what it wants what you want to open it with and see what BAT , I guess .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^fe
+C :  Oh !
+
+dialogue type : s^tc
+C :  Anyway , there it is .
+
+dialogue type : h|s^aa
+C :  Uh , Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  That 's how actual probability tables are specified .
+
+dialogue type : s
+C :  As , like , lists of numbers .
+
+dialogue type : s
+C :  So theoretically you could edit that .
+
+dialogue type : s
+C :  But they 're not very friendly .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^am
+C :  I think so .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fg
+C :  Yeah
+
+dialogue type : s^cs^rt
+C :  we can maybe write an interface th for uh entering probability distributions easily ,
+
+dialogue type : s^e
+C :  something like like a little script .
+
+dialogue type : s^df
+C :  That might be worth it .
+
+dialogue type : s
+C :  The other thing is it is in Java
+
+dialogue type : fg
+C :  so .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Uh , yeah . we do
+
+dialogue type : s
+C :  I I saw directory called " source " ,
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^co^rt
+C :  Go up one ?
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^no
+C :  I don't know if it actually manipulate the source , though .
+
+dialogue type : sj
+C :  That might be a bit complicated .
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : s
+C :  It 's , like , friendly ,
+
+dialogue type : sj
+C :  it allows you enter things well .
+
+dialogue type : fg
+C :  Mm - hmm .
+
+dialogue type : qy^bu^rt
+C :  He 's Like this guy has ?
+
+dialogue type : qy^bu^d^g^rt
+C :  The JavaBayes guy ?
+
+dialogue type : s
+C :  So but , e he doesn't use it .
+
+dialogue type : qw
+C :  So in what sense has he updated it ?
+
+dialogue type : s^bk
+C :  Oh . I see .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : sj^ba
+C :  That would be awesome .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  Um . The additional thing is I guess learning the probabilities , also .
+
+dialogue type : s.%--
+C :  E That 's maybe ,
+
+dialogue type : s^no.%-
+C : 
+
+dialogue type : %-
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^bk^m
+C :  Very future .
+
+dialogue type : s^fe
+C :  Ha .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Sure .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s^bu
+C :  So essentially a lot of those nodes can be expanded into little Bayes - nets of their own .
+
+dialogue type : s^am
+C :  Yeah .
+
+dialogue type : s^aa
+C :  That 's true .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s^cs
+C :  Or we could like add more , uh , sort of middle nodes .
+
+dialogue type : s:qw
+C :  Like we could add a node like do they want to enter it ,
+
+dialogue type : s
+C :  which is affected by admission fee and by whether it 's closed and by whether it has a door .
+
+dialogue type : s
+C :  So it 's like There are Those are the two options .
+
+dialogue type : s
+C :  Either like make an arrow directly or put a new node .
+
+dialogue type : qy^bh
+C :  Really .
+
+dialogue type : b
+C :  Yeah . Yeah .
+
+dialogue type : qw
+C :  What ?
+
+dialogue type : qw
+C :  Why ?
+
+dialogue type : qy^bh^rt
+C :  Really ?
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^e
+C :  And there 's much more of them .
+
+dialogue type : s^e
+C :  Yeah , they 're Yeah , it 's way better
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  I 've done that kind of thing .
+
+dialogue type : s
+C :  I I want to see what it does with uh " landmark - iness " .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C :  So .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  OK .
+
+dialogue type : qw^d^rt
+C :  For which ?
+
+dialogue type : s
+C :  Just observable nodes ,
+
+dialogue type : s
+C :  evidence nodes ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s.%-
+C : 
+
+dialogue type : s
+C :  The probabilities and all are completely ad - hoc .
+
+dialogue type : s^cs
+C :  We need to look at all of them .
+
+dialogue type : s
+C :  I mean but , they 're even like I mean like , close to the end we were like , uh , you know we were like uh really ad - hoc .
+
+dialogue type : qy^d^f^g
+C :  Right ?
+
+dialogue type : s
+C :  Cuz if it 's like , uh If it 's four things coming in ,
+
+dialogue type : qy^d^f^g^rt
+C :  right ?
+
+dialogue type : s
+C :  And , say , some of them have like three possibilities and all that .
+
+dialogue type : s
+C :  So you 're thinking like like a hundred and forty four or something possible things numbers to enter ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s.%--
+C :  So .
+
+dialogue type : s
+C :  Yeah , the only like possible interpretation is that they are like come here just to rob the museum or something to that effect .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s^cs
+C :  Yeah , another thing to do , um , is also to , um I guess to ask around people about other Bayes - net packages .
+
+dialogue type : qy^rt
+C :  Is Srini gonna be at the meeting tomorrow ,
+
+dialogue type : qy^rt
+C :  do you know ?
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  Day after tomorrow .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^cs
+C :  Maybe we can ask him about it .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s
+C :  But he mentioned at the last meeting that someone was going to be talking ,
+
+dialogue type : s^no
+C :  I forget who .
+
+dialogue type : fh
+C :  Uh .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s.%--
+C :  But .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^rt
+C :  But once you start sart start SmartKom you can be on You don't have to be on a network anymore .
+
+dialogue type : qy^rt
+C :  Is that the deal ?
+
+dialogue type : sj^ba
+C :  Ah , interesting .
+
+dialogue type : qw
+C :  So who would be the subject of this trial run ?
+
+dialogue type : qy^rt
+C :  Who Will there be a Is one Is you one of you gonna be the subject ?
+
+dialogue type : qy.%--
+C : 
+
+dialogue type : s^df
+C :  Well I just figured it has to be someone who 's , um , familiar enough with the data to cause problems for the wizard , so we can , uh , see if they 're you know good .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^bu
+C :  I mean that 's what we wanna check ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : qy^rt
+C :  Isn't that what it is ?
+
+dialogue type : s^am
+C :  I guess that would be reasonable .
+
+dialogue type : s^j.%--
+C : 
+
+dialogue type : s^rt^tc
+C :  OK .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : qw
+C :  So what 's " Economics , the fallacy " ?
+
+dialogue type : qy^bh
+C :  Oh , really ?
+
+dialogue type : s^bk
+C :  OK .
+

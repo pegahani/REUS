@@ -1,0 +1,93 @@
+dialogue type : z
+G :  How about channel
+
+dialogue type : z
+G :  Alright .
+
+dialogue type : s^cs
+G :  But you can cancel that .
+
+dialogue type : qy^bh^d
+G :  Oh , really ?
+
+dialogue type : b
+G :  Huh !
+
+dialogue type : qw^cs
+G :  What if you preload them all ?
+
+dialogue type : qr^cs
+G :  What if you were to preload all the channels or
+
+dialogue type : %-
+G : 
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  Oh , OK .
+
+dialogue type : b
+G :  Hmm .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : qw^rt
+G :  What is patho what do you mean by pathological ?
+
+dialogue type : s^fa.%-
+G : 
+
+dialogue type : s^bk
+G :  Oh .
+
+dialogue type : s^bk
+G :  Oh , OK .
+
+dialogue type : s^bk
+G :  I see .
+
+dialogue type : b
+G :  Right .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Hmm !
+
+dialogue type : b
+G :  Right .
+
+dialogue type : qw^rt
+G :  The which one ?
+
+dialogue type : s^fa
+G :  I 'm sorry .
+
+dialogue type : s^bk
+G :  Oh , OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : s
+G :  Yeah , that 's the problem with the NSA speakers .
+
+dialogue type : b
+G :  Yeah .
+
+dialogue type : s^aa^rt
+G :  Right .
+
+dialogue type : b
+G :  Yeah .
+

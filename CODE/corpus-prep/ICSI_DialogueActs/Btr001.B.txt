@@ -1,0 +1,330 @@
+dialogue type : z
+B :  Just put your name on it , I think .
+
+dialogue type : z
+B :  Uh - huh .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : %
+B :  Ah !
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Oh , yeah .
+
+dialogue type : b
+B :  Euh .
+
+dialogue type : b
+B :  Euh .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^ba
+B :  Wow .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^bh
+B :  Really ?
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s
+B :  Seems like I always have to cut off pads at the end .
+
+dialogue type : s
+B :  I don't have so much problem at the beginning ,
+
+dialogue type : fh
+B :  but .
+
+dialogue type : s^ar|s
+B :  No , of n just nothing .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s
+B :  Unlike like a " tuh " or a " kuh " that just stops .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Oh .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : qy^bh
+B :  Hmm .
+
+dialogue type : s
+B :  I don't think I ever have .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^na
+B :  They used to .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s
+B :  I didn't get one either .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^ba
+B :  Oh wow .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^na
+B :  I kinda did too .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  Or if they 're breathing loudly .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^aa
+B :  Oh yeah .
+
+dialogue type : s^na
+B :  It 's really a laugh .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : %-
+B :  Uh like
+
+dialogue type : s:s^nd
+B :  " So , you can see you might be wrong ,
+
+dialogue type : s:s
+B :  but I don't want to actually say that . "
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : qy^bu^d
+B :  We we are meant to be transcribing if they 're just left in the the curly brackets ?
+
+dialogue type : s^arp
+B :  And sometimes they don't .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Oh .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^bk
+B :  Oh , I see .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : qy^rt
+B :  Oh , can I ask also ?
+
+dialogue type : fh|s^rt
+B :  Um , it says it looks like the groupings are important ,
+
+dialogue type : s
+B :  but some of the transcripts I 've seen they don't have any commas or breaks ,
+
+dialogue type : s^rt
+B :  it 's just a string of numbers .
+
+dialogue type : s^bu.%--
+B : 
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : qr^bu^d
+B :  But if you can clearly hear pauses and there 've not been transcribed , we should be adding the commas or not ?
+
+dialogue type : s
+B :  Though the one I 'm working on now is like that .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : z
+B :  It was hard !
+
+dialogue type : z
+B :  It is .
+
+dialogue type : z
+B :  OK .
+

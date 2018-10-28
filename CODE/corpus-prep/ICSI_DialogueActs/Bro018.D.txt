@@ -1,0 +1,465 @@
+dialogue type : s.%--
+D :  So .
+
+dialogue type : s
+D :  Yeah , I will try to explain the thing that I did this this week during this week .
+
+dialogue type : s
+D :  Well eh you know that I work I begin to work with a new feature to detect voice - unvoice .
+
+dialogue type : s^rt
+D :  What I trying two MLP to to the with this new feature and the fifteen feature uh from the eh bus base system
+
+dialogue type : s^ar|s.%--
+D :  No , satly the mes the Mel Cepstrum ,
+
+dialogue type : s
+D :  the new base system the new base system .
+
+dialogue type : s^aa|%-
+D : 
+
+dialogue type : s^aa|s
+D :  yeah the Aurora system with the new filter , VAD or something like that .
+
+dialogue type : s
+D :  And I 'm trying two MLP , one one that only have t three output ,
+
+dialogue type : s
+D :  voice , unvoice , and silence ,
+
+dialogue type : s
+D :  and other one that have fifty - six output .
+
+dialogue type : s
+D :  The probabilities of the allophone .
+
+dialogue type : s^rt
+D :  And I tried to do some experiment of recognition with that
+
+dialogue type : s
+D :  and only have result with with the MLP with the three output .
+
+dialogue type : s
+D :  And I put together the fifteen features and the three MLP output .
+
+dialogue type : s
+D :  And , well , the result are li a little bit better , but more or less similar .
+
+dialogue type : s.%-
+D :  Voice , unvoice , and si
+
+dialogue type : qy^bu^d^rt
+D :  The feature the input ?
+
+dialogue type : s
+D :  The inputs are the fifteen the fifteen uh bases feature .
+
+dialogue type : s
+D :  the with the new code .
+
+dialogue type : s
+D :  And the other three features are R , the variance of the difference between the two spectrum ,
+
+dialogue type : s
+D :  the variance of the auto - correlation function , except the the first point , because half the height value is R - zero
+
+dialogue type : s
+D :  and also R - zero ,
+
+dialogue type : s
+D :  the first coefficient of the auto - correlation function .
+
+dialogue type : s.%--
+D :  That is like the energy with these three feature ,
+
+dialogue type : s
+D :  also these three feature .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Uh yeah .
+
+dialogue type : s^ar
+D :  No ,
+
+dialogue type : s^ar
+D :  R c No .
+
+dialogue type : qy^bu^d^rt
+D :  Auto - correlation ?
+
+dialogue type : s^aa|s
+D :  Yes , yes , the variance of the auto - correlation function that uses that
+
+dialogue type : fg
+D :  Yeah ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^m
+D :  The spectral shape ,
+
+dialogue type : s^aa
+D :  yeah .
+
+dialogue type : s^ar
+D :  No ,
+
+dialogue type : s
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^ng
+D :  Mmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b^rt
+D :  Mm - hmm ,
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Yeah , yeah .
+
+dialogue type : fg|s
+D :  Well , I can also th use this .
+
+dialogue type : sj^ba
+D :  Bec - because the result are a little bit better
+
+dialogue type : s^df
+D :  but we have in a point that everything is more or less the similar more or less similar .
+
+dialogue type : s
+D :  It 's not quite better .
+
+dialogue type : fg
+D :  Yeah ,
+
+dialogue type : s
+D :  I used this too .
+
+dialogue type : b^rt
+D :  Mm - hmm .
+
+dialogue type : b^rt
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg
+D :  Yeah ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh
+D :  yeah .
+
+dialogue type : s^ar.%--
+D : 
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^am
+D :  Maybe .
+
+dialogue type : s^br
+D :  Ah I 'm sorry .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^fe
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b^rt
+D :  Mm - hmm .
+
+dialogue type : b^rt
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : h|s
+D :  Oh , not too much .
+
+dialogue type : s
+D :  Mmm , one day or less .
+
+dialogue type : h|s^rt
+D :  Eh fifty - f six
+
+dialogue type : s^ar|qy^bu^d^rt
+D :  uh no , the frame error rate ?
+
+dialogue type : s
+D :  Fifty - six I think .
+
+dialogue type : s
+D :  Percent .
+
+dialogue type : s
+D :  The accuracy .
+
+dialogue type : s^aa.%
+D :  Mm - hmm .
+
+dialogue type : s^ar|%--
+D :  No for ,
+
+dialogue type : s^aa^bsc|%--
+D :  yes f
+
+dialogue type : s^ng
+D :  I don't remember for voice - unvoice ,
+
+dialogue type : s
+D :  maybe for the other one .
+
+dialogue type : s
+D :  for voiced .
+
+dialogue type : s^no.%-
+D :  I don't reme
+
+dialogue type : s^aa^m
+D :  Better .
+
+dialogue type : s
+D :  Maybe for voice - unvoice .
+
+dialogue type : s
+D :  This is for the other one .
+
+dialogue type : s
+D :  I should I can't show that .
+
+dialogue type : s
+D :  But I think that fifty - five was for the when the output are the fifty - six phone .
+
+dialogue type : s
+D :  That I look in the with the other nnn the other MLP that we have are more or less the same number .
+
+dialogue type : s
+D :  Silence will be better but more or less the same .
+
+dialogue type : s
+D :  I think that I I I think that for the other one , for the three output , is sixty sixty - two , sixty three more or less .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa|s^df
+D :  Yeah , because it 's noise also .
+
+dialogue type : s.%--
+D :  And we have
+
+dialogue type : s
+D :  I know .
+
+dialogue type : s^aa
+D :  Yeah , yeah , yeah .
+
+dialogue type : s^2.%--
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^am
+D :  Well I don't know ,
+
+dialogue type : s
+D :  but I th I I think that we I have the result more or less . Maybe .
+
+dialogue type : s^no
+D :  I don't know .
+
+dialogue type : s
+D :  I don't I 'm not sure but I remember @ @ that I can't show that .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^cc
+D :  I will do that .
+
+dialogue type : %-
+D : 
+
+dialogue type : h|s^ar
+D :  Uh , no .
+
+dialogue type : s^m
+D :  TIMIT .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa^r
+D :  Yeah this for TIMIT .
+
+dialogue type : s^aa^m^rt
+D :  Noisy TIMIT .
+
+dialogue type : s
+D :  We have noisy TIMIT with the noise of the the TI - digits .
+
+dialogue type : s
+D :  And now we have another noisy TIMIT also with the noise of uh Italian database .
+
+dialogue type : s
+D :  This is the work that I did during this date
+
+dialogue type : s^rt
+D :  and also mmm I H Hynek last week say that if I have time I can to begin to to study
+
+dialogue type : s^rt.%--
+D :  well seriously the France Telecom proposal
+
+dialogue type : s^rt.%--
+D :  to look at the code
+
+dialogue type : s^rt
+D :  and something like that
+
+dialogue type : s.%--
+D :  to know exactly what they are doing
+
+dialogue type : s
+D :  because maybe that we can have some ideas
+
+dialogue type : s
+D :  but not only to read the proposal .
+
+dialogue type : s
+D :  Look insi look i carefully what they are doing with the program @ @ and
+
+dialogue type : s^rt^tc
+D :  I begin to to work also in that .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^no
+D :  I don't know why they have some constant in the expression of the lower energy .
+
+dialogue type : s^no
+D :  I don't know what that means .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Then maybe I can understand .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bd^no
+D :  I don't know exactly ,
+
+dialogue type : s^df
+D :  because well th I thought maybe they have a meaning .
+
+dialogue type : s^no
+D :  But I don't know what is the meaning of take exactly this value .
+
+dialogue type : s^aa|s
+D :  Yeah , the e The effect I don't @ @ I can understand the effect of this ,
+
+dialogue type : qy^d^g
+D :  no ?
+
+dialogue type : s
+D :  because it 's to to do something like that .
+
+dialogue type : qy^d^g^rt
+D :  No ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|qo^cc
+D :  Well . I I will look to try if I move this parameter in their code what happens ,
+
+dialogue type : s^am
+D :  maybe everything is Maybe they tres hole are on basis of this .
+
+dialogue type : s^am
+D :  I don't know .
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : s.%--
+D :  I this more or less anything
+
+dialogue type : s
+D :  I think that Stephane will arrive today or tomorrow .
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : s
+D :  He 's I think that he is in Las Vegas or something like that .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+

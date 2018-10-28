@@ -1,0 +1,693 @@
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s
+F :  I don't really have , uh , anything new .
+
+dialogue type : s
+F :  Been working on Meeting Recorder stuff .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : h
+F :  Um .
+
+dialogue type : s
+F :  I did play with that , actually , a little bit .
+
+dialogue type : s
+F :  Um . What happens is , uh , when you get to the noisy stuff , you start getting lots of insertions .
+
+dialogue type : fh
+F :  And , um ,
+
+dialogue type : s
+F :  so I 've tried playing around a little bit with , um , the insertion penalties and things like that .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : s
+F :  I mean , it it didn't make a whole lot of difference .
+
+dialogue type : s^e
+F :  Like for the well - matched case , it seemed like it was pretty good .
+
+dialogue type : fh|s^cc
+F :  Um . I could do more playing with that , though .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^cc
+F :  and see .
+
+dialogue type : s^aa
+F :  Yes .
+
+dialogue type : s^bu
+F :  Oh , you 're talking about for th for our features .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Mm - hmm .
+
+dialogue type : s.%--
+F :  So for th
+
+dialogue type : s^bu
+F :  so the experiment is to , um , run our front - end like normal , with the default , uh , insertion penalties and so forth ,
+
+dialogue type : s^bu
+F :  and then tweak that a little bit
+
+dialogue type : s^bu
+F :  and see how much of a difference it makes
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^no
+F :  Uh , I I don't remember off the
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : s^df
+F :  Yeah . I didn't even write them down .
+
+dialogue type : s^no
+F :  I I I don't remember .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F :  Well , I did write down ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  So , when I was doing I just wrote down some numbers for the well - matched case .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : s^e
+F :  Looking at the I wrote down what the deletions , substitutions , and insertions were ,
+
+dialogue type : fh
+F :  uh ,
+
+dialogue type : s^e
+F :  for different numbers of states per phone .
+
+dialogue type : s
+F :  Um , but , uh , that that 's all I wrote down .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^cc
+F :  I would need to do that .
+
+dialogue type : s^cc
+F :  I can do that for next week .
+
+dialogue type : s^aa
+F :  OK .
+
+dialogue type : s
+F :  I just need to get , um , front - end , uh , stuff from you
+
+dialogue type : s^cs
+F :  or you point me to some files that you 've already calculated .
+
+dialogue type : s
+F :  I probably will have time to do that and time to play a little bit with the silence model .
+
+dialogue type : s
+F :  So maybe I can have that for next week when Hynek 's here .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : qy.%--
+F :  Is there ?
+
+dialogue type : s
+F : 
+
+dialogue type : qw
+F :  What could you do ?
+
+dialogue type : s^bk^fe
+F :  Oh .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Oh ,
+
+dialogue type : s^aa
+F :  right .
+
+dialogue type : s.%-
+F :  So that w
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s
+F :  So , in effect , that 's changing the value of your insertion penalty .
+
+dialogue type : s^ba
+F :  That 's interesting .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^bu
+F :  So if we know what the insertion penalty is , then we can get an idea about what range our number should be in ,
+
+dialogue type : s^bu
+F :  so that they match with that .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^na
+F :  I 've seen that with the mel cepstrum .
+
+dialogue type : s^no
+F :  I don't I don't know about the Aurora front - end ,
+
+dialogue type : %--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  the whole problem with insertions was what I think , um , we talked about when the guy from OGI came down that one time
+
+dialogue type : %--
+F : 
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  that , because all that stuff that we 're getting thr the silence that 's getting through is causing insertions .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s
+F :  I 'll bet you there 's still a lot of insertions .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy.%--
+F :  So , would the ?
+
+dialogue type : qy^cs^rt
+F :  Uh , would a good idea be to try to map it into the same range that you get in the well - matched case ?
+
+dialogue type : s^e.%--
+F :  So , if we computed what the range was in well - matched , and then when we get our noisy conditions out we try to make it have the same range as ?
+
+dialogue type : s^ng
+F :  Oh , I wasn't suggesting change it for different conditions .
+
+dialogue type : s
+F : 
+
+dialogue type : s^cs
+F :  we should probably pick it based on the range that we get in the well - matched case .
+
+dialogue type : qw
+F :  Otherwise , I mean , what range are we gonna choose
+
+dialogue type : s^e
+F :  to to map everything into ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qw^br^d^rt
+F :  Mainly working on what ?
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : qw.%-
+F :  How about that ?
+
+dialogue type : qy^d.%--
+F :  Any - anything new on the thing that , uh , you were working on with the , uh ?
+
+dialogue type : s^bk^m
+F :  No results ?
+
+dialogue type : fh
+F :  Yeah .
+
+dialogue type : s.%--
+F :  The the ,
+
+dialogue type : fh
+F :  uh ,
+
+dialogue type : s^m^na
+F :  voicing detector .
+
+dialogue type : qy^rt
+F :  Is this a report that 's for Aurora ?
+
+dialogue type : qrr^rt
+F :  Or is it just like a tech report for ICSI ,
+
+dialogue type : qrr.%--
+F :  or ?
+
+dialogue type : s^bk
+F :  Ah .
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : qy^rt
+F :  Are you discovering anything , uh , that makes you scratch your head as you write this report ,
+
+dialogue type : s^e
+F :  like why did we do that ,
+
+dialogue type : s^e
+F :  or why didn't we do this ,
+
+dialogue type : fh
+F :  or ?
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s^br^rt
+F :  Could you say it again ?
+
+dialogue type : qw^br^rt
+F :  What what exactly did they do ?
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  it 's probably something that , mmm , the you know , the , uh , experiment designers didn't really think about ,
+
+dialogue type : s^df
+F :  because I think most people aren't doing trained systems , or , you know , uh , systems that are like ours , where you actually use the data to build models .
+
+dialogue type : s^df
+F :  I mean , they just doing signal - processing .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s^aa
+F :  That 's true .
+
+dialogue type : s^bu
+F : 
+
+dialogue type : qy^d^g^rt
+F : 
+
+dialogue type : qy^bu^d^e^rt
+F :  to build models on the data ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy^rt
+F :  Do we know anything about the speakers for each of the , uh , training utterances ?
+
+dialogue type : qy
+F :  Do you have speaker information ?
+
+dialogue type : s^ba
+F :  That would be good .
+
+dialogue type : s^j
+F :  Bank PIN .
+
+dialogue type : qy^bu^d^rt
+F :  Just male f female ?
+
+dialogue type : s
+F :  Well , I was thinking about things like , you know , gender , uh you know , gender - specific nets and , uh , vocal tract length normalization .
+
+dialogue type : s^e
+F :  Things like that .
+
+dialogue type : s^df^no
+F :  I d I don't I didn't know what information we have about the speakers that we could try to take advantage of .
+
+dialogue type : s
+F :  Well , you could put them both in as separate streams or something .
+
+dialogue type : fh
+F :  Uh .
+
+dialogue type : s^no
+F :  I don't know .
+
+dialogue type : s^df
+F :  I was just wondering if there was other information we could exploit .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^ar|s^nd
+F :  Uh no . I hadn't I hadn't thought it was thought too much about it , really .
+
+dialogue type : s^df^nd
+F :  It just something that popped into my head just now .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^cs
+F :  I mean , you could maybe use the ideas a similar idea to what they do in vocal tract length normalization .
+
+dialogue type : s
+F :  You know , you have some sort of a , uh , general speech model ,
+
+dialogue type : s^e
+F :  you know , maybe just a mixture of Gaussians that you evaluate every utterance against ,
+
+dialogue type : s
+F :  and then you see where each , you know , utterance like , the likelihood of each utterance . You divide the the range of the likelihoods up into discrete bins
+
+dialogue type : s
+F :  and then each bin 's got some knob uh , setting .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  That 's true .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^2
+F :  Could be expensive .
+
+dialogue type : s^bk^fe
+F :  Oh ,
+
+dialogue type : s^bk
+F :  right .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s
+F :  So whatever it was , it would have to be uh sort of on a per frame basis .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^no
+F :  I don't know .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy^rt
+F :  Is it balanced ,
+
+dialogue type : s^e
+F : 
+
+dialogue type : qy^d^rt
+F :  the data ?
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : fg
+F :  No
+
+dialogue type : s^bu
+F :  And so th the , uh for the tandem system , the values that come out of the net don't go through the sigmoid .
+
+dialogue type : qy^d^g^rt
+F :  Right ?
+
+dialogue type : qy^bu^d^rt
+F :  They 're sort of the pre - nonlinearity values ?
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : qy^bu^d^rt
+F :  And tho that 's what goes into HTK ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s
+F :  Cuz if if the log probs that are coming out of the MSG are really big , the standard insertion penalty is gonna have very little effect
+
+dialogue type : s^e
+F :  compared to , you know , a smaller set of log probs .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : qy^bu^d^rt
+F :  But you said you won't you won't be here next Thursday ?
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^nd
+F :  Unless you 're getting money in two countries .
+
+dialogue type : s^e
+F :  They both want their cut .
+
+dialogue type : qy^d^f^g^rt
+F :  Right ?
+
+dialogue type : qy^bu^d^rt
+F :  But not for this next year ?
+
+dialogue type : fg|s.%--
+F : 
+
+dialogue type : s
+F :  just to expand a little bit on the idea of acoustic event .
+
+dialogue type : s
+F :  There 's , um in my mind , anyways , there 's a difference between , um , acoustic features and acoustic events .
+
+dialogue type : s^e
+F :  And I think of acoustic features as being , um , things that linguists talk about ,
+
+dialogue type : s^e.%--
+F : 
+
+dialogue type : s^m^na
+F :  Stuff that 's not based on data , necessarily .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^na
+F :  That 's not based on , you know , acoustic data .
+
+dialogue type : s^e
+F :  So they talk about features for phones ,
+
+dialogue type : s^e
+F :  like , uh , its height ,
+
+dialogue type : s^e
+F :  its tenseness ,
+
+dialogue type : s^e
+F :  laxness ,
+
+dialogue type : s^e
+F :  things like that ,
+
+dialogue type : s^e
+F :  which may or may not be all that easy to measure in the acoustic signal .
+
+dialogue type : s
+F :  Versus an acoustic event , which is just some something in the acoustic signal that is fairly easy to measure .
+
+dialogue type : fh|s
+F :  Um . So it 's , um it 's a little different ,
+
+dialogue type : s^df
+F :  in at least in my mind .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  It 's kinda like the difference between top - down and bottom - up .
+
+dialogue type : s^e
+F :  I think of the acoustic you know , phonetic features as being top - down .
+
+dialogue type : s^df
+F :  You know , you look at the phone
+
+dialogue type : s^df
+F :  and you say this phone is supposed to be you know , have this feature , this feature , and this feature .
+
+dialogue type : s
+F :  Whether tha those features show up in the acoustic signal is sort of irrelevant .
+
+dialogue type : s
+F :  Whereas , an acoustic event goes the other way .
+
+dialogue type : s^df
+F :  Here 's the signal .
+
+dialogue type : s^df
+F :  Here 's some event .
+
+dialogue type : %--
+F :  What ?
+
+dialogue type : s
+F :  And then that you know , that may map to this phone sometimes ,
+
+dialogue type : s
+F :  and sometimes it may not .
+
+dialogue type : s^e
+F :  It just depen maybe depends on the context ,
+
+dialogue type : s^e
+F :  things like that .
+
+dialogue type : s
+F :  And so it 's sort of a different way of looking .
+

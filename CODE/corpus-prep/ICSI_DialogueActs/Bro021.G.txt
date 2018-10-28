@@ -1,0 +1,126 @@
+dialogue type : s^bk
+G :  Uh , OK .
+
+dialogue type : s
+G :  Well , in my lunch talk last week I I said I 'd tried phase normalization and gotten garbage results using that l um , long - term mean subtraction approach .
+
+dialogue type : s^df
+G :  It turned out there was a bug in my Matlab code .
+
+dialogue type : s
+G :  So I tried it again ,
+
+dialogue type : fh
+G :  um ,
+
+dialogue type : fh|s
+G :  and , um , the results were were better .
+
+dialogue type : s^e
+G :  I got intelligible speech back .
+
+dialogue type : s
+G :  But they still weren't as good as just subtracting the magnitude the log magnitude means .
+
+dialogue type : s
+G :  And also I 've been talking to , um , Andreas and Thilo about the , um , SmartKom language model
+
+dialogue type : s
+G :  and about coming up with a good model for , um , far mike use of the SmartKom system .
+
+dialogue type : fh
+G :  So
+
+dialogue type : s^cc
+G : 
+
+dialogue type : s^bsc
+G :  for the SmartKom system , I mean .
+
+dialogue type : fh
+G :  And , um ,
+
+dialogue type : s^cc
+G :  one of the experiments we 're gonna do is , um , we 're gonna , um , train the a Broadcast News net ,
+
+dialogue type : s^df
+G :  which is because that 's what we 've been using so far ,
+
+dialogue type : s^cc
+G :  and , um , adapt it on some other data . Um , An - Andreas wants to use ,
+
+dialogue type : fh
+G :  um ,
+
+dialogue type : s^e
+G :  data that resembles read speech ,
+
+dialogue type : s^e
+G :  like these digit readings ,
+
+dialogue type : s^df
+G :  because he feels that the SmartKom system interaction is not gonna be exactly conversational .
+
+dialogue type : qw
+G :  S so actually I was wondering , how long does it take to train that Broadcast News net ?
+
+dialogue type : s^bk^m
+G :  Two , three weeks .
+
+dialogue type : b
+G :  Oh .
+
+dialogue type : s^bk
+G :  OK .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Mm - hmm .
+
+dialogue type : fg
+G :  And , um ,
+
+dialogue type : s.%--
+G : 
+
+dialogue type : s
+G :  So I did two experiments ,
+
+dialogue type : s^e.%--
+G : 
+
+dialogue type : s
+G :  So , phases get added , modulo two pi ,
+
+dialogue type : s^df
+G :  and because you only know the phase of the complex number t t to a value modulo two pi .
+
+dialogue type : s
+G :  And so I thought at first , um , that , uh , what I should do is unwrap the phase
+
+dialogue type : s^df
+G :  because that will undo that .
+
+dialogue type : fh|s
+G :  Um , but I actually got worse results doing that unwrapping using the simple phase unwrapper that 's in Matlab than I did not unwrapping at all .
+
+dialogue type : s
+G :  And that 's all I have to say .
+
+dialogue type : b
+G :  OK .
+
+dialogue type : b
+G :  Oh .
+
+dialogue type : b
+G :  Oh .
+
+dialogue type : b
+G :  OK .
+

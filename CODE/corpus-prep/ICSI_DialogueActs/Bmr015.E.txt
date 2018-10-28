@@ -1,0 +1,156 @@
+dialogue type : z
+E :  Yeah .
+
+dialogue type : z
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s.%
+E :  Eight eight two two two nine .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : %-
+E :  p s
+
+dialogue type : s
+E :  Tomorrow ?
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah . Yeah .
+
+dialogue type : s
+E :  I said something , yeah .
+
+dialogue type : b.%
+E :  Yeah .
+
+dialogue type : s^2.%--
+E :  Very very ,
+
+dialogue type : b
+E :  yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk|s^ba^ng
+E :  Yeah , but those backchannels will always be a problem I think .
+
+dialogue type : s
+E :  Uh especially if they 're really short
+
+dialogue type : s^e^rt
+E :  and they 're not very loud
+
+dialogue type : s
+E :  and so it it can it it will always happen that also the automatic s detection system will miss some of them ,
+
+dialogue type : fh
+E :  so .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^df
+E :  I 'm not too experienced with harmonics
+
+dialogue type : fh
+E : 
+
+dialogue type : s^m^na|s^aa
+E :  To get the pitch , yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^ar
+E :  No .
+
+dialogue type : %-
+E :  No i
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^t1.%
+E :  Oops .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg|s
+E :  Yeah , and that 's that that quite co corresponds to the way I I try to train the speech - nonspeech detector ,
+
+dialogue type : s
+E :  as I really try to not to detect those breaths
+
+dialogue type : s
+E :  which are not within a speech chunk but with which are just in in a silence region .
+
+dialogue type : s
+E :  And they so they hopefully won't be marked in in those channel - specific files .
+
+dialogue type : fh
+E : 
+

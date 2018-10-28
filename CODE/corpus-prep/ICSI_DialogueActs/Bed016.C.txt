@@ -1,0 +1,993 @@
+dialogue type : z
+C :  OK .
+
+dialogue type : z
+C :  Oh yeah , um , Liz suggested we could start off by uh , doing the digits all at the same time .
+
+dialogue type : z
+C :  Yep .
+
+dialogue type : z
+C :  No , no , just just start whenever you want .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Just to save time .
+
+dialogue type : z
+C :  Does matter for them .
+
+dialogue type : s
+C :  We could .
+
+dialogue type : s^am^rt
+C :  We might .
+
+dialogue type : s
+C :  Not not rehearse ,
+
+dialogue type : s^df
+C :  I mean , I have just not spent any time on it ,
+
+dialogue type : s^cs
+C :  so I can show you what I 've got , get your input on it , and maybe some suggestions ,
+
+dialogue type : s^ba^rt
+C :  that would be great .
+
+dialogue type : s
+C :  And the same is true for the proposal .
+
+dialogue type : s^rt
+C :  I will have time to do some revision and some additional stuff on various airplanes and trains .
+
+dialogue type : fh
+C :  So , um .
+
+dialogue type : s^no
+C :  I don't know how much of a chance you had to actually read it
+
+dialogue type : %--
+C : 
+
+dialogue type : s^rt
+C :  but you could always send me comments per electronic mail
+
+dialogue type : s^rt
+C :  and they will be incorporated .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  It basically says , well " this is construal " ,
+
+dialogue type : s.%--
+C :  and then it continues to say that one could potentially build a probabilistic relational model that has some general , domain - general rules
+
+dialogue type : s^rt
+C :  how things are construed ,
+
+dialogue type : s
+C :  and then the idea is to use ontology , situation , user , and discourse model to instantiate elements in the classes of the probabilistic relational model to do some inferences in terms of what is being construed as what
+
+dialogue type : s
+C :  in our beloved tourism domain .
+
+dialogue type : s.%--
+C :  But , with a focus on
+
+dialogue type : qw^br
+C :  Hmm ?
+
+dialogue type : s
+C :  Um , I don't I , uh I don't need it .
+
+dialogue type : s
+C :  Um , actually this is the the newest version after your comments ,
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : s^bk
+C :  Yeah ,
+
+dialogue type : s.%--
+C :  um , if you would have checked your email you may have received a note from Yees asking you to send me the , uh , up - to - d
+
+dialogue type : s^e
+C :  current formalism thing that you presented .
+
+dialogue type : s
+C :  But for this it doesn't matter .
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C : 
+
+dialogue type : s.%--
+C :  And any type of comment whether it 's a spelling or a syntax or
+
+dialogue type : s^e.%--
+C : 
+
+dialogue type : qw^br
+C :  Hmm ?
+
+dialogue type : s^ba
+C :  Interesting .
+
+dialogue type : s
+C :  Twenty - ninth .
+
+dialogue type : s^r
+C :  The twenty - ninth .
+
+dialogue type : s
+C :  That 's when I 'm meeting with Wolfgang Wahlster to sell him this idea .
+
+dialogue type : fg
+C :  OK ?
+
+dialogue type : s^rt
+C :  Then I 'm also going to present a little talk at EML , about what we have done here
+
+dialogue type : fh
+C :  and so
+
+dialogue type : s
+C :  of course , I 'm I 'm gonna start out with this slide ,
+
+dialogue type : s
+C :  so the most relevant aspects of our stay here ,
+
+dialogue type : fh
+C :  and um ,
+
+dialogue type : s
+C :  then I 'm asking them to imagine that they 're standing somewhere in Heidelberg
+
+dialogue type : s:s
+C :  and someone asks them in the morning The Cave Forty - Five is a is a well - known discotheque
+
+dialogue type : s
+C :  which is certainly not open at that that time .
+
+dialogue type : fh
+C :  And so
+
+dialogue type : s^rt
+C :  they 're supposed to imagine that , you know , do they think the person wants to go there , or just know where it is ?
+
+dialogue type : fh
+C :  Uh ,
+
+dialogue type : s
+C :  which is probably not , uh , the case in that discotheque example ,
+
+dialogue type : s
+C :  or in the Bavaria example ,
+
+dialogue type : s
+C :  you just want to know where it is .
+
+dialogue type : s
+C :  And so forth .
+
+dialogue type : s
+C :  So basically we can make a point that here is ontological knowledge
+
+dialogue type : s
+C :  but if it 's nine nine PM in the evening then the discotheque question would be , for example , one that might ask for directions instead of just location .
+
+dialogue type : s
+C :  Um , and so forth and so forth .
+
+dialogue type : s
+C :  That 's sort of motivating it .
+
+dialogue type : qh^rt
+C :  Then what have we done so far ?
+
+dialogue type : s^rt
+C :  We had our little bit of , um , um , SmartKom stuff , that we did ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : %-
+C :  everth
+
+dialogue type : s
+C :  That 's the not the construction parser .
+
+dialogue type : s^e^rt
+C :  That 's the , uh , tablet - based parser ,
+
+dialogue type : fh
+C :  and
+
+dialogue type : s
+C :  the generation outputter .
+
+dialogue type : s^aap
+C :  That 's done .
+
+dialogue type : s
+C :  You have to change those strategies ,
+
+dialogue type : qy^bu^d^g^rt
+C :  right ?
+
+dialogue type : qy^bu^d^rt
+C :  That 's , ten words ?
+
+dialogue type : s^bk
+C :  Twelve ? OK .
+
+dialogue type : s
+C :  And , um , and Fey is doing the synthesis stuff as we speak .
+
+dialogue type : s^rt
+C :  That 's all about that .
+
+dialogue type : s
+C :  Then I 'm going to talk about the data ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C :  uh , actually I have an example ,
+
+dialogue type : s
+C :  probably .
+
+dialogue type : %-
+C :  Two s
+
+dialogue type : qy^rt
+C :  Can you hear that ?
+
+dialogue type : qrr
+C :  Or should I turn the l volume on .
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : s
+C :  But they 're they 're mimicking the synthesis when they speak to the computer ,
+
+dialogue type : s
+C :  the you can observe that all the time ,
+
+dialogue type : s
+C :  they 're trying to match their prosody onto the machine .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bk|s^rt
+C :  OK . And so forth and so forth .
+
+dialogue type : s
+C :  Um , I will talk about our problems with the rephrasing ,
+
+dialogue type : s
+C :  and how we solved it ,
+
+dialogue type : s
+C :  and some preliminary observations ,
+
+dialogue type : fh
+C :  also , um ,
+
+dialogue type : s
+C :  I 'm not gonna put in the figures from Liz ,
+
+dialogue type : s
+C :  but I thought it would interesting to , uh , um , point out that it 's basically the same .
+
+dialogue type : s
+C :  Um , as in every human - human telephone conversation , and the human - computer telephone conversation is of course quite d quite different from , uh , some first , uh , observations .
+
+dialogue type : fh
+C :  Then
+
+dialogue type : s^rt
+C :  sort of feed you back to our original problem
+
+dialogue type : %--
+C : 
+
+dialogue type : s^rt
+C :  how to get there ,
+
+dialogue type : qh^rt
+C :  what actually is happening there today ,
+
+dialogue type : s^rt
+C :  and then maybe talk about the big picture here ,
+
+dialogue type : s
+C :  e tell a little bit as much as I can about the NTL story .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I 'm not quite sure about this , whether I should put this in ,
+
+dialogue type : s
+C :  um , that , you know , you have these two sort of different ideas that are or two different camps of people envisioning how language understanding works ,
+
+dialogue type : s
+C :  and then , talk a bit about the embodied and simulation approach favored here
+
+dialogue type : s
+C :  and as a prelude , I 'll talk about monkeys in Italy .
+
+dialogue type : s
+C :  And , um , Srini was gonna send me some slides
+
+dialogue type : s
+C :  but he didn't do it ,
+
+dialogue type : s
+C :  so from but I have the paper ,
+
+dialogue type : s
+C :  I can make a resume of that ,
+
+dialogue type : s
+C :  and then I stole an X - schema from one of your talks I think .
+
+dialogue type : s
+C :  I think that 's Bergen , Chang , something , or the other .
+
+dialogue type : fh|s.%--
+C : 
+
+dialogue type : s
+C :  now I 'm not going to bring that .
+
+dialogue type : s
+C :  So that 's basically what I have , so far ,
+
+dialogue type : s
+C :  and the rest is for airplanes .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  talk about the construction aspect
+
+dialogue type : s
+C :  and then at the end about our Bayes - net .
+
+dialogue type : s^tc
+C :  End of story .
+
+dialogue type : qo^rt
+C :  Anything I forgot that we should mention ?
+
+dialogue type : s
+C :  Oh , maybe the FMRI stuff .
+
+dialogue type : qy
+C :  Should I mention the fact that , um , we 're also actually started going to start to look at people 's brains in a more direct way ?
+
+dialogue type : qy^bu^d^rt
+C :  " Future activities " something .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^bk|s^df
+C :  Yeah , I I I do have it here .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s
+C :  And , of course , you know , the the big picture is this bit .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  But I don't think I I am capable of of do pulling this off and doing justice to the matter .
+
+dialogue type : s^ba
+C :  I mean , there is interesting stuff in her terms of how language works ,
+
+dialogue type : s
+C :  so the emergentism story would be nice to be you know , it would be nice to tell people
+
+dialogue type : s^e
+C :  how what 's happening there ,
+
+dialogue type : s
+C :  plus how the , uh , language learning stuff works ,
+
+dialogue type : %-
+C : 
+
+dialogue type : fg|s
+C :  Yeah , th that that 's c that comes up to the X - schema slide ,
+
+dialogue type : s
+C :  so basically I 'm gonna steal that from Nancy ,
+
+dialogue type : s.%-
+C :  one of Nancy 's st
+
+dialogue type : %--
+C : 
+
+dialogue type : s^bk|s^ng
+C :  yeah , but I also have stuff you trash you left over ,
+
+dialogue type : s^rt
+C :  your quals and your triple - AI .
+
+dialogue type : s
+C :  Well , I I don't feel bad about it at all
+
+dialogue type : s^df
+C :  because because you are on the , uh , title .
+
+dialogue type : s
+C :  I mean on the the , you 're that 's see , that 's you .
+
+dialogue type : qw^br^rt
+C :  Hmm ?
+
+dialogue type : qy^bu^d^rt
+C :  Propagated ?
+
+dialogue type : s^am
+C :  I mean I might even mention that this work you 're doing is sort of also with the MPI in Leipzig ,
+
+dialogue type : fh
+C :  so .
+
+dialogue type : s^df
+C :  Because , um , EML is building up a huge thing in Leipzig .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : %--
+C :  the ,
+
+dialogue type : s
+C :  think of um , ramps , coming out of the double helix
+
+dialogue type : s
+C :  and then you have these half - domes , glass half - domes ,
+
+dialogue type : s^rt
+C :  and the offices are in in the glass half - dome .
+
+dialogue type : fh|s^na
+C :  Uh , as a model .
+
+dialogue type : %-
+C :  But I th
+
+dialogue type : s^bk|s^na
+C :  Yeah , if somebody has something to say .
+
+dialogue type : s
+C :  Oh , in the presentation here .
+
+dialogue type : s
+C :  I was ac actually worried about bibtex .
+
+dialogue type : fh|s
+C :  Uh . No , that 's quite possible .
+
+dialogue type : s^cs
+C :  That 's copy and paste from something .
+
+dialogue type : s^ng
+C :  Uh , it did ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah ,
+
+dialogue type : fh
+C :  mmm . Um .
+
+dialogue type : h|s
+C :  Um , but I I did not focus on that aspect
+
+dialogue type : fh
+C :  but , um Ehhh ,
+
+dialogue type : s
+C :  um , it 's just underneath , uh , um , that reference to metaphor .
+
+dialogue type : s
+C :  So it 's the last paragraph
+
+dialogue type : s
+C :  before two .
+
+dialogue type : s.%--
+C :  So on page two ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^2
+C :  Why .
+
+dialogue type : s^bk
+C :  Mm - hmm .
+
+dialogue type : s^na|s^aa
+C :  No , it doesn't say it at all . No .
+
+dialogue type : s^df
+C :  Even though One could argue what if there are basic cases , even .
+
+dialogue type : s
+C :  I mean , it seems like nothing is context - free .
+
+dialogue type : s^ng
+C :  But " walked into the cafe and ordered a drink , " and " walked into the cafe and broke his nose , "
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Mmm . Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : b
+C :  No .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yep .
+
+dialogue type : s
+C :  You don't find that usage ,
+
+dialogue type : s^rt
+C :  uh uh , I checked for it in the Brown national corpus .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk|s.%-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : fg|s
+C :  Yeah . Or you can run into an old friend , or run .
+
+dialogue type : s
+C :  Pro - probably not your marks in the kitchen , today .
+
+dialogue type : s
+C :  Not not your marks .
+
+dialogue type : %-
+C :  Well ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  the i what would have been really nice is to find an example for all of this , uh , from our domain .
+
+dialogue type : s^cs
+C :  So maybe if we w if we can make one up now , that would be c incredibly helpful .
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  w Well we have , for example , a canonical use of something
+
+dialogue type : s
+C :  and y it 's , you know , we have some constructions
+
+dialogue type : s
+C :  and then it 's construed as something ,
+
+dialogue type : s
+C :  and then we we may get the same constructions with a metaphorical use that 's also relevant to the to the domain .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  I had two hours w with George on this ,
+
+dialogue type : %--
+C :  so it ,
+
+dialogue type : fh
+C :  um Um .
+
+dialogue type : s
+C :  " On the bus " is a m is a metaphorical metonymy
+
+dialogue type : s
+C :  that relates some meta path metaphorically
+
+dialogue type : s
+C :  and you 're on on that path
+
+dialogue type : s
+C :  and th w I mean it 's he there 's a platform notion ,
+
+dialogue type : qy^d^f^g
+C :  right ?
+
+dialogue type : s
+C :  " he 's on the standing on the bus waving to me . "
+
+dialogue type : s
+C :  But th the regular as we speak " J Johno was on the bus to New York , "
+
+dialogue type : fh
+C :  um , uh ,
+
+dialogue type : %--
+C : 
+
+dialogue type : %--
+C :  that 's , uh ,
+
+dialogue type : qw^t1
+C :  what did I call it here ,
+
+dialogue type : s
+C :  the transportation schema , something ,
+
+dialogue type : s
+C :  where you can be on the first flight , on the second flight ,
+
+dialogue type : s
+C :  and you can be , you know , on the wagon .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^ng
+C :  But it 's it 's unfortunately , this is not really something a tourist would ever say .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : fh
+C :  But um .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  We had we had initially we 'd started discussing the " out of film . "
+
+dialogue type : s
+C :  And there 's a lot of " out of " analysis ,
+
+dialogue type : fh
+C :  so , um ,
+
+dialogue type : qy^rt
+C :  could we capture that
+
+dialogue type : s^e.%--
+C : 
+
+dialogue type : s
+C :  So running running out of something is different from being out of somewhere .
+
+dialogue type : s
+C :  Is the d the final state of running out of something is being out of it .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  There 's gonna be four computational linguists ,
+
+dialogue type : %-
+C :  computer
+
+dialogue type : %-
+C : 
+
+dialogue type : s
+C :  More there 's going to be the just four computational linguists , by coincidence ,
+
+dialogue type : s
+C :  but the rest is , whatever , biocomputing people and physicists .
+
+dialogue type : s
+C :  Oh , the thesis !
+
+dialogue type : s
+C :  That 's that 's computa should be very computational ,
+
+dialogue type : %-
+C :  and , uh , someth
+
+dialogue type : s^cs
+C :  I mean the the old bakery example might be nice ,
+
+dialogue type : qy
+C :  " Is there a bakery around here " .
+
+dialogue type : s^cs.%-
+C : 
+
+dialogue type : s^ar|s
+C : 
+
+dialogue type : qh
+C :  is it a building ? uh , that you want to go to ? or is it something to eat that you want to buy ?
+
+dialogue type : %--
+C : 
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : qw
+C :  Where is the castle ?
+
+dialogue type : qw
+C :  How old is it ?
+
+dialogue type : qw
+C :  How much does it cost ?
+
+dialogue type : %-
+C :  S
+
+dialogue type : s^arp
+C :  But as Nancy just su suggested it 's probably ellipticus .
+
+dialogue type : b
+C :  Huh .
+
+dialogue type : s^ng
+C :  Well , I mean , my argument here is it 's it 's it 's the same thing as " Plato 's on the top shelf , "
+
+dialogue type : %--
+C :  I 'm con
+
+dialogue type : s
+C :  you know , th that you can refer to a book of Plato by using " Plato , "
+
+dialogue type : s
+C :  and you can refer back to it ,
+
+dialogue type : s
+C :  and so you can Castles have as tourist sites , have admission fees ,
+
+dialogue type : s:qw
+C :  so you can say " Where is the castle ,
+
+dialogue type : s:qw
+C :  how much does it cost ? "
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s:qw
+C :  " How far is it from here ? "
+
+dialogue type : fh
+C :  So ,
+
+dialogue type : s
+C :  You 're also not referring to the width of the object , or so ,
+
+dialogue type : b
+C :  www .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : %-
+C : 
+
+dialogue type : %--
+C :  Well I when , uh just f u
+
+dialogue type : s.%--
+C :  the data that I 've looked at so far that rec
+
+dialogue type : s^ba
+C :  I mean , there 's tons of cases for polysemy .
+
+dialogue type : s.%--
+C :  So , you know , mak re making reference to buildings as institutions , as containers , as build
+
+dialogue type : s^e
+C :  you know , whatever .
+
+dialogue type : s
+C :  Um , so ib in mus for example , in museums , you know , as a building or as something where pictures hang versus , you know , ev something that puts on exhibits ,
+
+dialogue type : s^e
+C :  so forth .
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : qw^br^rt
+C :  Hmm ?
+
+dialogue type : s^bk|%-
+C : 
+
+dialogue type : s^ar|%-
+C : 
+
+dialogue type : s
+C :  that 's what I have , you know , started doing .
+
+dialogue type : s
+C :  Metonymy , polysemy .
+
+dialogue type : s.%--
+C :  But I think the argument should be uh , can be made that , you know , despite the fact that this is not the most met metaphorical domain ,
+
+dialogue type : s.%--
+C :  because people interacting with HTI systems try to be straightforward and less lyrical ,
+
+dialogue type : s
+C :  construal still is , uh , you know , completely , um , key in terms of finding out any of these things ,
+
+dialogue type : fh
+C :  so , um .
+
+dialogue type : s^rt
+C :  We , uh I with a I looked with a student I looked at the entire database that we have on Heidelberg for cases of metonymy .
+
+dialogue type : s
+C :  Hardly anything .
+
+dialogue type : s
+C :  So not even in descriptions w did we find anything , um , relevant .
+
+dialogue type : fg|s^tc
+C :  But OK this is just something we 'll we 'll see ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : s
+C :  and deal with .
+
+dialogue type : s^am^cs
+C :  I mean maybe the " where is something " question as a whole , you know , can be construed as , u i locational versus instructional request .
+
+dialogue type : s.%-
+C :  So , if we 're not talk about the lexic
+
+dialogue type : s
+C :  instruction .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^aa|s^ng
+C :  Yeah but then you 're not on the lexical level ,
+
+dialogue type : s^df^nd
+C :  that 's sort of one level higher .
+
+dialogue type : s^arp
+C :  But I don't need it .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^cs
+C :  Also it would be nice to get ultimately to get a nice mental space example ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^ba
+C :  just in the spatial domain are rare .
+
+dialogue type : s
+C :  When when you 're getting information on objects .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s^cs
+C :  Yeah , maybe we can include that also in our second , uh , data run .
+
+dialogue type : s^cs
+C :  We c we can show people pictures of objects
+
+dialogue type : s^cs
+C :  and then have then ask the system about the objects
+
+dialogue type : s^cs
+C :  and engage in conversation on the history and the art and the architecture and so forth .
+

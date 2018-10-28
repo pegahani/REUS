@@ -1,0 +1,1263 @@
+dialogue type : b
+B :  Mmm , @ @ .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^ng
+B :  But I actually stuck most of this in our m last meeting with Guenter .
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s.%--
+B :  but I 'll just
+
+dialogue type : fh
+B :  Um ,
+
+dialogue type : s
+B :  so the last week , uh , I showed some results with only SpeechDat - Car
+
+dialogue type : s^e
+B :  which was like some fifty - six percent .
+
+dialogue type : fh|s.%--
+B :  And , uh , I didn't h
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I mean , I wasn't getting that r results on the TI - digit .
+
+dialogue type : s
+B :  So I was like looking into " why , what is wrong with the TI - digits ? " .
+
+dialogue type : s
+B :  Why why I was not getting it .
+
+dialogue type : s
+B :  And I found that , the noise estimation is a reason for the TI - digits to perform worse than the baseline .
+
+dialogue type : fh|s.%--
+B :  So , uh , I actually , picked th
+
+dialogue type : s
+B :  I mean , the first thing I did was I just scaled the noise estimate by a factor which is less than one to see if that because I found there are a lot of zeros in the spectrogram for the TI - digits when I used this approach .
+
+dialogue type : s
+B :  So the first thing I did was I just scaled the noise estimate .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^e
+B :  Well , the n the new technique is nothing but the noise estimate scaled by a factor of point five .
+
+dialogue type : s
+B : 
+
+dialogue type : s^df
+B :  I mean , some intermediate result , because it 's not optimized for anything .
+
+dialogue type : fh|s
+B :  So the results The trend the only trend I could see from those results was like the the p the current noise estimation or the , uh , noise composition scheme is working good for like the car noise type of thing .
+
+dialogue type : s
+B :  Because I 've the only only p very good result in the TI - digits is the noise car noise condition for their test - A ,
+
+dialogue type : s.%--
+B :  which is like the best I could see that
+
+dialogue type : fh|s
+B :  uh , for any non - stationary noise like " Babble " or " Subway " or any " Street " , some " Restaurant " noise , it 's like it 's not performing w very well .
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : s
+B :  the So that that 's the first thing I c uh , I could make out from this stuff .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Uh , and in that twenty percent @ @ it 's very inconsistent across different noise conditions .
+
+dialogue type : s
+B :  So I have like a forty - five percent for " Car noise "
+
+dialogue type : s
+B :  and then there 's a minus five percent for the " Babble " ,
+
+dialogue type : s
+B :  and there 's this thirty - three for the " Station " .
+
+dialogue type : s
+B :  And so it 's it 's not it 's not actually very consistent across .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  The only correlation between the SpeechDat - Car and this performance is the c stationarity of the noise that is there in these conditions and the SpeechDat - Car .
+
+dialogue type : fh
+B : 
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  so the overall result is like in the last page ,
+
+dialogue type : s^e
+B :  which is like forty - seven ,
+
+dialogue type : s^e
+B :  which is still very imbalanced because there are like fifty - six percent on the SpeechDat - Car and thirty - five percent on the TI - digits .
+
+dialogue type : fh
+B : 
+
+dialogue type : fh
+B :  uh ,
+
+dialogue type : s
+B :  ps the fifty - six percent is like comparable to what the French Telecom gets ,
+
+dialogue type : s
+B :  but the thirty - five percent is way off .
+
+dialogue type : s^bk
+B :  Oh ,
+
+dialogue type : s^bk
+B :  yep .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^df
+B :  For that 's for the clean training and the noisy testing for the TI - digits .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa^r
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah , yeah , yeah .
+
+dialogue type : s^aa
+B :  No .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Uh , actually the noise compensation whatever , uh , we are put in it works very well for the high mismatch condition .
+
+dialogue type : s^df
+B :  I mean , it 's consistent in the SpeechDat - Car
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  But this fifty percent is is that the the high mismatch performance equivalent to the high mismatch performance in the speech .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  I do .
+
+dialogue type : b
+B :  Yeah , yeah .
+
+dialogue type : s
+B : 
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : s
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa^r
+B :  Yeah .
+
+dialogue type : s^bk
+B : 
+
+dialogue type : s^bk
+B :  Oh . Yeah .
+
+dialogue type : s
+B :  It 's not written anywhere .
+
+dialogue type : s^na
+B :  Yeah , it 's TI - digits .
+
+dialogue type : s^na
+B :  The first r spreadsheet is TI - digits .
+
+dialogue type : qy^bu^d^rt
+B :  The " Car " ?
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s
+B :  Still it still , uh that that 's still consistent .
+
+dialogue type : s
+B :  I mean , I get the best performance in the case of " Car " , which is the third column in the A condition .
+
+dialogue type : fg
+B : 
+
+dialogue type : s
+B : 
+
+dialogue type : s
+B :  So that is the performance for Italian , Finnish and Spanish .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^2
+B :  Improvement .
+
+dialogue type : s
+B :  That 's " Percentage increase " is the percentage improvement over the baseline .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah , yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^2
+B :  Which is there in the spreadsheet .
+
+dialogue type : s
+B :  I 'm not changing anything in there .
+
+dialogue type : fg
+B :  So .
+
+dialogue type : fg
+B :  Uh ,
+
+dialogue type : fg
+B :  yeah .
+
+dialogue type : s
+B :  So all the hi H M numbers are w very good ,
+
+dialogue type : s^e
+B :  in the sense , they are better than what the French Telecom gets .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s
+B :  But the the only number that 's still I mean , which Stephane also got in his result was that medium mismatch of the Finnish ,
+
+dialogue type : s^e
+B : 
+
+dialogue type : s^df
+B :  I mean , this this is basically because it gets stuck in some local minimum in the training .
+
+dialogue type : s
+B :  That seventy - five point seven nine in the Finnish mismatch which is that the eleven point nine six what we see .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s^aa
+B : 
+
+dialogue type : s
+B :  so we start with that different proto and it becomes eighty - eight ,
+
+dialogue type : s^e
+B :  which is like some fifty percent improvement .
+
+dialogue type : s
+B :  Different prototype ,
+
+dialogue type : s^e
+B :  which is like a different initialization for the , uh , s transition probabilities .
+
+dialogue type : s
+B :  It 's just that right now , the initialization is to stay more in the current state ,
+
+dialogue type : s^e|qy^d^g^rt
+B :  which is point four point six , right ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s
+B :  And if it changes to point five point five , which is equal @ @ for transition and self loop where it becomes eighty - eight percent .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^na
+B :  We can't do it .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : %-
+B :  Very s
+
+dialogue type : s
+B :  It has a very few at uh , actually , c uh , tran I mean , words also .
+
+dialogue type : s
+B :  It 's a very , very small set , actually .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa^r
+B :  Yeah , yeah , yeah .
+
+dialogue type : s^aa^r
+B :  Yeah .
+
+dialogue type : s^aa^r
+B :  Yeah .
+
+dialogue type : s^na
+B :  It has some music also .
+
+dialogue type : s^e^na
+B :  I mean , very horrible music like like
+
+dialogue type : s
+B :  I know .
+
+dialogue type : fg
+B : 
+
+dialogue type : fg
+B :  So ,
+
+dialogue type : s
+B :  that that 's the that 's about the results .
+
+dialogue type : fh
+B :  And , uh ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : s
+B :  So there are the other thing what I tried was , which I explained in the last meeting , is using the channel zero for , uh , for both dropping and estimating the noise .
+
+dialogue type : s^df
+B :  And that 's like just to f n get a feel of how good it is .
+
+dialogue type : s
+B :  I guess the fifty - six percent improvement in the SpeechDat - Car becomes like sixty - seven percent .
+
+dialogue type : s^e
+B :  Like ten percent better .
+
+dialogue type : s^df
+B :  But that 's that 's not a that 's a cheating experiment .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : fh
+B :  So ,
+
+dialogue type : %--
+B :  m
+
+dialogue type : %--
+B :  w
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  So we had forty - four percent in the first proposal .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s.%--
+B :  We have f a big im
+
+dialogue type : fg|s
+B :  So the major improvement that we got was in all the high mismatch cases ,
+
+dialogue type : s^df
+B :  because all those numbers were in sixties and seventies
+
+dialogue type : s^df
+B :  because we never had any noise compensations .
+
+dialogue type : s
+B :  So that 's where the biggest improvement came up .
+
+dialogue type : s
+B :  Not much in the well match and the medium match and TI - digits also right now .
+
+dialogue type : s
+B :  So this is still at three or four percent improvement over the first proposal .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b.%
+B :  Yeah .
+
+dialogue type : b.%
+B :  Yeah ,
+
+dialogue type : b.%
+B :  yeah .
+
+dialogue type : fg
+B :  So .
+
+dialogue type : s^bk
+B :  Yes .
+
+dialogue type : s|qy^d^g
+B :  Stephane also has the same experience of using the spectral subtraction right ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  So here here I mean , I found that it 's if I changed the noise estimate I could get an improvement .
+
+dialogue type : s
+B :  So that 's so it 's something which I can actually pursue , is the noise estimate .
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah , yeah .
+
+dialogue type : s^aa
+B : 
+
+dialogue type : s
+B :  the c the models are not complex enough to absorb that additional variability that you 're introducing .
+
+dialogue type : %--
+B : 
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : fh
+B : 
+
+dialogue type : %--
+B : 
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  Very different from speech .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s^aa
+B :  Yeah
+
+dialogue type : s^aa
+B :  the that 's true .
+
+dialogue type : s
+B :  That those those regions are the cause for this @ @ those negative values or whatever you get .
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah , yeah .
+
+dialogue type : %
+B : 
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : s^na
+B :  C - z C - zero and log energy also ,
+
+dialogue type : s^aa
+B :  yeah .
+
+dialogue type : qy^d
+B :  Now ?
+
+dialogue type : b
+B :  Oh .
+
+dialogue type : s^aa
+B : 
+
+dialogue type : s
+B :  the the log energy , the after the clean cleaning up .
+
+dialogue type : s
+B :  So they add a random random noise to it .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s
+B :  On - only to the log energy .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^ar|s
+B :  No their filter is not M domain .
+
+dialogue type : s
+B :  S so they did filter their time signal
+
+dialogue type : s.%-
+B :  and then what @ @ u
+
+dialogue type : s^aa
+B : 
+
+dialogue type : s
+B :  then after that it is s almost the same as the baseline prop system .
+
+dialogue type : s
+B :  And then the final log energy that they that they get , that to the to that they add some random noise .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  So it 's not the mel .
+
+dialogue type : s
+B :  You know , it 's not the mel filter bank output .
+
+dialogue type : s^df
+B :  These are log energy computed from the time s domain signal ,
+
+dialogue type : s^df
+B :  not from the mel filter banks .
+
+dialogue type : fh
+B : 
+
+dialogue type : %
+B : 
+
+dialogue type : s^2
+B :  Becomes flat .
+
+dialogue type : s^2
+B :  The variance , yeah , reduces ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : fh
+B :  Hmm , yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %--
+B : 
+
+dialogue type : fg
+B :  Uh ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^tc
+B :  So the other thing is the I 'm just looking at a little bit on the delay issue where the delay of the system is like a hundred and eighty millisecond .
+
+dialogue type : fh|s
+B :  So I just just tried another sk system I mean , another filter which I 've like shown at the end .
+
+dialogue type : s^e
+B :  Which is very similar to the existing uh , filter .
+
+dialogue type : s
+B :  Only Uh , only thing is that the phase is is like a totally nonlinear phase
+
+dialogue type : s^df
+B :  because it 's a it 's not a symmetric filter anymore .
+
+dialogue type : s^aa
+B : 
+
+dialogue type : s
+B :  so so this this is like So this makes the delay like zero for LDA
+
+dialogue type : s^df
+B :  because it 's completely causal .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  So I got actually just the results for the Italian for that
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  So the fifty - one point O nine has become forty - eight point O six ,
+
+dialogue type : s^e
+B :  which is like three percent relative degradation .
+
+dialogue type : s
+B :  So I have like the fifty - one point O nine
+
+dialogue type : fh
+B : 
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^no
+B :  I don't know it f fares for the other conditions .
+
+dialogue type : s
+B :  So it 's just like it 's like a three percent relative degradation ,
+
+dialogue type : s.%-
+B : 
+
+dialogue type : h|%--
+B :  u Uh , may
+
+dialogue type : s
+B :  The French Telecom .
+
+dialogue type : s^t1
+B :  Thirty - four .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk^r
+B :  Yeah .
+
+dialogue type : s
+B :  So if they include the delta , it will be an additional forty millisecond .
+
+dialogue type : s^ar|s^nd
+B :  No , they 're using a nine - point window ,
+
+dialogue type : s^e
+B :  which is like a four on either side ,
+
+dialogue type : s^e.%--
+B : 
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  they didn't include that .
+
+dialogue type : %
+B : 
+
+dialogue type : s
+B :  That 's the way the the the frames are packed ,
+
+dialogue type : s^df
+B :  like you have to wait for one more frame to pack .
+
+dialogue type : s^df
+B :  Because it 's the CRC is computed for two frames always .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s^df
+B :  They actually changed the compression scheme altogether .
+
+dialogue type : s
+B :  So they have their own compression and decoding scheme
+
+dialogue type : s^no
+B :  and they I don't know what they have .
+
+dialogue type : s
+B :  But they have coded zero delay for that .
+
+dialogue type : s^df
+B :  Because they ch I know they changed it ,
+
+dialogue type : s^e
+B :  their compression .
+
+dialogue type : s
+B :  They have their own CRC ,
+
+dialogue type : s^e
+B :  their their own error correction mechanism .
+
+dialogue type : s^df
+B :  So they don't have to wait more than one more frame to know whether the current frame is in error .
+
+dialogue type : s
+B :  So they changed the whole thing so that there 's no delay for that compression and part also .
+
+dialogue type : s
+B :  Even you have reported actually zero delay for the compression .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b.x
+B :  Ah .
+
+dialogue type : b.x
+B :  Mm - hmm .
+
+dialogue type : s^ft^t3
+B :  Thanks .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B : 
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b.%
+B :  Yeah , yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^bk
+B :  Yeah ,
+
+dialogue type : s^bu
+B :  so the median filtering is fixed .
+
+dialogue type : s^bu
+B :  You just change the threshold ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s
+B :  So three three hundred and fifty inputs ,
+
+dialogue type : fh
+B :  uh ,
+
+dialogue type : s
+B :  six thousand hidden nodes and two outputs .
+
+dialogue type : %
+B :  t t
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : b
+B : 
+
+dialogue type : s
+B :  Well , it 's not trained on Finnish .
+
+dialogue type : s
+B :  I mean , the MLP 's not trained on Finnish .
+
+dialogue type : s^bk
+B :  Oh oh .
+
+dialogue type : s^fa
+B :  Sorry .
+
+dialogue type : s
+B :  Uh , it 's Italian TI - digits .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^aa.%
+B :  That 's right .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah , the Yeah , it 's true .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : qy^bu^d
+B :  So there are like some some s some parameters you wanted to use or something ?
+
+dialogue type : fh
+B :  Or Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  We actually trained , uh , the on the Italian training part .
+
+dialogue type : s.%-
+B :  We we had another system with u
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  It must be somewhere .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %--
+B : 
+
+dialogue type : s^ar^t3|%--
+B : 
+
+dialogue type : s^aa^t3
+B :  Yeah , yeah .
+
+dialogue type : s^aa^t3
+B :  That 's true .
+
+dialogue type : s^2.%--
+B :  Syste
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  I just took their entire Italian training part .
+
+dialogue type : s
+B :  So it was both channel zero plus channel one .
+
+dialogue type : s^2
+B :  On one .
+
+dialogue type : s^am
+B :  Possible .
+
+dialogue type : s^cs
+B :  We can do a realignment .
+
+dialogue type : s
+B :  That 's true .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^am
+B :  Yeah , possible .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  so the VAD was trained on maybe different set of labels for channel zero and channel one
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  was the alignments were w were different for s certainly different because they were independently trained .
+
+dialogue type : s
+B :  We didn't copy the channel zero alignments to channel one .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bu|qy^d^g^rt
+B :  But for the new alignments what you generated , you just copied the channel zero to channel one , right ?
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s
+B :  But this number .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^bu|qy^d^g
+B :  So by uh , by by reducing the noise a a decent threshold like minus thirty DB , it 's like Uh , you are like r r reducing the floor of the noisy regions , right ?
+
+dialogue type : b
+B :  Uh - huh .
+
+dialogue type : s
+B : 
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s^bu
+B :  For all the languages .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy.%--
+B : 
+
+dialogue type : s^fa
+B :  Sorry .
+
+dialogue type : s^cs
+B :  Go ahead .
+
+dialogue type : s
+B :  Uh , actually I d I do all the smoothing .
+
+dialogue type : s^aa
+B :  Yeah , yeah .
+
+dialogue type : s^bu
+B :  So , before estimating the SNR , @ @ smooth the envelope .
+
+dialogue type : s^bk
+B :  Yeah ,
+
+dialogue type : s^cs.%--
+B : 
+
+dialogue type : s^bk
+B :  Yeah ,
+
+dialogue type : s^df
+B :  uh , so not not right now maybe .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s
+B : 
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^aa
+B :  that 's true .
+
+dialogue type : qy^2^d^rt
+B :  Slightly better .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^na
+B :  Yeah , you you caught up .
+
+dialogue type : s^aa
+B :  Yep ,
+
+dialogue type : s^aa
+B :  that 's true .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^aa
+B :  Yeah ,
+
+dialogue type : s^na
+B :  it 's better for high mismatch .
+
+dialogue type : s
+B :  So over all it gets , yeah , worse for the well matched condition ,
+
+dialogue type : %--
+B :  so y
+
+dialogue type : h
+B :  Uh ,
+
+dialogue type : s
+B :  that 's that 's the best thing , is like the French Telecom system is optimized for the well matched condition .
+
+dialogue type : %--
+B :  They c
+
+dialogue type : fh
+B :  Yeah .
+
+dialogue type : s^df
+B :  So they know that the weighting is good for the well matched ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^df
+B :  everywhere the well matched 's s s performance is very good for the French Telecom .
+
+dialogue type : s^cs
+B :  T we are we may also have to do something similar @ @ .
+
+dialogue type : fg
+B : 
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B : 
+
+dialogue type : s.%-
+B :  You s you have a better r
+
+dialogue type : fg
+B :  Yeah .
+
+dialogue type : s
+B :  You have some results that are good for the high mismatch .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s^bu
+B :  Using the clean filter .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^cc
+B :  Yeah , I 'll try .
+
+dialogue type : s^cc.%--
+B :  I I 'll try the cle
+
+dialogue type : s
+B :  No , I I my result is with the noisy noisy LDA .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  It 's with the noisy .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^e
+B :  It 's it 's not the clean LDA .
+
+dialogue type : s
+B :  It 's In in the front sheet , I have like like the summary .
+
+dialogue type : s^bk
+B :  Yeah .
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : s^bu
+B :  This is Your results are all with the clean LDA result ?
+
+dialogue type : s^bk
+B :  OK . @ @ .
+
+dialogue type : s^2
+B :  All noisy ,
+
+dialogue type : s^bk
+B :  yeah .
+
+dialogue type : fg
+B : 
+
+dialogue type : fg
+B : 
+
+dialogue type : s^2
+B :  On TI - digits this matters .
+
+dialogue type : s^2
+B :  Absolute .
+
+dialogue type : fh
+B : 
+
+dialogue type : s^bk|s
+B :  Yeah , I I I will have to look at it .
+
+dialogue type : s^aa
+B :  Yeah , that 's true .
+
+dialogue type : z
+B :  t
+

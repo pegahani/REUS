@@ -1,0 +1,567 @@
+dialogue type : s^bk|s
+D :  OK . OK . Afterwards is fine .
+
+dialogue type : qy^d^rt
+D :  Really small ?
+
+dialogue type : s^bk|s
+D :  OK . I see .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^ft
+D :  Thank you .
+
+dialogue type : s^bk|s^na
+D :  OK . It 's on .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s|qy^d^g
+D :  People no might not be able to infer that either , right ?
+
+dialogue type : s:qw
+D :  Like the fact Like , I could imagine if someone came up to me and asked , " Where 's the city hall ? " , I might say , g ar " Are you trying to get there ? "
+
+dialogue type : s^df
+D :  Because how I describe um , t its location uh , p probably depend on whether I think I should give them , you know , directions now , or say , you know , whatever , " It 's half a mile away " or something like that .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^aa
+D :  Yeah . Exactly .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^bu
+D :  So that context was like , um , their presumed purpose context ,
+
+dialogue type : s
+D :  i like business or travel ,
+
+dialogue type : s^e
+D :  as well as the utterance context , like , " I 'm now standing at this place at this time " .
+
+dialogue type : s^df
+D :  Um , I missed the beginning ,
+
+dialogue type : fh
+D :  but , um
+
+dialogue type : s.%--
+D : 
+
+dialogue type : qy^rt
+D :  could you back to the slide ,
+
+dialogue type : s^e^rt
+D :  the previous one ?
+
+dialogue type : qy^bu.%--
+D : 
+
+dialogue type : qy^bu^d^rt
+D :  These are all factors that uh , a These are the ones that you said that we are going to ignore now ?
+
+dialogue type : qrr
+D :  or that we want to take into account ?
+
+dialogue type : s.%-
+D :  You were saying n
+
+dialogue type : s
+D :  Take the the linguistic factors too .
+
+dialogue type : s^bk|s^2
+D :  Oh , how to extract these features .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  Got it .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bu
+D :  And and it 's clear from the data , um , like , sorta the correct answer in each case .
+
+dialogue type : %-
+D :  But l
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s.%-
+D :  That 's that 's the thing I 'm curious ab
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Sure .
+
+dialogue type : s
+D :  u u I mean , the only way you could get that is if you were to give th the x subjects a task .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : qy^bu^d^rt
+D :  So that 's what you want ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  So you will know .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  The No , that 's fine .
+
+dialogue type : s
+D :  I guess , it 's just knowing the intention from the experimental subject .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : s^no
+D :  I don't know if this was collected what situation this data was collected in .
+
+dialogue type : qy^rt
+D :  Was it is it the one that you showed in your talk ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : %--
+D :  But
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : qy^bu^d^rt
+D :  So was this , like , someone actually mobile , like s using a device ?
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^bk
+D :  OK . OK .
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : s^no
+D :  I guess I don't know The situation of of collecting th the data
+
+dialogue type : s^e
+D :  of , like Here you could imagine them being walking around the city . as like one situation .
+
+dialogue type : s
+D :  And then you have all sorts of other c situational context factors that would influence w how to interpret , like you said , the scope and things like that .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  you know , " I 'm sitting here with a map and asking questions " ,
+
+dialogue type : s
+D :  I I would imagine that the data would be really different .
+
+dialogue type : fh|s.%--
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : qy^bu^d
+D :  a At the third ?
+
+dialogue type : s^e
+D :  Right then ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : qy^bu^d^rt
+D :  a w your perspective ? sort of ?
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk|s^bk^m
+D :  Oh , two - D .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  So as you move through it that 's - they just track it on the for themselves
+
+dialogue type : %
+D :  there .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : %-
+D :  So
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^df
+D :  Uh , I was just trying to figure out how how ambitious the system is .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bu.%--
+D : 
+
+dialogue type : s^rt
+D :  I mean , uh yo you 're told So when your task is , I don't know , " Go buy stamps " or something like that ?
+
+dialogue type : qy^rt
+D :  So , do you have to respond ?
+
+dialogue type : qrr.%--
+D : 
+
+dialogue type : qw
+D :  Uh , what are you ste what are you supposed to be telling the system ?
+
+dialogue type : %--
+D :  Like , w
+
+dialogue type : qh^bu^rt
+D :  what you 're doing now ?
+
+dialogue type : qrr.%--
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^bk|s
+D :  OK , so it 's just like , " Let 's figure out what they would say under the circumstances " .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : b.%
+D :  Mm - hmm .
+
+dialogue type : s^aa|s.%--
+D : 
+
+dialogue type : s
+D :  I mean , th they 're unfamiliar w with interacting with the system .
+
+dialogue type : s
+D :  All they know is it 's this great system that could do s stuff .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^bk|s
+D :  Oh , Fey Parrill .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Uh - huh .
+
+dialogue type : s
+D :  She started taking the class last year
+
+dialogue type : s
+D :  and then didn't um , you know , didn't continue .
+
+dialogue type : %-
+D :  I g She 's a g
+
+dialogue type : qy.%-
+D :  Is she an undergradua
+
+dialogue type : s^m|s^bk
+D :  She is a graduate , OK .
+
+dialogue type : s^bk|s
+D :  Yeah , I m I know her very , very briefly .
+
+dialogue type : s
+D :  I know she was inter you know , interested in aspect and stuff like that .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^df
+D :  I guess the reason I was asking about the sort of the de the details of this kind of thing is that , um , it 's one thing to collect data for , I don't know , speech recognition or various other tasks that have pretty c clear correct answers ,
+
+dialogue type : s
+D :  but with intention um , obviously , as you point out , there 's a lot of di other factors
+
+dialogue type : s
+D :  and I 'm not really sure , um , how how e the question of how to make it a t appropriate toy version of that Um , it 's ju it 's just hard .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^na.%-
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah ,
+
+dialogue type : %--
+D : 
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qw^rt
+D :  w What are the t three intentions ?
+
+dialogue type : qy^bu.%-
+D : 
+
+dialogue type : s^aa|%
+D :  Yeah , it 's @ @ .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk|s
+D :  OK , so now I understand the referent of Tango mode .
+
+dialogue type : s^df
+D :  I didn't get that before .
+
+dialogue type : s^aa|qh^e
+D :  Yeah , like , how close are you gonna be ?
+
+dialogue type : s^ba
+D :  Like , Tango 's really close .
+
+dialogue type : s
+D :  There 's the m tool kit that um , Kevin Murphy has developed ,
+
+dialogue type : s^ba
+D :  which might be useful too .
+
+dialogue type : s
+D :  And it 's available Matlab code .
+
+dialogue type : qy^bh
+D :  Oh , really ?
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right , yeah .
+
+dialogue type : s
+D :  I was wondering .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^aa
+D :  Sure !
+
+dialogue type : %--
+D :  Um .
+
+dialogue type : qy^rt
+D :  So , you two , who 'll be working on this , li are are you gl will you be doing Well , I mean are you supposed to just do it by thinking about the situation ?
+
+dialogue type : qy^e
+D :  Can you use the sample data ?
+
+dialogue type : qy.%-
+D : 
+
+dialogue type : s^bk|qy.%--
+D : 
+
+dialogue type : qy
+D :  Is there a lot s of sample data that is beyond what you what you have there ?
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  That 's right , OK .
+

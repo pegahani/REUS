@@ -1,0 +1,1170 @@
+dialogue type : z
+C :  Starts
+
+dialogue type : z
+C :  No .
+
+dialogue type : z
+C :  No .
+
+dialogue type : z
+C : 
+
+dialogue type : z
+C :  I don't know .
+
+dialogue type : z
+C :  It starts with a P or something .
+
+dialogue type : z
+C :  I forget the word for it , but it 's it 's um
+
+dialogue type : z
+C :  Typically when you you 're ab r starting around forty for most people ,
+
+dialogue type : z
+C :  it starts to harden and then it 's just harder for the lens to shift things
+
+dialogue type : z
+C :  and th the the symptom is typically that you you have to hold stuff uh uh further away to to see it .
+
+dialogue type : z
+C :  In fact , uh m my brother 's a gerontological psychologist
+
+dialogue type : z
+C :  and he he uh came up with an an uh a uh body age test which uh gets down to sort of only three measurements that are good enough st statistical predictors of all the rest of it .
+
+dialogue type : z
+C :  And one of them is is the distance that you have to hold it at .
+
+dialogue type : z
+C :  Yeah .
+
+dialogue type : z
+C :  Oh . Yeah .
+
+dialogue type : z
+C :  About how old I am .
+
+dialogue type : z
+C :  OK .
+
+dialogue type : z
+C :  No , that 's OK .
+
+dialogue type : s^e
+C :  It also should be later .
+
+dialogue type : s^df
+C :  Because Jane uh is not here yet .
+
+dialogue type : s
+C :  And uh she 'll be most interested in that .
+
+dialogue type : fh|s
+C :  Uh , she 's probably least involved in the signal - processing stuff
+
+dialogue type : s.%--
+C :  so maybe we can just just uh ,
+
+dialogue type : s^cs
+C :  I don't think we should go though an elaborate thing ,
+
+dialogue type : s
+C :  but um uh Jose and I were just talking about the uh uh , speech e energy thing ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  We didn't talk about the derivatives .
+
+dialogue type : s^cs.%--
+C :  But I think , you know , the the i
+
+dialogue type : s^cs.%--
+C :  if I can if you don't mind my my speaking for you for a bit , um Uh .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^rt
+C :  but we discussed a couple of the possible things that uh he can look at .
+
+dialogue type : fh|s
+C :  Um . And uh one is that uh this is all in log energy
+
+dialogue type : s
+C :  and log energy is basically compressing the distances uh between things .
+
+dialogue type : s
+C :  Um Another is that he needs to play with the the different uh uh temporal sizes .
+
+dialogue type : s
+C :  He was he he was taking everything over two hundred milliseconds
+
+dialogue type : fh|s
+C :  uh , and uh he 's going to vary that number and also look at moving windows , as we discussed before .
+
+dialogue type : fh|sj
+C :  Um And uh and the other thing is that the yeah doing the subtracting off the mean and the variance in the uh and dividing it by the standard deviation in the log domain , may not be the right thing to do .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^ar
+C :  Neither .
+
+dialogue type : s
+C :  It 's uh between the pauses uh for some segment .
+
+dialogue type : s
+C :  And so i i his his He 's making the constraint it has to be at least two hundred milliseconds .
+
+dialogue type : s
+C :  And so you take that .
+
+dialogue type : s
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  and then and then just uh normalizing with that larger amount .
+
+dialogue type : s^rt
+C :  um and But one thing he was pointing out is when he he looked at a bunch of examples in log domain , it is actually pretty hard to see the change .
+
+dialogue type : s^rt
+C :  And you can sort of see that , because of j of just putting it on the board that if you sort of have log - X plus log - X , that 's the log of X plus the log of two
+
+dialogue type : s
+C :  and it 's just , you know , it it diminishes the effect of having two of them .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^bk
+C :  Yes , right .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bc
+C :  Actually , a PDF .
+
+dialogue type : s
+C :  But , you know , uh But , either way .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%-
+C :  Yeah , eith eith uh B
+
+dialogue type : s^bk|s^arp.%--
+C : 
+
+dialogue type : s
+C :  Then , that 's a problem right there .
+
+dialogue type : s^cs.%--
+C :  So . I think you should at least be able ,
+
+dialogue type : s^cs:s
+C :  doing casual looking and can get the sense , " Hey , there 's something there . "
+
+dialogue type : s
+C :  and then you can play around with the measures .
+
+dialogue type : s^df
+C :  And when he 's looking in the log domain he 's not really seeing it .
+
+dialogue type : %--
+C :  So .
+
+dialogue type : s^df^rt
+C :  And when
+
+dialogue type : s
+C :  so that 's a good place to start .
+
+dialogue type : fh|s^tc
+C :  Um . So that was that was the discussion we just had .
+
+dialogue type : fh|s.%--
+C :  Um . The other thing
+
+dialogue type : s
+C :  Actually we ca had a question for Adam in this .
+
+dialogue type : qy^rt
+C :  Uh , when you did the sampling ? uh over the speech segments or s or sampling over the the individual channels in order to do the e uh the amplitude equalization , did you do it over just the entire everything in the mike channels ?
+
+dialogue type : qy^d
+C :  You didn't try to find speech ?
+
+dialogue type : s^bk
+C :  Right , OK .
+
+dialogue type : s^bu
+C :  So then that means that someone who didn't speak very much would be largely represented by silence .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C :  Right .
+
+dialogue type : %-
+C :  So th
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bs.%--
+C :  So yeah there there there There 's a good chance then given that different people do talk different amounts that there is there there is still a lot more to be gained from gain norm normalization with some sort
+
+dialogue type : s
+C :  if if we can figure out a way to do it .
+
+dialogue type : fh|s^bs
+C :  Uh . But we were agreed that in addition to that uh there should be s stuff related to pitch and harmonics and so forth .
+
+dialogue type : s^tc
+C :  So we didn't talk at all about uh the other derivatives ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Well , actually , you do have some distributions here , uh for these cases .
+
+dialogue type : s
+C :  You have some histograms ,
+
+dialogue type : fh|s
+C :  um and uh , they don't look very separate .
+
+dialogue type : fh|s^bsc
+C :  uh separated .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^df
+C :  But And so in in these he 's got that .
+
+dialogue type : s
+C :  He 's got some pictures .
+
+dialogue type : s.%--
+C :  But he doesn't he doesn't in the he i
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  But he didn't h have it for the energy .
+
+dialogue type : s
+C :  He had it for the derivatives .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : sj^ba.%--
+C :  Oh that yeah that 's a good q
+
+dialogue type : qy
+C :  did did you have this sort of thing , for just the just the l r uh the the unnormalized log energy ?
+
+dialogue type : s^bk
+C :  OK . Yeah .
+
+dialogue type : s
+C :  So she she 's right .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  That 's That 's uh cuz I 'd mentioned scatter plots before but she 's right ,
+
+dialogue type : s
+C :  I mean , even before you get the scatter plots , just looking at a single feature uh , looking at the distribution , is a good thing to do .
+
+dialogue type : fg|s.%--
+C :  Yeah , but but what she 's saying is , which is right , is le
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Before we get complicated , let 's start with the most basic wh thing , which is we 're arguing that if you take energy uh if you look at the energy , that , when two people are speaking at the same time , usually there 'll be more energy than when one is
+
+dialogue type : qy^d^g
+C :  right ?
+
+dialogue type : s^e
+C :  That 's that sort of hypothesis .
+
+dialogue type : s
+C :  And the first way you 'd look at that , uh s she 's , you know , absolutely right ,
+
+dialogue type : s
+C :  is that you would just take a look at the distribution of those two things ,
+
+dialogue type : s
+C :  much as you 've plotted them here ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Well in this case you have three .
+
+dialogue type : s
+C :  You have the silence , and that that 's fine .
+
+dialogue type : s
+C :  So , uh with three colors or three shades or whatever ,
+
+dialogue type : s
+C :  just just look at those distributions .
+
+dialogue type : s
+C :  And then , given that as a base , you can see if that gets improved , you know , or or or worsened by the looking at regular energy , looking at log energy ,
+
+dialogue type : s^cs^rt
+C :  we were just proposing that maybe it 's you know , it 's harder to see with the log energy ,
+
+dialogue type : fh|qh^rt
+C :  um and uh also these different normalizations , does a particular choice of normalization make it better ?
+
+dialogue type : s
+C :  But I had maybe made it too complicated by suggesting early on , that you look at scatter plots
+
+dialogue type : s^df
+C :  because that 's looking at a distribution in two dimensions .
+
+dialogue type : s^co
+C :  Let 's start off just in one , uh , with this feature .
+
+dialogue type : s
+C :  I think that 's probably the most basic thing , before anything very complicated .
+
+dialogue type : fh|s
+C :  Um And then we w I think we 're agreed that pitch - related things are are are going to be a a really likely candidate to help .
+
+dialogue type : s
+C :  Um But since uh your intuition from looking at some of the data , is that when you looked at the regular energy , that it did in fact usually go up , when two people were talking , that 's eh you know , you should be able to come up with a measure which will match your intuition .
+
+dialogue type : s^df
+C :  And she 's right , that a that having a having having this table , with a whole bunch of things , with the standard deviation , the variance and so forth , it 's it 's it 's harder to interpret than just looking at the the same kind of picture you have here .
+
+dialogue type : b^rt
+C :  Mm - hmm .
+
+dialogue type : b^rt
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg|s.%-
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  This is I w want to point to visual things ,
+
+dialogue type : s
+C :  But I mean they there 'll be time There 'll be overlap between the distributions ,
+
+dialogue type : s
+C :  but the question is , " If it 's a reasonable feature at all , there 's some separation . "
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Right . I mean the the reason I had suggested the scatter f p features is I used to do this a lot , when we had thirteen or fifteen or twenty features to look at .
+
+dialogue type : s^df
+C :  um Because something is a good feature uh by itself , you don't really know how it 'll behave in combination
+
+dialogue type : s^cs
+C :  and so it 's nice to have as many as many together at the same time as possible in uh in some reasonable visual form .
+
+dialogue type : s
+C :  There 's cool graphic things people have had sometimes to put together three or four in some funny funny way .
+
+dialogue type : s
+C :  But it 's true that you shouldn't do any of that unless you know that the individual ones , at least , have have some uh some hope
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa^m
+C :  Right .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : h|s^ar
+C :  Uh , no we don't have that .
+
+dialogue type : %-
+C :  But .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Well I I I I would s actually still recommend that he do the overall thing
+
+dialogue type : s^df
+C :  because it would be the quickest thing for him to do .
+
+dialogue type : s
+C :  He could You see , he already has all his stuff in place ,
+
+dialogue type : s
+C :  he has the histogram mechanism ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  and all he has to do is change it uh uh from from log to plain energy and plot the histogram and look at it .
+
+dialogue type : s^cs.%--
+C :  And then he should go on and do the other stuff bec
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  and I would imagine there should be some you know , there should be The distributions should be somewhat separated .
+
+dialogue type : sj
+C :  Uh and I I would still guess that if they are not separated at all , that there 's some there 's there 's most likely something wrong in the way that we 're measuring it .
+
+dialogue type : fh|s
+C :  Um , but um For instance , I mean I wouldn't expect that it was very common overall , that when two people were talking at the same time , that it would that it really was lower ,
+
+dialogue type : s
+C :  although sometimes , as you say , it would .
+
+dialogue type : fh
+C :  So . So .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s.%--
+C :  I mean .
+
+dialogue type : s^bd^rt
+C :  No .
+
+dialogue type : s^bd
+C :  It could it probably does happen sometimes .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s
+C :  e e and and again what they what difference there was would kind of be lost in taking the log ,
+
+dialogue type : fh
+C :  so ,
+
+dialogue type : s
+C :  as well .
+
+dialogue type : s^ar^rt
+C :  Mmm , no ,
+
+dialogue type : s^df.%-
+C : 
+
+dialogue type : s
+C :  Well , it won't be as big .
+
+dialogue type : s^tc
+C :  If if you 're a I guess my point is , if you 're doing essentially a linear separation , taking the log first does in fact make it harder to separate .
+
+dialogue type : s.%--
+C :  So it 's So , uh if you i i So i if there if there close to things it does
+
+dialogue type : s
+C :  it 's a nonlinear operation that does in fact change the distinction .
+
+dialogue type : s.%--
+C :  If you 're doing a non if you 're doing some fancy thing then then
+
+dialogue type : s
+C :  yeah .
+
+dialogue type : s
+C :  And right now we 're essentially doing this linear thing by looking across here and and saying we 're going to cut it here .
+
+dialogue type : s
+C :  Um and that that 's the indicator that we 're getting .
+
+dialogue type : s
+C :  But anyway , yeah , we 're not disagreeing on any of this ,
+
+dialogue type : s
+C :  we should look at it more uh more finely , but uh uh I think that This often happens , you do fairly complicated things , and then you stand back from them and you realize that you haven't done something simple .
+
+dialogue type : s
+C :  So uh , if you generated something like that just for the energy and see , and then , a a a as as Liz says , when they g have uh uh smaller um , more coherent groups to look at , that would be another interesting thing later .
+
+dialogue type : s^rt
+C :  And then that should give us some indication between those , should give us some indication of whether there 's anything to be achieved f from energy at all .
+
+dialogue type : s^cs
+C :  And then you can move on to the uh uh more pitch related stuff .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : qy
+C :  Have you started looking at the pitch related stuff at all ,
+
+dialogue type : qr.%--
+C :  or ?
+
+dialogue type : s^r^rt
+C :  Pitch related ?
+
+dialogue type : s^rt
+C :  Harmonicity and so on ?
+
+dialogue type : s.%--
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^ar
+C :  Oh , that 's not what I meant .
+
+dialogue type : s^ar
+C :  No , no .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C :  Well , we certainly should see this but I I I I think that the harm
+
+dialogue type : s
+C :  I certainly wasn't saying this was better than the harmonicity and pitch related things
+
+dialogue type : s.%-
+C :  I was just saying
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fg
+C :  OK . OK .
+
+dialogue type : s.%--
+C :  But I think , like , all these derivatives and second derivatives and all these other very fancy things ,
+
+dialogue type : s^cs
+C :  I think I would just sort of look at the energy and then get into the harmonicity as as a suggestion .
+
+dialogue type : s^tc
+C :  Uh OK .
+
+dialogue type : s^t
+C :  So maybe uh since w we 're trying to uh compress the meeting ,
+
+dialogue type : s^rt
+C :  um , I know Adam had some form stuff he wanted to talk about
+
+dialogue type : qo^rt.%--
+C :  and did you have some ?
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bu
+C :  You you want it around the overlapping part .
+
+dialogue type : s^e
+C :  You want it to include something that 's not in overlapping
+
+dialogue type : fh
+C :  but but uh
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^no
+C :  I 'm not sure that 's necessarily true .
+
+dialogue type : s.%--
+C :  Because because it because um again if you 're just compensating for the gain ,
+
+dialogue type : s
+C :  you know , the fact that this this gain thing was crude ,
+
+dialogue type : s^df
+C :  and the gain wh if someone is speaking relatively at consistent level , just to to give a an extreme example , all you 're doing is compensating for that .
+
+dialogue type : s
+C :  And then you still s And then if you look at the frame with respect to that , it still should should uh change
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  This was sort of where where we were last week .
+
+dialogue type : s^co^t
+C :  But , anyway We we 'll have to look at some core things .
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s
+C :  Well again for the close mike stuff , we could come up take a s take the Switchboard system or something ,
+
+dialogue type : fh
+C :  and Um
+
+dialogue type : s^cs.%--
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^t^tc
+C :  There 's something we should talk about later
+
+dialogue type : s
+C :  but maybe not just now .
+
+dialogue type : s^co
+C :  But , uh , should talk about our options as far as the uh uh transcription
+
+dialogue type : s
+C :  But . Well , w But we 'll do that later .
+
+dialogue type : s^cs^m
+C :  We 'll talk about it later .
+
+dialogue type : fg
+C :  So uh Uh
+
+dialogue type : s^t^tc
+C :  " forms " .
+
+dialogue type : s^rt
+C :  You had something on forms .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : qw^rt
+C :  Why What what were you putting in ?
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : fg|s.%--
+C :  Yeah , he 's been setting stuff up and going away . So .
+
+dialogue type : s^df^j.%-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : qw^br
+C :  What ?
+
+dialogue type : s
+C :  Digit . Digit form .
+
+dialogue type : qy^bu^d^rt
+C :  So the main thing that the person fills out um is the name and email and time ?
+
+dialogue type : qy^bu^d^rt
+C :  You do the rest ?
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s.%-
+C :  " South Midland , North Midland "
+
+dialogue type : qy^rt
+C :  So is South Midland like Kansas ?
+
+dialogue type : qr.%--
+C :  and North Midland like like uh Illinois , or ?
+
+dialogue type : qy^d^rt
+C :  By definition ?
+
+dialogue type : %-
+C :  Well ,
+
+dialogue type : s.%-
+C :  If you 're if e if y
+
+dialogue type : s.%--
+C :  if you 're a TI or MIT from nineteen eighty - five .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  You know , I think if you 're talking if you 're thinking in terms of places , as opposed to names different peop names people have given to different ways of talking , I would think North Midwest , and South Midwest would be more common than saying Midland ,
+
+dialogue type : qy^d^g^rt
+C :  right ,
+
+dialogue type : s.%-
+C :  I mean , I I went to s
+
+dialogue type : %-
+C :  Well .
+
+dialogue type : qw^ng.%--
+C :  But what if you moved five times and and uh
+
+dialogue type : s^no
+C :  I guess we don't really know .
+
+dialogue type : qw
+C :  Oh , what is Northern ?
+
+dialogue type : qw^r
+C :  Well and what and what 's Northern ?
+
+dialogue type : s
+C :  But I I 'm s I 'm now that you mentioned it though , I am really am confused by " Northern " .
+
+dialogue type : s
+C :  I really am .
+
+dialogue type : s^e
+C :  I mean , if if you 're in New England , that 's North .
+
+dialogue type : s.%--
+C :  If you 're i if you 're
+
+dialogue type : h|s^na.%--
+C : 
+
+dialogue type : s^arp
+C :  But that 's also North Midland ,
+
+dialogue type : qy^d^g^rt
+C :  right ?
+
+dialogue type : s
+C :  And and and Oregon and and Oregon and Washington are are Western , but they 're also Northern .
+
+dialogue type : qo^rt
+C :  uh , Idaho ?
+
+dialogue type : qo^rt
+C :  Montana ?
+
+dialogue type : s^cs:s^co
+C :  Maybe Maybe we Maybe we should put a little map and say " put an X on where you 're from " ,
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^cs.%-
+C : 
+
+dialogue type : s^cs^j
+C :  I 'd say , uh , " Boston , New York City , the South and Regular " .
+
+dialogue type : s
+C :  That 's a joke .
+
+dialogue type : %-
+C : 
+
+dialogue type : qy^j
+C :  " Do you come from the Louisiana Purchase ? "
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Well , Boston 's @ @ , too .
+
+dialogue type : qw.%-
+C :  How
+
+dialogue type : s^ng
+C :  Well , I mean , it wasn't that long ago that we had somebody here who was from Texas who was absolutely sure that he didn't have any accent left .
+
+dialogue type : s^e
+C :  And and had he had a pretty noticeable drawl .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : fg
+C :  Right .
+
+dialogue type : fg
+C :  Right .
+
+dialogue type : fg|s
+C :  Yeah last week last week I was sort of r arguing for having it wide open ,
+
+dialogue type : s:s^fe
+C :  but then everybody said " Oh , no ,
+
+dialogue type : s:s
+C :  but then it will be hard to interpret
+
+dialogue type : s^df:s
+C :  because some people will say Cincinnati and some will say Ohio " .
+
+dialogue type : fh
+C :  And .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bd
+C :  W This is just a small thing
+
+dialogue type : s
+C :  but um It says " Variety " and then it gives things that e have American as one of the choices .
+
+dialogue type : s
+C :  But then it says " Region " ,
+
+dialogue type : s^bu
+C :  but Region actually just applies to uh , US ,
+
+dialogue type : qy^d^f^g^rt
+C :  right ?
+
+dialogue type : s^bk
+C :  Ah , OK .
+
+dialogue type : %-
+C :  S
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^aa
+C :  Yes I I I think so . Yeah .
+
+dialogue type : s^arp
+C :  U unless you 're from Midland , Kansas .
+
+dialogue type : fh
+C :  But .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : qr
+C :  Is it Midland Midland Midland , Texas or Midland , Kansas ?
+
+dialogue type : s^no
+C :  I forget .
+
+dialogue type : s
+C :  But there 's a town .
+
+dialogue type : s
+C :  in in there .
+
+dialogue type : s^no
+C :  I forget what it is @ @ .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Y yeah .
+
+dialogue type : s
+C :  And Colorado , right across the border , would be North Midland .
+
+dialogue type : s^arp^df.%--
+C :  But you do in the others , too . So .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C :  U
+
+dialogue type : s^co^tc
+C :  Wait a minute .
+
+dialogue type : qw.%-
+C :  Where does Where does d w Where Where 's where does uh New New York west of west of uh New York City and Pennsylvania uh and uh
+
+dialogue type : s^ar^fe
+C :  N No , it 's not .
+
+dialogue type : s^ar
+C :  Oh no .
+
+dialogue type : s^ar
+C :  No , no . No .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fg|s
+C :  Yeah . Pennsylvania is not New England .
+
+dialogue type : s^rt
+C :  and uh New Jersey is not New England and Maryland is not New England and none of those are the South .
+
+dialogue type : s^aa
+C :  That 's good .
+
+dialogue type : sj^ba
+C :  I like that .
+
+dialogue type : s
+C :  We 're all sufficiently tired of this that we 're agreeing with you .
+
+dialogue type : fg
+C :  So .
+
+dialogue type : qy^bu^d^m^rt
+C :  You like it ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Good .
+
+dialogue type : qy^bu^d^rt
+C :  Cockney ?
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  Liverpuddlian .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  OK .
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : s^bk^rt^tc
+C :  OK .
+
+dialogue type : qy^rt^t^tc
+C :  We uh We done ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fg|qr^rt
+C :  um s e Any any other uh open mike topics or should we go right to the digits ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : %-
+C :  Cou - i e I mean , y
+
+dialogue type : s^bu^cs^rt
+C :  If there was some Is there some way to have someone write patches in something faster and and link it in , or something ?
+
+dialogue type : qrr.%-
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  They may well have not had much demand for it .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa|s^co^rt
+C :  Yeah . Let 's do digits ,
+
+dialogue type : s^co
+C :  uh , and then we 'll turn off the mikes , and then I have one other thing to discuss .
+
+dialogue type : s^bk
+C :  Oh .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^t3.%--
+C :  Well , we 'll talk to you about it Uh
+
+dialogue type : s^co^m^na
+C :  Yeah , why don't you read the digits and then you can go .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : z
+C :  OK .
+

@@ -1,0 +1,162 @@
+dialogue type : s^aa
+C :  OK .
+
+dialogue type : s
+C :  So Michael Kleinschmidt , who 's a PHD student from Germany , showed up this week .
+
+dialogue type : s
+C :  He 'll be here for about six months .
+
+dialogue type : s
+C :  And he 's done some work using an auditory model of , um , human hearing ,
+
+dialogue type : s
+C :  and using that f uh , to generate speech recognition features .
+
+dialogue type : s
+C :  And he did work back in Germany with , um , a toy recognition system using , um , isolated digit recognition as the task .
+
+dialogue type : s
+C :  It was actually just a single - layer neural network that classified words
+
+dialogue type : s^e
+C :  classified digits , in fact .
+
+dialogue type : s
+C :  Um , and he tried that on I think on some Aurora data and got results that he thought seemed respectable .
+
+dialogue type : fh
+C :  And
+
+dialogue type : s
+C :  he w he 's coming here to u u use it on a uh , a real speech recognition system .
+
+dialogue type : s
+C :  So I 'll be working with him on that .
+
+dialogue type : fh
+C :  And , um ,
+
+dialogue type : s
+C :  maybe I should say a little more about these features ,
+
+dialogue type : s^bd^df
+C :  although I don't understand them that well .
+
+dialogue type : s
+C :  The I think it 's a two - stage idea .
+
+dialogue type : s
+C :  And , um , the first stage of these features correspond to what 's called the peripheral auditory system .
+
+dialogue type : s
+C :  And I guess that is like a filter bank with a compressive nonlinearity .
+
+dialogue type : s^no
+C :  And I 'm - I 'm not sure what we have @ @ in there that isn't already modeled in something like , um , PLP .
+
+dialogue type : s
+C :  I should learn more about that .
+
+dialogue type : s
+C :  And then the second stage is , um , the most different thing , I think , from what we usually do .
+
+dialogue type : s
+C :  It 's , um it computes features which are , um , based on sort of like based on diffe different w um , wavelet basis functions used to analyze the input .
+
+dialogue type : s
+C :  So th he uses analysis functions called Gabor functions ,
+
+dialogue type : s
+C :  um , which have a certain extent , um , in time and in frequency .
+
+dialogue type : s^rt
+C :  And the idea is these are used to sample , um , the signal in a represented as a time - frequency representation .
+
+dialogue type : s
+C :  So you 're sampling some piece of this time - frequency plane .
+
+dialogue type : s
+C :  And , um , that , um , is is interesting ,
+
+dialogue type : s
+C :  cuz , @ @ for for one thing , you could use it , um , in a a multi - scale way .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C :  instead of having everything like we use a twenty - five millisecond or so analysis window , typically ,
+
+dialogue type : s
+C :  um , and that 's our time scale for features ,
+
+dialogue type : s
+C :  but you could using this , um , basis function idea , you could have some basis functions
+
+dialogue type : s
+C :  which have a lot longer time scale
+
+dialogue type : s
+C :  and , um , some which have a lot shorter ,
+
+dialogue type : s
+C :  and so it would be like a set of multi - scale features .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Th - this is because it 's , um there are these different parameters for the shape of these basis functions , um there are a lot of different possible basis functions .
+
+dialogue type : s
+C :  And so he he actually does an optimization procedure to choose an an optimal set of basis functions out of all the possible ones .
+
+dialogue type : s^ba
+C : 
+
+dialogue type : s
+C :  is , um , he starts with he has a set of M of them .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s
+C : 
+
+dialogue type : s^rt
+C :  I mean , he t he tries , um , using just M minus one of them .
+
+dialogue type : s
+C :  So there are M possible subsets of this length - M vector .
+
+dialogue type : s
+C :  He tries classifying , using each of the M possible sub - vectors .
+
+dialogue type : s
+C :  Whichever sub - vector , um , works the the best , I guess , he says the the fe feature that didn't use was the most useless feature ,
+
+dialogue type : s
+C :  so we 'll throw it out
+
+dialogue type : s
+C :  and we 're gonna randomly select another feature from the set of possible basis functions .
+
+dialogue type : qy^bu^d^rt
+C :  I it 's multi - scale because you use several of these in parallel ,
+
+dialogue type : qy^rt
+C :  is that right ?
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : b
+C :  Hmm .
+

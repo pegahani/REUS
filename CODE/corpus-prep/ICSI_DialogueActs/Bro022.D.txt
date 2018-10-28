@@ -1,0 +1,129 @@
+dialogue type : s^rt
+D :  Well , I am still working with , eh , VTS .
+
+dialogue type : s.%--
+D :  And , one of the things that last week ,
+
+dialogue type : fh|s
+D :  eh , say here is that maybe the problem was with the diff
+
+dialogue type : s^df
+D :  because the signal have different level of energy .
+
+dialogue type : s
+D :  And , maybe , talking with Stephane and with Sunil , we decide that maybe it was interesting to to apply on - line normalization before applying VTS .
+
+dialogue type : s
+D :  But then we decided that that 's it doesn't work absolutely , because we modified also the noise .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  Well , thinking about that , we we then we decide that maybe is a good idea .
+
+dialogue type : s^no
+D :  We don't know .
+
+dialogue type : s.%--
+D :  I don't hav
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I didn't do the experiment yet to apply VTS in cepstral domain .
+
+dialogue type : fg
+D :  Uh .
+
+dialogue type : s
+D :  Well , we s decide to m to to obtain the new expression if we work in the cepstral domain .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  Well . I am working in that now ,
+
+dialogue type : s^no
+D :  but I 'm not sure if that will be usefu useful .
+
+dialogue type : fh
+D :  I don't know .
+
+dialogue type : s.%--
+D :  It 's k it 's k
+
+dialogue type : s
+D :  It 's quite a lot It 's a lot of work .
+
+dialogue type : s^bd
+D :  Well , it 's not too much ,
+
+dialogue type : s
+D :  but this it 's work .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^no
+D :  I don't have any feeling if this will work better than apply VTS aft in cepstral domain will work better than apply in m mel in filter bank domain .
+
+dialogue type : s^no
+D :  I r I 'm not sure .
+
+dialogue type : s^no
+D :  I don't I don't know absolutely nothing .
+
+dialogue type : qy^bh^rt
+D :  Yeah ?
+
+dialogue type : s^2.%--
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg
+D :  Ye
+
+dialogue type : fg
+D :  Yea
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : %--
+D : 
+
+dialogue type : s^cs
+D :  I was thinking to to to estimate the noise with the first frames
+
+dialogue type : s^cs
+D :  and then apply the VAD ,
+
+dialogue type : s^e
+D :  before the on - line normalization .
+
+dialogue type : s
+D : 
+
+dialogue type : fg
+D :  Well ,
+
+dialogue type : s
+D :  I am thinking about that and working about that ,
+
+dialogue type : s
+D :  but I don't have result this week .
+
+dialogue type : b
+D :  Mm - hmm .
+

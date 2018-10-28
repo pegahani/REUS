@@ -1,0 +1,564 @@
+dialogue type : z
+D :  Number four .
+
+dialogue type : s.%--
+D :  We talk about the the results of
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk^m
+D :  IRAM .
+
+dialogue type : s^m
+D :  Bi - Bigram .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b.%
+D :  Nnn , yeah .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^2
+D :  Jose .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b.%
+D :  Right .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg|qw^rt^t^tc
+D :  OK . What what are the different , uh , classes to to code , uh , the the overlap , you will use ?
+
+dialogue type : qw.%--
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : qy^d^rt
+D :  Look like , uh , you t you explaining in the blackboard ?
+
+dialogue type : %-
+D :  The ?
+
+dialogue type : b
+D :  Yeah ? Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Huh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^m
+D :  We hope .
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mmm , yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Huh .
+
+dialogue type : s^na
+D :  I I think it 's frequent in in the meeting .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  No .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Speech research .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk|qw^rt
+D :  OK . What do you want ?
+
+dialogue type : b
+D :  Yeah . Sure .
+
+dialogue type : s^aa|s^na
+D :  Yeah . It 's it 's prepared .
+
+dialogue type : s
+D :  I I think it 's it 's fast ,
+
+dialogue type : s^rt
+D :  because , uh , I have the results , eh , of the study of different energy without the law length .
+
+dialogue type : fh
+D :  Eh , um , eh ,
+
+dialogue type : s^rt
+D :  in the in the measurement , uh , the average , uh , dividing by the by the , um , variance .
+
+dialogue type : s.%--
+D :  Um , I th i
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^df
+D :  eh , I don't know if you remain
+
+dialogue type : s
+D : 
+
+dialogue type : s^r
+D :  with the representations of parameter ,
+
+dialogue type : s
+D :  because the the valleys and the peaks in the signal , eh , look like , eh , it doesn't follow to the to the energy in the signal .
+
+dialogue type : s
+D :  And it was a problem , uh , with the scale .
+
+dialogue type : fh|s^r
+D :  Eh , the scale .
+
+dialogue type : fh|s
+D :  Eh , and I I change the scale and we can see the the variance .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa^r
+D :  Yeah .
+
+dialogue type : s
+D :  The distribution the distribution is is similar .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b.%
+D :  Mmm ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b.%
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^cs.%--
+D :  I I I think that , eh , the possibility , eh , can be that , eh ,
+
+dialogue type : s
+D :  Thilo , eh , working , eh , with a new class ,
+
+dialogue type : s
+D :  not only , eh , nonspeech and speech , but , eh , in in in the speech class ,
+
+dialogue type : s
+D :  dividing , eh , speech , eh , of from a speaker and overlapping ,
+
+dialogue type : s
+D :  to try to to do , eh , eh , a fast a fast , eh , experiment to to prove that , nnn , this fea eh , general feature , eh , can solve the the the problem ,
+
+dialogue type : qw.%-
+D : 
+
+dialogue type : fh|qw.%--
+D : 
+
+dialogue type : s^rt
+D :  And , I I have prepared the the pitch tracker now .
+
+dialogue type : s
+D :  And I hope the the next week I will have , eh , some results and we we will show we will see , eh , the the parameter the pitch , eh , tracking in with the program .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa^r
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Mmm , yeah .
+
+dialogue type : fh
+D :  Ah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mmm ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bu
+D :  You mean Ja - eh , eh , Javier program ?
+
+dialogue type : s
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  Yeah . It was only Gaussian .
+
+dialogue type : s
+D :  This is the idea .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^2
+D :  To overrule , yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^2.%
+D :  One .
+
+dialogue type : qw
+D :  But , eh , what did you think about the possibility of using the Javier software ?
+
+dialogue type : s
+D :  Eh , I mean , the , uh the , uh the BIC criterion ,
+
+dialogue type : s
+D :  the the t to train the the Gaussian ,
+
+dialogue type : s
+D :  eh , using the the mark , eh , by hand , eh , eh , to distinguish be mmm , to train overlapping zone and speech zone . I mean ,
+
+dialogue type : fh|s^cs.%--
+D :  eh , I I I think that an interesting , eh , experiment , eh , could be , th eh , to prove that , mmm , if s
+
+dialogue type : s.%--
+D :  we suppose that , eh , the the first step I mean , the the classifier
+
+dialogue type : qw
+D :  what
+
+dialogue type : qr^d
+D :  were the classifier from Javier or classifier from Thilo ?
+
+dialogue type : qw
+D :  W What happen with the second step ?
+
+dialogue type : qw
+D :  I I mean , what what happen with the , eh the , uh , clu the , uh the clu the clustering process ?
+
+dialogue type : s^e
+D :  Using the the Gaussian .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : qy
+D :  I I mean , that is is enough is enough , eh , to work well , eh , to , eh , separate or to distinguish , eh , between overlapping zone and , eh , speaker zone ?
+
+dialogue type : s^df
+D :  Because th if if we if we , eh , nnn , develop an classifier and the second step doesn't work well , eh , we have another problem .
+
+dialogue type : %-
+D :  N
+
+dialogue type : b
+D :  Nnn , yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Oh .
+
+dialogue type : fg|%-
+D : 
+
+dialogue type : s
+D :  But it 's possible with my segmentation by hand that we have information about the the overlapping ,
+
+dialogue type : fh
+D :  uh Yeah .
+
+dialogue type : %-
+D : 
+
+dialogue type : b.%
+D :  N n Yeah .
+
+dialogue type : s^aa
+D :  No .
+
+dialogue type : s^rt
+D :  The demonstration by hand . Segmentation by hand I I I think is the fast experiment .
+
+dialogue type : fh|s.%-
+D : 
+
+dialogue type : s^rt
+D : 
+
+dialogue type : s^aa
+D :  I yeah have . I have .
+
+dialogue type : s
+D :  OK .
+

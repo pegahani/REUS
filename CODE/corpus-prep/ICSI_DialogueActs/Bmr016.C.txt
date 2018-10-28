@@ -1,0 +1,594 @@
+dialogue type : s^j
+C :  Dueling digits .
+
+dialogue type : s
+C :  Round .
+
+dialogue type : s^ar^fe^j
+C :  Nein !
+
+dialogue type : s
+C :  You scream it .
+
+dialogue type : s^r
+C :  It only sounds w good when you scream it , though .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : fg|s^na
+C :  Yeah , where you were sitting probably affected it .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Alright .
+
+dialogue type : s^bu
+C :  You 've compiled the list of , uh , speaker names ?
+
+dialogue type : s^bsc
+C :  Not names ,
+
+dialogue type : s^bsc
+C :  but I Ds .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ba
+C :  Cool .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^df
+C :  That was my fault .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^co^j
+C :  Then disregard it then .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : h|s
+C :  Um , I had some general questions just about the compression algorithms of shortening waveforms
+
+dialogue type : s^e^no
+C :  and I don't know exactly who to ask .
+
+dialogue type : s^df
+C :  I thought that maybe you would be the the person to talk to .
+
+dialogue type : qy.%--
+C :  So , is it a lossless compression when you compress ,
+
+dialogue type : %--
+C : 
+
+dialogue type : qy^bu^d^rt
+C :  It just uses entropy coding ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s.%--
+C :  So , I mean , I guess my question would be is
+
+dialogue type : s
+C :  I just got this new eighteen gig drive installed .
+
+dialogue type : fh
+C :  Um , yeah ,
+
+dialogue type : %-
+C : 
+
+dialogue type : s^no
+C :  I 'm not exactly sure how they partitioned it .
+
+dialogue type : fh
+C :  But um ,
+
+dialogue type : s^bk|s^no
+C :  yeah , I don't know what 's typical here ,
+
+dialogue type : fh
+C :  but um ,
+
+dialogue type : s
+C :  it 's local though ,
+
+dialogue type : fh
+C : 
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  Alright .
+
+dialogue type : qw^rt
+C :  How do you do that ?
+
+dialogue type : s
+C :  Eighteen .
+
+dialogue type : s^bk
+C :  Oh I see .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk|s^df^no
+C :  Alright , I did know that .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  I mean all of this stuff can be regenerated ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fg|%-
+C : 
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qh
+C :  So , I mean , I guess th the other question was then , should we shorten them , downsample them , or keep them in their original form ?
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : qy
+C :  Do you think that 'd be OK ?
+
+dialogue type : s^e
+C :  To downsample them ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : fg|s
+C :  Yeah , I guess the only argument against downsampling is to preserve just the original files in case we want to experiment with different filtering techniques .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : %-
+C :  r
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa|s^na
+C :  Yeah those are gonna be kept .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  OK . Alright .
+
+dialogue type : s^bu|qy^d^g
+C :  I mean , I could just u do a DU on it right ?
+
+dialogue type : s^e
+C : 
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^na
+C :  I replace the " cuz " with " because " if it 's glossed .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : s^j
+C :  It 's like the z Zapruder Film .
+
+dialogue type : qy
+C :  Jane , can I ask you a question ?
+
+dialogue type : qw^rt
+C :  What 's that very last one correspond to ?
+
+dialogue type : s^no
+C :  I don't even know how to pronounce that .
+
+dialogue type : qy^rt
+C :  Uh , is that like someone 's like burning or some such thing ?
+
+dialogue type : s^e^j^rt
+C :  Like their hair 's on fire ?
+
+dialogue type : s
+C :  Uh , it looks like that .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s:s|qy^f
+C :  No one really says " argh , " you know ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : %-
+C :  Well ,
+
+dialogue type : s^na
+C :  there 's another there 's another word error .
+
+dialogue type : s^fe
+C :  Cha - ching .
+
+dialogue type : qy^bh
+C :  Oh yeah ?
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^na
+C :  That 's true .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s:s
+C :  All the " EH " 's I 've seen have been like that .
+
+dialogue type : s.%--:s
+C :  They 've been like " eh "
+
+dialogue type : s:s
+C :  like that have bee has been transcribed to " EH " .
+
+dialogue type : s
+C :  And sometimes it 's stronger ,
+
+dialogue type : s:s
+C :  like " eeh " which is like closer to " EH " .
+
+dialogue type : fh
+C :  But .
+
+dialogue type : s^na
+C :  I know .
+
+dialogue type : s^cs
+C :  We should go off - line .
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Yeah , we don't have that many acronyms comparatively in this meeting .
+
+dialogue type : s^ba
+C :  It 's not so bad .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^ba
+C :  That 's not bad .
+
+dialogue type : s^ba^t1
+C :  There 's a lot of " OK 's " .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qy:s
+C :  Is this after like did you do some uh replacements for all the different form of " OK " to this ?
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  Although , what 's there 's one with a slash after it .
+
+dialogue type : s
+C :  That 's kind of disturbing .
+
+dialogue type : fh
+C :  Anyway .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^ba
+C :  That 's alright .
+
+dialogue type : s
+C :  I 'm just pointing that out .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : qr:s
+C :  Sh - shouldn't it be " QUAL TICKLE " or something ?
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk
+C :  Oh I see .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  It 's not something you wanna replace with
+
+dialogue type : fh
+C : 
+
+dialogue type : s^ba
+C :  It 's just disturbing .
+
+dialogue type : s^ba
+C :  That 's great .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^t3
+C :  You need a lot of qualification Adam .
+
+dialogue type : s^t3
+C :  Subtext .
+
+dialogue type : s^bk|s
+C :  Yeah , that was in the first meeting .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^fa|s^df
+C :  I 'm sorry I 'm I didn't follow that last thing .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : qy
+C :  So , uh , have those e e the vis the ten hours that have been transcribed already , have those been channelized ?
+
+dialogue type : s
+C :  And I know I 've seen @ @ I 've seen they 've been channelized ,
+
+dialogue type : %-
+C :  but
+
+dialogue type : qy.%-
+C : 
+
+dialogue type : %-
+C :  So ,
+
+dialogue type : s^no
+C :  I guess , I mean , I don't know if we should talk about this now , or not ,
+
+dialogue type : %-
+C :  but I
+
+dialogue type : s^bk|s
+C :  Yeah , I know .
+
+dialogue type : s^ar|qy
+C :  No , but I mean my question is like should I wait until all of those are processed , and channelized ,
+
+dialogue type : s^e
+C :  like the time markings are adjusted before I do all the processing ,
+
+dialogue type : s^e
+C :  and we start like branching off into the into the our layer of uh transcripts .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  No I know I know that adjusting those things are gonna is gonna make it better .
+
+dialogue type : s
+C :  I mean I 'm sure about that ,
+
+dialogue type : qy
+C :  but do you have like a time frame when you can expect like all of it to be done ,
+
+dialogue type : qo.%--
+C : 
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa|s^ba
+C :  Yeah , I don't doubt it .
+
+dialogue type : fh
+C :  Um , so .
+
+dialogue type : s^aa|s^na
+C :  Yeah . I 'm doing it myself .
+
+dialogue type : s
+C :  I mean i if the time markings aren't different across channels ,
+
+dialogue type : s^rt
+C :  like the channelized version really doesn't have any more information .
+
+dialogue type : s
+C :  So , I was just I mean , originally I had done before like the channelized versions were coming out .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s.%-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b.%
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^na
+C :  I know .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^aa
+C :  No .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  I mean as long as it can all be done automatically , I mean , then that 's not a concern .
+
+dialogue type : s
+C :  You know , if I just have to run three scripts to extract it all and let it run on my computer for an hour and a half , or however long it takes to parse and create all the reference file , that 's not a problem .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : fh
+C :  so yeah .
+
+dialogue type : s
+C :  As long as we 're at that point .
+
+dialogue type : s^e
+C :  And I know exactly like what the steps will work what 's going on , in the editing process ,
+
+dialogue type : fh
+C :  so .
+
+dialogue type : s^bk
+C :  OK .
+

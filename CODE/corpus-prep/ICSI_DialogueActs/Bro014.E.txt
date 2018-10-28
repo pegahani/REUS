@@ -1,0 +1,162 @@
+dialogue type : s
+E :  Almost .
+
+dialogue type : s^t1
+E :  Doo - doop , doo - doo .
+
+dialogue type : s^t1
+E :  Doo , doo - doo .
+
+dialogue type : s^t1
+E :  Doo - doo .
+
+dialogue type : s^t1
+E :  Uh , one , two ,
+
+dialogue type : b
+E :  Oh .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^ba
+E :  Hmm . Cool .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : qy^d^rt
+E :  So at at the middle o where the arrows are showing , that 's you 're adding one more mixture per state ,
+
+dialogue type : qrr.%--
+E :  or ?
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^bk
+E :  Oh , OK .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : %
+E : 
+
+dialogue type : b
+E :  Uh - huh .
+
+dialogue type : b
+E :  Oh .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^t1
+E :  It 's noisy TIMIT .
+
+dialogue type : s^fa^t3
+E :  Oh , sorry .
+
+dialogue type : x
+E :  Oh .
+
+dialogue type : s^t3.%--
+E : 
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : h
+E :  Um .
+
+dialogue type : s
+E :  Well , I 've been continuing reading .
+
+dialogue type : s
+E :  I went off on a little tangent this past week ,
+
+dialogue type : fh
+E :  um ,
+
+dialogue type : s^e
+E :  looking at , uh , uh , modulation s spectrum stuff ,
+
+dialogue type : fh
+E :  um ,
+
+dialogue type : s
+E :  and and learning a bit about what what , um what it is ,
+
+dialogue type : s
+E :  and , uh , the importance of it in speech recognition .
+
+dialogue type : s^rt
+E :  And I found some some , uh , neat papers , um , historical papers from , um , Kanedera , Hermansky , and Arai .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  they they they measure the relative importance of having different , um , portions of the modulation spectrum intact .
+
+dialogue type : s^rt
+E :  And they find that the the spectrum between one and sixteen hertz in the modulation is , uh is im important for speech recognition .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : fh
+E : 
+
+dialogue type : b
+E :  Mmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg|s^cs
+E :  Um , I was thinking more like using them as as the inputs to to the detectors .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : %
+E :  S
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^m^na
+E :  We can talk more about it later .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : z
+E :  L fifty .
+

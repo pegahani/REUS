@@ -1,0 +1,1110 @@
+dialogue type : s^bk^m
+F :  Recognition results
+
+dialogue type : qy^bu^d.%--
+F :  for
+
+dialogue type : s
+F :  Well , we I just started recognition on the on Thilo 's segments ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F :  but using the far far
+
+dialogue type : s^bsc
+F :  the close - talking microphone .
+
+dialogue type : s
+F :  And you wanted I know you wanted the far - field data .
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+F :  To retrain ?
+
+dialogue type : h
+F :  Uh
+
+dialogue type : s^bk^rt
+F :  Yeah .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : s^ba
+F :  That 's about right .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  It depends on who else is using machines ,
+
+dialogue type : s
+F :  but we have more machines now .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s
+F :  It 's more like a day , probably .
+
+dialogue type : s
+F : 
+
+dialogue type : s
+F :  three or four percent absolute .
+
+dialogue type : h|s^nd
+F :  Um , not for meetings .
+
+dialogue type : s^df
+F :  Because we didn't train we didn't re ever recognize with the with the small models on meeting data .
+
+dialogue type : s
+F :  But I I have the models ,
+
+dialogue type : s.%-
+F :  so I could run reco
+
+dialogue type : %-
+F : 
+
+dialogue type : s.%--
+F :  I mean , the the mmm
+
+dialogue type : s^df
+F :  The recognition also takes non - negligible amount of time .
+
+dialogue type : s^cs
+F :  So we might wanna restrict it to , maybe , a few meetings ,
+
+dialogue type : s
+F :  if you want to do a full comparison .
+
+dialogue type : fh
+F :  Uh .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : qr
+F :  Well , do we have the do we have the processed data ?
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : b
+F :  I see .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^df
+F :  I recently retrained , um , for another reason , on the full training set .
+
+dialogue type : s^df
+F :  And that took only I think it took only two days .
+
+dialogue type : s
+F :  So , it 's actually conceivable to do use the full training set .
+
+dialogue type : s^bk
+F :  Oh , I see .
+
+dialogue type : b
+F :  Hmm . Uh .
+
+dialogue type : s^no
+F :  I don't know ,
+
+dialogue type : s
+F :  something something like something between thirty and fifty hours , maybe .
+
+dialogue type : s.%-
+F :  I f I forget the exac
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : h|s^no
+F :  Uh . Actually , I don't know .
+
+dialogue type : s
+F :  I 'd I I can look it up .
+
+dialogue type : s.%--
+F :  It 's it 's it 's just ,
+
+dialogue type : s
+F :  uh , I don't know the remember the the number .
+
+dialogue type : s
+F :  Well , the males account for most of this meeting data anyhow .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^aa|s^cs^na
+F :  Yeah . I would say we you do only males .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : %-
+F :  u
+
+dialogue type : s
+F :  No . It 's definitely It 's less than a hundred hours , for sure .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  It 's probably actually , uh It 's uh , I think it 's around thirty hours
+
+dialogue type : s
+F :  just for for one gender .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^ar|s
+F :  No . I didn't do that ,
+
+dialogue type : s^df
+F :  because we haven't even cut the waveforms for that .
+
+dialogue type : fh
+F : 
+
+dialogue type : b
+F :  Right .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s
+F :  And there 's a bit of a question whether you want to use um , what segmentations you want to use .
+
+dialogue type : fh
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^fa
+F :  Um , I 'm sorry .
+
+dialogue type : s
+F :  Don just , uh , created a new version of the first meetings that we had previously recognized ,
+
+dialogue type : s
+F :  but with different segmentation .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^cs.%--
+F : 
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : s^cs
+F :  to use those segmentations ,
+
+dialogue type : s^df
+F :  because th then we could claim that everything 's automatic .
+
+dialogue type : qy^d^f^g
+F :  Right .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  It will uh , it will probably be a couple hours before before I have some results .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^bu
+F :  But the segmentations matter for the filtering .
+
+dialogue type : qy^d^g^rt
+F :  Right ?
+
+dialogue type : %--
+F : 
+
+dialogue type : s^bk^m|s^bk
+F :  For the test set . Yeah .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^cs
+F :  But , first first , of course , you would wanna process the training data ,
+
+dialogue type : s^cs
+F :  because we wanna get that started .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^arp^cs^rt
+F :  Ma - maybe you should limit ourselves to the Meeting Recorder meetings ?
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s^cs
+F :  if you were gonna cut down on the test set , I would suggest that .
+
+dialogue type : s
+F :  Actually , the longer the Robustness meetings take longer ,
+
+dialogue type : s^rt
+F :  because there 's this one speaker who talks a lot .
+
+dialogue type : fh
+F :  And so
+
+dialogue type : %--
+F :  the Um .
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : s.%--
+F :  you have to d you have to , uh , um ,
+
+dialogue type : s
+F :  you cannot chop it up into small pieces .
+
+dialogue type : s
+F :  So , you 're sort of limited by how long the longest speaker , uh , is s speaking .
+
+dialogue type : s
+F :  So how much data there is from the the speaker who talks the most .
+
+dialogue type : s
+F :  So , um , you parallelize across different speakers ,
+
+dialogue type : s
+F :  but you know , if you have a bunch of speakers who speak very little and then one wh who who speaks a lot , then effectively , everybody waits for the longest one to process .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s
+F :  That was both types of meetings ,
+
+dialogue type : s
+F :  but most but there were only two Robustness meetings , and four or five , uh , Meeting Recorders .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : h
+F :  Oh .
+
+dialogue type : h
+F : 
+
+dialogue type : s^no.%-
+F :  I don't have I don't have a good gue
+
+dialogue type : qy^bu^d^rt
+F :  For everything ?
+
+dialogue type : qy^bu^d^e^rt
+F :  For all the meetings ?
+
+dialogue type : h
+F :  Uh .
+
+dialogue type : h
+F :  Um .
+
+dialogue type : s
+F :  It 's probably more than a day ,
+
+dialogue type : s
+F :  but probably less than two .
+
+dialogue type : s
+F :  Well , i No . I mean for all the meetings .
+
+dialogue type : s^df.%--
+F :  Because it 's Again , it 's ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^bd^df
+F :  Again , we we I ran when we ran these , we were sort of short on machines ,
+
+dialogue type : fh
+F :  and , um ,
+
+dialogue type : s^df^no
+F :  I don't know ,
+
+dialogue type : s
+F :  I I would estimate maybe four hours per meeting .
+
+dialogue type : s^e
+F :  Something like that .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^aa|s
+F :  Right . Right . So that 's why I 'm saying I 'm not sure how they would scale with more machines .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^t1.%--
+F :  two , th We have two , three , four , fi
+
+dialogue type : s
+F :  I think there are four Meeting Recorder meetings that we worked with .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : qy^bu^d^rt
+F :  Five ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : h|qy^bu^d^rt
+F :  Uh , with the Robust - compared to Robustness ?
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  The big variation is by whether it 's a native speaker or not .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  and and of course what , um , you know , whether it 's lapel or , uh , headset microphone .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^cs
+F :  And we can exclude we don't need to recognize the non - natives ,
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : b^rt
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy.%--
+F :  Wait , did ?
+
+dialogue type : qr
+F :  So when you used original the original models , and you just process the test set in this way , d do you get any do you get decent performance or not ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Mmm . Right .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg|s^cs^t^tc.%--
+F : 
+
+dialogue type : s.%--
+F :  well , the first the one that already has a
+
+dialogue type : s^t1
+F :  cross there .
+
+dialogue type : s^cs
+F :  We need to re - do that with small models .
+
+dialogue type : qy^d^g^rt
+F :  Right .
+
+dialogue type : s
+F :  And then , have to ask , um , I guess , Don to , uh , cut the , um , cut the segments for the sh for the tis distant mike .
+
+dialogue type : qy^bu^d^rt
+F :  Uh , uh that 's So we would be using the same channel for each fo for everything ?
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^ar|s
+F :  No , no . We would use the same segmentations ,
+
+dialogue type : s
+F :  but he needs to extract extract the wavef form segments from a different channel .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : h|s^aa
+F :  Um Yeah .
+
+dialogue type : s^e
+F :  If assuming that the performance turns out to be comparable with with the old experiments and the old segmentations .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fg|s^t^tc
+F :  Oh , OK . So there 's the issue of speaker normalization .
+
+dialogue type : s
+F :  So , with the distant microphone you wouldn't know which speaker is talking .
+
+dialogue type : qy^d^f^g^rt
+F :  Right ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk|qy^j^rt
+F :  I see . So you want to cheat ?
+
+dialogue type : fg|s
+F :  OK . So we assume we assume knowledge of the speakers as as , um in a way that 's compatible with the close - talking test set .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : s^ar|s.%--
+F :  No . It means No . It just means
+
+dialogue type : s
+F :  you you group together the segments that by magic you know belong to one speaker ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : fg
+F : 
+
+dialogue type : s^nd
+F :  Well , in the new test , actually , that 's not true .
+
+dialogue type : fg|s
+F :  So Again , if this if these new segmentations work OK , then we then it 's a fair it 's a completely fair test .
+
+dialogue type : s
+F :  You group together all the data coming in through one channel
+
+dialogue type : s
+F :  and where Thilo 's speech detector has has determined that there is speech .
+
+dialogue type : s
+F :  And that speech is is deemed to come from that speaker , whether that 's true or not .
+
+dialogue type : s
+F :  So if you get some cross - talk from another microphone , then you just process this it as if it were from that speaker .
+
+dialogue type : s^ng
+F :  Well , that 's more of a problem .
+
+dialogue type : s^df.%--
+F :  I mean , because it 's You can just pretend it 's some kind of gene
+
+dialogue type : s^bd
+F :  I mean you can pretend it 's all from one speaker
+
+dialogue type : s^bd
+F :  and do all this processing the same ,
+
+dialogue type : s^df
+F :  but then you 're gonna get results that are worse on account of not doing proper speaker normalization
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^cs
+F :  So , you could certainly do better than that by doing , for instance uh , cluster the segments ,
+
+dialogue type : s
+F :  which is what we do , say , in a Broadcast News system , where you don't have speaker labels .
+
+dialogue type : s
+F :  But that would be another processing step that I 'm I would have to debug first , and so forth ,
+
+dialogue type : s
+F :  and so we wanna avoid that .
+
+dialogue type : s
+F :  So I agree with you . We should we should , uh , do the you know , this sort of cheating experiment .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^nd
+F :  It 's not just speaker adaptation .
+
+dialogue type : s
+F :  It 's the whole norm feature normalization process .
+
+dialogue type : s
+F :  I it 's spea uh , all that is speaker - based .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F :  So , in that I 'm ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  Y you know , d d b the most important , of course , is the cepstral mean subtraction .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s^no.%--
+F :  I don't remember ,
+
+dialogue type : s^df
+F :  because it 's so far s so long ago that we didn't do that on a per speaker basis ,
+
+dialogue type : %-
+F : 
+
+dialogue type : fg
+F :  A and by the way ,
+
+dialogue type : s
+F :  it 's actually we 're we 're already If we use the same segmentations that we use for the close - talking microphone , then the segmentations assume that we have access to all channels
+
+dialogue type : s
+F :  and cross correlate them ,
+
+dialogue type : s
+F :  so there 's no point in not using that knowledge for speaker identification .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : fg|qw^rt
+F :  Right . So what what is the schedule here ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg|s^j
+F :  Oh , we 'll call you when you get there .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : %--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F : 
+
+dialogue type : s^e
+F :  the the test data for the far far microphone .
+
+dialogue type : s.%--
+F :  If if it turns out that for some reason it 's easier for him to use the old um , the the the old ,
+
+dialogue type : fh
+F :  uh ,
+
+dialogue type : s^bk^m|s^cs
+F :  segmentations , then we 'll just use that , I figure .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^aa
+F :  Mm - hmm .
+
+dialogue type : h
+F : 
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : fh
+F :  Um Right . Uh , let 's see . The the
+
+dialogue type : s^cs.%--
+F :  You you can I mean you could you could run the ,
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : s^cs
+F :  you c Basically , once the , um , whe the top the top one 's done , you could easily re - run the whole set of experiments .
+
+dialogue type : s^e
+F :  Uh , I mean , manage the jobs and so forth ,
+
+dialogue type : fh
+F :  uh Um ,
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : fg|s.%--
+F : 
+
+dialogue type : s^cs.%--
+F :  Assuming he uses the new naming scheme , then he should call the waveforms
+
+dialogue type : s
+F :  the so , the waveform names have the , you know , meeting meeting ID ,
+
+dialogue type : s
+F :  and the microphone ,
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  some something that identifies the speaker .
+
+dialogue type : fh
+F : 
+
+dialogue type : s^aa|s
+F :  Exactly . So , uh well , you still need to be able to distinguish the different speakers .
+
+dialogue type : s
+F :  That 's the key point .
+
+dialogue type : s^df.%--
+F : 
+
+dialogue type : s^cs
+F :  So Uh , uh , the the best the easiest way to do that would be to just take You know , you make the channel be channel F ,
+
+dialogue type : s^cs^e
+F :  but then keep the speaker names the same as they would be in the old in the close - talking , uh , version .
+
+dialogue type : s^aa
+F :  Right . Exactly .
+
+dialogue type : s
+F :  I , uh , I I can talk to him .
+
+dialogue type : s^j
+F :  Well , they grow them on trees now .
+
+dialogue type : s^cs^j
+F :  Just , you shake them and they fall down .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^bk^rt
+F :  Mm - hmm ?
+
+dialogue type : b
+F :  Mmm . Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^na|s
+F :  That 's everything . Yeah ,
+
+dialogue type : %-
+F : 
+
+dialogue type : s^cs
+F :  So , I can give you a list of the short version .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  Oh , OK .
+
+dialogue type : s^aa
+F :  That 's right .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : h
+F : 
+
+dialogue type : s
+F :  Wel - No , it is .
+
+dialogue type : %--
+F : 
+
+dialogue type : s^fa
+F :  Sorry .
+
+dialogue type : qy^rt
+F :  Um . Can you repeat the question ?
+
+dialogue type : s^m.%--
+F :  There wa it is a subse
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^ar|s
+F :  No . Only the portion that was in the Hub - five training set .
+
+dialogue type : s
+F :  Well , the Hub - five small training set contains as much Macrophone as the large training set , for historical reasons .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bu
+F : 
+
+dialogue type : qy^d^g^rt
+F :  right ?
+
+dialogue type : qy^rt
+F :  Because you already did did y didn't you already do that experiment ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^ar
+F :  No .
+
+dialogue type : b
+F :  Mmm . OK .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s
+F :  And you need only the males .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : qy.%--
+F :  Does this th this ?
+
+dialogue type : s
+F :  It - it 's sort of f f not very nice to use the small training set for another reason ,
+
+dialogue type : s
+F :  which is that the you also are losing on Again , because you don't use all the data you have for one speaker .
+
+dialogue type : s^ba
+F :  So , the normalizations you compute for your training speakers will be , uh , crummier than they would in the large training set .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  uh , I have to use short models that were trained on normalizations that were also only estimated on the short set .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^am
+F :  I think so .
+
+dialogue type : s
+F :  I 've I I have to check .
+
+dialogue type : s
+F :  In any case , I could retrain short models within a few hours actually at if I use machines at SRI .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^nd
+F :  No . But the thing is , if if we used if we used the whole training set for normalizations , then David would have to process much more data ,
+
+dialogue type : s
+F :  which That 's a that 's one bottleneck , for us
+
+dialogue type : qy^d^g^rt
+F :  right ,
+
+dialogue type : s.%-
+F :  in terms of get
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^cs
+F :  So , you wanna do the exact same thing ,
+
+dialogue type : s^df
+F :  or else you 'll have apples and oranges .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^bd^rt
+F :  It doesn't make I don't think it makes that much of a difference .
+
+dialogue type : s^cs^df
+F :  It 's just this little detail that if you can take care of that , then you should .
+
+dialogue type : s
+F :  I I think I have I have the models ,
+
+dialogue type : s.%--
+F :  I have I have ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s^t1.%--
+F : 
+
+dialogue type : fg|s
+F :  Yeah . And if not I can retrain those models very quickly .
+
+dialogue type : h
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : fg|s^ba^nd
+F :  Yeah . I don't think it 'll make a matter .
+
+dialogue type : s
+F :  In fact , I thought about throwing those out too ,
+
+dialogue type : s^df
+F :  because when I heard how little speech there was for some of them , I thought they can only hurt your models ,
+
+dialogue type : s
+F :  because they 're again their normalizations will be all all all over the map ,
+
+dialogue type : s
+F :  and you won't get very very clean models from them , anyhow .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s^cs
+F :  In fact , if if you wanna do this , uh , to speed things up , um , you we can leave out the Macrophone data altogether .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s.%--
+F :  Actually .
+
+dialogue type : s^fa
+F :  Oh , no . Sorry .
+
+dialogue type : s
+F :  Not in the short .
+
+dialogue type : s
+F :  Then you have too little data .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^fa|s^co
+F :  Sorry . Forget that .
+
+dialogue type : fh
+F :  Um ,
+
+dialogue type : s^df
+F :  When you use when you go to the large training set , then leaving out Macrophone actually sometimes helps you ,
+
+dialogue type : s^df
+F :  because it 's it it 's just not relevant to the to the meeting and or to conversational speech anyway .
+
+dialogue type : s^bk
+F :  OK .
+
+dialogue type : s^cs
+F :  Yeah . Leave it out ,
+
+dialogue type : s.%--
+F :  and Um , in the event that I retrain the short models ,
+
+dialogue type : qh^cs
+F :  um , why don't you give me a list of the files that you throw out ,
+
+dialogue type : s
+F :  and I I 'll throw them out , too .
+
+dialogue type : s
+F :  And then we have complete completely identical training conditions .
+
+dialogue type : s
+F :  But th the segmentations are only they only affect the test set .
+
+dialogue type : s^e
+F :  We 're talking about the training speakers .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^bu
+F :  He already has the in you already have the information .
+
+dialogue type : qy^d^g
+F :  Right ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  OK . Alright .
+
+dialogue type : b
+F :  OK .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  OK .
+

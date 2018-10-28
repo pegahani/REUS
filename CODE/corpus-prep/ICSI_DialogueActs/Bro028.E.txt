@@ -1,0 +1,180 @@
+dialogue type : s
+E :  Are you you were going to say why what made you wh what led you to do that .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^2
+E :  St - Stephane .
+
+dialogue type : s^ba
+E :  Getting close .
+
+dialogue type : b.%
+E :  Hmm .
+
+dialogue type : qw^t^tc
+E :  Out of curiosity , what what kind of recognizer is the one from Mississippi State ?
+
+dialogue type : qy.%-
+E :  Is it ?
+
+dialogue type : qy
+E :  Um , is it like a Gaussian mixture model ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^rt^tc
+E :  As as we were talking about this I was thinking , um , whether there 's a relationship between um , between Michael 's approach to , uh , some some sort of optimal brain damage or optimal brain surgeon on the neural nets .
+
+dialogue type : s.%--
+E :  So , like , if we have ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  and presumably the neural nets are are learning some sort of a nonlinear mapping , uh , from the the the features to to this this probability posterior space .
+
+dialogue type : qy^d^f^g
+E :  Right ?
+
+dialogue type : fh|s
+E :  And , um and each of the hidden units is learning some sort of some sort of some sort of pattern .
+
+dialogue type : s^f
+E :  Right ?
+
+dialogue type : s
+E :  And it could be , like like these , um these auditory patterns that Michael is looking at .
+
+dialogue type : s
+E :  And then when you 're looking at the the , uh , um , the best features , you know , you can take out you can do the do this , uh , brain surgery by taking out , um , hidden units that don't really help at all .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s
+E :  Well , that sort of segues into what what I 'm doing .
+
+dialogue type : fh|s
+E :  Um , so , uh , the big picture is k um , come up with a set of , uh , intermediate categories ,
+
+dialogue type : s
+E :  then build intermediate category classifiers , then do recognition ,
+
+dialogue type : s
+E :  and , um , improve speech recognition in that way .
+
+dialogue type : s
+E :  Um , so right now I 'm in in the phase where I 'm looking at at , um , deciding on a initial set of intermediate categories .
+
+dialogue type : s
+E :  And I 'm looking for data data - driven methods that can help me find , um , a set of intermediate categories of speech that , uh , will help me to discriminate later down the line .
+
+dialogue type : s
+E : 
+
+dialogue type : s^e
+E :  train train an ordinary neural net to uh , to learn the posterior probabilities of phones .
+
+dialogue type : fh
+E :  And so ,
+
+dialogue type : s
+E :  um , at the end of the day you have this neural net
+
+dialogue type : s
+E :  and it has hidden hidden units .
+
+dialogue type : s
+E :  And each of these hidden units is um , is learning some sort of pattern .
+
+dialogue type : qh
+E :  And so , um , what what are these patterns ?
+
+dialogue type : s^no
+E :  I don't know .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : s
+E :  uh , presumably those are important patterns for discriminating between phone classes .
+
+dialogue type : s
+E :  And maybe maybe some , uh , intermediate categories can come from just looking at the patterns of um , that the neural net learns .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : fg
+E :  Um .
+
+dialogue type : fh|s
+E :  Yeah , so so that 's the that 's the first part uh , one one of the ideas to get at some some patterns of intermediate categories .
+
+dialogue type : s
+E :  Um , the other one was , um , to , uh , come up with a a a model um , a graphical model , that treats the intermediate categories as hidden hidden variables , latent variables , that we don't know anything about ,
+
+dialogue type : s
+E :  but that through , um , s statistical training and the EM algorithm , um , at the end of the day , we have , um we have learned something about these these latent , um latent variables
+
+dialogue type : s^e
+E :  which happen to correspond to intermediate categories .
+
+dialogue type : fh|s
+E :  Um . Yeah , and so those are the the two directions that I 'm I 'm looking into right now .
+
+dialogue type : fh
+E :  And , uh , um Yeah .
+
+dialogue type : s^tc
+E :  I guess that 's that 's it .
+
+dialogue type : qy^bu^d^rt
+E :  Oh , tea time ?
+
+dialogue type : s^fe
+E :  Oops .
+

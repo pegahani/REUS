@@ -1,0 +1,513 @@
+dialogue type : s
+E :  Hi .
+
+dialogue type : s^ba
+E :  Oh wow .
+
+dialogue type : s^bk^m^rt
+E :  Not yet .
+
+dialogue type : s^bk
+E :  Yeah right .
+
+dialogue type : s
+E :  I 've got the headset on after all .
+
+dialogue type : s^aa
+E :  yes .
+
+dialogue type : s^na
+E :  I know Nancy .
+
+dialogue type : s^ba^fe
+E :  Man !
+
+dialogue type : s^bc
+E :  Wizard .
+
+dialogue type : qy^bu^d^rt
+E :  The list of majors in the department ?
+
+dialogue type : qy^bu^d
+E :  So you 're just saying like what part of town the things are in or whatever ?
+
+dialogue type : s
+E :  I 'm not sure I totally understand this
+
+dialogue type : %--
+E :  but
+
+dialogue type : s
+E :  I 'm not sure I totally understand everything that 's being talked about
+
+dialogue type : s
+E :  but I I imagine I 'll c just catch on .
+
+dialogue type : h|s.%--
+E : 
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^co
+E :  You will be here .
+
+dialogue type : s^na
+E :  They 're very dependent
+
+dialogue type : s
+E :  We 're done .
+
+dialogue type : s^ba
+E :  Toll .
+
+dialogue type : s^bs
+E :  So it 's not done basically .
+
+dialogue type : s^bk
+E :  Right .
+
+dialogue type : s
+E :  Perhaps if the answers have something to do with the questions for example .
+
+dialogue type : s^j
+E :  I want to see " Die Dukes Von Hazard "
+
+dialogue type : x
+E :  Mm - hmm .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s
+E :  " Chicken Run " .
+
+dialogue type : fg|qw
+E :  OK . What 's the next thing ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^t1
+E :  Spit right here .
+
+dialogue type : s^cs
+E :  A laser pointer would be most appropriate here I think .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^ba^fe
+E :  Rad !
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Hmm .
+
+dialogue type : s^bs
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : s^j
+E :  Snack action .
+
+dialogue type : s^co
+E :  See .
+
+dialogue type : s^j
+E :  I 'm sure there 's a commercial event schema in there somewhere .
+
+dialogue type : fg|s
+E :  Yeah I mean I I still am not entirely sure that I really fully grasp the syntax of this .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s^e
+E :  Or the intended interpretation of this .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yep .
+
+dialogue type : s
+E :  Every SPG every SPG action either is an Enter or a View or an Approach ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s
+E :  This is a cate this a category structure here ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s
+E :  Action schema .
+
+dialogue type : qh
+E :  What are some types of action schemas ?
+
+dialogue type : s
+E :  Well one of the types of action schemas is Source - Path - Goal action .
+
+dialogue type : qw
+E :  And what are some types of that ?
+
+dialogue type : s
+E :  And an Enter , a View , an Approach .
+
+dialogue type : s
+E :  Those are all Source - Path - Goal actions .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : s^cs
+E :  There could be a communication event action or something like that
+
+dialogue type : s^cs
+E :  and you could write it .
+
+dialogue type : qy^bu^d^rt
+E :  Ri - You 'd like so you 're saying you could practically turn this structure inside out ?
+
+dialogue type : qrr
+E :  or something ,
+
+dialogue type : qrr.%--
+E :  or ?
+
+dialogue type : s^2^cs
+E :  List all the parent categories .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s.%-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : fg|s^ba
+E :  Yeah I mean but there 's a good question here .
+
+dialogue type : qw.%--
+E : 
+
+dialogue type : s^fe^t1
+E :  Damn this headset !
+
+dialogue type : s.%--
+E :  When you this uh ,
+
+dialogue type : fh
+E : 
+
+dialogue type : s^aa|s
+E :  Yeah . That 's all recorded .
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : qw.%--
+E : 
+
+dialogue type : s.%--
+E : 
+
+dialogue type : qh^t1
+E :  How do I how do I come at this question ?
+
+dialogue type : fh
+E :  Um .
+
+dialogue type : s.%--
+E : 
+
+dialogue type : qy.%--
+E :  I mean does th
+
+dialogue type : qw
+E :  Who uses this uh this data structure ?
+
+dialogue type : qy
+E :  You know ? Like , do you say " alright I 'm going to uh do an SPG action " .
+
+dialogue type : s^e:qw
+E :  And then you know somebody ne either the computer or the user says " alright , well , I know I want to do a Source - Path - Goal action so what are my choices among that ? "
+
+dialogue type : s:s
+E :  And " oh , OK , so I can do an Enter - View - Approach " .
+
+dialogue type : s
+E :  It 's not like that ,
+
+dialogue type : qy^d^g^rt
+E :  right ?
+
+dialogue type : s
+E :  It 's more like you say " I want to , uh I want to do an Enter . "
+
+dialogue type : s
+E :  And then you 're more interested in knowing what the parent categories are of that .
+
+dialogue type : qy^d^g^rt
+E :  Right ?
+
+dialogue type : qy^bu^d^rt
+E :  So that the um the uh sort of representation that you were just talking about seems more relevant to the kinds of things you would have to do ?
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  OK .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^am^cs^no
+E :  Mayb - Well maybe I 'm not understanding where this comes from and where this goes to .
+
+dialogue type : qw
+E :  What are we doing with this ?
+
+dialogue type : s^2
+E :  In principle .
+
+dialogue type : s^ba
+E :  Sigh .
+
+dialogue type : s^aa
+E :  Right .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  In my view .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Mm - hmm .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^aa
+E :  Yeah .
+
+dialogue type : %-
+E : 
+
+dialogue type : %-
+E : 
+
+dialogue type : s
+E :  I I would just like to ask um like , if it could happen for next time ,
+
+dialogue type : s^df
+E :  I mean , just beca cuz I 'm new
+
+dialogue type : s
+E :  and I don't really just I just don't know what to make of this
+
+dialogue type : s
+E :  and what this is for , and stuff like that , you know ,
+
+dialogue type : s^cs.%--
+E :  so if someone could make an example of what would actually be in it ,
+
+dialogue type : s^cs^e
+E :  like first of all what modules are talking to each other using this ,
+
+dialogue type : qy^d^f^g
+E :  right ?
+
+dialogue type : %-
+E : 
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : b
+E :  Right .
+
+dialogue type : s^ar
+E :  Nope .
+
+dialogue type : s^bk
+E :  Alright .
+
+dialogue type : s^bk
+E :  OK .
+
+dialogue type : s^aa
+E :  Sure .
+
+dialogue type : b
+E :  Sure .
+
+dialogue type : s^bk|qy^bu^d^j^rt
+E :  Oh you meant pastries , then ?
+
+dialogue type : s
+E :  This is the bakery example .
+
+dialogue type : s^bk
+E :  Got it . Alright .
+
+dialogue type : s^co^fe^j
+E :  Help !
+
+dialogue type : b.%
+E :  Mm - hmm .
+
+dialogue type : %-
+E : 
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s
+E :  I could do that .
+
+dialogue type : s^rt
+E :  Yeah I mean earlier on Friday is better but three you know I mean if it were a three or a three thirty time then I would take the three or whatever ,
+
+dialogue type : s^ba
+E :  but yeah sure three is fine .
+
+dialogue type : %-
+E :  I mean .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : b
+E :  Yeah .
+
+dialogue type : s^bu
+E :  So already again this week ,
+
+dialogue type : qy^d^rt
+E :  huh ?
+
+dialogue type : s^aa|s^na
+E :  Yeah . Between now and then .
+
+dialogue type : qy^d^rt
+E :  Promise ?
+
+dialogue type : s^bk
+E :  Yeah .
+
+dialogue type : s^bu
+E :  I think you 've got one on hand ,
+
+dialogue type : qy^d^g^rt
+E :  huh ?
+
+dialogue type : s
+E :  It 's rad , even !
+
+dialogue type : s
+E :  It happened to c be what it stands for .
+
+dialogue type : s^bk|s.%-
+E :  Oh " rich de "
+
+dialogue type : s^ba
+E :  Everybody likes action .
+
+dialogue type : s^cs^j
+E :  Plus it 's hip .
+
+dialogue type : s^ba^j
+E :  The kids 'll like it .
+
+dialogue type : b
+E :  OK .
+

@@ -1,0 +1,888 @@
+dialogue type : s^aa
+C :  Alright .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^rt
+C :  Well , the first thing maybe is that the p Eurospeech paper is , uh , accepted .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s^rt
+C :  So it 's the paper that describe basically the , um , system that were proposed for the Aurora .
+
+dialogue type : s^aa
+C :  Right , yeah .
+
+dialogue type : fh
+C :  Um Yeah .
+
+dialogue type : s
+C :  So and the , fff comments seems from the reviewer are good .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s^rt
+C :  It 's , uh , Aalborg in Denmark .
+
+dialogue type : s.%--
+C :  And it 's ,
+
+dialogue type : fh
+C :  yeah ,
+
+dialogue type : s
+C :  September .
+
+dialogue type : fh
+C : 
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : s.%--
+C :  Then , uh , whhh
+
+dialogue type : s
+C :  well , I 've been working on on t mainly on on - line normalization this week .
+
+dialogue type : fh|s
+C :  Uh , I 've been trying different slightly slightly different approaches .
+
+dialogue type : fh|s^e^rt
+C :  Um , the first thing is trying to play a little bit again with the , um , time constant .
+
+dialogue type : s^e
+C :  Uh , second thing is , uh , the training of , uh , on - line normalization with two different means ,
+
+dialogue type : s^e
+C :  one mean for the silence and one for the speech .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s
+C :  and so I have two recursions which are controlled by the , um , probability of the voice activity detector .
+
+dialogue type : fh
+C :  Mmm .
+
+dialogue type : s
+C :  This actually don't s doesn't seem to help ,
+
+dialogue type : s
+C :  although it doesn't hurt .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s
+C :  But well , both on - line normalization approach seems equivalent .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^na
+C :  They can be very different .
+
+dialogue type : fh
+C :  Yeah . Mm - hmm .
+
+dialogue type : s^df
+C :  I didn't look , uh , more closely .
+
+dialogue type : s^na
+C :  Um . It might be , yeah .
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s
+C :  Well , eh , there is one thing that we can observe , is that the mean are more different for for C - zero and C - one than for the other coefficients .
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  There are strange strange thing happening with C - one , is that when you have different kind of noises , the mean for the the silence portion is can be different .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  So when you look at the trajectory of C - one , it 's has a strange shape
+
+dialogue type : fh
+C :  and
+
+dialogue type : s
+C :  I was expecting th the s that these two mean helps ,
+
+dialogue type : s^df
+C :  especially because of the the strange C - ze C - one shape ,
+
+dialogue type : fh|s^e
+C :  uh , which can like , yo you can have , um , a trajectory for the speech
+
+dialogue type : s^e^rt
+C :  and then when you are in the silence it goes somewhere ,
+
+dialogue type : s^e
+C :  but if the noise is different it goes somewhere else .
+
+dialogue type : s
+C :  So which would mean that if we estimate the mean based on all the signal , even though we have frame dropping , but we don't frame ev uh , drop everything ,
+
+dialogue type : s
+C :  but uh , this can hurts the estimation of the mean for speech ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s^cc
+C :  Mmm . But I still have to investigate further , I think .
+
+dialogue type : fh|s^rt
+C :  Um , a third thing is , um , that instead of t having a fixed time constant , I try to have a time constant that 's smaller at the beginning of the utterances
+
+dialogue type : s^e
+C :  to adapt more quickly to the r something that 's closer to the right mean .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  And then this time constant increases
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  well , if it 's higher than a certain threshold , I keep it to this threshold to still , uh , adapt , um , the mean when if the utterance is , uh , long enough to to continue to adapt after , like , one second
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  Mmm .
+
+dialogue type : fh|s
+C :  Uh , well , this doesn't help neither ,
+
+dialogue type : s^df
+C :  but this doesn't hurt .
+
+dialogue type : fh
+C :  So , well .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^no
+C :  I don't know .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s
+C :  u Maybe it 's this this idea of having different on - line normalization ,
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : fg|s.%--
+C : 
+
+dialogue type : s^aa
+C :  uh , actually , yeah .
+
+dialogue type : fh|s
+C :  S um , it 's very important to normalize C - zero
+
+dialogue type : s
+C :  and much less to normalize the other coefficients .
+
+dialogue type : fh
+C :  And , um ,
+
+dialogue type : %--
+C :  actu
+
+dialogue type : s^e
+C :  uh , well , at least with the current on - line normalization scheme .
+
+dialogue type : fh
+C :  And
+
+dialogue type : s
+C :  we I think , we kind of know that normalizing C - one doesn't help with the current scheme .
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C :  and Yeah .
+
+dialogue type : s
+C :  In my idea , I I was thinking that the the the reason is maybe because of these funny things that happen between speech and silence which have different means .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Alright .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : fg
+C :  Yeah .
+
+dialogue type : fh
+C :  W um ,
+
+dialogue type : s^rt
+C :  So that 's it , I think , for the on - line normalization .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^tc
+C :  Yeah . I 've been playing a little bit with some kind of thresholding ,
+
+dialogue type : fh
+C :  and ,
+
+dialogue type : fh
+C :  mmm ,
+
+dialogue type : s.%--
+C :  as a first experiment , I think I
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bsc^rt
+C :  no , the maximum energy of s each utterance
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Well , this for each mel band .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^rt
+C :  well , uh , a couple of DB below this maximum ,
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  Actually it was not a threshold ,
+
+dialogue type : s^df
+C :  it was just adding noise .
+
+dialogue type : s^rt
+C :  So I was adding a white noise energy ,
+
+dialogue type : s^e
+C :  uh , that 's fifteen DB below the maximum energy of the utterance .
+
+dialogue type : fh
+C : 
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^rt
+C :  When we look at at the , um , MFCC that result from this , they are a lot more smoother .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh|s^e
+C : 
+
+dialogue type : s
+C :  well , there is almost no difference between the cepstral coefficients of the two .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^bk
+C :  And Yeah .
+
+dialogue type : s^rt
+C :  And the result that we have in term of speech recognition , actually it 's not it 's not worse ,
+
+dialogue type : s^df
+C :  it 's not better neither ,
+
+dialogue type : s
+C :  but it 's , um , kind of surprising that it 's not worse
+
+dialogue type : s^df
+C :  because basically you add noise that 's fifteen DB just fifteen DB below the maximum energy .
+
+dialogue type : %-
+C :  And
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s
+C :  It 's I think , it 's whitening This the portion that are more silent ,
+
+dialogue type : s
+C :  as you add a white noise that are has a very high energy , it whitens everything
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  and the high - energy portion of the speech don't get much affected anyway by the other noise .
+
+dialogue type : s
+C :  And as the noise you add is the same is the shape , it 's also the same .
+
+dialogue type : s
+C :  So they have the trajectory are very , very similar .
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^nd
+C :  I think it 's I think it 's different .
+
+dialogue type : s^df
+C :  It 's it 's something that yeah , that affects more or less the silence portions
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Well , anyway , the sp the portion of speech that ha have high energy are not ch a lot affected by the noises in the Aurora database .
+
+dialogue type : s
+C :  If if you compare th the two shut channels of SpeechDat - Car during speech portion , it 's n n n the MFCC are not very different .
+
+dialogue type : s
+C :  They are very different when energy 's lower ,
+
+dialogue type : s^e
+C :  like during fricatives or during speech pauses .
+
+dialogue type : fh
+C :  And ,
+
+dialogue type : fh
+C : 
+
+dialogue type : %-
+C :  Ye
+
+dialogue type : s^aa|s^na
+C :  Yeah . So it distort the speech .
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^nd
+C :  It didn't .
+
+dialogue type : %--
+C : 
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : fh|s
+C :  So , but in this case I I really expect that maybe the the two these two stream of features , they are very different .
+
+dialogue type : s^cs
+C :  I mean , and maybe we could gain something by combining them
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Yeah . Right .
+
+dialogue type : s^aa
+C :  Uh - huh .
+
+dialogue type : s^na
+C :  I systematically add the noise ,
+
+dialogue type : s
+C :  but the , um , noise level is just some kind of threshold below the peak .
+
+dialogue type : fh
+C :  Mmm .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s^e
+C :  Which is not really noise , actually .
+
+dialogue type : s^e
+C :  It 's just adding a constant to each of the mel , uh , energy .
+
+dialogue type : s^e
+C :  To each of the mel filter bank .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : s
+C :  So , yeah , it 's really , uh , white noise .
+
+dialogue type : %--
+C :  I th
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg
+C :  Um .
+
+dialogue type : fg|s.%--
+C :  Yeah . So may
+
+dialogue type : s
+C :  Well , the this threshold is still a factor that we have to look at .
+
+dialogue type : s^cs
+C :  And I don't know , maybe a constant noise addition would would be fine also ,
+
+dialogue type : fh
+C : 
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : fh
+C : 
+
+dialogue type : h
+C : 
+
+dialogue type : s
+C :  Yeah . It was it was , uh , the same system .
+
+dialogue type : fh
+C :  Mm - hmm .
+
+dialogue type : s^r
+C :  It was the same system .
+
+dialogue type : fh
+C :  Mmm .
+
+dialogue type : fg
+C :  Oh , yeah .
+
+dialogue type : s^tc.%--
+C :  A third thing is that , um , I play a little bit with the , um finding what was different between , um ,
+
+dialogue type : s
+C :  And there were a couple of differences ,
+
+dialogue type : s^e^rt
+C :  like the LDA filters were not the same .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s^rt
+C :  he had the France Telecom blind equalization in the system .
+
+dialogue type : fh
+C :  Um ,
+
+dialogue type : s
+C :  the number o of MFCC that was were used was different .
+
+dialogue type : s^e
+C :  You used thirteen
+
+dialogue type : s^e
+C :  and we used fifteen .
+
+dialogue type : s
+C :  Well , a bunch of differences .
+
+dialogue type : fh|s
+C :  And , um , actually the result that he he got were much better on TI - digits especially .
+
+dialogue type : s
+C :  So I 'm kind of investigated to see what was the main factor for this difference .
+
+dialogue type : s
+C :  And it seems that the LDA filter is is was hurting .
+
+dialogue type : fh|s^rt
+C :  Um , so when we put s some noise compensation the , um , LDA filter that that 's derived from noisy speech is not more anymore optimal .
+
+dialogue type : s^rt
+C :  And it makes a big difference , um , on TI - digits
+
+dialogue type : s^e^rt
+C :  trained on clean .
+
+dialogue type : s
+C :  Uh , if we use the the old LDA filter , I mean the LDA filter that was in the proposal , we have , like , eighty - two point seven percent recognition rate ,
+
+dialogue type : fh
+C :  um ,
+
+dialogue type : s^e^rt
+C :  on noisy speech when the system is trained on clean speech .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C : 
+
+dialogue type : s^e
+C :  so from eighty - two point seven to eighty - five point one ,
+
+dialogue type : s^e
+C :  which is a huge leap .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s
+C :  So now the results are more similar ,
+
+dialogue type : fh
+C :  and
+
+dialogue type : s
+C :  I don't I will not , I think , investigate on the other differences ,
+
+dialogue type : s^e
+C :  which is like the number of MFCC that we keep and other small things
+
+dialogue type : s^e
+C :  that we can I think optimize later on anyway .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Yeah . I think th th uh , the new system that I tested is , I guess , closer
+
+dialogue type : s^df
+C :  because it doesn't have it have less of of France Telecom stuff ,
+
+dialogue type : %--
+C : 
+
+dialogue type : %
+C :  Mmm ?
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^aa
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yeah , yeah .
+
+dialogue type : s
+C :  I think we were gonna work with with this or this new system ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C : 
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s
+C :  But we will use the the LDA filters f derived from clean speech .
+
+dialogue type : s
+C :  Well , yeah , actually it 's it 's not the the LDA filter .
+
+dialogue type : s
+C :  It 's something that 's also short enough in in latency .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  And there is there is also this log energy versus C - zero .
+
+dialogue type : fh
+C :  Well .
+
+dialogue type : %-
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^nd
+C :  Uh , that 's it , I think .
+
+dialogue type : fh
+C :  Mmm .
+
+dialogue type : b
+C :  Oh .
+
+dialogue type : qy
+C :  Are you still using only the ten first frame for noise estimation
+
+dialogue type : qrr.%--
+C :  or ?
+
+dialogue type : qrr.%--
+C :  Or i ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^cs
+C :  Maybe you have to standardize this thing also ,
+
+dialogue type : s^e
+C :  noise estimation ,
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : s^df
+C :  They all need some some noise noise spectra
+
+dialogue type : s^df
+C :  but they use every all use a different one .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : %
+C : 
+
+dialogue type : s^na
+C :  Yeah . I guess it 's the power spectrum of noisy speech .
+
+dialogue type : fh
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Mmm .
+
+dialogue type : s^2
+C :  Is it the first - order expansion ?
+
+dialogue type : fh
+C :  Yeah , I guess .
+
+dialogue type : fh
+C :  Yeah .
+
+dialogue type : b
+C :  Uh - huh .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^bk|s^nd.%--
+C : 
+
+dialogue type : qw^t3
+C :  What is that ?
+
+dialogue type : s
+C :  It 's log o of capital Y .
+
+dialogue type : fh
+C :  Yeah , right .
+
+dialogue type : s^t1
+C :  Capital Y .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah . Right .
+
+dialogue type : b
+C :  Yeah , sure .
+
+dialogue type : s^bu|qy^d^g
+C :  And the the model of clean speech is a codebook . Right ?
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Hmm .
+
+dialogue type : s^bu|qy^d^g
+C :  It 's one mixture of the model . Right ?
+

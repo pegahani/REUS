@@ -1,0 +1,1170 @@
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  Is that good ?
+
+dialogue type : z
+D :  Did we need to do these things ?
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  OK .
+
+dialogue type : z
+D :  Wow , we 're all so high tech here .
+
+dialogue type : z
+D :  Yet another p PowerPoint presentation .
+
+dialogue type : z
+D :  Certainly does .
+
+dialogue type : s^fa^t3.%-
+D :  I 'm sorry I
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^fe^j
+D :  I can read !
+
+dialogue type : s^bd
+D :  I 'm kidding .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : %-
+D :  Ach u
+
+dialogue type : s
+D :  It 's a needless good idea .
+
+dialogue type : qy^g
+D :  Is that the idea ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s
+D :  I was wondering .
+
+dialogue type : s^aa
+D :  Yeah , it 's OK .
+
+dialogue type : s^co
+D :  Proceed .
+
+dialogue type : sj^ba
+D :  Very nice .
+
+dialogue type : sj^ba
+D :  Perfect .
+
+dialogue type : sj^ba
+D :  Nice coinage .
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : s^df
+D :  you said be i it could be on two different lines
+
+dialogue type : qy.%-
+D :  but are you saying that in this particular domain it happens the that landmark - iness cor is correlated with
+
+dialogue type : s.%-
+D :  their being nice w
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : %-
+D : 
+
+dialogue type : qy^d.%-
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bu
+D :  So "
+
+dialogue type : s
+D :  or something like that .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s
+D :  There 's a lot of those .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bu
+D :  So that count as counts as a nice wall .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^bu
+D :  Something you want to inspect at close range because it 's interesting .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^m
+D :  Not a landmark at all .
+
+dialogue type : s.%--
+D :  There 's landmark for um , touristic reasons and landmark for
+
+dialogue type : s^no
+D :  I don't know
+
+dialogue type : s
+D :  navigational reasons or something .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s^bu
+D :  but you can imagine maybe wanting the oth both kinds of things there for different um , goals .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : qy^m^rt
+D :  They 're not mutually exclusive ?
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : s^aa
+D :  Definitely .
+
+dialogue type : s^bu
+D :  So , a big flat structure .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qy
+D :  And are those mutually exclusive sets ?
+
+dialogue type : s^bk
+D :  Right .
+
+dialogue type : s^bk
+D :  Got it .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s
+D :  Simple .
+
+dialogue type : s
+D :  Stab at it .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : qy^2^bu^d^rt
+D :  From the utterance ?
+
+dialogue type : qy^2^bu^d^rt
+D :  Inferred from the other ones ?
+
+dialogue type : b
+D :  OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : qw
+D :  What 's what 's " Disc admission fee " ?
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bu
+D :  So there are certain cues that are very strong either lexical or topic - based um , concept cues
+
+dialogue type : s
+D :  for one of those .
+
+dialogue type : s^bu
+D :  And then in that second row or whatever that row of Time of Day through that So all of those Some of them come from the utterance
+
+dialogue type : s^bu
+D :  and some of them are sort of either world knowledge or situational things .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s^bu.%-
+D :  So that you have no distinction between those and
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : qy.%
+D :  " Unmark @ @ Time of Day "
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^2
+D :  Navigational cue .
+
+dialogue type : s.%
+D :  Prosody .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : s^bs
+D :  So that 's given in their input .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s.%--
+D :  So final dest
+
+dialogue type : s
+D :  So it seems like that would really help you for doing business versus tourist ,
+
+dialogue type : s.%--
+D :  but
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s.%--
+D :  so the the context being um , e
+
+dialogue type : s^no
+D :  I don't know if that question 's sort of in general ,
+
+dialogue type : qy.%--
+D :  " are you "
+
+dialogue type : s.%--
+D : 
+
+dialogue type : qy.%--
+D :  ar ar are
+
+dialogue type : qy^rt
+D :  do they allow business people to be doing non - business things at the moment ?
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bk
+D : 
+
+dialogue type : s
+D :  over which which of those it is .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s.%--
+D :  Take a conti
+
+dialogue type : fg|s^rt
+D :  So um , of course this will happen when we think more about the kinds of verbs that are used in each cases
+
+dialogue type : s
+D : 
+
+dialogue type : s.%--
+D :  Like it 's a conjunction of ,
+
+dialogue type : s^no
+D :  I don't know ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Exactly .
+
+dialogue type : h
+D :  Um .
+
+dialogue type : s^aap
+D :  Usually .
+
+dialogue type : s^no
+D :  I I don't know if that 's always the case
+
+dialogue type : s
+D :  I I guess haven't looked at the data as much as you guys have .
+
+dialogue type : fh
+D :  So . Um .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  That would be a cue .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Um . OK .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^co
+D :  Go ahead .
+
+dialogue type : s^aa
+D :  it 's starting to grow on me
+
+dialogue type : s
+D :  I 'd like to do that again .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^na
+D :  That seems kind of redundant
+
+dialogue type : s.%--
+D :  but .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+D :  So slightly biased toward " Tango " ing
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s.%-
+D :  So .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^fe
+D :  Huh !
+
+dialogue type : fg
+D :  Um .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s
+D :  Maybe the bias toward " Tango " ing was yours , then ?
+
+dialogue type : s
+D :  So , the real case ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qy.%--
+D : 
+
+dialogue type : s^bu
+D :  They refer to your current task .
+
+dialogue type : s^e
+D :  Like like current thing you want to do at this moment .
+
+dialogue type : qy.%--
+D :  And are th
+
+dialogue type : s^bk
+D :  Oh ,
+
+dialogue type : s
+D :  so , I thought that was directly given by the context switch .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bk
+D :  Oh , I see ,
+
+dialogue type : s^bs
+D :  you may have a task .
+
+dialogue type : s^bs
+D :  wh you have to go get money and so you are doing business at that stage .
+
+dialogue type : s^bk
+D :  I see .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bu
+D :  So the " tourists " node should be um , very consistent with the context node .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : s
+D :  If you say that 's more their in general what their background is .
+
+dialogue type : qr
+D :  Are you assuming that or not ?
+
+dialogue type : s^df
+D :  Like is that to be I mean if that 's accurate then that would determine tourist node .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  It seems like it would for uh , uh determining whether they wanna go into it or not .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s
+D :  I think you could just add it .
+
+dialogue type : s^df
+D :  I mean , I have before
+
+dialogue type : b
+D :  OK .
+
+dialogue type : s^fe
+D :  Whew !
+
+dialogue type : s^bk
+D :  Oh , right .
+
+dialogue type : b
+D :  Oh .
+
+dialogue type : s^aa
+D :  Yes .
+
+dialogue type : s^ar
+D :  Really I ha I 've I haven't used it a lot
+
+dialogue type : s^nd
+D :  and I haven't used it in the last you know many months
+
+dialogue type : fh
+D :  so
+
+dialogue type : fg|s^cs
+D :  um , uh , we can ask someone .
+
+dialogue type : fg
+D :  Um .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^cs^r
+D :  Srini 's the one to ask I would say .
+
+dialogue type : s
+D :  Um . He might know .
+
+dialogue type : %-
+D :  And .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yep .
+
+dialogue type : s^fe
+D :  God !
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^2
+D :  The layout of the table .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa^rt
+D :  You could .
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : s
+D :  I actually seem to recall Srini complaining about something to do with Entering probability
+
+dialogue type : s.%-
+D :  so this is probably
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  The d the data tables .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^bk
+D :  Oh .
+
+dialogue type : qy^bu
+D :  Can't you have both ?
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^j
+D :  I missed my turn .
+
+dialogue type : s
+D :  It 's like yawning .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : qy^rt
+D :  Could you put the the um , net up again ?
+
+dialogue type : s^ft
+D :  Thanks .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^no
+D :  I don't know ,
+
+dialogue type : s
+D :  if there 's a way to define it or maybe you know generalize it some way
+
+dialogue type : s:s
+D :  um , there might be other cues that , say , um , in the last few utterances there has been something that has strongly associated with say one of the particular modes
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fg|s
+D :  uh , and and into that node would be various various things that that could have specifically come up .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : b
+D :  Exactly .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^2^rt
+D :  Opening hours or something like that .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  I mean it sort of get into plan recognition kinds of things in the discourse .
+
+dialogue type : s
+D :  I mean that 's like the bigger um , version of it .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bu
+D :  That 's a whole set of discourse related cues to your middle layer .
+
+dialogue type : qy^d^g
+D :  Right ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qw^rt
+D :  What do you mean by that ?
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s
+D :  Or maybe um , a famous restaurant .
+
+dialogue type : s^no
+D :  or , I don't know .
+
+dialogue type : s
+D :  There are various things that you might w not want to eat a meal there but your own table .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  I mean there 's a there 's change across several turns of discourse
+
+dialogue type : s^no
+D :  so I don't know how if any of this was discussed but how i if it all this is going to interact with whatever general uh , other other discourse processing that might be happen .
+
+dialogue type : s.%--
+D :  I mean .
+
+dialogue type : s
+D :  So one thing that might be helpful which is implicit in the use of " admission fee discussion " as a cue for entry , is thinking about the plans that various people might have .
+
+dialogue type : s
+D :  Like all the different sort of general schemas that they might be following
+
+dialogue type : fh
+D :  OK .
+
+dialogue type : s^rt
+D :  This person is um , finding out information about this thing in order to go in as a tourist or finding out how to get to this place in order to do business .
+
+dialogue type : s^rt
+D :  Um , because then anything that 's a cue for one of the steps would be slight evidence for that overall plan .
+
+dialogue type : s^no
+D :  Um , I don't know .
+
+dialogue type : s
+D :  They 're in in non in sort of more traditional AI kinds of plan recognition things you sort of have you know , some idea at each turn of agent doing something ,
+
+dialogue type : qh
+D :  " OK , wha what plans is this a consistent with ? "
+
+dialogue type : s
+D :  and then get s some more information and then you see " here 's a sequence that this sort of roughly fits into " .
+
+dialogue type : sj^am
+D :  It it might be useful here too .
+
+dialogue type : s.%--
+D :  I I don't know how
+
+dialogue type : s
+D :  you know you 'd have to figure out what knowl what knowledge representation would work for that .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^arp
+D :  Not direct .
+
+dialogue type : s
+D :  The Transcontinental Railroad ,
+
+dialogue type : qy
+D :  doesn't that ring a bell ?
+
+dialogue type : s
+D :  I think it has to exist somewhere .
+
+dialogue type : s
+D :  Well most of the way .
+
+dialogue type : b
+D :  Uh . Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : sj
+D :  Well . You seem to know better than we do so .
+
+dialogue type : s^rt
+D :  I have .
+
+dialogue type : s
+D :  But not transcontinentally .
+
+dialogue type : s
+D :  It 's not like German trains .
+
+dialogue type : sj
+D :  Like German trains are really great
+
+dialogue type : fh
+D :  so .
+
+dialogue type : fg|s
+D :  Um , but they 're faster .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^co^j
+D :  Let 's all say it a few more times .
+
+dialogue type : sj^ba
+D :  Just kidding .
+
+dialogue type : b
+D :  Right .
+
+dialogue type : s^bu
+D :  So by the way tha that structure that Robert drew on the board was like more um , cue - type - based ,
+
+dialogue type : qy^d^g
+D :  right ,
+
+dialogue type : s
+D :  here 's like we 're gonna segment off a bit of stuff that comes from discourse
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s.%--
+D :  you know , we mentioned maybe if they talk about um ,
+
+dialogue type : s^no
+D :  I don't know ,
+
+dialogue type : s^rt
+D :  entering or som you know like they might be more task - based .
+
+dialogue type : s^no
+D :  So I I don't know if there There 's obviously some m more than one way of organizing the variables into something
+
+dialogue type : fh
+D :  so .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^2
+D :  That feed into those ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : sj^ba
+D :  It 's a even distribution .
+
+dialogue type : s.%--
+D :  Like ,
+
+dialogue type : sj^ba
+D :  whatever .
+
+dialogue type : %-
+D : 
+
+dialogue type : sj^ba
+D :  That 's terrible .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  In which case you 're supposed to alert the authorities , and see appropriate action .
+
+dialogue type : s^am
+D :  Maybe .
+
+dialogue type : s^am
+D :  Quite possibly .
+
+dialogue type : s^fa
+D :  Oh , oh , sorry .
+
+dialogue type : s^fa^r
+D :  Sorry ,
+
+dialogue type : s^bk^m
+D :  Wednesday ,
+
+dialogue type : b
+D :  yeah .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : qy^br^m^rt
+D :  Ben ?
+
+dialogue type : s^na
+D :  I think it 's Ben actually ,
+
+dialogue type : b
+D :  yeah ,
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s
+D :  giving his job talk I think .
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s^fa
+D :  Sorry .
+
+dialogue type : s
+D :  I was just reading the screen .
+
+dialogue type : s^by^fe^rt
+D :  Oh , no .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : s^bk^rt
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Good .
+
+dialogue type : s
+D :  Reference .
+
+dialogue type : s
+D :  I haven't done it yet .
+
+dialogue type : s^bu
+D :  Oh plants ? e u someone who can plant difficult things .
+
+dialogue type : s^bu^rt
+D :  Well , in this case it 's a p it 's a sort of testing of the wizard rather than of the subject .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^arp
+D :  That might be a little unfair .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s^bu^rt
+D :  You think there 's a chance we might need Liz for , whatever , the technical side of things ?
+
+dialogue type : s
+D :  I 'm sure we can get other people around who don't know anything um , if we want another subject .
+
+dialogue type : s^cs^e
+D :  You know . Like I can drag Ben into it or something .
+
+dialogue type : s^j
+D :  Although he might cause problems
+
+dialogue type : s.%--
+D :  but .
+
+dialogue type : qy
+D :  So , is it a experimental setup for the um , data collection totally ready determined ?
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg
+D :  OK .
+
+dialogue type : s.%--
+D :  So the ideal task um , will have whatever
+
+dialogue type : s^no.%--
+D : 
+
+dialogue type : s^bu
+D :  Like we wanna we wanna be able to collect as much of the variables that are needed for that ,
+
+dialogue type : qy^d^g
+D :  right ?
+
+dialogue type : qy^d^g^rt
+D :  in the course of the task ?
+
+dialogue type : s^df
+D :  Well not all of them
+
+dialogue type : s.%--
+D :  but you know .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s^bs
+D :  So in other words this data collection is more general .
+
+dialogue type : s
+D :  It could it could be used for not just this task .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Exactly .
+
+dialogue type : s
+D :  Looks like it .
+
+dialogue type : s^bk
+D :  OK .
+
+dialogue type : s.%--
+D :  Switching o
+

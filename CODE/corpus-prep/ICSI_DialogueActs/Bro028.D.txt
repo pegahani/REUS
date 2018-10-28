@@ -1,0 +1,1023 @@
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : h|s
+D :  Yeah , like , uh , not next week
+
+dialogue type : s^rt
+D :  but maybe the week after .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : fg
+D :  Um ,
+
+dialogue type : fg|s^cs^t^tc
+D :  Yeah . Well , maybe we can start with this .
+
+dialogue type : b.x
+D :  Mmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : fg|s^rt
+D :  Yeah . So there was this conference call this morning ,
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s
+D :  and the only topic on the agenda was just to discuss
+
+dialogue type : s^rt
+D :  a and to come at uh , to get a decision about this latency problem .
+
+dialogue type : s^aa|s
+D :  Uh , yeah . It 's the conference call between the Aurora , uh , group .
+
+dialogue type : s
+D :  Uh , yeah . There were like two hours of discussions ,
+
+dialogue type : s
+D :  and then suddenly , uh , people were tired , I guess ,
+
+dialogue type : s
+D :  and they decided on a number ,
+
+dialogue type : s^e^rt
+D :  two hundred and twenty ,
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s^e
+D :  included e including everything .
+
+dialogue type : s^e
+D :  Uh , it means that it 's like eighty milliseconds less than before .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s
+D :  So , currently d uh , we have system that has two hundred and thirty .
+
+dialogue type : s^ba
+D :  So , that 's fine .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  So that 's the system that 's described on the second point of this document .
+
+dialogue type : s^aa|%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^ba
+D :  That 's not a problem , I I guess .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa|s^na
+D :  Yeah . At this point ,
+
+dialogue type : s^aa
+D :  yeah .
+
+dialogue type : s^aa
+D :  Yeah , uh - huh .
+
+dialogue type : s^aa
+D :  Uh - huh .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s^aa
+D :  Yeah , sure .
+
+dialogue type : s
+D :  Well , it was mainly a discussion between Hari and David ,
+
+dialogue type : %--
+D : 
+
+dialogue type : fh
+D :  Uh ,
+
+dialogue type : fh
+D : 
+
+dialogue type : fg|s^rt^t^tc
+D :  Uh , yeah . So , the second thing is the system that we have currently .
+
+dialogue type : s
+D :  Oh , yes . We have , like , a system that gives sixty - two percent improvement ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : s
+D :  Well , it has a latency of two thirty ,
+
+dialogue type : s^bd
+D :  but if you want also to stick to the number of features that limit it to sixty , then we go a little bit down
+
+dialogue type : s^df
+D :  but it 's still sixty - one percent .
+
+dialogue type : s
+D :  Uh , and if we drop the tandem network , then we have fifty - seven percent .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^ar|s^nd
+D :  Uh , no , I don't think so .
+
+dialogue type : s^aa^m
+D :  No .
+
+dialogue type : s
+D :  It 's still in terms of computation , if we use , like , their way of computing the the maps the the MIPs , I think it fits ,
+
+dialogue type : s
+D :  but it 's , uh , m mainly a problem of memory .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s^no
+D :  and I don't know how much this can be discussed or not ,
+
+dialogue type : s
+D :  because it 's it could be in ROM ,
+
+dialogue type : s
+D :  so it 's maybe not that expensive .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^no
+D :  I d I d uh , I I don't kn remember exactly ,
+
+dialogue type : fh
+D :  but Uh .
+
+dialogue type : s^cc
+D :  Yeah , I c I I have to check that .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah . Yeah .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^bk|s^rt
+D :  Yeah , there were small tricks to make this tandem network work .
+
+dialogue type : fh
+D :  Uh , mmm ,
+
+dialogue type : s
+D :  and one of the trick was to , um , use some kind of hierarchical structure
+
+dialogue type : s
+D :  where the silence probability is not computed by the final tandem network but by the VAD network .
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s^rt
+D :  so apparently it looks better when , uh , we use the silence probability from the VAD network
+
+dialogue type : s
+D :  and we re - scale the other probabilities by one minus the silence probability .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s
+D :  So it 's
+
+dialogue type : s^rt
+D :  and apparently it helps a little bit also .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : fh
+D :  And .
+
+dialogue type : fg|s.%-
+D : 
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s
+D :  So there is the tandem network that e e e estimates the phone probabilities
+
+dialogue type : s
+D :  and the silence probabilities also .
+
+dialogue type : s
+D :  And things get better when , instead of using the silence probability computed by the tandem network , we use the silence probability , uh , given by the VAD network ,
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s
+D :  Which is smaller ,
+
+dialogue type : %--
+D :  but maybe ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^rt
+D :  So we have a network for the VAD which has one hundred hidden units ,
+
+dialogue type : s
+D :  and the tandem network has five hundred .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s
+D :  So it 's smaller
+
+dialogue type : s^df
+D :  but th the silence probability from this network seems , uh , better .
+
+dialogue type : fh.%
+D :  Mmm .
+
+dialogue type : fh
+D :  Uh .
+
+dialogue type : s^ba
+D :  Well , it looks strange ,
+
+dialogue type : %-
+D : 
+
+dialogue type : %--
+D :  but it
+
+dialogue type : s^am^cs
+D :  Maybe it 's has something to do to the fact that we don't have infinite training data
+
+dialogue type : %-
+D : 
+
+dialogue type : %--
+D :  Well !
+
+dialogue type : fh
+D :  And
+
+dialogue type : s^ba
+D :  so Well , things are not optimal
+
+dialogue type : fh
+D : 
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk|s
+D :  Yeah . Uh , there was a p problem that we observed , um , that there was there were , like , many insertions in the in the system .
+
+dialogue type : fh
+D :  Mmm .
+
+dialogue type : s
+D :  Actually plugging in the tandem network was increasing , I I I think , the number of insertions .
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  So it looked strange
+
+dialogue type : s
+D :  and then just using the the other silence probability helps .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : fh
+D : 
+
+dialogue type : fg|s
+D :  Yeah . The next thing we will do is train this tandem on more data .
+
+dialogue type : fh
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : s
+D :  And and the features are different also .
+
+dialogue type : s
+D :  I mean , the VAD doesn't use the same features there are .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Mmm .
+
+dialogue type : fh|s^bd
+D :  Uh . Well , there are other things that we should do
+
+dialogue type : fh|s^df
+D :  but , um , it requires time
+
+dialogue type : s
+D :  and We have ideas ,
+
+dialogue type : s
+D :  like so , these things are like hav having a better VAD .
+
+dialogue type : s
+D :  Uh , we have some ideas about that .
+
+dialogue type : s
+D :  It would probably implies working a little bit on features that are more suited to a voice activity detection .
+
+dialogue type : s
+D :  Working on the second stream .
+
+dialogue type : s
+D :  Of course we have ideas on this also ,
+
+dialogue type : s
+D :  but w we need to try different things
+
+dialogue type : fh
+D : 
+
+dialogue type : s^rt
+D :  Uh , but their noise estimation ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aa
+D :  Yeah . Mmm .
+
+dialogue type : h|s^aa
+D :  Uh , yeah .
+
+dialogue type : fh|s
+D :  But , um , we we did a first try with this ,
+
+dialogue type : s
+D :  and it it clearly hurts .
+
+dialogue type : s
+D :  Uh . It was c it was just combined , um , by the acoustic model .
+
+dialogue type : s^e
+D :  So there was , no neural network for the moment .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah . Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : fh
+D : 
+
+dialogue type : fg|s
+D :  Yeah , and the other thing , that noise estimation
+
+dialogue type : s.%--
+D :  and th um , maybe try to train uh , the training data for the t
+
+dialogue type : s
+D :  tandem network , right now , is like i is using the noises from the Aurora task
+
+dialogue type : s
+D :  and I think that people might , um , try to argue about that
+
+dialogue type : s
+D :  because then in some cases we have the same noises in for training the network than the noises that are used for testing ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s
+D :  So we have t n uh , to try to get rid of these this problem .
+
+dialogue type : s^bk
+D :  Mm - hmm . Yeah .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : fg|s^t^tc
+D :  Yeah . The last thing is that I think we are getting close to human performance .
+
+dialogue type : s^bd^df
+D :  Well , that 's something I would like to investigate further ,
+
+dialogue type : %--
+D :  but ,
+
+dialogue type : fh
+D :  um ,
+
+dialogue type : s
+D :  I did , like , um I did , uh , listen to the m most noisy utterances of the SpeechDat - Car Italian
+
+dialogue type : s
+D :  and tried to transcribe them .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^aa|s.%-
+D : 
+
+dialogue type : s^bd
+D :  that 's the the flaw of the experiment .
+
+dialogue type : s^bd^e
+D :  This is just i j it 's just one subject ,
+
+dialogue type : fh
+D : 
+
+dialogue type : s^df
+D :  but still , uh , what happens is is that , uh , the digit error rate on this is around one percent ,
+
+dialogue type : s^df^e
+D :  while our system is currently at seven percent .
+
+dialogue type : fh|s.%--
+D :  Um , but what happens also is that if I listen to the , um a re - synthesized version of the speech
+
+dialogue type : s.%--
+D : 
+
+dialogue type : fh
+D :  Um ,
+
+dialogue type : s
+D :  well , you can argue , that , uh that this is not speech ,
+
+dialogue type : s
+D :  so the ear is not trained to recognize this .
+
+dialogue type : s
+D :  But s actually it sound like whispering ,
+
+dialogue type : s.%--
+D : 
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : h
+D : 
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^aap|%-
+D : 
+
+dialogue type : s^aa
+D :  Uh - huh .
+
+dialogue type : %-
+D :  Ye
+
+dialogue type : fg|s
+D :  Yeah . Well , the point is that eh l ey the point is that , um , what I what I listened to when I re - synthesized the LP - the LPC - twelve spectrum is in a way what the system , uh , is hearing ,
+
+dialogue type : s^df.%--
+D : 
+
+dialogue type : s
+D :  well , the excitation is is not taken into account .
+
+dialogue type : s
+D :  That 's what we do with our system .
+
+dialogue type : fh
+D :  And
+
+dialogue type : %-
+D : 
+
+dialogue type : s^bk^m|s^aa
+D :  Well , it 's not LPC , sure ,
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : qw^br^d^m
+D :  LPC ?
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b.%
+D :  Mmm .
+
+dialogue type : s^df
+D :  But that 's that 's what we do with our systems .
+
+dialogue type : %-
+D : 
+
+dialogue type : s^aap|qh^df
+D :  Yeah , but is it that is it that different , I mean ?
+
+dialogue type : %-
+D :  I
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  This is the one percent number .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Uh - huh .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b.%
+D :  Mmm .
+
+dialogue type : s^2|s^aa
+D :  To f seven times , yeah .
+
+dialogue type : fg
+D :  Um .
+
+dialogue type : %-
+D : 
+
+dialogue type : s
+D :  But the signal itself is like a mix of um , of a a periodic sound and , @ @ uh , unvoiced sound , and the noise
+
+dialogue type : s
+D :  which is mostly , uh , noise .
+
+dialogue type : s^e
+D :  I mean not periodic .
+
+dialogue type : qw.%--
+D :  So , what what do you mean exactly by putting back the pitch in ?
+
+dialogue type : s^df.%-
+D : 
+
+dialogue type : %-
+D :  I
+
+dialogue type : s^aa^rt
+D :  Uh - huh .
+
+dialogue type : s^aa
+D :  Mm - hmm .
+
+dialogue type : h
+D :  Um .
+
+dialogue type : s^bk|s^df^nd
+D :  Yeah , but it 's neither purely voiced or purely unvoiced .
+
+dialogue type : s^df
+D :  Esp - especially because there is noise .
+
+dialogue type : %-
+D : 
+
+dialogue type : b.%
+D :  Oh .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Uh - huh , yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fg
+D :  Yeah .
+
+dialogue type : s
+D :  That 's what I was thinking by doing this es experiment ,
+
+dialogue type : %--
+D : 
+
+dialogue type : fh|%-
+D :  Mmm . Evi
+
+dialogue type : s^aap|%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah . Mm - hmm . Yeah , right .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Uh , yeah .
+
+dialogue type : fg
+D :  Um .
+
+dialogue type : s^t^tc
+D :  Yeah , that 's it .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^aa|s^aap
+D :  Yeah . At these noise levels .
+
+dialogue type : s^aa
+D :  Yeah . Mm - hmm .
+
+dialogue type : fg|s^e
+D :  Well , yeah . These numbers , I mean .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : h|s
+D :  Uh . Yeah , it 's around fifteen to twenty percent .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s
+D :  Uh , error rate .
+
+dialogue type : s.%-
+D :  Twenty percent error rate ,
+
+dialogue type : %-
+D : 
+
+dialogue type : %-
+D : 
+
+dialogue type : s^m^na
+D :  On digits .
+
+dialogue type : s
+D :  And this is so so still the baseline .
+
+dialogue type : qy^d^f^g
+D :  Right ?
+
+dialogue type : s
+D :  The baseline is sixty percent also on digits ,
+
+dialogue type : s^e
+D :  on the m more mismatched conditions .
+
+dialogue type : fh
+D :  So .
+
+dialogue type : s^no
+D :  Uh , we don't know yet , I I think .
+
+dialogue type : s^aa
+D :  Uh - huh .
+
+dialogue type : fh
+D :  Um .
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : s^ar
+D :  No .
+
+dialogue type : b
+D :  Mmm .
+
+dialogue type : s^ar
+D :  Uh , no .
+
+dialogue type : s^df^rt
+D :  Well , this first , this was not the point at all of this the meeting today
+
+dialogue type : fh
+D :  and ,
+
+dialogue type : s^no
+D :  uh , frankly , I don't know
+
+dialogue type : s^df
+D :  because I d didn't read also the most recent mails about the large - vocabulary task .
+
+dialogue type : qy
+D :  But , uh , did you do you still , uh , get the mails ?
+
+dialogue type : qrr^d
+D :  You 're not on the mailing list or what ?
+
+dialogue type : s^bk
+D :  Uh - huh .
+
+dialogue type : s^bk|s
+D :  Oh , yeah . So we should have a look at this .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : qy^bu^d^rt
+D :  You didn't get any answer from Joe ?
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^2.%-
+D :  Nnn , the dist
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s^df^nd
+D :  But , these values are not directly used as probabilities anyway .
+
+dialogue type : s.%-
+D : 
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Yeah .
+
+dialogue type : fg|s
+D :  Yeah . So now he has a version of the software .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : fh
+D : 
+
+dialogue type : s^bk
+D :  Mm - hmm .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : h|qy^bu^d
+D :  Um , it was a poster .
+
+dialogue type : qrr.%--
+D : 
+
+dialogue type : s^bk
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : h|s
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : s^aa
+D :  Right .
+
+dialogue type : %
+D :  N
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : s
+D :  I think they have , yeah , different histograms .
+
+dialogue type : %--
+D : 
+
+dialogue type : s^rt
+D :  Something like one per frequency band ,
+
+dialogue type : %--
+D : 
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa|s^am
+D :  Yeah , I guess .
+
+dialogue type : s^bd
+D :  But I should read the paper .
+
+dialogue type : s^bd^df
+D :  I just went through the poster quickly ,
+
+dialogue type : s.%-
+D : 
+
+dialogue type : h|s^no
+D :  Uh , I dunno .
+
+dialogue type : s^e^no
+D :  I don't have feedback from him ,
+
+dialogue type : fh
+D :  but
+
+dialogue type : s.%-
+D : 
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Uh - huh .
+
+dialogue type : s^aa
+D :  Yeah .
+
+dialogue type : b
+D :  Mm - hmm . Mm - hmm .
+
+dialogue type : b
+D :  Hmm .
+
+dialogue type : fg|s.%-
+D : 
+
+dialogue type : %-
+D : 
+
+dialogue type : b
+D :  Mm - hmm .
+
+dialogue type : b
+D :  Mm - hmm .
+

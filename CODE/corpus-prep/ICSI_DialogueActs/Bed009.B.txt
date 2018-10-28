@@ -1,0 +1,756 @@
+dialogue type : z
+B :  Hmm ?
+
+dialogue type : z
+B :  Yeah
+
+dialogue type : z
+B :  Thank You .
+
+dialogue type : z
+B :  OK Well , so Ralf and Tilman are here .
+
+dialogue type : z
+B :  Made it safely .
+
+dialogue type : z
+B :  Sure .
+
+dialogue type : z
+B :  OK
+
+dialogue type : z
+B :  and the way you do it is you just read the numbers not as uh each single ,
+
+dialogue type : z
+B :  so just like I do it .
+
+dialogue type : z
+B :  OK .
+
+dialogue type : z
+B :  First you read the transcript number .
+
+dialogue type : z
+B :  Turn .
+
+dialogue type : s^rt
+B :  I thought two things
+
+dialogue type : s^rt
+B :  uh we 'll introduce ourselves and what we do .
+
+dialogue type : s^rt
+B :  And um we already talked with Andreas , Thilo and David
+
+dialogue type : s^rt
+B :  and some lines of code were already written today
+
+dialogue type : s^rt
+B :  and almost tested
+
+dialogue type : s^rt
+B :  and just gonna say we have um again the recognizer to parser thing where we 're working on
+
+dialogue type : s^rt
+B :  and that should be no problem
+
+dialogue type : s
+B :  and then that can be sort of developed uh as needed when we get enter the tourism domain .
+
+dialogue type : s^rt
+B :  em we have talked this morning with the with Tilman about the generator .
+
+dialogue type : s^rt
+B :  and um There one of our diligent workers has to sort of volunteer to look over Tilman 's shoulder while he is changing the grammars to English
+
+dialogue type : s
+B :  because w we have we face two ways .
+
+dialogue type : s^rt
+B :  Either we do a syllable concatenating um grammar for the English generation which is sort of starting from scratch and doing it the easy way ,
+
+dialogue type : s^rt
+B :  or we simply adopt the ah um more in - depth um style that is implemented in the German system
+
+dialogue type : s
+B :  and um are then able not only to produce strings but also the syntactic parse
+
+dialogue type : s^bsc.%--
+B :  uh not parse not
+
+dialogue type : s^rt
+B :  the syntactic tree that is underneath in the syntactic structure
+
+dialogue type : s^df^rt
+B :  which is the way we decided we were gonna go because A , it 's easier in the beginning
+
+dialogue type : s
+B :  and um it does require some some knowledge of of those grammars and and and some ling linguistic background .
+
+dialogue type : s^df
+B :  But um it shouldn't be a problem for anyone .
+
+dialogue type : s^rt
+B :  the the ultimate goal is that before they leave we we can run through the entire system input through output on at least one or two sample things .
+
+dialogue type : s
+B :  And um and by virtue of doing that then in this case Johno
+
+dialogue type : s
+B :  Ad infinitum .
+
+dialogue type : s
+B :  When needed , if needed , when wanted and so forth .
+
+dialogue type : s
+B :  And um also um Ralf has hooked up with David and you 're gonna continue either all through tonight or tomorrow on whatever to get the er parser interface working .
+
+dialogue type : s
+B :  They are thinning out and thickening out lattices
+
+dialogue type : s
+B :  and doing this kind of stuff to see what works best .
+
+dialogue type : qy^rt
+B :  Should we already set a date for that ?
+
+dialogue type : s^df
+B :  Might be beneficial while we 're all here .
+
+dialogue type : qy^cs^d^rt
+B :  Thursday morning sounds fine ?
+
+dialogue type : qy^d^rt
+B :  Neither does Thursday morning ,
+
+dialogue type : qy^d^g^rt
+B :  no ?
+
+dialogue type : s^ng
+B :  Uh he will be in Washington , though .
+
+dialogue type : s
+B :  but um David is here and he 's actually knows everything about the SmartKom recognizer .
+
+dialogue type : fg
+B :  OK so
+
+dialogue type : s.%--
+B :  facing to to what we 've sort of been doing here
+
+dialogue type : h
+B :  um
+
+dialogue type : s
+B :  well for one thing we 're also using this room to collect data .
+
+dialogue type : fh|s.x
+B :  um um Not this type of data ,
+
+dialogue type : s.%--
+B :  no not meeting data but sort of sort ah our version of a wizard experiment such
+
+dialogue type : s
+B :  not like the ones in Munich but pretty close to it .
+
+dialogue type : s^rt
+B :  The major difference to the Munich ones is that we do it via the telephone
+
+dialogue type : s
+B :  even though all the recording is done here
+
+dialogue type : s
+B :  and so it 's a sort of a computer call system that gives you tourist information
+
+dialogue type : s
+B :  tells you how to get places .
+
+dialogue type : s
+B :  And it breaks halfway through the experiment and a human operator comes on .
+
+dialogue type : s
+B :  and part of that is sort of trying to find out whether people change their linguistic verbal behavior when first thinking they speak to a machine and then to a human .
+
+dialogue type : s
+B :  and we 're setting it up so that we can we hope to implant certain intentions in people .
+
+dialogue type : s:qw
+B :  For example um we have first looked at a simple sentence that " How do I get to the Powder - Tower ? "
+
+dialogue type : s^f
+B :  OK so you have the castle of Heidelberg
+
+dialogue type : s
+B :  and there is a tower and it 's called Powder - Tower .
+
+dialogue type : qh
+B :  and um so What will you parse out of that sentence ?
+
+dialogue type : s
+B :  Probably something that we specified in M - three - L ,
+
+dialogue type : s
+B :  that is @ @ " action go to whatever domain , object whatever Powder - Tower " .
+
+dialogue type : s
+B :  And maybe some model will tell us , some GPS module , in the mobile scenario where the person is at the moment .
+
+dialogue type : s
+B :  And um we 've sort of gone through that once before in the Deep Mail project
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I should 've brought some slides ,
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  So here 's the tower .
+
+dialogue type : s
+B :  Think of this as a two - dimensional representation of the tower .
+
+dialogue type : s
+B :  And our system led people here , to a point where they were facing a wall in front of the tower .
+
+dialogue type : s
+B :  There is no entrance there , but it just happens to be the closest point of the road network to the geometric center
+
+dialogue type : s
+B :  Because that 's how the algorithm works .
+
+dialogue type : s^rt
+B :  So we took out that part of the road network as a hack
+
+dialogue type : s
+B :  and then it found actually the way to the entrance .
+
+dialogue type : s.%--
+B :  which was now the closest point of the road network to
+
+dialogue type : s^rt
+B :  OK , geometric center .
+
+dialogue type : s
+B :  But what we actually observed in Heidelberg is that most people when they want to go there they actually don't want to enter ,
+
+dialogue type : sj^df
+B :  because it 's not really interesting .
+
+dialogue type : s
+B :  They wanna go to a completely different point where they can look at it and take a picture .
+
+dialogue type : s.%--
+B :  And so what uh uh a s you s
+
+dialogue type : s
+B :  let 's say a simple parse from a s from an utterance won't really give us is what the person actually wants .
+
+dialogue type : qy
+B :  Does he wanna go there to see it ?
+
+dialogue type : qy^rt
+B :  Does he wanna go there now ?
+
+dialogue type : qy^d^rt
+B :  Later ?
+
+dialogue type : qw
+B :  How does the person wanna go there ?
+
+dialogue type : qy
+B :  Is that person more likely to want to walk there ?
+
+dialogue type : qy^d^rt
+B :  Walk a scenic route ?
+
+dialogue type : s
+B :  and so forth .
+
+dialogue type : s
+B :  There are all kinds of decisions that we have identified in terms of getting to places and in terms of finding information about things .
+
+dialogue type : s
+B :  And we are constructing and then we 've identified more or less the extra - linguistic parameters that may f play a role .
+
+dialogue type : s
+B :  Information related to the user and information related to the situation .
+
+dialogue type : s.%--
+B :  And we also want to look closely on the linguistic information that
+
+dialogue type : s
+B :  what we can get from the utterance .
+
+dialogue type : s
+B :  That 's part of why we implant these intentions in the data collection to see whether people actually phrase things differently
+
+dialogue type : s^e
+B :  whether they want to enter in order to buy something or whether they just wanna go there to look at it .
+
+dialogue type : fh|s
+B :  And um so the idea is to construct uh um suitable interfaces and a belief - net for a module that actually tries to guess what the underlying intention was .
+
+dialogue type : s
+B :  And then enrich or augment the M - three - L structures with what it thought what more it sort of got out of that utterance .
+
+dialogue type : s
+B :  So if it can make a good suggestion , " Hey ! "
+
+dialogue type : s
+B :  you know , " that person doesn't wanna enter .
+
+dialogue type : s
+B :  That person just wants to take a picture , " cuz he just bought film ,
+
+dialogue type : s
+B :  or " that person wants to enter because he discussed the admission fee before " .
+
+dialogue type : s
+B :  Or " that person wants to enter because he wants to buy something
+
+dialogue type : s
+B :  and that you usually do inside of buildings " and so forth .
+
+dialogue type : s^rt
+B :  These ah these types of uh these bits of additional information are going to be embedded into the M - three - L structure in an sort of subfield that we have reserved .
+
+dialogue type : s
+B :  And if the action planner does something with it , great .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  at least we want to offer the extra information . We don't really um we 're not too worried .
+
+dialogue type : sj
+B :  I mean t s Ultimately if you have if you can offer that information , somebody 's gonna s do something with it sooner or later .
+
+dialogue type : s
+B :  That 's sort of part of our belief .
+
+dialogue type : s
+B :  Um , for example , right now I know the GIS from email is not able to calculate these viewpoints .
+
+dialogue type : s
+B :  So that 's a functionality that doesn't exist yet to do that dynamically ,
+
+dialogue type : s.x
+B :  but if we can offer it that distinction , maybe somebody will go ahead and implement it .
+
+dialogue type : s
+B :  Surely nobody 's gonna go ahead and implement it if it 's never gonna be used ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : qh
+B :  What have I forgotten about ?
+
+dialogue type : s^fe
+B :  Oh yeah ,
+
+dialogue type : qh
+B :  how we do it ,
+
+dialogue type : s.%-
+B :  yeah that 's the
+
+dialogue type : h|s.x
+B :  um so far I 've thought of it as sort of adding it onto the modeler knowledge module .
+
+dialogue type : s.%--
+B :  So this is one that already adds additional information to the
+
+dialogue type : s
+B :  but it could sit anywhere in the attention - recognition
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : %-
+B : 
+
+dialogue type : s^bu
+B :  uh Michael is doing that ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^bk^rt
+B :  OK .
+
+dialogue type : s^aa
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : s.%--
+B :  But they uh
+
+dialogue type : qy^rt
+B :  Have I understood this right ?
+
+dialogue type : s^bu
+B : 
+
+dialogue type : s.%--
+B :  It 's not really what you do with the content of the dialogue but it 's
+
+dialogue type : s.%-
+B :  So , I mean there is this this this nice interf
+
+dialogue type : qy^bu.%--
+B : 
+
+dialogue type : b
+B :  Mmm .
+
+dialogue type : s^aa
+B :  Yep .
+
+dialogue type : %-
+B :  rea
+
+dialogue type : s^bk
+B :  yep
+
+dialogue type : b
+B :  Mm - hmm
+
+dialogue type : fg|s.%--
+B :  yeah and um it might actually
+
+dialogue type : s^bk
+B :  OK
+
+dialogue type : s
+B :  ah also because um again in in Deep Map we have faced and implemented those problems once already
+
+dialogue type : s
+B :  maybe we can even shuffle some know how from there to to Markus and Michael .
+
+dialogue type : h|s.%--
+B : 
+
+dialogue type : %--
+B :  OK th
+
+dialogue type : s^cc
+B :  I 'll I 'll talk to Michael
+
+dialogue type : s
+B :  it 's what I do anyway .
+
+dialogue type : qw.%--
+B :  Who How far is the uh the the M - three - L specification for for the la natural language input gone on the the uh
+
+dialogue type : s
+B :  I haven't seen anything for the uh tourist path domain .
+
+dialogue type : s^bu
+B :  And um you are probably also involved in that ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s
+B :  uh together with the usual gang ,
+
+dialogue type : s^e
+B :  um Petra and Jan
+
+dialogue type : s^bk|s.%--
+B : 
+
+dialogue type : qo
+B :  I think the the true key issues is how does the whatever comes out of the language input pipeline look like
+
+dialogue type : qo
+B : 
+
+dialogue type : qo
+B :  and how that is uh specified .
+
+dialogue type : s
+B :  I didn't think of the internal working of the uh the action planner and the language uh the function model as sort of relevant .
+
+dialogue type : s
+B :  Because what what they take is sort of this this fixed representation of a of an intention .
+
+dialogue type : s
+B :  And that can be as detailed or as crude as you want it to be .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  whether you know there 're dialogue action planners that work with belief - nets that are action planners that work with you know state automata .
+
+dialogue type : s
+B :  So that shouldn't really matter too much .
+
+dialogue type : s
+B :  I mean it does matter
+
+dialogue type : s^df.%--
+B : 
+
+dialogue type : s
+B :  we are on part six of r a route that consists of eight steps and so forth
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : s
+B :  Probably close to impossible .
+
+dialogue type : s
+B :  That 's external services .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Yeah I think just the the spatial planner and the route planner
+
+dialogue type : s^rt
+B :  I showed you once the interac action between them among them in the deep map system
+
+dialogue type : fh|s
+B :  so a printout of the communication between those two fills up
+
+dialogue type : s^no
+B :  I don't know how many pages
+
+dialogue type : s
+B :  and that 's just part of how do I get to one place .
+
+dialogue type : s
+B :  It 's really insane .
+
+dialogue type : fh
+B :  and uh
+
+dialogue type : s
+B :  but um so this is um definitely a good point to get uh Michael into the discussion .
+
+dialogue type : s
+B :  Or to enter his discussion , actually .
+
+dialogue type : s
+B :  That 's the way around .
+
+dialogue type : s^bk^m
+B :  Markus
+
+dialogue type : qy^rt.%--
+B :  Is he new in the in the ?
+
+dialogue type : qy
+B :  Is he gonna continue with the old uh thing ?
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^aa|s
+B :  Yes I was just that 's my next question
+
+dialogue type : s
+B :  whether we 're we 're gonna stick to Prolog or not .
+
+dialogue type : s^bk
+B :  OK
+
+dialogue type : s
+B :  But I do think the the function modeling concept has a certain makes sense in a in a certain light
+
+dialogue type : s
+B :  because the action planner should not be or the dialogue manager in that case should not um w have to worry about whether it 's interfacing with um something that does route planning in this way or that way
+
+dialogue type : qw^br^rt
+B :  huh ,
+
+dialogue type : s.%--
+B :  it j
+
+dialogue type : s
+B :  and it cant sort of formulate its what it wants in a in a rather a abstract uh way ,
+
+dialogue type : s
+B :  you know f " Find me a good route for this . "
+
+dialogue type : s
+B :  It doesn't really have to worry ab how route planner A or how route planner B actually wants it .
+
+dialogue type : s
+B :  So this is seemed like a good idea .
+
+dialogue type : s
+B :  In the beginning .
+
+dialogue type : b
+B :  hmm
+
+dialogue type : s^2.%--
+B :  a lot of ,
+
+dialogue type : b
+B :  yeah
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : fg|s
+B :  Yeah , there is another philosophical issue that I think you know you can evade
+
+dialogue type : s
+B :  but , at at least it makes sense to me that sooner or later uh a service is gonna come and describe itself to you .
+
+dialogue type : s^rt
+B :  and that 's sort of what Srini is working on in in in the DAML uh project where um you you find a GIS about that gives you information on Berkeley ,
+
+dialogue type : s
+B :  and it 's it 's gonna be there and tell you what it can do and how it wants to do things .
+
+dialogue type : s
+B :  and so you can actually interface to such a system without ever having met it before
+
+dialogue type : s
+B :  and the function modeler and a self - description of the um external service haggle it out
+
+dialogue type : s
+B :  and you can use the same language core , understanding core to interface with planner - A , planner - B , planner - C and so forth .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  completely utopian at the moment ,
+
+dialogue type : s
+B :  but slowly , you know , getting into the realm of the uh contingent .
+
+dialogue type : s^rt
+B :  But we are facing of course much more um realistic problems .
+
+dialogue type : s^rt
+B :  And language input for example , is of course uh crucial you know also when you do the sort of deep understanding analysis that we envision .
+
+dialogue type : fh|s.%--
+B :  um Then of course , the uh um , you know
+
+dialogue type : qo
+B : 
+
+dialogue type : s^rt
+B :  poverty of the stimulus ,
+
+dialogue type : s
+B :  yet the m uh the less we get of that the better .
+
+dialogue type : fh|qo
+B :  and um so we we 're thinking , for example how much syntactic analysis actually happens already in the parser .
+
+dialogue type : s^rt
+B :  and whether one could interface to that potentially
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : qy^d^rt
+B :  A Alan ?
+
+dialogue type : %--
+B : 
+
+dialogue type : s
+B :  From Michael Strube , I 've heard very good stuff about the chunk parser that is done by FORWISS ,
+
+dialogue type : s
+B :  uh , which is in embassy doing the parsing .
+
+dialogue type : s
+B :  So this is sort of came as a surprise to me that you know , embassy s is featuring a nice parser
+
+dialogue type : s
+B :  but it 's what I hear . One could also look at that and see whether there is some synergy possible .
+
+dialogue type : s
+B :  And they 're doing chunk parsing
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  I I can give you the names of the people who do it there .
+
+dialogue type : fh
+B :  But um .
+
+dialogue type : s
+B :  Then there is of course more ways of parsing things .
+
+dialogue type : s
+B :  We threw out all the forms .
+
+dialogue type : s^r
+B :  We threw out all the forms
+
+dialogue type : s^df
+B :  because , you know , English ,
+
+dialogue type : %--
+B : 
+
+dialogue type : s^rt
+B :  Well there 's m I 'm sure there 's gonna be more discussion on that after your talk .
+
+dialogue type : s.%--
+B :  We 're just gonna foreshadow what we saw that
+
+dialogue type : fh
+B :  and um
+
+dialogue type : s
+B :  First steps .
+
+dialogue type : s
+B :  And she 's gonna start
+
+dialogue type : s^e
+B :  in a minute .
+

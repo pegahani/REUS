@@ -1,0 +1,1365 @@
+dialogue type : z
+C :  Nnn ,
+
+dialogue type : z
+C :  it 's n
+
+dialogue type : z
+C :  It 's always offset . Yeah .
+
+dialogue type : qw
+C :  What
+
+dialogue type : %
+C :  He - he he 's
+
+dialogue type : s^nd
+C :  probably not , is my guess .
+
+dialogue type : s^aa.%
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s
+C :  This this is not It 's not bad for the project if Keith is talking to George .
+
+dialogue type : fh|s.%-
+C :  OK . So my suggestion is we just
+
+dialogue type : s^m^na|s^aa
+C :  Forge ahead , yeah .
+
+dialogue type : s^aa
+C :  Sure .
+
+dialogue type : s^ba^j|qy^bu^d^j
+C :  He charges so much . Right .
+
+dialogue type : s^bd|s^bk
+C :  No , I think it 's a good idea that you may as well ask . Sure .
+
+dialogue type : s^bk
+C :  Oh !
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  I didn't finish the sentence
+
+dialogue type : s
+C :  but he understood it .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  But Nancy doesn't .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : s^2.%
+C :  Syntax .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  Anyway , it We 'll sort this out .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s^co
+C :  But anyway , send me the note
+
+dialogue type : s^cc
+C :  and then I 'll - I 'll check with , uh , Morgan on the money .
+
+dialogue type : s
+C :  I I don't anticipate any problem
+
+dialogue type : s^df
+C :  but we have to ask .
+
+dialogue type : fg|s.%--
+C :  Oh , so this was You know , on the generation thing ,
+
+dialogue type : fh
+C :  um
+
+dialogue type : s
+C :  if sh y she 's really going to do that , then we should be able to get prosody as well .
+
+dialogue type : s
+C :  So it 'll say it 's nonsense with perfect intonation .
+
+dialogue type : s
+C :  It 's the name of some program ,
+
+dialogue type : s^e
+C :  the the synthesizer .
+
+dialogue type : s^ng.%-
+C :  Orego
+
+dialogue type : %-
+C :  Or
+
+dialogue type : s
+C :  Oregon @ @ Graduate Institute
+
+dialogue type : s
+C :  It turns out there 's the long - standing links with these guys in the speech group .
+
+dialogue type : s^e
+C :  Very long .
+
+dialogue type : s
+C :  In fact , there 's this guy who 's basically got a joint appointment ,
+
+dialogue type : s
+C :  Hynek Hermansky .
+
+dialogue type : s
+C :  He 's - spends a fair amount of time here .
+
+dialogue type : fg
+C :  Anyway .
+
+dialogue type : s^co^t1
+C :  Leave it .
+
+dialogue type : s^ba^bd
+C :  Won't be a problem .
+
+dialogue type : s^na
+C :  I did .
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : %-
+C :  I i
+
+dialogue type : s^bk|s^ba
+C :  Yeah . Well , it it 's fine .
+
+dialogue type : fg
+C :  Anyway .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s
+C :  But c the meeting looks like it 's , it 's gonna be good .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fg|s
+C :  Yeah , I I ra I ran across it in I don't even know where ,
+
+dialogue type : s^e
+C :  you know some just some weird place .
+
+dialogue type : fh|s
+C :  And , uh , yeah , I I 'm surprised I didn't know about it
+
+dialogue type : s
+C :  since we know all the invited speakers ,
+
+dialogue type : %-
+C :  an
+
+dialogue type : s^aa|s.%--
+C :  Right , or some
+
+dialogue type : fh
+C :  Anyway .
+
+dialogue type : fh
+C :  So But anyway ,
+
+dialogue type : s^bk
+C :  yeah .
+
+dialogue type : s
+C :  I so I I did see that .
+
+dialogue type : s.%--
+C :  Oh wha Yeah . Before we get started on this st
+
+dialogue type : s
+C :  so I also had a nice email correspondence with Daphne Kohler , who said yes indeed she would love to work with us on the , um , you know , using these structured belief - nets and stuff
+
+dialogue type : s
+C :  but starting in August ,
+
+dialogue type : s^e
+C :  that she 's also got a new student working on this and that we should get in touch with them again in August
+
+dialogue type : s
+C :  and then we 'll figure out a way for you uh you to get seriously connected with , um their group .
+
+dialogue type : fh
+C :  So
+
+dialogue type : s
+C :  that 's , uh looks pretty good .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  Yeah , I 'll say it now .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  And it looks to me like we 're now at a good point to do something start working on something really hard .
+
+dialogue type : s
+C :  We 've been so far working on things that are easy .
+
+dialogue type : fh|s.%-
+C : 
+
+dialogue type : qw^br
+C :  Huh ?
+
+dialogue type : s^na
+C :  It 's a hard puzzle .
+
+dialogue type : s
+C :  But the other part of it is the way they connect to these , uh , probabilistic relational models .
+
+dialogue type : s
+C :  So there 's all the problems that the linguists know about , about mental spaces , and the cognitive linguists know about ,
+
+dialogue type : s
+C :  but then there 's this problem of the belief - net people have only done a moderately good job of dealing with temporal belief - nets .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  they incorrectly call dynamic belief - nets .
+
+dialogue type : s
+C :  So there 's a term " dynamic belief - net " , doesn't mean that .
+
+dialogue type : s
+C :  It means time slices .
+
+dialogue type : s
+C :  And Srini used those and people use them .
+
+dialogue type : fh
+C :  Uh . But
+
+dialogue type : s.%--
+C :  one of the things I w would like to do over the next , uh , month , it may take more , is to st understand to what extent we can not only figure out the constructions for them for multiple worlds
+
+dialogue type : fh
+C :  and
+
+dialogue type : s
+C :  uh sort of what the formalism will look like and where the slots and fillers will be , but also what that would translate into in terms of belief - net and the inferences .
+
+dialogue type : s
+C :  So the story is that if you have these probabilistic relational models , they 're set up , in principle , so that you can make new instances
+
+dialogue type : s
+C :  and instances connect to each other , and all that sort of stuff ,
+
+dialogue type : s
+C :  so it should be feasible to set them up in such a way that if you 've got the past tense and the present tense and each of those is a separate uh , belief structure that they do their inferences with just the couplings that are appropriate .
+
+dialogue type : s
+C :  But that 's g that 's , as far as I can tell , it 's it 's putting together two real hard problems .
+
+dialogue type : s
+C :  One is the linguistic part of what are the couplings
+
+dialogue type : s
+C :  and and when you have a certain , uh , construction , that implies certain couplings and other couplings ,
+
+dialogue type : s^f|s
+C :  you know , between let 's say between the past and the present ,
+
+dialogue type : s
+C :  or any other one of these things
+
+dialogue type : s
+C :  and then we have this inference problem of exactly technically how does the belief - net work
+
+dialogue type : s
+C :  if it 's got um , let 's say one in in , you know , different tenses
+
+dialogue type : s
+C :  or my beliefs and your beliefs ,
+
+dialogue type : s
+C :  or any of these other ones of of multiple models .
+
+dialogue type : fh
+C :  So um
+
+dialogue type : s
+C :  you know , in the long run we need to solve both of those
+
+dialogue type : s.%--
+C :  and my suggestion is that we start digging into them both , uh , in a way we that , you know , th
+
+dialogue type : s
+C :  hopefully turns out to be consistent ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s
+C :  And sometimes it 's actually easier to solve two hard problems than one
+
+dialogue type : s^df
+C :  because they constrain each other .
+
+dialogue type : s^df^e.%--
+C :  I mean if you 've got huge ra huge range of possible choices
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  We 'll see .
+
+dialogue type : fg|s.%--
+C : 
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^ba
+C :  That 's great .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s
+C :  No , I know , I th I I think that is gonna be sort of the key to this wh to th the big project of the summer of of getting the constructions right
+
+dialogue type : s
+C :  is that people do manage to do this
+
+dialogue type : s
+C :  so there probably are some , uh , relatively clean rules ,
+
+dialogue type : s
+C :  they 're just not context - free trees .
+
+dialogue type : s
+C :  And if we if the formalism is is good , then we should be able to have , you know , sort of moderate scale thing .
+
+dialogue type : s
+C :  And that by the way is is , Keith , what I encouraged George to be talking with you about .
+
+dialogue type : s
+C :  Not the formalism yet
+
+dialogue type : s
+C :  but the phenomena .
+
+dialogue type : %--
+C :  The p
+
+dialogue type : fh
+C : 
+
+dialogue type : fg|s^tc.%--
+C :  Oh , another thing ,
+
+dialogue type : fh
+C :  um
+
+dialogue type : s
+C :  there was this , uh thing that Nancy agreed to in a in a weak moment this morning that
+
+dialogue type : s^fa|s^bsc
+C :  Uh , sorry . In a in a friendly moment .
+
+dialogue type : fh|s
+C :  Anyway , uh , that we were that we 're gonna try to get a uh , first cut at the revised formalism by the end of next week .
+
+dialogue type : s^f
+C :  OK ?
+
+dialogue type : s
+C :  Probably skipping the mental spaces part .
+
+dialogue type : fh|s
+C :  Uh , just trying to write up essentially what what you guys have worked out so that everybody has something to look at .
+
+dialogue type : s.%-
+C :  We 've talked about it , but only the innermost inner group currently , uh ,
+
+dialogue type : s^m^na|%-
+C :  knows , uh
+
+dialogue type : s^aa
+C :  Right .
+
+dialogue type : s|qy^d^f^g
+C :  Well that that yeah th there 's one of the advantages of a document , right ? ,
+
+dialogue type : s^e
+C :  is is that it actually transfers from head to head .
+
+dialogue type : fg
+C :  So anyway .
+
+dialogue type : fh
+C : 
+
+dialogue type : qw^br
+C :  Huh ?
+
+dialogue type : s^aap
+C :  Communication , documentation and stuff .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh|s^cs
+C :  Uh l let 's , let 's have that as a goal anyway .
+
+dialogue type : %-
+C : 
+
+dialogue type : s^ar
+C :  No , no , no .
+
+dialogue type : s
+C :  No , w uh we 're talking about a week fr e end of next week .
+
+dialogue type : s^bk|s^cs
+C :  OK . Yeah , so so someti sometime next week .
+
+dialogue type : s
+C :  Now if it turns out that that effort leads us into some big hole that 's fine .
+
+dialogue type : s^e:s
+C :  You know , if you say we 're we 're dump dump dump .
+
+dialogue type : s^e:s
+C :  There 's a really hard problem
+
+dialogue type : s^e:s
+C : 
+
+dialogue type : s^e
+C :  that , that 's just fine .
+
+dialogue type : s^aa|s^cs
+C :  Right , t t if to the extent that we have it , let 's write it
+
+dialogue type : s^cs
+C :  and to the extent we don't , let 's find out what we need to do .
+
+dialogue type : fh
+C :  So , uh
+
+dialogue type : s^na
+C :  I think it is ,
+
+dialogue type : s:qw
+C :  but uh but I interrupted before Keith got to tell us what happened with " where is the Powder - Tower ? " or whatever
+
+dialogue type : h
+C : 
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^aa
+C :  Yep .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s.%--
+C :  Uh w that 's a s
+
+dialogue type : fh|s
+C :  OK , so that 's a that 's a separate issue .
+
+dialogue type : s
+C :  So I a I I th I agree with you that , um , it 's a disaster to try to make separate constructions for every uh , pragmatic reading ,
+
+dialogue type : s
+C :  although there are some that will need to be there .
+
+dialogue type : s^e.%-
+C : 
+
+dialogue type : s^nd
+C :  You can't do that either .
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s.%-:s.%-
+C :  But , you know , c um almost certainly " can you pass the salt " is a construction worth noting that there is this th this this this uh
+
+dialogue type : %-
+C :  Ri
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^aa
+C :  Exactly . Yeah .
+
+dialogue type : s.%--
+C :  And I guess , see , the more important thing at this stage is that we should be able to know how we would handle it in ei
+
+dialogue type : s
+C :  f in the short run it 's more important to know how we would treat technically what we would do if we decided A and what we would do if we decided B , than it is t to decide A or B r right now .
+
+dialogue type : s^df
+C :  W we know for sure that we have to be able to do both .
+
+dialogue type : s^cs
+C :  So I guess In the short run , let 's let 's be real clear on h what the two alternatives would be .
+
+dialogue type : s^ba
+C :  It was terrible .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : fg|s
+C :  Yeah . So that 's certainly more realistic .
+
+dialogue type : s^e
+C :  I m I mean psychologically .
+
+dialogue type : s.%--
+C :  Now technically
+
+dialogue type : fh
+C :  Um
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : s^am
+C :  You could do that .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  in th in the bl Bayes - net you could you could think about it this way , that if um at the time " admissions fee " was mentioned you could increase the probability that someone wanted to enter .
+
+dialogue type : s^ba|s^bk
+C :  Fair enough , OK ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^f
+C :  right ?
+
+dialogue type : s.%--
+C :  so that
+
+dialogue type : fh
+C :  um
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  This is this is essentially the Bayes - net equivalent of the spreading activation .
+
+dialogue type : s
+C :  It 's In some ways it 's not as good
+
+dialogue type : s^df
+C :  but it 's the implementation we got .
+
+dialogue type : s^df^e
+C :  We don't have a connectionist implementation .
+
+dialogue type : s
+C :  Now Now my guess is that it 's not a question of time but it is a question of whether another intervening object has been mentioned .
+
+dialogue type : s.%--
+C :  I mean , we could look at dialo
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Of course the other thing we ha we do is , is we have this data coming
+
+dialogue type : s
+C :  which probably will blow all our theories ,
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  so so but my guess is what what 'll probably will happen , Here 's a here 's a proposed design . is that there 're certain constructions which , uh , for our purposes do change the probabilities of EVA decisions and various other kinds
+
+dialogue type : fh
+C :  and
+
+dialogue type : s
+C :  th that the , uh , standard way that that the these contexts work is sort of stack - like or whatever ,
+
+dialogue type : s
+C :  but that 's sort of the most recent thing .
+
+dialogue type : s.%-
+C :  And so it could be that when another uh , en tourist entity gets mentioned , you
+
+dialogue type : s
+C :  re re essentially re - initiali you know , re - i essentially re - initialize the state .
+
+dialogue type : s
+C :  And of course i if we had a fancier one with multiple worlds you could have uh , you could keep track of what someone was uh saying about this and that .
+
+dialogue type : s^e
+C :  You know , " I wanna go in the morning
+
+dialogue type : s^e.%-:s.%-
+C :  I wanna "
+
+dialogue type : s^aa|s^na:s
+C :  Yeah , or Yeah , in the morning morning I I 'm planning t to go shopping ,
+
+dialogue type : s^e^na:s
+C : 
+
+dialogue type : s
+C :  Uh , tal so I 'm talking about shopping
+
+dialogue type : s:qw
+C :  and then you say , uh , you know , well , um " What 's it cost ? " or something .
+
+dialogue type : %--
+C : 
+
+dialogue type : fh
+C :  Anyway .
+
+dialogue type : s.%--
+C :  So one could well imagine ,
+
+dialogue type : s
+C :  but not yet .
+
+dialogue type : s
+C :  But I do th think that the It 'll turn out that it 's gonna be depend pretty much on whether there 's been an override .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^aa|%-
+C :  Yeah , I th th
+
+dialogue type : s^aa
+C :  Yeah .
+
+dialogue type : s^e
+C :  Well , and and and the simple idea is that it 's on it 's only for m for the current uh , tourist e entity of instre interest .
+
+dialogue type : s^ar|s
+C :  No , no . It 's it It goes the other d it goes in the other direction .
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  When th When the this is mentioned , the uh probability of of , let 's say , entering changes
+
+dialogue type : s^2
+C :  changes .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : fg|s
+C :  Now , uh But I think Ro - Robert 's right , that to determine that , OK ? you may well want to go through a th thesaurus
+
+dialogue type : fh
+C : 
+
+dialogue type : fg|s:qy
+C :  So , if the issue is , if so now th this construction has been matched and you say " OK . Does this actually have any implications for our decisions ? " Then there 's another piece of code that presumably does that computation .
+
+dialogue type : s^aa
+C :  Yeah . Yeah .
+
+dialogue type : s.%--
+C :  But but what 's Robert 's saying is is ,
+
+dialogue type : s.%--
+C :  and I think he 's right , is you don't want to try to build into the construction itself all the synonyms and all you know , all the wo
+
+dialogue type : fh
+C :  Uh
+
+dialogue type : s^am^t1
+C :  maybe .
+
+dialogue type : s^cc
+C :  I 'll have to think about that .
+
+dialogue type : s^no
+C :  I don't know .
+
+dialogue type : s
+C :  I mean it th I can thi I can think of arguments in either direction on that .
+
+dialogue type : s^df
+C :  But somehow you want to do it .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s.%--
+C :  If you 've recognized the word ,
+
+dialogue type : s
+C :  you 've recognized the word , which means you have a lexical construction for it ,
+
+dialogue type : s
+C :  so you could just as well tag the lexical construction with the fact that it 's a uh , you know , thirty percent increase in probability of entering .
+
+dialogue type : s
+C :  You So you could you could you could invert invert the whole thing , so you s you tag that information on to the lexicon
+
+dialogue type : s^df
+C :  since you had to recognize it anyway .
+
+dialogue type : s
+C :  That that 's the argument in the other direction .
+
+dialogue type : %--
+C : 
+
+dialogue type : fh|%--
+C : 
+
+dialogue type : fg|s^na
+C :  Yeah there 's , yeah ther there 's that as well .
+
+dialogue type : s^ba
+C :  Good .
+
+dialogue type : fg|s
+C :  OK . Well , this this is highly relevant to someone 's thesis .
+
+dialogue type : s
+C :  You 've noticed that .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  So the point is , it 's very likely that Robert 's thesis is going to be along these lines ,
+
+dialogue type : s
+C :  and the local rules are if it 's your thesis , you get to decide how it 's done .
+
+dialogue type : s^bk|s:s
+C :  OK . So if , you know if this is seriously , if this becomes part of your thesis , you can say , hey we 're gonna do it this way , that 's the way it 's done .
+
+dialogue type : s^ar^fe
+C :  No , no , no !
+
+dialogue type : s^nd
+C :  No , no . We 've got a lot we 've got a lot of theses going .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : fg|s
+C :  Right . So h he 's got a th he 's got a meet meeting in Germany with his thesis advisor .
+
+dialogue type : s^bk
+C :  Oh , right .
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : fg|s
+C :  Yeah . So I think in fact , That 's the other thing .
+
+dialogue type : s
+C :  uh , this is this is , speaking of hard problems , this is a very good time um , to start trying to make explicit where construal comes in
+
+dialogue type : s
+C :  and you know , where c where the construction per - se ends and where construal comes in ,
+
+dialogue type : s^df.%-
+C :  cuz this is clearly part of th
+
+dialogue type : qw^br
+C :  Huh ?
+
+dialogue type : s.%-
+C :  Well I said . But that 's part of what the f
+
+dialogue type : fg|s^df
+C :  Yeah . Well , he 's gonna need this .
+
+dialogue type : fg|s
+C :  Right . So . Right . So thing That 's part of why we want the formalism ,
+
+dialogue type : s.%-
+C :  is is because th it is gonna have implicit in it
+
+dialogue type : x
+C :  Yeah .
+
+dialogue type : fg|s^ng
+C :  Right . Well I That 's tentative .
+
+dialogue type : s^nd
+C :  They aren't decisions ,
+
+dialogue type : s^e
+C :  they 're ju they 're just proposals .
+
+dialogue type : s.%-
+C :  Yeah , that That 's the point , is is th
+
+dialogue type : s^bk
+C :  Yeah .
+
+dialogue type : fg|s.%-
+C :  Yeah . Anyway . But so that 's that 's w
+
+dialogue type : b.%
+C :  Yeah .
+
+dialogue type : s^ar
+C :  No .
+
+dialogue type : fh
+C :  Uh .
+
+dialogue type : b.%
+C :  Right .
+
+dialogue type : s
+C :  Well , we we we will ,
+
+dialogue type : fh
+C :  but um
+
+dialogue type : %-
+C : 
+
+dialogue type : s^aa
+C :  Yes .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : %-
+C :  So
+
+dialogue type : s^ar|s
+C :  Ri - No . Absolutely .
+
+dialogue type : s^bu
+C :  So , uh , wh you had you know you ha You had done one draft .
+
+dialogue type : s.%-
+C :  And a another draft
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : x
+C :  D i
+
+dialogue type : %-
+C :  I i
+
+dialogue type : s^j
+C :  I this is I 'm shocked .
+
+dialogue type : s^j
+C :  This is the first time I 've seen a thesis proposal change .
+
+dialogue type : fh
+C :  Right . Anyway , uh . So .
+
+dialogue type : fh|s^ba
+C :  But , yeah , a second that would be great .
+
+dialogue type : s
+C :  So , uh , a sec I mean you 're gonna need it anyway .
+
+dialogue type : %-
+C :  and
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  Yep .
+
+dialogue type : s.%
+C :  Both proof .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : fg
+C :  Uh
+
+dialogue type : s
+C :  So that , so th thi this I mean , so this is the point , is we we 're going to have to cycle through this ,
+
+dialogue type : s
+C :  but th the draft of the p proposal on the constructions is is going to tell us a lot about what we think needs to be done by construal .
+
+dialogue type : fh|s^cs
+C :  And , um , we oughta be doing it .
+
+dialogue type : s
+C :  And the NTL meeting moved to Wednesday ,
+
+dialogue type : s^df.%--
+C :  cuz of of , uh
+
+dialogue type : fg|s
+C :  Yeah , you weren't here ,
+
+dialogue type : s^bu
+C :  but but but s uh , And so , if that 's OK with you ,
+
+dialogue type : %-
+C : 
+
+dialogue type : s^aa|s.%-
+C :  Yeah , it was th
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s
+C :  The only disadvantage is that it may interfere with other
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^ar|s
+C :  No , you Uh , people in this group connecting with with
+
+dialogue type : s^m^na
+C :  those people who who might not be around so much .
+
+dialogue type : h|s
+C :  Uh , I don't care .
+
+dialogue type : s^e.%-
+C : 
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^ba^bd
+C :  No , that 's fine .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s.%-
+C :  Well p
+
+dialogue type : s
+C :  people people differ in their tastes in this matter .
+
+dialogue type : s
+C :  I I 'm neutral .
+
+dialogue type : s^aa|s^na
+C :  Yeah . @ @ That 's Me too .
+
+dialogue type : s
+C :  I 'm basically I 'm here .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^bk^rt
+C :  OK .
+
+dialogue type : s^ba.%
+C :  Interesting .
+
+dialogue type : s^bu
+C :  So you 're proposing that we meet Tuesday .
+
+dialogue type : %-
+C :  I I could
+
+dialogue type : s^bk.%
+C :  OK .
+
+dialogue type : s^bk|s.%-
+C :  OK , whate I mean What I think Robert 's saying is that
+
+dialogue type : s^m^na.%--
+C : 
+
+dialogue type : s^df
+C :  At least for next week , there 's a lot of stuff we want to get done ,
+
+dialogue type : qh^cs
+C :  so why don't we plan to meet Monday
+
+dialogue type : s^cc
+C :  and we 'll see if we want to meet any more than that .
+
+dialogue type : s^bk|s
+C :  Oh , I i Yeah , I actually Two is the earliest I can meet on Monday .
+
+dialogue type : s
+C :  Here I 'm blissfully agreeing to things and realizing that I actually do have some stuff scheduled on Monday .
+
+dialogue type : s^rt
+C :  Well m @ @ you know , w maybe Mond - Maybe we can put This is part of what we can do Monday , if we want .
+
+dialogue type : s
+C :  Is some some version
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : %-
+C :  Abso
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : fg|s.%-
+C :  Yeah , now , we we w
+
+dialogue type : s^ba|s^bk
+C :  Great . OK .
+
+dialogue type : fg|s^cs
+C :  Yeah . Simspec may need we may n need to re - name that .
+
+dialogue type : s^bk|s^cs
+C :  OK ? So let 's think of a name for for whatever the this intermediate structure is .
+
+dialogue type : s
+C :  Oh , we talked about semspec , for " semantic spec specification "
+
+dialogue type : s.%--
+C : 
+
+dialogue type : fh
+C :  Um .
+
+dialogue type : s
+C :  You know , so it 's a m minimal change .
+
+dialogue type : %
+C : 
+
+dialogue type : b
+C :  Right .
+
+dialogue type : fg|s.%--
+C :  Right , a little substi substi
+
+dialogue type : s
+C :  You know , that 's what text substitution uh macros are for .
+
+dialogue type : fg|s^cs
+C :  Anyway , uh , so let 's let 's for the moment call it that until we think of something better .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s
+C :  Part of what was missing were markings of all sorts that weren't in there ,
+
+dialogue type : s^e
+C : 
+
+dialogue type : s
+C :  We didn't we never did figure out how we were gonna do emphasis in in uh , the semspec .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  is got to be uh , how things like that get marked .
+
+dialogue type : b
+C :  Mm - hmm .
+
+dialogue type : s^bk|%-
+C :  Alright , which is
+
+dialogue type : s
+C :  Skolemization .
+
+dialogue type : s
+C :  In in logic , it 's it 's @ @ it 's actual Huh ?
+
+dialogue type : qw^br
+C :  What ?
+
+dialogue type : s
+C :  That - that 's not that 's not saying it 's bad ,
+
+dialogue type : s^df.%-
+C : 
+
+dialogue type : s.%--
+C : 
+
+dialogue type : s^bk
+C :  Good .
+
+dialogue type : s:qw
+C :  Yeah . Well , if if I mean , i part of of what the exercise is , t by the end of next week , is to say what are the things that we just don't have answers for yet .
+
+dialogue type : s^ba
+C :  That 's fine .
+
+dialogue type : %--
+C :  I mean
+
+dialogue type : s^tc
+C :  Wel - then t Hans .
+
+dialogue type : s^rt
+C :  Has I haven't seen Hans Boas ?
+
+dialogue type : s^bk|qy^rt
+C :  OK . So has he been been involved with this ,
+
+dialogue type : qrr.%--
+C :  or ?
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^bk
+C :  OK .
+
+dialogue type : s^bk|s
+C :  OK . This is consistent with um the role I had suggested that he he play ,
+
+dialogue type : s^f|s
+C :  OK , which was that o one of the things I would like to see happen is a paper that was tentatively called " Towards a formal cognitive semantics "
+
+dialogue type : s
+C :  which was addressed to these linguists uh who haven't been following this stuff at all .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  So , internally , we should just do whatever works ,
+
+dialogue type : s^df
+C :  cuz it 's hard enough .
+
+dialogue type : s
+C : 
+
+dialogue type : s^bd^df
+C :  I mean , it 's gonna be plenty hard for for people to understand it as it is ,
+
+dialogue type : s
+C :  but y y you don't want to make it worse .
+
+dialogue type : fh
+C :  So .
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : fg|s^ba
+C :  Yeah , yeah . No , that 's fine .
+
+dialogue type : s.%--
+C :  I just wanted t to
+
+dialogue type : s
+C :  I have to catch up with him , and I wanted t to get a feeling for that . OK .
+
+dialogue type : s^bk
+C :  OK . Good .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s^ba|s
+C :  Well , that 's good . That 's I I I think that should be the the core group
+
+dialogue type : fh
+C :  and um
+
+dialogue type : s
+C :  that 's , you know , I think very close to the maximum number of people working together that can get something done .
+
+dialogue type : s^na|s^aa
+C :  I I I I definitely get that impression . Yeah .
+
+dialogue type : s^ba
+C :  That 's great .
+
+dialogue type : s
+C :  Well , but Well . But th th then w then we have to come back to the bigger group .
+
+dialogue type : fg|s.%--
+C : 
+
+dialogue type : s^rt
+C :  because of this other big thing we haven't talked about is actually implementing this stuff ?
+
+dialogue type : s
+C :  So that I guess the three of us are gonna connect tomorrow about that .
+
+dialogue type : b
+C :  Right .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : fg|s.%--
+C :  Yeah , it has to in the sense that you 're gonna use them eventu
+
+dialogue type : s
+C :  it 's you know , it 's sort of a , um , generate and test kind of thing ,
+
+dialogue type : s
+C :  and if you over - generate then you 'll have to do more .
+
+dialogue type : s
+C : 
+
+dialogue type : s
+C :  I mean , I I d I don't think there 's any way that it could completely fail .
+
+dialogue type : s.%--
+C : 
+
+dialogue type : %--
+C : 
+
+dialogue type : s
+C :  The original bad idea of purely context - free grammars died because there were just vastly too many parses .
+
+dialogue type : s^e
+C :  You know , exponentially num num many parses .
+
+dialogue type : s.%-
+C : 
+
+dialogue type : s^m^na.%-
+C :  it would still genera
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : s^no
+C :  We don't know ,
+
+dialogue type : s^aa
+C :  but , yeah .
+
+dialogue type : s^na|s^aa
+C :  No question . Yeah .
+
+dialogue type : s
+C :  And I think it 's a it 's a perfectly fine place to start .
+
+dialogue type : s
+C :  You know , and say , let let 's see how far we can go this way .
+
+dialogue type : fh
+C : 
+
+dialogue type : s
+C :  I 'm I 'm in favor of that .
+
+dialogue type : s^df.%--
+C : 
+
+dialogue type : s^bk
+C :  Right .
+
+dialogue type : b
+C :  Yeah .
+
+dialogue type : qw^br^d
+C :  DDR , he asked ?
+

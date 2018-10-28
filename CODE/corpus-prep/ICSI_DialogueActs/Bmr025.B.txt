@@ -1,0 +1,651 @@
+dialogue type : fh
+B :  Um , so .
+
+dialogue type : s^t
+B :  If we can't , we can't . But uh we 're gonna try to make this an abbreviated meeting
+
+dialogue type : s^df
+B :  cuz the the next next occupants were pushing for it ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : fh
+B :  Um .
+
+dialogue type : fh
+B :  So .
+
+dialogue type : s^t
+B :  Agenda is according to this , is transcription status , DARPA demos XML tools , disks , backups , et cetera and
+
+dialogue type : s^bk^rt
+B :  OK .
+
+dialogue type : qy^rt^t
+B :  Should we just go in order ?
+
+dialogue type : s^e^rt
+B :  Transcription status ?
+
+dialogue type : s
+B :  Who 's that 's probably you .
+
+dialogue type : qy^bu^d^rt
+B :  Seven ?
+
+dialogue type : s^bk
+B :  Oh .
+
+dialogue type : fg|%-
+B :  OK , wh
+
+dialogue type : s^rt^t
+B :  DARPA demos ,
+
+dialogue type : s^e^rt
+B :  we had the submeeting the other day .
+
+dialogue type : qy^rt
+B :  And then does it play something back
+
+dialogue type : qr
+B :  or that 's something you 're having to program ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mmm
+
+dialogue type : s^ba^j
+B :  That was a really good look .
+
+dialogue type : s^ba.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s^ar
+B :  And then again , maybe not .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  Yeah , that soun that sounds reasonable .
+
+dialogue type : s
+B :  Yeah , it loo it my my recollection of it is it 's it 's a pretty reasonable uh demo sort of format .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : qo^cs
+B :  How about having it run under free BSD ?
+
+dialogue type : fg
+B : 
+
+dialogue type : s^co
+B :  But it would what would serve would serve both purposes , is if you contact him and ask him if he 's already done it .
+
+dialogue type : s
+B :  If he has then you learn ,
+
+dialogue type : s
+B :  if he hasn't then he 'll do it .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : qy^bu^d^rt
+B :  Tony Robinson ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Steve Renal - Steve Renals .
+
+dialogue type : s^ar
+B :  No .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s^bk
+B :  Oh , OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s.%--
+B :  The thing I was asking about with , um , free BSD is that it might be easier to
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mm - hmm .
+
+dialogue type : b
+B :  Right .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : s^tc
+B :  So there was that demo , which was one of the main ones ,
+
+dialogue type : s
+B :  then we talked about um some other stuff
+
+dialogue type : s
+B :  which would basically be um showing off the the Transcriber interface itself
+
+dialogue type : s^cs
+B :  and as you say , maybe we could even merge those in some sense ,
+
+dialogue type : fh
+B :  but but um ,
+
+dialogue type : fh|s
+B :  uh and part of that was showing off what the speech - non uh nonspeech stuff that Thilo has done s looks like .
+
+dialogue type : b^rt
+B :  Mm - hmm .
+
+dialogue type : s.%-
+B :  Well I think
+
+dialogue type : s^na
+B :  at at the very least we 're gonna want something illustrative with that
+
+dialogue type : s^df
+B :  cuz I 'm gonna want to talk about it
+
+dialogue type : s
+B :  and so i if there 's something that shows it graphically it 's much better than me just having a bullet point
+
+dialogue type : s^e
+B :  pointing at something I don't know much about ,
+
+dialogue type : fh
+B :  so .
+
+dialogue type : s
+B :  S so when we here were having this demo meeting , what we 're sort of coming up with is that we wanna have all these pieces together , to first order , by the end of the month
+
+dialogue type : s
+B :  and then that 'll give us a week or so .
+
+dialogue type : %-
+B :  Ju
+
+dialogue type : s
+B :  June . June . June .
+
+dialogue type : fg|s
+B :  Uh that 'll that 'll give us that 'll give us a week or so to uh to port things over to my laptop and make sure that works ,
+
+dialogue type : b
+B :  yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s
+B :  Yeah . Well , this is to an audience of researchers
+
+dialogue type : %--
+B :  so I mean , you know ,
+
+dialogue type : s
+B :  to let s the goal is to let them know what it is we 're doing .
+
+dialogue type : %-
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Good .
+
+dialogue type : s^rt^t^tc
+B :  Done with that .
+
+dialogue type : qy^d^rt^t^tc
+B :  XML tools ?
+
+dialogue type : qy^bu^d^rt
+B :  Seat ?
+
+dialogue type : s^bk|s
+B :  Oh ! Not not the quality or anything . No .
+
+dialogue type : s^bk
+B :  OK . I see .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : s^j
+B :  That 's more seat information than we wanted .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Mmm , yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bu
+B :  Some of these are missing .
+
+dialogue type : qy^rt
+B :  Aren't they ?
+
+dialogue type : s^t1.%-
+B : 
+
+dialogue type : s^bk
+B :  Ah , OK .
+
+dialogue type : s^j
+B :  Small shocks
+
+dialogue type : %-
+B : 
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : fg
+B : 
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s
+B :  if it 's stationary it 's not going to go through the increment it 's not gonna burden things in the incremental backups .
+
+dialogue type : s^aa|s
+B :  Yeah , so the monthly full will be a bear
+
+dialogue type : fh
+B : 
+
+dialogue type : qy^bh
+B :  Really ?
+
+dialogue type : s^bu
+B :  So I guess the idea is that we would be reserving the non - backed - up space for things that took less than twenty - four hours to recreate or something like that ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  OK .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^bk
+B :  So we can get more disk .
+
+dialogue type : fh
+B :  Yeah . So .
+
+dialogue type : s^bk
+B :  OK .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : b
+B :  Hmm !
+
+dialogue type : s^ba
+B :  Good . CrossPads ?
+
+dialogue type : qo^d^rt^t^tc
+B :  CrossPads ?
+
+dialogue type : s^bu
+B :  So we 've never used them .
+
+dialogue type : qy^bu^d^rt
+B :  Once ?
+
+dialogue type : %-
+B :  i
+
+dialogue type : fg
+B : 
+
+dialogue type : s
+B :  So it 's it 's um it 's a regular pad , just a regular pad of paper but there 's this pen which indicates position .
+
+dialogue type : s
+B :  And so you have time and position stuff stored
+
+dialogue type : s
+B :  so that you can you have a record of whatever it is you 've written .
+
+dialogue type : s
+B :  And one of the reasons that it was brought up originally was because uh we were interested in in higher - level things ,
+
+dialogue type : s
+B :  not just the , you know , microphone stuff but also summarization and so forth
+
+dialogue type : s:qw
+B :  and the question is if you were going to go to some gold standard of what wa what was it that happened in the meeting you know , where would it come from ?
+
+dialogue type : fh|s
+B :  And um I think that was one of the things ,
+
+dialogue type : qy^d^g^rt
+B :  right ?
+
+dialogue type : s^ba
+B :  And so the it seemed like a neat idea .
+
+dialogue type : s^rt
+B :  We 'll have a you know , have a scribe ,
+
+dialogue type : s
+B :  have somebody uh take good notes and then that 's part of the record of the meeting .
+
+dialogue type : s.%--
+B : 
+
+dialogue type : s^j
+B :  probably chose the wrong scribe
+
+dialogue type : s.%--
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^m
+B :  Summary .
+
+dialogue type : s^cs
+B :  I guess so , you know , what what makes one think i is maybe we should actually schedule some periods where people go over something later
+
+dialogue type : s
+B :  and and and put some kind of summary or something
+
+dialogue type : fh|s^cs
+B :  uh you know , some there 'd be some scribe who would actually listen , w who 'd agreed to actually listen to the whole thing ,
+
+dialogue type : s
+B :  not transcribe it , but just sort of write down things that struck them as important .
+
+dialogue type : s
+B :  But then you don't you don't have the time reference uh that you 'd have if you had it live .
+
+dialogue type : s^am
+B :  Yeah .
+
+dialogue type : fg|s
+B :  Well one thing that we might try um is on some set of meetings , some collection of meetings , maybe EDU is the right one or maybe something else ,
+
+dialogue type : s^cs
+B :  we we get somebody to buy into the idea of doing this as part of the task .
+
+dialogue type : %-
+B :  I mean ,
+
+dialogue type : s
+B :  uh part of the reason I think part of the reason that Adam was so interested in uh the SpeechCorder sort of f idea from the beginning is he said from the beginning he hated taking notes
+
+dialogue type : fh
+B : 
+
+dialogue type : s^e
+B :  and so forth
+
+dialogue type : fh|s
+B :  so and and Jane is more into it
+
+dialogue type : fh
+B :  but eh uh
+
+dialogue type : s^no
+B :  you know I don't know if you wanna really do do this all the time
+
+dialogue type : s^cs
+B :  so I think the thing is to to get someone to actually buy into it
+
+dialogue type : s^cs^e
+B :  and have at least some series of meetings where we do it .
+
+dialogue type : fh
+B : 
+
+dialogue type : s
+B :  and if so , it 's probably worth having one .
+
+dialogue type : s.%--
+B :  The p the the problem with the the more extended view ,
+
+dialogue type : s^e.%--
+B :  all these other you know with uh quibbling about particular applications of it
+
+dialogue type : s^e
+B :  is that it looks like it 's hard to get people to um uh routinely use it ,
+
+dialogue type : s
+B :  I mean it just hasn't happened anyway .
+
+dialogue type : s^cs.%-
+B : 
+
+dialogue type : s^na
+B :  Yeah , I do like the idea of having a couple buttons
+
+dialogue type : s^e:s^fe
+B :  where like one one button was " uh - oh "
+
+dialogue type : s^e:s^ba
+B :  and then another button was " that 's great "
+
+dialogue type : s.%-
+B :  and another button " that 's f "
+
+dialogue type : b
+B :  Right .
+
+dialogue type : s^aa|s^na
+B :  No , no , but it 's just it 's just storing the pixel informa position information ,
+
+dialogue type : s
+B :  it 's all digital .
+
+dialogue type : s^aa
+B :  Right .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah . Yeah .
+
+dialogue type : s.%--
+B :  So we have no
+
+dialogue type : s^co
+B :  but uh by I I would suggest you return one .
+
+dialogue type : s^df
+B :  Because we we you know , we we haven't used it at all .
+
+dialogue type : s
+B :  We have some aspirations of using them
+
+dialogue type : fh
+B : 
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^cs^j
+B :  Maybe Jeremy could sit in some meetings and press a button when there when when somebody laughed .
+
+dialogue type : b
+B :  Yeah , yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : b
+B :  Yeah .
+
+dialogue type : s^fe
+B :  Well dear .
+
+dialogue type : b
+B :  Hmm .
+
+dialogue type : fg
+B :  OK .
+
+dialogue type : s
+B :  You know what he means
+
+dialogue type : qh^rt
+B :  but isn't that funny sounding ?
+
+dialogue type : s:s
+B :  " We ordered more wireless . "
+
+dialogue type : s
+B :  It 's like wires are the things
+
+dialogue type : s
+B :  so you 're wiring you 're you 're you we 're we ordered more absence of the thing .
+
+dialogue type : fg
+B :  Anyway .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : s
+B :  I mean there 's there 's all this stuff going on uh between uh Andreas and and and Dave and Chuck and others with various kinds of runs
+
+dialogue type : fh|s^e
+B :  uh um recognition runs ,
+
+dialogue type : s
+B :  trying to figure things out about the features
+
+dialogue type : s
+B :  but it 's it 's all sort of in process ,
+
+dialogue type : s
+B :  so there 's not much to say
+
+dialogue type : s^e
+B :  right now .
+
+dialogue type : fh|qh^cs^t
+B :  Uh why don't we start with our our esteemed guest .
+
+dialogue type : s.%-
+B : 
+
+dialogue type : s^na
+B :  We we could .
+
+dialogue type : s^aa
+B :  Yeah .
+
+dialogue type : fg|s^co
+B :  Well OK , so let 's do one of those simultaneous ones .
+
+dialogue type : s^ba
+B :  That sounds good .
+
+dialogue type : qy^d^rt
+B :  Everybody ready ?
+
+dialogue type : s
+B :  A one .
+
+dialogue type : fg
+B :  OK ,
+
+dialogue type : s
+B :  a one and a two and a three .
+
+dialogue type : z
+B :  OK , babble , take five .
+

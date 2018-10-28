@@ -1,0 +1,132 @@
+dialogue type : z
+A :  Hello ?
+
+dialogue type : z
+A :  It 's your right to remain silent .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : qy^rt
+A :  Are they adjacent ,
+
+dialogue type : qrr.%-
+A :  or are they s
+
+dialogue type : s^bk
+A :  OK .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : s^fe
+A :  Hey !
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^fe
+A :  Wow .
+
+dialogue type : b
+A :  Hmm .
+
+dialogue type : qy^d^rt
+A :  You 're multiplying the standard deviation ?
+
+dialogue type : %-
+A :  So it 's
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s
+A :  The spread ,
+
+dialogue type : qy^d^g
+A :  right .
+
+dialogue type : s
+A :  It 's the same same mean ,
+
+dialogue type : qy^d^g^rt
+A :  right ?
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : s^2
+A :  Saying .
+
+dialogue type : b
+A :  Mm - hmm .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : %-
+A : 
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s
+A :  Yeah , the sharper the variance , the more more important to get that one right .
+
+dialogue type : qy^rt
+A :  Didn't you say you got these uh HTK 's set up on the new Linux boxes ?
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Right .
+
+dialogue type : s^bk
+A :  Oh yeah .
+
+dialogue type : s^aa
+A :  That 's right .
+
+dialogue type : s^aa
+A :  Pretend , yeah .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : s^aa^j
+A :  Yeah .
+
+dialogue type : s^aa
+A :  Yeah .
+
+dialogue type : b
+A :  Oh .
+
+dialogue type : s^aa
+A :  Ye - Yeah .
+
+dialogue type : s
+A :  I mean , I remember when we were trying to put together all the ICSI software for the submission .
+
+dialogue type : b
+A :  Yeah .
+
+dialogue type : b
+A :  Hmm .
+

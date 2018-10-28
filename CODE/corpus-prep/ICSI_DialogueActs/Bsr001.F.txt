@@ -1,0 +1,1758 @@
+dialogue type : z
+F :  Yeah , that 's right !
+
+dialogue type : z
+F :  Thanks .
+
+dialogue type : z
+F :  So .
+
+dialogue type : z
+F :  There 's a switch on top .
+
+dialogue type : z
+F :  So .
+
+dialogue type : z
+F :  " On - off " .
+
+dialogue type : z
+F :  The the wireless ones are actually labeled .
+
+dialogue type : z
+F :  They have a little piece of tape .
+
+dialogue type : z
+F :  That 's r exactly the problem .
+
+dialogue type : z
+F :  Subtract one from the mike number to get the channel number .
+
+dialogue type : z
+F :  Or maybe add one .
+
+dialogue type : z
+F :  Of course .
+
+dialogue type : z
+F :  So I guess I am channel eight .
+
+dialogue type : z
+F :  You look ni You look nine .
+
+dialogue type : z
+F :  Funny , you don't look a day over seven .
+
+dialogue type : z
+F :  Yeah ,
+
+dialogue type : z
+F :  so it 's r it 's remarkable how quickly people forget .
+
+dialogue type : z
+F :  So far , e
+
+dialogue type : z
+F :  You h you must have much better ear .
+
+dialogue type : z
+F :  And so far every meeting I 've recorded someone has at one point or another said , " Oh , I probably shouldn't have said that . "
+
+dialogue type : z
+F : 
+
+dialogue type : z
+F :  Well , I I bet they 're recorded
+
+dialogue type : z
+F :  quite loudly .
+
+dialogue type : z
+F : 
+
+dialogue type : s^ba
+F :  That 's a nice user interface , Dan .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : qw
+F :  what does " solo " mean ?
+
+dialogue type : s^bk
+F :  Ah !
+
+dialogue type : s^bk
+F :  Oh ,
+
+dialogue type : qy^d
+F :  but it doesn't actually do anything else ?
+
+dialogue type : %
+F :  Oh , yeah , that 's right .
+
+dialogue type : s^bk
+F :  Yeah ,
+
+dialogue type : s
+F :  I think a lot o a lot of us ended up wearing it around your neck and then facing up .
+
+dialogue type : fh|s^df
+F :  I kn and , uh , just because there doesn't seem to be a good way to mount it .
+
+dialogue type : qy^bu^d^rt
+F :  This this thing ?
+
+dialogue type : qrr
+F :  Or or just that one ?
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : fg
+F : 
+
+dialogue type : %-
+F : 
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^bk
+F :  Oh , yeah .
+
+dialogue type : s^ba
+F :  But this is very comfortable .
+
+dialogue type : s
+F :  I mean , I I could wear this without any difficulty .
+
+dialogue type : %
+F : 
+
+dialogue type : s
+F :  We c we 'd we 'd have to buy new ones .
+
+dialogue type : s.%-
+F :  The the other wa
+
+dialogue type : s^cs
+F :  the other way I had it , which might work , is you put one over an ear
+
+dialogue type : s
+F :  and then you can adjust the other one .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : qy^bu^d^rt
+F :  That doesn't work for you ?
+
+dialogue type : qy^d^rt
+F :  So so you see how Jane 's wearing it ?
+
+dialogue type : s
+F :  That seems to work OK too .
+
+dialogue type : s
+F :  And you just have to bring it up .
+
+dialogue type : s^ng
+F :  Well , except you can bring it quite a bit closer to your mouth .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : fg
+F :  So .
+
+dialogue type : s^bk|s^cs
+F :  Yeah , we maybe we should look into if we can buy a replacement .
+
+dialogue type : s^df
+F :  If they 're eighty bucks , that might be worth doing cuz they 're very uncomfortable .
+
+dialogue type : fg|s
+F :  Well , I mean , what you 'd rather do is nothing at all ,
+
+dialogue type : s^e
+F :  of course ,
+
+dialogue type : s^df
+F :  but to get to get a good quality I mean , if if you were listening to it downstairs , that one 's quite a bit lower quality .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^co
+F :  Well well try this one on .
+
+dialogue type : z
+F :  I
+
+dialogue type : s
+F :  Well , I guess my feeling is that this is for collecting a corpus not for an actual end - user application .
+
+dialogue type : s^ba
+F :  And so I think a little bit of intrusion is not ridiculous .
+
+dialogue type : s^aa
+F :  Yeah ,
+
+dialogue type : s^aa
+F :  I agree .
+
+dialogue type : s
+F :  Training s Training speech recognition systems .
+
+dialogue type : s
+F :  We wanna do both .
+
+dialogue type : fg|s
+F :  So so the the point is that if you if we try , from the get go , to do it off the PZM , we won't get anything .
+
+dialogue type : s^df
+F :  You won't be able to align .
+
+dialogue type : s^df
+F :  You won't be able to segment .
+
+dialogue type : s^df
+F :  You won't be able to do anything .
+
+dialogue type : s^aa
+F :  Right !
+
+dialogue type : h|s
+F :  Well , I mean , we haven't done the the detail experiment
+
+dialogue type : s
+F :  but just from listening to it , it 's pretty bad ,
+
+dialogue type : s
+F :  whereas these are m are very good .
+
+dialogue type : s^df
+F :  I mean , that 's why That 's why if you if you use DragonDictate or or ViaVoice , or any of those others to do dictation you need to use these .
+
+dialogue type : s
+F :  There 's just no other way around it .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  I find this one is no problem at all .
+
+dialogue type : s
+F :  The only thing is a little bit of audio a a little bit of audio degradation in one ear ,
+
+dialogue type : s
+F :  and I get a little bit of peripheral vision ,
+
+dialogue type : s^ba
+F :  but other than that , it 's not bad at all .
+
+dialogue type : s^ba
+F :  Those , on the other hand , are very uncomfortable .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^aa
+F :  That 's right .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^j
+F :  you know , maybe the problem is we got the kid 's version .
+
+dialogue type : s
+F :  It 's wired .
+
+dialogue type : s
+F :  Whereas I used speech recognition for about four years using one of these ,
+
+dialogue type : s
+F :  so I 'm used to this .
+
+dialogue type : s^nd
+F :  I don't use it anymore .
+
+dialogue type : s^df
+F :  Uh , my hands got better
+
+dialogue type : s^df
+F :  so I stopped using it .
+
+dialogue type : fh
+F :  But , uh .
+
+dialogue type : s
+F :  So , for about four years I used DragonDictate and NaturallySpeaking
+
+dialogue type : s^e
+F :  to do all my work .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : s
+F :  It was really a pain .
+
+dialogue type : s^aa
+F :  Yeah ,
+
+dialogue type : s^df
+F :  but I didn't have a choice .
+
+dialogue type : s^df
+F :  I mean , I couldn't type .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : %
+F :  uh .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  In fact , when I first came back to grad school that was a project I wanted to work on ,
+
+dialogue type : s^e
+F :  " voice environments for programmers " ,
+
+dialogue type : s
+F :  but we couldn't get any funding for it and my hands got better .
+
+dialogue type : fh
+F :  So
+
+dialogue type : s
+F :  that 's how I ended up working on this project instead .
+
+dialogue type : fg
+F :  Anyway .
+
+dialogue type : qw^rt
+F :  So so what are you guys doing ?
+
+dialogue type : qw
+F :  What 's your project ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^2
+F :  Worse acoustics .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mmm .
+
+dialogue type : s^bk
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Yeah .
+
+dialogue type : fg
+F :  So .
+
+dialogue type : fg
+F :  Yeah .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^ba
+F :  The PDA one is very , very ambitious .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  Uh , not only does it depend on IRAM taping out and working as specified , it also depends on writing vectorized speech recognition algorithms
+
+dialogue type : s^e
+F :  which is non - trivial .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^bk|%--
+F :  Right , I mean ,
+
+dialogue type : fg|s.%--
+F : 
+
+dialogue type : s
+F :  our back off policy on that if if there 's problems with IRAM is it 'll be a wireless link ,
+
+dialogue type : qy^d^g^rt
+F :  right ?
+
+dialogue type : s^df
+F :  You 'll dump the the dump the audio wirelessly to a network somewhere
+
+dialogue type : s^df
+F :  and you 'll do the recognition .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : h|s
+F :  Well , we we we 've had a lot of discussions about it
+
+dialogue type : s.%--
+F :  and I think
+
+dialogue type : s
+F :  maybe I think t to some extent it comes down to a religious issue .
+
+dialogue type : s
+F :  My religion is personal computers are good and terminal mainframes are bad .
+
+dialogue type : s
+F :  And so if you can get away with it , I don't want to have a terminal in my hand and a mainframe somewhere else .
+
+dialogue type : fh|s^df
+F :  Um , the too many things to cont can go wrong and you lack control .
+
+dialogue type : s^df
+F :  I think the PC revolution has shown how good it is if you can have the power yourself .
+
+dialogue type : s
+F :  And so the IRAM project provided us a method of having a very powerful thing in your hand .
+
+dialogue type : s
+F :  And so we wanna see what we can do with it
+
+dialogue type : s
+F :  but we 'd also don't want the project to actually completely depend on it .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s
+F :  the project will go forward regardless of whether IRAM works or not .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : fg
+F :  So w
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg
+F :  So a
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Right ,
+
+dialogue type : s
+F :  so the so for us the Meeting Recorder project has a very similar uh , approach .
+
+dialogue type : s
+F :  Me personally , for my P H D thesis , I 'm sorta doing the other way and seeing how much speech recognition can I do on this little unit .
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : s^aa
+F :  That 's right .
+
+dialogue type : fg
+F : 
+
+dialogue type : s.%--
+F :  As I said , the Meeting Recorder project ,
+
+dialogue type : s
+F :  so we have people at UW , people here working on robust algorithms that will be running on work stations .
+
+dialogue type : s
+F :  They won't be running on IRAM .
+
+dialogue type : s
+F :  And then what I 'm trying to do is see how much of it I can put on IRAM .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^aa
+F :  That 's right ,
+
+dialogue type : s^na
+F :  we don't even know what to do with it .
+
+dialogue type : s.%-
+F :  We don't need to n
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : s^bk|s
+F :  Yeah , we don't even know what to do with their cycles .
+
+dialogue type : %
+F :  We w
+
+dialogue type : fg
+F : 
+
+dialogue type : s
+F :  As an example , we had a visitor who was working on speaker ID , acoustic change detection .
+
+dialogue type : s
+F :  And he has a very good system for that
+
+dialogue type : s
+F :  and and he wants to use this corpus .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk|s^ba.%-
+F : 
+
+dialogue type : s^ba^r
+F :  What 's nice about getting this corpus is , i with the people wired you have a excellent baseline .
+
+dialogue type : qy^d^g^rt
+F :  Right ?
+
+dialogue type : s^df
+F :  You have a very easy problem and you can get the right answer , to ground truth very easily
+
+dialogue type : s^df
+F :  and then you can degrade it by using the P Z
+
+dialogue type : s^df
+F :  you can degrade it further by using those things .
+
+dialogue type : s^df
+F :  And and really see what you can do with a real system .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^aa
+F :  That 's right .
+
+dialogue type : s^aa^r
+F :  That 's right .
+
+dialogue type : qy^bh^rt
+F :  Oh , really ?
+
+dialogue type : qy^d^rt
+F :  They 're doing an unknown number ?
+
+dialogue type : s^ba
+F :  That 's good .
+
+dialogue type : s
+F :  I mean , just mixing it wouldn't work because the channel characteristics are too different .
+
+dialogue type : fh|s^tc
+F :  So , uh , what we what we were working on here was parts of Broadcast News .
+
+dialogue type : s
+F :  And so that that 's a slightly strange task because they tend to be long segments .
+
+dialogue type : s
+F :  But they were they were parts that were interviews that he worked on .
+
+dialogue type : fh
+F :  And , uh .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa|s^na
+F :  Yeah , he had he got very good results .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^bk^r
+F :  Right .
+
+dialogue type : fg|s
+F :  Yeah , so I I tried his on his system on the Meeting Recorder stuff ,
+
+dialogue type : fh
+F :  um ,
+
+dialogue type : s^df
+F :  but of course we don't have any trained neural nets
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  So so his system was based on our hybrid neural net system that we use for speech recognition .
+
+dialogue type : fh|s
+F :  And so , uh , I was using the Broadcast News nets on this data .
+
+dialogue type : s^df
+F :  So of course it didn't do didn't do t tremendously well .
+
+dialogue type : s^df
+F :  And then the other problem also was that it doesn't handle overlap very well ,
+
+dialogue type : s^e
+F :  his algorithm .
+
+dialogue type : b
+F :  Hmm ?
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s^na
+F :  That 's right , with all the i interrupts .
+
+dialogue type : s^aa
+F :  Yes .
+
+dialogue type : s^2
+F :  Mixing ,
+
+dialogue type : s^bk
+F :  yeah .
+
+dialogue type : s
+F :  Like
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^nd
+F :  Oh , I 'm sure they do .
+
+dialogue type : s^df^nd
+F :  They I 'm sure they have an audio engineer in the back .
+
+dialogue type : s^ng
+F :  Well , but that that 's different than an audio engineer fiddling with the mixing parameters .
+
+dialogue type : qy^d^g
+F :  Right ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s
+F :  High involvement .
+
+dialogue type : s.%-
+F :  That 's that 's a
+
+dialogue type : s
+F :  good way of saying it .
+
+dialogue type : fg|qw^rt
+F :  So what do we do ?
+
+dialogue type : s
+F :  It seems like there 's a lot of overlap between our projects ,
+
+dialogue type : s
+F :  so it would be nice to work together .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : qy^rt
+F :  So is your intention to start collecting some meeting data ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^2
+F :  More data is better .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^cs
+F :  So what would be nice is if we could , uh , converge on on formats and conventions , and so on ,
+
+dialogue type : s^e^m^na
+F :  and software .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^na
+F :  I , uh uh It shouldn't be done .
+
+dialogue type : s^aa
+F :  Yes .
+
+dialogue type : s
+F :  We 're talking about that right now .
+
+dialogue type : s^no
+F :  I 'm not sure how much I should say about it .
+
+dialogue type : s.%--
+F :  So that the ,
+
+dialogue type : fh
+F : 
+
+dialogue type : s
+F :  there 's some possibility that we 're gonna get a third c party company to do the transcription for us in exchange for the corpus .
+
+dialogue type : s^aa
+F :  Right ,
+
+dialogue type : %
+F : 
+
+dialogue type : s^na
+F :  We have a little bit of DARPA .
+
+dialogue type : s^e
+F :  Uh , under the communicator project .
+
+dialogue type : s
+F :  So so that 's part of it .
+
+dialogue type : s
+F :  And then , uh , part of it 's on the IRAM group .
+
+dialogue type : s
+F :  IRAM group is paying for part of it .
+
+dialogue type : s
+F :  And then part of it 's just ICSI general funds , is paying for it as well .
+
+dialogue type : s
+F : 
+
+dialogue type : s^df
+F :  but they don't expect anything in return .
+
+dialogue type : s^df
+F :  They 're just being very nice and good neighbors
+
+dialogue type : %--
+F : 
+
+dialogue type : fh|s^df
+F :  and so they they basically wanted stuff anyway .
+
+dialogue type : s^df
+F :  And then they just sort of allowed us to direct the audio portion of it to what we needed .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^j:s
+F :  And to our listening audience .
+
+dialogue type : s^2
+F :  Feedback .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : fg|s^ng
+F :  Well i w when I spoke with him he he really just said it was a money issue .
+
+dialogue type : s^df
+F :  That it 's certainly not any sort of intellectual property issue where we 're perfectly willing to give people those boxes .
+
+dialogue type : s^e
+F :  The boxes are cheap .
+
+dialogue type : fh|qy
+F :  Um , but , you know , can they afford to get a six channel Sony wireless
+
+dialogue type : qy
+F :  and can they afford the P Z
+
+dialogue type : s
+F :  and that sort of stuff .
+
+dialogue type : fg
+F : 
+
+dialogue type : b
+F :  Oh .
+
+dialogue type : %-
+F : 
+
+dialogue type : s
+F :  this is the same same company that may be doing the transcripts for us ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^r.%--
+F :  may be giving us ,
+
+dialogue type : b
+F :  uh - huh .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^cs
+F :  And it would also it would be really nice to be able to do it in other rooms ,
+
+dialogue type : s^df
+F :  cuz otherwise we 're gonna learn a lot about this air conditioning .
+
+dialogue type : b
+F :  Yes .
+
+dialogue type : s^2
+F :  That 'd be great .
+
+dialogue type : s^aa
+F :  Yeah ,
+
+dialogue type : s^aa
+F :  I agree .
+
+dialogue type : qy^rt
+F :  So so are you gonna m uh , i is there gonna be some sort of mark for that ?
+
+dialogue type : qy.%--:s^co.%--
+F :  I mean , are they gonna say , " Computer , bring up a web page on "
+
+dialogue type : qrr.%--
+F :  or ?
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : s^bk
+F :  Oh , I see .
+
+dialogue type : s^df:s
+F :  I 'm just thinking , from a discourse point of view it 'd be very interesting to somehow mark " I 'm talking to the computer " .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s:s^co
+F :  " Computer , show me a web page on X , " return .
+
+dialogue type : qy^j^rt
+F :  Are you talking to me ?
+
+dialogue type : qy^j^r^rt
+F :  Are you talking to me ?
+
+dialogue type : s^cs
+F :  XML ,
+
+dialogue type : s^df
+F :  that solves everything .
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : s^aa
+F :  That 's right .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s
+F :  Someone will make some assumption that 's different than someone else .
+
+dialogue type : s
+F :  And then we suddenly won't be able to interoperate .
+
+dialogue type : s^aa
+F :  Yep .
+
+dialogue type : s^cs.%--
+F : 
+
+dialogue type : s^df
+F :  I I 'm not sure what wh I mean what 's a good solution than that other than trying to keep in touch with each other .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Uh - huh .
+
+dialogue type : s^aa
+F :  Yeah ,
+
+dialogue type : s^df^na
+F :  I mean , meetings like this are good because we can actually record them .
+
+dialogue type : s^aa
+F :  Yep ,
+
+dialogue type : s^aa
+F :  absolutely .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : fg
+F : 
+
+dialogue type : s^bu
+F :  When you 're talking about your artificial meetings , i they are gonna be goal directed , though .
+
+dialogue type : s:s
+F :  So they 're gonna s say , you 're you 're having a meeting to do this .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : s
+F :  So that will be different .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : fg|%--
+F : 
+
+dialogue type : s
+F :  You 're double miking everyone ,
+
+dialogue type : s^bu^rt
+F :  so that 's a close talking and a lapel , and then two environmental mikes ,
+
+dialogue type : qy^g
+F :  is that right ?
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : fg|%-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^bk|%-
+F : 
+
+dialogue type : s.%-
+F :  That is , uh .
+
+dialogue type : s^aa
+F :  Yes ,
+
+dialogue type : s^cs
+F :  or drinking .
+
+dialogue type : s^df^j
+F :  Y getting getting coffee on these is definitely a bad thing .
+
+dialogue type : s^t1
+F :  Wizard of Oz .
+
+dialogue type : s^bu
+F :  So a real computer but a w uh , someone driving it .
+
+dialogue type : fg
+F :  Yeah ,
+
+dialogue type : s
+F :  I I think that 's close enough to what we 're interested in that it would t it 'd be useful for training uh , the acoustic models , without any question .
+
+dialogue type : s^aa
+F :  Oh , absolutely .
+
+dialogue type : s^bk|s^df
+F :  Yeah , cuz if you don't the the accuracy 's gonna be horrendously bad .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s
+F :  Well , we 'll definitely need to do both .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s.%-
+F :  It it really i
+
+dialogue type : s
+F :  It will really depend on if we have someone who really wants to do that .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : %-
+F :  I
+
+dialogue type : %--
+F : 
+
+dialogue type : s
+F :  just as an example , I I 've done some very simple digits recognitions
+
+dialogue type : s^df
+F :  where , uh , I said if I had known we were having this meeting I would have done this before ,
+
+dialogue type : fh
+F :  uh .
+
+dialogue type : s^e
+F :  Having people read digit strings
+
+dialogue type : s^df
+F :  cuz digits are much easier .
+
+dialogue type : fh
+F :  Um .
+
+dialogue type : s.%-
+F :  And just combining just doing multis
+
+dialogue type : s^bk
+F :  Yeah ,
+
+dialogue type : s^bk
+F :  of course .
+
+dialogue type : s^bk
+F :  Yeah .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  just doing multi - stream on the different mikes helped enormously .
+
+dialogue type : s
+F :  And I was a little surprised .
+
+dialogue type : s^bk|%-
+F : 
+
+dialogue type : qw^bk^rt
+F :  Wh - why ?
+
+dialogue type : s^no
+F :  I have no idea .
+
+dialogue type : s^df
+F :  Because they 're a little different .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : s
+F :  And that actually helped .
+
+dialogue type : s^e
+F :  That gave several percent improvement .
+
+dialogue type : s^e
+F :  Absolute .
+
+dialogue type : fh
+F :  So that , uh ,
+
+dialogue type : s^ba
+F :  I think just just having stereo will help
+
+dialogue type : s^df^rt
+F :  cuz they 're a little different .
+
+dialogue type : s^df
+F :  You get a little slightly different estimators
+
+dialogue type : fh
+F :  and , uh ,
+
+dialogue type : s
+F :  uh , you combine them together , and you do a little better .
+
+dialogue type : s^aa
+F :  Right ,
+
+dialogue type : s.%-
+F : 
+
+dialogue type : %
+F :  M
+
+dialogue type : s
+F :  So our initial plan for ICSI was to do forty hours .
+
+dialogue type : s
+F :  And then U W is talking about doing an additional sixty to a hundred hours if they have the money .
+
+dialogue type : s^e
+F :  If they can actually do it .
+
+dialogue type : s^df
+F :  I mean , that 's what they had said before
+
+dialogue type : s^df
+F :  but I guess that was more ambitious .
+
+dialogue type : s^bk
+F :  Uh - huh .
+
+dialogue type : s^bk
+F :  Yeah ,
+
+dialogue type : s
+F :  recording it 's easy .
+
+dialogue type : s
+F :  It 's transcription that 's a pain .
+
+dialogue type : s^bk|s^co
+F :  OK , but you have to put on a You have to put on a mike .
+
+dialogue type : s^bk
+F :  Oh .
+
+dialogue type : s
+F :  We 're out of mikes .
+
+dialogue type : s^co
+F :  Don't don't switch mikes .
+
+dialogue type : s^co^r
+F :  Don't switch mikes .
+
+dialogue type : s^df
+F :  That 's way too confusing .
+
+dialogue type : s^bk
+F :  Mm - hmm .
+
+dialogue type : s^na
+F :  But if you had the data and we had a a company .
+
+dialogue type : s^df
+F :  I didn't know whether I should name the company that may be providing us transcription or not .
+
+dialogue type : s
+F :  IBM .
+
+dialogue type : s
+F :  So we 've been we 've been trying we 've been trying to work with them for a while on these projects
+
+dialogue type : s.%--
+F : 
+
+dialogue type : s
+F :  it 's hard for them to give us money
+
+dialogue type : s
+F :  but they they seem to be willing to give us time .
+
+dialogue type : s
+F :  And so one of the po potentials is for them to do transcription in exchange for access to the corpus .
+
+dialogue type : s^2
+F :  It would be great .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s^aa
+F :  Yes ,
+
+dialogue type : s^aa
+F :  absolutely .
+
+dialogue type : s^ba
+F :  I think that would be excellent .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa.%
+F :  That 's right .
+
+dialogue type : s
+F :  Morgan says thumbs up .
+
+dialogue type : fg|s.%-
+F : 
+
+dialogue type : fg
+F :  So al
+
+dialogue type : b
+F :  Right .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg|qw^rt
+F :  So so how are you gonna get dra ground truth on that ?
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^bk
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg|s^tc
+F :  But anyway , what I was gonna say is that although we 're not gonna have speech directed to a computer , my expectation is that the acoustic models will be very similar .
+
+dialogue type : s
+F :  The language models probably won't be .
+
+dialogue type : s^df^nd
+F :  Yeah , I if it 's Wizard of Oz I think it will be .
+
+dialogue type : s.%--
+F : 
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : s
+F :  The language model will be certainly be different
+
+dialogue type : fh
+F : 
+
+dialogue type : s^bk
+F :  Mm - hmm .
+
+dialogue type : qy^d^rt
+F :  And you 're gonna hand c hand - code that ?
+
+dialogue type : s^bk|%--
+F :  Oh , I I uh
+
+dialogue type : s^bk
+F :  sure , sure , sure , sure .
+
+dialogue type : s^bk
+F :  I see .
+
+dialogue type : s^bk|s
+F :  Right , if you wanna interpret it you uh need to do do that anyway .
+
+dialogue type : qw
+F :  So what 's your time frame look like for doing meetings , actually starting to record some ?
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : fg|s^df
+F :  Well the the reason I 'm asking is that it 's certainly better to get in early with standards , and data formats , and conventions .
+
+dialogue type : fg
+F :  Um .
+
+dialogue type : s^bk
+F :  Well , yeah ,
+
+dialogue type : s^ba
+F :  it 's a it 's ex excellent , excellent .
+
+dialogue type : s^aa
+F :  Yeah ,
+
+dialogue type : s^aa
+F :  that 's right .
+
+dialogue type : s
+F :  I mean , just just just agreeing on a sampling rate and a number of bits , and , uh , header formats and all that .
+
+dialogue type : s^2
+F :  Sixteen bit , sixteen kilohertz ?
+
+dialogue type : s^ba
+F :  Eh , good good .
+
+dialogue type : qrr^d
+F :  Big endian , little endian ?
+
+dialogue type : s|qy^d^g^rt
+F :  Well , but that 's that was coincidence , right ?
+
+dialogue type : s.%--
+F : 
+
+dialogue type : fh|s^ar
+F :  Well , no
+
+dialogue type : s^nd
+F :  that that wouldn't be true .
+
+dialogue type : s
+F :  If you 're not gonna transcribe it yourself , then you 're not gonna care too much about our transcription conventions .
+
+dialogue type : s^2
+F :  Right of it .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : s^aa
+F :  Right .
+
+dialogue type : fg
+F : 
+
+dialogue type : fg|s.%-
+F : 
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s^aa^j
+F :  Yeah .
+
+dialogue type : s^cs
+F :  So if you and Jane keep keep in touch about transcription conventions , that would be very helpful .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s^aa
+F :  That 's right .
+
+dialogue type : s^bk
+F :  Right .
+
+dialogue type : s^cs
+F :  It 's much more worth while to do if someone else is gonna use it .
+
+dialogue type : s
+F :  Although again if this now named company is the one who 's gonna do the transcription , I sus I suspect they have in house tools that they 'll end up using .
+
+dialogue type : s^ba
+F :  That 's alright .
+
+dialogue type : s
+F :  He can talk anyway .
+
+dialogue type : s
+F :  I was .
+
+dialogue type : s
+F :  LDC is what we were thinking too .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s
+F :  Robert 's rules .
+
+dialogue type : s.%-
+F : 
+
+dialogue type : b
+F :  Mm - hmm .
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : s
+F :  There are certainly f formal meeting settings where that 's what 's happens ,
+
+dialogue type : s^e
+F :  y that you know , Robert 's rules of order and all that .
+
+dialogue type : fh|s
+F :  Uh , so that 's not something we had thought about before
+
+dialogue type : s
+F :  but I think it it it certainly is another type of meeting that could be done .
+
+dialogue type : s^ar
+F :  Uh , no ,
+
+dialogue type : s^nd
+F :  I didn't .
+
+dialogue type : s^df
+F :  I didn't know we were gonna be recording this meeting ,
+
+dialogue type : s^nd
+F :  so I didn't .
+
+dialogue type : s^aa
+F :  Yes ,
+
+dialogue type : s^na
+F :  in the other meetings we have .
+
+dialogue type : s^cs
+F :  So that 's another thing we should talk about , is making sure that we 're doing it in the same way .
+
+dialogue type : %-
+F : 
+
+dialogue type : s^bk|s
+F :  Yeah , if I had known and here we have all these new speakers , I could have gotten lots of digits in
+
+dialogue type : fh
+F : 
+
+dialogue type : s^ar|s^df^nd
+F :  No , no , I have people read them .
+
+dialogue type : s:s^j
+F :  Seven .
+
+dialogue type : s^ba
+F :  Oh , cool .
+
+dialogue type : s^na
+F :  Nice falling ,
+
+dialogue type : s^aa
+F :  yeah .
+
+dialogue type : fh
+F :  So .
+
+dialogue type : s^bk
+F :  Oh ,
+
+dialogue type : s
+F :  I hadn't thought about that .
+
+dialogue type : s
+F :  I hadn't even thought about throwing out the last couple .
+
+dialogue type : s^cs^na
+F :  Definitely should .
+
+dialogue type : s^co
+F :  Don't throw it away
+
+dialogue type : s^co
+F :  but don't use it in your training .
+
+dialogue type : s^ba
+F :  Cool .
+
+dialogue type : %-
+F : 
+
+dialogue type : b
+F :  Hmm .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s
+F :  The only thing I don't like about it is that it 's not phonetically very rich ,
+
+dialogue type : fh
+F :  but .
+
+dialogue type : s^bk
+F :  Yeah ,
+
+dialogue type : s^aa
+F :  that 's right ,
+
+dialogue type : s
+F :  TIMIT .
+
+dialogue type : s
+F :  So we actually talked about that .
+
+dialogue type : s^aa
+F :  Yeah ,
+
+dialogue type : s^na
+F :  it 's plenty bad .
+
+dialogue type : s^na
+F :  It 's plenty bad just with digits ,
+
+dialogue type : s
+F :  although I haven't trained any nets on it .
+
+dialogue type : s^df
+F :  I 've just been using existing digits or Broadcast News nets
+
+dialogue type : s^e
+F :  since we don't have enough data yet .
+
+dialogue type : s
+F :  One , seven , eight , two , three , one , three , seven , eight , four .
+
+dialogue type : s
+F :  M that sorta thing .
+
+dialogue type : b
+F :  Yeah .
+
+dialogue type : qw
+F :  But what were they ?
+
+dialogue type : s.%-
+F : 
+
+dialogue type : s
+F :  I I just extracted exactly the same ones ,
+
+dialogue type : fh
+F :  so .
+
+dialogue type : s
+F :  That 's like the TIMIT sentences .
+
+dialogue type : s:s
+F :  Greasy wash water ,
+
+dialogue type : b
+F :  oh .
+
+dialogue type : fg|s^tc
+F :  But , so I have a bunch of tools for generating these and for helping transcribe them .
+
+dialogue type : s^df
+F :  Since you know what you know what the transcript is you don't have to type it in , you just have to segment it .
+
+dialogue type : s
+F :  So I have tools for doing that .
+
+dialogue type : s^e
+F :  Using X - X Waves , Tcl - TK , Perl , and maybe some C programs too .
+
+dialogue type : h|s^ng
+F :  Well I I don't have any of the print outs .
+
+dialogue type : s^df
+F :  I I print them out a a as I need them .
+
+dialogue type : s
+F :  So what I should do is just print out a whole stack and leave them up here
+
+dialogue type : s
+F :  but I haven't done that .
+
+dialogue type : fg
+F :  Well , but i
+
+dialogue type : s
+F :  It 's it 's a different task .
+
+dialogue type : s
+F :  It 's a different task than read .
+
+dialogue type : s^df
+F :  You you do it differently if it 's sitting in front of you and you 're reading it than if it 's not .
+
+dialogue type : fh
+F :  So ,
+
+dialogue type : s^cs
+F :  I guess we could write them down and then read them ,
+
+dialogue type : fh
+F :  but .
+
+dialogue type : s
+F :  I I we can get digits .
+
+dialogue type : s^df
+F :  I mean , a as you said , we don't have to be in a meeting .
+
+dialogue type : s^cs^df
+F :  And so if we 're short on digits I can just , you know , capture people in the hallway ,
+
+dialogue type : s^cs
+F :  drag them in here ,
+
+dialogue type : s^cs
+F :  and have them read digits for me .
+
+dialogue type : s^aa
+F :  That 's right .
+
+dialogue type : fg
+F :  Well ,
+
+dialogue type : s^df^ng
+F :  the the hum we hear right now is actually the projector ,
+
+dialogue type : s^df
+F :  not the air conditioner .
+
+dialogue type : s^df
+F :  The projector is much louder than the air conditioning .
+
+dialogue type : b
+F :  Yep .
+
+dialogue type : h|s^ar
+F :  Um , no ,
+
+dialogue type : s^nd
+F :  not normally ,
+
+dialogue type : s^nd
+F :  not for our meetings .
+
+dialogue type : s^df
+F :  I at least very few of the ones we 've done have we had to do anything on the computer .
+
+dialogue type : b
+F :  Right .
+
+dialogue type : s^aa
+F :  That 's right ,
+
+dialogue type : s^df^na
+F :  from volume .
+
+dialogue type : s^ba
+F :  That 's interesting .
+
+dialogue type : s
+F :  Although unfortunately , you know , they 're all pretty close ,
+
+dialogue type : qy^d^g^rt
+F :  right ?
+
+dialogue type : s^co^fe^j
+F :  Oh , look !
+
+dialogue type : s^j
+F :  Digit strings .
+
+dialogue type : s^aa
+F :  That 's right .
+
+dialogue type : s^ba^fe
+F :  Oh no !
+
