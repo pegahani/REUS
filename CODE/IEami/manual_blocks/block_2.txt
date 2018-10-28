@@ -1,0 +1,1256 @@
+B :  How do you wear this thing ?
+A :  Hmm . Mm mm mm .
+B :  Not too many cables and stuff .
+B :  Original .
+A :  Is recorded ? Okay ? Okay so welcome everyone . So we are here for the kickoff meeting of uh the process of designing a new remote control .
+A :  So I will first start with a warm welcome opening stuff , then uh we will uh see what will be uh our product and what will be the different step we will have to design it .
+A :  And uh then we will uh discuss if we have few ideas and we will uh end uh by uh dispatching the different task you will be you will have to fulfil to complete this process .
+A :  So
+B :  Uh . Just one thing . Uh , you said twenty-five minutes , but I have something else to do uh , so gotta have another meeting uh soon , so maybe you could hurry up a bit
+A :  sorry ?
+B :  It's true . I have another meeting so if you could uh
+A :  You have another meeting soon ?
+B :  Yeah .
+A :  So you have to be quick .
+B :  Yeah , for the lawnmower project .
+A :  Okay . So the the goal is to have a remote control so to have an advantage over our competitors we have to be original , we have to be trendy and we have to also try to be user-friendly .
+B :  Okay .
+A :  So uh the design step will be divided in three uh main points . First it will be the functional design .
+A :  Third is the conceptual design and then is the desired design . So the functional design is to identify the main user needs , the technical function the remote control should fulfil .
+A :  And then we will move to f conceptual design where we'll specify the different component involved , what kind of user interf interface we want and what are the different uh trend in user interface and stuff like that .
+A :  And then the desired devi design will consist in uh specifically implementing and detailing the choice we've uh made in the second point .
+A :  So I will now ask you which is very important for the design of a new remote control for to uh each of us to to draw uh your favourite animal on the white board .
+B :  What an original idea .
+A :  Do you have any idea of which animal you want to show us ?
+B :  Orangutan .
+A :  Okay that's good . n n
+C :  No no n
+B :  Can I give you the no ? But I don't have to say anything .
+A :  You should
+B :  When I'm drawing the orangutan .
+A :  If you want to react uh about this wonderful drawing uh I'll let you uh comment .
+B :  It's an abstract drawing of an orangutan .
+A :  Okay it's an abstract drawing .
+B :  Yes .
+A :  I think it's nice and original .
+C :  You should write y the name I think .
+B :  I don't have a red colour . Usually orangutans have red hair so this is a very important but I don't have red pen , so
+A :  Okay .
+B :  Yes .
+A :  You want to draw something Christine ?
+D : 
+D :  Okay uh sorry . You have to imagine a little bit um .
+D :  This
+A :  Of course your animal is recorded so it's not lost .
+D :  Sorry too uh .
+B :  Yes . I know .
+B :  Wha what is this strange beast ?
+A :  Is this uh
+D :  Is it beautiful ?
+B :  Is it a monster ?
+D :  Do you know ? It's a cat . Isn't it ?
+B :  It's a cat ?
+B :  I thought these things did not exist .
+D :  Yes yes is it like that . Is it better ? Okay . It's my cat . Yeah . The name is Caramel .
+C :  Me Ah yeah . Yeah .
+B :  Ah yeah
+A :  Ah okay it's pretty .
+A :  Okay it's your cat .
+B :  Does have a name ?
+B :  Caramel . Ah-ha .
+C :  Caramel . And you I think I'm too short for the cables .
+D :  Yeah .
+A :  Okay . Olivier , do you want to
+A :  Okay I go , but next time you'll do something I'm sure .
+B :  Next time I concentrate .
+A :  I'm a bit short on cable . Okay . So what could I draw ? Maybe I can draw like
+A :  a very simplified cow . I don't know if it looks like a cow
+B :  He looks like a bong .
+A :  Like a what ?
+B :  Okay . Sorry . No .
+C :  Quite squarey .
+B :  Scary ?
+A :  I dunno it it looks more like a donkey in fact I would say . Okay so I hope that it helps you uh in the process of designing a remote control .
+C :  He also .
+B :  I I think we will be finished this uh
+C :  Mm .
+B :  Is it for uh for putting a for logos , no .
+A :  Okay .
+B :  That's
+A :  Let's move on . So
+A :  Here the uh financial objective of our project . That is to say to to have a production cost lower than twelve point five Euros and have a selling price of twice that price t in order to target a profe profit of uh fifty uh million Euros .
+B :  I is there a matter for a new remote control ?
+A :  Yeah if it's trendy , original I d fulfil the user needs .
+B :  Is it uh a single device remote control or is it a multi-device remote control ?
+A :  We have to discuss that point . On yeah you you can suggest points like this . So what what so we have to decide for example if it can control one device or multiple .
+B :  Ah this is not defined at all ?
+B :  Ah , okay .
+A :  So what's what are your ideas about that ? Maybe I can have the your opinion from the marketing side ?
+B :  Well uh do we sell other stuff ?
+B :  Uh if if we bundle the remote control with something uh to sell then it could be a single device , otherwise it could be programmable one otherwise who would buy a remote control from us .
+A :  Okay , so if it selled uh by its own i it it would rather be for multiple device .
+B :  Yeah .
+A :  Do you agree ?
+C :  Mm-hmm .
+A :  Yeah . So maybe it should be for multiple devices .
+A :  And uh do you have any ideas um of uh design ideas or any uh uh technical requirement we we should uh fulfil ?
+C :  I think we shouldn't have too many b for my part . I think
+B :  No , I couldn I cannot fi think of any requirements right now .
+C :  If we don't have so many buttons could be nice .
+A :  Few buttons . Okay . And do you have it also to be to be lighted in order to be used in the dark ? Might be a good idea .
+C :  Yeah .
+A :  Okay . And do you have any um any uh idea of the trend the trend in domain , what it shouldn't it should look like , or things like that ?
+C :  Something which is not squarey maybe uh , not a box .
+B :  Mm .
+A :  With rou okay . Like for okay .
+B :  Something like that , least fits in your hand .
+C :  Yeah .
+B :  Yeah . The basic requirement .
+A :  Okay .
+A :  So . Fit in your hand , yeah .
+B :  Only a buck .
+A :  And also it have , i it may be it may be important for the remote control to be uh
+A :  To , to resist to various shocks that can happen if it fall . Water-proof as well . Maybe it is original because you can uh use it in your uh in your bath whereas the others can't .
+C :  Mm-hmm .
+B :  Waterproof .
+C :  And I think we should have a device
+A :  Maybe water-proof would be very original .
+C :  Sorry .
+A :  Havin having a water-proof remote control so that the people can uh use it in their bath .
+B :  Mm .
+B :  B it seems uh so , but uh if you don't have an waterproof remote control it means you can just cover it with some plastic and you can sort of f
+A :  That could be uh
+A :  Yeah but , it is still something uh you have to buy and that is um not maybe very
+B :  And , and that's one of the that's one of the shock I mean there are people that have a remote control and they are worried that it's going to break and they put some extra plastic around it . That's people they actually do it themselves .
+A :  Yeah , mayb
+A :  But maybe we can bulk it with uh already this plastic thing and uh the waterproof uh stuff as well .
+C :  Yeah .
+C :  directly .
+B :  I it will look a bulky in that case .
+A :  Yeah . Maybe we can sell uh all that together , so so plastic protection
+C :  Yeah .
+A :  and uh and a waterproof box as well .
+A :  That might be good uh track to follow .
+B :  Like as an optional thing .
+A :  Optional or selled with it ?
+C :  And I I think we should have something , most of the time I I lose my remote control . We should have s uh special bu button on the T_V_ to make the remote control beeping .
+A :  Yeah .
+A :  Maybe we can have uh
+A :  But we don't design the T_V_ . Maybe we can have uh something you whistle and uh the remote control uh beep .
+C :  Ah yeah .
+C :  Yeah .
+B :  Barks .
+C :  Barks .
+A :  Yeah , barks , yeah . So we can uh have a whistle uh remote control ?
+C :  Yeah .
+C :  Yeah whistle .
+A :  I don't know , whistle-able ?
+C :  Whistle tracking .
+A :  Whistle tracking yeah . Whistle tracking remote control . That's a good idea , that's very original and that's can uh improve .
+B :  That's that's quite cool , but uh of course we you don't normally need uh any audio uh recording stuff on your remote control right ?
+A :  Yeah d d uh .
+B :  So i it's just going to add t to the cost .
+A :  Yeah but s still we have to mm we have to have an advantage over our competitors . I think this is a good advantage .
+B :  It's cool . I think I like the idea , but I'm not sure about the what you , who is giving who's giving who's giving our budget . Who's
+A :  Yeah . We have to ask
+A :  Yeah . We have to ask the quest of that's uh design to the uh Industrial um Designer .
+B :  Yeah . Yeah .
+C :  Yeah . yeah
+A :  Which is you . Okay so try to find that for next meeting .
+B :  'Kay .
+C :  Okay .
+A :  Okay . So next meeting is in thirty minutes or so uh . Don't pani . So so I will ask the Industrial Designer to find out more about this industrial design so any working any working function we have discussed .
+C :  Don't panic .
+C :  Mm-hmm .
+A :  So then I will ask the User Interf Interface Designer to to think about the point we discussed like the number of buttons , the the fact that is lighted or not , things like that , and what would be convenient for the user .
+B :  Mm-hmm .
+A :  And also um I will ask the Market Expert to uh try to find out what are the absolute requirements , what is absolutely needed in a remote control uh for the user .
+A :  So . And then uh I will uh just ask you to think about that and uh look at your mail because you will receive uh some good advice soon .
+B :  Mm .
+A :  So .
+A :  Thank you I think that's all for this point .
+B :  Good .
+C :  Mm-hmm .
+D :  Thank you
+B :  Uh , so we come back in five minutes ?
+B :  Half an hour .
+A :  Anyway you will receive some messages .
+A :  Be careful .
+A :  You eat it ?
+A :  Does it move uh ?
+A :  Okay , but I don't know if it uh is still correctly uh
+A :  We'll see .
+C :  Ah .
+C :  Okay .
+A :  Okay everyone's ready .
+B :  Hello .
+A :  So we are here for uh for uh functional design .
+A :  Okay ? So we are here for the functional design meeting mm so first I will show the agenda so
+A :  we will uh I will take notes during this meeting so
+A :  I will try to summarise it and put that summary in the shared folder if you want to look at it afterwards
+A :  so then uh each of you will uh lead a presentation on the task that has been required last time so user requirement specification , technical function design and working design .
+A :  Then I will uh present you some new project requirements I received from uh the management board .
+A :  Then we will take uh the decision on on the remote control uh needed functions
+A :  and then I will assign you the task for the next part of the meeting . Of the of the process . So uh who want to start the the presentation of what they did ?
+D :  Mm .
+C :  F do you want to start ?
+B :  Make a start yeah . So . Cable , camera . Should be in my in their folder no ? Up .
+A :  You can start .
+A :  You have uh PowerPoint ?
+A :  Ah yeah maybe there . Okay . Who are you ?
+B :  Um at three I think .
+B :  No ? Mm .
+A :  Ouch .
+A :  And
+C :  Okay .
+A :  We have a technical problem uh .
+B :  Do we think w s in the in the wrong folder maybe ?
+B :  It is possible .
+A :  You put it on
+C :  No .
+B :  It was somewhere in something like this . I don't remember the name actually must be something like messenger AMI or something .
+C :  What do you have in short cut ?
+B :  Go up .
+C :  Participant two .
+B :  Yeah go up .
+A :  Yeah .
+B :  Again .
+B :  No . Go back .
+A :  You have no
+B :  Uh maybe messenger AMI .
+B :  Messenger .
+A :  Over .
+A :  Okay .
+B :  No . There is nothing .
+A :  There's no
+B :  Let's go and check . I'll go and check .
+A :  We have a technical problem .
+C :  Yeah . Otherwise , could you just describe
+C :  by hand ? With the the whiteboard ?
+B :  Okay .
+B :  Yeah .
+A :  If you remember yeah but that's
+B :  Yeah . So uh . Basically what we want here is a remote control right . So um the question well first of all what to control . So most people want to have a a remote for their hi-fi and T_V_ and stuff like that . And but other people want th also remotes for controlling uh and toys like robotic pets and little robots and stuff and other people also want to have remotes for controlling um whole house .
+A :  Yeah .
+C :  Mm-hmm .
+C :  Mm-hmm .
+C :  Mm-hmm .
+A :  Yeah .
+B :  Yeah , so there's a project I think called X_ house or something like that that does that , uh you can integrate your remote with uh computers stuff . So there is one that is one thing . The other is the
+C :  Mm-hmm .
+B :  the finder feature yeah by whistling or whatever . Uh if you have the finder feature then you can also have
+C :  Okay .
+B :  uh at the same time as and general voice commands if you want yeah .
+C :  Mm-hmm .
+B :  So I think it should be a package in that case . Uh so the user interface will consist of two parts . One is the voice command part and on one is the actual buttons part . Uh and th the buttons part would be uh a set of buttons for choosing devices , a set of buttons for special navigation in space ,
+C :  Mm-hmm .
+C :  Mm-hmm .
+B :  a set of buttons for linear access of medium and a set of buttons for random access .
+A :  Okay .
+B :  Yeah ?
+C :  What do you mean by linear access then ?
+B :  Like a video tape goes forward , backwards , uh fast and stuff yeah .
+C :  Ah .
+B :  Um .
+A :  Okay so special navigation , linear access , random access and there's a fourth one no ?
+B :  Mm ?
+A :  So the better now for special navigation ?
+B :  Yeah . For special navigation for example you might have a T_V_ in the menu and you going to change yeah ? Uh .
+A :  Okay . Then linear access then random access .
+B :  Mm . Yeah and also parameter changing . So if there are common parameters maybe we should put special buttons for that um or maybe we could have everything uh generic but uh there are a lot of uh remotes on the market right now and basically this is most of the almost everybody has this stuff .
+A :  Ah yeah parameter okay .
+A :  Okay .
+A :  Okay .
+A :  Okay and and voice command did you uh
+B :  Voice command w we could specify anything . We could assign any button a command to any button , if we have enough processing power , I guess so . Yeah .
+A :  Okay .
+A :  Okay .
+A :  Okay .
+B :  Yeah .
+A :  So that's uh that close your investigations ?
+B :  Yeah . Uh yeah I think so . Not so far .
+A :  Okay .
+A :  Okay . Maybe we can have a look at the user requirements with
+D :  Yeah . Um I dunno if you can open the uh m is not here .
+A :  I dunno if I can open it . Maybe you can s
+A :  It's
+D :  Uh in
+D :  yeah okay . No .
+A :  Messenger no ?
+D :  In document .
+D :  Mm computer yeah .
+A :  In which folder ?
+B :  Where did you put it ?
+D :  Here . Here .
+A :  Short-cut to AMI shared folder ?
+B :  mm .
+D :  But it's not
+D :  Um .
+A :  Maybe you can send it to me by email .
+A :  Just to participant one .
+D :  Mm-hmm . Yeah , I can do that .
+A :  At AMI .
+A :  I will try to show it to everyone , that would be more comfortable .
+D :  Okay . Um .
+A :  You send it ?
+D :  It's participant one ?
+A :  Yeah .
+A :  Uh this is this email .
+B :  I'm designing the user interface .
+D :  Okay . You can uh .
+A :  Okay .
+A :  So maybe I can switch slides when you whenever you ask , that will be more convenient . So okay , functional requirements .
+D :  Yeah .
+D :  Okay so you can you can go .
+D :  Okay so in our usability lab we observed the remote control use among one hundred subjects and the subjects also filled a questionnaire okay ?
+A :  Mm .
+A :  Yeah .
+D :  And here I have the results so you can see that um seventy five per cent of users find most remote controls ugly so we have to find something to make them more
+D :  more nice , more kind . Eighty per cents of users would spend more money when the remote control would look fancy . Eighty hundred per cent of users would spend more money when the remote control would look oh to it's not good . So okay . So it's not in theory but I I can I can say yeah .
+A :  We can just keep doing that ?
+A :  Yeah .
+D :  Fifty f uh seventy five per cent of users say they s zap a lot . So mm we have to have a remote control uh very um out for that . Uh the buttons have are to be um uh uh like you say resist resisting to to shocks . Um and fifty per cents of users say they only use uh ten per cents of but of the buttons in the in the remote control . So all the buttons we we have to put are have to to have um a use a real use and not only or
+A :  Okay .
+A :  Okay .
+A :  Okay .
+A :  Okay , so fewer buttons maybe would be good ?
+D :  Yeah . F not many buttons , and uh and uh uh u useable buttons .
+A :  Okay .
+B :  But what kind of remote controls did you look at ?
+D :  Sorry ?
+B :  What kind of task was it ? It was a T_V_ ?
+D :  Yeah . Uh most for most is T_V_ .
+A :  Yeah .
+A :  Yeah but in fact we it it seems that we are going to make a T_V_ remote control according to new requirements I received from the management bo I will present them in the following . Okay .
+B :  Huh .
+B :  Uh-huh .
+B :  Ah ! Good .
+D :  'Kay you can go so .
+D :  So there are other frustrations expressed by users , so they said uh they lost uh often the remote control in in the room so they want to have a way to to
+A :  Yeah .
+A :  To find it . Yeah .
+D :  to find it . Um and um lot of the time they it takes too much time to learn how to use a new remote control . So they want something s really very simple and uh easy to use .
+A :  Yeah .
+C :  Mm-hmm .
+A :  Okay .
+D :  And uh remote controls are bad for
+D :  R_S_I_ um
+A :  What is her other side ?
+D :  I dunno .
+B :  Other side yeah , yo wa your wrist .
+B :  It i can become painful you can have tendonditis .
+A :  Oh yeah ? I did not knew that .
+B :  Yeah .
+B :  If you also up on a computer in a strange position .
+A :  Okay so you we have to make it uh more ergonomic yeah .
+B :  Ergonomic . But uh . Have to say ha ha .
+D :  Yeah .
+A :  It's your job Oh .
+D :  Uh .
+A :  Uh sorry got a message from Microsoft .
+D :  Okay um before that I I have some some some thing uh to say before um
+A :  Yeah .
+A :  Yeah yeah .
+D :  We know that uh the user use uh a lot their um remote control um to to change channel . Um and um to to change uh volume selection of the and uh and not uh a lot for setting for setting the the channels and uh thing things like that . So it's better to put uh uh uh something very easy to set and uh and
+A :  Yeah .
+A :  Okay .
+A :  Yeah .
+C :  Mm-hmm .
+B :  Mm-hmm .
+A :  Okay .
+A :  Yeah .
+A :  This function should be very uh accessible . Yeah , okay . This is the main function okay .
+D :  Very accessible yes .
+D :  That's right .
+D :  So then we asked some questions to them and um we asked this question if they prefer an L_C_D_ screen or on their remultific function remotes control and if they mm pay more for speech recognition in remote control and you can go we have here the results of
+A :  Yeah .
+A :  Yeah .
+A :  Yeah .
+B :  The first question .
+D :  of the questions . So you know that um
+D :  for the younger it's very important
+A :  To have L_C_D_ and voice .
+D :  to have the s yes and speech recognition . And uh and the others is not so important but uh we know that uh uh people between fifteen and twenty five are people who watch a lot T_V_ and uh who who wh can use a lot this uh . So maybe we we can have a speech recognition in . Yeah .
+A :  Okay .
+A :  Yeah maybe this this is important . Moreover th maybe those uh like those teenager customer could advice their parents to buy this equipment and so we can we have to take care of that point of view I think or so .
+B :  Mm .
+D :  Mm . Okay and if there is th the conclusion now . So as we say before , I think uh um a remote control lightening in the dark it's it's a good thing . Uh not to many mud buttons like we we said before , e easy to use uh a way to find it easily in the room and uh uh resistant to to shock and to to
+A :  Yeah .
+A :  Okay .
+A :  Yeah .
+C :  Mm-hmm .
+A :  Okay .
+D :  An I s no , yeah . I dunno if you see something else important or
+A :  Okay these are the user requi
+C :  I'm just thinking of some thing . Um
+D :  Mm .
+A :  Yeah .
+C :  We want to have a no , I don't know if this is a good idea . We want to have a a general remote control for everything .
+A :  No no no . We w it seems that we no want to have a T_V_ remote control . From the management board I receive an email . Cos it would be costly
+C :  Okay .
+B :  Mm .
+C :  Yeah .
+A :  uh and and also it it would take more time to develop to have a a general generic remote control .
+C :  Yeah . Yeah yeah .
+C :  Yeah .
+B :  Mm I it's not true I think .
+B :  The the second claim that you put .
+C :  No no .
+A :  That it would be too long to develop .
+B :  Yeah . I think that should be the same .
+A :  Oh yeah . Because I received that email from management board and they seems to tell that that if we want to be on the market as early as possible we should uh focus on T_V_ more where it seems that the market is more important .
+A :  So maybe it's a good decision . I dunno . What's your opinion ?
+B :  I have uh I've no idea I mean I should know a bit more about how fast we can uh design it . I don't think
+B :  Uh yeah .
+C :  Finish tonight . But basically yeah maybe I can continue with my presentation , it would be al you you but I think we have some technical problem or so . So I'm just going to describe briefly what we do in the remote control . If fact
+B :  Yeah . Okay . Yeah .
+A :  Okay .
+D :  Yeah .
+B :  Yeah .
+A :  Maybe you can go to the whiteboard if you have some drawings to do I don't know .
+C :  Yeah but
+D :  Mm .
+C :  Do I have oh yeah . Now I have enough cables .
+B :  Like a you feel a bit like a dog with this stuff .
+C :  Okay so I'm just going to describe in fact for for a remote control this is quite easy . We just have sorry , I'm going
+A :  Okay . Are you okay ?
+C :  Like that . I'm just going to describe . Basically we have a a battery a power supply here . After that we just have um user interface . Let's say that
+C :  something like that , which could be um a L_C_D_ let's say or um an array of push button , something like that .
+C :  Push button or a L_C_D_ . After that we we feed that into um
+C :  uh an electronic chip . So I say U_C_ and I feed that to uh L_E_D_ which is uh infrared um which is a an infrared um component . And so what we for for myself this for for us this is quite easy .
+A :  U_C_ is the central unit ?
+C :  Yeah . Y it's a it's this just a chip which does all the um numerical
+A :  Okay yeah .
+A :  Computation .
+C :  numerical computation according to your display . And so for us uh this is quite easy . We just need to take to define what we want to do when the user interface um wants something and after that we just do the coding to s and send that to to to the not the to the television . So for us this is quite easy .
+A :  Okay .
+A :  Okay .
+A :  Okay so this is quite easy . There is not that much constraints .
+C :  Yeah . Um we just have to define the processing power that we need uh especially if we want to do some uh speech recognition , in that case that mean that we are going to use more for simple
+B :  This will think this will take more time to develop also . Yeah .
+C :  Yeah of course of course . And um but for a standard one this is really easy . It's a question of one month and so on s
+B :  Soon .
+A :  To have a you s you speak about with voi voice control ?
+C :  No no no no , I say yeah standard uh standard remote control takes maybe uh one month to to do that .
+A :  Standard button one .
+B :  Yeah . So the only time problem is the sp voice recognition . Yeah . Yeah .
+C :  Yeah . Definitely .
+A :  So do you have any idea of how long it would take to have voice recognition now ?
+B :  Ten years .
+C :  I would say . I would say uh about eight months to have the first results .
+A : 
+A :  Okay so i it's a bit long yeah .
+C :  Yeah . I can
+C :  Um .
+A :  One month for the standard one with button . Even if we have a L_C_D_ display ?
+C :  Yeah .
+C :  Yeah even . I mean that this is really standard devices now .
+C :  Um eight .
+C :  For uh speech recognition .
+A :  Okay yeah .
+A :  Okay so we can take this into account . So who think it would be good to go for uh like speech recognition ?
+B :  But we don't have time to market .
+C :  And also how much uh I think
+A :  Yeah it will .
+B :  I think we should contact management .
+C :  during the kickoff meeting you say that we we shouldn't we shouldn't go up to twelve point five Euro per unit so how many units should we sell to have a
+A :  Euros . Yeah , yeah .
+B :  Well . Uh
+A :  Well each unit is is sell uh twenty five Euros .
+C :  Yeah but how many yeah .
+B :  How muc how much do you get how much do you if you buy one million units h no , one hundred thousand units .
+B :  Eh chips . We're gonna need chips right .
+C :  Yeah .
+B :  Yeah . How much will it cost for one hundred thousand ?
+C :  Usually this is less tha at two dollars per chip .
+B :  Okay .
+A :  Because we are
+B :  So you have any idea for a powerful one that has uh good enough for do speech recognition .
+C :  Yeah , we can
+B :  Yeah ? Okay .
+B :  So . No it doesn't .
+A :  It seems that that we want to sell like four million units from the first meeting .
+C :  Mm-hmm .
+B :  Okay .
+B :  Four million .
+A :  Okay . Maybe we can uh we can look at the new requirement I receive from the management board and discus discuss all function we want to have .
+D :  Mm .
+C :  I just had a question uh do you want to continue with your presenta ? Is it
+A :  Yeah I I will continue . Well ask your question if you want .
+C :  Um you say that I don't remember by heart but thirty per cent
+D :  Mm ?
+C :  of the tested people say that's it's quite difficult to to to use the remote control .
+D :  Yeah .
+C :  Do they say that this is difficult but for the same reason or do they have other reason ?
+D :  Oh . Would j
+C :  To to maybe to keep in mind maybe to access to that menu you should do something like that .
+D :  Uh yeah w I I think they they say that it's uh difficult to learn how to use it but i when you know how to use it , it's it's okay . But
+C :  Mm-hmm .
+C :  Mm-hmm . And
+A :  Okay . It's not intuitive first .
+D :  Yeah .
+C :  But yeah maybe and what about if we design a remote control which can be configure as you want ? You say that I want , I have six button
+B :  Mh-hmm . A a lot of people are uh if you have the L_C_D_ screen if you can do it completely the way you want because the buttons also look the way you want them but it will be hard to configure I mean imagine i uh so it's really something for the expert user . So
+C :  Yeah .
+A :  Yeah .
+C :  Yeah .
+A :  But , but also it seems that
+C :  Yeah .
+A :  Yeah .
+C :  Okay .
+B :  I mean there are markets and markets . I think the young people are th uh are uh Christine here said uh you have a uh it is yeah . So for our young people uh it will be cool , they can be able to use it . Th maybe their parents will not but they will configure it . I guess . I don't know if there is study about that .
+C :  Yeah .
+A :  Yeah .
+A :  Yeah . Maybe it would be more complex to configure it to be simple than creating a simple product .
+C :  Mm-hmm .
+D :  Mm .
+C :  Yeah . Yeah .
+C :  Yeah .
+B :  Mm .
+D :  Mm .
+C :  Yeah .
+B :  And there are another thing is that if we make something that's simple and easy to use that's bas to use immediately that means that it will be exactly the same as everything else . All right ?
+C :  Yeah . Yeah .
+B :  Otherwise , if it's different then of course everybody has somebody has to learn to use it first .
+C :  Yeah .
+A :  Yeah . But also we we see that that most people find it find remote controls too complex because they have too many buttons and they mainly use only channels and volume buttons . So we may just uh make a very easy to use remote control with mainly those buttons and maybe also um
+D :  Mm .
+B :  Mm-hmm .
+B :  Yeah .
+A :  some lightning stuff too
+A :  because most people find also hard to to find the remote control .
+B :  Mm-hmm .
+A :  Losed lose it etcetera .
+A :  These these are these two points are the main frustrations so maybe if we design something very simple and easy to uh find when lost it will uh add uh a serious competitive advantage
+D :  Mm .
+A :  without making something too complex and too long to develop .
+B :  Mm-hmm .
+A :  So but le let us see first the new requirement . So we don't have to so this this uh is uh is um in the this is in the same direction as we were speaking so we don't have to make a very complex remote controls to access teletext and stuff like that
+B :  But teletext is just one button .
+A :  Yeah but then you have to you have to define the buttons to surf amongst pages and stuff .
+B :  You you just write the write the numbers .
+A :  Yeah .
+B :  So will you add with the channel keys , right ?
+A :  So well
+A :  Yeah . So anyway we don't have to include this feature because it's it's not used any more by users , they prefer to s
+B :  So .
+B :  I am . I'm sure that uh it don't like but uh I don't see just one button .
+A :  Yeah . I dunno . If i one button is still one more button . If if if we want to make it very simple we have to reduce number of buttons compared to th to our competitors .
+B :  So .
+B :  Mm-hmm .
+A :  Well anyway I have this point . We can discuss . Also um so as as I told before uh it would be better if it's only for the T_V_ um
+A :  because we want to be quick on on the market .
+A :  And then also we have to make very uh uh clear that this uh
+A :  this remote control is is part of of our products and show our corporate uh logo and and colours on the on the design as well so that uh they identify it as one of our product .
+A :  So this is the the key point .
+A :  So before uh finishing we can uh define uh what would be the characteristic of the o th of the control of the remote control and which button do we need which function do we want etcetera .
+B :  Capital .
+D :  Mm .
+A :  do you um so so from from the the Marketing Expert I think
+A :  a key aspect is the easy to use aspect , it should be very simple and most button are never used only ten per cent of the button are are used often so I think we have to do something very simple and I think we all agree on that point , no ?
+D :  Mm .
+C :  Mm-hmm .
+D :  Mm .
+B :  Well if it is going to be just a T_V_ remote control it is going to be very simple .
+A :  Yeah okay . So yeah the key point here is simple .
+A :  Maybe . So few buttons , channel ,
+A :  volume control
+A :  and what el what function do you see
+B :  Well if it's going to be as simple as possible then just have the remote control , there is no other function that I can see
+A :  in addition to that ?
+B :  really .
+A :  Yeah . Maybe switch T_V_ on and off
+B :  Uh no you want to keep television on so that the advertising can revenue can come back to us . Or something .
+A :  Yeah . Yeah . Volume , maybe a mute button , and then on off button .
+C :  Mm .
+A :  And that's all ?
+C :  Uh I know that som you say that many people are doing plenty of a lot of zapping .
+A :  Mm .
+D :  Mm-hmm .
+C :  I know tha I discovered that when I did a quick look , uh they do now som they do something which is quite nice now , you have a button , you you press it , and this is uh the previous channel which has come back .
+B :  It's a memory , yeah .
+A :  Okay . Yeah this is cool . Maybe we can include that also . Previous previous channel button . So we have like channel button , the previous channel button , the volume button , plus a mute button , and uh just the the traditional on off button .
+C :  Mm-hmm .
+C :  Mm-hmm .
+C :  Mm-hmm .
+B :  And uh and of course the channel changing buttons .
+A :  Yeah . I I talk about that , yeah ?
+B :  How should they how should we implement that ? Because uh could be numerical only or could be also incremental .
+A :  Yeah . Incremental definitely because zapping you you switch them .
+B :  Mm-hmm .
+C :  Let's say that we can do something like that . This is uh incremental , but once you press it for a long time , you go five by five .
+C :  To go fa to go faster .
+A :  We go faster ?
+A :  Mm .
+B :  Mm . It's an interesting idea , that if you press it for a long time it does something else , in general . So if you you have your ten buttons for the for the numeric the numerical buttons and you have instead of having just one memory
+C :  Yeah .
+B :  you have if you press them for a long time
+B :  No . Doesn't work does it .
+A :  Maybe we should have also a digit button
+B :  Maybe we should have a complete keyboard and just type console commands . Change channel to eight .
+A :  Yeah .
+A :  Maybe we have also to have digits or only incremental . I dunno bec because if you have the
+B :  No .
+B :  Well if it's useful like if if you want to change between three channels for example then you h you cannot you cannot cannot work with just memory being incremental .
+A :  Uh .
+A :  Yeah . Because you have your previous channel button if you have incremental only it's not uh it isn't worth it because the previous channel is eith either minus one or plus one . So I think we need also digits . Maybe we we can make very obvious the channel and volume button button and smaller button down there with the the digits .
+C :  Yeah .
+B :  Yeah . Yeah .
+C :  Okay .
+B :  Yeah when you zap usually you will have to press the same button all the time and
+A :  Yeah .
+C :  Or we can do something like that . We can design the remote control to have access . You know some remote control have uh protection and so you you y
+B :  Yeah .
+B :  Mm-hmm .
+A :  Yeah .
+C :  You
+B :  Hey I just thought this thing there is a I mean you know there is are some with a wheel like this . Instead of having the up down buttons for uh you can have the wheel . Yeah .
+A :  Yeah .
+C :  Yeah , a kind of joystick .
+A :  Yeah . Maybe we can have a wheel for incremental . Okay . So have a wheel for incremental , have the digits uh on the lower side that can be closed so as you say protected ,
+B :  Yeah .
+C :  Mm-hmm .
+B :  Mm-hmm .
+A :  and uh yeah I think this is the basi
+B :  On the lower side I think it you have to turn it . No ? If we do that .
+A :  And do we do we have a
+C :  Or a or a ball , yeah , not a a wheel but a ball , and you say uh to
+A :  No , a wheel is better . I would say the wheel is better . What is the expert of uh
+B :  Yeah .
+B :  Because of that
+C :  Yeah .
+B :  Because it's uh it's it's not like a volume which is smooth yeah ? The channels change one by one . So you have to the user has to like to should feel the the the discrete sense a bit .
+C :  Yeah .
+C :  Yeah , the yeah .
+A :  Okay . Yeah . That's a good idea .
+B :  Yeah .
+A :  Well also we have to decide uh so it should be lightening in the dark I think because most people lost their remote control .
+C :  'S quite it's quite easy we do that w with back light on the on the wheel .
+A :  Okay .
+B :  Yeah . Even if i L_E_D_ uh or a if if it's the L_C_D_ feature uh whatever , yeah .
+C :  A blue a blue L_E_D_ and we sell that um .
+A :  Yeah , and do we put an L_C_D_ display ? Because it was important for young customers if you remember .
+B :  Yeah .
+B :  I think it's only put on if cou have multi function . If you do not multi function then there is no p point in having L_C_D_ . Just increase the cost . The user does not have an advantage really .
+C :  Yeah .
+A :  Okay .
+A :  So no L_C_D_ ?
+C :  Mm-hmm .
+D :  Hmm .
+A :  And so no speech as well because it w it would delay too much the development process .
+C :  Okay .
+B :  Well if it's going to delay yeah but uh it will be cool . It would . Because a user could say C_N_N_ for example and it would go C_N_N_ . Mm .
+D :  Mm-hmm .
+A :  Yeah . That would be cool . But eight months is really long and
+B :  Yeah .
+A :  Maybe we can just uh
+C :  Ten years
+A :  Okay . So um I I will uh I will so I we will move to next meeting so in after the lunch break uh here are the individual uh action uh you are required to do but you will be uh recalled to the actions by uh email I think but you can take notes if you if you want but well the instruction will be sent . So
+C :  Mm-hmm .
+A :  thank you for uh your suggestion and I I will make a summary of that meeting that I will put in the shared folder you can't see and uh and then you will um you will be able to to see what has been uh has been said on on this meeting and and what has been decided . Uh maybe for next meeting uh send me your presentation before by email so that we can see them uh altogether . That would be easier .
+C :  Okay .
+C :  Okay . Okay .
+B :  Yeah . What is the folder that you put yours in ? And did it it did work ?
+D :  Mm .
+D :  No .
+A :  No it did not work . She send it to me by email .
+D :  No no . I dunno , I dunno it .
+B :  Ah yeah . Mm .
+B :  Okay .
+A :  So maybe this is better , to send it by email . Okay ? So yeah I I'm it's in the first uh email so I'm participant one at AMI uh where is that , it's here .
+B :  Okay what is your email ?
+B :  At participant one . Okay .
+A :  Participant one at AMI .
+A :  Okay .
+A :  So see you after lunch break .
+D :  'Kay thank you .
+B :  Well during lunch break actually .
+B :  So next time we should have a fight .
+B :  How about uh management or something .
+B :  Who happens to be your friend .
+A :  Okay .
+C :  Mm-hmm .
+A :  So we are here for the concept design meeting .
+A :  So , we will first start by summarizing the mm the previous meeting and the decision we've taken .
+A :  Uh I will take notes during this meeting so uh that you can uh look at my uh folder to see the summary of this meeting afterwards .
+A :  So each of you will uh show us the various investigation they've done during uh previous uh hours .
+A :  We'll then t take decision in concert and then uh uh we will uh define the nest next task , to have to be done before the next meeting .
+A :  So , last time we decided to have a simple interface .
+A :  We also decided to have a wheel to change channel previous channel button . Channel digit uh buttons should be uh protected by plastic cover or something for the remote control to look very simple .
+A :  We have also button for volume , and to switch on off the T_V_ .
+A :  We have also uh the lightening feature for the remote control to be easy to find , and for fast development and low cost we have decided to have no L_C_D_ no voice features .
+A :  So now uh we will have three presentations . So the conceptual specification by Industrial Designer , the specification of the U_I_ by or U_I_ okay . And uh the last point is uh trend watching by Market Expert .
+C :  Abdul al-Hasred is my name .
+A :  So maybe we can start with uh industrial design .
+A :  So this is the presentation .
+B :  Uh , I_D_ you want ?
+A :  Maybe I can switch slide uh on your request .
+B :  Yeah .
+B :  I only v have three slides , so . I just look at the mm
+B :  um just this .
+B :  On some web pages to find some documentation and I think a remote control is , as I s mentioned previously ,
+A :  Yeah .
+B :  you just have a a very simple chip and the mm the user interface is just done usually by push button
+B :  and in our case we are using a um a wheel control .
+B :  So uh uh I was looking basically for that chip , which is uh very very standard , and uh I just looked for the wheel sensor and the standard push button .
+B :  And um yeah we can change directly . In fact I have the number of that element which is very standard for remote control . The push button are usually extremely cheap , but I just have one problem and this is related with the wheel sensor , which seems to be quite expensive .
+A :  Yeah .
+A :  Okay .
+C :  Mm-hmm .
+B :  And I think we if we could just talk about that if we really need a wheel sensor or if we can not if if we could combine something with the push button .
+A :  Okay .
+B :  Uh a wheel sensor is fifty time the price of a a a push button .
+C :  Yeah .
+A :  But is it a significant price on the whole remote control ? Because we can afford up to twelve Euros for the price of the remote control .
+C :  Mm .
+B :  Yeah .
+B :  Yeah I I th
+A :  So will will will this with uh including all possible things , so buttons , wheel and the chip , be uh lower than twelve Euros to produce ?
+B :  But I don't think that uh we should
+B :  We should talk about uh the design of the box also which needs some money . But
+C :  Yeah .
+C :  Also have to say Did you receive the email about the voice recognition ?
+B :  Um that's all yeah . I haven't chec
+C :  No ?
+A :  You received something
+C :  Yeah . You we uh an email from the manufacturing division that they have basically a voice recognition chip already developed .
+A :  Hmm .
+C :  Says
+C :  Yeah . It says that ri right now they just use it to uh to record uh answers to particular questions . But I guess it could be
+A :  And could it be adapted ?
+C :  I guess it's possible . I mean instead of recording the answers you can just uh record uh something simpler like a command .
+A :  Okay and there can uh recognize some commands and stuff ?
+C :  Yeah you reco recognize commands and you can record new commands and stuff , so if they already have it as uh as a chip
+A :  Okay .
+A :  Yeah .
+C :  then we we could use it .
+A :  Okay maybe we can just uh listen to this presentation and then take decision later on according to those news .
+C :  Okay .
+B :  Mm-hmm . Yeah but I think it's yeah Sorry , I haven't written my personal references . Um the I I just want to mention the the problem of the the r
+B :  wheels sensor which is much more expensive than any push button , and if we could reduce that .
+A :  Okay .
+B :  We we have already some good things uh with um um with the backlight of the push button .
+C :  Mm-hmm .
+C :  I have a question about that actually . Um , what is the purpose of the light ?
+B :  Just to to make something which is uh slightly more design that uh a squarey box with a rubber
+C :  Is
+A :  You can easily find the button in the dark or so ?
+C :  But
+C :  But in th in the dark uh
+C :  Yeah but is going to be always turned on , the light ?
+A :  It will be turned on when the when the user move the remote control I think , no ?
+C :  But if you move it then you have it , you don't need to find it .
+A :  Hmm .
+C :  You can see the buttons better , of course . Yeah .
+A :  Yeah . Yeah .
+A :  Yeah . True .
+B :  Yeah . Actually .
+C :  But if you move it then you have to have some sensor to when you move it to detect your movement .
+B :  As soon as you thought to move the the remote control you have the light .
+C :  Yeah , but you need another sensor for that , right ?
+B :  Yeah . Again .
+C :  Yeah no it's too expensive .
+B :  I don't think that this is really expensive , but at the end this is plenty of unexpen eh very cheap devices but uh the bill starts to be
+C :  Okay .
+C :  Mm .
+C :  Extra . Yeah , okay .
+C :  Mm .
+C :  Yeah , but I expected also the wheel would be cheap but you tell me that it is very expensive so , yeah .
+B :  First of all I was thinking to have a a continuous light and you w when t you you you you press the on button you have the light on your remote control , when you want to turn off your device
+C :  Mm .
+C :  Mm-hmm .
+A :  But it can be uh battery consuming , no ?
+A :  To have the light always on ?
+B :  Yeah , a little bit .
+B :  A little bit .
+C :  Mm .
+A :  Well we will discuss that after maybe
+B :  Yeah .
+C :  Okay . So uh my one , it uh should be in the shared folder .
+A :  the other presentations .
+A :  Yeah .
+C :  So .
+C :  It was last time I saw it .
+A :  And it is .
+C :  Okay .
+C :  So , just move to the next slide .
+A :  Okay .
+C :  So basically want very simple , right ? That's the major idea , as simple as possible .
+A :  Yeah . Yeah .
+C :  So I just look at some current designs uh on the web , of usually more complicated remote controls . And let's look at two of them because uh th even though they have many buttons they look quite simple . And in our case we just uh reject the buttons what we don't need and it become even simpler .
+A :  Yeah .
+C :  Um . So .
+A :  And also does it uh fit well in hand ? Because it was uh th your wrist problem with the usage .
+C :  Yeah . Well this these uh these remotes are quite big , so go to the next page , so .
+C :  We have all these buttons as you can see , but most of them , we just need the ones in the middle .
+A :  Yeah .
+B :  Yeah .
+A :  Yeah .
+C :  So , from the bottom or whatever is there , uh the uh the numbers and then the top , uh until the ten also , this middle part , and on the left one is exactly the same . So it's basically more or less how we would like it , with a big volume control , big channel control , and mute and power , yeah ? These are the basic thing .
+A :  Yeah .
+A :  Yeah .
+A :  Yeah . So it's only the central part .
+C :  So basically , w software we will build will look more or less the same as these two .
+A :  Yeah . With a maybe a more ergonomic design on on the bottom part .
+C :  Yeah , if you have , for example I think that the volume and the buttons that are there on the top are not very easy to reach with your thumb . It could be on the right side , for example . Yeah . Because we don't have these input buttons and this other stuff that they have .
+A :  Yeah .
+A :  Okay .
+C :  And I think that the plastic cover is not very good uh idea because
+A :  Okay .
+C :  you open it , it can break , you ca you can do various things . Uh you just need to put the channel numbers somewhere a bit out of the way .
+A :  Okay . S
+A :  Okay . Will be down or Okay .
+C :  So that they're separate a bit , yeah . Uh and it's easy to press the other the big buttons , but uh , it's not that difficult to press the the channel buttons either .
+C :  Mm . Yeah , I think that if you put the cover it will be even more difficult for the user .
+A :  Okay .
+C :  Alright , you won't yeah . Usually what I have noticed that people put the plastic cover on things that you normally don't mess with , like buttons for t uh tuning the channels and stuff like that . Yeah . That you want to protect a bit .
+A :  Okay .
+C :  And I think it's uh it's reasonable .
+A :  Okay .
+C :  So , I don't think
+C :  Yeah , this is just the the wheel . We could use the some wheels can be pushed down , could use the push down of the wheel for the record if we want .
+A :  Mm .
+B :  Mm-hmm .
+C :  Uh so we could just basically use one just wheel and uh user could use just the wheel to do everything with the channels in that case .
+A :  Yeah .
+A :  Maybe the wheel will be a good advantage over our competitors .
+B :  Mm-hmm .
+A :  Because otherwise it's pretty standard apart the fact that it's very simple .
+A :  So maybe it's worse to uh to have more expense on that's that aspect .
+B :  To s
+B :  Mm-hmm .
+C :  Yeah , I guess the market researcher will tell us all about that .
+A :  Okay .
+A :  So we can move to the Is there any question ? For
+A :  designer of user interface ? or we can move to the next part , maybe , and discuss afterwards ?
+A :  Okay .
+D :  Okay , I can go ?
+D :  Can I ?
+A :  Yeah .
+D :  So now the recent investigation we we have done fo of the remote control um .
+D :  So , the most important aspect for remote controls is to be fancy look and feel and not current functional look and feel . And um the second aspect is uh that the remote control should be uh technological innovative .
+D :  And the third most important aspect is to to is that the co remote control should be easy to use .
+A :  Okay .
+D :  So , are things we are we have uh speak about before . Yeah . And um so you you can go
+C :  Mm-hmm .
+A :  Yeah .
+A :  Yeah .
+D :  after .
+D :  And there is a fashion watchers in Paris and Milan that have detected the following trends , uh fruits and vegetables will be the most important theme for clothes , shoes , and furnitures .
+D :  So , maybe if our remote control have to be a fruit form or vegetable form something like that , or
+A :  Okay .
+B :  I support an apple .
+D :  And the mm the material is expected to be spongy .
+D :  Uh I don't know which material can be spongy , and if you
+A :  Yeah .
+A :  This is good also for
+C :  Well , wou wou I think we can certainly just put the electronics in a spongy thing , it it would work , right ? Yeah .
+B :  Yeah .
+D :  Mm-hmm .
+B :  Yeah .
+A :  Yeah . I think it is good also f to have a spongy material , yeah . Yeah , because it's robust .
+C :  You can throw it to the television .
+D :  Okay It's robust , yeah .
+B :  Yeah . Me too .
+C :  Hey that's a cool one . We could say that if you throw it , you have a sensor , and you throw it and hits the television and turns it off .
+C :  When it d uh takes a shock .
+D :  Not good .
+A :  Yeah uh sorry ?
+B :  Ah it's okay . I know that they do that for alarm clock also .
+D :  An and and uh this uh you can yeah you can say that . You ca uh you can go uh before , before , yes . And you know here the more iz important aspect is the fancy look and feel , after is uh technological innovative , and after the easy to use .
+C :  Yeah .
+A :  No .
+A :  Yeah .
+A :  Before ?
+A :  Yeah .
+A :  Yeah .
+A :  Yeah . I think it's innovative to use the mm the wheel because I think no one else has . Has it ?
+B :  Yeah .
+D :  Yeah that's why Yeah that's why I think we have to keep that if it's possible .
+A :  Yeah . I think it's it makes it both easy and both innos innovative . So I think it's a good aspect and it should be kept .
+B :  Mm-hmm .
+D :  Innovative . Mm .
+C :  How do we make it look cool is the question .
+A :  Cool , fancy ?
+C :  Yeah .
+A :  We have to make it l look like a fruit or vegetable .
+D :  Yeah . Mm .
+B :  What about um
+A :  Maybe uh um a colour that remember some fruit uh , things like that .
+D :  Oh , colour , yeah .
+C :  Well the obvious thing is a banana , I guess .
+D :  Oh i i
+A :  Maybe yeah .
+D :  I thought about a a pear , for example . You know the pear , is like that and it's it's easy to to have in in hand and uh
+A :  Yeah , and it's ergonomic as well .
+D :  Yeah .
+A :  A pear .
+C :  The banana is also ergonomic .
+A :  Yeah . Maybe pear yeah or something like that .
+D :  Or a fruit like that . I dunno .
+A :  Yeah . We can discuss that uh . D D Is is there anything you want to add ?
+C :  Is there any fruit that is spongy ?
+D : 
+A :  I don't think so . I think we we can have like yeah a pear is good , fit well , or banana as you told .
+C :  Yeah .
+A :  Something like that .
+B :  And for maybe look and feel , what about a a piece of ice ,
+B :  with blue L_E_D_ inside ?
+A :  But that's not in the trend . . The trend is spongy , and vegetable fruits .
+C :  You can make it um
+B :  Yeah .
+B :  Yeah .
+C :  It's not hard , the metal .
+B :  Yeah .
+A :  I think p spongy is good because it it will be robust as well .
+C :  Plastic .
+B :  Yep .
+A :  So , I think we can keep the wheel
+A :  because it's uh easy , it's innovative , even if the cost is a bit higher , and we also have to find a , so , a fruit like pear or banana wit uh any others idea you have .
+B :  Yeah .
+A :  What kind of fr fruit would you like to to control your T_V_ with ?
+C :  Mm .
+B :  Banana I think , it's a nice idea .
+A :  Banana is also yellow so you you can't lost your remote control then .
+B :  Because
+B :  But
+D :  Yeah .
+C :  Yeah .
+B :  You y you don't use the banana when the banana is curving like that , but when the banana is curving like that , with the wheel on the top and to control , and here you have a a push button to
+C :  Two of the button , yeah .
+C :  Yeah .
+C :  Yeah .
+D :  But you don't have
+A :  I think it's a good idea , yeah .
+C :  Yeah so you can just have uh just have this curve , yeah , and you move uh your hand here to press the buttons and then you move uh on the other side . So you can have it on on two sides and it'll be cool , no ?
+A :  Yeah .
+B :  Yeah .
+A :  Yeah . I think it's a good design and it's innovative as well then . Maybe we can keep the banana . And it will be very easy to find .
+C :  You can put also vibrator inside .
+B :  And everybody knows what is a banana . Basically . If you if you start with uh fancy fruits and fra s and tha
+D :  Yeah .
+C :  Ah-ha . You can also take into account the fact that the banana fits with the colour scheme of our company . Yeah .
+B :  Oh , yeah
+A :  Yeah .
+A :  Yeah it's really uh really a good point .
+C :  I hope the students of management die , but anyway .
+C :  Now who are recording this meeting ?
+A :  I think it So
+A :  One second .
+A :  So we have to take some decision on this aspect . So , uh so for
+A :  sorry , for uh component , so
+B :  So
+A :  we have to think about those aspects , sorry .
+B :  So we will just use a a standard battery ?
+A :  Yeah .
+B :  And uh the chip we chip imprint we know exactly which one we are going to use . Uh what do you mean by case ?
+A :  I think it's the box that should be spongy , banana's shape .
+B :  Yeah .
+B :  Uh I mean for me if we use a a spongy banana case , doesn't matter . I just want to have so something to prin to to fix my my components onto that box , and that's it .
+C :  The only th
+C :  Yeah .
+C :  Y Yeah that can be in inside th in the structure . But uh the thing is that the buttons and the wheel have to be I mean if it's spongy then the buttons and the wheel have to I mean if it's spongy then it's going to move , right ? So , it's going to be bend a lot .
+B :  Yeah yeah . Yeah .
+B :  Spongy also .
+C :  So if we try to push the buttons , it You think it's possible ?
+A :  But
+B :  Oh no I think it's possible .
+A :  No the button would be In fact it it should be something odd shaped , with a spongy cover .
+B :  Yeah .
+C :  Okay .
+B :  Yeah . This is uh like the
+C :  Yeah .
+A :  Okay odd shape with spongy
+A :  cover . And standard battery okay , a chip imprint , there's no specific problem . So we agree to put the wheel
+B :  Mm-hmm .
+B :  Wheel on the top . Button , where do we want some buttons ?
+C :  Well , usually hold 'Kay , we want it to be good also for the left-hand users , right ?
+B :  Yeah .
+A :  So it have to it has to be symmetrical .
+C :  Uh
+C :  Yeah but okay . Sa let's say that th o It has to be basically you can only take two sides , one on ths this side where is the thumb and the other side where there is uh yeah also the thumb . Basically . Or you could use use this one , but I don't know if it's very comfortable , to use this one for the wheel .
+B :  Yep . Yep .
+A :  Yeah maybe the thumb is more comfortable .
+C :  This for the wheel and then this for the buttons ? Should have the two sides .
+A :  Yeah I think it's okay for both right and left . Mm .
+B :  Mm-hmm .
+C :  So if the left , we have
+C :  the op
+A :  I think you can turn it this way also .
+A :  You can do both with both hands .
+C :  Wheel Wheel buttons . Yeah , the problem is if you have buttons and wheel then when you turn it around , the buttons are on the other side .
+A :  I think it's okay .
+C :  So you cannot see them .
+A :  Well , you you will get used to it . And moreover , th the button ar are lighted so you you immediately identify the right side , because you have light on buttons .
+C :  Yeah .
+C :  So the buttons have to be here and the wheel has to be
+C :  Yeah I know , but uh if you hold with your left hand , and the wheel is here , and the buttons are here , then when you turn it around the buttons will be on the other side .
+A :  Yeah .
+A :  No you you I think you will use it only on the right or left hand , whether you are righty or lefty .
+A :  I think for lefty it's okay . I can do this movement , and for righty as well .
+A :  I think this doesn't change that much .
+C :  Okay .
+A :  Yeah ?
+C :  Okay . Maybe .
+C :  Yeah .
+A :  So , for interface we said also that we have uh this banana shape with button on the s on the side .
+A :  And
+A :  and uh a wheel on the top .
+B :  Mm-hmm .
+C :  Yeah .
+A :  So the colour is yellow .
+A :  I think it's uh we defined everything according to
+A :  what we should what the decision we should take , yeah .
+A :  So maybe we can um
+A :  we can uh work on those aspects uh until next meeting . So have the final uh look and feel design according to the decision .
+A :  And have the the user interface design and uh then evaluate the prodyuc the product .
+A :  That is to say , uh check if it fit the the requirement uh given by the users , but according to uh your presentation it seems to be okay . It seems to be fancy , innovative , and easy to use .
+B :  Mm-hmm .
+A :  So
+A :  so
+A :  to prepare the prototype I would suggest that the Industrial Designer and the User Interface Designer uh work together . That would uh
+B :  Yeah .
+A :  be better , I think .
+A :  And uh
+A :  And so uh
+A :  you will receive further instruction by emails , as usual .
+C :  Mm-hmm . Yes master .
+A :  So do you need to add anything ?
+C :  No .
+A :  You feel okay ?
+C :  Yeah .
+A :  You feel uh free to express what you want to say ? You don't feel too constrained ?
+C :  Yeah .
+A :  You don't feel free to answer this ?
+C :  No .
+C :  Maybe you can make uh uh mm okay .
+A :  Okay , so
+B :  Thank you .
+A :  See you .
+A :  Okay .
+A :  Je croix que c'est dommage de le it will be sad to destroy this prototype . It really looks like a banana .
+C :  It is a banana .
+A :  It is a banana .
+C :  It is the essence of bananas .
+C :  I would be confused with this thing .
+A :  Mm .
+D :  Mm-hmm .
+A :  Okay . Hi . So we are here for the detailed design meeting .
+C :  How is everyone ?
+B :  Hi .
+C :  Mm-hmm .
+A :  So we will uh I will first present what we are going to do in this meeting .
+A :  uh I've I will also take notes during this meeting and I will send you uh a summary then as usual . We will then look at the evaluation criteria of the prototype presented by uh our two colleagues that make good work . And uh then we will see the financial aspects and the cost of the product . Then we will uh evaluate the product .
+A :  And uh end
+A :  with the conclusion of this project and see whether it fits
+A :  with it fulf if it fulfil the requirement or not .
+B :  Mm-hmm .
+A :  So d let's start with the cost aspect so so I look at the aspect discussed last time , that is to say uh to have a standard battery , to have a yellow banana shaped uh case with uh a rubber material around it to be uh to feel spongy ,
+C :  Like a banana .
+A :  and uh also at the different aspect like having a wheel etcetera . And the cost ended to be ten point seven Euros . So which is uh good , because we had a price gap of twelve point five Euros .
+B :  Mm-hmm .
+B :  Mm-hmm .
+A :  So for the financial aspect it's okay , we can uh we can continue with this product uh as if , and we are now going to see the project evaluation with uh our marketing expert .
+D :  Yeah . Okay . So uh you can have my project in
+A :  Yeah .
+A :  You have a presentation ?
+D :  Uh yeah just a
+D :  Four .
+A :  Participant four , yes .
+D :  Evaluation .
+A :  Okay .
+A :  Okay .
+D :  Okay . So you can go . We can go through .
+A :  Okay .
+D :  So I made an evaluation and the the evaluation criteria is made according to the users' requirements and the market trends we talked about uh during the previous uh meetings . So you can go through and okay so uh we have uh six points . We
+A :  Okay .
+D :  we talked about before . So we we want to have a product fancy look and feel , technologically innovative , easy to use , fashion , easy to find in a room , and robust , uh and uh uh I have a scale of uh seven points . Okay . So I go through all the uh all the points here , and uh according to what you think about the this project you can uh mm make a one point , two point or seven point . Okay ? And after we ha we have an an average , and uh we see .
+A :  Okay .
+B :  Mm-hmm .
+A :  Yeah .
+A :  Yeah .
+A :  Yeah .
+A :  Okay .
+A :  Okay .
+B :  Mm-hmm .
+D :  The okay ? Uh so uh fancy look and feel , what do you think ? F between o one and seven .
+A :  Okay . Maybe you can presen okay . Maybe hold it . So I think it's uh very uh very nice . What do you think ?
+C :  I give it a I give it a five .
+A :  Yeah .
+A :  So it's between one and seven ? Seven is the highest uh ? I will give a six .
+D :  Yeah .
+D :  Seven is the
+B :  I will give a a five .
+D :  Mm-hmm .
+D :  sorry .
+C :  And you ? Do you vote uh Christine ? Do you also vote ?
+D :  eh ? No , I just want to see something
+A :  Maybe we all have to agree on a common
+C :  Well , we can very easily .
+D :  Mm-hmm .
+A :  Yeah .
+D :  Uh I think uh and need to as well .
+A :  No problem . So this is your
+D :  Need to uh I don't know if you we ha we have to put uh one uh f
+D :  If it's better or
+C :  I
+A :  One is most .
+D :  Uh-uh .
+D :  Um .
+A :  Well , we can choose what we want . Okay , let's say that seven is the best .
+D :  Yeah . Or maybe we can say s seven is the best mm .
+A :  Okay .
+A :  So so do note the grade we have five , six for me , five . And what what's your choice ? How much would you give on the fancy aspect , on the fashionable aspect ?
+B :  Five .
+D :  Oh sorry . Six
+D :  Uh s you can how much what ?
+A :  How much would you you don't answer to this uh questionnaire ?
+D :  Oh yes I mm I dunno mm , I think six , it's a good uh
+C :  So it will have five point five average .
+A :  Five point five average .
+D :  Yeah . Wa can . Okay . I sorry .
+C :  Mm .
+A :  Okay .
+A :  Well , does it
+D :  Okay . So after , the technological aspect ?
+A :  Okay , techne technological aspect .
+D :  So we we said uh we have uh a new technological uh thing with a wheel .
+A :  Yeah , we have the wheel . We also have the rubber material ,
+D :  Uh .
+A :  which make it uh
+A :  new also . I think I would give a five .
+C :  It's four .
+A :  Four ?
+B :  A four also , because , except for the wheel , we don't have so much innovation . The rubber is
+C :  Yeah .
+A :  Okay .
+C :  D are we including the voice are you glu are we including the voice in the end or not ? Huh ? No . Okay .
+B :  Uh a four . I I
+A :  No .
+A :  So what's your uh grade ? Four ? So we have four , four f and five ?
+D :  No .
+D :  Four .
+D :  We can put four ? Everyone is okay or four poin
+C :  Yeah . For twenty five .
+A :  Yeah , four .
+A :  Four , yeah , let's put four .
+D :  Four .
+C :  Yeah .
+D :  Okay .
+A :  Doesn't it
+D :  Very easy to use . Do you think it's easy to use ?
+B :  Yeah .
+A :  Yeah , I think so . Yeah . I would give a I would give a seven as well . It's very easy to use .
+C :  I give a seven , I think .
+B :  Six .
+D :  Mm , six for me also .
+B :  Six .
+C :  'Kay .
+A :  So six point five .
+D :  Six point five . Okay .
+B :  Six six six point five .
+A :  Okay .
+D :  Is it fashion ? Seven ?
+A :  Oh yeah , its its f its fruit fruit shape . I would say seven . And is very very nice design .
+D :  Yeah it's fashion , because it's a fruit , and we say that the yeah , seven .
+C :  Yeah , we can we can put a seven here . Yeah .
+B :  Yeah , seven .
+C :  Yeah .
+A :  Yeah . Seven , okay .
+C :  Well , we hope .
+B :  Easy to find .
+D :  Uh easy to find in a room ?
+B :  I lost my banana .
+A :  I think you can't miss it .
+C :  Yeah .
+D :  Yeah ?
+A :  Okay .
+B :  Uh .
+C :  Yeah , I think it's cool . I think we can put a six here .
+D :  We have the lightning , or
+D :  The lighting .
+A :  Yeah , we have the we don't sesh especially have the lightning but
+C :  So you'll make the material transparent so that it uh lights up completely , or
+A :  So it's yellow . It's okay . I think it's very easy to I would say seven . It's hard to miss it .
+D :  Yeah .
+D :  Seven ?
+B :  Six . Yeah , okay .
+C :  Yeah .
+D :  Is it is it robust ?
+A :  Yeah , it's rubber , made of rubber , I think it's m it's uh more rubber than uh other remote control .
+B :  Uh f yeah , it's ru it's rubber .
+B :  Yeah .
+C :  Yeah the only problem there might be which know , i if it's very sensitive , they will , I don't know
+A :  Yeah . But it is uh it is surrounded by rubber material . So maybe we can put a six .
+B :  Yeah .
+C :  Yeah , okay .
+B :  Yeah .
+B :  Yeah .
+C :  Mm .
+D :  Everybody is okay , six .
+B :  Six or five . Five .
+A :  Six is okay ?
+C :  Six , yeah , for me .
+D :  Yeah . Okay . S now um so .
+B :  Six .
+A :  Yeah .
+C :  Yeah .
+A :  Tadada .
+A :  We have to sum up everything .
+C :  Twenty .
+D :  Thirteen uh , twenty , twenty six point five , uh seven , thirty two , thirty six . That's that's okay ?
+C :  Thirty . Thir
+D :  Six .
+A :  Six is a good
+C :  Okay .
+D :  Good . Uh if we say that seven it's uh it's the better , and when uh s six sit six are good it's a good uh p product , I think .
+C :  Yeah , the top
+A :  Yeah , the be .
+A :  Okay , so six is a
+C :  Mm .
+C :  So will become eight soon ?
+A :  So it's a good evaluation , I think . It's very promising .
+C :  Yeah , well it's a bit biased .
+D :  We have a good price and uh .
+A :  Huh .
+B :  Yeah .
+C :  Okay .
+D :  Good .
+A :  So this prototype is quite nice .
+C :  Because I saw uh some phones that were banana shaped , uh wireless phones not mobile ones , wireless for the house , uh quite big also , and they were selling something like a hundred Euros , two hundred Euros .
+A :  Yeah .
+A :  Okay .
+C :  Just a just a phone , wireless .
+B :  Mm-hmm .
+A :  So having this at twenty five Euros is uh quite attractive , I think .
+C :  Yeah .
+B :  But almo also the complexity between a phone and a remote control is not cannot compare .
+A :  I think the
+C :  Yeah . Yeah , it's much more complex , but
+A :  Yeah .
+A :  So , I think , we can summarise . So we have seen the prototype . It's very nice according to the work of our two designer . The the the financial aspect were okay . We we have the cost below uh our threshold and so we could sell at twenty five Euros and make i make profit .
+A :  The the evaluation give satisfying result as well . So I think we can move to the last part of the meeting .
+A :  So the cost is in the budget , the evaluation is okay , so I th I think we can now uh open champagne and make a huge party . I don't know if it's provided by uh by the meeting staff . Okay so congratulation .
+B :  Start to eat banana .
+D :  Mm-hmm .
+C :  Okay .
+C :  Congratulations to the team . Uh very well , we worked together fantastically .
+B :  Yeah .
+A :  Nice product .
+A :  Yeah .
+A :  I think it was a good collaboration uh .
+C :  So what does the management say ?
+A :  Aspect .
+A :  Sorry ?
+C :  What does the management say ?
+A :  I think we will have um much bigger project next time and a much bigger salary as well .
+C :  Ah .
+A :  All it depends on who watch this meeting . We don't know .
+B :  Yeah .
+C :  Yeah .
+A :  Okay , so good guys , so see you for next uh successful project .
+C :  Okay .
+B :  Okay .
+B :  Yeah . Fruits .
+D :  Mm 'kay .
+C :  Mm .

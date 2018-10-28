@@ -1,0 +1,284 @@
+Today  functional design phase 
+
+The functional requirements  its uh uh very important for uh the user 
+
+seventy five percent of the users find most remote controls ugly  Um
+
+they want to spend money for a better system  for better remote control 
+
+and um they use yeah  they use zap a lot 
+
+but um uh the relevant buttons are the power  the channel selection and the volume selection 
+
+but uh w and not important in the audio settings  display settings
+
+we can we can hide those under a menu or something 
+
+that was in the test  the the most people uh f find it uh irritating uh when they cannot find a rem their remote control 
+so uh I think its a bee beep to sound it and uh you can find it 
+And another thing uh they want was uh speech recognition
+
+And they want maybe an uh LCD screen
+
+We wanna have a little preview on the remote control  Preview whats on the channel 
+
+Cause it sounds pretty expensive too 
+
+Uh my personal preferences is uh a button for my favourite channel 
+
+it just remembers the channel that you are on most  for example 
+
+Yeah 
+
+some technical functions 
+
+There are many buttons on a remote control which are not clear 
+
+Uh also symbols tend to fade after a while 
+
+this is basically what I h had in mind in the fadeproof symbols  locator  a sound 
+
+And possibly also the size  so more important buttons  bigger
+
+but more less buttons  easy  some bigger buttons 
+
+Yeah  its true 
+
+So we agree on the the part that we need to get something on the on the remote to find it somewhere
+
+so if we make a circuit board with the the connections already on it  then thats cheaper 
+
+You have the the power coming in 
+
+The switch uh uh uh if you p press it then some electrical charge goes into the processor  that thinks over a Morse code 
+
+then uh the signal is sent to two uh light bulbs 
+You have infrared
+
+Uh I dont have any personal p uh preferences uh so far 
+except for uh the materials to be used uh light  that they are light 
+
+Like you said uh teletext is not not very popular anymore
+
+I dont think we should remove the button 
+
+But I dont think it should be very it should be one of the big buttons for example 
+
+This is a new product and with this new product we want to appeal to younger people 
+
+um the younger people were defined under forty 
+
+And one thing that should be important is that the corporate l colour and slogan are recognisable 
+which is apparently black and yellow 
+
+With that concept I started thinking  so why not just steal Nokias idea
+and just make changeable covers for your
+
+I think this is a good idea 
+
+I think we should lose the LCD screen 
+
+Y Yes  I think so too 
+
+I think it takes up a lot of a lot of power 
+
+What we could do  what could be possible  is maybe not an LCD screen but with a preview 
+
+For example  a little TV guide 
+
+Im not sure its even possible 
+
+I have to check that out 
+
+I think the p yeah  the beep is a very simple thing to imple implement 
+just make a button on your TV
+
+we should go for that 
+
+then uh Id Id like to know now if we want the uh universal remote control or not 
+because thats uh determines everything Im gonna do 
+
+I think its universal  I think we should go for universal 
+
+Speech recognition  I think its very hard 
+because were selling across multiple countries 
+
+Besides that  the technology isnt really super yet 
+
+but its just not I dont think the markets ripe for that yet 
+
+you should you should look into the in into the materials that are real durable 
+
+maybe a little harder plastic
+
+If we uh make a remote control with changeable covers  then we can also make uh a cover for every language area 
+
+But should the exchangeable covers include the buttons themselves
+
+its not even a bad idea 
+For example  if your buttons are faded  after I mean if you make a durable remote  they are faded  you can just buy a new cover 
+
+Uh we can make something that you can only remove the sleeve 
+
+its just just a one one piece of rubber for example 
+
+something I have to look into 
+
+you have to come up with a components concept 
+
+you should do some trendwatching 
+
+I think it should be have less or l very little buttons
+and maybe a second second level menu for the advanced things 
+Or maybe just stick em under a menu 
+
+Is it techni technically possible to uh send a signal to a television and then pops up a menu 
+because were working with different types of television 
+
+That is true 
+
+I dont think so 
+
+A doublesided remote control 
+I dont think thats useful 
+
+but you cant you cannot take into consideration all the different brands of TVs 
+
+because usually the the menu is the menu button is is usable between different brands  Especially the big ones  the big brands 
+
+if you can put some research into that  if its possible 
+
+I think its possible 
+
+I thi I think so too 
+
+Maybe its a little more curves or whatever 
+
+And uh with different colours uh 
+
+Ill put some on paper
+and present them next time uh the ideas that I have 
+
+we could do some i do some work now on on the design for example 
+
+and since youre holding it like this  I suggest you put the channel up channel down and volume
+
+Think its like this 
+
+I think that the the buttons should be the channel buttons should be uh on their own 
+
+Uh maybe the menu button can go i in the middle 
+
+Yeah  in the middle 
+
+Perhaps we should also make uh something like a flash on it  if you if its lost  for people that are deaf 
+
+but for example if its lost in your armchair  well not see the flash 
+
+We could make a combination that it goes beep and that you that some light lights up 
+
+We could do that 
+
+uh the power button somewhere over here 
+I usually press it on top 
+
+Mute 
+
+I think it should be at the bottom somewhere 
+
+Around uh not uh not at top at the around the volume selection 
+
+Shall we uh also look if its possible to make a rechargeable remote 
+
+Im not sure y Im not sure its if its expensive 
+but just take a look at it 
+
+to have uh like sort of a maybe a base station that you put on the TV  Could be flat  you could insert your uh remote into it 
+
+But I think that will cost a lot 
+Uh a normal wire would be better 
+
+Im not sure if it costs a lot 
+
+And do people actually want that  To pay extra they want to pay for rechargeable 
+
+we could either make a separate station which just sends a signal to the remote control to either beep or flash to find it 
+
+we have to either that or make it integrated with a with a docking station 
+
+I think this is a brilliant product 
+
+because if theyre willing to pay more  we could lose a little profit and maybe attract more customers 
+
+Could you post some other essentials of what people want 
+
+Where would we want the uh teletext button 
+
+Do we put it somewhere over here 
+Or maybe this is something for the next meeting 
+
+draw us up some some designs of of possible
+just keep in mind that the important buttons should be on top and either big 
+
+we dont want we want very little buttons  just the buttons you use a lot 
+
+because some TVs have the uh possibility to adjust brightness  that kind of menus 
+
+but thats what we stick under the menu button 
+
+Because it needs to be configured in the television under the menu 
+If it isnt  then we cannot reach it 
+
+But I think most modern TVs have it in their menu 
+
+Uh isnt there a possibility to do research on that  so we know that for sure 
+
+Um they want to pay for an LCD screen and speech recognition 
+
+Oh  were not going to be able to sell it for twentyfive then  with an LCD screen 
+
+Yeah  just look at the possibilities then 
+
+we should do a little thing about design 
+because it looks boring really to me 
+
+Different colours maybe 
+
+And the design  it should differ 
+
+lets say that people would want an LCD thing 
+Lets take take the basic design again  what we oh  crap uh came up with 
+
+If youre reading from top to bottom  I think its better to put it uh at the top 
+
+How can you use an LCD screen 
+
+But nee the function of it 
+
+So we have three people saying it should be on top 
+
+Do we put the volume control and the channel control here 
+
+In the middle 
+
+Maybe in a circle for example  like we like in this example 
+
+I think the channel button should be in the centre 
+
+but we do agree that we keep this at the centre 
+
+but if we need two batteries and an LCD screen  that means a lot of space that we need 
+But it has to be a little bit heavier 
+
+Just to do research into both  w what it costs and what it takes for space 
+
+uh lets give this uh a name  and not like some vague serial number that no one understands  like with cars 
+
+Yeah  lets think of a name  okay 
+
+the the minutes will be on the on the web shortly 
+
+If you rule out functions  then uh and that gets known  then people are not gonna buy it 
+
+I Im not sure 
+

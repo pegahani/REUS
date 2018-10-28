@@ -1,0 +1,369 @@
+I hope youre ready for this uh functional design meeting 
+
+I will take the minutes
+you mm you three are going to do presentation 
+Um uh we want to know to at the end to know the new projects requirement
+
+we need uh to know the the user uh needs
+
+we want to know how it going to work
+
+third part uh I dont remember
+
+lets go for the three presentations 
+so first um Marketing Expert 
+
+So as you know  you I think you already know me  Sammy Benjo 
+I am the expert in marketing
+and I want to tell you about what people uh s want and uh like and dislike in remote controls 
+
+what I suggest is that uh instead of deciding ourself what what could be and what should be a good uh remote control  lets ask people who are users of remote controls
+
+what they like 
+what they dont like
+
+So weve weve conducted a a survey on on the use of uh remote controls
+
+what we found was that uh there are several things that the user dont like in remote controls 
+First of all  they find it very ugly 
+
+uh theyre not nice colour  not nice shape 
+I mean theyre all the same 
+
+Um what is interesting
+is that in fact it seems that they were people are ready to pay for nice and look and fancy looking uh remote control 
+so I think we should probably spend lots of time in and effort in that um 
+
+and it it the the current uh facilities that they offer do not match what people really want to use their remote controls 
+
+And the other thing is that uh the the current remote controls are not so easy to use
+
+For instance uh we see that uh they zap very often
+so I think this is a very uh important uh functionality
+
+And most of the buttons uh on uh current remote controls are not used 
+so I think we should design something where some of the buttons which are those that are used should be easier to see and use than others that only a couple of people are using 
+
+people are very frustrated w with their remote controls
+and they for instance uh they dont even find it
+its its often lost somewhere in the in the in your home
+
+Maybe if we have something where we could ask the remote control please  where are you 
+Like uh something to to like t I think phones  Some of the phones have some of this kind of s functionality 
+
+And because of the fact that there are so many buttons in these remote controls
+
+that nobody use 
+
+so most of the the people say they they dont know how to they to use properly their r remote controls 
+
+And uh they are bad for RSI
+but uh I dont remember what is RSI 
+
+Yeah  its electromagnetic waves or something kind of maybe uh effect 
+
+but we have to take this into account 
+
+now I remember what is RSI
+its repetitivity stress injury 
+
+So weve listed a couple of uh
+
+Functions 
+
+that may be uh used by u the user in the current uh available uh remote controls
+
+but what is important
+is to understand that the power button is not used often
+because in general you use it only once per session 
+but it is very relevant 
+People want to have a power button 
+Channel selection is uh o often used very often used
+
+Volume is not often used
+but people uh want to have control on volume
+
+And n then you have things which are very much less often used like the settings  Audio settings  screen settings  even teletext and channel settings 
+All of them  theyre not often used
+and they are s more or less relevant 
+It seems that people find teletext teletext uh relevant 
+
+but seems that its average relevant at least  so 
+
+I have been told that we uh dont consider teletext 
+that its out of date now because of internet 
+
+if if there are good reason not to put teletext its okay
+
+One of the thing the trend uh that uh you are probably aware of is the possibility the eventual possibility of having speech recognition in your remote control 
+so you wouldnt have to tap tap in your buttons
+but just tell your remote control or whatever you need you have what you want 
+So weve conducted a survey about uh whether people would like or not to have uh this kind of uh functionality in their remote control
+and as we can see it really depends on the age 
+Young people  probably because its a buzz word  find it very relevant 
+And uh as the age goes up the the relevance goes down 
+So now it really depends on the kind of uh targeting uh wha who are we targeting with this remote control 
+I think if we are targeting young people then uh its probably something we have to consider 
+If we are targeting you very old people this is something they really dont know why they this should be
+
+so thats basically my findings 
+
+should we aim at the young people or not 
+
+I think we should aim at the young people 
+But uh I think they are they are those uh who might be more interested in a in a new device 
+In general the the early adopters of a new device are young people 
+
+Then teletext is useless for them I think 
+
+Because they they have other means of finding their information  Yeah 
+
+my name is Mark Dwight 
+and um I am responsible for User Interface Design 
+However  uh mm Project Manager asked me to give you some presentation about technical functions design 
+
+thats gonna be less technical functions but more User Interface and current intentions and everything which is linked with this 
+
+And uh a general method which is seems to be very useful for our task
+
+We should never complicate things too much 
+We should only make a remote control  nothing more  Nothing more than this  just a remote control 
+Cause current remote controls they are never easy enough to use 
+
+So here is this remote control 
+Its quite a standard one 
+but its not from a TV 
+its from a much easier device like air conditioning or something 
+But you know  we can use it for a TV easily 
+Only buttons we need is on off  volume  channels and maybe some options or something else 
+
+I would say the simplest one as long as there are the uh I find the buttons that I need every time I need a button 
+
+Maybe it can be yeah middle of like  between those two
+
+compared to this one
+
+Our question of the style  we should remember that our company
+puts fashion into electronics
+
+For personal preferences I think that to make a babyproof remote control it got to be a titanium 
+
+It is unbreakable
+and it is very universal 
+W well have a screen with a back light
+which can change colours 
+and we can put all the options into this screen 
+Well need only few buttons 
+All the other things can be controlled through the screen 
+And all these buttons should be easy to find and to click 
+
+I would propose this concept for design  just few buttons  a screen with a back light which can change colours  titanium
+
+We need power and volume 
+And let us include two nice features into this device 
+first  power on and off can be made fully automatic 
+When you go to the sofa  take your control
+and point it to the TV 
+the TV turns on 
+
+And when does it turn off 
+
+When you dont touch the control
+
+For for enough time
+
+And another nice feature that I would like to implement is uh volume control 
+Suppose you set u you set up some volume
+and then you move out or you move to the other corner of the room
+and take your control with you 
+Like  you want to to change the chair or you want to move to the armchair from the sofa or something  and then the volume changes 
+
+Uh Im not sure about the screen 
+
+According to your distance to and the angle maybe  if you have a stereo system 
+
+wha what is the use usefulness of the screen 
+Uh is it a touch screen by the way 
+
+I think it can be just a menu which can be controlled with a left  right  up  down and enter 
+
+but uh it has to be with an back light somehow 
+
+So basically thats it 
+
+Um I see that you target uh several s application not only TV
+but i like we talk about um universal uh remote control 
+
+Can be easily done 
+
+Since we were targeting a really soon uh uh date for the the the um i issuing of this uh remote control
+I think we will only concentrate on TV for the moment
+and then maybe m make it more generalised yeah 
+
+but its quite universal you know 
+We can just extend it to any device 
+
+for instance if I want to go to directly to channel twenty five  how would I do can I do that with this 
+
+You know these days we have hundreds of channels 
+
+In fact I would propose another solution 
+Basically you use just four or five channels 
+
+set up your TV set like channels that you use theyre one  two  three and five 
+and you will never have to go to a twenty fives channel 
+
+But even we can have some uh LCD display 
+like you can uh de you can just button the number
+
+One thing is that as I said in my presentation people really do like to z zap 
+So even if they are only watching four or five channels  I think they want to zap out of the one hundred channels 
+
+on zap its only next next next next next  yeah 
+
+But otherwise like we can put some display on numbers
+
+Mm  We got these buttons here  Next next 
+
+Maybe we can make uh different modes for each button
+and you can change mode zapping mode or
+
+uh if you want to go for a universal then we ought to limit for functions for each of our devices 
+
+but since we are focusing only on TV remote controls
+so we can have more functions for TV
+
+Could we carry out some research if we w really need this 
+like how many people really need to go to channel number twenty five and then to sixty four 
+
+Ill check in my department if theres someone specialist in that 
+
+Uh as you know  I am mister Ramaro 
+I am an expert in uh industrial design of all electronic devices
+
+So now Ill briefly describe the working design of our remote control 
+
+as you know the basic function of remote control is sending some message to the the device  like TV or VCR or DVD player etcetera 
+
+So we need to have some energy source to do what to do the functions  what we want on this portable device 
+
+so to do these functions we need an interface 
+which basically some kind of pressing buttons or keys or like moving jack or something like that 
+And then these messages these key buttons can be transferred into some kind of message
+and then it will process by the chip
+and then it will generate some information to the main device 
+
+uh since we are focusing on our interface device remote control
+mainly the energy source like the battery
+and then we have user interface like uh the keypad and you know buttons we want 
+
+we ought to have some kind of processor
+
+And then well have the infrared LED source
+
+Then well have switch in our main uh um device to do particular operations 
+and we ought to do different codes for different TVs 
+
+To make it quite uh an universal uh device uh 
+
+because the people dont use one particular brand so
+
+So we need to check their specifications
+
+So we need to have particular encryption codes 
+
+so Ill input the connections to all this components 
+
+so if you want to add some more components we can incorporate them 
+
+Mmhmm  And from from the discussion we had do you can you make it on the whiteboard  or mm 
+
+and also Marketing Expert for the speech recognition is really handy 
+we can have another  like uh s simple speech recogniser on our DSB chip 
+
+and we can have some speech recognition and in our g generally small digital signal processing chip
+so that and we will put uh the small uh simple speech recogniser
+
+you can find even simple mobile device like any mobile brand you can have these voice dialers or these things  yeah 
+
+Think of a all these young people who would love to say that this remote control only works for them 
+
+And what about the price of this component 
+
+Uh maybe we can make uh it in five Euros and even less than that 
+
+The user uh will just be able to say uh please can you uh pump up the vo pump up the volume
+or or it will be something like volume  up  down 
+
+And then we can have channel they can say  okay I want eight 
+
+we dont want like BBC or CNN or something else
+
+it will be complicated
+
+First of all I I think this is not uh functionality that it is going to be instead of using the buttons 
+
+actually we we can have one switch to like uh switch on  on and off  this processor
+
+Did you consider the r gest uh gesture recognition 
+Like  if I want to put volume up I like do mm I take my remote control do like something like
+roll em up
+or roll em down 
+
+Very expensive 
+
+what about the idea of automatic on off on the button  yeah 
+
+even automatic on off is also a bit problematic 
+
+like so suppose people are really uh they just uh they dont touch the remote
+and mm y you dont know how much time you need to switch on or switch off
+
+So in in a given room there might be more than one remote control 
+We would uh have each one and uh with our own personal uh settings 
+
+Yeah that can be possible  especially for power settings 
+so user can say okay  suppose theyre watching a tennis match or something then they can say okay uh after one hour I
+
+were now going to l have the lunch break 
+Then we will work again for thirty minutes individual work 
+and um we will uh meet again for the next meeting 
+and uh in this one want to to be more focused on the individual actions the um on the components
+
+you will focus on the component concept um
+uh of course the UID Mark will be uh focused on the user interface concept
+and uh our m Market Expert Sammy Benjo uh on the trend watching 
+
+of course like before specific instruction will be sent to you by your personal personal coach 
+
+And we have um maybe we have to we say  only for TV  not teletext 
+Uh I think automatic on off control uh its not possible 
+
+But speech recogniser can be possible 
+
+Uh  should it be equipped with the uh  with uh speakers 
+Like  you want to find it  you shout
+
+and it answers is Im here  Or
+
+But thats ex thats expensive  Uh 
+
+Just beeps 
+
+I I heard of devices where you just uh whistle them
+
+because of the the frequency they they just answer to that 
+
+You can clap  Can you 
+
+But its a good feature I guess yeah
+
+were done 
+
+lets go to lunch 
+
+because we have only very few words like like power  switch on or some like
+
+so we try to only recognise those words
+and and because we cant really say user to say same wording
+

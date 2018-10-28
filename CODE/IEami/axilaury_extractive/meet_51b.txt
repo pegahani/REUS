@@ -1,0 +1,354 @@
+um we decided to use a kinetic charger 
+standard chip  um cause it can come in various different sizes 
+
+We wanted a standby function 
+The case material is gonna be soft  rubbery  changeable 
+Um buttons with a combination of LCD and rubber according to the design 
+Um bright funky designs inspired by fruit  keeping with the hip kind of feel 
+Um and to try and incorporate voice recognition software into our design until we can find out more about the cost of things like that 
+
+Prototype presentation 
+
+Um and the rubber buttons that well use will be antiRSI 
+
+Me and William worked on a prototype 
+and I think William is going to make a p presentation on that 
+
+I can hold it like
+
+and Ill Ill show you the presentation 
+
+And well first look at the exterior of what weve uh come up with over there  Um
+Its gonna have a a plastic body um with a sort of standard colour  either were thinking some something fairly neutral like a a white or a light blue or something 
+This is underneath the rubberised the rubberised uh outer casing
+um which thered be sort of a wide choice
+
+Um the um wide choice of colours and sort of patterns 
+
+Um its obviously an a sort of clamshell design
+and uh the um the top LCD screen that you can see that would b would be sort of um how do you say  its yeah yeah  it would be sort of inset into the into the top
+
+The black and white touch screen
+
+and the buttons at the bottom would d
+
+so so itll fully close flat 
+
+weve um already said d decided on the kinetic batteries 
+which actually  thinking about it now  could y could also probably attach to the flipping open and shut as well 
+
+So put it in the top section rather than the bottom sections 
+
+Um we decided that um the voice recognition system  it did actually say on the email that they were sort of coming in
+and they were fairly easy to get ahold of 
+so we presumed that theyd also be quite cheap 
+So youd have something like where youd shout out  where where is the remote and itll shout back  Im here  or something 
+
+Um the standard  theres be a standard transmission with the TV using using all the standard chips that weve talked about 
+
+obviously cause its split over two two different layers 
+it would need two separate PCBs 
+so it would be joined at the hinge through some sort of cabling 
+And uh because  obviously  all TVs use this  the same infrared medium 
+wed just be using using the same thing to transmit the data 
+And the infrared um sender would be on the on one of the bot the bottom layer  just at the front of the
+
+So when youve actually got it open  it would be facing the TV 
+And then finally um on to the interface 
+The top screen  as we said  is would be an inset um black and white LCD s touch screen
+which yeah would uh have all of all of the the available functions for for the remote on it 
+uh whereas the bot the bottom screen would just contain the standard buttons  like the vo volume up and down  channel up and down  power on and off  and uh things to that effect 
+And now weve we also decided on the inside  we could possibly either have um some some kind of sort of bezzled uh logo on it  or something inset  or maybe an engraving of the logo on the top 
+
+But not interfering with the outside kind of look of the product
+
+And finally thats how we put the fashion back into electronics 
+as that is thats the company logo 
+
+Um Ive now got evaluation criteria 
+
+This stage of the evaluation is really for us as a team to evaluate if we have now got a product specification and prototype design that meets the the criteria that we got from our market research 
+
+the collection of the criteria  as we saw in our previous meeting  was based on the user requirements and trends found in the marketing reports and marketing strategy of our company 
+
+are we actually meeting those trends and requirements 
+
+So its what weve discussed in the last meeting 
+
+The criteria that we want in this remote control are a fancy look and feel  technological innovation  it should be easy to use  it should incorporate current fashion trends 
+and those the two main ones  they were the spongy texture and the fruit and vegetable strong design colours 
+The design should minimise RSI
+and be easy to locate
+and we were still um uh slightly ambivalent as to whether to use voice recognition there 
+though that did seem to be the favoured strategy 
+
+Were going to use a seven point scale 
+where one is true
+and seven is false 
+
+and I will just do a preliminary rating of all those criteria on the whiteboard here 
+
+Is it everybody is going to evaluate  or just the Market
+
+w well discuss each one
+and well come to a consensus rating between one and seven 
+
+I wont write all of that out again 
+It will just be criteria one  two  three  four  five  six 
+
+Actually  it might be an idea  if we each did give our own individual rating 
+and we could take an average at the end 
+
+So Ill just separate the ratings by obliques 
+and if we go one  two  three  four  we know whos who 
+
+Criteria A  the fancy look and feel 
+
+My own rating for that would be a two 
+
+Two and three quarters 
+
+criteria B  criterion B  technologically innovative 
+I would give that a three 
+
+Id give it a one 
+
+Its just two point five for that one 
+
+ease of use 
+
+Based on what youve said there  I would say a one  true 
+
+I would say a two  I would say a two 
+One point seven f five 
+
+it incorporates current fashion trends 
+
+Im just thinking  before I give it my rating  you were limited in the use of materials for your prototype here 
+Is this actually going to be the colours that you would use 
+
+the the base colour was um white or or like or l sort of a light blue 
+but the changeable fa faces would uh allow you to get any basically any one of a number of colours that uh th its full sort of customised 
+
+So we could use any strong fruit and veg colours and thats what were intending to do 
+
+cause th thats thats the the spongy feel would be in the rubber that you put round it 
+
+In that case its got to be a one for me 
+
+Yeah  Ill give it a one as well 
+
+to does the design minimise repetitive strain injury 
+
+I dont think weve really touched on that a lot 
+
+we havent really come up with anything that we felt could feasibly reduce that 
+
+but the very use of a remote control  if youre someone whos zapping  whos sitting like that  and we found so many people did  how do you minimise that on such a small device 
+
+the type of button that were gonna use in the bottom half  the material  minimises RSI
+
+but with the amount of stuff were putting on it isnt that much 
+
+I think Im gonna have to be neutral on that
+and give it a four 
+
+Id uh Id f Id go for a five  actually 
+
+And finally  last but not least  easy to locate 
+Now we talked about voice recognition 
+we talked about a beeper 
+
+Yeah  it was it was uh a voice voice recognition 
+
+have the designers come to any dec real decision on that 
+
+And are we happy with the costs on that  That is going to be feasible  costwise 
+
+Yeah  yeah  that yeah  thats feasible 
+
+And if you didnt hear it in the room that you were standing in  then youd realise that it wasnt in that room  youd go into another room 
+
+it would be quite loud 
+
+Thats a one for me 
+
+I do realise that we might be being fairly biased 
+cause it is our product 
+
+Weve got our our weve got the highest rating of meeting the specifications that is definitely true for two of the uh six criteria there  That is for um incorporates current fashion trends and is easy to locate 
+The lowest rating weve got  which is really n its not terribly low 
+i its close around neutral is for uh the minimisation of repetitive strain injury 
+Do we feel on the basis of tha of these evaluation findings that we can go ahead and now produce this as a prototype and market it 
+or do we have to make further modifications 
+
+I dont think so 
+
+We happy to go ahead 
+
+I think we yeah  I think were set 
+
+I think for most of those ratings that its high enough at the upper end of the scale for us to go ahead with that 
+
+Ill just leave it there 
+
+Ive got finance here now 
+
+We just type numbers into this
+and we come out with the final value 
+So are we still on for kinetic 
+
+Yeah 
+
+See  it woulda been handy to have this at the beginning 
+Um it might have influenced our choice 
+
+It was a regular chip on print
+
+you youve put in three for the number of kinetic cells 
+there should just be one 
+
+one of them and one sample sensor and sample speaker 
+
+One double curve 
+
+cause its two 
+
+whats a single curve then 
+
+It would just be a flat bottom with one curve  like a domed thing 
+
+Um weve got plastic and rubber 
+
+I think rubber  since its being used just as a casing 
+
+See  it says case material 
+
+were not actually using plastic in the case 
+
+Theres nowhere else we can code for the the rubber used in the casing 
+So do we not have to account for it in the cost somewhere there 
+
+Or sh we should just put it in as one 
+because the plastic is zero anyway 
+
+special colour  do we need that 
+
+Might do  if we go for some of the more exotic aubergines and such like colours 
+
+the pushbuttons one
+
+and LC display one 
+
+I think we could change the battery also 
+Instead of going for kinetic how about going for a standard battery 
+
+and I really doubt if on the basis of current technology and our current capabilities  we could actually do much more to minimise that 
+
+and just actually making the rubber case the curved thing 
+is that going to make a difference 
+
+so the highest weve got is the electronics here  Um and the interface 
+
+If we moved away from our much loved idea of a kinetic battery and just went with the standard batteries  would that make a huge difference 
+
+it um it would make one difference 
+
+What I feel is  customers never said anything about the battery 
+
+but if you take away the voice recognition  then youve got it 
+
+If you took away that  thatll make it twelve point three five 
+
+If we change it to the battery its thats minus three 
+
+We could do the voice recognition for  you know  business class or something  you know  like an upgraded version 
+
+I dont see why we have to sell it for twenty five Euros now 
+because they w they were saying they were quite willing to pay more for better product 
+
+We can put in our recommendations 
+If we if were working to head office specifications as this is what this project teams working for  we can put in our recommendations for what weve weve found and what we the consensus that weve come to as a result of the meetings 
+
+Um as you say  we can offer the voice recognition initially to business class customers
+
+So if we take voice recognition out
+
+Thatll do it  Twelve point three five 
+Is it twelve point fif was it twelve point fifty 
+
+we are close to the budget 
+
+So we are under the budget 
+
+Product evaluation 
+Weve done room for creativity 
+
+Because weve got decisions that we would have made that we werent didnt feel able to make  Um
+I presume we discussed leadership and teamwork 
+
+Although we had our separate tasks 
+
+I think we had a nice time 
+
+there was so much interaction 
+so much that we needed to um bounce off each other 
+
+in that in relevant areas weve been able to  you know  give and take
+and adjust our remit where necessary 
+
+Yeah  I think there was uh very constructive feedback by everybody 
+
+We came to a very predic creative design  yeah 
+
+And Sarah  you coordinated the work very well 
+
+I think it would have made it into the final product if it was actually if if if wed seen the marketing before the initial specification was put out  I think maybe it wouldve come out a d little different 
+
+although we didnt quite make the voice recognition in there 
+but thats thats good 
+
+I liked the fact that we could say an idea and itd be suggested that that wasnt the best idea  but no one felt like shot down 
+
+you two created that wonderful specimen of a PlayDoh model 
+
+Um means  whiteboard  digital pens  etcetera  what does that mean  Any ideas 
+
+How do we evaluate the materials we had for communicating and sharing information 
+Could itve been better 
+
+I think I think we probably woulda used the outer email system more  had we actually had had more time and if wed been separated more 
+
+I think its new ideas in general 
+
+Its really borrowing from other areas  its  you know  bringing things from other areas in 
+
+Surprising to me is like uh people give a lot of attention to modifying mobile phones  like a real want to see a new launch or something like that 
+
+but nobody giving uh much idea to this 
+
+I think its really good that this has been very market research based 
+because just going back to mobile phones  I mean this is the first change in remote control devices that I can really  you know  say is is obvious and visible 
+We see it in mobile phones a lot 
+and tha thats where weve borrowed a lot of our ide our ideas from 
+There are innovations in that that people dont really want 
+
+and I think its wonderful our companys so R and D based 
+
+Um our costs are below budget
+with recommendations that they the budget be increased 
+
+Do you think thats takes into account um overheads like us being well paid kind of a thing  And the heating for the building  do you think our budget includes everything  all the costs that are going out 
+
+I think it was just the produc uh just the production cost of the phone 
+
+I think weve done very well to get within budget
+
+Um and weve got the meeting survey and questionnaire 
+
+Theres a final questionnaire 
+
+weve got about fifty minutes to catch up with everything that I fell behind with 
+
+I think Ive got minutes for two of the meeting and the last thingy 
+

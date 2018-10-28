@@ -1,0 +1,237 @@
+Well  welcome to the third meeting of conceptual design 
+
+on the agenda for this  um  for this particular meeting  well have your three presentations on what youve done since our last meeting  after we came up with um some general ideas of our design 
+And  um  then we have to make some key decisions on  on our remote control concept  and how were gonna make it  what uh materials were gonna use  and that sort of thing 
+The meeting will be forty minutes long 
+And um we will once again have Poppy as our first presenter 
+
+Um  first of all we have to look at how the remote control is actually made 
+
+Um  thes main internal feature is a circuit board  which contains all the elec electronics and also the contacts with the power source 
+
+Um  there are several components of  um  the circuit board that we need to consider  where well be getting them from  what theyll be made of 
+Um  including the integrated circuit  which is also known as the chip 
+
+Are they all included  like mandatorily  or r are these different options 
+
+theyre all separate  apart from the chip  which we will probable decide whether we buy a simple  a regular  advanced 
+
+so weve got flex flexibility with colours and things  with that as well 
+Okay  there are lots of different possibilities for the energy source 
+We could use a basic battery 
+
+Theres a handpowered dynamo which is a sort of thing that was used for torches fifty years ago 
+
+Kinetic energy is something thats been recently developed 
+
+Whereas kinetic energy is a new idea thats being used by some watches and other devices  where you just shake the device and it gives it power 
+
+Um  or theres solar power 
+which weve been considering inside a building  which is where its gonna be used  might not be quite so useful 
+
+Um  lots of considerations for the case  like what sort of shape it would be  curved or flat 
+
+We dont want something thats huge and you cant pick up 
+
+we could use metal 
+we could use rubber
+which might be more um ideal for the antiRSI 
+
+Um  titanium is not gonna be possible  even though it just it beyond our budget really 
+
+Um right our choice for buttons as well 
+
+with our research team have found some uh new multiple um option scroll buttons 
+
+theyre basically quite a flexible design  modern  you dont have to use individual buttons 
+
+Um one thing with the scroll buttons though 
+
+we would have to have an LCD um
+
+and the glow in the dark thing might be difficult 
+
+Um  also weve got the integrated pushbutton  which is what were most familiar with 
+
+My personal preferences 
+I think we could go for the kinetic energy source 
+
+Its not been seen before  so it could be quite a  a novelty factor 
+
+And also energy saving cause youre producing the energy  you dont need an external sort of battery supply or solar panels 
+
+Rubber casing I thing would probably the best  if were going for the antiRSI and like more choice with um aesthetics 
+
+And probably the regular chip as opposed to the simple 
+
+Another thing is it might be more difficult if its a rubber exterior talking about putting on interchangeable plates 
+
+Maybe if the  um  if it was just kind of a  more of a rubber coating which was on to a case 
+So  it was kind of  the whole thing would be removable 
+
+you can get sort of outer casing for iPods and something  thats just its protective as well 
+
+So the actual remote would be hard plastic and the casings rubber 
+
+is it possible to put designs onto this type of rubber 
+
+As far as I know  It should be 
+
+Or I dunno if you could have a battery pack 
+
+Like as a backup for something 
+
+you were saying about um solar power ma maybe not working indoors 
+but a lot of calculators  yeah  have solar power 
+
+May maybe that could be the backup 
+
+I think that might be a little impractical though 
+
+Like if the kinetic thing  I think whats best about that is that its instant energy 
+
+Um  Im just gonna go through the interface concept with yous now 
+Uh  first of all Ill explain what a user interface is 
+
+Um  there are two types of user interfaces 
+Theres the graphical user interface  which emphasises the use of pictures for output
+and a pointing device  for example a mouse for input control 
+
+Im not really sure about the pictures that
+maybe thats on an LCD screen 
+
+Um  because command interface requires you to type textual commands and input at a keyboard 
+
+so the numbers are sort of like a keyboard 
+
+So you must  for the graphical user you must need some kind of presentation for the graphics 
+Like an LCD screen 
+
+Itd be more a command interface 
+
+But if were having a simplified display anyway  w that  we probably wont have to focus so much on that 
+Itll be more the on the numbers and the volume 
+
+No I think its to do with the actual symbols that are on the  thats on the buttons of the remote control 
+
+I think were gonna go with the command interface anyway 
+to make it more simplistic 
+
+We  we also have to keep in mind when were designing our  um  more userfriendly remote control  that a lot of interfaces consist of a clutter of buttons 
+
+that their functions  colours and forms arent always helpful 
+
+It can be a bit  yeah  overwhelming 
+
+But what about the lighting up effect 
+Um  well  um  I thought we had um decided that we would if you touched one of the buttons theyd all light up 
+
+I kinda pictured it as kind of coming from the sides and lighting it up frontwards 
+
+Id assume  like  an internal light  that comes through 
+So there would have to  have to be some parts maybe transparent around the buttons  or something 
+
+and well rubber is a more translucent product too 
+so we have that taken care of 
+
+Each face could have its own colour of buttons maybe 
+
+Cause if its just like constructed in the same way as like the front cover of a mobile phone  You can like take off the hard cover and then theres the like say the buttons 
+
+I dont think it would matter that the buttons were bigger through the  the top casing 
+
+this report is about uh trendwatching 
+
+And the recent fashion update  uh  according to fashionwatchers in Paris and Milan  is that fruit and vegetables will be the most important theme for clothes  shoes and furniture 
+Um  also  in contra uh in contrast to last year  the feel of the material is expected to be spongy 
+
+um of course  as we  weve already talked about the personal faceplates in this meeting 
+and Id like to stick to that 
+The fruits and vegetable themes  I dont know if thats going to work for us 
+
+Um  the temporary lightup idea  sounds like were gonna stick to that 
+
+Yeah  its the fruits and vegetables is the only area that I find rather jarring 
+
+Its  its a little but it  its everywhere 
+
+I think we possibly could take a more abstract design 
+Like look at the basic shapes of different fruits and vegetables 
+
+I mean we dont have to make something in the shape of a strawberry  but it could have the curves of a strawberry  or something 
+
+I dunno if you all remember from our kickoff meeting  we talked about our favourite animals 
+So maybe there could be animalbased  you know 
+
+Energy  weve decided on kinetic  right 
+
+I  I think we should just like take uh advantage of like using this to its full potential 
+
+It could even be one of our selling points 
+
+I think we decided on the pushbuttons  right 
+
+Would we need a more advanced one for uh the lighting  the interior lighting system 
+
+So regular chip 
+
+Uh  so thats the simple 
+
+is regular not simple 
+
+because of the lighting that weve decided to put in as well 
+
+Well  I guess plastic and coated in rubber 
+
+yeah  interchangeable plates 
+
+and supplements 
+Whats that all about 
+
+what were gonna do about the cluster of button functions  colours and forms  in the in consistent use 
+
+We havent really decided what to do about that 
+
+just just the basic button functions 
+
+Like we  I dont know if we can make a remote that would be universal to all the different kinds of
+
+So were just going for power  channels  volume 
+
+Should we have audio 
+
+its a problem with the international uh appeal  I think  Um  if we have audio
+because we dont know how other televisions work 
+
+cause it  mm it is a good sales ploy to say  arent you annoyed with remote controls that have all these buttons 
+
+We can just go for  make it a selling point that it is just the basic 
+
+And  okay  in closing  cause we only have five minutes 
+
+Um  youll be working  Poppy will be working on the lookandfeel design 
+
+and um the user interface design  so this is where the trendy stuff comes in 
+And youll be evaluating the product 
+
+Poppy and Tara will have to work together  using modelling clay 
+And  um  your personal coach will give you the rest of the information of what needs to happen 
+
+Um  I just have one question about the whole fruit and vegetable aspect 
+
+seeing as that was the most popular thing that came up out of your market research  I thi I think we should keep to that rather than moving to animals or something 
+
+are you gonna come up with casing ideas 
+Like f five different
+
+Um  having the numbers kind of like  not a bunch of grapes  but you know like purple and kind of in a triangle 
+
+what do yous think of this 
+
+Yeah you can have some fun with the buttons  its true 
+
+I guess what you i ideally youd kind of think of age markets as well 
+So its a something that will  you know  appeal to the fifteen to twenty five year olds 
+
+Kay well stick to the fruit and veggie theme then 
+

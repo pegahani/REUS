@@ -1,0 +1,1156 @@
+A :  we are here to talk about functional design . Now hopefully we've all got a better idea from than we did f leaving the last meeting as to what it is we are up to now .
+A :  So here's an agenda . Uh I'll open . Um you should know that I'll be taking minutes during all the meetings , as I was struggling to our last time uh and that'll be easier for me now because I'm not actually giving the whole presentation . Uh the additional points are just the stuff that we sent and that I forwarded on from upper management having a few bright ideas to make our lives painful .
+A :  Um now you can all give your presentations . We can talk about the requirements and hopefully come to some decisions . Right , forty minutes for this meeting , so a bit more time than the last one .
+A :  Here's the additional points I just wanted to put those in there to see if you guys had any comments
+A :  on them .
+A :  Uh did you all receive that email ?
+D :  Yeah .
+B :  Yep .
+A :  So does anyone have any overall
+D :  Well uh what comes up for me is that if we're gonna if we're gonna be marketing a product that is going to be uh having no teletext , people are very comfortable with the idea of having teletext and using teletext , and so we're not we're gonna be a new product without something that people are very comfortable having right now .
+A :  Mm .
+A :  Mm .
+A :  Yep .
+D :  So that's , from a marketing perspective I I see I see a lack . And so we have to go , I think , in the other direction . What are we gonna have that makes this thing better than
+A :  Mm .
+A :  Well tha that first point could uh also be an op opportunity because in seeing that teletext is becoming outdated , some sort remote control that can work with the Internet there is the opportunity that's presented , I guess .
+D :  Right . Yeah . No , I I agree with you . So what I'm talking about is I see that one side we're eliminating something so we have to come up with another side which is , what are we gonna be targeting our market uh that identifies our product as better than because it doesn't have teletext it has ta-ta-ta-ta-ta . So that's that's that was my reactions .
+A :  Okay .
+A :  Okay .
+A :  Yeah . but but we are sort of being dictated that this should only be for the television . So we're quite fixed . So we're really probably , in terms of marketing , are looking for that's uh that's a cost winner rather than a fantastic new feature product . Yeah .
+D :  Yeah yeah .
+D :  Yep .
+C :  Yeah bu but we we're designing only the remote , we not design the T_V_ . So uh we're gonna be removing the teletext out of any T_V_
+D :  Okay .
+A :  Hmm .
+C :  that we people use our remote with .
+D :  Yeah . 'Kay .
+D :  That's right . I think we take with you .
+A :  Hmm .
+C :  So it's kind of a stupid decision .
+A :  But there's also the potential for mark there's a market here for our lost teletext . For example someone that just goes to the shop that wants a replacement wants it as cheap as possible . Twenty-five Euros is the selling price , we really have to innovate here I guess .
+B :  Right .
+D :  That's what I'm that's what I'm talking about is is that we have to find something that is gonna be very attractive about this product 'cause somebody , some people are gonna be hap unhappy 'cause it took they can't ac access their teletext . Okay . 'Cause we're talking about eighty percent or ninety percent or ninety-five percent of the televisions out there are are teletext .
+A :  Mm .
+A :  K yeah .
+D :  So so it's it's not that I'm criticizing the product at all . It's just when we eliminate that then what do we bring ? What are we bringing in to take the place of this , and we have to d in my opinion we have to double up . If we lose one we need to bring two or three .
+A :  Mm 'kay .
+A :  Okay .
+A :  Okay I think that the last point is probably quite uh straightforward . Obviously the the w it has to be branded .
+C :  So then the double R_ will be our our
+A :  'Kay .
+A :  On the product yeah . Can you handle that black and yellow ?
+B :  I think one of
+C :  I tho I tho I thou
+C :  I think Rol Ro Rolls-Royce might mind , but don't worry .
+B :  I think w , yeah , one of the things that we should also keep in mind um when we're doing this I mean our company's slogan is we put the fashion in electronics , right . So I think our kind of our target here is to have some kind of very like sleek nice look remote and we want it to be functional as well , but I think one of the main selling points is that
+B :  we don't want it to be clunky like like this thing here . You know we don't wanna a big clunker . We want something that looks nice and it's fashionable and so
+A :  Mm .
+D :  So you have this ?
+A :  Nah .
+A :  So we have three presentations , and I think we'll go in
+A :  order of participant number here .
+A :  So we can have a look at the working design first from participant two . That's
+C :  Yes .
+A :  Okay .
+B :  That's fine .
+B :  Okay so
+A :  Mm it's enough . But uh click it on off ?
+B :  so you all know me , I'm the Industrial Designer .
+B :  And we've some basic components that um our remote is gonna need , just basically every remote'll need 'em . We need some kinda of power d power source . Um we have to decide on our our user interface , which is his department , but the in user interface is also a major component . Um we need a programmable digital signal processor to um to take the input from the user and translate that into uh
+B :  into electronic signal , which we pass to the infra-red L_E_D_ , which you aim at the television uh which and it receives that signal .
+B :  You need a on-off switch um I don't know how that got in there . And uh we also need to um have the if we want a universal remote we need to have encryption codes for the different makes of T_V_s . So we need to know all the different you know all the different signals and so that'll require some memory as well .
+B :  Um so here's just a basic layout of how how the remote would work . You ha the v the power source is in the upper right-hand corner there , and you can see that uh we have the user interface here which is connected to the chip which does all our signal processing , and then passes that signal on to the infra-red L_E_D_ and that signal is then emitted and received by the television at the photo-transistor .
+B :  So those are the basic components that need to go into this and everything else is pretty much uh open to move around .
+D :  Now is would this be considered just a standard uh um
+B :  I think any des
+D :  This is not this is not cutting edge technology we're talking here . We're talking about existing technology . Nothing is being modified or upgraded or new discoveries .
+B :  No .
+B :  Right I think
+B :  Yeah this is just this is just a basic layout of ev of all the components that w w are gonna be absolutely necessary f to have a working remote . We can add things in like if we wanted some voice recognition , I mean that I mean that you can kinda say would would fall under the user interface and the digital signal processing chip . But
+D :  Okay . Okay .
+A :  Do we have an idea of costs of different components ?
+B :  Um well the most the most costly components are gonna be the chip and the uh th it could als basically the user interface and the casing are gonna be expensive as well . Um the L_E_D_ and the the transistors and everything else are you know they're they're pretty cheap .
+A :  'Kay .
+B :  So depending on what we want our functionality to be , um the chip could be expensive or it could be cheap . Um depending on the n amount of memory we need in there and stuff like that and h and h you know how much power .
+A :  Mm 'kay .
+A :  Do we have any ballpark figures for that yet ? No .
+B :  Uh I don't have any figures right now . We uh we have to wait until we get to a more specific design phase for that . Um but and I think a significant part of the cost could be the actual the actual casing itself and and you know the the b the buttons and things like that , I think .
+A :  'Kay .
+A :  Yeah .
+D :  N okay .
+D :  Mm .
+D :  Mm the shell ?
+B :  Yeah . Basically yeah .
+D :  Okay .
+A :  Okay .
+B :  So yeah . That's all I have really .
+A :  Okay . Thanks .
+A :  And we have participant three , which I believe is Pedro .
+C :  I
+A :  I can give you that to click on .
+C :  Hey mouse . Open .
+A :  And you wanna get
+C :  When we're fighting over it's also more lot more fun .
+A :  View a slide show , that's what you wanna do , yeah ? Just go up to view .
+B :  Click , don't Yeah .
+C :  Uh .
+A :  Mm 'kay
+C :  This doesn't work . So yeah function design . Um you guys know me , Pedro , and um
+C :  what I found is we want to do fashion and I think , honestly , we should keep technology low and just simple basically and try to aim for design . If basically a case will will cost the same if it looks good or bad
+C :  so we ma we have to make it look good . Um something cute and small . The big chunky remotes are died in the eighties . So we should just go for something that people will like to actually look at .
+C :  And um although mo most people will buy s
+C :  televisions and everything for uh that have loads of loads of little functions and everything and they mostly end up using simple functions and little things and most the people won't won't get too mad of actually having to go the to the s to the television to , for instance , tune in their the stations . There's no need to have that in the remote . So um
+C :  um as for what I would recommend for uh the the interface design , and uh I will change the colours on the on the logo , but um we should go for the user-oriented device , so simple controls and good ergonomics . Um and uh although I th I th I'm still here recommending the teletext so I'll remove that , I guess , but um we should go for the
+A :  But I t I think what the the management recommendation was less that there's a worry that teletext will become outdated rather than we shouldn't have it . So I I still think if it's cheap enough functionality-wise to include , it really should be in there .
+B :  Mm-hmm .
+A :  Because otherwise we're just going to I mean even if it's necessary or not , if you if you're given the choice between a t a remote with teletext or without uh when it really if it i if it isn't more expensive for us to k make because as far as I understand it , it can be operated with the same set of buttons , yeah ? So it should be in there .
+B :  Right as far as i it's just uh the cost of an extra button . I mean software-wise there's really no difference . I think .
+C :  Yeah .
+A :  Yeah .
+A :  Okay . Isn't
+D :  I have maybe a silly question . I in the very beginning it said with the with the advent of computers there's gonna be the it's gonna be out-moded teletext . I I don't understand how those two things are connected . How does how does computers and teletext h how why is one eliminating the need of the other ? I don't understand that .
+A :  Well maybe what we're getting into here is the the idea of uh Internet through the T_V_ for example . So that might play on what we can do .
+C :  Yeah the they're basically aiming at saying that you would use you know a couple of years ago teletext to be the easiest way to check like for uh uh the scheduling and the next programme and stuff like that and now
+B :  Scheduling .
+B :  Um to find out what what you're watching even if there's commercials you know .
+C :  Yeah and now you can c look it over Internet . But I still think teletext is way more convenient until until we have the same commodities .
+D :  Okay .
+B :  I think I ha
+D :  Yeah 'cause , yeah , I just I don't see the cross-over between computers and television . I mean I do see the cross-over in some sense , but but but but with the the remote is is used for television , okay . So so if we make the cross-over and we're gonna view television on computers then we're then we're losing the the necessity of the remote . S
+B :  I agree .
+C :  Yeah , but it's not happen yet . Yeah .
+B :  Well for me
+A :  Well you have digital T_V_ still already .
+B :  Yeah .
+B :  Unless you have a
+B :  Yeah .
+A :  Well there there is a for example on digital T_V_ systems you have you can press a button and you can buy things in adverts , and you can uh you can view through a catalogue for example . A a family member of mine has got a system where you just um you can
+B :  Mm-hmm .
+A :  Yeah , and there's other features for example on other systems where you can pause live T_V_ and things like that . They're just features from the Internet uh from computers are are coming into the T_V_ sort of under the covers , but you still use it through a teletext . So now the things to think here are that that there's gonna be more functionality , potentially that we can handle .
+D :  Okay .
+D :  Okay .
+C :  Yeah but we we don't we're not aiming a command for that . That's the thing . And all of those require the other commands with more complexity and more software and
+B :  I think a lot of that's proprietary anyways . You're not gonna be able to , you , like command a TiVo with our remote . I don't think .
+A :  Mm .
+A :  But still there there's an opportunity . If if it's , for example , a trainable one then we're just simply having like an up , down , left , right , an okay button or something like that might might do as well in future proofing it .
+C :  Yeah but we would increase the price to try to make it a trainable one , so
+A :  Mm .
+A :  Okay .
+C :  Well I dunno . One way the other teletext was there but I guess we can remove it or , you know , make two separate interface designs .
+B :  I think if it's possible you should try to you know have a talk with management about that . Just you know
+D :  Yeah I don't I don't see the logic . I I don't see the logic in elimination of teletext , I just I I but I'm not a tech-mind either . I just don't see the cross-over between computers and and and 'Cause we are designing something for a television , okay .
+C :  Yeah .
+C :  Yeah .
+A :  Yeah , and neither do I in fact .
+A :  Bu uh .
+A :  I'll communicate that back to those guys there a a and th the message really we wanna be sending to them is that , although teletext may become outdated w there's no l logic in not having it in there anyway
+A :  i if it doesn't affect the price . Um but I I think what they're pushing us towards here is in terms of thinking of ways to future-proof our system for future systems that have something else other than teletext maybe . I dunno I'm
+C :  Yeah .
+B :  Right it's just not Yeah .
+D :  We are selling it to an existing market .
+C :  Yeah .
+C :  Yeah but we're not putting some there's no no putting anything in in the place of teletext . That's the problem .
+D :  That's
+D :  Yeah , and and , yeah , and and we're also marketing a product . It's what I'm seeing is a is a mid-range cost product . So so w we can't go and pump a whole bunch of technology into this thing because all of a sudden we are gonna have cost overruns . So if we drop if we are gonna choose to drop teletext , again what are we adding to the product that makes it marketable ?
+A :  Mm 'kay .
+A :  Mm .
+A :  Yeah .
+A :  Hmm . So if we're keeping it basic we're loo loo what we're looking to sell it basically is it's uh just being very easy to use , looking exceptionally good , that sort of thing . 'Cause we really don't have anything else there , do we ?
+C :  Yeah .
+D :  I don't I don't see it , and to me if I'm gonna market a product for b for beauty for for design I'm gonna I'm gonna try to market it at a much higher price . I need to make it special with a high price tag . I don't want to make it economically uh g uh competitive . I want I want to market it as exclusive . So I would market this product it at eighty-nine Euros and come up with some really beautiful exterior design or something th but but I don't think we have that flexibility .
+A :  Mm-hmm .
+A :  But i if design if design is cheap and functionality is basic , then twenty-five Euros is probably a high price for a commoner garden stan standard T_V_ so the place uh remote the then the place we're going to justify that cost is through through design through making it a a sleek elegant high-priced basic remote . Does that make sense , huh ?
+D :  No I no I I understand what you say , but what I'm what I'm , okay we probably need to move along , but my my concern is trying to find a marketing niche for this product , and if I'm coming in with a with with twenty-five Euros , which is mid-market price , um then what am I going to give these people for this ? So that's just my question , but we can keep talking .
+A :  Mm .
+A :  Yeah we probably should . We we're doing alright for time .
+A :  Yeah .
+A :  Okay . Sorry that kinda cut into you there .
+B :  Well
+C :  No just I I would I would advocate for continuing teletext and those would be the basic commands . Um as for , you know , the the case design uh maybe I'll come up with more concrete ideas . Right now it's just the idea of simplicity and slickness , cute and small um
+B :  Right . I'm just thinking you know with all these universal remotes that are out there , how many people how many people actually use every feature that ar you know i like these trainable remotes and things like that , where , you know , it's just so confusing to do to use all these functions . Where
+B :  I think the largest portion of the market is just gonna you know they lost their T_V_ remote , they need another one that'll work with their T_V_ . They want something that looks nice , that that that isn't gonna break when they drop it , that you know that maybe it's it's ergonomic , it feels good in your hand , something like that . I think that's gonna be where you're gonna find the biggest , you know , market share .
+A :  Mm .
+A :  So we are looking for something that looks good and just works , rather than looking for any special features . Is that
+B :  I think the more bells and whistles we add , it's just gonna cut into our into our profits . Because I think as we as we add costs for things like uh for like if we add the voice recognition and things like that , I think you know what percentage of the of the um of the market is actually gonna use that ? Maybe five percent , you know , and how much
+C :  Yeah .
+C :  Yeah mm .
+A :  Mm .
+A :  But we can talk a little bit more potentially in the marketing marketing presentation about this . Be a good idea . Uh sorry , I didn't mean to cut in . I'm not the boss . Okay .
+B :  Right .
+B :  Yeah okay . I'm sorry .
+D :  Yeah .
+B :  Sorry boss .
+D :  Oh P Pedro , I just want to say quickly I I would really like it when you can come up with some more bells and whistles , eh .
+D :  You know sell uh things come to my mind is uh uh something that's uh um voice-activated . I know we're getting into some , I hope , some big money on this thing , but
+A :  I think that's probably a question more for
+D :  Is that for over here ? Okay , alright .
+A :  for this guy here , yeah .
+B :  Yeah . Well it's kinda both of us . Us us user interface .
+A :  Is it ? Okay .
+D :  That's
+D :  'Cause uh and I think of voice-activated I think of of how many times I've I've lost my my remote and I can't find it . So some way that I can I can find my remote by clapping my hands or something uh and and so so um But this 's just something . I'm trying to find some bells and whistles 'cause when they talk about tel taking out teletext , it's like , what are we gonna put in ? What makes this thing attractive ? And it's only for televisions .
+C :  Mm-hmm .
+B :  Mm-hmm .
+B :  I was thinking about that .
+B :  Then your lights would go off , though .
+A :  Mm .
+D :  So we everyth our our competition out there has got these these multiple adaptors where they can use 'em for their V_C_R_s , their D_V_D_s , their their televisions and we're coming out with one remote for television only . And so to me we have to make this a really special product I I I don't s I really have to say I don't see the market niche for this product . At this price I don't see it yet . I'm I I go along with this , because this is what we're given to try to market , but I I don't see the market niche for this product
+B :  Yeah .
+A :  Hmm .
+D :  without without some really sort of something really special to identify it as as unique in the market .
+C :  But we th that should be design .
+D :  Yeah .
+C :  That should be the design basically . I think technology we'd we we're not in the price range to do it .
+B :  Right .
+C :  We don't have the money to do it towards t f technology so we should we should aim at design . Yeah . Yeah .
+D :  Okay .
+D :  Have to do you have to do it in the box ? Okay well , so so that's up to you then to to make this box in something that's absolutely extraordinary .
+A :  Okay .
+D :  Maybe make it in the form of a gun . We can sell it in United States .
+A :  I have a question uh for you . Does any of the um the features that Pedro's spoken about here have any implications we might not have thought about on in terms of just pure functionality ? In terms of making it work or the cost of that or
+B :  I don't
+B :  I think all these things are pretty standard . I think we'll be okay .
+A :  Okay .
+A :  'Kay . Cheers .
+A :  Onto participant four .
+D :  Well you know for marketing f marketing for me is uh and uh how do I go here ? Okay .
+A : 
+B :  Mm you can just click .
+D :  Go go . Is that right ?
+B :  No no no you just get off that . You just click anywhere .
+D :  Ah-ha . Yeah , what for me is it um I d I don't know what I'm marketing right now , okay , 'til you spoke and when I wrote this , I don't know what I'm marketing . I just know that I I was identified as a a we identified ourselves as a as a developer , as a manufacturer , and as a as a um distributor t to other wholesalers .
+D :  And so the th the twenty-five Euros that we've identified as the sale price is a wholesale price rather than a retail price . That's what we decided here . Um so what I did is I I decided that that this this needs to be a product in a in a sense can market itself . So what we've identified here as our main marketing stratagem is is in design .
+C :  Mm-hmm .
+D :  We're making the most beautiful attractive uh whatever we decide it is . So that means we have about seven more minutes or ten minutes left . Um so I would like to have a product that that we can sell easily . So I say inspiration , so having something beauty , something attractive , uh something that in a sense will sell itself . Uh innovation I think fits into what we're talking about here with design . Uh cutting edge technology , I don't think we're gonna have that , these were ideas I was putting together ,
+A :  Mm-hmm .
+C :  Mm-hmm .
+D :  um unless we come up with some New Age product a as far as the casing is concerned . I I wanna make this thing something that I can identify as special in some way , so maybe we can have some I I talked about environmentally sensitive , uh maybe we have a product that can be identified in some way as advantageous in a home . I don't know . These are just thoughts .
+D :  Uh I wanted to talk about uh who we are as a as a corporation , that we're new , we're aggressive , we're competitive , we're we're trying to provide a product from a new perspective rather than from an old corporate line . So to me it's about selling d uh our identity our corporate identity along with the product .
+D :  Um what I found is that the projected costs are competitive .
+C :  Mm-hmm .
+D :  Uh we're kind of in the middle of the market , but what I'm seeing is that the market is ready for I I identified new technology , but again , because what I see is budget restrictions and limitations , I don't know that we can bring any new technology into this thing . If if we could have a technological something
+B :  I have an idea . And it's kind of along the s lines of environmentally sensitive , and it may even fit into ergonomics , and even kind of address the issue of losing losing the remote , what we were saying it's a common issue .
+D :  Mm p please .
+A :  Mm .
+B :  Um what we can do is , well you know that batteries throwing a aw remotes run through batteries like crazy . Right ? And s for some people Yeah . Well maybe not a solar remote but instead what about if we had like a power cradle ? Like a a cradle that is is there to hold the remote when you're not using it , so you'll always know where the remote is 'cause you have to put it back there to charge the remote ,
+D :  Solar .
+A :  Yeah .
+D :  But solar
+B :  and we can , instead of having instead of having , you know , replaceable batteries we'll just have a power cell that stays there for the life of the remote . You never have to get go through the go through uh all these different batteries .
+B :  And also you can I I think it's a good opportunity for the user design or for not just for the user design , but also for the just for the look and feel of the remote as as a whole . You know you could have some kind of neat little , you know , a sexy design for d a cradle and the remote itself .
+D :  Blah , I like it . I like the idea , but we're talking about in cost is gonna probably double .
+B :  It w it would increase the cost .
+D :  But boy , we can sell this thing , because there's no batteries , it's environmentally sensitive , i we can identify it as a safer product in some form .
+B :  And you could page the remote if you lose it . Maybe there's a button on the cradle .
+D :  Yep , that's right . I really see But the cost i
+A :  Now the the question is can we make this for less than twelve-fifty per ?
+D :  No no . No no , we have t we have to change the end cost . There's uh I mean I don't see it anyway .
+A :  We we well do we necessarily have to change the end cost because uh
+A :  Can we dl can we do that without uh changing it twelve-fifty per product , if we basically can sell more based on this ?
+D :  Yeah , that's gonna be up to these guys . I my reaction is no , but
+B :  what I can do is I can d look into ho well Pedro and I can look into how much this might increase our our costs and you can look into what kind of effect an increased cost is gonna have on our on our final numbers .
+A :  Mm-hmm .
+A :  Yeah we we can certainly push for a more expensive product if that's gonna be
+D :  Well , see I I see I I'm an advocate to make this an exclusive product . You know , let's let's sell this wholesale for for fifty Euros , sixty Euros . Let's make this thing really exclusive , environmentally sensitive , uh high-tech design , uh ergonomics , all of this . Just make this thing uh , yeah , the the the Rolls Royce of of remote controls .
+B :  I I
+D :  Every home's got to have it . If you don't have one , hey what kind of remote do you have ? Oh you've got one of those , oh fantastic , I want one of those too . I just don't have enough money right now .
+B :  Yeah .
+B :  I just don't know about that , because in order to do that in order to price it at that kind of level I think we'd need to have every functionality that all the other competitors are offering like being able to operate , you know , the D_V_D_ player and , you know , the stereo system and all that . Which is a pretty basic function that w we've opted out of . And additionally we're m maybe not supporting teletext um
+A :  Nah , I think we can say with certainty now that we are supporting teletext .
+B :  But I do think there are some basic features that we don't have that a lot of other remotes are going to have .
+D :  Yep , one one thing I don't understand is h they've they've given us this package , okay . Now uh in my opinion we need to give them a package back , okay . They say they say okay here you go . They gave us a fundament a foundation of of what they want , and and w it's our place to kinda analyse and evaluate . I don't think it's our place to create their product for them , maybe it is . I don't know what kind of role we have in this in the corporate ladder uh , but to me it's like , okay , you have got your here's our ideas , okay .
+A :  Mm-hmm .
+B :  Mm-hmm .
+A :  Mm-hmm .
+A :  Mm .
+D :  And then let them look at those ideas and they say , yeah well , we can we can raise the price twenty percent , you know we like this idea , this idea no , but to me it's it's about a choice , do we follow their directives or do we make uh presentations back and and then and then discuss ?
+D :  beca I I do not I do not see the market niche for the product that they're handing f handing us right now . I don't see it .
+A :  Mm .
+B :  I don I I d I have to disagree though . I think our market niche is basically people who need who have lost their remote or uh who've broken their remote and don't wanna send back to the manufacturer , they just wanna run out to the store and get a remote , and then they're gonna look on the shelf and they're gonna see ours is the nicest looking remote . It does what they need . These aren't I I think that it
+A :  And and th to get to back to another point , sorry uh uh for cutting in but , I th I think it's important to remember that that this remote has to work with multiple T_V_s , yeah , 'cause it's selling on its own . It's not going to be specifically for Hitachi T_V_s or or whatever .
+B :  Right .
+D :  Right .
+B :  Right .
+D :  No I understand that .
+A :  So technologically , if I understand it , uh T_V_s T_V_ remote's working exactly the same way as video remotes and D_V_D_ remotes . All you need to do is train them to the individual one , all you need to do is is know the the f like some four-digit code . So saying that it works with all T_V_s is equivalent to saying that it'll work with D_V_D_s and other things .
+B :  Mm-hmm .
+D :  Nope , they've identified the product as not working for anything but televisions . They've identified this product limita That's why I say I don't I don't see the market niche for this . If we if w if we were going to have a product that worked for D_V_D_s , V_C_R_s and everything , then I can see the market niche , but we we're only identified as going for televisions without teletext . And it's like whoa we ha in my opinion we have to go with something that's extremely exclusive to make this thing marketable , because who wants just a television remote ? I don't .
+C :  Yeah y y you you wouldn't
+A :  Oh okay okay . We have done this .
+C :  The interface will be different .
+A :  I see .
+A :  Mm-hmm .
+B :  Right .
+B :  Well here's
+A :  And I I'd Mm sorry .
+B :  Right .
+B :  We he well here's my thing about that . If you're in the market for this ultimate remote , you're not gonna go for just a television remote . If it can't control if it can't control your your D_V_D_ player and a al if y if you can't get that all-in-one ultimate remote , that just you can throw all your other remotes away . I'm not gonna buy a d seventy-five Euro remote .
+D :  That's right .
+D :  I I I have a tendency to agree with you . I really do . That's why I say I quest I q I question the marketability of the product . I really question where we create the demand .
+A :  So we really can't chase that .
+B :  So I think what we So that's what I'm saying
+A :  We're really looking for something basic . The the one thing that that that you said really struck a chord with me here in that we're we're carrying the corporate identity with the product , but we're actually looking for a large profit at the same time where I'd be inclined to go back to upper-level management and say like let's just cut down our profit expected on this product because we are actually branding our company here . We're selling more than just the product .
+A :  We're trying to get mind-share about uh Real Reaction to to the people who are gonna buy consumer electronics . We want people to eventually say , oh that's that's Real Reaction that's a good m make . It's reliable .
+A :  And and we're gonna make it we're gonna win mind-share by uh either being a fantastic product or for it working , it just being good , reasonable-priced , and solid . So if we can make if we can put an emphasis here on it not breaking I think that's in itself an extremely big thing .
+B :  Mm-hmm .
+B :  I think that's big .
+D :  W okay if you if you drop the cost , now if you make if you make go to the other side of the cost scale , and you make it less expensive , then all of a sudden now we're going into an a a new market area . So we can say low-cost uh uh um uh good design , beautiful , wa-da-da-da-da-da . But what I'm saying is right now we're middle market .
+C :  Good design .
+A :  We only have a few minutes left .
+A :  Is twenty-five Euros a mid-market price for a remote ? Okay .
+D :  Yeah for for multi for a multi-function remote , that's a mid-market price . In a discount right now you can buy 'em on sale sometimes for about about uh eighteen , nineteen Euro , and that's for the multi-functions , uh D_V_D_ , V_C_R_ , uh catch-alls . And and they have 'em in a little box in the middle , and and this is the consciousness that most people have about replacement remote controls . So to me , to market this a t only a television remote control we have to change consciousness .
+B :  I think so , yeah .
+A :  Okay .
+D :  We have to have something that will change people's thinking to identify this as advantageous , and I don't know what that is . It's gotta be low-cost or high-cost with with special design features .
+A :  Well I'd be inclined to say , if we can make the design better than any comparable remote while reducing the cost , then that's the way we really should play it .
+A :  If we can take it down to you know fifteen rather than twenty-five and make a low profit-margin on it , but we're really doing that to sell the brand . Yep we have five minutes left .
+B :  Yeah .
+A :  Uh rather th uh to to to sell for Real Reactions . And I can communicate this to to the more senior uh mm people within the company here to to get a reaction .
+D :  Or my d
+B :  What about um the idea that I had with the cradle ? How do you feel about that ?
+B :  Or how does everybody feel ?
+A :  Well how does everybody feel ? I I think
+D :  I mean I I well we g we're talking about the other end now . I like it . I like the idea , but we have t we have to find out
+B :  No , but I that's the thing I I don't think it's necessarily the other end .
+A :  The other the o the problem with that in my mind I just think off-hand as a as a consumer , would I wanna buy that ? And I think maybe not because I've got a remote and I'll take it to different chairs , I'll take it to different I w I don't wanna go over somewhere and put it down .
+B :  Mm-hmm .
+A :  It i if it is gonna be somewhere that you put it down then it needs to be at the side of your armchair , and that implies that there's only one T_V_ user . So it's very good for some people but it's not a like
+B :  Right .
+B :  Well it lasts it would last for several hours on its own power , but when you're done with it you put it back in the cradle .
+A :  But it it takes away the ease of use of the remote to a certain extent . You have to l sort of remember . You have to d shift down the side of the couch to find it and put it back and
+B :  Yeah well it
+B :  Mm-hmm .
+B :  Mm-hmm .
+A :  Yeah . I d I d I d I think it it in my mind it doesn't seem like something that oh I'd really want uh because of that fact . But I I don't know , that's just my opinion .
+D :  Well .
+D :  Mm .
+D :  Well , I think again it's it we have a cost issue here . You know if we're gonna go in this direction , to me we're going to the other side of the cost range . Are we gonna make this selling selling the cost as a high high-tech uh um environmentally sensitive whatever , or are we gonna go to the lower side of the range ? Again I don't see our market niche in the middle for our product yet . I don't see it yet .
+A :  Mm .
+A :  'Kay .
+A :  So what do we think maybe we should Pedro , do you have any opinion on it ?
+C :  Uh we should keep it simple , mm medium-low cost mar um cost area and uh make it look good .
+D :  W a question I have in in a 'cause I I I think I agree with you on , we gotta make it a box . The box is gonna sell it I think , the outside , the casing . Can can can we have multiple designs ?
+A :  Really need to wrap up now .
+D :  Have a modern , have a traditional , have a you know , and so so instead of them all looking the same , people can have maybe four or five different designs they can choose from . I don't know what that creates cost , or
+B :  Well the the problem with that is we may end up with a whole bunch of inventory of a of a poor design you know . So
+D :  Yep one over another . Yeah , okay , I hear that .
+C :  Yeah , complicated but
+B :  Um but what we could do is some kind of well I mean
+B :  Yeah we we need to , I mean , have a few designs to look at and then come up with something that I think we all agree is , you know , the best fit . I think w what's really important is it has to look good , it has to feel it has to feel good in your hand , it has to be durable , it has to a and I think it's really important that it doesn't look cheap . I think I think we have to make sure people look at it an and feel like it its like a quality remote . Even though the cost may be low .
+A :  Yeah .
+C :  Yeah .
+D :  What ab what ab what about a
+D :  a remote that's that doesn't maybe look like a remote ?
+D :  Just an idea . Just just okay 'cause I mean we all know what a remote looks like on the outside . They're selling these things everywhere . Maybe that could be part of our design exclusivity , is we make a remote that doesn't even look like a remote it it opens like a telephone .
+B :  Mm-hmm .
+B :  Or what if it looks like a pen ?
+D :  Doesn't matter , yeah . I'm just jus I talking about some something to make this thing unique . It That's the thing , I'm gonna keep thumping on . I'll sell whatever you guys design . I don't have a problem selling a product , that's not the issue . I give you ideas , you guys create the product . Once you have the finished product I'll find a way to sell it . Don't worry about it . I just give you these things now , because these are my thoughts and feelings .
+B :  Yeah .
+B :  A pointer ?
+B :  Yeah .
+A :  Mm .
+B :  Yeah .
+C :  Okay .
+B :  just to touch on m my point one last time that I had brought up . Um I really un unless you guys are die-hard against the fact that um it's possible like it reduces the usability of the remote b and the fact that you can't lose it on your own ,
+B :  I think it still might be a good idea to investigate having like a power cradle .
+A :  Yeah .
+C :  Okay . Yeah .
+B :  Because I really think i in a certain sense it almost like for me I would want to have that just , because I know at the end of when I'm done watching T_V_ that when I'm done , oh I better go find the remote and put it back where it belongs . Maybe th th th that's just some people that like that . A lot of people
+D :  No no .
+A :  I mean there's al there's also remote controls I remember that that worked uh , this hasn't been done in a while I think , but th as a as a watch . Yeah , there is remote control watches um , but I think they're a sorta eighties thing , so it might not be easy to market in it uh but the the technologies came along and it might be cheaper to make now . Those things may have been inexpensive for all I know .
+B :  As a watch ? Mm 'kay .
+C :  Yeah they are not simple .
+B :  Mm-hmm .
+D :  One thing I just thought about when you were saying that , is that the p our target market is gonna be someone who has lost or broken We gotta stop ? Who's lost or broken their their remote . So how many remotes do they wanna buy ? Can we p can we sell them a remote that can maybe guarantee they will not need to buy another one ? And so with with with this kind of system or locator or something , to to think about , how have people been been losing or breaking their remote ? How does this happen ?
+B :  That's what I was saying .
+A :  Gotta cut up .
+B :  Exactly .
+A :  Mm .
+C :  Yeah .
+B :  Mm-hmm .
+B :  Mm-hmm .
+A :  The last remote you'll ever buy .
+B :  And also presumably they've
+D :  And and then and then design the product , maybe some component of the product that can identify this as the last one you'll ever need to buy .
+A :  Well if if we're going down that then we can we don't need to go the it it strikes me that the locator feature might actually be uh quite expensive to make . Whereas actually just putting it in a power cradle might not be too expensive at all because that's just done with mobile phones you can just n we we have said we have actually similar products that we can take from and potentially cut costs there .
+B :  Exactly .
+B :  Yeah .
+B :  True .
+B :  Right .
+B :  Yeah . The locator'll definitely be more expensive .
+B :  Mm-hmm .
+A :  Um need to look into whether we can do that but uh I think we we have some m mobile phone-based products uh checking quickly our Internet . We really need to finish up here . But uh
+D :  uh we can make it in the shape of a coffee pot .
+A :  Yeah we have the the power-adaptor products . We sell power-adaptor products . So for example there's nothing stopping us
+D :  It's uh just it's that I think it's telling us to stop our meeting . So we have the c we probably have have on-line in our in our system , we have the ability to create this , we're talking about .
+A :  using that technology . Yeah .
+A :  Yeah I think so , without it being too In fact we can cut costs through using the manufacturing that's already gonna be in place here .
+D :  A charging system .
+B :  Right .
+D :  If if we can create this we have probably five or six or seven really strong marketing characteristics .
+B :  Right . I think one of the things that we can put right on the box is , never buy another battery . You know , something like that .
+A :  Okay .
+A :  Yep .
+A :  'Kay . Thanks guys .
+C :  Yep .
+D :  No that's not what I want , I want
+D :  Oh look it here .
+A :  Afternoon guys .
+A :  It's gonna be .
+D :  Rock and roll .
+A :  Oh .
+A :  'Kay .
+D :  So do we need to re-train Mike on how to put his mic on ?
+A :  We may do .
+C :  Think s
+D :  Okay , can he get it all by himself this time ?
+A :  I dunno , I'm feeling like a big boy .
+C :  Mm . Pro
+C :  Probably not , 'cause he's
+C :  'S been listening to too much . He's getting retarded . Yay .
+D :  So
+D :  I believe I can fly .
+B :  Alright well we got some exciting stuff for you guys .
+C :  Or not .
+B :  Or not .
+C :  Yeah .
+D :  Just what I needed was something exciting .
+D :  Remember , I'm an old man .
+A :  'Kay , ready to go ? 'Kay so we've got our conceptual design meeting . Hopefully we've all got exciting ideas now . Uh k exciting ideas . 'Kay so here's our agenda our agenda . Um
+B :  All ready .
+C :  Apparently I'm old as well .
+D :  Thirty's really young , eh ?
+B :  We do .
+A :  I'm gonna open . I'm gonna talk for a bit about what we're gonna do . I'm gonna take some notes . We're gonna all do a presentation , and then hopefully we're gonna make some decisions now .
+A :  Yep . Well when I say hopefully , we have to . So
+B :  Alright .
+A :  I'm gonna let you guys talk before we make decisions .
+A :  And does anyone really want to go first ?
+B :  I guess I'll go first .
+A :  You p two ?
+B :  Yeah .
+A :  What's
+B :  Component , I think . Yeah .
+A :  Components design .
+B :  Yep that's it .
+C :  Presented by name .
+B :  My name is .
+D :  Jose he man is .
+A :  Your name is name ?
+B :  My name is name .
+A :  Huh hi name .
+C :  My name is Inigo Montoya . You killed my father . Prepare to die .
+B :  Sorry I did this in a bit of a rush .
+A :  Right .
+D :  N name .
+B :  So so here's a look inside your really old-looking remote control . Um you've got a printed a printed uh circuit board here , and you've got all these buttons which kinda press down little rubber nubbies into these little holes that activate
+A :  We've all broke a remote control ri um s yeah .
+B :  Yeah we've all broken a remote control . So you've also got um you've got your chip here , your batteries here , and some sorta electronics . Um
+D :  I've
+D :  I just love you tech guys , huh . They just
+C :  Yeah there's a thingy and a dingy and
+A :  You press this and it does th
+D :  Yeah y do jabber .
+B :  Well so you've got here's here's a transistor , and this amplifies your signal , um you've got the L_E_D_ here on the end of the uh uh on the end of the printed circuit board . Um you've got a couple diodes here for I don't know who and whatnot .
+A :  I dunno who and whatnot .
+B :  So exactly . So um we've got a i in this in this uh drawing he uh in this example here , this is a eighteen pin um uh chip I dunno . Uh it's two double A_ batteries . This is pretty standard remote .
+C :  Nah .
+D :  Yeah .
+B :  So here are options for our power sources . You can use a basic battery , which we've already discussed , um th our tech department also said we have the option of doing some kind of hand dynamo where maybe you crank it or something like that . I don't know if that's really I don't know we got some qu crazy guys down there in that department so
+A :  'Kay .
+C :  I wanna change that .
+D :  I I gotta I gotta flashlight , and uh yeah but it's interesting 'cause you shake it like this . Like this .
+A :  Okay .
+B :  You shake it .
+B :  Yeah . So that's the next bullet is the um the kinetic provision of energy , so it's like that flashlight where you have to shake it . Uh we've got solar cells , which I don't think is a very good idea because um you could not use your remote at night which doesn't make a lot of sense . And finally we've got our cradle o our power cradle idea .
+D :  And that's on the camera .
+D :  Yeah .
+A :  'Kay .
+A :  Mm 'kay .
+A :  Okay so we basically have battery versus cradle here ?
+B :  M battery versus cradle I think is yeah .
+A :  Okay .
+C :  I like the kinetic .
+A :  So we have battery versus cradle
+D :  I g I I figured you would . Yes . Yeah .
+B :  It could be fun .
+A :  It's actually a novel thing because you could sell it a as a novelty , just to be actually serious for a minute here , you could
+B :  Yeah . Well it is it is more uh I mean it is more eco-friendly than the than the cradle 'cause you're still using power off the grid with the cradle . So um
+A :  Mm .
+A :  Hmm .
+B :  our case design . We have uh choices in materials and choices in the general shapes that we can do . Our material choices are a plastic latex um ty or plastic , a rubber latex type thing , uh wood , or titanium . If we go with titanium we're gonna be uh limited in the amount of shapes we can do because it's tough to shape the titanium , and uh
+B :  Yeah pers
+A :  Wood wood would ge would give us a little bit of a marketing niche , wouldn't it .
+B :  I think wood i I I can't see anybody wanting to use a wooden remote , it's just anti-technology really , you know .
+D :  It it it
+A :  Nah .
+D :  Uh .
+A :  Okay .
+A :  Hmm .
+D :  Uh uh to me in a marketing sense it's not it's not relative . We can we can o we can uh accentuate whatever whatever product you put in there we can find a way to accentuate it .
+B :  Right . And what we may be able to do , and I think this might be the best option is to combine some a couple of these . Um my recommendation personally would be to do some kind of a plastic inner shell with a like a rubber outer shell , to make it um to mak uh like a thick plastic inner shell and a t um kind of a to have that rubber outer shell to make it more durable , and also maybe i I think it feels a little better than the plastic .
+A :  Okay .
+A :  'Kay . Do you get a good grip on the rubber ? Yeah okay .
+B :  Yeah um
+D :  And if you make it from that super rubber , when you drop it on the floor it can bounce right back up in your hand . You don't even need to lean down to get it .
+B :  Yeah .
+B :  The advantages of working with plastic and rubber is w we we'll have a lot more um options just in terms of shape because you can extrude plastic in basically any shape you want . So um and then we can cover you know the breakable bits with rubber yeah so um
+A :  Okay .
+B :  But basically these are curved and double-curved I I believe that the tech department , in their um in their message to me , that they were referring to the number of th curves in the bottom . I have no idea exactly what they're talking about , but that's what they told me , uncurved , flat , curved , or double-curved .
+A :  Okay .
+B :  I would guess this like this pen would be kinda like a double-curved , where it's curved on m m multiple axes , right ? I think curved means just curved in one axis and double-curved is curved in two axes
+A :  Okay .
+B :  or surfaces . I have no idea .
+A :  I think it might mean something like that sorta shape because a double curve rather than a yeah that's what .
+D :  Mm-hmm yeah that's yeah that's what I see . Yeah that's what I see also .
+B :  Oh okay oh like a wave , okay . Alright that makes sense okay . Um okay , with the interface we have the following options , we can u we can use push buttons , we can use a scroll wheel with an integrated push button , and L_C_D_ display , or multiple scrolling wheels .
+D :  Ooh .
+B :  Um so these are all options that the user interface guy can uh has at his disposal to put together a user interface .
+A :  Okay .
+B :  For electronics , we have these very technical um descriptions here . A simple chip , which is the least expensive , but I have no numbers to give you , a regular chip , which is like the medium porridge the medium expense uh
+A :  D do we have actually any concept of what the difference is between a simple chip and an advanced chip ?
+B :  Yes the difference is , with a simple chip a simple chip will operate oh why doesn't this scroll up ?
+B :  Previous previous , okay . A simple chip is required to operate push buttons . Um an advanced chip is required to to operate um the L_C_D_ display , and it didn't say specifically , but I I have a hunch that a regular chip is gonna be the scroll wheel and the multiple scroll wheels .
+A :  Okay .
+A :  Okay .
+B :  So but yeah .
+A :  Yeah that makes sense .
+B :  That's the end of my presentation .
+A :  So presentation from
+A :  I guess design would go best .
+A :  Next .
+A :  Technical functions or interface concept ?
+B :  I think
+C :  Oh interface concept .
+C :  Very long presentation .
+A :  Yeah that's it .
+A :  Yes , but it has your name on it .
+C :  Well that doesn't bo bode well for it for it tats as well .
+C :  Um so , somehow that thing's too big , but um okay um our uh manufacturing division wanted the speech recognition . They say they could put it to work but um we don't think so .
+B :  No .
+C :  No . It it it you'll be you know be affected by the by the other speech and
+B :  If the T_V_ is working , yeah . That's just I mean it'll if somebody says up in the middle of a
+B :  television show , it's gonna change the channel .
+C :  Yeah and and fighting for the remote would not be fun anymore , and I think that's one of the things we wanna keep .
+B :  So
+A :  But what if you actually had to press a button to make it recognize ? So if you pressed it and went , up ?
+C :  That kinda would r d yeah . That would kind of lose it .
+B :  Well then why don't you just press the up button ?
+A :  Man yeah .
+A :  But if it's just one thing with a button that you can just go
+D :  That's right .
+B :  Even still there's gonna be interf th there's there still will be interference from the T_V_ . It might not be it might not be completely confusing , but I think you'll still y it's still I don't think it's practical at all . I think it's a bad idea frankly .
+A :  Up .
+A :  Yeah , okay .
+C :  Yeah so um taking that away , our uh the the the rubber but rubber buttons are the more reliable it's the the ones that would al would allow us to to market our product as being you know less prone to damage and more resistant to things like spillage of liquids over it or you know mistreat misuses
+A :  Okay .
+A :  You guys know your stuff .
+C :  as it happens to remote controls . Um as for the
+C :  point that we making about losing it . Well , we wanna small r remote control one side because uh we want it to be cool and uh designed , but um apparently um market shows that bigger s bigger um remotes get less lost , about
+B :  That I would believe .
+D :  Mm-hmm .
+A :  Mm .
+C :  But um yeah I think we we need to compromise between those two and somehow we'll do that . Somehow .
+C :  Um so the the what I would propose is something more or less in the uh direction of what is to yo the right of that slide uh but without with a l a less complicated um design , so the numbers , the volume control , and channel control , and teletext access . Uh the volume and channel control can just become those the the four button array as in if it was a round dial .
+B :  Mm-hmm .
+C :  And um if you just think about it as the one to the right but with the numbers and the four buttons plus maybe a centre one with teletext .
+A :  So we're suggesting doing a sorta scroll wheel thing for the volume ?
+C :  Ye no it's not i i it's just four buttons that are on a cross , so that you ba basically can control all of the important tasks from that alone .
+B :  That's not a scroll wheel .
+A :  Nah .
+A :  Oh okay okay . I see .
+B :  Right .
+B :  Instead of play , stop , rewind , and fast forward there , that's up , down , louder , and quieter .
+A :  Uh , okay .
+A :  Okay .
+C :  Yeah um yeah so I think we w we go for something mid-sized , so something looks good and uh is not too prone to get lost .
+C :  That be it .
+A :  'Kay .
+A :  So on to
+A :  Y functional requirements or trend watching ?
+D :  I dunno . Trend watching I guess . Trend watching I believe .
+B :  Trend watching has a later date there .
+A :  forty six nineteen fifty seven . Yep .
+D :  See what it looks like . It's been so long .
+C :  .
+D :  Well I don't know what to say . When I s when I see the when I see the product I I I I don't wanna buy it . I see so many of 'em out there . There's nothing about that product that makes me wanna choose that product over other products that are out there . Yeah yeah .
+B :  Are you talking about the picture ? That's not our that's not our b design , that's just a that's just something he a a graphic he used to show you the layout of what the layout of the buttons might be like .
+D :  Okay .
+D :  Okay .
+D :  Okay 'cause 'cause right now I don't have too much to say about how to market this product because we don't have a product to market yet . And uh from from talking to Mike is that we have we have uh we can market a more expensive product now .
+A :  Mm .
+D :  That's what I understand so , hello .
+A :  Upper management said yes . Uh e excuse that , that's a bit of spam .
+D :  And and so yeah I'm a I'm a little bit stuck right now in that what uh w what is it that I'm gonna market ? Uh without special or increased marketable features I don't believe the product has a consumer demand . Uh I like the idea of of the scroll makin there are so many people making these products at this price right now . What are we gonna do to make this one special and unique ?
+B :  What's special and unique about a scroll ?
+D :  Uh well I don't yeah it's I I just see it as different . I don't say it's specially mm
+A :  It's cool .
+D :  I don't say it's special .
+D :  Uh I say that it's different I what I'm looking for as marketing is m give me something different . I give me a lower price , give me a higher price , give me some new technology , don't give me the same thing that everybody else is putting out there on the shelf it's f at the same price .
+D :  I need something to market about this thing . We're we're a new firm .
+A :  I'd I'd say though that we if we did make the decision to go with the cradle though , the then we have that as well , but wi with a similar
+D :  What i if when when we have yeah when we when we have something like the cradle or or something give that's as as a marketing standard I need something to market , to make this product unique .
+B :  Well right I think the two big th points that we have so far are the having the cradle and also having uh the um the actual design of the uh case itself having like this like rubber shell maybe with a plastic interior , having it look really nice um and also be really durable .
+D :  Yep .
+D :  Mm 'kay . Just remember when I made up this report I didn't have the information that we're discussing here . And and so so uh yeah when we have a cradle , when we have some kind of design , so what I'm saying is , from my perspective , I don't have a product to market right now .
+A :  Mm . Course .
+B :  Right yeah . Yeah .
+D :  Um uh my personal preference is that we make some adjustment in the cost , either lower or develop an integrated new technol technology . That's that is the next step , there's technology and then there is technology , which we're moving into the next phase .
+A :  Yeah 'cause that's .
+D :  And so uh we're gonna have some new technology to enhance the marketability . Yeah uh again I'm not sold on the product because we don't have a product in my opinion yet .
+A :  Mm .
+D :  So I need a product . I need a product to market . And I just whatever product you guys put together , we'll find a way to market it . Tha that I'm not concerned with .
+A :  Mm 'kay .
+B :  Well let's get a product then .
+A :  So now
+D :  If you if you give me if you give me a cut-out of what everybody else has then I need to I need to find a lower cost .
+A :  So our big questions here really are
+A :  cradle or not cradle ? Do we go basic or do we go for features ?
+A :  Uh d does anyone really wanna do anything with the scroll wheel or should we ditch that off-hand first ?
+B :  Well my question is what would the scroll wheel do ?
+B :  Function-wise , what does that do that
+A :  Oh but that was in your presentation so wh what would you imagine it doing ?
+D :  Yeah wh wh what's the wh
+B :  Yeah . Well it's it's just another way to do the exact same thing that the buttons do .
+A :  Mm 'kay .
+D :  Okay now what I see with the scroll wheel is everybody has buttons . So from a marketing standpoint I have I have another door to walk through when we have something that's unique . If it creates something more complex or more expensive , then I don't know if that makes it uh a marketing necessity . But again , from a marketing perspective I want as much new and different about this thing as possible because we're we're co it's a very competitive market .
+C :  But would we
+A :  Yeah .
+A :  What I understand about scroll wheels is they're they're quite expensive to to make . So I d
+B :  Yeah .
+B :  Th they are gonna be more expensive , but on the other hand , I mean , it
+B :  I mean it is an alternative if if you think that's gonna sell some some uh you know if if we're gonna make up the extra cost by extra sales I think maybe it's worth it to do it , but I mean I would just use if I was gonna do this I would just use the scroll wheel for s channels up and channels down .
+B :  I don't think volume or do you think volume would be
+C :  I dunno . I'll bet first in volume maybe . I dunno .
+B :  No we can we can do multiple scroll wheels but
+A :  Well I d I like the idea of basically focusing the my personal preference is focusing the p the product on the idea of the uh the case the the uh
+A :  dock to put it in to to charge it . We can target like environmentally friendly ideas , that sorta things . It s i m makes it easy to market , it's easy to differentiate the product , yeah so .
+D :  Mm-hmm .
+D :  Yeah yeah . I think it's that's right . I think so .
+A :  And if we we keep the rest in a format that is durable because th th the whole product's gonna need to be more durable th thus because you're not going to be ditching it as often . It's gonna need to be more expensive because of the cradle .
+B :  Mm-hmm .
+D :  Mm .
+A :  So if we can market it in terms of that and yeah well
+D :  Yep . I think we got some exclusivity in that , you know , we got something that nobody else has right now , and and that means we can we can make some adjustments in the retail or wholesale price if we need to and it also can create it's own demand from it's uniqueness .
+B :  Yeah .
+A :  So our big decision then is like how do we do um like we have to decide on the details and we have to decide on well n not exactly the details , but d do we have uh
+A :  What type of casing ? I personally like what you were saying about the plastic with the rubber .
+B :  Mm-hmm . I'm thinking yeah something like kinda almost like these pens , you know , where there's you have plastic bits and then it's not really rubber but just kinda like a fused the plastic with rubber on the outside .
+A :  Okay . Just a very thin sorta sheet for a a grip , sorta thing or for
+B :  Well no ma yeah maybe a bit more then th is on here but ju just as a kind of an inspiration , these pens I think are are kind of
+A :  Okay .
+A :  So then if we d d do we want to do anything more basic with the uh more advanced with the user interface in terms of do we want to go for um buttons , or do we want if we're ditching the scroll wheels do we want to go L_C_D_ ? Do we want to give do we want to have anything else on it ?
+C :  It's only a T_V_ .
+B :  Or from from my perspective I think L_C_D_ is a mistake because this is a universal remote and all you're doing I mean it's you're not gonna get any information back from the television , so the only information you can display on this remote is what channel you just sent it at last and there's just not a lot of information , you know , there . It receives no information .
+C :  Hmm .
+A :  Okay .
+B :  So I I don't see any reason for having an L_C_D_ 'cause it's an increased cost . Unless you can think of something interesting to do with it .
+D :  Yeah .
+D :  Yeah right now there's right now there's nothing coming out of the T_V_ to receive , so you know unless technology changes and information starts coming out of the a cable box or something there's no s I don't see the ,
+B :  Right .
+D :  I don't see the necessity of an L_C_D_ either . Don't see it .
+A :  Okay so the question is now I guess we need t to
+A :  decide on well y you guys basically have to now go and
+A :  figure out the details of this thing . So , what we need to know in terms of marketing and uh project management are are there any other questions that we need to answer now before you guys can go and build this ?
+A :  What what overall things have we not decided on ?
+B :  Well we have to I think for me it's still not exactly clear exactly what the inter user interface is gonna be . There's the scroll wheel , in or out ?
+B :  What do you guys like in the user interface ?
+A :  I think maybe in terms of marketing , is that gonna make enough of a difference to justify the cost ?
+D :  Again . Well I think it's it's the more uniqueness you can bring to the product , the easier it is , I believe , for me to market . Uh again the push-buttons I I see are are everywhere . And so we can go with the same thing , but we're gonna be com competing in a in a broader market than if we go with something unique .
+D :  You know the other thing I thought about was you know , do we go to something like this ?
+D :  Make a remote that doesn't look like a remote .
+D :  It's just another it's just a an idea , and I don't know
+B :  Well I dunno about like the flip-phone idea , because I think , as far as durability th it's not a big well maybe when it's closed .
+D :  I mean what I see one of the things one of the things you brought up in an earlier presentation is , when you got children , their their stuff gets inside the circuitry , they get dirty , they get messy with drinks and stuff . This
+B :  Mm-hmm .
+B :  Mm-hmm .
+D :  And what I keep throwing out there I just keep throwing out ideas to try to make this thing look or act or in some way identify itself as unique or different .
+C :  Mm-hmm .
+D :  But you guys are the ones that have to c ultimately create the product within cost .
+A :  Yeah and I guess th th the question th th that you're being asked right now is whether is the dock enough of a unique feature to be able to go out and sell that a a as a a very different product , or do we really need the scroll wheel as well ? Because the scroll wheel comes at quite a cost .
+D :  Oh okay phew . I think you gotta g get into cost effectiveness . I think if you can have the base station with a with a locator , I think those are two very strong features , if that's something that can be integrated without a bunch of extra cost .
+B :  Yeah .
+B :  Well
+B :  The
+B :  The locator's gonna require a radio transmitter , which will
+D :  Mm-hmm .
+A :  That's gonna n is that gonna need a better chip as well ?
+B :  Um we're probably gonna have to go with a like a medium chip , s I would imagine .
+C :  No it's just different .
+B :  But we I we will need a receiver , an antenna .
+D :  Integrated , yeah . So it's just uh I I think that's
+B :  Yeah .
+B :  It should be a really simple signal though so
+D :  I know personally that would be a very attractive feature , is to have a uh have a button I can push to find my remote control .
+A :  And it's presumably gonna need a little speaker in it or something like that as well to beep .
+B :  That's true yeah .
+A :  But I guess a little tiny speaker is gonna be quite cheap , it's not gonna need q quality , is it ? It's
+B :  Oh yeah yeah . It'll be really cheap .
+D :  Or maybe you can like have a a smell-o-rama , you know you push a button and it s puts out a stink . You can
+C :  Maybe not .
+A :  Makes your living room more fresh as you watch .
+D :  Yeah yeah yeah yeah .
+A :  Okay we're doing well for time here . Um we've got about another ten minutes . I think that uh
+B :  So the scroll wheel ,
+B :  in or out ?
+A :  Mm pr my personal preference is out . I don't think the cost is justified for a little bit more uniqueness when we already have that , and I don't s think it's obvious and natural how it would be used .
+C :  Yeah .
+C :  Yeah I think we have like and it's not very usable and it will bring down the robustness of the whole thing , 'cause it's it it breaks down easier .
+A :  Mm .
+D :  Yeah .
+B :  For me I think the scroll wheel actually might not be so bad . I don't know exactly what the increased cost is gonna be , but I think he does have a point , i it might push somebody over the edge when they're looking at our at our remote versus something else , when they see this one has a scroll wheel to go up and down on the channels . I think it might be kinda neat to be able to do it like that .
+A :  But then that that surely d depends a little on the T_V_ because some T_V_s are quite slow at changing channels from like so if you've got a scroll wheel and you s you have to scroll scroll it really really slowly just so that you're actually keeping in pace with the T_V_'s ability to to change channels . Or do you have to go through and you wait for it ? You scroll it a bunch of times and you wait for it to
+B :  Sure .
+D :  Yeah .
+B :  Well I think wh what it would be is like like the m like this , where it's maybe you know a digital
+B :  wheel , right , where it's where it's quantized into you know certain
+A :  Mm .
+D :  Oh yeah .
+A :  Uh I see I see . That's where you
+D :  Yeah .
+B :  That was that was my my intuition of what the scroll wheel would be .
+A :  Ah I see I see what you're talking about now . Okay .
+B :  It's just it's basically it it's just a f look and feel thing . It has the same exact functionality as two buttons .
+D :  I I think there's you know that uh there are so many people today that are that are surfing are television surfers , and I see the scroll as a as a great mechanism for surfing . Instead of going button-to-bu you just j you'd j j j j j j . I really I really think that's a really cool thing for surfing .
+A :  Yeah if you're just sitting there going
+B :  Yeah .
+A :  That's kinda cool actually . I like that .
+B :  Now just just so you know though uh you did bring up a point which is very valid , is a lot of T_V_s won't re the T_V_s won't respond exactly the same . Some of them are gonna be kinda slow switching , so you may like queue up like fifteen channel changes , and it'll be like flip , flip , flip .
+D :  Well there's ano
+B :  But
+A :  Well not n necessarily . You could basically make it so that it'll I mean it's just gonna be sending a signal to the T_V_ yeah the T_V_'s ge so if you send about five flip channels , if you did that it's gonna flip once . If you do that .
+B :  Right .
+D :  That's right .
+B :  Yeah it just might be frustrating where you can't make it go as fast as you want , but I think once people get used to it I I do like the idea of the scroll wheel though .
+A :  Other than click click click .
+A :  Yeah .
+A :  And if we're marketing it as a high niche product , then we're gonna be selling it to people who are buying good T_V_s as well , yeah , presumably .
+C :  Mm-hmm .
+D :  Yeah I think so . I I think so . Now the the only thing I I on the interface side of it , is that I I I see the dilemma .
+A :  Primarily .
+C :  Yep .
+D :  But if we have the option of of scrolling at any particular speed , or the option of jumping direct , okay . So I can go uh presuming I have , on my television , something that tells me what channel I'm on , I can scroll direct from channel five to channel thirty two .
+A :  Mm-hmm .
+D :  I know what because it's on the television . The television tells me what channel it's on when I change it . So I don't know that really that's that's gonna be a a d problem , 'cause the television can go automatically from channel five to channel thirty two with the push of a button . Okay ? So ca can we can we create that kind of interface within a scroll system ? You understand what I'm saying ?
+A :  Mm-hmm .
+B :  I think I know what you might be getting at , or or
+A :  Oh I see so if maybe if we had an L_C_D_ up the top that just did a number on it , right ?
+D :  Oh no we could read it from the television .
+A :  And then it that basically
+B :  Well , what about this what about if you can programme in your favourite channels into this scroll wheel and you can just like roll through your favourite channels , and it c it
+A :  Mm .
+A :  Well that's quite cool . You'd need a display on the th the thing .
+B :  Why ? It'll tell you when you flip the channel on the T_V_ .
+D :  Yeah the the television can tell you . Can .
+B :  Yeah .
+A :  Oh yeah yeah no I see what you're talking about . Yeah that's kinda cool . How would you program it though ?
+B :  Well you just it's one extra button . You say programme start , and then type in 'cause you still have the typing you know you'll still have the keypad where you can type 'em in manually . So programme start , zero , one , enter , zero , five , enter , thirty eight , enter , programme end .
+D :  Put
+A :  Okay okay .
+D :  And then .
+A :  Okay and yeah and that just basically flips between it and it'll go it sends out zero , five , and then thirty six , and then zero , one again . Yeah that's kinda cool . I like that .
+B :  Mm-hmm .
+B :  Mm-hmm .
+D :  And again we have another another great marketing tool . We have about three we have three or four things here .
+A :  That's not gonna be too expensive because that's gonna be you're gonna be able to nab that off of computer mouse manufacturers really . You could basically come up with a partnership to be able to produce that quite cheaply .
+B :  Mm-hmm .
+D :  I dunno and an maybe we maybe even have this as in-house technology . This may be something that's available through our own uh through our own services .
+C :  Yeah .
+A :  Might be , but tha that's not gonna be such a costly feature . The problem we're gonna have is making it robust .
+B :  Oh well we also have to determine in some manner how to switch between modes , between going through your favourites list and just hitting up one , up two .
+A :  Making it last .
+D :  Or we go directional up we go we go this we go this we go this way for one , we go this way for the other .
+A :  So if there's a button for each type .
+B :  No because you wanna be able to go up and down through the channels .
+A :  Yeah people are gonna have their favourite sorta , whether they do that or whether they
+D :  Ah-ha okay .
+D :  Okay , okay , well then you just have , you have a diff you have a mode switch .
+B :  Right .
+B :  I think we'll need a we'll need a mode switch , but then if we have a mode switch we're gonna need some kinda indicator
+A :  Yeah yeah the mode switch .
+A :  Just the lights behind the buttons . You could have back-lit buttons maybe .
+B :  to which , an L_E_ an L_E_D_ okay .
+C :  Yeah .
+A :  Would that work ? Is that okay we have five minutes . So right details th that we've talked about here are that we want a scroll wheel .
+B :  Okay .
+A :  We want a mode indicator .
+A :  We want back-lit buttons .
+A :  And if we're making back-lit buttons period , do we want that just for the mode indicator or maybe to indicate what button you're pressing at the time , so that you know if it's actually pressed or not . I've seen some remotes do that .
+B :  Okay . Just so you know I think I mean it was my understanding that before we were gonna stay in the mid-market range . It seems we're kind of approaching a higher-end range . I wanna make sure everybody's okay with that .
+D :  Yeah yeah .
+A :  I think we are yeah .
+D :  Well you had acknowledged that we have more money for this . Didn't you say so ?
+A :  Yeah well we don't have it's not that we have more money , we can push up the the price . Yeah .
+D :  That's what I mean . We can increase the cost .
+B :  Okay .
+D :  So I don't know I don't know whether having
+A :  'Kay .
+B :  I just wanna make sure everybody's on board with it . So
+A :  Yeah .
+A :  So we really need to be sure as to what we can push the cost up to , though we haven't got to a stage where we're ready to pin down the price of components . But I'd say what sorta price are we looking to be able to sell something like that , and what sorta price can we make it for ?
+D :  Well I think th I think the design and technology has to come back and say , okay to create this product we see it's gonna cost us this much for this volume , because we do have a volume target of of fifty million profit .
+A :  Yeah no I I think that's where we really should be more flexible than anything else because as we said in the last meeting , our management is really looking for us to push our brand . We're entering a new market here , so I think the the profit expectation for this one product is maybe not as important as being able to
+B :  Right .
+D :  Okay I'm I'm okay with that . I guess what I just want to me the next step is for these guys to come come in with the design proposal w with the cost estimate attached , and then we have to take this to the next level .
+A :  But th what's our ballpark as to what we'd be able to sell something like this for ?
+B :  Well y yeah . Let's let's try and think now , how much would you pay for with all these features how much would you pay if you went to the store , and you were in the market f to replace your T_V_ remote , how much would you pay for that ?
+D :  We have to find cost .
+A :  But you've gotta think who our target market is because I I'm not our target market . I'm a student , but
+B :  I'm just asking you .
+B :  If
+A :  on the other hand I would think ,
+A :  mm with my Project Manager salary , I would think yeah I could probably afford this uh would I buy it ? Maybe . If I had a cool new T_V_ and this was r looking really slick and it had the dock and it had the scroll wheel , which I think's a really cool idea , that would sell me on it a little . Then maybe you know . I do I don't think I'd go over a hundred Euro certainly , that would be way too much , but the I would be happy paying over forty for it , I guess , but not much
+B :  Then you could probably afford this .
+B :  Oh no no .
+B :  I would say thirty five to forty .
+D :  Yeah , I was gonna say thirty five to fifty .
+A :  'Kay . Thirty five to fifty Euros is our sales bracket okay . So the question is what we ca we make it for .
+B :  Okay .
+D :  Because one of th one of the things we're marketing about this product is that this is the last one you will ever need to buy for your television . It's one of the marketing features in this .
+B :  Right .
+A :  Mm .
+A :  That's why the scroll needs to be really robust .
+C :  Okay so we'll come up with something between thirty five and fifty that is rug rubber , robust , with scroll wheel , with the new facilities of the scroll wheel like favourite stuff , favourite channels , and and with a cradle , and yeah and the locator .
+D :  Mm-hmm .
+B :  With a cradle , radio transmitters ,
+B :  and back-lit buttons . And it's gonna look sexy .
+C :  Or not .
+B :  Or not . It might look like clay .
+C :  Okay so you can market pe depending on that ?
+D :  Yeah yeah . Bas th that's that's easy . That's that's not a , it's a .
+D :  'Cause we have about six , six , seven features in that alone .
+A :  Yep .
+C :  Cool .
+D :  Under the title of uniquenesses .
+C :  Hmm .
+A :  Okay . The next meeting starts in thirty minutes , although does it ? It starts at three twenty one , the next meeting . So we've got more than a thirty minutes . Um we've got more like fifty .
+D :  Well I have
+D :  Is my three twenty one is the next meeting ?
+A :  The the ne next meeting is three twenty one yeah .
+D :  That's that's almost uh fifty minutes .
+A :  Yeah that is . Uh they've they've changed the times from the presentations .
+D :  You guys can
+D :  You guys you guys can uh create a
+D :  All kinds of things .
+B :  Probably . We'll let you know when we're done , if we can go earlier .
+D :  Thanks , yeah .
+A :  Okay so you guys will be getting your modelling done now and uh
+B :  Yeah .
+A :  Okay are there any other questions with regards to what this thing's gonna do , look like , how it's gonna work that need to be addressed before we really look at this in a lot of detail ?
+B :  I don't think so . If we have any questions we'll just email you I guess .
+A :  Okay .
+C :  Yeah I think it pretty much everything's covered .
+A :  Okay . This one was quite easy .
+C :  Coulda been worse .
+D :  Still .
+A :  Always the optimist . 'Kay thanks guys .
+C :  Yes I am .
+D :  Thank you .
+D :  I don't have any emails . This means I can go home .
+D :  Oh , we all leave .
+A :  Uh 'kay .
+A :  So
+D :  So so so .
+B :  Put on your mic .
+C :  So you forgot how this works again ?
+B :  Boss .
+A :  Yep .
+C :  Boss .
+D :  Maybe . Maybe maybe maybe .
+A :  Okay so we're here to talk about the detailed design of the product , 'kay ?
+B :  Yep .
+A :  And here's the agenda for this meeting . Uh I'm just gonna open , say a few boring words to start with again , and start taking minutes afterwards . You guys are gonna give us a presentation of our wonder product that I can see some demonstrations of over there . Looks cool .
+A :  And then we're gonna evaluate it . Then we're gonna talk about finance , and I've got a lovely Excel spreadsheet that I knocked up in the last five minutes for this . And uh yep . And we're gonna evaluate the product and close . Got forty minutes to do this in . We should be fine . Let's try and keep this one on schedule . So
+D :  Bra
+C :  Hmm you knocked it up ?
+B :  Alright .
+A :  thing is in where is it ? Is it in
+C :  Thi third third third .
+B :  Three , three .
+C :  The end product thingy .
+C :  Yeah .
+A :  Who wants it ?
+B :  Pedro can have it .
+C :  .
+B :  I like I'll help talk .
+C :  Um yeah so what we ended up with .
+C :  Production costs estimated by our manufacturing department and um the research department , which is us , is uh fifteen point eight Euros , someone forgot the units there yeah , uh unit price unit production price cost thing . Um
+B :  Unit price .
+C :  we implemented the basic functions , which is just T_V_ functions plus the locator , which was one of the marketing things , cradle , scroll wheel for uh the the channels , and uh we implemented the f the the way of putting the new and revolutionary zapping , your favourite channels functionality , in the scroll .
+A :  Zapping your favourite channels , eh ?
+C :  Yeah .
+B :  Scrolling through your favourites list .
+A :  Oh okay okay .
+C :  Zapping you know zapping .
+A :  Ah 'kay okay , that's favourites .
+C :  Maybe it's just a Portuguese thing . And um yeah that was the result .
+A :  Ah 'kay . I like the the the the logo on there as well .
+B :  It's very prominent .
+A :  It is very prominent . So this is the
+B :  So here I'll give you the so this is the cradle unit , and this is the actual remote itself . Um so the scroll bar is or the scroll wheel is this this green little scrolly guy here , um and then the volume controls are here and here . Uh you've got the keypad which is the numbers uh f from zero to nine and then ten . This is the power button . Uh we have our um we have the enter button and uh what was the other button here ?
+A :  Okay .
+B :  This is the teletext .
+C :  Start s the the start uh to to to programme yeah .
+B :  The programme button , yeah the programme button . So this bl this button will be used both for the favourites and for programming your uh the um the type of television you wanna use . So um the plastic is the white area of this of the model here , and the red area is like a rubber covering . So you can see that when it lays like this or like this and the buttons are all gonna be rubber , so it's pretty hard to actually damage it um
+A :  Ah , okay I see .
+A :  It's pretty cool .
+A :  Is that could that be easy to for the scroll wheel to be rotated if it lands on it ?
+B :  Yeah that might be a possible
+B :  a mi uh possible problem , but if you drop it yeah .
+C :  Not helping .
+A :  Oh well I guess it depends on the stiffness a little of it .
+B :  Yeah and it depends on if it's sliding , but I think it's pretty ergonomic . You can feel it .
+A :  Mm . Feels good . I take it that this is gonna be slightly lighter in the final design as well .
+B :  Yeah of course . Well this is clay .
+A :  Yeah it's kinda cool . You have to reach a little bit don't you .
+B :  Yeah the the power button is a bit of a reach , but I think we might scale down the final model a bit . These this is a bit larger than it would be , but
+A :  Ah yeah that wouldn't make sense .
+A :  It's cool . I'm impressed .
+C :  Don't have no one to handle that .
+D :  Mm that's oh that's oh I like it . I mean you guys gave me more than I was asking for , so I'm happy because we've got some really marketable features in this .
+A :  And hold it so wh what's the marketing perspective ?
+D :  Yeah I think it's good . Good good good job .
+B :  Mm Pedro can demonstrate the the paging ability .
+C :  Yeah .
+C :  So you ha you have like the the base station with um the little button for the where's my remote .
+B :  Beep beep beep .
+D :  Uh pla
+C :  The locator function .
+D :  I'm ha
+A :  Okay .
+D :  It's great . That's great . It's a great feature .
+B :  Um beep beep beep so beep beep beep beep beep beep be shut up . Beep beep beep okay . Um no no no tha that's alri
+A :  Mm it's impressing . So let me get it , if I press this button
+C :  Wicked isn't it ?
+A :  I see . That's pretty cool . Hang on .
+D :  So you can take this ho take this home with you tonight and you can push that and he'll be across town
+A :  I plan to do that as well . So the the two blue are are those for the the it to charge off of in ?
+B :  Exactly that's exactly what those are for . And um there's one other feature that we were debating , but we decided to go against it , is um you could beep beep beep we were thinking that it might be interesting to have a trigger button here because you have this finger it it's it kinda feels like there should be something there , but we couldn't figure out what button is important enough to put there . And we we don't wanna accidentally be hitting the power button like that so
+A :  Ah okay okay .
+A :  Yeah it's the right shape isn't it ?
+A :  But maybe if you had a trigger plus the scroll then that would get past the the problem of it landing and scrolling , 'cause then it would need to be hit on both sides .
+B :  Mm .
+B :  Right .
+B :  So maybe in a final design phase we might tweak that a little bit , but
+A :  Okay .
+D :  Uh , I can see that .
+A :  But it's definitely got options for like different types of models and things as well based on that , hasn't it ?
+B :  Mm-hmm .
+D :  Yep I like . Good job .
+A :  So is that the the final colour scheme as well or ?
+D :  No no .
+B :  Oh no this is just what we had to work with at the time .
+A :  Okay .
+B :  So we'll leave the colour scheme up to the marketing people .
+A :  The hmm .
+B :  Careful .
+A :  It came off . The scroll wheels , a problem with them not being sort of
+D :  Well I mean of course , I mean
+A :  I don't think the user interface guy wants to touch it anymore .
+D :  My my s my suggestion is we're gonna go go to the silvers and blacks like most of the televisions .
+A :  Mm .
+D :  You know some blend of silvers and blacks .
+B :  Beep beep beep .
+A :  Okay enough of that . Well i it's cool guys .
+A :  'Kay so are we done with the this presentation ?
+B :  Yeah .
+C :  Ja .
+A :  Okay .
+A :  Now now .
+D :  So you're not gonna find my uh my folder up there I gotta do mine up at the board .
+A :  Have you ? Okay .
+D :  Yeah yeah .
+D :  So
+A :  Can I not get your get at stuff from your shared folder now ?
+D :  No it's not in there because I had the computer problem and I I I cou I couldn't create it . I couldn't create it in the PowerPoint , and I think I've got this really strange cable . So what I had , basically going from the PowerPoint format , is that uh yeah yeah I like this a lot .
+A :  Oh I see I see .
+D :  Is this one of the tests is to see how we can adapt to s changing situations in the in the meeting room ?
+C :  Nah .
+D :  So what we had is we had the method .
+D :  That's not how you spell method , is it ?
+B :  No way .
+D :  No A_ .
+D :  .
+D :  So this doesn't go so fast this way .
+D :  And when I speak about method I speak about the marketing of the product huh .
+D :  And uh to me with this product we got uh we got basically three things to market . We've got the features ,
+D :  we have the uh characteristics ,
+D :  and we have the I I don't know what we would call the other part what we call you know the the the
+D :  corp corporate
+D :  Help me .
+D :  The the corporation stands behind the product , okay . So the features I think we got the scroll , we've got the uh the locator , we've got the durability , we've got the dependability , we've got you know the features that make this a unique product . Um
+C :  It fell off .
+B :  Beep beep beep .
+D :  the characteristics I talk about , we have reliability , we have comfort , we have ergonomics , we have environmentally s sensitive . Uh and the corporation , we're talking about we're we're a new we're a new company . We're wanting to make a name for ourself . We're wanting you to uh find our product so we're gonna give you a good product at a fair price .
+D :  One thing I would want to to see is uh is can we can we get a lifetime uh guarantee on this product , a normal use guarantee , which means that this product , for the for the life of of the life use , if it should have a technical problem , that we could re replace it at no cost ? That was something I would be interested in . Um so yeah without uh going into great details , we have a we have a product , it has the features and the characteristics , and the background , I believe , to make it marketable I believe at a cost of of of thirty thirty five to to fifty Euros . We're gonna be competitive , and we're gonna we're gonna have a market niche . Um w
+A :  Do you would you a argue that that we're better going for the higher cost than bringing it down into twenty f five as we probably could , but lowering our profit margins ?
+D :  That that would be uh that would be I think a decision best made by corporate um I I m for my evaluation , based on what our competition is , I th I think that that we can go after this and and and go after more of the uh exclusivity sense than the mass market sense .
+A :  Mm-hmm .
+A :  Mm 'kay .
+D :  But I'm sh I'm sure open to to market this in either direction .
+D :  But you guys came up with a great product , and at that cost I think it uh there's nobody else that's putting this this combination of of ingredients together . The only limitations I see to this is that we're focused on television only .
+D :  Uh that's the only that's the only drawback I see to this . But with all of these other features I think people c one thing I'm I'm hoping for is people are not gonna even notice . There's gonna be somebody going home and say oh sh this thing doesn't work for my D_V_D_ and my but I like these other things , so they keep it , they don't take it back .
+A :  And we're actually quite open to be able to expand the product for a later version with those features quite simply anyway , aren't we ? Th there's no fundamentally different technology to do that .
+D :  Well one of one of the thoughts that I had is can can this unit be be produced in a way that makes it upgradable ?
+D :  You know uh like like a um a sim card in a in a um in a telephone . You know is there a card in th can we make a card and so after
+A :  Hmm .
+C :  W we need we need we need s some more buttons if it would to work on some other stuff , but
+B :  Mm-hmm .
+D :  Mm-hmm , but you follow what I'm s I'm s
+C :  We we w yeah we could get another version of it that actually works . But uh
+D :  Yeah 'cause if if we can make this unit upgradable then we're yeah but then we talk about changing the warranty concept and everything , but that's that was just an idea I had . Uh to me the only additions
+A :  Yeah , the plus there's the the risk of making it unusable as well , or making it less b because at the moment it's actually very straightforward to look at all the buttons , you know what they do , it's very simple , and it just works .
+D :  Yeah .
+D :  Yep .
+A :  Mm there's a risk of that .
+D :  But anyway that's uh
+A :  Okay so we can talk about finance now .
+A :  So I have a little spreadsheet for us where I I was wondering , you when you talked about the fifteen point eight Euros , I was wondering how you came up with that figure ?
+B :  Well , that was just just our technical team added up the um production costs of the individual units .
+A :  Okay so I have bit of a spreadsheet here for this .
+C :  Very co very colf colourful .
+A :  Now
+B :  Oh .
+A :  I've made a f few assumptions here in that I'm assuming that our power adaptor we can make for a cost of four Euros , equivalent to solar cells , which I think is probably fair considering that we have in-house manufacturing of power adaptors already . Uh and I'm assuming that the locator beacon , the you know the
+B :  Uh-huh .
+B :  Uh-huh .
+D :  Mm-hmm .
+B :  Yeah .
+C :  beep beep beep .
+A :  Can be made for it sounded different that time uh can be made for a similar price to uh an L_C_ display , uh an uh
+B :  Oh , sorry .
+A :  Uh do you think that's fair coming from a m the manufacturing ?
+B :  Yeah um I do think we that we we uh don't need the events chip on print , we only need the uh the regular chip on print , so there may have been a m miscalculation in there .
+A :  .
+A :  Okay .
+A :  Yep .
+A :  Okay .
+A :  So we're down to sixteen point four , yeah .
+B :  And we and we have a single-curved uh
+A :  Is that a single-curved rather than a double-curved ?
+B :  Uh I think that
+A :  We're not entirely sure what single-curve versus double-cur
+D :  We've got a we've got a curve and a droop . I don't know whether that .
+B :  It's single-curved , yeah .
+A :  You think ? Okay I'm convinced .
+A :  But we save one Euro that way , yeah ? So we come bring it down to
+A :  Fifteen point four .
+B :  See it's a little bit more than f single-curved . So yeah it's fifteen point eight , that's where we came up with it .
+A :  Well hang on . Do don't speak so it's in here , in that w do we have any we have special form don't we ? So that's yeah . But the the the we haven't talked about any special colour though uh I don't th if we're going for greys and silvers then I don't think we're
+B :  Okay .
+C :  Yeah .
+B :  Yeah we do .
+B :  Ah . What do you know .
+B :  Oh it's a that's not very special , it's pretty
+A :  O okay so we're
+B :  If th .
+A :  Push-button , scroll wheel , we're basically we have uh th is this intended to be a button as well or just a scroll ? Just a scroll ? It's not one of the scrolls where , for example , with this one you could push it down to be a button ?
+C :  We don't
+C :  It's a scroll .
+B :  That's a scroll .
+B :  Uh no we just use it as a scroll .
+D :  Ooh .
+A :  Okay then we have fifteen point eight Euros .
+B :  It was a pretty accurate estimate I would say .
+A :  It wasn't bad .
+C :  Yes .
+B :  Yeah .
+C :  We're wicked . Awesome .
+A :  Okay so
+A :  we're on to the
+B :  S 's kind of s frighteningly accurate .
+C :  Yeah .
+A :  We're on to the pat-on-the-back part of the
+A :  presentation , where we have a look at the criterias th that Paul the criterion criteria that Paul has has given us , and we can use that to tell
+A :  How's it going ?
+A :  Anyone got any thoughts ? How how have we done today ?
+B :  What ?
+B :  I think we did pretty well .
+C :  Yeah .
+A :  I think we did pretty well too . That looks pretty spectacular .
+D :  No , I think we come up with a with a attractive marketable um product and and concept .
+A :  Any other chang uh thoughts ?
+A :  Okay so th th what about um room for creativity ?
+C :  That was mm-hmm
+A :  Is it the .
+B :  Sh I think there was plenty of room . We got a couple innovative i
+C :  Yeah .
+A :  I I think we we ended up being quite creative there .
+D :  Yeah well we we we kinda broke we kinda at least adjusted every every criteria they gave us because we d we still have the the teletext capability in this thing right , we raised the price of it , we've added two t new technology to it . So you know you know if this thing flies then we've we've adjusted or broken every every idea they gave us .
+B :  Couple innovative ideas .
+A :  Mm .
+C :  No .
+B :  Mm-hmm .
+C :  Yeah .
+A :  Not every idea necessarily , it's still a remote control . Uh no yeah but we did we did break with the specs a little bit I guess , but the uh
+C :  Basically .
+D :  Yeah yeah yeah yeah .
+D :  But I like I mean when I say we have we had I believe we have room for creativity 'cause w this is we did it .
+A :  'Kay leadership , what do we report back to the bosses ? No th th I think they were r reasonably flexible with us over the whole changing the specs thing .
+C :  It was more of a teamwork thing then really leadership based project was
+B :  Yep .
+A :  I agree .
+C :  Teamwork .
+D :  Cohesive yeah . Yes synergistic yeah .
+A :  Synergy .
+B :  There was a lot of synergy .
+A :  Teamwork , yeah he is uh .
+D :  Yeah .
+A :  What did we think of the meeting room , I guess is an important thing here .
+B :  These cables suck .
+A :  Mm .
+A :  Yeah , this falls off and uh the white board worked really well without any pro
+C :  Yeah .
+B :  Yep .
+C :  And that's
+B :  Yeah .
+C :  D you must have very long shirts . That's way far down lapel mic .
+A :  Mm-mm , lapel . Wha okay , oh , alright .
+C :  Lapel lapel lapel . That's almost a crotch mi cr
+B :  Lapel .
+A :  That's it's down , it's quite close .
+D :  You know you know what they're gonna have on the recording in there from that microphone is your lunch digesting you know th
+A :  Keep it , keep it calm .
+C :  Oh dear oh dear .
+A :  Oh dear . No more pizza for me . So yeah the the pen came in alright and it's a little uncomfortable to use but I guess it works .
+C :  'Cause this is you were using it o upside down . Still that
+B :  That's our boss .
+A :  Nah , I'm I'm not convinced of that at all . I've been wor I've been wondering about that all day , but see these look like they're that looks the oth that looks like it would be that way around , but it feels more comfortable , wh what you call upside-down . I don't care . Uh okay so that data might be slightly invalid . What new ideas have we found ?
+C :  Use them like that .
+B :  Pedro's right .
+B :  Pedro's right .
+B :  Oh wel
+D :  New ideas f uh for the product or for the the the the environment or what are we ta
+A :  Well let's do both then . Uh for the product ?
+B :  Well we had the favourites list , and the scroll bar , and we have the cradle ,
+B :  and the r uh remote call feature .
+D :  Oh .
+A :  Yeah we came up with quite a bit .
+C :  Bunch of new ideas .
+A :  And for the meeting room , Has anyone got any more
+C :  Yeah comfortable headsets would be nice .
+A :  Yeah less sore on the ears .
+D :  Well I I mean clearly remote control microphones would be the would be a nice solution to all these cables , but I'm sure that there's there's some justification for these things that I don't know about . And of course I did not have so much fun with my computer this afternoon . It's not been uh it's not been cooperating so well , but I don't think that's the
+C :  Mm .
+D :  that's avoidable .
+C :  Coulda been worse .
+A :  Okay so
+A :  Are the costs within the budget ?
+C :  Mm n no .
+D :  No .
+A :  Nope . Oh hang on it really that's something we that the costs were under twelve fifty Euros . No requirements are changed . We're still under twenty Euros to build , so we're good .
+A :  And the costs within the budget ? Not the original budget , but they are now . Is the project evaluated ? Mm I think so yeah , then celebration as it says .
+C :  Hooray . Free coke provided at the cafeteria .
+D :  Okay .
+B :  All right .
+A :  Oh I don't know how that got there . Uh anyway .
+C :  Who wrote that one ?
+A :  Thank
+D :  So we need to close this meeting , yeah bravo . Congratulations .
+A :  Thanks guys .
+B :  Good job guys .
+C :  Cool .
+D :  S I've got a lot of paperwork to catch up on so let's close this and come back and 'kay .
+A :  Yeah , I've got a lot of paperwork to catch up on too .
+A :  Oh .

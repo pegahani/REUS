@@ -1,0 +1,477 @@
+I just show you the m the no mm mm the the the the the the minutes  minute 
+
+were going to talk about the conceptual model 
+
+we just talked about it looks 
+Has to look nice 
+Usability is very important 
+People dont want to spend money on something thats similar to cheaper ones  Um
+It has to be very basic 
+not too many buttons 
+Light switches on if you use a button 
+Uh text TV still has to be a possibility 
+And it has to be easy to learn 
+
+And the functions are volume  channel to choose channels  an onoff  a mute uh button  and a text TV button  That are the functions 
+
+I just want to give you uh Mike again  the first uh presentation
+
+I received an email
+
+uh and uh I searched uh on this d document  recent investigation of the remote control market 
+It has been done in Italy uh Italy and in uh another country in Europe 
+
+Uh but uh they found out the most important aspect for remote controls happens to be a fancy lookandfeel  instead of the current functional look and feel 
+So its very important for us to create something new 
+
+Fancy stands for an original lookandfeel of the case and interface 
+Uh this uh aspect is the most important one 
+
+It uh is twice important as the following 
+The second uh most important aspect is that a remote control should it uh technological innovative 
+Uh that stands for uh uh new technical uh features 
+And then uh that uh This is a point of discussion 
+because we just decided that we dont make use of uh LCD or uh speech recognition 
+
+But we already have the flashing flashing light
+
+Uh the third one is the aspect of the remote control should be easy to use 
+
+We already discussed that 
+
+Uh d our our target group uh we thought about was young and trendy 
+So I took uh that part of the webpage 
+And it says uh fashionwatchers of uh uh Pari uh France and uh Italy  yeah  uh have detected the following trends 
+This trends I th uh trend I think its not um that meaningful for us  maybe 
+But its about uh clothes and shoes 
+But the uh the next uh aspect also in contrast to last year  the feel of material is expe uh uh is expected to be spongy 
+
+Spongy  like sponge 
+
+So rubber  kind of 
+
+Uh soft materials 
+
+But maybe th thats al definitely a good idea 
+because youve youre you drop y your remote control very often on the ground 
+
+But I didnt knew uh knew what it means 
+
+its also a stressball 
+
+Uh because a fancy look is the most important thing uh for remote control uh control 
+I think about changeable fronts 
+Uh maybe a seethrough one in a a fruit front 
+
+And uh some basic uh colour fronts 
+
+Uh maybe an extraordinary shape  like a sponge 
+
+just another shape than a normal uh remote control ha uh has 
+
+We have to discuss about that 
+
+Main point uh still uh is the technolo technological innovative 
+
+how do we do that 
+Maybe speech 
+We ma must have some kind of gadget 
+
+Its very uh difficult to to to do it 
+Because its only twelve and a half Euros you have to spend on every remote control 
+
+thats the problem  Thats the main problem 
+
+Maybe we watch the first uh the next two presentations 
+
+actually we have dont have an idea how much its gonna cost 
+But maybe its cheap
+and its easy to implement 
+
+if we implement uh speech recognition  I think it would be better to implement LCD as well 
+Since you have to uh configure speech thing 
+
+But a telephone also have a LCD and and its about t two hundred Euros 
+
+We have to decide on that 
+
+I got an email uh
+And it says uh the chip can be uh simple  regular or advanced 
+
+They say uh a display requires an advanced chip 
+And this is more expensive than all the other chips 
+
+And speech recognition 
+
+Yeah  probably too 
+I I havent got anything about speech recognition 
+
+I had uh to make a sort of a design 
+
+I watched the old remote controls and news com remote como uh remote controls 
+
+So I did some searching on the internet 
+
+This is one of the modern remote controls of the moment 
+I think we should go more to the iPod and MP three players  Mobile phones 
+
+just modern modern but still uh basic 
+
+Um you probably have to make it a bit bigger and a bit smaller 
+Cause remote con control  you can see it here  you have to bo reach both out both sides 
+And here you just have one  few buttons 
+
+uh I definitely think we should go like this 
+And then changeable fonts 
+
+Its the most important part  I think 
+
+And the home base is something like that  something simple 
+
+and then I just ordered the the buttons a bit 
+Uh basic buttons  Onoff  mute  And th maybe two others  I dunno  Text buttons 
+
+And then the colour buttons  if we want it on 
+I dont find it very usable 
+
+and then yeah we saw the the pla display  in the the iPod 
+They can put the basic buttons  one  two  three  four  And uh f above ten 
+
+Thats on on the display 
+
+That th there is no display there 
+But its on the place of the display 
+And I think we should uh light this up much more than that part 
+So the focus is on these two parts 
+So you dont see all the buttons you else need 
+
+But it sounds very difficult to use 
+Because um the volume and channel is on the on the the bottom of it 
+So you cant use your thumb for it 
+
+here we have also side scrolls 
+I dunno if we can use that  Do we want to use
+
+for volume  For volume  or a channel 
+
+then we can even simplify it more 
+By just putting the volume on the side 
+And and just channel buttons here 
+
+The channel buttons are often used 
+And you cant use them now with your thumb 
+
+m maybe we cho should put that on top 
+and buttons we we dont use on  in the bottom 
+
+Yeah  just th th th other buttons like text TV  Put that on the button bottom 
+
+You mean uh these to the low 
+
+Except from the onoff button 
+
+But I I think w youll use uh the switch channels buttons uh more often than the normal uh channel buttons  like one two three 
+So maybe we can put that on the bottom 
+
+I think its pretty standard  these rubber buttons on the top 
+
+I think its modern to light this area up  and to light this area up 
+
+I think th the the top buttons are okay  They sh Those should be on top 
+But uh we we can switch those two 
+
+my personal opinion is that we should go more modern look  MP three player 
+
+if we want to put in speech rec recognition or something  we I dont think we should put it on top then 
+I think that  if were gonna put in more technology  that you need to be able to uh switch it open 
+
+if you put in uh speech recognition  you need so more uh many more buttons 
+
+the component design 
+I looked at uh some similar devices  and uh my own common knowledge 
+
+this was on the web site 
+If you aim at a young public  you should use materials that are soft with primary colours like green  blue  red  So flashy kinda colours 
+Uh shapes should be curved  so round shapes  Not Nothing squarelike 
+
+iPod is trendy 
+And it is well curved square 
+
+we shouldnt have too square corners and that kind of thing 
+
+And um sports and gaming device style characteristics 
+
+we have to put our Real Reaction logo as well on the on the remote control 
+
+the colours also 
+So we have ha to ma make it in black  black  yellow 
+Maybe the sides in yellow and the the the top in black 
+
+because we definitely want to make it kind of flashy  to attract a young public 
+
+Maybe you can put yellow on the side and black on the on the front 
+
+Uh cant we use um different uh fron uh fronts  with all with the the logo on it  Can we do that  So
+
+Like fronts in in red and yellow and blue
+
+Still still transparent 
+
+Yeah  But with all with logo on it 
+
+Maybe we have to make it from soft material 
+
+But anyways uh it should be transparent 
+
+Just like a mobile phone  you can make um different fronts on it 
+
+Just give five with them  just in a box  Five different
+
+but y you could you could make em uh uh like blue and transparent 
+
+Um the buttons  Normal rubber I think  Like normal ordinary buttons  Soft 
+
+It it could be like a Nokia  like plastic 
+
+With the hard hard buttons 
+
+I think uh rubber really has an odd look 
+
+The the the new uh new modern uh remote controls  uh the buttons are part of the uh the style  I think is part of the remote control itself 
+
+it dont come out of the on the background 
+
+its its all on one level 
+
+So that should be hard plastic 
+
+But maybe you can m make a uh round fluff or soft material 
+
+basic remote control from normal plastic 
+the rounds of it from softer s
+
+The normal infrared LED I think s sufficient 
+And back light LEDs 
+
+But I think we have to make the case transparent 
+
+Uh you can just make them around the buttons uh
+
+but I think there are multiple colour LEDs 
+
+And in green colour  the back lights
+
+Just make it some different colours  Blue  red and green  or something 
+
+Um this is the normal circuit board  like a chip board in in a lot of uh things 
+
+So we d we just need this and this transistors and resonators  Theres all these kind of things 
+Um they they basically said that thats almost the same on any uh remote controls 
+
+Uh the battery contacts  like normal batteries ca you can put in 
+
+We still want to have a recharger  dont we 
+
+Re recharger  Base station 
+
+uh just just batteries  rechargeable batteries 
+
+And uh a chip  thats this one 
+
+Um for the energy source we can use batteries
+
+or a kinetic uh Like with the pulse watch 
+
+Or we can also use solar cells 
+But you mostly use it indoors 
+
+Its dark in the room 
+
+Its just batteries 
+
+and and we can use the home station kind of thing 
+Um cases 
+flat  so uncurved 
+Uh two D curved is um like front to the back 
+And three D curved is also in depth 
+
+Uh but with three D uh curved uh remote controls  we must use rubber buttons 
+So we cant use the flat buttons 
+
+Um these kinda materials can be used 
+
+we just make it plastic 
+
+The scroll wheels  thats cool 
+Thats for the volume 
+
+And uh the LCD 
+
+we need uh the expensive  most expensive chip  if we use an LCD 
+
+I dont think thats an opportunity 
+
+then we we use m must use the second most expensive chip  So th so the regular chip 
+
+Uh are are we using a a rubber case 
+
+Uh I dont think a rubber case looks
+
+The trend is uh spong spongy uh and uh fruit or fresh fresh 
+
+fruit and veg can be just the covers 
+
+I cant imagine a soft remote control 
+
+Titanium  uh I think its too expensive 
+
+just hard plastic 
+
+Not the sh the square form 
+
+you can make it curved or mm round 
+But just in two D  not in depth 
+
+more rounded 
+
+We have to decide which one were going to choose from these  What exactly 
+
+So the energy uh is the recharger 
+
+Just a normal battery 
+
+the case is just a plastic one 
+
+Yeah th yeah  the chip is the the regular one 
+
+And we need a plastic case  with a scroll wheel 
+
+Uh ID and UID work together on prototype drawing on smart board 
+
+Thats for the next one 
+
+But you definitely get a specific instruction 
+But th think about something thats more rounded 
+
+Like a very big scrollwheel 
+
+but just not on the top  but uh on the side of it 
+
+I think uh youll get a a lot of uh volume changing when its not wanted 
+
+maybe you just have to make it uh Thats not scrollable too easy 
+
+Uh I think th the numbers should be in the bottom  and and the switch channel in the middle 
+
+It doesnt make a difference  if you put the s uh the switch channels on side of each other or on top of each other 
+
+I think uh zapping is the highest priority 
+
+Uh but I think we we should bu uh put em on top of each other 
+
+But uh but I I think uh left to right is more often associated with volume  and top down is more with uh channel changing 
+
+So so if we use that  they will probably have a long learning uh time 
+
+we have to care that it r uh looks really new 
+Because uh we still hold on to the uh ordinary uh uh square uh remote control 
+Cause wha what I see the only difference i i i in fact is that we use a scrollwheel on the outside 
+
+but i i it should be round in in shape 
+
+If we do it like that we have below have we uh a lot of room to put a nice logo 
+
+You have to look at that image of the iPod 
+
+Uh and how many uh fronts uh fronts do we put on the market then 
+
+Yeah  five  Lets give five 
+
+Maybe you can buy separate ones
+
+uh buy the product  You buy  you get one  And uh basic 
+
+y you can put the bottom of the remote control in recharger 
+
+you could put it like that 
+
+so top down 
+
+Do we have to design that w as well 
+The docking station 
+
+But th Yeah  that can be very simple  Least 
+
+But we have to make contacts on the on the remote control and the recharger as well 
+
+But maybe you can just round up the corners a bit 
+
+As long as it isn is in two D we can use all kind of round shapes 
+
+but we could do a lot of  lot more curving 
+
+I dunno  I dunno if its handy 
+
+I think it will only look more like the old remote controls 
+
+we have to make a decision 
+what kind of form its gonna have t going to have 
+
+I think if w My opinion  If we just uh take the iPod  and the same look 
+So uh light or just whatever colour  but the same light colours 
+And uh just with uh together with uh the backlights b look will look very new 
+
+And you have the scroll button inside 
+
+Just together with the backlights youll get a totally new look  More like the MP three player M um P M P three player 
+
+No rubber buttons or something 
+
+But why do we have to round it on the t bottom then 
+
+Doesnt have to be 
+
+though thats a trend  If we want to make it 
+
+I think its okay if you just keep it a bit square 
+
+I d I dont know n something about ergonomic kind of fitsinthehand uh stuff 
+
+Uh maybe maybe make the the mm the wha whats it called uh scroll wheel  Make it in in yellow or something  Just like the colours of Real Reaction 
+
+We just we just skip the the the voca or was it the the speech recognition 
+
+do we s keep that 
+
+But youd definitely need a
+advanced chip 
+
+And we we have to build in a microphone
+
+I d I didnt receive any information on speech recognition 
+
+Can we just put it speech recognition in it as well 
+
+Probably we need a uh advanced chip then 
+
+But we dont have any f information about the cost 
+
+Yeah  uh I have I have some some information about the cost  But just a about the chip 
+
+our division has developed a new speech recognition feature  the integrated programmable sample sensor simple speaker u unit 
+This is a very small electronic unit 
+will give a standard answer after it recognise a question 
+
+Just You say record  followed by your question sample  and after a few seconds the answer uh sample 
+
+it works like uh good morning remote control 
+and then the remote control says good morning 
+
+thats integrated in the chip 
+
+but if we use speech recognition  that will be in it as well 
+
+it it would be would be a good feature feature 
+
+We have to stop it now 
+

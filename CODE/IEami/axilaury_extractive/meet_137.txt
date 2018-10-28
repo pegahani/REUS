@@ -1,0 +1,253 @@
+Well our functional design meeting  thats the stage were in 
+
+Um now the new project requirements  Ill just show them 
+
+Well  teletext goes out 
+
+I I disagree 
+
+because we just said we wanted to d include the DVD
+and they dont want it 
+
+because uh especially for the third requirement we want to reach people under the thirty years 
+
+Well and uh our corporate image should stay rec recognisable in our products 
+
+Well  Im going to tell you something about functional requirements 
+
+Well  um the first findings are that people um think most controls are very kind of ug ugly 
+
+They also say  thats about uh I thought it was fifty per cent  uh that more money will be spent on uh better looking controls 
+
+Uh  almost every user uses it d the the control for just ten per cent of its capacity 
+
+Furthermore  its uh seventy five per cent of the users uh zaps a lot 
+Thus it might be uh might be smart to make a a big uh zapping button or something in the middle  so you can reach it with your thumb 
+
+A lot of losers um users lose their controls in their in their living room 
+So it might be sensible to make some kind of a button on your television  thats your um your control beeps or something  that you can find this very easily 
+
+Uh thirty four thirty four per cent um thinks its its too uh too difficult to learn 
+
+I think our uh user uh expert should also consider manual a manual for the remote  of course  Uh
+
+Yeah but nobody reads a manual about a remote control  I think 
+
+It sh it should be there  the manual 
+
+Next point  Um RSI 
+
+Um research shows that they like to have a little LCD screen on their on their uh zapping uh device 
+Uh I thought it was the age between sixteen and twenty  ninety nine per cent of uh the people like that 
+
+Its going to be expensive  Yeah 
+
+I dont have any information on that  So
+
+No  well look well look into that later 
+
+And uh another thing is uh speech uh recognition 
+They also like that 
+
+I think thats uh difficult to realise also 
+
+We dont rule them out uh yet 
+
+Well uh it is my task to uh explain uh or to point out a working design 
+
+You have uh basically uh the energy  the power of the of the remote control 
+
+And the the user interface sends uh the the different signals of the different buttons to the chip 
+
+Ive some couple of pictures here 
+
+It has uh very little buttons and
+
+High tech 
+
+and its not very userfriendly 
+
+So we have to uh change a little bit uh to that 
+uh so that uh it becomes more userfriendly 
+
+But I think its very important to make um the power  channel and volume buttons uh near to the thumb  so you cant have RSI uh consequences 
+
+Uh the power button is used very much  channel selection  volume and teletext 
+
+Um I have a table here about uh the l the relevance of the buttons 
+
+Maybe you can make  for for channel changing  two little buttons on the side of the remote  so you can just do like this 
+
+Yeah  If someone puts up i uh picks up his remote  and he picks up it he he touches the side then hes a already on the next channel 
+Thats very irritating  I think 
+
+But in e in any case the the basic function should be uh indeed  and as you say at the thumb 
+
+and uh and that the less important uh buttons  like the the the different channels  uh the numbers one two three four five as well  should be uh yeah well not in reach 
+
+And I have some pictures of the inside workings 
+
+Yeah  Well Im Mike  User Interface Designer 
+
+took a good l look uh at the remotes on the corporate website  which are these two 
+
+Um This one is engineeringcentred 
+
+I like usercentr centred uh uh also the best 
+
+I um I kinda like the shape 
+
+I think this is about the maximum number of buttons uh well need 
+
+I think we should go further with the idea of a removable front 
+
+So if y if you make a a front with just a a tiger on it  then uh our recognition is totally gone 
+
+Or you can you can can put the same symbol on on every remote 
+
+We can put it on the on the back side 
+
+And if you put a front on it  theres a hole on the front  So the symbols always on
+
+We can make a symbol of the company right here 
+
+Mike  uh can you put uh that picture from me on the in the Word documents file  In Map 
+
+Yeah  I will 
+
+and weve uh chose for the younger one 
+Um  research has shown that um its a high interested uh in features 
+
+but what kind of features 
+
+Like LCD screens and voice recognition 
+
+And if if thats gives you a little bit of sta status information 
+
+Which programme you are l watching or something 
+
+So it it just signals the the different uh sig uh the different symbols on the screen you have 
+
+I think it should be at the top 
+
+Alright  we go with the LCD screen 
+
+Uh well I think so  yes  Um
+
+Yeah well we we we still need to know how much that will cost 
+
+No but were well have to look into that 
+
+So we have to decide on the different remote control functions 
+
+Yeah but with with the LCD screen on the top it gets a bit unnatural 
+
+because um when when uh when I use a remote I l I hate the buttons but buttons at the at the bottom 
+
+We dont want them to look like a calculator 
+
+I think its still important to have it at the top 
+because its uh its more familiar that way 
+
+I think we have uh a few functions 
+and we can put uh the LCD above it 
+and still have lots of room at the bottom  where you can put your hand 
+
+Well but uh what what if we we first decide the different functions 
+
+We have a power button  setting buttons  LCD window  the number buttons
+
+Channel  yeah 
+Volume control 
+
+Uh the mute button 
+
+I think we we should use something like this um to um The the channel up and channel down button  Yeah  in circle  you know 
+And and a volume control also in it 
+
+You should put that uh power button  channel and volume should have the most uh importance 
+
+I think these should be in one big circle in the middle 
+
+Yeah  but what he said about RSI was t kinda true 
+
+So it might be smarter to put them a little more away from each other 
+
+Yeah but people dont like it when their buttons are all over the place 
+
+So the the channel uh channel buttons should be far far apart  I think  up and down 
+
+No I dont think 
+
+I think you can have the two buttons of up and down close together 
+but you dont have uh have to have volume control and and zapping button close together 
+
+Right  just make some decisions 
+
+Well what if were going to now decide about the functions 
+and the design comes into the next round 
+
+Are we going to uh do it like uh on Mikes screen with uh one button that says Im going to do a t two number digital 
+
+On most TVs if you uh press two numbers shortly after each other  d it
+
+Alright so no button for that 
+
+Uh theres um screen  You can make it wider and less wide 
+
+I do think we have to put that underneath a clip 
+
+Th thats a bit uh waste 
+
+You can just put it somewhere
+
+Oh  they can be small or round like buttons 
+
+Well uh and and I think more at the bottom  Yeah 
+
+We have it  and we design later where everything goes  Yeah 
+
+Why go to video 
+
+Yeah  but you can z you can zap t you can you can zap to the video channel from zero to uh
+
+Yeah  but if were choosing to uh incorporate these buttons  you have to have uh channel setting 
+
+Yeah well uh d different screen settings a Yeah  sk
+
+and then with plus and min minus you can uh adjust the uh
+
+So we still have one uh four 
+
+For a screen uh fu uh channel setting 
+
+Oh you always have in the centre an Okay button  for your menu 
+
+Yeah  alright 
+
+Menu button 
+
+Yeah  I think thats important 
+
+I think things like uh contrast and brightness should be um in the menu  yeah 
+
+And you can uh then adjust it with the zapping buttons or something 
+
+and uh well have to decide s things on our own I think  So
+
+So its better to uh put our attention to the the design  So you can pick up and use it  than I think 
+
+The chip uh produces Morse code  um a specific code to indicate that specific button that is pressed  of course 
+
+Now the LED produces an infrared beam and signals the  well its uh very simple  and signals the uh signals to the sensor on the TV set 
+
+but the most important buttons m maybe you can just put them a bit apart so you would reject R RSI RSI 
+
+but i th they all have to have something about um the recognition from our company 
+
+No not clickable 
+
+But you you can put uh two or three buttons under uh another section 
+
+And the button that you can go to AV for your video 
+

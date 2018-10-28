@@ -1,0 +1,1472 @@
+B :  Hmm .
+A :  Good morning everybody .
+C :  Good morning .
+D :  Good morning .
+B :  Good morning .
+A :  So , we are asked to
+A :  to make uh uh a new remote control for television .
+A :  And the characteristics of this new remote control should be original and
+A :  trendy and of course user user friendly .
+A :  So people can can use it without any
+A :  any problem .
+A :  .
+A :  I don't know .
+B : 
+C :  Well , I think we should set the the points to to drive the project and uh
+B :  Mm .
+B :  B did you send us an email about this ?
+A :  Uh , not yet , but if you want
+B :  Yeah , we we received an email about this uh d designs .
+A :  Do you want do you want me to send you a mail ?
+B :  Ah it's Okay .
+A :  Or
+D :  Or you can put it in the shared folder .
+B :  Yeah , you see the email ? You email . The v very no , no the first one . It's inside .
+D :  No , I didn't get it .
+A :  Uh
+D :  This one . No .
+B :  No , no . The third one .
+B :  Oh , you didn't get anything .
+D :  No , .
+B :  It's strange .
+B :  Mm . I got an email about the dis about the discussion . Yeah .
+A :  .
+A :  You get email , .
+B :  I dunno from who . From the account manager . You have received the same email , right ? Yeah .
+C :  Yeah , from the account manager .
+C :  Yeah .
+D :  I think it's for your guys to how to design it all the aspects so you need that information .
+B :  Yeah .
+C :  Yeah , I think so .
+B :  Yeah , so each of us has a role to do .
+D :  Yeah I think assign your uh roles .
+B :  In each
+A :  For each for each one .
+B :  We already have our role .
+D :  For each person , yeah .
+B :  'Kay , we can
+A :  So there are so we have three f yeah . We have functional design , conceptual design , and detail design .
+B :  So there are three kinds of designs , that's all .
+B :  Okay , alright .
+A :  So , who will be the the responsible for the functional design ? Any any volunteer ?
+C :  I think our uh responsibilities will be assigned when we in our mail we received from the account manager .
+B :  Yeah , yeah .
+B :  I'm doing the interface .
+A :  You are doing th
+C :  No , I'm doing the interface .
+A :  .
+B :  Are you using the you are doing the in
+C :  Yeah I I'm I'm
+C :  Well , maybe we have okay so I industrial design .
+C :  It was a little confusion about my uh but it's alright .
+B :  Ah
+B :  Okay .
+A :  Okay , I'll for industrial design .
+C :  Yeah .
+A :  Okay .
+A :  And and you
+A :  Norman ?
+B :  Mm ? Um working on i .
+C :  User .
+B :  User interface .
+A :  And
+A :  And
+D :  Uh , I'm into marketing . yeah nothing much in the project .
+A :  doing the marketing .
+A :  Nothing related here to the
+D :  Marketing in this design . A design is basically for industrial design and the user interface .
+B :  Yes .
+B :  You see the second mail ?
+B :  Yeah , it's inside . Go down .
+B :  Appendix .
+D :  Yeah , this is .
+B :  See there's a role for everybody .
+D :  Yeah , that's right , first .
+B :  Even for the marketing .
+D :  us user define .
+B :  But look at your role , your marketing role .
+A :  Next .
+D :  There's a trend watching .
+A :  I don't know . I .
+B :  Yeah , that's your role .
+C :  Well , I think we can have a little discussion about what has to be done and what are your ideas about the
+A :  About the design or
+A :  Maybe we'll discuss this later , no ?
+C :  Well , w we want to have a new re remote control for for T_V_ distribution I guess .
+A :  Mm-hmm .
+C :  So we have to plan how how it would be developed and uh
+D :  Yeah .
+B :  Mm .
+C :  how we can make it work .
+B :  Yes .
+D :  I mean working remotes we already have . This will be something different from the other remotes remote controls .
+C :  Yeah , I dunno I
+A :  What we we have to keep in mind the these characteristics . And of course it should not be very costly .
+D :  Yeah , that's right .
+A :  So
+C :  Yeah .
+B :  Mm-hmm .
+C :  Well I I think that Norman and I would think about um the technical points and um we should discuss it in the next meeting , or
+B :  Need to collect information .
+C :  Yeah .
+A :  About the about what ?
+B :  Um .
+B :  I I'm part of design , perhaps .
+B :  Uh , what is most important in a
+B :  in a remote control ?
+B :  What is the most important function aspect ?
+B :  Uh .
+A :  You mean the external or
+C :  Well , you have to make it work . That's the that's the big thing .
+A :  Yeah of g of course .
+B :  That's alright .
+B :  Yeah , it should be easy to work with .
+A :  Yeah .
+C :  Yeah .
+B :  Yeah .
+C :  We can think about an interface with uh well
+B :  Uh . We maybe you can have a speech uh recognition interface . You just tell the television I want which channel . Or or you can say for example , um
+A :  You won't
+B :  I want uh to list all the programme tonight . Y you know , instead of uh remote control it's doing the some searching for you , so you don't have to look for the channel you want . Just say maybe I just want to press I wanna have a button for all the movies tonight .
+B :  Or a button for all the magazines , all the information documentary tonight . And then you list a few , and I will choose from the list . So instead of pressing the channel number , I am choosing the programmes directly . Yeah , that's one way of uh making it useful .
+C :  Yeah , yeah .
+A :  I I think if we include a lot of technology on the remote control it will be very costly .
+B :  No , because no , it's not very a lot . Th this information exists . For example you can get um
+A :  S
+A :  Like s uh you you you say we can use speech .
+B :  You can use uh well for example anything . The the idea of using speech to reduce the button , but uh and it's more natural . Yeah .
+C :  I
+C :  I think if you want t to choose uh from a list of programme or or something like that you you may have to to use uh w uh I dunno
+D :  I'm a okay .
+B :  Yeah . Yeah .
+D :  I mean the main uh function of remote control is to have something in the hand and we should be very careful about the size of the remote control . If we are going to add a speech interface , I'm not sure with trendy slim size of the remote control it would be able to put a speech recog if you want to put a speech recognition system f interface for that I think the T_V_ itself could have it .
+A :  In the hand .
+A :  Yeah .
+C :  Yeah .
+B :  Yeah .
+B :  Yeah .
+B :  Yes , possible .
+B :  Yeah . But
+C :  Yeah .
+D :  And I could talk to the T_V_ television itself . I need not have an
+A :  Except if if you are far from the T_V_ .
+B :  Yeah .
+D :  I mean we have some or something , different technology but
+A :  This is it's
+B :  Yeah , yeah . But th the main idea I wanted to s I wanted to say is that um there should be a function , instead of choosing the ch T_V_ channel , there's a option you can choose , either T_V_ channels or or pr or the or the contain or the contents of the programme . So it's more powerful .
+C :  On the content .
+D :  Mm-hmm , yeah .
+C :  Yeah , yeah it's it's a good idea it's a good idea but I I think that technically it would be um a little bit uh uh more tricky to to achieve this than just to
+A :  Mm-hmm .
+B :  Yeah .
+B :  No .
+B :  No , because you see now all the T_V_ programmes are available on the webs . They they are they are they are available in X_M_L_ format or whatever the format . We don't care . We just say that this are some content . We just want to retrieve the content and then classi sort them by the types of programmes . Some of the websites they already provide this service , so we can just use the service available . Download it uh to the to this remote control . And then there's there are only six buttons for six categories , or sev seven . The most there are only seven buttons . So I just choose the category one and you reuse the same button , for example to to choose among the the sorted list the programme you want , so you don't have to choose among hundred channels , if you have hundred channels , you just have six buttons , seven buttons .
+C :  Yeah yeah .
+A :  Mm .
+A :  Yeah we should also optimise the the number of buttons .
+B :  Yeah , yeah .
+C :  Well I I I I think that j just by using navigation buttons and the user interface on the screen we are able to uh navigate uh through the
+A :  This is good idea .
+B :  Yeah .
+B :  Ah , yes . So .
+C :  Well channel programme or contents or in an easy way , so
+B :  Yeah .
+B :  Yeah , so you don't have to display here , just display on the T_V_ screen , right ? Good idea .
+C :  Yeah in the dis display on the T_V_ screen and just uh with the with your remote control would just navigate through the f
+B :  Okay .
+B :  I think I think that will be revol revolutionary . Because all the T_V_ uh the the remote control have all numbers , lots of buttons and then you dunno what to choose in the end . Yeah . Alright .
+C :  Yeah , yeah . So
+C :  I think for for the technical points we have to to to check how to gather the data from programme or contents and all this stuff
+B :  Okay .
+A :  So we have five minutes to
+B :  Ah w w we have sometimes to use the white-board . Five minutes .
+A :  Ah you can y you can you can use it if you so , can we
+D :  And another interesting idea for this would be to have an light adaptation system depending upon the picture of
+B :  Okay .
+B :  Okay .
+D :  So , I mean , if you're watching a movie and suddenly there is a dark uh some dark scene , the lights adapt themself . The lighting in the room changes .
+B :  Yeah .
+B :  Yeah .
+B :  Yeah , but we are designing just remote control .
+A :  You it .
+D :  I mean , we have a option in the remote control . If we want to have that option , you press that button in the remote .
+B :  Okay .
+C :  Oh right so
+B :  Okay , do you want to have a conceptual remote control there , or you just want to put the function in ? Go on , draw something .
+A :  Yeah . If if you you you can if you want you can use th the .
+C :  Please , Norman , draw uh
+D :  Oh , I'm afraid you forgot to put your lapel .
+B :  Mm .
+B :  Where is it ?
+A :  Or before the before the the design that says .
+D :  The lapel .
+B :  Ah , okay .
+B :  Where where is it ? Here .
+D :  Yeah , that one .
+A :  Norman .
+D :  Just plug it . Yeah , that's right .
+B :  Mm .
+A :  Be before before writing you can uh sit and that says what we what we said then after that you can you can use the . Yeah .
+B :  Mm .
+B :  Okay , alright . So so the most functional des mm the most important function is to ch choo buttons to choose the content . Right ? We agree on that , right ? Uh , uh first one is to uh buttons i or it could be anything with buttons . Uh to choose
+C :  Okay .
+A :  Okay .
+A :  Yeah .
+B :  uh content s or channels . So we have both . The user can choose w which one they want , right ?
+C :  Yeah , by content or by channel , it's a good idea .
+B :  By content or by channel . Choose by contents or by channels . So
+B :  And then what did we say just now ?
+B :  Other than this .
+C :  And uh we we have to find a way how to gather information about the contents .
+A :  Mm .
+B :  Okay , so technically how the problems that how to do it is to how to get the content .
+C :  Yeah .
+B :  Challenge .
+C :  I think i it's not very difficult to to browse by channel but it's a little bit tricky to browse by contents so
+B :  Okay . Content . Okay , so these we have to work it out . So this one of the problem . And uh
+C :  I think that's the the things to do and uh to uh
+B :  The main thing .
+B :  Okay . Alright .
+C :  reflect about it and uh
+B :  Alright , okay . So we are we'll discuss it we will get some information in the next meeting , so for now we get uh the funct this is the functional designer ? That's the first aspect . Right .
+C :  discuss it in the next meeting .
+B :  We will get information and then we'll come back in .
+C :  Okay .
+B :  .
+C :  Thank you everybody .
+B :  Yeah , we'll come .
+A :  Okay . So maybe we'll meet in maybe five minutes ?
+A :  And we'll discuss the other other aspects .
+B :  Alright .
+B :  Alright , okay .
+C :  Okay .
+B :  Thank you , mis
+A :  Okay . Well thank you all .
+A :  So we come again for the the second meeting .
+B :  Mm-hmm .
+A :  Uh for the aim of this
+A :  now is to
+A :  to make presentation about
+A :  uh the work for each one .
+A :  And take the the decision about the the design and the functionality of the the remote
+B :  Okay .
+A :  control . And we have think I got a new project requirement . So I think
+C :  Okay .
+A :  uh teletext becomes outdated .
+A :  So the popularity of the since the popularity of the internet , and I think we don't need lighting adaptive , so the remote control should be only used for the the television .
+C :  Okay .
+A :  And of course we should have our image
+A :  in the in the design .
+A :  So , let's start with the
+A :  the industrial designer .
+C :  Yeah , alright . So uh
+A :  .
+A :  Or y you can use the whiteboard if you want .
+C :  Well I have a PowerPoint pr presentation stored in my
+A :  Here .
+C :  in my personal folder so I I I think you can reach it from here .
+D :  Just go to explorer .
+A :  Oh okay .
+D :  Or open .
+D :  Participant two .
+C :  Participant two .
+A :  This one .
+C :  Yeah .
+D :  Open uh .
+C :  Uh open .
+A :  Do you want to open
+B :  Because it's open you mean .
+C :  Right , so um I will talk about the the w working design and
+B :  F_ five .
+D :  Slide show , view slide show , .
+A :  Ah .
+C :  And um well I I will present my my first idea on how to build the our new remote control for television . So uh can you go one page down , please . So I think the first things to do is to define the hardware components neededs to achieve uh what we want to do . So uh mm I'm thin uh I think uh I I'll do a survey about what is uh what is available on the market and what what is the the cheapest possible things we hav we can use .
+C :  Then uh I will try with the technical team to to build a prototype and to see uh with uh h how this little box would uh look look like . And how an and we can uh start troubleshooting first uh com communication problems or things like that . And when we are ready with this first prototype I I think we can add some software functionalities on a programmable chip like browsing by content or um things like that . Okay so can you go down uh
+C :  So , wha what I think for now is we don't want to have a remote control w which is wired so uh I think we u we can use a battery for the . Then two programmable chips for both software functionalities and communication . And the communication with the T_V_ set is uh made through uh infrared communication
+C :  So uh this is the the schema of the o of the future uh remote controls so uh you can you can see the components , uh battery and uh the two chips goes to the infrared uh connection to the T_V_ set .
+B :  Did you draw it ?
+A :  Wow .
+B :  This . What is the other chip for ? The one on top .
+A :  This
+C :  The one on top is for the um well the functionali the functionalities and the the th red um sorry the green one is is to well , putting things together , um f transform the data into uh qu into the format to to uh to communicate with the T_V_ set .
+D :  One is a communication .
+B :  For men .
+B :  To the in
+B :  Okay .
+C :  And , that's it . I think we should use a F_P_G_A_ for for the functionalities which is easy to to t
+B :  Mm .
+B :  What is F_P_G_A_ ?
+C :  It's field programmable uh something array . Yeah .
+D :  Gateway arrays . It's a field programmable gateway arrays .
+B :  So why's it how is it different from the Bluetooth ?
+C :  Well , uh a F_P_G_A_ is just a chip you can uh you can pr programme it uh wi with wh whatever you want . And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices .
+B :  Yeah . Programme it .
+D :  Yeah .
+B :  Okay .
+B :  Yeah .
+B :  Uh
+B :  So this are the they have to work together ? Or ? Do they have to work together or two separate choice
+C :  No . Well , th the F_P_G_A_ will produce the the data to send .
+B :  Okay .
+D :  Or it's something like isn't hardware the first one ? And the second one is for the software . Yeah to run th to make it run . That's it .
+B :  Is the is the software par alri okay .
+C :  Yeah .
+B :  Okay , okay . So you can control if you want , right ?
+C :  Yeah . Alright and that's it for the working design . So if you have any questions ?
+D :  No .
+B :  Mm .
+D :  Okay , and how about the battery power ? Uh you mean that battery would be somewhere there and the remote contro the power to the battery comes through infrared ?
+C :  Uh no no no no , I think uh we have uh to to uh have uh embedded uh b batteries in in the yeah into the t . Yeah , yeah . And uh I I don't think it will need um very uh much power to make it run , so
+A :  .
+D :  Into the more compact and uh okay , .
+B :  Mm . Mm .
+D :  Yeah , yeah . Okay .
+B :  Mm . You can put it on the charger when uh you when you don't need to use it .
+C :  Yeah .
+C :  It's a good idea .
+D :  Yeah , that's right . Having a charger rather than putting the battery cells always . People don't like it to have to buy the batteries when they run out . We just make a small charger and put it
+B :  Yeah .
+B :  Yeah , yeah .
+C :  Yeah .
+B :  Yeah .
+B :  Mm .
+B :  Uh mm . Y yeah , yeah . Because you are using because you are using Bluetooth , if some people have P_D_A_ they can use their P_D_A_ to control the T_V_ if they want to , right ?
+C :  That's a good idea .
+A :  You can i yeah .
+C :  Also , but but I I I think uh the the goal is to sell our remote control . S okay , so charger for is the .
+D :  Bu
+B :  I dunno .
+A :  Yeah we can change the b .
+D :  Our remote , we do not want to make it P_D_A_ .
+A :  Yeah .
+A :  Um .
+B :  So is mine .
+A :  It's mine . Participant one , no ?
+B :  Oh .
+B :  Yeah , this your
+A :  Mm .
+A :  Oh we have so let's move to
+A :  to user interface design .
+B :  Yeah . So you can open uh three .
+A :  Participant
+B :  Yeah .
+B :  So
+B :  So I'm working on the technical functions design .
+B :  can you show the next slide .
+B :  So the the purpose is to to find uh the important questions to ask is what effect should the apparatus have . So so I found on a webs on the internet yeah . I spent a lot of time searching and uh and I found that uh the function of remote control is to send messages to television set . For example switch on , switch off , switch the next channel and so on and so on . So I found two very good prototypes for for this interface from our competitors so can you
+A :  During the weekend .
+A :  That's good .
+A :  Mm-hmm .
+A :  This are usual functionality .
+B :  Yeah , yeah , yeah . Ours is a bit uh different . So these are two example . One is from the other one is from , yeah , uh engineering centr yeah . This is the most competing prototypes I've found . But then uh loo but then I found if you look at you see on the left one there are too many buttons
+A :  Tasks .
+A :  And they are small .
+B :  Yeah . O on the right I tried to play with the problem is that uh if I have hundred channels I have uh I have to choo press the other button to choose the hundred channels and I have to compose the number so it's very lousy . So you so you move to the next the next one .
+C :  Yeah .
+A :  Mm-hmm .
+C :  Of course .
+B :  Yeah , so I talk about the problem . And then I I look at the user manual they are a hundred pages thick , so we don't want that . So I propose the easy to use uh prototype . You can navigate on T_V_ screen and we can the user's preference and we need to have the T_V_ connected to internet so we end in order to access the T_V_ programmes by X_M_L_ and we need some to do some preprocessing . From the technical aspect , the processing should be done on the T_V_ set than on the on the remote controller , right ? And then we the speech recognition as uh Harry says we may just put in we may K_I_V_ .
+A :  Yeah .
+A :  What do you mean by the pa pa processing will be done on the T_V_
+B :  Yeah , all the processing is done the T_V_ is a compu has some processing power the
+A :  than the
+C :  So we have to t
+A :  So we should have specific T_V_ ? Or ? We can use this .
+B :  Yeah .
+C :  We have to sell a T_V_ with the remote control too .
+A :  Yeah , we don't
+B :  Yeah because are you just wondering what controller okay .
+A :  Yeah , I think so . J j just the remote control .
+D :  Yeah , not the T_V_s .
+C :  I think there there is there is al there there is a a technology like show view who is already available on most of the T_V_ set on recorders or thing like that and we can try t to get this information on to the remote control to to do the processing on the remote control because
+B :  Yeah .
+B :  Okay .
+D :  Yeah .
+B :  Yeah .
+B :  Okay . So i the processing on on the remote controller so it can u be used in any T_V_ , any conventional T_V_ sets ?
+D :  Yeah , that's right .
+A :  Mm .
+A :  Yeah , we .
+A :  Yeah .
+B :  Mm . Okay .
+A :  Speech recognition .
+B :  N yeah , that's all . The next one ? So I come up with a simple design , just keep the v navigation buttons .
+C :  Yes , that's a good idea , I think . We d we don't we we don't need really much buttons to i if we have a screen to navigate on on the T_V_ so uh
+A :  Keep the navigation but
+B :  Yeah .
+B :  Yeah .
+C :  Well , f four five buttons , it's sufficient . It's easy to build ,
+B :  Yeah .
+B :  Mm .
+C :  it does not consume much power .
+D :  Yeah , that's right .
+A :  .
+B :  Okay , that's all .
+D :  Oh , but you have a catch there , um assume that um if you want to go to if you are watching channel two and if you want to go to channel ninety nine , then .
+C :  Well , then y you you go to the main menu and uh you have uh go to channel and then uh you can
+B :  Mm .
+B :  Mm . No , because you choose by channel , so you choose by T_V_ program so you don't have hundred channels to choose from .
+C :  Yeah . Maybe you
+D :  Uh-huh huh huh huh .
+D :  Mm-hmm hmm hmm .
+C :  .
+B :  If you go by channel , you don't have to do that .
+C :  but uh I I think i i if you if you want to to make uh well a a big jump but uh well you you have to to have a a a device when you could you could
+D :  But
+A :  So you are
+B :  Ah .
+D :  Yeah then yeah that's right .
+B :  Ah , a big jump .
+B :  A mouse or
+C :  Well , not a mouse but uh something that that says more clearly that uh right , left , up , down , well , the to have the ability to to to write something to the navigator , maybe directly , or
+B :  Yeah .
+D :  Mm hmm hmm . Okay .
+A :  Mm .
+D :  Okay .
+B :  Mm .
+C :  So , we can think of buttons like in the telephone to send messages or things like that .
+B :  Mm-hmm .
+C :  But we'll see .
+A :  How the this remote ?
+B :  Uh it's gonna be small . Yeah . So it'll beep if you wanna find it you just uh shout y h just it just has to re respond to you when you look for the device . I dunno how bu
+A :  Yeah , of course small .
+D :  too small that it goes under the sofa and we can't find it .
+D :  Yeah , that's .
+D :  just give it a name and we call him . Yeah , that's right . Yeah , that's right .
+B :  And responds to you , and
+C :  Okay , so uh next presentation
+A :  Participant four .
+A :  So Harry .
+D :  Okay , after having the inputs from industrial design and user interface , I think most of the points which I want to are already covered here . And to find the most interesting features what the users would be interested , then what we have done is we have put a feedback forms in all the magazines , and the users send the feedbacks , and based on that
+C :  Mm .
+D :  These are the findings which we got and yeah adding of a speech interface is always good for a T_V_ remote but the technology
+D :  We already know that as discussed earlier
+C :  Well I I think it will be a , yes , a bit complicated to um make a speech recognisers runs on the small uh ts
+D :  An it does how feasible it is .
+B :  I- mm . But I think if you to recognise numbers it's a well-studied problem . I if you just recognise uh numbers is a limited you have limited vocabulary
+D :  Oh we can put an limited vocabulary as in the mobile phones . We just have the
+C :  Yeah .
+C :  And this can allow to choose the the program , for instance without uh adding uh buttons
+B :  Mm .
+B :  Yeah .
+C :  so it's a good idea .
+D :  it's not going to take much space also . It's going to be very slim . And next one was the size of the remote control . It has to be of course a very slim and small one .
+B :  Mm .
+B :  Mm .
+D :  And of course most of the people are interested in if it's less expensive , so this is an important criteria here is
+B :  Mm .
+A :  Mm-hmm .
+B :  But
+A :  But do you think what they sug suggested s possibility .
+D :  I mean we have to look for a trade-off . The features and the cost .
+B :  Mm .
+B :  Yeah .
+B :  I no I I think that uh i if we go for quality people may tolerate for high quality and of course comes with uh reasonable cost . Maybe not less , but they may be willing to pay
+A :  Yeah .
+D :  Little bit more if it's with extra features .
+C :  Yeah .
+A :  It
+B :  little bit more for comfort , yeah , extra features .
+A :  Yeah .
+C :  Yeah , s s speech is a important extra feature I think
+D :  Okay .
+D :  Yeah , yeah . That's right .
+B :  Mm . Yeah .
+A :  But is it useful or not u
+C :  Well , uh
+A :  I don't know . There is in the
+D :  I mean , for a lazy guys they could say nine and the nine channel comes . Or they say movie name or I don't go for movie names but only for the numbers on the channel , or volume up , volume down , brightness , contrast .
+B :  Mm .
+B :  Mm .
+B :  Mm .
+A :  Mm .
+D :  So , I think this should be a good idea , to put this features . And the fourth one was the teletext in various languages .
+C :  Well , we are we we just have to find a mean how to to add a m a a a microphone or uh well yes a microphone into the the remote control , so
+D :  Mm , I think
+C :  I well it will be alright .
+A :  I think i
+B :  What is the teletext ?
+A :  If it's necessary can you can do that . We can integrate small microphone in the remote so it's not really a problem .
+B :  Mm .
+C :  Yeah .
+C :  Okay .
+A :  What about lighting adaptive options ? According to the re to the new requirements I think we don't need that .
+D :  Yeah as discussed in the earlier meeting , but I think uh not much people are really interested in this point if it's not really required .
+A :  Yeah .
+B :  It is interesting but we are only concerned with the remote controller .
+A :  Mm .
+B :  So you need s special T_V_ sets to do that ? Or it's it's done via this remote controller ?
+B :  It's very complex .
+D :  I mean
+C :  Yeah , I think it's a bit complex too
+D :  I mean yeah , it's for the um industrial design and users interface designers to decide if it's going to be working or not .
+B :  Mm .
+C :  For our next product , our new T_V_ set with uh automatical uh sound adjustment light
+D :  I think
+B :  Yeah , then we can conclude that .
+B :  Yeah .
+B :  Yeah , but it's quite possible but maybe not in this project .
+A :  So we have I think we have s still we have
+A :  couple of minutes . Mm-mm .
+A :  So any things to
+A :  to discuss ?
+A :  Or any suggestions ?
+D :  I think as I discussed th that four points would be good for um marketing .
+D :  The speech interface and uh less uh reasonable uh cost .
+A :  Expensive .
+A :  Price .
+B :  Mm .
+D :  And the lighting adaptation and the teletext . And regarding the teletext uh these are the subtitl these are the text information which you got on the televisions . If you are watching an foreign movie , you get subtitles sometimes . And uh if you are a French guy watching an English movie you would like to have it in French . And if I am a German then I would like to have the my options in German . So , the remote it should have some it should give me some flexibility of choosing the ch languages . That should be a good uh point .
+B :  Mm .
+B :  Okay .
+B :  Yeah . Okay .
+B :  Mm .
+C :  .
+C :  Function .
+C :  Yeah , but well what about the the new project's requirement ? I I I think we should give up with teletext , no ?
+A :  I think we we can we
+A :  is the .
+C :  Yes .
+C :  Well , so maybe we we can j we can already think uh about a way to to access the internet via the television .
+B :  Mm .
+C :  Because if
+B :  Using the T_V_ to access the internet ? Or what ? I didn't quite understand
+C :  Yeah , but uh we can think that in a few years there will be T_V_ set that can access the internet .
+A :  Yeah .
+B :  Yeah , okay .
+C :  So it's a good idea if i i if we i if if we uh think about how to to to build up our remote uh control w with this functionality in a w which will c which will come in a few years . So if we already have it in our remote control
+D :  We already have some .
+A :  So you have to anticipate the the future ?
+C :  Yeah . Yeah .
+B :  Yeah . The future demand , market demand .
+C :  Yeah , to desi well , not not to implement it , but to well , to find a way to to add to add this functionality in a yeah , in an in an easy manner , if is possible .
+D :  Yeah , that's right .
+B :  The functionality in the future . Alright .
+A :  .
+A :  In future .
+B :  Yeah . Because all the T_V_ sets will be digital , right . All the programmes , everything will be in digital than analog . Th the system will change and we have to anticipate for those change .
+C :  Yeah , yeah .
+D :  Yeah , .
+C :  Okay . So
+A :  Okay .
+A :  So let's go for the the lunch break , and
+C :  Okay , thank you .
+B :  Okay . Thank you .
+A :  we will meet after .
+D :  Okay , thank you .
+A :  So we come to the third meetings . I have
+A :  good .
+A :  Um so in the last meeting we have discussed the functional design and now we will talk about the conceptual design .
+A :  So we
+C :  Okay so I think I will do my presentation on the components concept so can you please uh open uh
+A :  will talk about some
+A :  specific details .
+C :  I'm participant two .
+C :  Components design .
+A :  This
+C :  Okay so uh the first thing uh I have done is to to made a review together with the uh manufactural uh department and have which components was uh available to build a remote control . So for energy sources we have we have to choose between the solar energy , hand dynamo and uh kinetic um well uh kinetic uh technique to to store the energy . We also um we also can put a regular battery in the in the remote control . Now
+A :  Uh this is what we have decided in the last meeting . But if we use battery
+C :  Yeah b uh f well uh I meant uh by by battery I meant uh I will not have a uh a wire between the remote control and the energy source but uh I didn't fou we didn't decide yet which kind of battery
+C :  we will put inside the the remote . So uh it's a point to discuss . Then uh the case material we have uh uh also several choices , like wood , rubber , titanium or latex . But uh well
+C :  it's not a a re uh well a real issue for the from the technical uh point of view .
+C :  Concerning the interface uh we can we can put mm just simple buttons or scrolls or buttons uh much more complicated , but it also requires that the chip to process the button is more complicated so . And uh this is the last point , the choice of chips .
+B :  Mm .
+C :  So what I have f found is that I think basic battery or kinetic uh energy uh collection is the is the better way to provide energy because I think solar energy wi won't work in a cluttered uh uh environment .
+B :  Mm .
+C :  So um so I think we can start with these two main things . For the case uh well uh I think that uh titanium is um is a good choice because it's trendy and it's uh it's uh well it's modern and uh user are are are mm will be uh very happy to have a a a nice remote . For the interface uh I think that we can ach achieve uh all the desired functionalities by s just uh using uh rubber buttons , simple buttons and th thus this allow to use a regular chip that are uh well cheaper .
+B :  Mm .
+C :  And s so uh we can move to the next slide . Yeah .
+B :  Sorry . What is this single curved what does it mean ?
+C :  Well uh uh i i it's uh it's the the shape of the um of the remote . You you will have the well um the the curve will fit into your hand when you grab the
+B :  So it's it's not
+B :  Yo l yeah . When you hold on it , it is comfortable to hold .
+C :  Yeah . It's more confog f comfortable that if these uh it's completely flat .
+B :  Okay .
+B :  Yeah . And the battery , is it kind of a rechargeable or it doesn't matter ?
+C :  Yeah the um that's the point . The kinetic one is uh y you can recharge uh by the um
+B :  That that's what it means by kinetic .
+C :  Yeah and by well by just by moving the ar uh your arm the mm well the remote will uh accumulate energy . But I d I don't know it's if it is feasible because I don't know if yet if if the user will move enough to provide the remote um all the necessary energy .
+B :  Okay .
+B :  Mm-hmm .
+B :  Okay .
+B :  Mm .
+B :  Mm .
+B :  Okay .
+B :  Yeah .
+B :  Yeah . We we might check with our R_ and D_ department to see if they have this product ready for market .
+C :  Yeah . And yeah and so can you go to the next slide please . So and uh that's uh that summarize well what I have said .
+B :  Mm mm . Wha
+C :  So uh you're right we can uh see in our uh R_ and D_ uh if the kinetic metal is sufficient to provide enough energy . That's it .
+B :  Ah the department .
+B :  Mm .
+B :  Uh
+B :  So I um keep in touch with the R_ and D_ department .
+C :  Oh yeah I take care , it's all right .
+B :  So the titanium case is the normal case that I'll show you some pictures that I have and you tell me whether they are titanium case or not . 'Cause I am not very sure , plastic , titanium or whatever . There's another point I want to make , is that the uh well you've seen them I le na my presentation that um I point out some why buttons are not the mm
+C :  All right . Yeah .
+B :  not the only ways you can use
+B :  Yeah .
+B :  Yeah , maybe n
+A :  We will , okay .
+A :  Three .
+B :  Yeah .
+B :  So the user interface is uh
+B :  i it uses the aspect uh of a computer system , a programme which can be seen or heard
+B :  or otherwise perceived by the human user and the commands and mechanism
+B :  the user uses to control its operation and input data . So you s this gives you the ways to input data and we have uh we are more we emphasise more on the graphical user interface here . The idea is to represent buttons as figures , diagrams , symbols and on so you you can easily when you look at the symbols you understand what it is doing . Yeah . Yeah . So .
+A :  What's the function of this button .
+A :  I think it makes the the interface really
+B :  Ea easy to use .
+B :  So next one . function five .
+A :  Graphical user interface .
+B :  So I can use the button , the mouse maybe .
+A :  A graphical user interface emphasise the use of pictures .
+B :  Yeah .
+B :  So next line . So the here are some examples . So they cluster the buttons together .
+B :  They group them into col they colour them and uh they have different forms as well .
+B :  but this interface are kind of confusing .
+B :  Uh basically there are too many buttons .
+B :  Right . Next one .
+C :  Yeah .
+B :  So some people are propose voice recognition and
+B :  so ah by the way I receive an email from the from one our departments saying that the voice recognition has been used in the coffee machine for this by a company when you tell the you say good morning coffee machine and the machine are reply to you . So I just got an email saying that . And it seems like this voice recognition technology is ready to be used so we might consider that ,
+C :  Mm-hmm mm mm .
+C :  Yeah fine .
+B :  supposedly . The next one .
+B :  Mm so somebody some people use uh some people use a spinning wheel th with the L_C_ display so instead of using the mm buttons you have a L_C_D_ screen and then there you can u you can use that as buttons , you can use that as real so so that could be an option as well . Touch screen , I mean . Next one .
+A :  Yeah .
+B :  And some people propose a scroll button .
+B :  Integrated with push buttons or you may have scroll button instead of p just the push button . Like the one we have here .
+B :  Uh , next one .
+A :  Mm-hmm .
+B :  so there are a few aspects that I collected here .
+B :  So s basically this deals with special users , children , handicapped people ,
+B :  old people , and uh
+B :  mm and prog basically they are programmable , specially for children . And uh
+B :  mm yeah yeah . And then they also secure uh covers , to protect
+B :  uh secure and hidden programming and battery covers that will protect your settings . So
+B :  But we don't have to integrate all these complicated features . I'm just saying that the currently in the market there are there are control there are remote controllers f customisable for different people . Yeah , so that's the point .
+B :  The next one .
+B :  And uh you see this is the one where you have the protection cover .
+B :  Mm maybe useful for children , they migh you you they only see the buttons outside . And for adults wh where you have more control you can see the one inside . So the adults might wanna have a key to lock that to pr so children will not touch the button inside .
+C :  Yeah .
+B :  Yeah .
+C :  S a good idea .
+B :  The next one . So this guy this is another company that provides big buttons . At I see that that is useful for old people and then you don't get it lost . But for our product we don't need a big one because you have voice recognition e eventually with use . And you can call your remote controller if you don't know where it is . T_V_ remote controller where are you ? And then , he will beeps and to say that I am here , for example . Is it possible ?
+C :  Yeah .
+A :  We should include speech synthesis in this case , no ?
+C :  Yeah .
+D :  Yeah .
+B :  Uh ?
+C :  Yeah but uh as Norman say if uh there is uh already a commercial product available who t who do this we we can check uh to integrate it i into our uh new remote control .
+D :  Yeah .
+B :  Yeah .
+B :  Yeah .
+B :  Yeah .
+B :  Yeah . And uh , this is another one where you can uh the the the part that's a V_ standing for the volume . So there's a up arrow and a down arrow . But you the see that in the V_ , the V_ appears to be the down arrow on the top on the top up arrow if you up arrow there's a V_ like as as if it's turning down so it's confusing interface , so I wanna avoid this kind of thing in the design .
+A :  Mm-hmm .
+C :  Yeah yeah .
+B :  And here are is uh here is a s short summary that I summary that I compiled after the findings I found .
+B :  Big buttons are convenient , voice recognition helps , push buttons , scroll buttons , spinning wheels can be used as navigation tools . And uh user customisable is important and finally simplicity simplicity is the key . Yeah . So we have many concepts there but we have to choose later on which ones are important to be used . And basically uh
+C :  Hmm .
+C :  Yeah .
+C :  Well I I think you it's it's it's fine you have uh reviewed all all the possibilities but uh uh well uh i if we consider that uh the user interface is displayed on the T_V_ screen I don't think we nee uh we need much buttons in the remote since we we just have to navigate and to have a okay or enter key or things like that , because uh adding wheels or scrolls uh makes the thing more complicated and more expensive also , so .
+B :  Yeah .
+B :  Mm-hmm .
+B :  Yeah .
+B :  Mm .
+B :  Mm .
+B :  Okay .
+A :  Or maybe we can include the user manual in the in the remote control and we should have just a button like help and you say uh and you ik you press the button help and maybe you see the the user m might in the in the T_V_ .
+C :  Yeah . That's a good idea . To have a help button .
+B :  A help button . So you are display on the screen . So on the T_V_ screen .
+A :  Yeah .
+C :  Yeah .
+A :  On T_V_ T_V_ screen . So just you push the button and we will
+C :  On the T_V_ screen . On the T_V_ screen the uh how to use your remote .
+B :  Okay .
+B :  Okay . Okay . So that eliminates all the complicated documentation , okay . So wi
+D :  Oh .
+A :  Yeah .
+D :  But people are often enough looking at the help , once they see the help button they say oh this is a complicated stuff . It's a psychology . Okay . And let us see what the market demands . We could just go to my presentation .
+A :  If the if
+A :  No In the case where they need help , in the case where they need help .
+C :  Uh yeah .
+C :  In a marketing point of view .
+B :  Yeah .
+A :  Yeah .
+C :  But uh wel well I think
+A :  It's just for user customizable , for kids or old people . So
+D :  Yeah that's right .
+B :  Mm .
+D :  I mean it just showed us the remote with an cap which could be used for kids and if you remove the
+A :  So it's the same
+D :  Same remote with some
+A :  Can be used by both kids and old people .
+D :  Both yeah .
+B :  Mm .
+B :  Well uh what I s propose is that uh you know a remote controller , i it could be a cube , is uh a small device that uh looks like a cube and maybe you can just change the um the buttons , if you ch turn one side you get one one buttons , you turn the other side you get the other buttons , so for maybe new generation people who get used to the computer they want lots of controls .
+A :  Maybe for kids , kids they like uh t no l they like to
+B :  Small
+C :  Uh well . So le le let's see what uh what people want .
+B :  Yeah .
+B :  Let's see the market demand .
+D :  And then we can decide what what we can yeah .
+B :  What what market yes yes .
+D :  we just made an marketing survey of what people need from our remotes and how it could be special from the other remotes . And we got the best on the responses from the questionnaires . Uh we also have some prizes for the most creative solutions . And we found the following solutions which we could which would be helpful for our design . So seventy percent of the users , they find their remote controls very ugly , they don't find it pleasant to use in the size or usage or anything . And eighty percent of the people they are always l I mean they are willing to spend more money
+D :  if the remote control would look fancy .
+D :  And the current remote controls do not match well the operating behaviour of the user .
+D :  And seventy five percent of the users
+D :  said they zap a lot . And fifty percent say they use only ten percent of the buttons , so the rest of the ninety percent of the buttons they're not used most of the times . So this were the findings which we found . And also they cited frustrations with the present remote controls . Most of fifty percent of the time the remote controls are lost somewhere in the room and people are always searching for them rather than watching the T_V_ . And by the time they found the remote control the program is finished . So they're frustrated a lot
+A :  Yeah .
+C :  Yeah .
+A :  Mm-hmm .
+B :  Yeah . Yes .
+B :  Yeah .
+C :  Yeah .
+D :  And um if the remote control is too complicated it takes much time to learn the functionality of it .
+B :  Mm .
+C :  Mm , the functionalities yeah .
+D :  So you can just see the percentage , fifty percent people they responded that they always lose their remotes and thirty four percent they say that it's quite difficult to learn if it's too complex . So keeping in view all these findings and the frustrations I think this should be the solution for them . We should have an L_C_D_ on the rem remote control .
+C :  Yeah .
+B :  Oh .
+C :  Well mm w well I I I don't really see the advantage of having uh L_C_D_ on the on the remote control if we have a a a big screen and uh display on the screen .
+B :  Big screen .
+C :  It's yeah of course it's fancy trendy and so on but it's it's expensive to produce and it's not really
+D :  Mm-hmm ?
+B :  Yeah .
+D :  I mean as our survey says that people are willing to pay more if their remotes are fancy . So if we have a L_C_D_ on the remote , rather than looking onto the T_V_ you just look into a remote and navigate it . It's the same menu as we have saw that iPod remote control . We just play around
+C :  Yeah .
+B :  Mm yeah .
+C :  Yeah yeah .
+B :  Mm . The thing
+C :  Yeah but when you play with the iPod you don't have a big screen in front of you , s
+B :  Yeah . Yeah .
+A :  You can use this screen instead of the big se screen , instead of use the yeah .
+D :  Yeah .
+B :  Yeah . If you re-use the existing screen , we element eliminate the L_C_D_ , after all the L_C_D_ just to display and if you have the colourful screen you can make the display colourful , fancy , as fancy as the one on the L_C_D_ , maybe even better . So
+A :  Hmm .
+D :  Yeah .
+C :  Yeah .
+D :  I mean this were the points which we got from the market demands . So
+B :  Yeah .
+C :  Yeah . Yeah yeah .
+B :  Yeah .
+C :  So I th I I well I think we we can focus on the uh on the fancy look on the uh
+D :  the other one
+B :  Yeah . More on a fancy design .
+D :  Yeah that's fine . Yeah . I mean that's
+C :  on the speech recognition if the technology is available but well I think L_C_D_ will uh will uh make us spend a lot of money for not so big results .
+B :  Yeah .
+B :  Mm .
+B :  Remember we have a s budget for the cost of producing the remote controller .
+D :  Mm-hmm .
+A :  But
+A :  Yeah .
+D :  Uh yeah we have uh
+B :  Yeah . So i is so the thing is you can find out how much an L_C_D_ will cost and then we'll decide again .
+D :  I mean that should be found out by the Industrial Designers .
+B :  Uh maybe you can find out the price and tell us next time . Is i if i
+C :  So price of uh L_C_D_ display . And
+B :  Yeah .
+D :  And it's always good to have an voice recognition for the remote controls .
+B :  Yeah . And also the cost for the speech recognition . Ask our R_ and D_ department .
+C :  Yeah .
+A :  Mm . It's for it's just for small vocabulary . We it's not yeah .
+D :  Yeah it's o only for a limited vocabulary , say eighty commands or so .
+B :  Yeah .
+B :  Yeah . And ho
+C :  Yeah okay . And
+A :  Yeah .
+B :  Yeah . And also the scroller button , how much will it cost .
+C :  Well uh compared to the to s the simpl simpler simplest button .
+A :  Yeah . Push push .
+D :  Mm , the scroll button , from the survey we never see that people would like to have some scrolling button . Because they they just they're just frightened to use the scrollings or help button .
+C :  Yeah . Yeah I think that
+B :  Yeah .
+C :  Yeah I I I think that uh well uh as we have seen in the in the presentation uh well uh about uh uh fifty percent of the of the percent n choose the button so uh I think to have uh five uh simple button is sufficient for our functionality .
+B :  Don't use the buttons .
+B :  Yeah .
+B :  Yeah . Yeah .
+B :  Yeah .
+D :  Yeah .
+A :  It doesn't mean that the other buttons are not necessary or important .
+B :  Important .
+C :  Yeah . But
+A :  But they are just less used compar yeah .
+D :  They're not used much .
+C :  But the uh the thing is is i is that we can add a functionality on the on the T_V_ screen like uh a a list of function and then you choose with the with the button to well you navigate and you
+B :  Yeah .
+B :  Yeah . Mm .
+B :  Yeah , yeah . So so the at most more power uh .
+A :  Or maybe we can u uh or maybe we can uh make this the ten percent of button more bigger than the others .
+C :  Yeah .
+A :  So .
+C :  But if i i if we if we could have a a a display uh g a user interface that is very complete on the T_V_ screen I think that just five buttons are sufficient , one to go up left right down and uh enter and you you you just select the functionality you want to access or things like that . You don't have to to switch to a channel to another uh
+B :  Yep .
+B :  Yeah .
+B :  Mm . Mm . Yeah .
+B :  Yeah .
+A :  Mm .
+D :  Or it could be like this , as the people say , if they have a L_C_D_ on the remote not on the television . Because when you have the L_C_D_ onto the television screen you miss the picture in the background , we are most focused on the commands . So if you have then L_C_D_ in the remote , you just have a menu , and increasing and lower these signs here to change the programs and this menu when you press the menu , in the L_C_D_ displays as you go on pressing the menu it faster displays volume , then the program , then the brightness , contrast and all the stuff . And accordingly you can just increase or decrease .
+C :  Yeah but
+B :  Mm .
+C :  Yeah but if you look at the L_C_D_ you you don't look at the T_V_ screen so i i it's not really worth to get to have the image if you don't look at , so .
+B :  Mm .
+A :  It's
+B :  Mm . I if Mm . Mm .
+B :  Yeah .
+A :  And I think it's increases the cost of the the remote control if you use L_C_D_ . I
+C :  Yeah .
+D :  Yeah that has to be checked out .
+B :  I think that there's no contradiction here , because if there are few buttons , you don't have to look at your your controller any more because you know where the buttons are , so if you wanna control the screen d sh sharpness you just say sharpness and then you t turn you just press lef increase or decrease button and the same for the volume and the channel , if you had the speech recognition there you just shout your channel , just tell your channel and then you don't even have to look at the butto at the controller so finally that wil eliminates the the need for L_C_D_ , with the help of speech recogniser you can Yeah .
+C :  Yeah .
+D :  Yeah .
+D :  Okay .
+D :  I mean , better if we could just check all the cost with L_C_D_ and also with the speech recognition . And then we could find which would would be a more suitable in this case .
+B :  Mm .
+C :  Yeah .
+B :  Mm . Mm . Yeah . A and
+D :  And the third problem was to find the remote control . Always , so fifty percent of the people say they lose the remotes . So
+C :  Well so we we can think about a well a a vocal command like uh find and when the remote control uh hears fine well yeah just uh to make him beep or t
+B :  Mm .
+A :  You will listen to a peep , special peep .
+B :  Where , yeah .
+D :  Yeah that's right , that's exactly what I mean by voice commander . Or it could be also something like this , uh it's always boring to change the batteries of the remotes control , so we have some one charger there and whenever we don't use the remote control we put it in the charger . And when we're using that t remote and if we misplace somewhere , in the charger we have a small button , and just by pressing the button in the charger the uh remote control beeps , wherever it is .
+C :  Yeah .
+B :  Yeah .
+B :  Mm .
+C :  Yeah .
+B :  Put it back at the charge . Yeah .
+C :  Put
+B :  Yeah .
+C :  Yeah .
+A :  Okay .
+C :  And that's a good idea , that's simple , like in phones .
+A :  Yeah .
+B :  Mm .
+D :  I mean it doe it also doesn't require a voice command , because there are problems with a voice command .
+C :  Yeah .
+A :  But you don't you don't have to move the the charger .
+B :  Hmm . Mm . Th yeah . Mm yeah . Yeah . Mm .
+D :  Yeah , yeah , yeah . I mean charger would be fixed because it's always with electricity plugged .
+A :  You have to keep it .
+C :  Yeah .
+C :  Yeah if there if there uh there is nuff not enough battery .
+A :  Okay .
+B :  Mm . There's mm . Mm .
+C :  Also and uh uh the remote is lost .
+B :  Yeah . That we can what we can do is we can program a function whereby when you press the switch off T_V_ button , the off button , the remote there be s uh instruction on the screen , please charge charge me . You never get it lost because uh every time you're off the computer the T_V_ you are asked the the command the T_V_ com remote controller would tell you to put it back to where to the charger .
+D :  Yeah that's right .
+C :  Yeah .
+D :  It's an good reminder , yeah that's right .
+B :  Yeah . So you will never get lost yeah .
+C :  Okay .
+A :  Maybe for some people lazy people .
+B :  Yeah . Yeah because everything is programmed inside . So it's it's uh it's all about strategy , y
+A :  Yeah yeah .
+D :  And of course the final point is a fancy look . As we have seen earlier the
+B :  Mm .
+D :  remotes which were displayed by Norman they weren't fancy , I mean mm very big or something with lot of buttons . I think we should have something it
+B :  Mm .
+C :  They were ugly . They
+B :  Yeah , yeah .
+A :  Mm .
+C :  Well the last one with the um
+B :  With uh two two two parts controller .
+C :  yeah with the two parts was uh original , so
+D :  I mean uh I mean uh I mean uh you see if it's like that even a kid who wants to have a control he could just plug it and use it , you can't avoid him . But you can have an button for child lock .
+C :  Yeah .
+B :  Yeah .
+C :  Yeah .
+D :  So just by pressing the button with some code , you t you put a lock onto the remote , so that he can't use even
+B :  Mm .
+B :  Mm .
+B :  Mm . Mm .
+C :  Well we can think about uh having uh on the on the on the user interface when you switch on the T_V_ you can uh well write a code or choose a category , if it is kids , uh things like that .
+B :  Mm .
+D :  Mm uh
+B :  Mm .
+A :  Or
+B :  Mm .
+B :  Yeah . Mm .
+D :  That's right .
+A :  Or maybe you have to to show some specific programmes for kids and then just just yeah just push uh kids button so it's automatically
+B :  Mm .
+B :  these are probl yeah .
+B :  Mm . Mm .
+B :  Mm .
+A :  .
+A :  So if he .
+D :  I think these other four points they're the market demands and so it's for the user interface design and industrial design to just think
+C :  So for mm yeah .
+B :  Mm .
+A :  Yeah .
+C :  So for my part I will check the prices the um the prices difference uh of what to use , where to use , and s uh and so on .
+D :  Yeah I think it should be clearer for us in the next meeting that th uh these could be included .
+C :  Yeah .
+B :  Mm . I think we need to define also a s the set of vocabularies for the speech recogniser
+C :  Yeah .
+B :  because uh if you want uh say we can sort by channels or sort by T_V_ programs , you have to decide a category of vocabularies for them . If numbers , they're easy , but if name the channel by by name
+A :  Mm-hmm .
+C :  Well I think we can we can have just numbers for channels and you can say to your remote control like uh sports and then on the T_V_ you have a list with with uh uh well with sports program playing now and and uh
+B :  Mm .
+D :  No , we have a problem there . You see uh if you have a voice commands and you are s you are watching a score on uh basketball score or something , and if the score comes twenty four thirty five , you've just say twenty five and suddenly the screen the channel goes to twenty five . So I think there should be a prefix to some numbers
+A :  Yeah it's yeah .
+C :  That's right , yeah , yeah .
+B :  Mm .
+C :  Well but well e every possible word uh has a probability to come about of the T_V_ so .
+B :  Yeah .
+D :  I mean the the you just check all the probability that saying T_V_ twenty five and just ordinary twenty five . Ordinary twenty five you almost there's a probability of being said around sixty seventy percent and T_V_ twenty five
+C :  Yeah yeah .
+B :  Mm .
+C :  Yeah but well okay .
+B :  Mm .
+D :  I dunno it will be round about one or two percent . So it's better to have some prefix before the number .
+B :  Mm .
+A :  Mm-hmm .
+B :  Mm .
+B :  But I I I think that the user would like wou would like to associate the channel or call the channel rather than than the numbers .
+D :  Yeah something , some code .
+B :  You say numbe channel number five of the T_V_ correspond to something else in the channel . So some people may want to say , I want to see this channel .
+C :  Yeah yeah .
+C :  Mm mm .
+D :  That will be too big . And it will be difficult for the vocabulary also .
+C :  Well I
+A :  Or just
+B :  Yeah . Check with the v R_ and D_ department the capability of recogniser . Uh ?
+A :  It's difficult to to just say the the name of the channel . It will be difficult to say just the name of the channel . Because you have to s t uh a ch yeah but you have to to have all the name of the channel in your vocabulary .
+B :  Well , it's convenient for the user .
+D :  Als might be you just forgot the channel name , you kno only know the number . Then
+A :  Or maybe
+C :  Yeah .
+B :  The uh uh mm .
+A :  Or maybe the user can create his own vocabulary , just pronouncing the the name of channels and include in the vocabulary .
+B :  Mm .
+B :  I I think that I have mm mm I think there's another way you can do is that uh you can uh if when the user ch press a button to choose the channel for example , then what you can do is that the you can make the T_V_ screen to split them into small little little squares of images where you you you have a snapshot of every channel , so let's say it's a four by four matrix of the images , so now what you do is f looking at the all the sixteen channels available at one time , you just use the control button uh , you just you you just choose the the option you want and then you just hit the button and then you go to that channel . So
+D :  Yeah , the .
+A :  Or lets the user create his own vocabulary
+B :  Mm .
+B :  So you you don't use the speech recogniser in that way .
+A :  of channel .
+A :  No . Just you have uh in the beginning you have
+A :  uh t you have to train you have to create the vocabulary by yourself . By associating each channel with the name or
+B :  Oh , okay . Yeah .
+C :  Well I uh I also
+C :  I I also think about uh another problem , if if there is uh more than one person who is watching T_V_ the s well the the speech uh r recogniser should be able to distinguish between the two . Because uh I remember when I was a young child with my sister we yeah we always want to w to watch different emission at the at the same time so it's a pr it could be a problem if uh if well if someone passes by when you are watching T_V_ and say oh T_V_ thirty and just run , s
+D :  Yeah yeah , .
+A :  And for each one has his own .
+B :  Mm .
+A :  Or you have to s
+B :  Yeah , I wanna watch this , I wanna watch that .
+D :  Yeah .
+B :  Mm .
+D :  A and in the same lines we would have a one more problem . If we are using the television in the different environments , say in the factories or in the shops where there is a lot of noise and this voice commands if they fail to work , that would bring a bad name bad uh reputation for our company . So I think we should specify some pre-requirements if we want to use a voice commands , say that it should be used in an silent homely environment or s something .
+C :  Yeah , yeah .
+A :  Yeah .
+B :  Mm .
+A :  Mm .
+C :  Yeah .
+A :  Or we can switch on or switch off the the special , yeah .
+D :  Yeah that's right that should be an option .
+B :  Mm .
+C :  Yeah that's well I think that's a good uh a good option because it's simple and uh simple to implement also , so .
+B :  Hmm .
+D :  I think these are the practical problems .
+D :  So we need to take care of them in the design .
+A :  Maybe we'll discuss them in next meeting . It's time to close this meeting .
+C :  Okay .
+D :  Okay .
+B :  Well , you you stay a five minutes .
+D :  Oh it came there on three minutes back so we are I think we can just press the okay .
+A :  Yeah . Okay . Thanks for your collaborations .
+C :  Okay .
+C :  So I see ya .
+D :  Okay . See you another thirty minutes .
+A :  So in last meeting we have discussed the conceptual design and we asked you to prepare a prototype for the
+B :  Okay .
+A :  for the remote control . So . So let's see the what
+B :  Yeah , so can you go out to the shared folder ?
+A :  did you prepare .
+B :  Mm the shared folder .
+A :  Sh share folder for th your presentation ?
+B :  Yes .
+B :  We have a presentation .
+A :  Because I have here
+B :  Uh
+B :  So I got the participant uh
+B :  three .
+B :  W uh .
+B :  Three .
+B :  It's the final design , yeah .
+A :  Okay just one .
+B :  S so so I discussed with Guillaume .
+C :  Mm .
+C :  Yeah .
+B :  Right . And uh so we have and we we are both agreed on some two versions of the prototypes , because we were no not decided whether we wanted to have an L_C_D_ or not because it's too expensive . So we come up with two versions . One with and one without L_C_D_s . Um but both comes with a charger and then detachable and uh or control module .
+B :  And detachable big buttons for all people um .
+C :  S okay so I'll show you the the two prototypes . Here we have the first one with the beautiful uh L_C_D_ um display . You you can s here . And you can uh just um browse into the the navigation menu by uh joystick joystick-like uh button . You can uh choose the direction and if you just push on it it's considered like a enter function .
+B :  So .
+B :  Mm .
+B :  Mm .
+B :  Mm-hmm .
+C :  You have on the mm on the side here the microphone for the for the speech recognition system here . And here the the switch that control if you want
+A :  Why you why you you put it in the the side ?
+C :  Well I I I think uh it's the
+A :  It's not a good place maybe .
+C :  Yeah but
+B :  No i i it's the all around camer uh microphone isn't it . The the microphone picks up
+C :  Yeah .
+B :  the speeches from anywhere .
+D :  Is it an only a single mic or a microphone array ?
+C :  Well so it's a microphone array . No it's just a single microphone , and you I I think uh we we put it here because I think when you when you are browsing your L_C_D_ you will be close to well it's better to to to place it here th than here , for instance . And here is a little switch that control if you want the the speaker uh recognition system to um to be on or off .
+A :  Oh it's very costly , microphone array .
+D :  Mm-hmm .
+B :  Yeah
+D :  Yeah .
+B :  Mm .
+B :  Yeah yeah .
+D :  Okay .
+C :  And uh so this remote control comes up with its charger .
+A :  How much does it cost this one ?
+C :  Well this this prototype is um made for about uh well fi fi fifteen fifteen dollars fifteen dollars , but uh well it's not it's not uh yeah , but uh it's just a prototype and if we uh if we optimises the um the uh voila .
+B :  For the
+B :  Yeah .
+A :  Fifteen dollars ?
+A :  Ah it's above it's above the budget .
+D :  The cost would be le reduced .
+C :  Yeah the and the the production costs we we can achieve uh about ten dollars .
+B :  Mm .
+B :  Hmm .
+A :  How many b battery is there ?
+C :  How many , excuse me ?
+A :  Battery .
+C :  Well uh f battery , we use uh about uh
+B :  Is it n the two A_A_s batteries in it . A_A_ rechargeable batteries .
+C :  Yeah .
+C :  Rechargeable of course , because we have the charger .
+B :  Yeah rechargeable batteries . We have the charger so it's no problem .
+C :  Yeah and you just
+A :  So one one battery ?
+C :  On uh yeah one battery .
+D :  Is that two or one ?
+A :  It's kinetic reserve .
+B :  Actually uh it's a flexible thing . You just n uh
+D :  Now what is the whole day rating for that ?
+C :  The excuse me ?
+D :  Whole day's rating .
+D :  What type of battery ?
+C :  Oh yeah it's just a r uh simple battery a rechargeable uh if you uh like it's exist .
+B :  Yeah yeah .
+D :  Something like a two A_ , A_ three size batteries ? Mm-hmm .
+C :  Yeah .
+B :  Yeah .
+C :  So and if you want to charge the battery you just put the remote control like that to plug in the the charger and uh leave it uh alone , it's alright . Then the next time you pick it , oh
+B :  Yeah .
+B :  Yeah .
+B :  Mm .
+B :  At uh yeah . I forgot to tell you there is only a single button there , b this button yeah alright . This button is like the mouse is like a joystick , you can move in three hundred and sixty degrees of direction so you can make a turn and it the additi functions associated to all the actions you ma you have a click you have a double click
+C :  it works .
+C :  Yeah just explain the button uh Norman .
+A :  Mm .
+B :  all in a single button . You can move up , down , left , right , or you can do a swing . So a swing to the left , a swing to the right defines other functions . So even though it's a single button , but it is pretty s flexible because of the three hundred and sixty degree movement . Yeah . This is the version y that comes with L_C_D_ . Here I present another version without the L_C_D_ .
+D :  And the L_C_D_ is this one , on the remote ?
+C :  Yep .
+D :  Yeah .
+A :  I think it's not a good idea because after maybe one or two months
+B :  Mm .
+A :  of function is
+A :  getting destroyed . If you
+B :  Uh okay this is new prototype uh .
+C :  Yeah it's
+A : 
+C :  So we have the the second version also with the different uh button configuration . The second version is also simpler , we d uh we had just uh I have to put the microphone also . So basically th it's the same uh yeah . Basically it's the same uh things uh uh as uh I presented before . But here we have uh we have uh four buttons for navigation . Press one button uh acting as a a enter button . So um yeah according to what you said it's more robust to the user .
+B :  Yeah yeah .
+D :  Uh-huh and also the switch . Okay .
+B :  Mm .
+D :  Mm-hmm .
+A :  Mm-hmm .
+C :  And uh it's also cheaper to produce . We can produce uh such remote control for about uh four dollars .
+A :  No four dollars , it's good .
+D :  And I think you forgot a point here to have an button to find the charger , because that's a major that's a
+B :  Oh no th actually th we'll come to that point in our
+C :  Yeah it's it's it's embed in the uh speech recognition system .
+B :  Yeah .
+D :  Okay and if you disable speech recognition system then ?
+C :  So
+B :  W w I'll I'll come to that point later on .
+D :  Mm hmm hmm hmm hmm hmm .
+C :  so Norman will explain to you .
+A :  And we will we will serve the charger with this ?
+D :  Okay .
+B :  Yeah .
+C :  Yeah yeah of course mm .
+B :  Th they either these with the uh the the charger any in either versions you they they ha they use the same charger yeah .
+A :  With the remote control .
+A :  Okay so the price of the charger included in the
+B :  Uh it's a standard module so you should get it for a cheap price uh . It's that same charger that you can use for the hand-phone but uh again depends on the types . I think we have to investigate more on that , but
+C :  Thank thank you . And so mm-hmm .
+A :  Mm-hmm .
+A :  The price should be below twelve and a half Euro . Well that's so
+B :  Yeah .
+B :  Yeah but as the Marketing Manager says , people is willing to people are willing to pay more for good design .
+D :  Yeah people are willing to pay more , but the company is not willing to invest more at the moment .
+A :  We have we have just
+B :  Yeah .
+A :  The price of selling is twenty five Euros .
+B :  Yeah .
+B :  Mm-hmm .
+A :  And the price of
+C :  Alright please uh go on Norman with the special features .
+A :  production
+D :  Or uh
+B :  Yeah we'll we'll come up to that , the the the thing that makes this the controller cheap is that it is modular so you want more function you pay more . If you want less function i i if you want a reasonable price you pay for the functions that you add on to the system , so is uh modular .
+A :  That's for this basis function and if you want more you pay more .
+B :  Yeah yeah , for example the L_C_D_ , you can take it you can put it put it back in , or you can use the other one , or the speech recogniser with the microphone yeah yeah . You want a microphone to put in the speech recogniser you don't wan you pay less for the system you see . So
+D :  Something like customised . Yeah .
+A :  Yeah .
+A :  Okay .
+D :  Mm hmm hmm hmm .
+D :  Hmm okay .
+B :  It's pretty flexible in the yeah price .
+C :  You also have the the the two other modules for the parental control
+A :  But
+B :  Uh yeah yeah you should present that .
+D :  And this is other one ?
+C :  that that you ca you can add up to the to your remote control i i if you uh if you want to to have more more power on what you do , and uh which channel you want to choose and so on .
+B :  Yeah .
+C :  H here is just the the the module for the kids and th if the parents want to watch T_V_ , up they come up with their modules , they just plug in it and they can have all the control they want here . We also have this module for uh old people with big buttons , clearly labelled , and it acts like the previous one , you just plug in and it works .
+D :  Mm hmm hmm hmm .
+B :  Yeah
+B :  Mm .
+B :  Hmm .
+B :  Yeah .
+B :  Yeah the i the idea the the conceptual idea is that
+D :  Mm-hmm .
+B :  simplicity and powerful . Simplicity meaning that we have few buttons , powerful is that all the controls with the one you saw we saw earlier in the meetings with lots of buttons n but here you only have few buttons but you retain the mm the same powerful functionalities . But in addition with simplicity .
+B :  So that's the best idea , the cond that that's our uh an innovation um uh i in this uh design here . Okay now we come to other important features that I did not tell you . The first one is the speech recogniser , again it's detachable or add-on . And then we also have security feature for example this here oop it's very robust , it doesn't break and the material , what's the material again ? Titanium material .
+A :  Mm-hmm .
+C :  The titanium and so it's very uh
+A :  Titanium .
+B :  Again uh and the battery life is uh is an is an endurable one , again because this is A_A_ batteries you can choose the types of battery you want . Lithium-ion may be a good one , but you can replace it with cheaper one , again you pay for what you get , and then um y the other p points are robust and misplacement reminder . So when you finish watching your T_V_
+D :  Yeah that's fine .
+B :  and you the you t you turn off the T_V_ ,
+B :  uh and then there's this message coming out that uh please put that back to the charger , so so that's the or is it that's the reminder part . Yeah and um
+D :  Okay .
+B :  And it also use a programmable channel and vocabulary , so we didn't define the vocabulary so it's up to the user to define so sorry ? And then uh because of the chil because children are using the device so we have also a a of T_V_ programmes by genre , and this can be used by the adult or by the children .
+D :  Mm hmm hmm hmm .
+B :  So instead of choosing the channel you are choosing the T_V_ contents of the night . So it's pretty powerful , and that's that's why the num buttons are reduced , because of this feature . Yeah . And and for the materials that is cheap to produce I think uh it's quite clear from yeah . And also like the and the fancy designs yeah . Maybe we can improve more on the design but uh this is the
+A :  What what's
+A :  Maybe yeah . What's the price to p to produce ?
+C :  Well so the price to produce
+C :  For uh the simplest one , say we start from four dollars to produce such a device .
+C :  Uh it's about it
+A :  With with with the charge ?
+D :  With the charger ?
+C :  The without without the charger it's about uh well two dollars to produce uh the microphone and speech recognition systems .
+B :  Yeah .
+A :  Okay .
+C :  Two dollars for the uh for the add-on modules , and finally three dollars for the charger .
+C :  So if you uh sum up uh everything
+B :  Yeah .
+A :  We don't have charger .
+C :  wi with the L_C_D_ , which costs two dollar , you have two plus four plus four plus two plus two .
+D :  I think we can use Excel .
+C :  It's about so the total cost if you if you want all the fuct functionalities will be about uh fifteen dollars .
+A :  We don't have all the options .
+A :  Charger we don't have charger here either .
+B :  Yeah .
+A :  No it's
+C :  But it's just if you want all functionalities .
+A :  it's below the the the budget .
+B :  Yeah .
+C :  Excuse me ?
+A :  It's below the bu
+A :  the budget . We
+D :  Yeah it's a nice input but we have an
+D :  other inputs from the l public demands . I think we will just have a rough look and then we can make our statements , and we can finalise the product based on this discu
+B :  Yeah .
+C :  Yeah .
+D :  I think we can just go to my presentation then .
+D :  We can wind up .
+D :  Or we could uh come to some f uh final conclusions .
+D :  So the marketing made an evaluation criteria and these were some of the findings , and uh
+D :  in the market the people are not really interested with L_C_D_ , without L_C_D_ , with speech recognition interface , or without speech recognition interface , but most of the people what they are interested is first thing is , they want to have an fancy look and feel , it should be very fancy with colourful and uh very handy to hold . And the second thing is it should be much more technologically innovative .
+B :  Mm .
+D :  Of course in that we could put L_C_D_ or recognition to be more technologically innovative . And the third one is easy to use .
+B :  Mm .
+C :  Well I think that the technical in innovation is is in the product itself since we haven't yet a remote who are allowing to to choose interactively with the T_V_ screen uh uh with just four buttons .
+D :  Okay and if we go to the next slide , here you can find these are the latest fashion updates , and so this in Paris and Milan they have detected this trends that the this year it's going to be an year of fruit and vegetable , so people are really interested to see if they have an remote in the shape of the fruit or a vegetable , or whatever they like .
+B :  Spongy spongy .
+B :  Mm mm .
+D :  So I think it should be much more customised to make a different uh shapes . And the second thing is , and if the material , they really do not want it to be very hard , as in the case of very pl plastic or titanium , it should be somewhat spongy .
+B :  Mm mm .
+C :  Okay .
+B :  But the the problem is that uh is it robust to mishandling ?
+D :  Um .
+B :  We have you should find a material that is robust at the same time spongy . Spongy .
+C :  A sponge .
+D :  Yeah so uh so finally we have these three criterias . One is fancy look , second is
+D :  innovative , and third is easy to use .
+D :  So these are the f uh three criteria on which we are going to build our remote . So and we have an evaluation criteria for each one of these , say that we have a seven point scale ,
+B :  Mm-hmm .
+C :  Hmm .
+D :  from one to seven , and for each of the product you could just give me the scale according to this .
+B :  Mm-hmm .
+B :  Mm .
+D :  So now you have with L_C_D_ and without L_C_D_ , so on this scale , if it is true ,
+B :  Mm .
+D :  if it is if it has a fancy look you could just tell me one , or if it is false , it doesn't it looks uh it doesn't look much fancy , then you could just tell me seven . So
+B :  So so is the e evaluation depending on us or other users ?
+D :  We can make our study on this and
+D :  No no we have you have designed two products now , one is with L_C_D_ and without L_C_D_ .
+A :  Yeah .
+C :  Yeah .
+B :  Yeah .
+B :  But who will give the scoring uh we ourself or or a third party ?
+A :  You .
+D :  According to you , no according to you designers , how will feel does it uh with L_C_D_ and without L_C_D_ ?
+B :  Mm .
+D :  Okay let us make this L_ and without L_C_D_ .
+D :  On on this scale the L_C_D_ remote control . How do you look how does it look ? D is it very fancy or doesn't look much fancy ?
+B :  Mm .
+B :  Mm .
+C :  Well it doesn't look much fancy I'll I'll say three or four .
+D :  And you both agree for that ?
+A :  And you ?
+B :  I think we can improve on the design . Som someone um commented this is like a the stone age uh design . Um we have been focused all all this time on the on the technical aspect , functional aspect , but also the simplicity . As for the design maybe we c should hire a designer to help . Yeah .
+C :  Yeah . It's it it
+C :  Technical aspects .
+A :  Mm-hmm .
+D :  So I take three on with L_C_D_ ? So without L_C_D_ how would you rate it ?
+C :  Yeah a three .
+C :  Uh four . I think it's it's uh more easy to make f fancy things when it's not complicated so
+D :  Four .
+B :  Yeah .
+C :  removing the L_C_D_ um gives us a li more liberty to to have a fancy look .
+B :  Yeah .
+D :  And in the sense of innovativeness , with L_C_D_ .
+C :  Well it's it's the same for both so I will give a five , six .
+B :  Mm .
+D :  Five with L_C_D_ and
+C :  Well five also uh Norman please .
+B :  Yeah from the innovation aspect I feel that uh what is most innovative
+A :  Uh
+B :  of our prototype compared to the existing prototypes that we saw l in the last meeting
+B :  is that um the retrieval of T_V_ programmes by content , because uh that is really innovative , and for now and another innovation we have is simplicity and simplicity , few buttons , we've uh
+C :  With lot of functionalities .
+B :  A lot of functionalities . So that is uh that is uh for both th
+D :  So without L_C_D_ ?
+B :  Our gi I think that the our our product is uh has the best in all well this is a biased judgement because we designed them .
+D :  No no according to design aspect we want to know how would you feel the innovativeness ?
+B :  Yeah .
+B :  Uh the innovation is v is very high I think .
+D :  With L_C_D_ . And without L_C_D_ ?
+A :  For L_C_D_ .
+B :  Both .
+C :  Mm for both it's the the same innovations .
+B :  For both .
+B :  It's the same innovation . So maybe I can put six to seven .
+D :  Okay .
+C :  six , let's go for six .
+A :  Without L_C_D_ .
+B :  Both .
+D :  No actually uh to make it with L_C_D_ you make more efforts . So I there is high innovativeness included if you make it with L_C_D_ y then when it is without L_C_D_ there is not much innovativeness . So we can't go
+C :  Yeah .
+B :  Mm .
+A :  Uh no innovative yeah .
+B :  Uh uh uh there w there was a there was a issue here is that what are what is the display on the L_C_D_ ?
+C :  Talk about
+B :  We haven't really uh determined what are actually actually it's good to have a L_C_D_ but what are we gonna display on a L_C_D_ ?
+D :  I mean that what you are sayin that's what the design
+D :  No it's like this , I mean on the L_C_D_ , according to what I understand from your model is , you have a joystick here , and you have L_C_D_ , you just press your joystick , you get here a programme . Uh then
+A :  So let's remove it .
+B :  Yeah ?
+B :  Yeah .
+B :  Yeah but
+C :  Yeah but you have the same programme on the T_V_ screen .
+A :  But
+B :  Yes exactly .
+A :  This is the problem .
+D :  No on the T_V_ you don't it doesn't display on the T_V_ now .
+C :  If you have the L_C_D_ , but if n
+D :  L_C_D_ ? Then uh there is no meaning in having it on the T_V_ . Or then again you have a channels , volume and all the stuff and what a
+C :  Yeah .
+B :  But you cannot display all on a L_C_D_ .
+D :  I mean that depends upon your design , so
+B :  Anyway for for the users who who who opt for L_C_D_
+D :  I mean
+B :  we'll give them the give them the L_C_D_ , we give what the customer uh wants , right .
+C :  Yeah .
+D :  So without L_C_D_ you want to put it fi the same level of innovativeness ?
+D :  And which do you recommend e easy to use , with L_C_D_ or without L_C_D_ ?
+B : 
+C :  Well I think both are really easy to use because there are few button buttons , and uh well t p the menu are clear , well-organised , so
+B :  Yeah .
+B :  Yeah .
+B :  Yeah .
+C :  Well with little knowing of the technology you can you can easily use the product so I will give a six for the easy to use .
+B :  Yeah I think sorry .
+A :  No it's just if I I see the
+A :  the f the rate I think it's better to do it without L_C_D_ .
+A :  Because that's with L_C_D_ just will increase the price , and I thi i they have the same rate so without L_C_D_ it will be
+D :  Yeah .
+B :  Yeah .
+D :  Or we can just go back to the previous slide uh where we ha we have a few updates .
+D :  So I mean in the product design you could just amend it to make some few changes according to fruit and vegetable or a spongy touch without L_C_D_ and without speech recognition . Even then our product is going to be very good . Yeah .
+B :  Yeah . Yeah .
+B :  Yeah .
+C :  Yeah , it's cheaper to produce .
+B :  Mm . S
+C :  And uh if the the well if we have less technology we have more liberty to uh for the shape and uh things like that so
+D :  Yeah that's right .
+B :  Yeah . I have another thing to say about the easy to use aspect . I think the easy to use uh aspect is different for different people . For the young generation easy to use may be very complicated because uh they w they wants lot of controls with lots of buttons . For kids they want simply the s similarit for the old people they want simplicity , so that's why we have the parental module .
+C :  Yep .
+A :  Mm-hmm .
+D :  Yeah yeah that's right .
+B :  Uh we can ha have build a more complex design if if they want it , but but uh what I'm trying to say here is that the um we have different sets of buttons for different kinds of people . So in terms of easy to use I think it's very user customisable . User customisation is very important yeah . Yeah so
+C :  Yeah .
+D :  So without L_C_D_ I just take it five ?
+C :  Six .
+B :  W uh
+A :  Mm-hmm .
+D :  Or you want it to be six ?
+C :  Um six .
+B :  I think it's the same .
+B :  Yeah .
+C :  Yes as you say , with better uh yeah .
+A :  Without L_C_D_ .
+D :  S s oh I think it's better to have this without L_C_D_ .
+C :  And to improve the the look .
+D :  As our Programme Manager s Pro Project Manager says that without L_C_D_ it is going to reduce the cost also , and it's going to be much simpler to use .
+B :  Yeah .
+A :  Yeah .
+B :  Mm .
+C :  Yes and to give us more liberty to have a fancy look so
+B :  Yeah .
+C :  so let's go back to our laboratory and
+B :  To improve on the design .
+D :  So .
+A :  What a what what about the sys speech recognition ?
+B :  Huh ?
+A :  what about the integration of speech recognition ?
+B :  The speech recogniser is a add-on module .
+B :  Right ?
+C :  Yeah .
+D :  That's going to be an optional . If somebody wants to buy it they can have it , otherwise no .
+B :  Yeah .
+A :  Ah so it's optional with the okay .
+D :  It's an optional .
+C :  It's optional yeah , since well according to this study uh people more likes more to have a spongy uh remote control than
+A :  I think it will be I think i
+D :  Yeah .
+A :  I think it will be better if we have all these modules in the same remote control , because maybe parents will lose these uh
+D :  Yeah , but I mean if you have an add-ons , the kids may just uh hide the parental module and so that their parents can't use it .
+A :  Yeah . Or ma yeah . Or maybe parents they can for forget where they put it or , so mayb better if you have all this in the same
+D :  In the same set , yeah , and and individual buttons to make them work .
+B :  Oh .
+B :  The problem is if i we are bla if a customer wants a certain component , and doesn't want the parental control because it's a couple who do not have children when you sell the product in the market you could meet any kind of people , and not all people will need all the functionalities we propose to them . So we might lose the customer because of this . I don't know , what do you think uh ?
+A :  Yeah .
+A :  So you mean that even if these modules will be will be functional uh will be optional .
+B :  Yes exa what do you think , I don't know . You are Marketing Manag .
+A :  Uh
+D :  I mean how to how to how to make a marketing survey that uh how many married couple or how many couples have a T_V_ or to the number or singles who have a television . So based on that I think
+B :  Yeah .
+C :  Yeah .
+B :  Yeah . But the the question is n does those modularity increase the production cost or decrease the production cost ?
+A :  I think it inc increase .
+C :  Well it's about the same because if
+C :  Well you can if you had uh something li
+A :  I think it i increases .
+C :  Oh no , because if you if you add uh something well yeah maybe because it's three different pieces uh to to to build but
+A :  Hmm .
+D :  But you can make it on a single P_C_ with three different options .
+C :  Yeah yeah yeah it's I think it's cheaper if you if you already built the all the functionalities um on the same module , but uh
+B :  Mm .
+B :  Mm .
+D :  On the same P_C_B_ yeah yeah .
+B :  Yeah .
+C :  Yeah .
+B :  Well well the other aspect is that if in the when they have the ar existing product you you gonna maintain the the you're gonna keep the same customer , because the same customer will come back to buy other add-ons .
+D :  Yeah that's right . I mean you could just provide with an optional .
+B :  So so
+B :  Yeah i i so if don't don't buy now they can buy i in the future . So in in that way you're actually keeping the cus the same customer , attracting them to come back in again and again . We're not trying to follow the Microsoft and we don't want to the m
+D :  So it's something like a Microsoft product update . Updates and we sell it . We make updates and sell it .
+A :  And and we we we we we we don't want that .
+B :  Yeah well if the buyers can be up the th would be can be upgraded , it would be a good thing right ? Yeah , it depends on the v production .
+C :  Yeah .
+D :  And uh what's the idea about uh the shape of the remote controls ? Uh can they be made into a fruit and vegetable types ?
+C :  Well so
+C :  Yeah yeah I think we are yeah but we are also the um well the components will have to change because uh we have to deal with the shape and um but I don't think it will uh increase the cost too much so
+D :  Do you require different types of P_C_B_s and
+B :  Mm .
+D :  Or uh it could be like this the P_C_B_ would be the same for all , but only the exterior uh shape is different o for all .
+B :  Mm .
+C :  Uh well but it's a bit complicated to if if if you need machines to different machines to um ah well
+B :  Yeah .
+B :  What we can change is to propose the customers with skins . For example the i the mobile phones nowaday , they sell different kinds of skin and then people just feel that oh I have a new skin and looks better .
+D :  Yeah , yeah that's right .
+C :  Yeah yeah we can have the same global shape and then uh add on skins and with with this uh tex spongy texture uh things like that .
+B :  Yeah .
+B :  Yeah .
+D :  Yeah that's right .
+B :  Yeah .
+B :  Yeah you can pl in what material would that be in uh ?
+D :  I think you need to look into the material .
+C :  Sponge .
+B :  Yeah or furry like a pet dog kind of thing .
+D :  Yeah yeah .
+C :  Okay .
+A :  So
+C :  So we finished the prototype uh presentation if you have uh something else to say .
+D :  I think the Project Manager would be interested to look about the financial issues in making these models .
+A :  Project evaluation project satisfaction , for example .
+A :  I don't know , we have to ask these question . We have to give answers so
+B :  I suppose that you this criteria , is it ?
+A :  Project evaluation .
+B :  Room for creativity . This room is a bit small , but but I think it's okay for us to work with .
+D :  I feel it's fine , we know we don't need uh I think it's okay .
+B :  Yeah mm .
+C :  That was good .
+D :  This is fine for making a presentat for project presentations .
+B :  Mm .
+B :  Yeah anyway we have the laboratory nearby to build our modules so it's okay . Good job good job .
+C :  Yeah .
+A :  Mm-hmm .
+D :  And the leadership was excellent .
+A :  Yeah I think so . He gave you the liberty to talk as you wants .
+C :  Fine yes uh .
+D :  Yeah that's right . Yeah that's right .
+A :  Uh the teamwork was very very good . I was really I am very satisfying to work with
+C :  Very democratic .
+A :  with you . Oh .
+C :  Thank you .
+B :  Thank you .
+C :  Alright .
+B :  Alright .
+D :  And new ideas found . Any new ideas to make these presentations more interactive and more interesting ?
+B :  Mm .
+C :  Come up with new product .
+D :  I mean uh what type of product would you think could we make this more interesting ?
+A :  Less fancy .
+B :  Mm we I I know something , we need more cakes , more biscuits on the table while we have meetings .
+C :  Yeah and also more well uh more seriously I think it's it's a good idea to have uh clear clear points whenever we do a meeting uh prior to the meeting to have uh well a list with the points who will be discussed or things like that , but
+B :  Mm .
+C :  I think it's alright . We achieved uh project goal I think .
+D :  Yeah that is within the budget .
+C :  It's w yes , more or less .
+B :  Mm .
+D :  And the evaluation was
+A :  Without without L_C_D_ , without speech recognition , it will be simple .
+D :  Yeah that's right .
+C :  Yeah but
+C :  Alright .
+D :  And the next is celebration .
+C :  So .
+D :  So
+C :  So uh coffee machine . Okay .
+B :  Alright then , we finished ?
+A :  Yeah free free coffee .
+A :  Yeah thank you for your work and
+D :  Yeah thank you , thank you very much .
+B :  Thank you very much .

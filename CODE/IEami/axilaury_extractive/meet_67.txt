@@ -1,0 +1,449 @@
+welcome to our detailed design meeting 
+
+and then um Ill talk about the minutes from the last meeting  what we d discussed um 
+then well have the prototype presentation
+and a look at the evaluation criteria 
+
+and finally a do a production evaluation
+
+were gonna use a kinetic battery um 
+we want to use a simple chip 
+
+were choosing a latex case w in fruity colours thats curved
+and um were using push buttons uh with a supplement of an onscreen menu 
+
+we made three different prototypes
+
+our colours not are not fixed 
+
+Uh we have the on off button at the tip  very visible  very big 
+We have our up and down buttons 
+which are also gonna be our channel selectors 
+and we have our little menu button here 
+If you push if youre just pushing these normally  theyre the menu buttons  if uh the volume buttons rather 
+If you press select once  they become channel changing buttons 
+
+Thats our number one prototype 
+
+The little lightning bolt in it  very cute 
+
+We call that one the rhombus 
+
+Um this one is known as the potato 
+
+Its an ergonomic shape 
+
+Um Ive gone here just for just for four buttons on this one  Um
+the two blue buttons here are for adjusting the volume 
+So youve got volume up and volume down on the other side here 
+
+Uh this middle button here brings up the onscreen menu
+
+Could the middle button of the onscreen menu function as a power button 
+
+it would make it hard to turn the machine off  to turn your TV off 
+
+And then finally we have um the Martian or the pear  either way 
+Um its a bit different  just a little bit more of a creative feel 
+Uh you have the on off toggle stem on the top 
+
+And then you have on the sides to make it a little bit more threedimensional 
+
+plus its an interesting talking point to have standing up 
+We figured it could stand up like this on your table  if you wanted it to  if I made the bot the bottom flat 
+
+in terms of making decisions  what wed need to do is first of all decide on a form uh which of the three different shapes we want 
+then decide what kind of button layout we want  how many buttons 
+and then to choose what colours we want to make the buttons
+
+normally wed go for fruity colours 
+but maybe were also thinking that your sort of middle aged man  for an example customer  might not want a fruity coloured remote 
+
+but um the f the um feature that we considered for it not getting lost 
+
+we were we were talking about that a little bit
+
+and we think that each of these are so distinctive  that it its not just like another piece of technology around your house 
+Its gonna be somewhere that it can be seen 
+So were were not thinking that its gonna be as critical to have the loss
+
+Would it be very difficult to um just have an external device
+that like I dunno  you tape to your to your TV
+
+a little light beep goes off 
+
+um that when you press it
+
+I think it would be difficult technologically 
+
+and then I wonder if its if its more just a gimmick then anything else 
+
+There might be something that you can do in the circuit board and the chip to make it make a noise or something 
+but it would take a lot more development than we have this afternoon 
+
+Um we so we do weve decided not to worry about that for now 
+
+cause well  the designs are very bright 
+so youre right  theyre gonna stick out 
+
+I sort of like this one 
+
+it just its like small but still sort of like cute looking 
+
+But I dunno how much any of this has to do with the fashionable  sort of cool looking thing
+
+Could we maybe have like an extra button on the top for on off 
+
+Um uh why dont we do a product evaluation using your criteria 
+
+I think were supposed to have one that we do it for 
+
+I was a little vague on what exactly Im supposed to do 
+
+I have to like write something on the whiteboard  so 
+
+Its kind of like uh like a joystick kind of thing 
+
+It makes look more fruity as well 
+
+There it could have a stem like that 
+
+is that where people are leaning then  the potato 
+
+Variety of colours are nice 
+I think Im leaning towards the potato 
+
+thats really gotten the simplicity of the buttons down  that one 
+
+I am worried about like um using a menu 
+
+withing menus there are submenus 
+and so how do you get back to the main menu 
+
+on the iPod  for example  you just every time you wanna go back you hit the menu button again
+
+But that has a menu button separate from a select button 
+
+the up and down buttons are used for scrolling up and down for a list of choices 
+
+Could these be used for going to submenus
+
+maybe it can be one of those 
+
+if you press down and hold
+
+for two seconds  then it brings you back one level or something 
+
+Potato 
+
+some of the things that weve talked about before we need to make sure that that remote actually does conform to the things that we said it was going to 
+
+what we sort of wanna do is that we each need to separately
+rank each of the following things
+and then Ill tabulate an average
+
+and each of you can tell me on a scale of one to seven
+with one being really extremely true
+and seven being not true at all  or false 
+
+First we wanna know if it meets the fancy look and feel um objective 
+
+in my opinion the for now at least  the yellow one is probably somewhere in the middle
+so Im gonna say its like a three 
+
+I I kind of think its its unique enough that Id give it a one or a two 
+
+I dunno if fancy is the word I would use 
+
+and same sort of scale for functionality  is it functional 
+I think its extremely functional 
+
+I think itll get everything done 
+
+then Im gonna give it a two 
+
+Um is it technologically innovative 
+Mm  Not really  I mean not so much 
+cause we we dont have the LCD screen 
+
+the kinetic battery 
+
+How many people would notice that  though 
+
+And if its made of like latex  that whole idea  thats pretty cool 
+
+Think Im gonna go with the four as well 
+
+Um we next wanna see if it has a spongy quality
+and if indeed its made of latex or rubber I its spongy all the way 
+
+Give it a one 
+
+and the next is  does it integrate some notion of fruits and vegetables 
+
+is it gonna be yellow 
+
+We might wanna keep it yellow 
+
+I know it would make it a little less c a little more confusing 
+but if we had all the buttons in black  and a design in and the outside in yellow  thatd be our corporate one
+and we could also have alternative colours  one a more conservative one  one thats more fruity 
+Um and can we have like an RR inscribed on the bottom or something 
+
+it was inspired by the potato 
+so I think its pretty fruity 
+
+I think i its kind of mangoey too 
+
+Thats a much more trendy than a potato
+
+um  and does the design match the appropriate behaviour 
+Remember earlier we discussed that people dont use a lot of buttons 
+
+so Im gonna give it a one 
+
+also we talked earlier about RSI and wanting to prevent um any sort of like Carpal Tunnely kind of thing 
+Do we think that the latex sort of grip appropriately takes that into account 
+I think Ill give it a two 
+
+And if its repetitive movement it is gonna be only four buttons that youre constantly pushing 
+
+And the ease of learning it 
+
+The menu system and the the fact that multiple buttons are used for different things might be a bit confusing 
+but I think if its one its one of those things that it might take you five minutes to figure out  but youll have it afterwards 
+So Id I think Id give it a two I guess 
+
+because you have to you have to use the menu system
+and you have to tell it what your favourite channels are
+and that could take a bit of learning at first 
+
+So Id Id give it a four 
+
+also earlier we had something about losing it
+and so now were not addressing that at all 
+
+I think we can kind of say we addressed it with colour 
+
+Im gonna Im gonna give it a four 
+
+how w how well does it address just being simple 
+
+Um it like wants to be simple but its not like totally totally simple 
+
+Im give it a three I guess 
+
+and fashionable 
+
+Its totally fashionable 
+
+I think its bringing technology and fashion together real really well 
+
+And does it meet our like demographic need sort of for international appeal  that whole thing 
+
+if we offer in a in at least three different colour arrangements 
+
+So Ill give it a a two 
+
+we didnt we didnt address the fact that it does need to b have a corporate logo 
+so lets lets make sure we keep that in mind that we ha that one of our colours concepts is corporate and has an RR on it 
+
+I think all of them should have an RR 
+
+now were gonna look at finances 
+Um I have an Excel sheet that were actually gonna calculate the cost um 
+
+Were using kinetic battery 
+
+Simple 
+
+Guess its doublecurved 
+
+dont we need plastic  and
+
+It was rubber and special colour 
+
+were using were gonna need at least two special colours 
+
+I dont know what the se the basic colour is though 
+
+like well have yellow and black 
+
+Maybe the RR will be in colour as well 
+
+And how many buttons do we have 
+
+We have six 
+
+the case material will just have one colour 
+
+but then the buttons will be in special colours 
+
+Special form 
+
+I think theyre fine 
+Material  we want them rubber as well probably  yeah 
+
+Thirteen point seven 
+
+what can we reduce 
+
+lets have our buttons all be one colour 
+
+Maybe its singlecurved 
+
+Its single curved 
+
+case material is rubber
+and its a special colour 
+
+It was it was thirteen
+and now its fifteen 
+
+Now its twelve 
+
+What was our target price again 
+
+Twelve point five 
+
+So were okay  I think 
+
+Um are the are the costs under twelve fifty Euro 
+
+Yes 
+
+Lets move on to the project evaluation 
+Project process  Satisfaction with for example the room for creativity  leadership  teamwork  the means  any new ideas found 
+
+So I guess what were gonna talk about here is just evaluating how we created this project 
+the information we got on the news  how we used it 
+if we were able to um  you know  use our creativity with the information 
+um how how well I guess I led it 
+um the how well we worked together as a team 
+um the digital pens 
+
+the whiteboard 
+
+I felt very creative 
+
+I think weve been successful
+
+I enjoyed making the prototypes 
+
+I think we couldve done even better with a little bit more information 
+like whats a singlecurved case 
+
+but given given what we had I think that we did we did really well 
+
+if Id had more market research on the fruits and vegetables  maybe we couldve taken that into account 
+
+I thought the pen was a little distracting for me personally 
+
+That was the last one  like I chose not to do a PowerPoint
+
+I think we all made um very significant contributions 
+I dont think anybody dominated it 
+
+Mm  What did we find for new ideas 
+People should really base their remotes on fruits and vegetables 
+I I am really into the idea of kinetic batteries now after reading about them 
+
+Is the project evaluated 
+
+Yes 
+
+theres the final questionnaire and meeting summary 
+
+this is the great product kids 
+
+and that we have a market for it  um especially if we can produce it at twelve point three
+
+Make sure in your questionnaire to put down criticisms of both the process and the um the final results
+
+I do like the Martian remote 
+If we could choose more than one  that would be my second choice 
+Although the tog toggle
+
+I would break it  I would break it 
+
+Is it started as a pear 
+
+Kind of looks like a penguin  like with no eye 
+
+Nothing will come up until after our meetings supposed to be over 
+
+otherwise the technology today was kinda cool 
+
+I got more master classes 
+
+what did I get through the corporate website 
+Its just inspiration about circuit boards 
+
+the Excel thing is pretty cool 
+
+I learned a lot actually 
+I could probably take apart a remote control now if I really needed to 
+
+I wrote it all down 
+because I thought it would be relevant  like all the different parts of the inside of a remote control 
+but then theyre like  you dont actually need this
+
+I I thought it was a little tricky having to hand around this thing 
+
+We didnt we didnt use the whiteboard that much 
+
+Although I dont see how we could have very l at least for me
+
+and I think usually  like whiteboards are good  you know like crossing out ideas  or like if we had had like a brainstorming period 
+
+we couldve put our brainstorming stuff up there rather than just talking about it 
+
+And with and with the PowerPoint that we can all look at  like you can do all those things pretty much on PowerPoint
+
+cause we all needed them separately  kind of on the whiteboards in this room 
+
+when you were um creating your um prototypes here  did you work together or did you like do separate projects 
+
+Uh we we worked together 
+
+we sort of made different shapes
+
+well done with the management  I felt well managed 
+
+I think we did well in first of all giving our meetings the time 
+
+Its kinda fun 
+
+we we did a good job of making firm decisions at the ends of the meetings 
+
+I know what happens sometimes is that you tend to sort of have meetings and then people sorta drift away without anything actually really being decided 
+But I think here we got we got clear and and decisive decisive points at the end of the meetings 
+
+I think the last time we had a lot of information  but at the same time not quite enough 
+
+like we we couldnt answer every single question 
+
+And I I felt the first two meetings  that I was coming in with no information 
+
+Um  Im a little I am a little disappointed that we didnt do a um something for losing the remote 
+
+Just gonna make Im making full minutes 
+so that itll include all of the agenda and all that 
+
+How much of your PowerPoint was already done for you 
+
+Most of it 
+
+I didnt even think about adding slides 
+cause I would just get slides with titles on them
+
+I think the R and R  especially if the yellow and black one 
+
+I think we just need the um the RR 
+
+cause they didnt give me any clear  like yellow  grey  or 
+
+I guess it is black  grey 
+
+I just feel like if youre really doing like a a really big market evaluation  you wouldnt just have like one set of source 
+

@@ -1,0 +1,377 @@
+This is our final meeting  the detailed design meeting 
+
+what we have to get through in this meeting is firstly the prototype presentation from you two 
+so you can show us what youve been working on so diligently 
+
+It does look very cool 
+
+then Cats going to present the evaluation criteria that were going to be evaluating this against 
+Then I need to say some st a few things about finance 
+cause we have to check that its within the finance criteria 
+Um and then well be making sure that our product fits both the evaluation criteria from Cat and the financial limits 
+Um and then we uh will have a brief evaluation of the whole process of production and design that weve been through 
+
+so will you maybe start with like the mm the shape and things
+and and then I will explain the the user interface th uh things  like the buttons and the scrolling things and
+
+Okay  So um basically going with our trend of vegetables and we selected the colour and approximate shape of banana 
+
+You think bananas are a safe thing to use 
+Its a bit um phallic 
+
+Well  but its its just an a approximation 
+
+Um so basically its the its the flip open thing again 
+
+And it flips open on the side  so it opens like that 
+And we have the user interface o in here
+and uh the the LCD and and the scroll are inside 
+
+And its the whole things made of rubber  is that
+
+so I would say that this curvy does look quite like a vegetable 
+
+yeah  but um one thing we actually kind of um forgot while designing  that one side was supposed to be rounder 
+
+Is it to scale  or do you think you can make it a bit smaller 
+
+Um it could be made a bit smaller 
+
+So so uh the user interface as as we discussed last time uh mm on on the on the cover we just have the very basic things 
+So we have that n uh channels here starting from um uh one two three
+
+So its four  up to four  up to seven  up to nine and zero  z zero here 
+
+And then  well this is on off button 
+
+and and also the colour is quite often red 
+
+And then these ones would be for flipping the channels back and
+
+And and we would also have a l little um thing saying here  previous and ne prevon prevon next 
+The volume is is scrolling 
+On the side 
+
+And and and its its on the back is mm cover or back lid  because if you flip it open  you can still do the scrolling here 
+
+and and you have the mm spinning wheel with options to choose 
+
+Oh  the thing we forgot was like a mute button 
+
+Well  well have this on the screen  on the display 
+
+On the wheel  like if you hold the wheel down then it will mute 
+
+Uh on the LCD we r you know  the main menu will have various options 
+
+yeah  the scrolling is kind of you have to scroll all the way to make it mute  right 
+
+if its a scroll and click so you hold it in 
+
+But if you hold it in 
+
+And okay  so i so the the voice recognition is also just part of it 
+You cant really see it in the interface 
+
+And its with the the black and yellow youre even in the right colours 
+
+Yeah  I think um we could do l the logo in grey  as it is on the website 
+
+I suspect were gonna have a couple of minor finance issues 
+but um well se Im sure we can get around them somehow 
+
+So what were gonna do is prefer prepare the evaluation of the new design 
+Um so were gonna be using a seven point scale 
+so one is  you know  yes  it totally meets with that requirement
+and seven is  no  it really doesnt  we need to go back and start again 
+Um  you know  Basically  what I did was I went through all the like user requirements and things that weve done and weve worked on and like made a list of them 
+
+So for each of these we need to give it a one to seven 
+
+I did have A  B  C  and D down here 
+but it seems to have turned into like just bullet points 
+Okay  But if you can imagine that they say A  B  C  and D  then that would be really good 
+
+Okay um uh what Ive done on the next page is Ive set it up so we just put the marks in 
+
+If you take a note of them 
+
+lefthanded people cant normally write righthanded 
+
+Um the the only thing that we were considering was that uh this thing is kind of more for righthanded people than for lefthanded people 
+
+Does it match the operating behaviour of the user 
+
+so y so we we might do we might want to do like a uh another m model another another version  which is like exactly the mirror image of this one 
+
+So maybe we need to put that needs a little bit of investigation 
+maybe give it a five  I would say 
+
+Or maybe six 
+
+It might be a little clumsy when when it opens up  right 
+
+I th I think the alternative is flipping from the top 
+
+Yeah  but we which makes it kind of really big  yeah 
+
+or are we saying were gonna stick a locator on the TV 
+
+th theres the locator dot 
+
+Mm that you stick on TV 
+
+so that means you need a that does mean you need a little speaker on it though 
+
+To make it beep 
+
+so thats seven  yeah 
+
+If uh uh if this means intuitive  if it means the way people kind of are used to finding things
+
+Id say six 
+cause the I mean the the standard layout for numbers is three three three and one  rather than the way youve got it 
+
+but its not the immediate thing that youre used to 
+
+but uh its a good technology  I mean once they get used to it 
+
+So  should we maybe say f a five
+
+so possibly for lefthanded  Investigate 
+
+But otherwise its superb 
+
+So  should we give it a six 
+
+Um uh the ergonom ergonomic design
+well mm I mean I d uh I dunno  I mean the the repetitive stress things 
+but then who would be really pushing the buttons so much on the on the remote control anyway 
+
+And moreover it it has um LCD and everything 
+so that uh you know uh we minimise the pressing of the buttons anyway 
+
+Okay  so we give that a six 
+
+G technologically innovative 
+
+its the most sophisticated remote that I ever seen 
+
+Well mm we have we have the sample speaker as well  which is yeah  its kind of new 
+
+All of the components have been used in other things before 
+
+Theyre never been used i theyve never been using remote remote control before I dont think 
+
+What do you reckon  five  six 
+
+Six 
+
+Put fashion in electronics 
+
+Fruit fruit and vegetables are fashionable these days  so 
+
+So  we need the average here 
+
+So I think weve done very well 
+
+The average is about six and something 
+
+Six point five  yeah 
+
+thats pretty good  I think 
+
+so weve looked at the prototype presentation and the evaluation criteria 
+And now we have to calculate the production costs 
+So Ive got an Excel spreadsheet to help us do that 
+
+Um I started filling it in 
+
+No hand dynamo  right 
+One simple battery 
+
+The chip  were going for an advanced chip on print 
+We also said the sample sensor and sample speaker 
+Um singlecurved surface  so that we can fold it 
+Case material we said rubber 
+I dont know what special colour means 
+
+I think something coloured 
+
+but rubber comes coloured  doesnt it  You know 
+
+maybe its like if you want titanium coloured or wood coloured  its different 
+
+Or maybe maybe if you want some kind of pattern thing on it 
+
+We have pushbuttons 
+
+Scroll wheel with pushbutton we had  no 
+
+And we have LC display
+
+And button supplements 
+
+Yeah  but what do we ha we have LC display  but but the wh but the s spinning wheel
+
+Weve got more than one pushbutton though 
+
+That means you can only have twenty five push buttons in total doesnt it 
+
+That seems unlikely 
+
+whether whether pushbutton means that p count by button or do we
+
+We have to count all of them 
+
+I dont think that makes sense 
+
+if it is pushbutton then you got a zero point five 
+its a scroll wheel so we weve put its pushbutton and scroll wheel and LCD display 
+
+So  as we can see  thats way too expensive down here 
+Our budgets twelve point five 
+
+Yeah  the sample sensor will have to go 
+cause thats the most expensive thing on there 
+
+so that has implications though for the 
+
+Uh it does not have for voice recognition 
+but it does have for the feedback speaker 
+when you say when you press one it says one or it says hello 
+
+But thats a bit of a gimmick anyway really  isnt it 
+
+Mm and the locator also goes away 
+
+Well the speaker uh the sample speaker is is expensive 
+but we could just have some some very very easy device that just beeps 
+
+A also i in the case Im not sure that you will evaluate this as a curved surface 
+because its just rubber  so its probably a flat surface rubber 
+
+Right  so we need one fifty off 
+Take it down to just a scroll wheel 
+
+in the LCD we can scroll  right 
+
+how do we how do we make a selection in uh in the LCD 
+
+But how do we make a selection if we d cannot push the button 
+
+you can push this one 
+but we dont have a pushbutton uh we ca we dont have this muting mechanism for this scrolling thing 
+
+So thats point three 
+
+and I thought we were referring to this as a scroll spinning wheel and pushbutton thing 
+
+The scroll wheel is on the side 
+Were point three over at the moment 
+
+Unless we just take off the scroll wheel altogether
+and just have pushbuttons for the volume 
+
+Instead of scrolling here we have two buttons here  up for up and down 
+
+Oh look  were way under budget
+
+Yeah  well we could admit to the single curve  couldnt we 
+
+Or or that we have to have some sort of special colour 
+
+So did we lose um on our evaluation criteria  as a result of doing that 
+
+No  I dont think so 
+
+Because we keep all the features 
+we keep voice recognition 
+we keep LCD display 
+
+instead of having scrolling we we just push the buttons 
+
+But we lose the locator 
+
+so we still have the locate 
+
+Were gonna have a beep 
+
+It can come in the same colour as the the case 
+
+so it would be good if we could just have a little talk about the project itself and how it went 
+um so that we can feed back to the management for next time theyre designing a product 
+
+as far as creativity is concerned  yeah I think there was there was room for creativity 
+The only the only problem being that at the end we had to cut some things down because of the the budget we had 
+
+I think uh n one thing that was lacking uh was that we did not know what the various things cost to begin with 
+
+If wed had that sheet at the beginning shouldve been like  okay  so we can have that lot  lets just throw it together and do what we can 
+
+But in terms of the process of um going and working individually and then coming back to a meeting  that that worked in terms of 
+
+I think cause the meetings were so regular  you know 
+
+Yeah  the m the means were very very good  the means we used 
+
+the whiteboard digital pens 
+We like the pens 
+
+But that worked well having having a whiteboard that we could draw on as well as having the PowerPoint 
+
+I was I was satisfied with with the leadership  yeah 
+
+Yeah  and and and this time also the time limits but actually preparing the
+
+I mean especially with that lastminute alteration 
+
+I mean that was fairly tight anyway 
+
+But yeah  but I mean already just just preparing the slides before before the meeting  yeah 
+
+You werent like a a dictating leader  so that was always good 
+
+And then the teamwork I think I think it worked quite quite nicely  yeah 
+
+Did anyone feel that they were getting sort of covered up and not being able to say their bit 
+
+Mm  I guess it was a fairly small group 
+so all of us got to express our opinions  yeah 
+
+New ideas found 
+Not quite sure what about 
+
+Well its its its pretty new 
+
+I think wed like to think the ideas were new 
+
+costs are within budget 
+
+One Euro left over for bits that we didnt foresee 
+Um weve evaluated the project 
+
+Can you put that in the project documents file 
+
+And the process wheel didnt really have any major problems with 
+
+And my main difficulty was the the time pressure 
+
+sometimes its like a little bit rushed 
+
+weve got like five minutes left 
+
+but if weve finished  then weve finished 
+
+Yeah  it was a pleasure working with you 
+
+So I would say thats the end of that meeting 
+
+Right  so we have to complete the final questionnaire and meeting summary when they send it 
+
+Was there a questionnaire already sent 
+
+Do we have to go back into the other room or can we stay in here now 
+
+I dont see why you cant stay here  really 
+
